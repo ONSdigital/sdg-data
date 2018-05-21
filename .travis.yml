@@ -16,4 +16,3 @@ script:
   - python ./scripts/check_csv.py
   - python ./scripts/check_metadata.py
   - python ./scripts/build_data.py
-  - python ./scripts/build_metadata.py
