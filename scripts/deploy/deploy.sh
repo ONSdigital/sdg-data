@@ -54,6 +54,8 @@ fi
 
 # Commit the "changes", i.e. the new version.
 # The delta will show diffs between new and old versions.
+ls
+git remote -v
 git add -A .
 git reset .gitignore
 git commit -m "Deploy ${SHA} from branch ${TRAVIS_BRANCH}"
