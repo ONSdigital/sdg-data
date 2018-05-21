@@ -30,7 +30,7 @@ from sdg.path import input_path  # local package
 def get_git_update(inid, ftype):
     """Change into the working directory of the file (it might be a submodule)
     and get the latest git history"""
-    f = input_path(inid, ftype=ftype, mode='r')
+    f = input_path(inid, ftype=ftype)
     f_dir, f_name = os.path.split(f)
     
     repo = git.Repo(f_dir, search_parent_directories=True)

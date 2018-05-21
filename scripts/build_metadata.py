@@ -10,27 +10,27 @@ import os
 # Local modules
 import yamlmd
 import sdg
-from sdg.path import indicator_path  # local package
+from sdg.path import input_path, output_path  # local package
 
 
 # %% Get all new metadata
 
 
-def build_meta(inid):
+def read_meta(inid):
     """Perform pre-processing for the metadata files"""
     status = True
     # Read and write paths may be different
-    fr = indicator_path(inid, ftype='meta', mode='r')
-    fw = indicator_path(inid, ftype='meta', mode='w')
+    fr = input_path(inid, ftype='meta')
 
-    meta = yamlmd.read_yamlmd(fr)
+    meta_md = yamlmd.read_yamlmd(fr)
+    meta = dict(meta_md[0])
     git_update = sdg.git.get_git_updates(inid)
 
     for k in git_update.keys():
-        meta[0][k] = git_update[k]
-    yamlmd.write_yamlmd(meta, fw)
+        meta[k] = git_update[k]
+    meta['page_content'] = ''.join(meta_md[1])
 
-    return status
+    return meta
 
 # %% Read each csv and run the checks
 
@@ -43,12 +43,15 @@ def main():
     print("Building " + str(len(ids)) + " metadata files...")
     
     # Make sure they have somewhere to go
-    out_dir = indicator_path(ftype='meta', mode='w')
+    out_dir = output_path(ftype='meta', format='json')
     os.makedirs(out_dir, exist_ok=True)
 
     for inid in ids:
         try:
-            status = status & build_meta(inid)
+            meta = read_meta(inid)
+            
+            status = status & sdg.json.write_json(inid, meta, ftype='meta')
+            
         except Exception as e:
             status = False
             print(inid, e)
