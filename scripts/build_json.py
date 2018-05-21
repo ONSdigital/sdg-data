@@ -5,7 +5,14 @@ Created on Wed Mar 21 13:29:46 2018
 @author: dashton
 
 The script will combine the main csv data and the edge data and write out in
-JSON format to be loaded directly by the site
+JSON format to be loaded directly by the site.
+
+The nan-to-none code is a bit long but support for converting to json has
+varied between python versions and this code seemed necessary to allow
+the code to run anywhere.
+
+Now that we're building on 3.6 fairly reliably we could move towards a pandas
+version but I'm keeping it as it can be useful for nested json.
 """
 
 
