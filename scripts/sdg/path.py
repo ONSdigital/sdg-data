@@ -16,12 +16,6 @@ import os
 # Paths to raw data and metadata relative to project root
 # root_dir = os.path.dirname(os.path.realpath(__file__))
 root_dir = ''
-#in_meta_dir = os.path.join(root_dir, 'ext-data', '_indicators')
-#in_data_dir = os.path.join(root_dir, 'ext-data', 'data')
-in_meta_dir = os.path.join(root_dir, '_indicators')
-in_data_dir = os.path.join(root_dir, 'data')
-out_meta_dir = os.path.join(root_dir, '_indicators')
-out_data_dir = os.path.join(root_dir, 'data')
 
 # %% Get the IDs by scanning the metadata directory
 
@@ -34,61 +28,77 @@ def extract_id(md_path):
 
 
 def get_ids():
-    mds = glob.glob(os.path.join(in_meta_dir, '*-*.md'))
+    mds = glob.glob(os.path.join(input_path(ftype='meta'), '*-*.md'))
     ids = [extract_id(md) for md in mds]
 
     return ids
 
 
+# %% From ID get input path
+
+
+def input_path(inid=None, ftype='data', must_work=False):
+    """Return path of input data and metadata for a given ID
+    
+    Args:
+        inid: str. Indicator ID with no extensions of paths, eg '1-1-1'.
+            If it is None then return the directory path for this ftype.
+        ftype: str. Which file related to this ID? One of:
+            1. data: Main indicator data
+            2. meta: Indicator metadata
+    """
+
+    expected_ftypes = ['data', 'meta']
+    if ftype not in expected_ftypes:
+        raise ValueError("ftype must be on of: " + ", ".join(expected_ftypes))
+
+    if ftype == 'data':
+        path = os.path.join('data')
+        if inid is not None:
+            path = os.path.join(path, 'indicator_' + inid + '.csv')
+    elif ftype == 'meta':
+        path = os.path.join('_indicators')
+        if inid is not None:
+            path = os.path.join(path, inid + '.md')
+    
+    return path
+
+
 # %% From ID give file path
 
 
-def indicator_path(inid=None, ftype='data', mode='r', must_work=False):
+def output_path(inid=None,  ftype='data', format='json',must_work=False):
     """Convert an ID into a data, edge, headline, json, or metadata path
 
     Args:
-        inid: str. Indicator ID with no extensions of paths, eg '1-1-1'. If it
-          is None then return the directory path for this ftype
+        inid: str. Indicator ID with no extensions of paths, eg '1-1-1'.
+            Can also be "all" for all data. If it is None then return
+            the directory path for this ftype.
         ftype: str. Which file related to this ID? One of:
-            1. data: The csv data path
-            2. meta: The md page file
+            1. data: Main indicator data
+            2. meta: Indicator metadata
             3. edges: The edge file generated from data
-            4. headlines: The headline csv file
-            5. json: The json generated data
-        mode: str. Is this for reading ('r') or writing ('w')? This can be
-            different if the build reads raw data from one location and writes
-            to another.
+            4. headline: The headline data generated from data
+        format: str. What data type. One of:
+            1. json
+            2. csv
         must_work: bool. If True an IOError is thrown if the file is not found.
 
     Returns:
         path to the file. If the root_dir is set this will form the base.
     """
     # Check that the input makes sense
-    expected_ftypes = ['data', 'meta', 'edges', 'headlines', 'json']
+    expected_ftypes = ['data', 'meta', 'edges', 'headline']
     if ftype not in expected_ftypes:
         raise ValueError("ftype must be on of: " + ", ".join(expected_ftypes))
 
-    prefix = 'indicator_'
-    ext = '.csv'
-    data_dir = in_data_dir if mode=='r' else out_data_dir
-    meta_dir = in_meta_dir if mode=='r' else out_meta_dir
-    if ftype == 'data':
-        path = data_dir
-    elif ftype == 'meta':
-        prefix = ''
-        ext = '.md'
-        path = meta_dir
-    elif ftype == 'edges':
-        path = os.path.join(data_dir, 'edges')
-        prefix = 'edges_'
-    elif ftype == 'headlines':
-        path = os.path.join(data_dir, 'headlines')
-        prefix = 'headlines_'
-    elif ftype == 'json':
-        path = os.path.join(data_dir, 'json')
-        ext = '.json'
-    else:
-        raise ValueError("Unknown ftype")
+    expected_formats = ['csv', 'json']
+    if format not in expected_formats:
+        raise ValueError("format must be on of: " + ", ".join(expected_formats))
+
+    ext = '.csv' if format == 'csv' else '.json'
+    path = os.path.join(ftype, format)
+    prefix = ''
 
     # Get the directory path
     if inid is None:

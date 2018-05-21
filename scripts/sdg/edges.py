@@ -22,25 +22,22 @@ import pandas as pd
 import numpy as np
 import glob
 import itertools
-import os.path
+import os
+from sdg.path import output_path
 
 # %% Check correct columns - copied from csvcheck
 
 
-def check_headers(df, csv):
+def check_headers(inid, df):
     """This is copied from csv check but the primary goal is to check that
-    the csv headers are appropriate for edge detection"""
-    status = True
+    the inid headers are appropriate for edge detection"""
     cols = df.columns
 
     if cols[0] != 'Year':
-        status = False
-        print(csv, ': First column not called "Year"')
+        raise ValueError(inid + ': First column not called "Year"')
     if cols[-1] != 'Value':
-        status = False
-        print(csv, ': Last column not called "Value"')
+        raise ValueError(inid + ': Last column not called "Value"')
 
-    return status
 
 # %% Detect the edges
 
@@ -54,7 +51,7 @@ def x_without_y(x, y):
     return np.any(y.isnull() & x.notnull())
 
 
-def detect_all_edges(df, csv):
+def detect_all_edges(inid, df):
     """Loop over the data frame and try all pairs"""
     cols = df.columns
     # Remove the protected columns
@@ -116,74 +113,27 @@ def prune_grand_parents(edges):
     return edges
 
 
-# %% Write out edges for one csv
+# %% Write out edges for one inid
 
 
-def run_edge_detection(csv):
+def edge_detection(inid, df):
     """Check dependencies between columns and write out the edges
 
     If there are any problems return False as this is part of the build.
 
     Args:
-        csv (str): The file name that we want to check
+        inid (str): The indicator id for printing
+        df (pandas DataFrame): The indicator data read from raw csv
 
     Returns:
-        bool: Status
+        DataFrame: edge data frame
     """
-    status = True
-
-    try:
-        df = pd.read_csv(csv)
-    except Exception as e:
-        print(csv, e)
-        return False
-
     # Run through the check functions
-    if not check_headers(df, csv):
-        return False
-
-    # Get the edges
-    try:
-        edges = detect_all_edges(df, csv)
-        edges = prune_grand_parents(edges)
-    except Exception as e:
-        print(csv, e)
-        return False
-
-    # Write out the edges
-    try:
-        # Build the new filename
-        csv_file = os.path.split(csv)[-1]
-        edge_file = csv_file.replace('indicator', 'edges')
-        edge_path = os.path.join('data', 'edges', edge_file)
-        # Write out
-        edges.to_csv(edge_path, index=False, encoding='utf-8')
-    except Exception as e:
-        print(csv, e)
-        return False
-
-    return status
-
-
-# %% Read each csv and run the checks
-
-
-def main():
-    """Run csv checks on all indicator csvs in the data directory"""
-    status = True
-    # Create the place to put the files
-    os.makedirs("data/edges", exist_ok=True)
+    check_headers(inid, df)
     
-    csvs = glob.glob("data/indicator*.csv")
-    print("Running edge detection for " + str(len(csvs)) + " csv files...")
+    # Get the edges
+    edges = detect_all_edges(inid, df)
+    edges = prune_grand_parents(edges)
+    
+    return edges
 
-    for csv in csvs:
-        status = status & run_edge_detection(csv)
-    return(status)
-
-if __name__ == '__main__':
-    status = main()
-    if(not status):
-        raise RuntimeError("Failed edge detection")
-    else:
-        print("Success")

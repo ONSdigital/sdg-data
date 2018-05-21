@@ -5,4 +5,6 @@ __author__ = "Doug Ashton <dashton@mango-solutions.com>"
 
 # Load key components
 from . import path
+from . import data
 from . import git
+from . import edges
