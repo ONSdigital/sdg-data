@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/mangothecat/sdg-data.svg?branch=develop)](https://travis-ci.org/mangothecat/sdg-data)
 
-This repository holds the UK data for SDGs. The data is served
+This repository holds the UK data for SDGs. The data is served via a static http server.
 
 Routes:
 
