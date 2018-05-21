@@ -16,3 +16,14 @@ script:
   - python ./scripts/check_csv.py
   - python ./scripts/check_metadata.py
   - python ./scripts/build_data.py
+deploy:
+- provider: script
+  script: scripts/deploy/deploy_staging.sh
+  skip_cleanup: true
+  on:
+    branch: develop
+- provider: script
+  script: scripts/deploy/deploy.sh
+  skip_cleanup: true
+  on:
+    branch: master
