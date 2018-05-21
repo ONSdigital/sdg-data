@@ -21,24 +21,33 @@ import sdg
 def main():
     """Read each input file and edge file and write out json."""
     status = True
-    
+
     ids = sdg.path.get_ids()
     print("Processing data for " + str(len(ids)) + " indicators...")
 
     for inid in ids:
         # Load the raw
         inid_data = sdg.data.get_inid_data(inid)
-        
+
         # Compute derived datasets
         edges = sdg.edges.edge_detection(inid, inid_data)
         headline = sdg.data.filter_headline(inid_data)
-        
-        # Output all the things
+
+        # Output all the csvs
         sdg.data.write_csv(inid, inid_data, ftype='data')
         sdg.data.write_csv(inid, edges, ftype='edges')
         sdg.data.write_csv(inid, headline, ftype='headline')
-        
-        
+        # And JSON
+        data_dict = sdg.json.df_to_list_dict(inid_data, orient='list')
+        edges_dict = sdg.json.df_to_list_dict(edges, orient='list')
+
+        sdg.json.write_json(inid, data_dict, ftype='data', gz=False)
+        sdg.json.write_json(inid, edges_dict, ftype='edges', gz=False)
+
+        # combined
+        inid_all = {'data': data_dict, 'edges': edges_dict}
+        sdg.json.write_json(inid, inid_all, ftype='comb', gz=False)
+
     return(status)
 
 

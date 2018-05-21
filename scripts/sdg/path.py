@@ -79,6 +79,7 @@ def output_path(inid=None,  ftype='data', format='json',must_work=False):
             2. meta: Indicator metadata
             3. edges: The edge file generated from data
             4. headline: The headline data generated from data
+            5. comb: combined data and edge data
         format: str. What data type. One of:
             1. json
             2. csv
@@ -88,7 +89,7 @@ def output_path(inid=None,  ftype='data', format='json',must_work=False):
         path to the file. If the root_dir is set this will form the base.
     """
     # Check that the input makes sense
-    expected_ftypes = ['data', 'meta', 'edges', 'headline']
+    expected_ftypes = ['data', 'meta', 'edges', 'headline', 'comb']
     if ftype not in expected_ftypes:
         raise ValueError("ftype must be on of: " + ", ".join(expected_ftypes))
 

@@ -12,6 +12,9 @@ data/<format>/<id>.<ext>
 data/csv/1-2-1.csv
 data/json/1-2-1.json
 
+# data and edges
+comb/json/1-2-1.json
+
 data/<format>/all.<ext>
 
 meta/json/<id>.json

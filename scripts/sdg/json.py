@@ -25,8 +25,7 @@ import math
 import json
 import gzip
 # cd scripts, then cd .. when interactive
-import sdg.path
-from sdg.path import indicator_path  # local package
+from sdg.path import output_path
 
 # %% NaNs to None
 
@@ -78,69 +77,43 @@ def df_nan_to_none(df, orient):
     else:
         raise ValueError("orient must be a list or a records")
 
-# %% Get the edge data if it's there
-
-
-def get_edge_data(inid, orient):
-    """Read the edge file associated with a main data csv and return as a
-    json ready object
-
-    Args:
-        inid --- str. indicator id. e.g. '1-1-1'
-        orient --- either 'records' for rowwise, or 'list' for colwise
-
-    Return:
-        Depending on orient either a list of dicts (rowwise) or dict of lists
-        (colwise)
-    """
-    try:
-        edges = pd.read_csv(indicator_path(inid, 'edges', mode='w'),
-                            encoding='utf-8')
-    except Exception as e:
-        print(inid, e)
-        return False
-
-    if edges.shape[0] < 1:
-        return list()
-    else:
-        return df_nan_to_none(edges, orient=orient)
 
 # %% Get the main data
 
 
-def get_main_data(inid, orient='records'):
-    """Read the main csv data and return as a json ready object
+def df_to_list_dict(df, orient='records'):
+    """Convert a dataframe into a dict or a list that is ready to convert to JSON
 
     Args:
-        inid --- str. indicator id. e.g. '1-1-1' 
+        df --- pandas DataFrame.
         orient --- either 'records' for rowwise, or 'list' for colwise
 
     Return:
         Depending on orient either a list of dicts (rowwise) or dict of lists
-        (colwise)
+        (colwise). Any empty data frame returns and empty list.
     """
-    try:
-        df = pd.read_csv(indicator_path(inid, 'data', mode='w'),
-                         encoding='utf-8')
-    except Exception as e:
-        print(inid, e)
-        return False
 
+    # Check that the input makes sense
+    expected_orient = ['list', 'records']
+    if orient not in expected_orient:
+        raise ValueError("orient must be on of: " + ", ".join(expected_orient))
+   
     if df.shape[0] < 1:
         return list()
     else:
         return df_nan_to_none(df, orient=orient)
 
-# %% Build JSON data
+# %% Write one data frame to JSON
+    
 
-
-def write_json(inid, orient='list', gz=False):
-    """Write out the main csv and edge data as a single json file. This can
+def write_json(inid, obj, ftype='data', gz=False):
+    """Write out the supplied object as a single json file. This can
     either be as records (orient='records') or as columns (orient='list').
 
     Args:
         inid -- str: The indicator id, e.g. '1-1-1'
-        orient -- str: either 'records' for rowwise, or 'list' for colwise
+        obj -- dict or list: A json ready dict/list
+        ftype -- str: Output type. Used to find the path
         gz -- bool: if True then compress the output with gzip
 
     Return:
@@ -148,24 +121,30 @@ def write_json(inid, orient='list', gz=False):
     """
 
     try:
-        all_data = {'data': get_main_data(inid, orient=orient),
-                    'edges': get_edge_data(inid, orient=orient)}
-        all_json = pd.io.json.dumps(all_data)
-        all_json = all_json.replace("\\/", "/")  # why does it double escape?
-    
+        out_json = pd.io.json.dumps(obj)
+        out_json = out_json.replace("\\/", "/")  # why does it double escape?
+        
+        json_dir = output_path(ftype=ftype, format='json')
+        if not os.path.exists(json_dir):
+            os.makedirs(json_dir, exist_ok=True)
+
+        json_path = output_path(inid,  ftype=ftype, format='json')
+
         # Write out
         if gz:
-            json_bytes = all_json.encode('utf-8')
-            with gzip.open(indicator_path(inid,'json', mode='w') + '.gz', 'w') as outfile:
+            json_bytes = out_json.encode('utf-8')
+            with gzip.open(json_path + '.gz', 'w') as outfile:
                 outfile.write(json_bytes)
         else:
-            with open(indicator_path(inid,'json', mode='w'), 'w', encoding='utf-8') as outfile:
-                outfile.write(all_json)
+            with open(json_path, 'w', encoding='utf-8') as outfile:
+                outfile.write(out_json)
     except Exception as e:
         print(inid, e)
         return False
 
     return True
+
+
 
 # %% Compare reloads
 
