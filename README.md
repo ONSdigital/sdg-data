@@ -4,8 +4,9 @@
 
 This repository holds the UK data for SDGs. The data is served via a static http server.
 
-Routes:
+# Routes:
 
+## Data
 ```
 data/<format>/<id>.<ext>
 
@@ -16,15 +17,24 @@ data/json/1-2-1.json
 comb/json/1-2-1.json
 
 data/<format>/all.<ext>
+```
 
+## Metadata
+
+```
 meta/json/<id>.json
 meta/json/all.json
 
-headline/<format>/<id>.<ext>
-
-headline/json/all.json
 ```
 
+## Build time routes
+
+```
+
+headline/<format>/<id>.<ext>
+headline/json/all.json
+
+```
 
 Scripts:
 
