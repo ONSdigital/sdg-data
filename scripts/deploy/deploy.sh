@@ -36,6 +36,7 @@ cd ..
 # Overwrite contents with _site
 rm -rf out/**/* || exit 0
 cp -r _site/* out/
+cp README.md out/
 
 # Now let's go have some fun with the cloned repo
 cd out
