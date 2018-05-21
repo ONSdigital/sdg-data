@@ -23,13 +23,9 @@ deploy:
   script: scripts/deploy/deploy_staging.sh
   skip_cleanup: true
   on:
-    branches:    
-      only:      
-        - develop
+    branch: develop
 - provider: script
   script: scripts/deploy/deploy.sh
   skip_cleanup: true
   on:
-    branches:    
-      only:      
-        - master
+    branch: master
