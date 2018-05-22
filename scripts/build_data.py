@@ -48,6 +48,7 @@ def main():
 
         status = status & write_json(inid, data_dict, ftype='data', gz=False)
         status = status & write_json(inid, edges_dict, ftype='edges', gz=False)
+        status = status & write_json(inid, headline_dict, ftype='edges', gz=False)
 
         # combined
         comb = {'data': data_dict, 'edges': edges_dict}
