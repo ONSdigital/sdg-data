@@ -13,7 +13,7 @@ The master branch serves from the main deployment org and is for prod.
 
 # Routes:
 
-Loosely speaking with have: `<datatype>/<format>/<id>.ext` and support csv and json file formats.
+Loosely speaking with have: `<datatype>/<format>/<id>.ext` and support csv and json file formats. You can also look at the file structure at https://github.com/MangoTheCat/sdg-data/tree/gh-pages and it shows how it's all laid out.
 
 ## Data
 
