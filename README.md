@@ -1,5 +1,7 @@
 # SDG Data Repository
 
+Build temporarily down as I deleted the private key. Whoops.
+
 [![Build Status](https://travis-ci.org/MangoTheCat/sdg-data.svg?branch=develop)](https://travis-ci.org/MangoTheCat/sdg-data)
  [![LICENSE.](https://img.shields.io/badge/license-OGL--3-brightgreen.svg?style=flat)](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
 
@@ -26,7 +28,7 @@ data/csv/1-2-1.csv
 data/json/1-2-1.json
 ```
 
-e.g. https://mangothecat.github.io/data/json/1-2-1.json
+e.g. https://mangothecat.github.io/sdg-data/data/json/1-2-1.json
 
 ### Edges
 
