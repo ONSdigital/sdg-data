@@ -1,44 +1,69 @@
 # SDG Data Repository
 
 [![Build Status](https://travis-ci.org/MangoTheCat/sdg-data.svg?branch=develop)](https://travis-ci.org/MangoTheCat/sdg-data)
+ [![LICENSE.](https://img.shields.io/badge/license-OGL--3-brightgreen.svg?style=flat)](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
 
-This repository holds the UK data for SDGs. The data is served via a static http server.
+This repository holds the UK data for SDG reporting. The data is served via a static http server.
 
 # Routes:
 
 ## Data
+
 ```
 data/<format>/<id>.<ext>
 
 data/csv/1-2-1.csv
 data/json/1-2-1.json
 
-# data and edges
 comb/json/1-2-1.json
+```
 
-data/<format>/all.<ext>
+### Edges
+
+```
+edges/csv/1-2-1.csv
+edges/json/1-2-1.csv
+```
+
+### Combined data and edges
+
+```
+comb/csv/1-2-1.csv
+comb/json/1-2-1.csv
 ```
 
 ## Metadata
 
 ```
 meta/json/<id>.json
-meta/json/all.json
-
 ```
+
 
 ## Build time routes
 
-```
+### Headline data
 
+```
 headline/<format>/<id>.<ext>
 headline/json/all.json
+```
 
+### Everything
+
+The following is metadata and headlines for all indicators in one blob for the build.
+
+```
+meta/json/all.json
 ```
 
 Scripts:
 
 `build_data.py`: Builds main data, headline, and edges output in csv, and json.
 
-`build_meta.py`: Builds the output metadata in json
+Packages:
 
+The `scripts/sdg` folder holds the supporting python package for `build_data.py`.
+
+## License
+
+Data is under [open government license v3](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). 
