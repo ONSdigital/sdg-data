@@ -7,15 +7,17 @@ This repository holds the UK data for SDG reporting. The data is served via a st
 
 # Routes:
 
+Loosely speaking with have: `<datatype>/<format>/<id>.ext` and support csv and json file formats.
+
 ## Data
+
+The main data set, the raw data lives in `data/` in the repo.
 
 ```
 data/<format>/<id>.<ext>
 
 data/csv/1-2-1.csv
 data/json/1-2-1.json
-
-comb/json/1-2-1.json
 ```
 
 ### Edges
