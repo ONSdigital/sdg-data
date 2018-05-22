@@ -5,6 +5,12 @@
 
 This repository holds the UK data for SDG reporting. The data is served via a static http server.
 
+# Servers
+
+The develop branch serves from the `gh-pages` branch on this repository. This is for staging.
+
+The master branch serves from the main deployment org and is for prod.
+
 # Routes:
 
 Loosely speaking with have: `<datatype>/<format>/<id>.ext` and support csv and json file formats.
@@ -19,6 +25,8 @@ data/<format>/<id>.<ext>
 data/csv/1-2-1.csv
 data/json/1-2-1.json
 ```
+
+e.g. https://mangothecat.github.io/data/json/1-2-1.json
 
 ### Edges
 
