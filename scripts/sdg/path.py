@@ -98,7 +98,7 @@ def output_path(inid=None,  ftype='data', format='json',must_work=False):
         raise ValueError("format must be on of: " + ", ".join(expected_formats))
 
     ext = '.csv' if format == 'csv' else '.json'
-    path = os.path.join(root_dir, ftype, format)
+    path = os.path.join(root_dir, ftype)
     prefix = ''
 
     # Get the directory path

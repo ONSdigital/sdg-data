@@ -13,7 +13,7 @@ The master branch serves from the main deployment org and is for prod.
 
 # Routes:
 
-Loosely speaking with have: `<datatype>/<format>/<id>.ext` and support csv and json file formats. You can also look at the file structure at https://github.com/MangoTheCat/sdg-data/tree/gh-pages and it shows how it's all laid out.
+Loosely speaking with have: `<datatype>/<id>.<format>` and support csv and json file formats. You can also look at the file structure at https://github.com/MangoTheCat/sdg-data/tree/gh-pages and it shows how it's all laid out.
 
 ## Data
 
@@ -31,21 +31,21 @@ e.g. https://mangothecat.github.io/sdg-data/data/json/1-2-1.json
 ### Edges
 
 ```
-edges/csv/1-2-1.csv
-edges/json/1-2-1.csv
+edges/1-2-1.csv
+edges/1-2-1.json
 ```
 
 ### Combined data and edges
 
 ```
-comb/csv/1-2-1.csv
-comb/json/1-2-1.csv
+comb/1-2-1.csv
+comb/1-2-1.json
 ```
 
 ## Metadata
 
 ```
-meta/json/<id>.json
+meta/<id>.json
 ```
 
 
@@ -54,8 +54,8 @@ meta/json/<id>.json
 ### Headline data
 
 ```
-headline/<format>/<id>.<ext>
-headline/json/all.json
+headline/<id>.<format>
+headline/all.json
 ```
 
 ### Everything
@@ -63,7 +63,7 @@ headline/json/all.json
 The following is metadata and headlines for all indicators in one blob for the build.
 
 ```
-meta/json/all.json
+meta/all.json
 ```
 
 Scripts:
