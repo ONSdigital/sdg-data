@@ -2,3 +2,4 @@ pyyaml
 pandas
 gitpython
 ruamel.yaml>=0.15
+git+git://github.com/dougmet/yamlmd
