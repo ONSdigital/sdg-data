@@ -86,7 +86,7 @@ def main():
     # Read the config files
     keep_fields = get_fields()
 
-    metas = glob.glob("_indicators/*.md")
+    metas = glob.glob("meta/*.md")
 
     print("Resetting " + str(len(metas)) + " metadata files...")
 
