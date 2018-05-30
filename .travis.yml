@@ -1,6 +1,8 @@
 language: python
 python:
   - "3.6"
+sdg_build:
+  - "master"
 sudo: false
 
 branches:
@@ -13,6 +15,7 @@ before_script:
   - chmod +x ./scripts/*.py
   - chmod +x ./scripts/deploy/*.sh
 script:
+  - echo $sdg_build
   - python ./scripts/check_data.py
   - python ./scripts/build_data.py
 deploy:
