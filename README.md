@@ -20,7 +20,7 @@ Loosely speaking with have: `<datatype>/<id>.<format>` and support csv and json 
 The main data set, the raw data lives in `data/` in the repo.
 
 ```
-data/<format>/<id>.<ext>
+data/<id>.<format>
 
 data/1-2-1.csv
 data/1-2-1.json
