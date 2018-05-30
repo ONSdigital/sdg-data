@@ -72,11 +72,12 @@ It's a JSON object with `{<id>: <meta>}` pairs.
 
 Scripts:
 
+`check_data.py`: Runs data and metadata checks and will prevent deployment if fails.
 `build_data.py`: Builds main data, headline, and edges output in csv, and json.
 
 Packages:
 
-The `scripts/sdg` folder holds the supporting python package for `build_data.py`.
+This uses the `sdg` package from the `sdg-build` repository during the build.
 
 ## License
 
