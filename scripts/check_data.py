@@ -7,9 +7,6 @@ Created on 2017-10-04
 
 # %% setup
 
-import glob
-import pandas as pd
-import numpy as np
 import sdg
 
 def main():
