@@ -3,6 +3,7 @@ python:
   - "3.6"
 env:
   - SDG_REF="master"
+  - SDG_REF="develop"
 sudo: false
 
 branches:
