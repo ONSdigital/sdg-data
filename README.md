@@ -59,6 +59,8 @@ At build time you'll need everything. Rather than making you download each indic
 
 ### Headline data
 
+Headlines json comes formatted as records, instead of in list format.
+
 ```
 /headline/<id>.<format>
 /headline/all.json
