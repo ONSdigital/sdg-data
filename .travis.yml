@@ -4,6 +4,9 @@ python:
 env:
   - SDG_REF="master" API_VERSION="latest"
   - SDG_REF="develop" API_VERSION="dev"
+matrix:
+  allow_failures:
+    - env: SDG_REF="develop"
 sudo: false
 
 branches:
