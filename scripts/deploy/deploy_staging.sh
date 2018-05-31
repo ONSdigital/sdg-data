@@ -36,8 +36,18 @@ cd ..
 
 # Overwrite contents with _site
 rm -rf out/**/* || exit 0
-cp -r _site/* out/
-cp README.md out/
+
+# Use the API_VERSION variable to put in the right place
+# unset or empty
+if [ -z "$API_VERSION" ]; then
+  OUTDIR="out"
+else
+  OUTDIR="out/$API_VERSION"
+fi
+mkdir -p $OUTDIR
+echo "Copying to $OUTDIR"
+cp -r _site/* $OUTDIR
+cp README.md $OUTDIR
 
 # Now let's go have some fun with the cloned repo
 cd out
