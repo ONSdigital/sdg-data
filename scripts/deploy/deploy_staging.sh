@@ -34,8 +34,6 @@ cd out
 git checkout $TARGET_BRANCH || git checkout --orphan $TARGET_BRANCH
 cd ..
 
-# Overwrite contents with _site
-rm -rf out/**/* || exit 0
 
 # Use the API_VERSION variable to put in the right place
 # unset or empty
@@ -44,7 +42,11 @@ if [ -z "$API_VERSION" ]; then
 else
   OUTDIR="out/$API_VERSION"
 fi
+
+# Overwrite contents with _site
 mkdir -p $OUTDIR
+rm -rf $OUTDIR/**/* || exit 0
+
 echo "Copying to $OUTDIR"
 cp -r _site/* $OUTDIR
 cp README.md $OUTDIR
