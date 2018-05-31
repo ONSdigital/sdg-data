@@ -2,7 +2,7 @@ language: python
 python:
   - "3.6"
 env:
-  - SDG_REF="master" API_VERSION="latest"
+  - SDG_REF="master" API_VERSION=""
   - SDG_REF="develop" API_VERSION="dev"
 matrix:
   allow_failures:
