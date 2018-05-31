@@ -36,7 +36,8 @@ cd ..
 
 # Overwrite contents with _site
 rm -rf out/**/* || exit 0
-cp -r _site/* out/
+mkdir -p out/$API_VERSION
+cp -r _site/* out/$API_VERSION/
 cp README.md out/
 
 # Now let's go have some fun with the cloned repo
