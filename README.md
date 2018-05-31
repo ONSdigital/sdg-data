@@ -13,17 +13,21 @@ The master branch serves from the main deployment org and is for prod.
 
 # Routes:
 
-Loosely speaking with have: `<datatype>/<id>.<format>` and support csv and json file formats. You can also look at the file structure at https://github.com/MangoTheCat/sdg-data/tree/gh-pages and it shows how it's all laid out.
+Loosely speaking with have: `/<datatype>/<id>.<format>` and support csv and json file formats. You can also look at the file structure at https://github.com/MangoTheCat/sdg-data/tree/gh-pages and it shows how it's all laid out.
+
+## Versions
+
+We're planning for versioned APIs. Right now the root location is the latest API. Other versions will be available. For example the development branch of the API code will be available by adding `dev` to the beginning of the path. e.g. `/dev/<datatype>/<id>.<format>`.
 
 ## Data
 
-The main data set, the raw data lives in `data/` in the repo.
+The main data set, the raw data lives in `/data/` in the repo.
 
 ```
-data/<id>.<format>
+/data/<id>.<format>
 
-data/1-2-1.csv
-data/1-2-1.json
+/data/1-2-1.csv
+/data/1-2-1.json
 ```
 
 e.g. https://mangothecat.github.io/sdg-data/data/1-2-1.json
@@ -31,21 +35,21 @@ e.g. https://mangothecat.github.io/sdg-data/data/1-2-1.json
 ### Edges
 
 ```
-edges/1-2-1.csv
-edges/1-2-1.json
+/edges/1-2-1.csv
+/edges/1-2-1.json
 ```
 
 ### Combined data and edges
 
 ```
-comb/1-2-1.csv
-comb/1-2-1.json
+/comb/1-2-1.csv
+/comb/1-2-1.json
 ```
 
 ## Metadata
 
 ```
-meta/<id>.json
+/meta/<id>.json
 ```
 
 
@@ -56,8 +60,8 @@ At build time you'll need everything. Rather than making you download each indic
 ### Headline data
 
 ```
-headline/<id>.<format>
-headline/all.json
+/headline/<id>.<format>
+/headline/all.json
 ```
 
 ### Metadata
@@ -65,15 +69,15 @@ headline/all.json
 The following is all metadata for all indicators in one blob for the build.
 
 ```
-meta/all.json
+/meta/all.json
 ```
 
 It's a JSON object with `{<id>: <meta>}` pairs.
 
 Scripts:
 
-`check_data.py`: Runs data and metadata checks and will prevent deployment if fails.
-`build_data.py`: Builds main data, headline, and edges output in csv, and json.
+* `check_data.py`: Runs data and metadata checks and will prevent deployment if fails.
+* `build_data.py`: Builds main data, headline, and edges output in csv, and json.
 
 Packages:
 
