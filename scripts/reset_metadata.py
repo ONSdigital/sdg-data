@@ -21,10 +21,10 @@ add_fields = {'reporting_status': 'notstarted', 'published': True, 'graph_type':
 
 def get_fields():
     """Read the config file and decide which fields to save"""
-    with open('_config.yml', encoding="UTF-8") as stream:
+    with open('_prose.yml', encoding="UTF-8") as stream:
         config = next(yaml.safe_load_all(stream))
 
-    all_fields = config['prose']['metadata']['_indicators']
+    all_fields = config['prose']['metadata']['meta']
 
     # Using a list to preserve order
     all_scopes = [get_scope(field) for field in all_fields]
@@ -102,7 +102,7 @@ if __name__ == '__main__':
     # Set the working directory to the project root (two below)
     filepath = os.path.dirname(os.path.realpath(__file__))
     os.chdir(filepath)
-    os.chdir(os.path.join('..'))  # two levels above scripts/reset
+    os.chdir(os.path.join('..'))  # one level up from scripts
     status = main()
     if(not status):
         raise RuntimeError("Failed to reset metadata")
