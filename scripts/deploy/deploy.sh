@@ -1,6 +1,8 @@
 #!/bin/bash
 set -e # Exit with nonzero exit code if anything fails
 
+echo "HELLO"
+
 SOURCE_BRANCH="master"
 TARGET_BRANCH="master"
 SHA=`git rev-parse --verify --short HEAD`

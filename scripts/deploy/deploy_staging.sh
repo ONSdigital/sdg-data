@@ -1,7 +1,4 @@
 #!/bin/bash
-
-echo "HELLO FROM DEPLOY STAGING"
-
 set -e # Exit with nonzero exit code if anything fails
 
 # Credit where due: https://gist.github.com/domenic/ec8b0fc8ab45f39403dd
@@ -18,7 +15,7 @@ if [ "$TRAVIS_PULL_REQUEST" != "false" -o "$TRAVIS_BRANCH" != "$SOURCE_BRANCH" ]
 fi
 
 # Keys
-openssl aes-256-cbc -K  $encrypted_cb972ee281f6_key -iv $encrypted_cb972ee281f6_iv -in scripts/deploy/keys.tar.enc -out scripts/deploy/keys.tar -d
+openssl aes-256-cbc -K $encrypted_64c33928a335_key -iv $encrypted_64c33928a335_iv -in scripts/deploy/keys.tar.enc -out scripts/deploy/keys.tar -d
 tar xvf scripts/deploy/keys.tar -C scripts/deploy/
 rm scripts/deploy/keys.tar
 
