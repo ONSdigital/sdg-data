@@ -1,9 +1,8 @@
 # SDG Data Repository
 
-[![Build Status](https://travis-ci.org/ONSdigital/sdg-data.svg?branch=develop)](https://travis-ci.org/ONSdigital/sdg-data)
- [![LICENSE.](https://img.shields.io/badge/license-OGL--3-brightgreen.svg?style=flat)](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+[![Build Status](https://travis-ci.org/sustainabledevelopment-rwanda/sdg-data.svg?branch=develop)](https://travis-ci.org/ONSdigital/sdg-data)
 
-This repository holds the UK data for SDG reporting. The data is served via a static http server.
+This repository holds the Rwanda data for SDG reporting. The data is served via a static http server.
 
 # Servers
 
@@ -13,7 +12,7 @@ The master branch serves from the main deployment org and is for prod.
 
 # Routes:
 
-Loosely speaking with have: `/<datatype>/<id>.<format>` and support csv and json file formats. You can also look at the file structure at https://github.com/ONSdigital/sdg-data/tree/gh-pages and it shows how it's all laid out.
+Loosely speaking with have: `/<datatype>/<id>.<format>` and support csv and json file formats. You can also look at the file structure at https://github.com/sustainabledevelopment-rwanda/sdg-data/tree/gh-pages and it shows how it's all laid out.
 
 ## Versions
 
@@ -30,7 +29,7 @@ The main data set, the raw data lives in `/data/` in the repo.
 /data/1-2-1.json
 ```
 
-e.g. https://ONSdigital.github.io/sdg-data/data/1-2-1.json
+e.g. https://sustainabledevelopment-rwanda.github.io/sdg-data/data/1-2-1.json
 
 ### Edges
 
@@ -84,7 +83,3 @@ Scripts:
 Packages:
 
 This uses the `sdg` package from the `sdg-build` repository during the build.
-
-## License
-
-Data is under [open government license v3](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). 
