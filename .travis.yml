@@ -24,7 +24,7 @@ script:
   - python ./scripts/build_data.py
 deploy:
 - provider: script
-  script: chmod +x ./scripts/deploy/deploy_staging.sh && scripts/deploy/deploy_staging.sh
+  script: chmod +x ./scripts/deploy/deploy_staging.sh
   skip_cleanup: true
   on:
     branch: develop
