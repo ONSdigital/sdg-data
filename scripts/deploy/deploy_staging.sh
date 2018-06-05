@@ -8,6 +8,8 @@ TARGET_BRANCH="gh-pages"
 STAGING_REPO="git@github.com:${TRAVIS_REPO_SLUG}.git"
 SHA=`git rev-parse --verify --short HEAD`
 
+echo Hi $STAGING_REPO
+
 # Pull requests and commits to other branches shouldn't try to deploy, just build to verify
 if [ "$TRAVIS_PULL_REQUEST" != "false" -o "$TRAVIS_BRANCH" != "$SOURCE_BRANCH" ]; then
     echo "Skipping deploy; just doing a build."
