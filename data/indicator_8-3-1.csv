@@ -1,7 +1,21 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Type of Earnings,Type of Employer,Employment Continuity,Value
+2005,,,,67.8
+2010,,,,72
+2005,,,Seasonal,14.3
+2010,,,Seasonal,7
+2005,,,Occasional,17.7
+2010,,,Occasional,20
+2005,,Employed by family member,,3.4
+2010,,Employed by family member,,3.7
+2005,,Employed by non-family member,,40.4
+2010,,Employed by non-family member,,29.6
+2005,,Self employed,,73.4
+2010,,Self employed,,65.6
+2005,Cash only,,,81.8
+2010,Cash only,,,62.5
+2005,Cash and in-kind,,,5.7
+2010,Cash and in-kind,,,8.5
+2005,In-kind only,,,0.7
+2010,In-kind only,,,1.5
+2005,Not paid,,,11.7
+2010,Not paid,,,26.5
