@@ -1,7 +1,22 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Sex,Age,Land cover type,Value
+2012,,,Rural,2.6
+2014,,,Rural,0.6
+2011,,,Rural,1
+2012,,,Urban,7.7
+2014,,,Urban,8.7
+2011,,,Urban,9.2
+2012,,,,3.4
+2014,,,,2
+2011,,,,2.2
+2012,Male,,,2.5
+2012,Male,16 to 35,,3.2
+2012,Male,36 to 65,,2.2
+2012,Male,Over 65,,2.1
+2012,Male,,Rural,2.2
+2012,Male,,Urban,5.1
+2012,Male,,,4
+2012,Male,16 to 35,,4.9
+2012,Male,36 to 65,,2.9
+2012,Male,Over 65,,2.5
+2012,Male,,Rural,2.9
+2012,Male,,Urban,11.1
