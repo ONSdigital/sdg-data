@@ -8,6 +8,8 @@ matrix:
   allow_failures:
     - env: SDG_REF="develop"
 sudo: false
+git:
+  depth: false
 
 branches:
   only:
