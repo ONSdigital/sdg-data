@@ -3,11 +3,14 @@ python:
   - "3.6"
 env:
   - SDG_REF="master" API_VERSION=""
-  - SDG_REF="develop" API_VERSION="dev"
+#  - SDG_REF="develop" API_VERSION="dev"
+#  - SDG_REF="hotfix/25" API_VERSION="test"
 matrix:
   allow_failures:
     - env: SDG_REF="develop"
 sudo: false
+git:
+  depth: false
 
 branches:
   only:
