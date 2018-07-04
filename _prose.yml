@@ -37,7 +37,7 @@ prose:
             scope: global
       - name: "indicator_sort_order"
         field:
-            element: hidden
+            element: text
             label: "Indicator display order (within Goal page)"
             scope: global
       - name: "target"
