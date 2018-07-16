@@ -1,4 +1,5 @@
 From,To
 Country,Region
-Region,Local Authority
-Region,Health Board
+Region,Geocode
+Geocode,Local Authority
+Geocode,Health Board
