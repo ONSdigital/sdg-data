@@ -1,4 +1,4 @@
-Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socioeconomic Classification,Relationship Status,Highest Education Attainment,Ethnicity,Country of Birth,Religion,Geocode,Value
+Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socioeconomic Classification,Relationship Status,Highest Education Attainment,Ethnicity,Country of Birth,Religion,GeoCode,Value
 2011,,18 to 24,England,,,,,,,,,,,,25.7648
 2011,,18 to 24,Wales,,,,,,,,,,,,25.6408
 2011,,18 to 24,Scotland,,,,,,,,,,,,22.9491
@@ -2381,60 +2381,60 @@ Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socio
 2011,,,England,South West,South Somerset,,,,,,,,,E07000189,20.8934
 2011,,,England,South West,Taunton Deane,,,,,,,,,E07000190,12.7387
 2011,,,England,South West,West Somerset,,,,,,,,,E07000191,15.6234
-2011,,,Scotland,Scotland,Clackmannanshire,,,,,,,,,S12000005,27.5396
-2011,,,Scotland,Scotland,Dumfries and Galloway,,,,,,,,,S12000006,23.637
-2011,,,Scotland,Scotland,East Ayrshire,,,,,,,,,S12000008,27.2849
-2011,,,Scotland,Scotland,East Lothian,,,,,,,,,S12000010,23.8969
-2011,,,Scotland,Scotland,East Renfrewshire,,,,,,,,,S12000011,15.5192
-2011,,,Scotland,Scotland,Na h-Eileanan Siar,,,,,,,,,S12000013,19.1468
-2011,,,Scotland,Scotland,Falkirk,,,,,,,,,S12000014,24.6315
-2011,,,Scotland,Scotland,Fife,,,,,,,,,S12000015,24.5566
-2011,,,Scotland,Scotland,Highland,,,,,,,,,S12000017,18.3322
-2011,,,Scotland,Scotland,Inverclyde,,,,,,,,,S12000018,26.2438
-2011,,,Scotland,Scotland,Midlothian,,,,,,,,,S12000019,24.6257
-2011,,,Scotland,Scotland,Moray,,,,,,,,,S12000020,13.7412
-2011,,,Scotland,Scotland,North Ayrshire,,,,,,,,,S12000021,29.6977
-2011,,,Scotland,Scotland,Orkney Islands,,,,,,,,,S12000023,22.1926
-2011,,,Scotland,Scotland,Perth and Kinross,,,,,,,,,S12000024,18.5489
-2011,,,Scotland,Scotland,Scottish Borders,,,,,,,,,S12000026,20.1193
-2011,,,Scotland,Scotland,Shetland Islands,,,,,,,,,S12000027,21.5393
-2011,,,Scotland,Scotland,South Ayrshire,,,,,,,,,S12000028,22.4439
-2011,,,Scotland,Scotland,South Lanarkshire,,,,,,,,,S12000029,23.4806
-2011,,,Scotland,Scotland,Stirling,,,,,,,,,S12000030,17.5578
-2011,,,Scotland,Scotland,Aberdeen City,,,,,,,,,S12000033,22.8721
-2011,,,Scotland,Scotland,Aberdeenshire,,,,,,,,,S12000034,19.3913
-2011,,,Scotland,Scotland,Argyll and Bute,,,,,,,,,S12000035,19.1799
-2011,,,Scotland,Scotland,City of Edinburgh,,,,,,,,,S12000036,20.5641
-2011,,,Scotland,Scotland,Renfrewshire,,,,,,,,,S12000038,23.8597
-2011,,,Scotland,Scotland,West Dunbartonshire,,,,,,,,,S12000039,28.5844
-2011,,,Scotland,Scotland,West Lothian,,,,,,,,,S12000040,23.9262
-2011,,,Scotland,Scotland,Angus,,,,,,,,,S12000041,21.3707
-2011,,,Scotland,Scotland,Dundee City,,,,,,,,,S12000042,27.2948
-2011,,,Scotland,Scotland,North Lanarkshire,,,,,,,,,S12000044,25.3664
-2011,,,Scotland,Scotland,East Dunbartonshire,,,,,,,,,S12000045,13.2236
-2011,,,Scotland,Scotland,Glasgow City,,,,,,,,,S12000046,30.4804
-2011,,,Wales,Wales,Isle of Anglesey,,,,,,,,,W06000001,20.8143
-2011,,,Wales,Wales,Gwynedd,,,,,,,,,W06000002,23.8851
-2011,,,Wales,Wales,Conwy,,,,,,,,,W06000003,21.2589
-2011,,,Wales,Wales,Denbighshire,,,,,,,,,W06000004,22.3536
-2011,,,Wales,Wales,Flintshire,,,,,,,,,W06000005,19.9696
-2011,,,Wales,Wales,Wrexham,,,,,,,,,W06000006,23.4377
-2011,,,Wales,Wales,Ceredigion,,,,,,,,,W06000008,17.1277
-2011,,,Wales,Wales,Pembrokeshire,,,,,,,,,W06000009,20.0013
-2011,,,Wales,Wales,Carmarthenshire,,,,,,,,,W06000010,19.3548
-2011,,,Wales,Wales,Swansea,,,,,,,,,W06000011,22.0025
-2011,,,Wales,Wales,Neath Port Talbot,,,,,,,,,W06000012,25.419
-2011,,,Wales,Wales,Bridgend,,,,,,,,,W06000013,21.8518
-2011,,,Wales,Wales,Vale of Glamorgan,,,,,,,,,W06000014,21.9833
-2011,,,Wales,Wales,Cardiff,,,,,,,,,W06000015,20.7129
-2011,,,Wales,Wales,Rhondda Cynon Taf,,,,,,,,,W06000016,24.7712
-2011,,,Wales,Wales,Caerphilly,,,,,,,,,W06000018,25.4484
-2011,,,Wales,Wales,Blaenau Gwent,,,,,,,,,W06000019,27.0255
-2011,,,Wales,Wales,Torfaen,,,,,,,,,W06000020,26.2083
-2011,,,Wales,Wales,Monmouthshire,,,,,,,,,W06000021,16.9661
-2011,,,Wales,Wales,Newport,,,,,,,,,W06000022,23.0698
-2011,,,Wales,Wales,Powys,,,,,,,,,W06000023,19.969
-2011,,,Wales,Wales,Merthyr Tydfil,,,,,,,,,W06000024,30.1277
+2011,,,Scotland,,Clackmannanshire,,,,,,,,,S12000005,27.5396
+2011,,,Scotland,,Dumfries and Galloway,,,,,,,,,S12000006,23.637
+2011,,,Scotland,,East Ayrshire,,,,,,,,,S12000008,27.2849
+2011,,,Scotland,,East Lothian,,,,,,,,,S12000010,23.8969
+2011,,,Scotland,,East Renfrewshire,,,,,,,,,S12000011,15.5192
+2011,,,Scotland,,Na h-Eileanan Siar,,,,,,,,,S12000013,19.1468
+2011,,,Scotland,,Falkirk,,,,,,,,,S12000014,24.6315
+2011,,,Scotland,,Fife,,,,,,,,,S12000015,24.5566
+2011,,,Scotland,,Highland,,,,,,,,,S12000017,18.3322
+2011,,,Scotland,,Inverclyde,,,,,,,,,S12000018,26.2438
+2011,,,Scotland,,Midlothian,,,,,,,,,S12000019,24.6257
+2011,,,Scotland,,Moray,,,,,,,,,S12000020,13.7412
+2011,,,Scotland,,North Ayrshire,,,,,,,,,S12000021,29.6977
+2011,,,Scotland,,Orkney Islands,,,,,,,,,S12000023,22.1926
+2011,,,Scotland,,Perth and Kinross,,,,,,,,,S12000024,18.5489
+2011,,,Scotland,,Scottish Borders,,,,,,,,,S12000026,20.1193
+2011,,,Scotland,,Shetland Islands,,,,,,,,,S12000027,21.5393
+2011,,,Scotland,,South Ayrshire,,,,,,,,,S12000028,22.4439
+2011,,,Scotland,,South Lanarkshire,,,,,,,,,S12000029,23.4806
+2011,,,Scotland,,Stirling,,,,,,,,,S12000030,17.5578
+2011,,,Scotland,,Aberdeen City,,,,,,,,,S12000033,22.8721
+2011,,,Scotland,,Aberdeenshire,,,,,,,,,S12000034,19.3913
+2011,,,Scotland,,Argyll and Bute,,,,,,,,,S12000035,19.1799
+2011,,,Scotland,,City of Edinburgh,,,,,,,,,S12000036,20.5641
+2011,,,Scotland,,Renfrewshire,,,,,,,,,S12000038,23.8597
+2011,,,Scotland,,West Dunbartonshire,,,,,,,,,S12000039,28.5844
+2011,,,Scotland,,West Lothian,,,,,,,,,S12000040,23.9262
+2011,,,Scotland,,Angus,,,,,,,,,S12000041,21.3707
+2011,,,Scotland,,Dundee City,,,,,,,,,S12000042,27.2948
+2011,,,Scotland,,North Lanarkshire,,,,,,,,,S12000044,25.3664
+2011,,,Scotland,,East Dunbartonshire,,,,,,,,,S12000045,13.2236
+2011,,,Scotland,,Glasgow City,,,,,,,,,S12000046,30.4804
+2011,,,Wales,,Isle of Anglesey,,,,,,,,,W06000001,20.8143
+2011,,,Wales,,Gwynedd,,,,,,,,,W06000002,23.8851
+2011,,,Wales,,Conwy,,,,,,,,,W06000003,21.2589
+2011,,,Wales,,Denbighshire,,,,,,,,,W06000004,22.3536
+2011,,,Wales,,Flintshire,,,,,,,,,W06000005,19.9696
+2011,,,Wales,,Wrexham,,,,,,,,,W06000006,23.4377
+2011,,,Wales,,Ceredigion,,,,,,,,,W06000008,17.1277
+2011,,,Wales,,Pembrokeshire,,,,,,,,,W06000009,20.0013
+2011,,,Wales,,Carmarthenshire,,,,,,,,,W06000010,19.3548
+2011,,,Wales,,Swansea,,,,,,,,,W06000011,22.0025
+2011,,,Wales,,Neath Port Talbot,,,,,,,,,W06000012,25.419
+2011,,,Wales,,Bridgend,,,,,,,,,W06000013,21.8518
+2011,,,Wales,,Vale of Glamorgan,,,,,,,,,W06000014,21.9833
+2011,,,Wales,,Cardiff,,,,,,,,,W06000015,20.7129
+2011,,,Wales,,Rhondda Cynon Taf,,,,,,,,,W06000016,24.7712
+2011,,,Wales,,Caerphilly,,,,,,,,,W06000018,25.4484
+2011,,,Wales,,Blaenau Gwent,,,,,,,,,W06000019,27.0255
+2011,,,Wales,,Torfaen,,,,,,,,,W06000020,26.2083
+2011,,,Wales,,Monmouthshire,,,,,,,,,W06000021,16.9661
+2011,,,Wales,,Newport,,,,,,,,,W06000022,23.0698
+2011,,,Wales,,Powys,,,,,,,,,W06000023,19.969
+2011,,,Wales,,Merthyr Tydfil,,,,,,,,,W06000024,30.1277
 2011,Male,,England,North East,Hartlepool,,,,,,,,,E06000001,25.543
 2011,Male,,England,North East,Middlesbrough,,,,,,,,,E06000002,24.3967
 2011,Male,,England,North East,Redcar and Cleveland,,,,,,,,,E06000003,22.8137
@@ -2759,60 +2759,60 @@ Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socio
 2011,Male,,England,South West,South Somerset,,,,,,,,,E07000189,22.0863
 2011,Male,,England,South West,Taunton Deane,,,,,,,,,E07000190,13.8912
 2011,Male,,England,South West,West Somerset,,,,,,,,,E07000191,16.4839
-2011,Male,,Scotland,Scotland,Clackmannanshire,,,,,,,,,S12000005,26.5058
-2011,Male,,Scotland,Scotland,Dumfries and Galloway,,,,,,,,,S12000006,26.6081
-2011,Male,,Scotland,Scotland,East Ayrshire,,,,,,,,,S12000008,30.8585
-2011,Male,,Scotland,Scotland,East Lothian,,,,,,,,,S12000010,25.7897
-2011,Male,,Scotland,Scotland,East Renfrewshire,,,,,,,,,S12000011,16.9179
-2011,Male,,Scotland,Scotland,Na h-Eileanan Siar,,,,,,,,,S12000013,21.5523
-2011,Male,,Scotland,Scotland,Falkirk,,,,,,,,,S12000014,25.4397
-2011,Male,,Scotland,Scotland,Fife,,,,,,,,,S12000015,26.5467
-2011,Male,,Scotland,Scotland,Highland,,,,,,,,,S12000017,21.5469
-2011,Male,,Scotland,Scotland,Inverclyde,,,,,,,,,S12000018,28.0738
-2011,Male,,Scotland,Scotland,Midlothian,,,,,,,,,S12000019,24.225
-2011,Male,,Scotland,Scotland,Moray,,,,,,,,,S12000020,16.9587
-2011,Male,,Scotland,Scotland,North Ayrshire,,,,,,,,,S12000021,29.9905
-2011,Male,,Scotland,Scotland,Orkney Islands,,,,,,,,,S12000023,24.037
-2011,Male,,Scotland,Scotland,Perth and Kinross,,,,,,,,,S12000024,20.039
-2011,Male,,Scotland,Scotland,Scottish Borders,,,,,,,,,S12000026,21.8421
-2011,Male,,Scotland,Scotland,Shetland Islands,,,,,,,,,S12000027,20.4907
-2011,Male,,Scotland,Scotland,South Ayrshire,,,,,,,,,S12000028,24.206
-2011,Male,,Scotland,Scotland,South Lanarkshire,,,,,,,,,S12000029,26.1689
-2011,Male,,Scotland,Scotland,Stirling,,,,,,,,,S12000030,20.5079
-2011,Male,,Scotland,Scotland,Aberdeen City,,,,,,,,,S12000033,24.4579
-2011,Male,,Scotland,Scotland,Aberdeenshire,,,,,,,,,S12000034,22.4746
-2011,Male,,Scotland,Scotland,Argyll and Bute,,,,,,,,,S12000035,21.2988
-2011,Male,,Scotland,Scotland,City of Edinburgh,,,,,,,,,S12000036,21.4169
-2011,Male,,Scotland,Scotland,Renfrewshire,,,,,,,,,S12000038,23.7027
-2011,Male,,Scotland,Scotland,West Dunbartonshire,,,,,,,,,S12000039,30.2051
-2011,Male,,Scotland,Scotland,West Lothian,,,,,,,,,S12000040,24.51
-2011,Male,,Scotland,Scotland,Angus,,,,,,,,,S12000041,23.2253
-2011,Male,,Scotland,Scotland,Dundee City,,,,,,,,,S12000042,26.7315
-2011,Male,,Scotland,Scotland,North Lanarkshire,,,,,,,,,S12000044,26.8875
-2011,Male,,Scotland,Scotland,East Dunbartonshire,,,,,,,,,S12000045,14.2481
-2011,Male,,Scotland,Scotland,Glasgow City,,,,,,,,,S12000046,33.9078
-2011,Male,,Wales,Wales,Isle of Anglesey,,,,,,,,,W06000001,23.8036
-2011,Male,,Wales,Wales,Gwynedd,,,,,,,,,W06000002,26.3121
-2011,Male,,Wales,Wales,Conwy,,,,,,,,,W06000003,24.0409
-2011,Male,,Wales,Wales,Denbighshire,,,,,,,,,W06000004,24.4112
-2011,Male,,Wales,Wales,Flintshire,,,,,,,,,W06000005,20.231
-2011,Male,,Wales,Wales,Wrexham,,,,,,,,,W06000006,23.9446
-2011,Male,,Wales,Wales,Ceredigion,,,,,,,,,W06000008,18.2637
-2011,Male,,Wales,Wales,Pembrokeshire,,,,,,,,,W06000009,22.4805
-2011,Male,,Wales,Wales,Carmarthenshire,,,,,,,,,W06000010,20.9986
-2011,Male,,Wales,Wales,Swansea,,,,,,,,,W06000011,21.175
-2011,Male,,Wales,Wales,Neath Port Talbot,,,,,,,,,W06000012,25.8846
-2011,Male,,Wales,Wales,Bridgend,,,,,,,,,W06000013,22.0523
-2011,Male,,Wales,Wales,Vale of Glamorgan,,,,,,,,,W06000014,22.5455
-2011,Male,,Wales,Wales,Cardiff,,,,,,,,,W06000015,21.7647
-2011,Male,,Wales,Wales,Rhondda Cynon Taf,,,,,,,,,W06000016,26.3957
-2011,Male,,Wales,Wales,Caerphilly,,,,,,,,,W06000018,26.0385
-2011,Male,,Wales,Wales,Blaenau Gwent,,,,,,,,,W06000019,27.6525
-2011,Male,,Wales,Wales,Torfaen,,,,,,,,,W06000020,27.9642
-2011,Male,,Wales,Wales,Monmouthshire,,,,,,,,,W06000021,18.4346
-2011,Male,,Wales,Wales,Newport,,,,,,,,,W06000022,25.4564
-2011,Male,,Wales,Wales,Powys,,,,,,,,,W06000023,23.2986
-2011,Male,,Wales,Wales,Merthyr Tydfil,,,,,,,,,W06000024,30.5818
+2011,Male,,Scotland,,Clackmannanshire,,,,,,,,,S12000005,26.5058
+2011,Male,,Scotland,,Dumfries and Galloway,,,,,,,,,S12000006,26.6081
+2011,Male,,Scotland,,East Ayrshire,,,,,,,,,S12000008,30.8585
+2011,Male,,Scotland,,East Lothian,,,,,,,,,S12000010,25.7897
+2011,Male,,Scotland,,East Renfrewshire,,,,,,,,,S12000011,16.9179
+2011,Male,,Scotland,,Na h-Eileanan Siar,,,,,,,,,S12000013,21.5523
+2011,Male,,Scotland,,Falkirk,,,,,,,,,S12000014,25.4397
+2011,Male,,Scotland,,Fife,,,,,,,,,S12000015,26.5467
+2011,Male,,Scotland,,Highland,,,,,,,,,S12000017,21.5469
+2011,Male,,Scotland,,Inverclyde,,,,,,,,,S12000018,28.0738
+2011,Male,,Scotland,,Midlothian,,,,,,,,,S12000019,24.225
+2011,Male,,Scotland,,Moray,,,,,,,,,S12000020,16.9587
+2011,Male,,Scotland,,North Ayrshire,,,,,,,,,S12000021,29.9905
+2011,Male,,Scotland,,Orkney Islands,,,,,,,,,S12000023,24.037
+2011,Male,,Scotland,,Perth and Kinross,,,,,,,,,S12000024,20.039
+2011,Male,,Scotland,,Scottish Borders,,,,,,,,,S12000026,21.8421
+2011,Male,,Scotland,,Shetland Islands,,,,,,,,,S12000027,20.4907
+2011,Male,,Scotland,,South Ayrshire,,,,,,,,,S12000028,24.206
+2011,Male,,Scotland,,South Lanarkshire,,,,,,,,,S12000029,26.1689
+2011,Male,,Scotland,,Stirling,,,,,,,,,S12000030,20.5079
+2011,Male,,Scotland,,Aberdeen City,,,,,,,,,S12000033,24.4579
+2011,Male,,Scotland,,Aberdeenshire,,,,,,,,,S12000034,22.4746
+2011,Male,,Scotland,,Argyll and Bute,,,,,,,,,S12000035,21.2988
+2011,Male,,Scotland,,City of Edinburgh,,,,,,,,,S12000036,21.4169
+2011,Male,,Scotland,,Renfrewshire,,,,,,,,,S12000038,23.7027
+2011,Male,,Scotland,,West Dunbartonshire,,,,,,,,,S12000039,30.2051
+2011,Male,,Scotland,,West Lothian,,,,,,,,,S12000040,24.51
+2011,Male,,Scotland,,Angus,,,,,,,,,S12000041,23.2253
+2011,Male,,Scotland,,Dundee City,,,,,,,,,S12000042,26.7315
+2011,Male,,Scotland,,North Lanarkshire,,,,,,,,,S12000044,26.8875
+2011,Male,,Scotland,,East Dunbartonshire,,,,,,,,,S12000045,14.2481
+2011,Male,,Scotland,,Glasgow City,,,,,,,,,S12000046,33.9078
+2011,Male,,Wales,,Isle of Anglesey,,,,,,,,,W06000001,23.8036
+2011,Male,,Wales,,Gwynedd,,,,,,,,,W06000002,26.3121
+2011,Male,,Wales,,Conwy,,,,,,,,,W06000003,24.0409
+2011,Male,,Wales,,Denbighshire,,,,,,,,,W06000004,24.4112
+2011,Male,,Wales,,Flintshire,,,,,,,,,W06000005,20.231
+2011,Male,,Wales,,Wrexham,,,,,,,,,W06000006,23.9446
+2011,Male,,Wales,,Ceredigion,,,,,,,,,W06000008,18.2637
+2011,Male,,Wales,,Pembrokeshire,,,,,,,,,W06000009,22.4805
+2011,Male,,Wales,,Carmarthenshire,,,,,,,,,W06000010,20.9986
+2011,Male,,Wales,,Swansea,,,,,,,,,W06000011,21.175
+2011,Male,,Wales,,Neath Port Talbot,,,,,,,,,W06000012,25.8846
+2011,Male,,Wales,,Bridgend,,,,,,,,,W06000013,22.0523
+2011,Male,,Wales,,Vale of Glamorgan,,,,,,,,,W06000014,22.5455
+2011,Male,,Wales,,Cardiff,,,,,,,,,W06000015,21.7647
+2011,Male,,Wales,,Rhondda Cynon Taf,,,,,,,,,W06000016,26.3957
+2011,Male,,Wales,,Caerphilly,,,,,,,,,W06000018,26.0385
+2011,Male,,Wales,,Blaenau Gwent,,,,,,,,,W06000019,27.6525
+2011,Male,,Wales,,Torfaen,,,,,,,,,W06000020,27.9642
+2011,Male,,Wales,,Monmouthshire,,,,,,,,,W06000021,18.4346
+2011,Male,,Wales,,Newport,,,,,,,,,W06000022,25.4564
+2011,Male,,Wales,,Powys,,,,,,,,,W06000023,23.2986
+2011,Male,,Wales,,Merthyr Tydfil,,,,,,,,,W06000024,30.5818
 2011,Female,,England,North East,Hartlepool,,,,,,,,,E06000001,21.5761
 2011,Female,,England,North East,Middlesbrough,,,,,,,,,E06000002,25.9803
 2011,Female,,England,North East,Redcar and Cleveland,,,,,,,,,E06000003,21.0292
@@ -3137,60 +3137,60 @@ Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socio
 2011,Female,,England,South West,South Somerset,,,,,,,,,E07000189,19.804
 2011,Female,,England,South West,Taunton Deane,,,,,,,,,E07000190,11.7987
 2011,Female,,England,South West,West Somerset,,,,,,,,,E07000191,14.8971
-2011,Female,,Scotland,Scotland,Clackmannanshire,,,,,,,,,S12000005,28.5338
-2011,Female,,Scotland,Scotland,Dumfries and Galloway,,,,,,,,,S12000006,20.8745
-2011,Female,,Scotland,Scotland,East Ayrshire,,,,,,,,,S12000008,23.9999
-2011,Female,,Scotland,Scotland,East Lothian,,,,,,,,,S12000010,22.181
-2011,Female,,Scotland,Scotland,East Renfrewshire,,,,,,,,,S12000011,14.265
-2011,Female,,Scotland,Scotland,Na h-Eileanan Siar,,,,,,,,,S12000013,16.7393
-2011,Female,,Scotland,Scotland,Falkirk,,,,,,,,,S12000014,23.8911
-2011,Female,,Scotland,Scotland,Fife,,,,,,,,,S12000015,22.7963
-2011,Female,,Scotland,Scotland,Highland,,,,,,,,,S12000017,15.3852
-2011,Female,,Scotland,Scotland,Inverclyde,,,,,,,,,S12000018,24.6038
-2011,Female,,Scotland,Scotland,Midlothian,,,,,,,,,S12000019,24.9783
-2011,Female,,Scotland,Scotland,Moray,,,,,,,,,S12000020,10.5946
-2011,Female,,Scotland,Scotland,North Ayrshire,,,,,,,,,S12000021,29.4414
-2011,Female,,Scotland,Scotland,Orkney Islands,,,,,,,,,S12000023,20.4757
-2011,Female,,Scotland,Scotland,Perth and Kinross,,,,,,,,,S12000024,17.2242
-2011,Female,,Scotland,Scotland,Scottish Borders,,,,,,,,,S12000026,18.5267
-2011,Female,,Scotland,Scotland,Shetland Islands,,,,,,,,,S12000027,22.6342
-2011,Female,,Scotland,Scotland,South Ayrshire,,,,,,,,,S12000028,20.8881
-2011,Female,,Scotland,Scotland,South Lanarkshire,,,,,,,,,S12000029,21.0558
-2011,Female,,Scotland,Scotland,Stirling,,,,,,,,,S12000030,14.8401
-2011,Female,,Scotland,Scotland,Aberdeen City,,,,,,,,,S12000033,21.3951
-2011,Female,,Scotland,Scotland,Aberdeenshire,,,,,,,,,S12000034,16.4889
-2011,Female,,Scotland,Scotland,Argyll and Bute,,,,,,,,,S12000035,17.2119
-2011,Female,,Scotland,Scotland,City of Edinburgh,,,,,,,,,S12000036,19.7949
-2011,Female,,Scotland,Scotland,Renfrewshire,,,,,,,,,S12000038,24.0011
-2011,Female,,Scotland,Scotland,West Dunbartonshire,,,,,,,,,S12000039,27.146
-2011,Female,,Scotland,Scotland,West Lothian,,,,,,,,,S12000040,23.3905
-2011,Female,,Scotland,Scotland,Angus,,,,,,,,,S12000041,19.6268
-2011,Female,,Scotland,Scotland,Dundee City,,,,,,,,,S12000042,27.8121
-2011,Female,,Scotland,Scotland,North Lanarkshire,,,,,,,,,S12000044,23.9979
-2011,Female,,Scotland,Scotland,East Dunbartonshire,,,,,,,,,S12000045,12.3176
-2011,Female,,Scotland,Scotland,Glasgow City,,,,,,,,,S12000046,27.5165
-2011,Female,,Wales,Wales,Isle of Anglesey,,,,,,,,,W06000001,17.9201
-2011,Female,,Wales,Wales,Gwynedd,,,,,,,,,W06000002,21.5746
-2011,Female,,Wales,Wales,Conwy,,,,,,,,,W06000003,18.7091
-2011,Female,,Wales,Wales,Denbighshire,,,,,,,,,W06000004,20.4398
-2011,Female,,Wales,Wales,Flintshire,,,,,,,,,W06000005,19.7107
-2011,Female,,Wales,Wales,Wrexham,,,,,,,,,W06000006,22.9477
-2011,Female,,Wales,Wales,Ceredigion,,,,,,,,,W06000008,15.9839
-2011,Female,,Wales,Wales,Pembrokeshire,,,,,,,,,W06000009,17.6882
-2011,Female,,Wales,Wales,Carmarthenshire,,,,,,,,,W06000010,17.8166
-2011,Female,,Wales,Wales,Swansea,,,,,,,,,W06000011,22.8067
-2011,Female,,Wales,Wales,Neath Port Talbot,,,,,,,,,W06000012,24.978
-2011,Female,,Wales,Wales,Bridgend,,,,,,,,,W06000013,21.6668
-2011,Female,,Wales,Wales,Vale of Glamorgan,,,,,,,,,W06000014,21.4662
-2011,Female,,Wales,Wales,Cardiff,,,,,,,,,W06000015,19.7004
-2011,Female,,Wales,Wales,Rhondda Cynon Taf,,,,,,,,,W06000016,23.2209
-2011,Female,,Wales,Wales,Caerphilly,,,,,,,,,W06000018,24.9
-2011,Female,,Wales,Wales,Blaenau Gwent,,,,,,,,,W06000019,26.425
-2011,Female,,Wales,Wales,Torfaen,,,,,,,,,W06000020,24.5842
-2011,Female,,Wales,Wales,Monmouthshire,,,,,,,,,W06000021,15.5729
-2011,Female,,Wales,Wales,Newport,,,,,,,,,W06000022,20.8702
-2011,Female,,Wales,Wales,Powys,,,,,,,,,W06000023,16.7564
-2011,Female,,Wales,Wales,Merthyr Tydfil,,,,,,,,,W06000024,29.7179
+2011,Female,,Scotland,,Clackmannanshire,,,,,,,,,S12000005,28.5338
+2011,Female,,Scotland,,Dumfries and Galloway,,,,,,,,,S12000006,20.8745
+2011,Female,,Scotland,,East Ayrshire,,,,,,,,,S12000008,23.9999
+2011,Female,,Scotland,,East Lothian,,,,,,,,,S12000010,22.181
+2011,Female,,Scotland,,East Renfrewshire,,,,,,,,,S12000011,14.265
+2011,Female,,Scotland,,Na h-Eileanan Siar,,,,,,,,,S12000013,16.7393
+2011,Female,,Scotland,,Falkirk,,,,,,,,,S12000014,23.8911
+2011,Female,,Scotland,,Fife,,,,,,,,,S12000015,22.7963
+2011,Female,,Scotland,,Highland,,,,,,,,,S12000017,15.3852
+2011,Female,,Scotland,,Inverclyde,,,,,,,,,S12000018,24.6038
+2011,Female,,Scotland,,Midlothian,,,,,,,,,S12000019,24.9783
+2011,Female,,Scotland,,Moray,,,,,,,,,S12000020,10.5946
+2011,Female,,Scotland,,North Ayrshire,,,,,,,,,S12000021,29.4414
+2011,Female,,Scotland,,Orkney Islands,,,,,,,,,S12000023,20.4757
+2011,Female,,Scotland,,Perth and Kinross,,,,,,,,,S12000024,17.2242
+2011,Female,,Scotland,,Scottish Borders,,,,,,,,,S12000026,18.5267
+2011,Female,,Scotland,,Shetland Islands,,,,,,,,,S12000027,22.6342
+2011,Female,,Scotland,,South Ayrshire,,,,,,,,,S12000028,20.8881
+2011,Female,,Scotland,,South Lanarkshire,,,,,,,,,S12000029,21.0558
+2011,Female,,Scotland,,Stirling,,,,,,,,,S12000030,14.8401
+2011,Female,,Scotland,,Aberdeen City,,,,,,,,,S12000033,21.3951
+2011,Female,,Scotland,,Aberdeenshire,,,,,,,,,S12000034,16.4889
+2011,Female,,Scotland,,Argyll and Bute,,,,,,,,,S12000035,17.2119
+2011,Female,,Scotland,,City of Edinburgh,,,,,,,,,S12000036,19.7949
+2011,Female,,Scotland,,Renfrewshire,,,,,,,,,S12000038,24.0011
+2011,Female,,Scotland,,West Dunbartonshire,,,,,,,,,S12000039,27.146
+2011,Female,,Scotland,,West Lothian,,,,,,,,,S12000040,23.3905
+2011,Female,,Scotland,,Angus,,,,,,,,,S12000041,19.6268
+2011,Female,,Scotland,,Dundee City,,,,,,,,,S12000042,27.8121
+2011,Female,,Scotland,,North Lanarkshire,,,,,,,,,S12000044,23.9979
+2011,Female,,Scotland,,East Dunbartonshire,,,,,,,,,S12000045,12.3176
+2011,Female,,Scotland,,Glasgow City,,,,,,,,,S12000046,27.5165
+2011,Female,,Wales,,Isle of Anglesey,,,,,,,,,W06000001,17.9201
+2011,Female,,Wales,,Gwynedd,,,,,,,,,W06000002,21.5746
+2011,Female,,Wales,,Conwy,,,,,,,,,W06000003,18.7091
+2011,Female,,Wales,,Denbighshire,,,,,,,,,W06000004,20.4398
+2011,Female,,Wales,,Flintshire,,,,,,,,,W06000005,19.7107
+2011,Female,,Wales,,Wrexham,,,,,,,,,W06000006,22.9477
+2011,Female,,Wales,,Ceredigion,,,,,,,,,W06000008,15.9839
+2011,Female,,Wales,,Pembrokeshire,,,,,,,,,W06000009,17.6882
+2011,Female,,Wales,,Carmarthenshire,,,,,,,,,W06000010,17.8166
+2011,Female,,Wales,,Swansea,,,,,,,,,W06000011,22.8067
+2011,Female,,Wales,,Neath Port Talbot,,,,,,,,,W06000012,24.978
+2011,Female,,Wales,,Bridgend,,,,,,,,,W06000013,21.6668
+2011,Female,,Wales,,Vale of Glamorgan,,,,,,,,,W06000014,21.4662
+2011,Female,,Wales,,Cardiff,,,,,,,,,W06000015,19.7004
+2011,Female,,Wales,,Rhondda Cynon Taf,,,,,,,,,W06000016,23.2209
+2011,Female,,Wales,,Caerphilly,,,,,,,,,W06000018,24.9
+2011,Female,,Wales,,Blaenau Gwent,,,,,,,,,W06000019,26.425
+2011,Female,,Wales,,Torfaen,,,,,,,,,W06000020,24.5842
+2011,Female,,Wales,,Monmouthshire,,,,,,,,,W06000021,15.5729
+2011,Female,,Wales,,Newport,,,,,,,,,W06000022,20.8702
+2011,Female,,Wales,,Powys,,,,,,,,,W06000023,16.7564
+2011,Female,,Wales,,Merthyr Tydfil,,,,,,,,,W06000024,29.7179
 2012,,,England,North East,Hartlepool,,,,,,,,,E06000001,28.1377
 2012,,,England,North East,Middlesbrough,,,,,,,,,E06000002,24.8823
 2012,,,England,North East,Redcar and Cleveland,,,,,,,,,E06000003,21.5047
@@ -3515,60 +3515,60 @@ Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socio
 2012,,,England,South West,South Somerset,,,,,,,,,E07000189,21.8764
 2012,,,England,South West,Taunton Deane,,,,,,,,,E07000190,16.5417
 2012,,,England,South West,West Somerset,,,,,,,,,E07000191,19.9246
-2012,,,Scotland,Scotland,Clackmannanshire,,,,,,,,,S12000005,23.0005
-2012,,,Scotland,Scotland,Dumfries and Galloway,,,,,,,,,S12000006,22.7266
-2012,,,Scotland,Scotland,East Ayrshire,,,,,,,,,S12000008,25.3011
-2012,,,Scotland,Scotland,East Lothian,,,,,,,,,S12000010,20.3318
-2012,,,Scotland,Scotland,East Renfrewshire,,,,,,,,,S12000011,12.9979
-2012,,,Scotland,Scotland,Na h-Eileanan Siar,,,,,,,,,S12000013,18.487
-2012,,,Scotland,Scotland,Falkirk,,,,,,,,,S12000014,24.0058
-2012,,,Scotland,Scotland,Fife,,,,,,,,,S12000015,22.4786
-2012,,,Scotland,Scotland,Highland,,,,,,,,,S12000017,18.6616
-2012,,,Scotland,Scotland,Inverclyde,,,,,,,,,S12000018,24.1504
-2012,,,Scotland,Scotland,Midlothian,,,,,,,,,S12000019,19.5177
-2012,,,Scotland,Scotland,Moray,,,,,,,,,S12000020,16.0757
-2012,,,Scotland,Scotland,North Ayrshire,,,,,,,,,S12000021,27.9686
-2012,,,Scotland,Scotland,Orkney Islands,,,,,,,,,S12000023,19.2757
-2012,,,Scotland,Scotland,Perth and Kinross,,,,,,,,,S12000024,19.3613
-2012,,,Scotland,Scotland,Scottish Borders,,,,,,,,,S12000026,20.1843
-2012,,,Scotland,Scotland,Shetland Islands,,,,,,,,,S12000027,18.15
-2012,,,Scotland,Scotland,South Ayrshire,,,,,,,,,S12000028,20.1999
-2012,,,Scotland,Scotland,South Lanarkshire,,,,,,,,,S12000029,21.7499
-2012,,,Scotland,Scotland,Stirling,,,,,,,,,S12000030,17.3297
-2012,,,Scotland,Scotland,Aberdeen City,,,,,,,,,S12000033,23.9531
-2012,,,Scotland,Scotland,Aberdeenshire,,,,,,,,,S12000034,19.2665
-2012,,,Scotland,Scotland,Argyll and Bute,,,,,,,,,S12000035,21.0058
-2012,,,Scotland,Scotland,City of Edinburgh,,,,,,,,,S12000036,17.1608
-2012,,,Scotland,Scotland,Renfrewshire,,,,,,,,,S12000038,21.8926
-2012,,,Scotland,Scotland,West Dunbartonshire,,,,,,,,,S12000039,25.98
-2012,,,Scotland,Scotland,West Lothian,,,,,,,,,S12000040,20.9487
-2012,,,Scotland,Scotland,Angus,,,,,,,,,S12000041,21.7661
-2012,,,Scotland,Scotland,Dundee City,,,,,,,,,S12000042,25.4936
-2012,,,Scotland,Scotland,North Lanarkshire,,,,,,,,,S12000044,23.8131
-2012,,,Scotland,Scotland,East Dunbartonshire,,,,,,,,,S12000045,11.751
-2012,,,Scotland,Scotland,Glasgow City,,,,,,,,,S12000046,26.8091
-2012,,,Wales,Wales,Isle of Anglesey,,,,,,,,,W06000001,20.1863
-2012,,,Wales,Wales,Gwynedd,,,,,,,,,W06000002,23.1913
-2012,,,Wales,Wales,Conwy,,,,,,,,,W06000003,20.9796
-2012,,,Wales,Wales,Denbighshire,,,,,,,,,W06000004,21.6461
-2012,,,Wales,Wales,Flintshire,,,,,,,,,W06000005,18.3504
-2012,,,Wales,Wales,Wrexham,,,,,,,,,W06000006,21.5987
-2012,,,Wales,Wales,Ceredigion,,,,,,,,,W06000008,15.2116
-2012,,,Wales,Wales,Pembrokeshire,,,,,,,,,W06000009,18.8206
-2012,,,Wales,Wales,Carmarthenshire,,,,,,,,,W06000010,19.6886
-2012,,,Wales,Wales,Swansea,,,,,,,,,W06000011,20.6078
-2012,,,Wales,Wales,Neath Port Talbot,,,,,,,,,W06000012,23.2009
-2012,,,Wales,Wales,Bridgend,,,,,,,,,W06000013,20.8428
-2012,,,Wales,Wales,Vale of Glamorgan,,,,,,,,,W06000014,17.2186
-2012,,,Wales,Wales,Cardiff,,,,,,,,,W06000015,19.2319
-2012,,,Wales,Wales,Rhondda Cynon Taf,,,,,,,,,W06000016,27.2887
-2012,,,Wales,Wales,Caerphilly,,,,,,,,,W06000018,22.0711
-2012,,,Wales,Wales,Blaenau Gwent,,,,,,,,,W06000019,26.3716
-2012,,,Wales,Wales,Torfaen,,,,,,,,,W06000020,25.1318
-2012,,,Wales,Wales,Monmouthshire,,,,,,,,,W06000021,16.4881
-2012,,,Wales,Wales,Newport,,,,,,,,,W06000022,20.754
-2012,,,Wales,Wales,Powys,,,,,,,,,W06000023,17.9738
-2012,,,Wales,Wales,Merthyr Tydfil,,,,,,,,,W06000024,25.5725
+2012,,,Scotland,,Clackmannanshire,,,,,,,,,S12000005,23.0005
+2012,,,Scotland,,Dumfries and Galloway,,,,,,,,,S12000006,22.7266
+2012,,,Scotland,,East Ayrshire,,,,,,,,,S12000008,25.3011
+2012,,,Scotland,,East Lothian,,,,,,,,,S12000010,20.3318
+2012,,,Scotland,,East Renfrewshire,,,,,,,,,S12000011,12.9979
+2012,,,Scotland,,Na h-Eileanan Siar,,,,,,,,,S12000013,18.487
+2012,,,Scotland,,Falkirk,,,,,,,,,S12000014,24.0058
+2012,,,Scotland,,Fife,,,,,,,,,S12000015,22.4786
+2012,,,Scotland,,Highland,,,,,,,,,S12000017,18.6616
+2012,,,Scotland,,Inverclyde,,,,,,,,,S12000018,24.1504
+2012,,,Scotland,,Midlothian,,,,,,,,,S12000019,19.5177
+2012,,,Scotland,,Moray,,,,,,,,,S12000020,16.0757
+2012,,,Scotland,,North Ayrshire,,,,,,,,,S12000021,27.9686
+2012,,,Scotland,,Orkney Islands,,,,,,,,,S12000023,19.2757
+2012,,,Scotland,,Perth and Kinross,,,,,,,,,S12000024,19.3613
+2012,,,Scotland,,Scottish Borders,,,,,,,,,S12000026,20.1843
+2012,,,Scotland,,Shetland Islands,,,,,,,,,S12000027,18.15
+2012,,,Scotland,,South Ayrshire,,,,,,,,,S12000028,20.1999
+2012,,,Scotland,,South Lanarkshire,,,,,,,,,S12000029,21.7499
+2012,,,Scotland,,Stirling,,,,,,,,,S12000030,17.3297
+2012,,,Scotland,,Aberdeen City,,,,,,,,,S12000033,23.9531
+2012,,,Scotland,,Aberdeenshire,,,,,,,,,S12000034,19.2665
+2012,,,Scotland,,Argyll and Bute,,,,,,,,,S12000035,21.0058
+2012,,,Scotland,,City of Edinburgh,,,,,,,,,S12000036,17.1608
+2012,,,Scotland,,Renfrewshire,,,,,,,,,S12000038,21.8926
+2012,,,Scotland,,West Dunbartonshire,,,,,,,,,S12000039,25.98
+2012,,,Scotland,,West Lothian,,,,,,,,,S12000040,20.9487
+2012,,,Scotland,,Angus,,,,,,,,,S12000041,21.7661
+2012,,,Scotland,,Dundee City,,,,,,,,,S12000042,25.4936
+2012,,,Scotland,,North Lanarkshire,,,,,,,,,S12000044,23.8131
+2012,,,Scotland,,East Dunbartonshire,,,,,,,,,S12000045,11.751
+2012,,,Scotland,,Glasgow City,,,,,,,,,S12000046,26.8091
+2012,,,Wales,,Isle of Anglesey,,,,,,,,,W06000001,20.1863
+2012,,,Wales,,Gwynedd,,,,,,,,,W06000002,23.1913
+2012,,,Wales,,Conwy,,,,,,,,,W06000003,20.9796
+2012,,,Wales,,Denbighshire,,,,,,,,,W06000004,21.6461
+2012,,,Wales,,Flintshire,,,,,,,,,W06000005,18.3504
+2012,,,Wales,,Wrexham,,,,,,,,,W06000006,21.5987
+2012,,,Wales,,Ceredigion,,,,,,,,,W06000008,15.2116
+2012,,,Wales,,Pembrokeshire,,,,,,,,,W06000009,18.8206
+2012,,,Wales,,Carmarthenshire,,,,,,,,,W06000010,19.6886
+2012,,,Wales,,Swansea,,,,,,,,,W06000011,20.6078
+2012,,,Wales,,Neath Port Talbot,,,,,,,,,W06000012,23.2009
+2012,,,Wales,,Bridgend,,,,,,,,,W06000013,20.8428
+2012,,,Wales,,Vale of Glamorgan,,,,,,,,,W06000014,17.2186
+2012,,,Wales,,Cardiff,,,,,,,,,W06000015,19.2319
+2012,,,Wales,,Rhondda Cynon Taf,,,,,,,,,W06000016,27.2887
+2012,,,Wales,,Caerphilly,,,,,,,,,W06000018,22.0711
+2012,,,Wales,,Blaenau Gwent,,,,,,,,,W06000019,26.3716
+2012,,,Wales,,Torfaen,,,,,,,,,W06000020,25.1318
+2012,,,Wales,,Monmouthshire,,,,,,,,,W06000021,16.4881
+2012,,,Wales,,Newport,,,,,,,,,W06000022,20.754
+2012,,,Wales,,Powys,,,,,,,,,W06000023,17.9738
+2012,,,Wales,,Merthyr Tydfil,,,,,,,,,W06000024,25.5725
 2012,Male,,England,North East,Hartlepool,,,,,,,,,E06000001,28.7567
 2012,Male,,England,North East,Middlesbrough,,,,,,,,,E06000002,25.2898
 2012,Male,,England,North East,Redcar and Cleveland,,,,,,,,,E06000003,21.1835
@@ -3893,60 +3893,60 @@ Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socio
 2012,Male,,England,South West,South Somerset,,,,,,,,,E07000189,22.7004
 2012,Male,,England,South West,Taunton Deane,,,,,,,,,E07000190,17.9531
 2012,Male,,England,South West,West Somerset,,,,,,,,,E07000191,16.2996
-2012,Male,,Scotland,Scotland,Clackmannanshire,,,,,,,,,S12000005,24.0986
-2012,Male,,Scotland,Scotland,Dumfries and Galloway,,,,,,,,,S12000006,25.4514
-2012,Male,,Scotland,Scotland,East Ayrshire,,,,,,,,,S12000008,27.9278
-2012,Male,,Scotland,Scotland,East Lothian,,,,,,,,,S12000010,20.1828
-2012,Male,,Scotland,Scotland,East Renfrewshire,,,,,,,,,S12000011,13.4764
-2012,Male,,Scotland,Scotland,Na h-Eileanan Siar,,,,,,,,,S12000013,19.4646
-2012,Male,,Scotland,Scotland,Falkirk,,,,,,,,,S12000014,26.8133
-2012,Male,,Scotland,Scotland,Fife,,,,,,,,,S12000015,25.1635
-2012,Male,,Scotland,Scotland,Highland,,,,,,,,,S12000017,21.2667
-2012,Male,,Scotland,Scotland,Inverclyde,,,,,,,,,S12000018,25.0052
-2012,Male,,Scotland,Scotland,Midlothian,,,,,,,,,S12000019,19.9661
-2012,Male,,Scotland,Scotland,Moray,,,,,,,,,S12000020,18.6177
-2012,Male,,Scotland,Scotland,North Ayrshire,,,,,,,,,S12000021,28.6627
-2012,Male,,Scotland,Scotland,Orkney Islands,,,,,,,,,S12000023,20.9172
-2012,Male,,Scotland,Scotland,Perth and Kinross,,,,,,,,,S12000024,20.6579
-2012,Male,,Scotland,Scotland,Scottish Borders,,,,,,,,,S12000026,22.5875
-2012,Male,,Scotland,Scotland,Shetland Islands,,,,,,,,,S12000027,21.3856
-2012,Male,,Scotland,Scotland,South Ayrshire,,,,,,,,,S12000028,22.082
-2012,Male,,Scotland,Scotland,South Lanarkshire,,,,,,,,,S12000029,24.4085
-2012,Male,,Scotland,Scotland,Stirling,,,,,,,,,S12000030,18.7944
-2012,Male,,Scotland,Scotland,Aberdeen City,,,,,,,,,S12000033,26.787
-2012,Male,,Scotland,Scotland,Aberdeenshire,,,,,,,,,S12000034,20.199
-2012,Male,,Scotland,Scotland,Argyll and Bute,,,,,,,,,S12000035,23.6467
-2012,Male,,Scotland,Scotland,City of Edinburgh,,,,,,,,,S12000036,19.3765
-2012,Male,,Scotland,Scotland,Renfrewshire,,,,,,,,,S12000038,24.0656
-2012,Male,,Scotland,Scotland,West Dunbartonshire,,,,,,,,,S12000039,28.4427
-2012,Male,,Scotland,Scotland,West Lothian,,,,,,,,,S12000040,20.8948
-2012,Male,,Scotland,Scotland,Angus,,,,,,,,,S12000041,24.6148
-2012,Male,,Scotland,Scotland,Dundee City,,,,,,,,,S12000042,28.3126
-2012,Male,,Scotland,Scotland,North Lanarkshire,,,,,,,,,S12000044,25.3307
-2012,Male,,Scotland,Scotland,East Dunbartonshire,,,,,,,,,S12000045,14.1947
-2012,Male,,Scotland,Scotland,Glasgow City,,,,,,,,,S12000046,30.7709
-2012,Male,,Wales,Wales,Isle of Anglesey,,,,,,,,,W06000001,21.9723
-2012,Male,,Wales,Wales,Gwynedd,,,,,,,,,W06000002,23.766
-2012,Male,,Wales,Wales,Conwy,,,,,,,,,W06000003,23.6671
-2012,Male,,Wales,Wales,Denbighshire,,,,,,,,,W06000004,24.4753
-2012,Male,,Wales,Wales,Flintshire,,,,,,,,,W06000005,18.7525
-2012,Male,,Wales,Wales,Wrexham,,,,,,,,,W06000006,21.3521
-2012,Male,,Wales,Wales,Ceredigion,,,,,,,,,W06000008,15.4271
-2012,Male,,Wales,Wales,Pembrokeshire,,,,,,,,,W06000009,20.736
-2012,Male,,Wales,Wales,Carmarthenshire,,,,,,,,,W06000010,19.2683
-2012,Male,,Wales,Wales,Swansea,,,,,,,,,W06000011,20.3603
-2012,Male,,Wales,Wales,Neath Port Talbot,,,,,,,,,W06000012,25.2076
-2012,Male,,Wales,Wales,Bridgend,,,,,,,,,W06000013,21.4625
-2012,Male,,Wales,Wales,Vale of Glamorgan,,,,,,,,,W06000014,17.8616
-2012,Male,,Wales,Wales,Cardiff,,,,,,,,,W06000015,20.0118
-2012,Male,,Wales,Wales,Rhondda Cynon Taf,,,,,,,,,W06000016,27.7447
-2012,Male,,Wales,Wales,Caerphilly,,,,,,,,,W06000018,23.6185
-2012,Male,,Wales,Wales,Blaenau Gwent,,,,,,,,,W06000019,26.6659
-2012,Male,,Wales,Wales,Torfaen,,,,,,,,,W06000020,26.6322
-2012,Male,,Wales,Wales,Monmouthshire,,,,,,,,,W06000021,18.5897
-2012,Male,,Wales,Wales,Newport,,,,,,,,,W06000022,23.5678
-2012,Male,,Wales,Wales,Powys,,,,,,,,,W06000023,21.7395
-2012,Male,,Wales,Wales,Merthyr Tydfil,,,,,,,,,W06000024,24.0956
+2012,Male,,Scotland,,Clackmannanshire,,,,,,,,,S12000005,24.0986
+2012,Male,,Scotland,,Dumfries and Galloway,,,,,,,,,S12000006,25.4514
+2012,Male,,Scotland,,East Ayrshire,,,,,,,,,S12000008,27.9278
+2012,Male,,Scotland,,East Lothian,,,,,,,,,S12000010,20.1828
+2012,Male,,Scotland,,East Renfrewshire,,,,,,,,,S12000011,13.4764
+2012,Male,,Scotland,,Na h-Eileanan Siar,,,,,,,,,S12000013,19.4646
+2012,Male,,Scotland,,Falkirk,,,,,,,,,S12000014,26.8133
+2012,Male,,Scotland,,Fife,,,,,,,,,S12000015,25.1635
+2012,Male,,Scotland,,Highland,,,,,,,,,S12000017,21.2667
+2012,Male,,Scotland,,Inverclyde,,,,,,,,,S12000018,25.0052
+2012,Male,,Scotland,,Midlothian,,,,,,,,,S12000019,19.9661
+2012,Male,,Scotland,,Moray,,,,,,,,,S12000020,18.6177
+2012,Male,,Scotland,,North Ayrshire,,,,,,,,,S12000021,28.6627
+2012,Male,,Scotland,,Orkney Islands,,,,,,,,,S12000023,20.9172
+2012,Male,,Scotland,,Perth and Kinross,,,,,,,,,S12000024,20.6579
+2012,Male,,Scotland,,Scottish Borders,,,,,,,,,S12000026,22.5875
+2012,Male,,Scotland,,Shetland Islands,,,,,,,,,S12000027,21.3856
+2012,Male,,Scotland,,South Ayrshire,,,,,,,,,S12000028,22.082
+2012,Male,,Scotland,,South Lanarkshire,,,,,,,,,S12000029,24.4085
+2012,Male,,Scotland,,Stirling,,,,,,,,,S12000030,18.7944
+2012,Male,,Scotland,,Aberdeen City,,,,,,,,,S12000033,26.787
+2012,Male,,Scotland,,Aberdeenshire,,,,,,,,,S12000034,20.199
+2012,Male,,Scotland,,Argyll and Bute,,,,,,,,,S12000035,23.6467
+2012,Male,,Scotland,,City of Edinburgh,,,,,,,,,S12000036,19.3765
+2012,Male,,Scotland,,Renfrewshire,,,,,,,,,S12000038,24.0656
+2012,Male,,Scotland,,West Dunbartonshire,,,,,,,,,S12000039,28.4427
+2012,Male,,Scotland,,West Lothian,,,,,,,,,S12000040,20.8948
+2012,Male,,Scotland,,Angus,,,,,,,,,S12000041,24.6148
+2012,Male,,Scotland,,Dundee City,,,,,,,,,S12000042,28.3126
+2012,Male,,Scotland,,North Lanarkshire,,,,,,,,,S12000044,25.3307
+2012,Male,,Scotland,,East Dunbartonshire,,,,,,,,,S12000045,14.1947
+2012,Male,,Scotland,,Glasgow City,,,,,,,,,S12000046,30.7709
+2012,Male,,Wales,,Isle of Anglesey,,,,,,,,,W06000001,21.9723
+2012,Male,,Wales,,Gwynedd,,,,,,,,,W06000002,23.766
+2012,Male,,Wales,,Conwy,,,,,,,,,W06000003,23.6671
+2012,Male,,Wales,,Denbighshire,,,,,,,,,W06000004,24.4753
+2012,Male,,Wales,,Flintshire,,,,,,,,,W06000005,18.7525
+2012,Male,,Wales,,Wrexham,,,,,,,,,W06000006,21.3521
+2012,Male,,Wales,,Ceredigion,,,,,,,,,W06000008,15.4271
+2012,Male,,Wales,,Pembrokeshire,,,,,,,,,W06000009,20.736
+2012,Male,,Wales,,Carmarthenshire,,,,,,,,,W06000010,19.2683
+2012,Male,,Wales,,Swansea,,,,,,,,,W06000011,20.3603
+2012,Male,,Wales,,Neath Port Talbot,,,,,,,,,W06000012,25.2076
+2012,Male,,Wales,,Bridgend,,,,,,,,,W06000013,21.4625
+2012,Male,,Wales,,Vale of Glamorgan,,,,,,,,,W06000014,17.8616
+2012,Male,,Wales,,Cardiff,,,,,,,,,W06000015,20.0118
+2012,Male,,Wales,,Rhondda Cynon Taf,,,,,,,,,W06000016,27.7447
+2012,Male,,Wales,,Caerphilly,,,,,,,,,W06000018,23.6185
+2012,Male,,Wales,,Blaenau Gwent,,,,,,,,,W06000019,26.6659
+2012,Male,,Wales,,Torfaen,,,,,,,,,W06000020,26.6322
+2012,Male,,Wales,,Monmouthshire,,,,,,,,,W06000021,18.5897
+2012,Male,,Wales,,Newport,,,,,,,,,W06000022,23.5678
+2012,Male,,Wales,,Powys,,,,,,,,,W06000023,21.7395
+2012,Male,,Wales,,Merthyr Tydfil,,,,,,,,,W06000024,24.0956
 2012,Female,,England,North East,Hartlepool,,,,,,,,,E06000001,27.5667
 2012,Female,,England,North East,Middlesbrough,,,,,,,,,E06000002,24.5068
 2012,Female,,England,North East,Redcar and Cleveland,,,,,,,,,E06000003,21.7958
@@ -4271,60 +4271,60 @@ Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socio
 2012,Female,,England,South West,South Somerset,,,,,,,,,E07000189,21.1043
 2012,Female,,England,South West,Taunton Deane,,,,,,,,,E07000190,15.3206
 2012,Female,,England,South West,West Somerset,,,,,,,,,E07000191,23.5564
-2012,Female,,Scotland,Scotland,Clackmannanshire,,,,,,,,,S12000005,21.9827
-2012,Female,,Scotland,Scotland,Dumfries and Galloway,,,,,,,,,S12000006,20.2108
-2012,Female,,Scotland,Scotland,East Ayrshire,,,,,,,,,S12000008,22.9497
-2012,Female,,Scotland,Scotland,East Lothian,,,,,,,,,S12000010,20.463
-2012,Female,,Scotland,Scotland,East Renfrewshire,,,,,,,,,S12000011,12.5624
-2012,Female,,Scotland,Scotland,Na h-Eileanan Siar,,,,,,,,,S12000013,17.5466
-2012,Female,,Scotland,Scotland,Falkirk,,,,,,,,,S12000014,21.3959
-2012,Female,,Scotland,Scotland,Fife,,,,,,,,,S12000015,20.0069
-2012,Female,,Scotland,Scotland,Highland,,,,,,,,,S12000017,16.1919
-2012,Female,,Scotland,Scotland,Inverclyde,,,,,,,,,S12000018,23.4158
-2012,Female,,Scotland,Scotland,Midlothian,,,,,,,,,S12000019,19.1085
-2012,Female,,Scotland,Scotland,Moray,,,,,,,,,S12000020,13.5931
-2012,Female,,Scotland,Scotland,North Ayrshire,,,,,,,,,S12000021,27.366
-2012,Female,,Scotland,Scotland,Orkney Islands,,,,,,,,,S12000023,17.657
-2012,Female,,Scotland,Scotland,Perth and Kinross,,,,,,,,,S12000024,18.1722
-2012,Female,,Scotland,Scotland,Scottish Borders,,,,,,,,,S12000026,18.0106
-2012,Female,,Scotland,Scotland,Shetland Islands,,,,,,,,,S12000027,14.9641
-2012,Female,,Scotland,Scotland,South Ayrshire,,,,,,,,,S12000028,18.4442
-2012,Female,,Scotland,Scotland,South Lanarkshire,,,,,,,,,S12000029,19.3565
-2012,Female,,Scotland,Scotland,Stirling,,,,,,,,,S12000030,15.9746
-2012,Female,,Scotland,Scotland,Aberdeen City,,,,,,,,,S12000033,21.3667
-2012,Female,,Scotland,Scotland,Aberdeenshire,,,,,,,,,S12000034,18.3777
-2012,Female,,Scotland,Scotland,Argyll and Bute,,,,,,,,,S12000035,18.6433
-2012,Female,,Scotland,Scotland,City of Edinburgh,,,,,,,,,S12000036,15.1721
-2012,Female,,Scotland,Scotland,Renfrewshire,,,,,,,,,S12000038,19.9344
-2012,Female,,Scotland,Scotland,West Dunbartonshire,,,,,,,,,S12000039,23.8724
-2012,Female,,Scotland,Scotland,West Lothian,,,,,,,,,S12000040,20.9982
-2012,Female,,Scotland,Scotland,Angus,,,,,,,,,S12000041,19.1889
-2012,Female,,Scotland,Scotland,Dundee City,,,,,,,,,S12000042,22.937
-2012,Female,,Scotland,Scotland,North Lanarkshire,,,,,,,,,S12000044,22.4007
-2012,Female,,Scotland,Scotland,East Dunbartonshire,,,,,,,,,S12000045,9.5155
-2012,Female,,Scotland,Scotland,Glasgow City,,,,,,,,,S12000046,23.4131
-2012,Female,,Wales,Wales,Isle of Anglesey,,,,,,,,,W06000001,18.4825
-2012,Female,,Wales,Wales,Gwynedd,,,,,,,,,W06000002,22.6261
-2012,Female,,Wales,Wales,Conwy,,,,,,,,,W06000003,18.5222
-2012,Female,,Wales,Wales,Denbighshire,,,,,,,,,W06000004,18.9671
-2012,Female,,Wales,Wales,Flintshire,,,,,,,,,W06000005,17.9661
-2012,Female,,Wales,Wales,Wrexham,,,,,,,,,W06000006,21.8378
-2012,Female,,Wales,Wales,Ceredigion,,,,,,,,,W06000008,14.9947
-2012,Female,,Wales,Wales,Pembrokeshire,,,,,,,,,W06000009,17.0384
-2012,Female,,Wales,Wales,Carmarthenshire,,,,,,,,,W06000010,20.0784
-2012,Female,,Wales,Wales,Swansea,,,,,,,,,W06000011,20.8445
-2012,Female,,Wales,Wales,Neath Port Talbot,,,,,,,,,W06000012,21.25
-2012,Female,,Wales,Wales,Bridgend,,,,,,,,,W06000013,20.2628
-2012,Female,,Wales,Wales,Vale of Glamorgan,,,,,,,,,W06000014,16.6292
-2012,Female,,Wales,Wales,Cardiff,,,,,,,,,W06000015,18.4854
-2012,Female,,Wales,Wales,Rhondda Cynon Taf,,,,,,,,,W06000016,26.8564
-2012,Female,,Wales,Wales,Caerphilly,,,,,,,,,W06000018,20.6136
-2012,Female,,Wales,Wales,Blaenau Gwent,,,,,,,,,W06000019,26.0941
-2012,Female,,Wales,Wales,Torfaen,,,,,,,,,W06000020,23.7336
-2012,Female,,Wales,Wales,Monmouthshire,,,,,,,,,W06000021,14.5322
-2012,Female,,Wales,Wales,Newport,,,,,,,,,W06000022,18.0862
-2012,Female,,Wales,Wales,Powys,,,,,,,,,W06000023,14.3474
-2012,Female,,Wales,Wales,Merthyr Tydfil,,,,,,,,,W06000024,26.9907
+2012,Female,,Scotland,,Clackmannanshire,,,,,,,,,S12000005,21.9827
+2012,Female,,Scotland,,Dumfries and Galloway,,,,,,,,,S12000006,20.2108
+2012,Female,,Scotland,,East Ayrshire,,,,,,,,,S12000008,22.9497
+2012,Female,,Scotland,,East Lothian,,,,,,,,,S12000010,20.463
+2012,Female,,Scotland,,East Renfrewshire,,,,,,,,,S12000011,12.5624
+2012,Female,,Scotland,,Na h-Eileanan Siar,,,,,,,,,S12000013,17.5466
+2012,Female,,Scotland,,Falkirk,,,,,,,,,S12000014,21.3959
+2012,Female,,Scotland,,Fife,,,,,,,,,S12000015,20.0069
+2012,Female,,Scotland,,Highland,,,,,,,,,S12000017,16.1919
+2012,Female,,Scotland,,Inverclyde,,,,,,,,,S12000018,23.4158
+2012,Female,,Scotland,,Midlothian,,,,,,,,,S12000019,19.1085
+2012,Female,,Scotland,,Moray,,,,,,,,,S12000020,13.5931
+2012,Female,,Scotland,,North Ayrshire,,,,,,,,,S12000021,27.366
+2012,Female,,Scotland,,Orkney Islands,,,,,,,,,S12000023,17.657
+2012,Female,,Scotland,,Perth and Kinross,,,,,,,,,S12000024,18.1722
+2012,Female,,Scotland,,Scottish Borders,,,,,,,,,S12000026,18.0106
+2012,Female,,Scotland,,Shetland Islands,,,,,,,,,S12000027,14.9641
+2012,Female,,Scotland,,South Ayrshire,,,,,,,,,S12000028,18.4442
+2012,Female,,Scotland,,South Lanarkshire,,,,,,,,,S12000029,19.3565
+2012,Female,,Scotland,,Stirling,,,,,,,,,S12000030,15.9746
+2012,Female,,Scotland,,Aberdeen City,,,,,,,,,S12000033,21.3667
+2012,Female,,Scotland,,Aberdeenshire,,,,,,,,,S12000034,18.3777
+2012,Female,,Scotland,,Argyll and Bute,,,,,,,,,S12000035,18.6433
+2012,Female,,Scotland,,City of Edinburgh,,,,,,,,,S12000036,15.1721
+2012,Female,,Scotland,,Renfrewshire,,,,,,,,,S12000038,19.9344
+2012,Female,,Scotland,,West Dunbartonshire,,,,,,,,,S12000039,23.8724
+2012,Female,,Scotland,,West Lothian,,,,,,,,,S12000040,20.9982
+2012,Female,,Scotland,,Angus,,,,,,,,,S12000041,19.1889
+2012,Female,,Scotland,,Dundee City,,,,,,,,,S12000042,22.937
+2012,Female,,Scotland,,North Lanarkshire,,,,,,,,,S12000044,22.4007
+2012,Female,,Scotland,,East Dunbartonshire,,,,,,,,,S12000045,9.5155
+2012,Female,,Scotland,,Glasgow City,,,,,,,,,S12000046,23.4131
+2012,Female,,Wales,,Isle of Anglesey,,,,,,,,,W06000001,18.4825
+2012,Female,,Wales,,Gwynedd,,,,,,,,,W06000002,22.6261
+2012,Female,,Wales,,Conwy,,,,,,,,,W06000003,18.5222
+2012,Female,,Wales,,Denbighshire,,,,,,,,,W06000004,18.9671
+2012,Female,,Wales,,Flintshire,,,,,,,,,W06000005,17.9661
+2012,Female,,Wales,,Wrexham,,,,,,,,,W06000006,21.8378
+2012,Female,,Wales,,Ceredigion,,,,,,,,,W06000008,14.9947
+2012,Female,,Wales,,Pembrokeshire,,,,,,,,,W06000009,17.0384
+2012,Female,,Wales,,Carmarthenshire,,,,,,,,,W06000010,20.0784
+2012,Female,,Wales,,Swansea,,,,,,,,,W06000011,20.8445
+2012,Female,,Wales,,Neath Port Talbot,,,,,,,,,W06000012,21.25
+2012,Female,,Wales,,Bridgend,,,,,,,,,W06000013,20.2628
+2012,Female,,Wales,,Vale of Glamorgan,,,,,,,,,W06000014,16.6292
+2012,Female,,Wales,,Cardiff,,,,,,,,,W06000015,18.4854
+2012,Female,,Wales,,Rhondda Cynon Taf,,,,,,,,,W06000016,26.8564
+2012,Female,,Wales,,Caerphilly,,,,,,,,,W06000018,20.6136
+2012,Female,,Wales,,Blaenau Gwent,,,,,,,,,W06000019,26.0941
+2012,Female,,Wales,,Torfaen,,,,,,,,,W06000020,23.7336
+2012,Female,,Wales,,Monmouthshire,,,,,,,,,W06000021,14.5322
+2012,Female,,Wales,,Newport,,,,,,,,,W06000022,18.0862
+2012,Female,,Wales,,Powys,,,,,,,,,W06000023,14.3474
+2012,Female,,Wales,,Merthyr Tydfil,,,,,,,,,W06000024,26.9907
 2013,,,England,North East,Hartlepool,,,,,,,,,E06000001,23.9873
 2013,,,England,North East,Middlesbrough,,,,,,,,,E06000002,23.1232
 2013,,,England,North East,Redcar and Cleveland,,,,,,,,,E06000003,21.809
@@ -4649,60 +4649,60 @@ Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socio
 2013,,,England,South West,South Somerset,,,,,,,,,E07000189,21.4755
 2013,,,England,South West,Taunton Deane,,,,,,,,,E07000190,17.6822
 2013,,,England,South West,West Somerset,,,,,,,,,E07000191,20.2466
-2013,,,Scotland,Scotland,Clackmannanshire,,,,,,,,,S12000005,25.0069
-2013,,,Scotland,Scotland,Dumfries and Galloway,,,,,,,,,S12000006,21.3567
-2013,,,Scotland,Scotland,East Ayrshire,,,,,,,,,S12000008,24.6367
-2013,,,Scotland,Scotland,East Lothian,,,,,,,,,S12000010,19.8823
-2013,,,Scotland,Scotland,East Renfrewshire,,,,,,,,,S12000011,14.7657
-2013,,,Scotland,Scotland,Na h-Eileanan Siar,,,,,,,,,S12000013,14.6562
-2013,,,Scotland,Scotland,Falkirk,,,,,,,,,S12000014,22.5658
-2013,,,Scotland,Scotland,Fife,,,,,,,,,S12000015,22.3427
-2013,,,Scotland,Scotland,Highland,,,,,,,,,S12000017,17.2934
-2013,,,Scotland,Scotland,Inverclyde,,,,,,,,,S12000018,21.7851
-2013,,,Scotland,Scotland,Midlothian,,,,,,,,,S12000019,18.575
-2013,,,Scotland,Scotland,Moray,,,,,,,,,S12000020,13.085
-2013,,,Scotland,Scotland,North Ayrshire,,,,,,,,,S12000021,25.9874
-2013,,,Scotland,Scotland,Orkney Islands,,,,,,,,,S12000023,15.2315
-2013,,,Scotland,Scotland,Perth and Kinross,,,,,,,,,S12000024,18.9596
-2013,,,Scotland,Scotland,Scottish Borders,,,,,,,,,S12000026,18.812
-2013,,,Scotland,Scotland,Shetland Islands,,,,,,,,,S12000027,20.9364
-2013,,,Scotland,Scotland,South Ayrshire,,,,,,,,,S12000028,19.8765
-2013,,,Scotland,Scotland,South Lanarkshire,,,,,,,,,S12000029,23.1852
-2013,,,Scotland,Scotland,Stirling,,,,,,,,,S12000030,18.9799
-2013,,,Scotland,Scotland,Aberdeen City,,,,,,,,,S12000033,23.9304
-2013,,,Scotland,Scotland,Aberdeenshire,,,,,,,,,S12000034,16.1502
-2013,,,Scotland,Scotland,Argyll and Bute,,,,,,,,,S12000035,19.6123
-2013,,,Scotland,Scotland,City of Edinburgh,,,,,,,,,S12000036,17.2351
-2013,,,Scotland,Scotland,Renfrewshire,,,,,,,,,S12000038,18.8894
-2013,,,Scotland,Scotland,West Dunbartonshire,,,,,,,,,S12000039,24.7719
-2013,,,Scotland,Scotland,West Lothian,,,,,,,,,S12000040,23.4636
-2013,,,Scotland,Scotland,Angus,,,,,,,,,S12000041,25.3844
-2013,,,Scotland,Scotland,Dundee City,,,,,,,,,S12000042,29.983
-2013,,,Scotland,Scotland,North Lanarkshire,,,,,,,,,S12000044,23.8194
-2013,,,Scotland,Scotland,East Dunbartonshire,,,,,,,,,S12000045,10.6105
-2013,,,Scotland,Scotland,Glasgow City,,,,,,,,,S12000046,27.544
-2013,,,Wales,Wales,Isle of Anglesey,,,,,,,,,W06000001,21.0295
-2013,,,Wales,Wales,Gwynedd,,,,,,,,,W06000002,20.8715
-2013,,,Wales,Wales,Conwy,,,,,,,,,W06000003,19.9477
-2013,,,Wales,Wales,Denbighshire,,,,,,,,,W06000004,19.5918
-2013,,,Wales,Wales,Flintshire,,,,,,,,,W06000005,18.2624
-2013,,,Wales,Wales,Wrexham,,,,,,,,,W06000006,19.4358
-2013,,,Wales,Wales,Ceredigion,,,,,,,,,W06000008,16.6037
-2013,,,Wales,Wales,Pembrokeshire,,,,,,,,,W06000009,18.1163
-2013,,,Wales,Wales,Carmarthenshire,,,,,,,,,W06000010,18.6915
-2013,,,Wales,Wales,Swansea,,,,,,,,,W06000011,19.5896
-2013,,,Wales,Wales,Neath Port Talbot,,,,,,,,,W06000012,22.1021
-2013,,,Wales,Wales,Bridgend,,,,,,,,,W06000013,19.9878
-2013,,,Wales,Wales,Vale of Glamorgan,,,,,,,,,W06000014,16.3385
-2013,,,Wales,Wales,Cardiff,,,,,,,,,W06000015,19.1404
-2013,,,Wales,Wales,Rhondda Cynon Taf,,,,,,,,,W06000016,24.9184
-2013,,,Wales,Wales,Caerphilly,,,,,,,,,W06000018,21.5926
-2013,,,Wales,Wales,Blaenau Gwent,,,,,,,,,W06000019,24.4208
-2013,,,Wales,Wales,Torfaen,,,,,,,,,W06000020,23.2611
-2013,,,Wales,Wales,Monmouthshire,,,,,,,,,W06000021,15.7646
-2013,,,Wales,Wales,Newport,,,,,,,,,W06000022,21.8395
-2013,,,Wales,Wales,Powys,,,,,,,,,W06000023,19.3169
-2013,,,Wales,Wales,Merthyr Tydfil,,,,,,,,,W06000024,25.3044
+2013,,,Scotland,,Clackmannanshire,,,,,,,,,S12000005,25.0069
+2013,,,Scotland,,Dumfries and Galloway,,,,,,,,,S12000006,21.3567
+2013,,,Scotland,,East Ayrshire,,,,,,,,,S12000008,24.6367
+2013,,,Scotland,,East Lothian,,,,,,,,,S12000010,19.8823
+2013,,,Scotland,,East Renfrewshire,,,,,,,,,S12000011,14.7657
+2013,,,Scotland,,Na h-Eileanan Siar,,,,,,,,,S12000013,14.6562
+2013,,,Scotland,,Falkirk,,,,,,,,,S12000014,22.5658
+2013,,,Scotland,,Fife,,,,,,,,,S12000015,22.3427
+2013,,,Scotland,,Highland,,,,,,,,,S12000017,17.2934
+2013,,,Scotland,,Inverclyde,,,,,,,,,S12000018,21.7851
+2013,,,Scotland,,Midlothian,,,,,,,,,S12000019,18.575
+2013,,,Scotland,,Moray,,,,,,,,,S12000020,13.085
+2013,,,Scotland,,North Ayrshire,,,,,,,,,S12000021,25.9874
+2013,,,Scotland,,Orkney Islands,,,,,,,,,S12000023,15.2315
+2013,,,Scotland,,Perth and Kinross,,,,,,,,,S12000024,18.9596
+2013,,,Scotland,,Scottish Borders,,,,,,,,,S12000026,18.812
+2013,,,Scotland,,Shetland Islands,,,,,,,,,S12000027,20.9364
+2013,,,Scotland,,South Ayrshire,,,,,,,,,S12000028,19.8765
+2013,,,Scotland,,South Lanarkshire,,,,,,,,,S12000029,23.1852
+2013,,,Scotland,,Stirling,,,,,,,,,S12000030,18.9799
+2013,,,Scotland,,Aberdeen City,,,,,,,,,S12000033,23.9304
+2013,,,Scotland,,Aberdeenshire,,,,,,,,,S12000034,16.1502
+2013,,,Scotland,,Argyll and Bute,,,,,,,,,S12000035,19.6123
+2013,,,Scotland,,City of Edinburgh,,,,,,,,,S12000036,17.2351
+2013,,,Scotland,,Renfrewshire,,,,,,,,,S12000038,18.8894
+2013,,,Scotland,,West Dunbartonshire,,,,,,,,,S12000039,24.7719
+2013,,,Scotland,,West Lothian,,,,,,,,,S12000040,23.4636
+2013,,,Scotland,,Angus,,,,,,,,,S12000041,25.3844
+2013,,,Scotland,,Dundee City,,,,,,,,,S12000042,29.983
+2013,,,Scotland,,North Lanarkshire,,,,,,,,,S12000044,23.8194
+2013,,,Scotland,,East Dunbartonshire,,,,,,,,,S12000045,10.6105
+2013,,,Scotland,,Glasgow City,,,,,,,,,S12000046,27.544
+2013,,,Wales,,Isle of Anglesey,,,,,,,,,W06000001,21.0295
+2013,,,Wales,,Gwynedd,,,,,,,,,W06000002,20.8715
+2013,,,Wales,,Conwy,,,,,,,,,W06000003,19.9477
+2013,,,Wales,,Denbighshire,,,,,,,,,W06000004,19.5918
+2013,,,Wales,,Flintshire,,,,,,,,,W06000005,18.2624
+2013,,,Wales,,Wrexham,,,,,,,,,W06000006,19.4358
+2013,,,Wales,,Ceredigion,,,,,,,,,W06000008,16.6037
+2013,,,Wales,,Pembrokeshire,,,,,,,,,W06000009,18.1163
+2013,,,Wales,,Carmarthenshire,,,,,,,,,W06000010,18.6915
+2013,,,Wales,,Swansea,,,,,,,,,W06000011,19.5896
+2013,,,Wales,,Neath Port Talbot,,,,,,,,,W06000012,22.1021
+2013,,,Wales,,Bridgend,,,,,,,,,W06000013,19.9878
+2013,,,Wales,,Vale of Glamorgan,,,,,,,,,W06000014,16.3385
+2013,,,Wales,,Cardiff,,,,,,,,,W06000015,19.1404
+2013,,,Wales,,Rhondda Cynon Taf,,,,,,,,,W06000016,24.9184
+2013,,,Wales,,Caerphilly,,,,,,,,,W06000018,21.5926
+2013,,,Wales,,Blaenau Gwent,,,,,,,,,W06000019,24.4208
+2013,,,Wales,,Torfaen,,,,,,,,,W06000020,23.2611
+2013,,,Wales,,Monmouthshire,,,,,,,,,W06000021,15.7646
+2013,,,Wales,,Newport,,,,,,,,,W06000022,21.8395
+2013,,,Wales,,Powys,,,,,,,,,W06000023,19.3169
+2013,,,Wales,,Merthyr Tydfil,,,,,,,,,W06000024,25.3044
 2013,Male,,England,North East,Hartlepool,,,,,,,,,E06000001,24.9551
 2013,Male,,England,North East,Middlesbrough,,,,,,,,,E06000002,23.7409
 2013,Male,,England,North East,Redcar and Cleveland,,,,,,,,,E06000003,21.7053
@@ -5027,60 +5027,60 @@ Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socio
 2013,Male,,England,South West,South Somerset,,,,,,,,,E07000189,22.4373
 2013,Male,,England,South West,Taunton Deane,,,,,,,,,E07000190,21.595
 2013,Male,,England,South West,West Somerset,,,,,,,,,E07000191,18.7621
-2013,Male,,Scotland,Scotland,Clackmannanshire,,,,,,,,,S12000005,26.2662
-2013,Male,,Scotland,Scotland,Dumfries and Galloway,,,,,,,,,S12000006,21.7302
-2013,Male,,Scotland,Scotland,East Ayrshire,,,,,,,,,S12000008,26.3153
-2013,Male,,Scotland,Scotland,East Lothian,,,,,,,,,S12000010,19.6071
-2013,Male,,Scotland,Scotland,East Renfrewshire,,,,,,,,,S12000011,16.5994
-2013,Male,,Scotland,Scotland,Na h-Eileanan Siar,,,,,,,,,S12000013,16.915
-2013,Male,,Scotland,Scotland,Falkirk,,,,,,,,,S12000014,24.9978
-2013,Male,,Scotland,Scotland,Fife,,,,,,,,,S12000015,25.9874
-2013,Male,,Scotland,Scotland,Highland,,,,,,,,,S12000017,19.9423
-2013,Male,,Scotland,Scotland,Inverclyde,,,,,,,,,S12000018,21.6457
-2013,Male,,Scotland,Scotland,Midlothian,,,,,,,,,S12000019,18.9448
-2013,Male,,Scotland,Scotland,Moray,,,,,,,,,S12000020,17.1404
-2013,Male,,Scotland,Scotland,North Ayrshire,,,,,,,,,S12000021,28.354
-2013,Male,,Scotland,Scotland,Orkney Islands,,,,,,,,,S12000023,22.6889
-2013,Male,,Scotland,Scotland,Perth and Kinross,,,,,,,,,S12000024,18.858
-2013,Male,,Scotland,Scotland,Scottish Borders,,,,,,,,,S12000026,20.3631
-2013,Male,,Scotland,Scotland,Shetland Islands,,,,,,,,,S12000027,21.2008
-2013,Male,,Scotland,Scotland,South Ayrshire,,,,,,,,,S12000028,23.5883
-2013,Male,,Scotland,Scotland,South Lanarkshire,,,,,,,,,S12000029,26.2027
-2013,Male,,Scotland,Scotland,Stirling,,,,,,,,,S12000030,19.6398
-2013,Male,,Scotland,Scotland,Aberdeen City,,,,,,,,,S12000033,27.0932
-2013,Male,,Scotland,Scotland,Aberdeenshire,,,,,,,,,S12000034,16.9443
-2013,Male,,Scotland,Scotland,Argyll and Bute,,,,,,,,,S12000035,23.8834
-2013,Male,,Scotland,Scotland,City of Edinburgh,,,,,,,,,S12000036,19.5724
-2013,Male,,Scotland,Scotland,Renfrewshire,,,,,,,,,S12000038,20.846
-2013,Male,,Scotland,Scotland,West Dunbartonshire,,,,,,,,,S12000039,25.2284
-2013,Male,,Scotland,Scotland,West Lothian,,,,,,,,,S12000040,25.086
-2013,Male,,Scotland,Scotland,Angus,,,,,,,,,S12000041,27.5458
-2013,Male,,Scotland,Scotland,Dundee City,,,,,,,,,S12000042,31.9567
-2013,Male,,Scotland,Scotland,North Lanarkshire,,,,,,,,,S12000044,25.6491
-2013,Male,,Scotland,Scotland,East Dunbartonshire,,,,,,,,,S12000045,11.3737
-2013,Male,,Scotland,Scotland,Glasgow City,,,,,,,,,S12000046,32.2396
-2013,Male,,Wales,Wales,Isle of Anglesey,,,,,,,,,W06000001,21.9974
-2013,Male,,Wales,Wales,Gwynedd,,,,,,,,,W06000002,22.235
-2013,Male,,Wales,Wales,Conwy,,,,,,,,,W06000003,20.9325
-2013,Male,,Wales,Wales,Denbighshire,,,,,,,,,W06000004,22.5291
-2013,Male,,Wales,Wales,Flintshire,,,,,,,,,W06000005,20.8567
-2013,Male,,Wales,Wales,Wrexham,,,,,,,,,W06000006,20.078
-2013,Male,,Wales,Wales,Ceredigion,,,,,,,,,W06000008,19.2234
-2013,Male,,Wales,Wales,Pembrokeshire,,,,,,,,,W06000009,21.3651
-2013,Male,,Wales,Wales,Carmarthenshire,,,,,,,,,W06000010,17.8016
-2013,Male,,Wales,Wales,Swansea,,,,,,,,,W06000011,19.6766
-2013,Male,,Wales,Wales,Neath Port Talbot,,,,,,,,,W06000012,23.3731
-2013,Male,,Wales,Wales,Bridgend,,,,,,,,,W06000013,20.9574
-2013,Male,,Wales,Wales,Vale of Glamorgan,,,,,,,,,W06000014,17.2714
-2013,Male,,Wales,Wales,Cardiff,,,,,,,,,W06000015,21.4433
-2013,Male,,Wales,Wales,Rhondda Cynon Taf,,,,,,,,,W06000016,26.1417
-2013,Male,,Wales,Wales,Caerphilly,,,,,,,,,W06000018,22.2918
-2013,Male,,Wales,Wales,Blaenau Gwent,,,,,,,,,W06000019,26.3932
-2013,Male,,Wales,Wales,Torfaen,,,,,,,,,W06000020,24.6123
-2013,Male,,Wales,Wales,Monmouthshire,,,,,,,,,W06000021,15.7513
-2013,Male,,Wales,Wales,Newport,,,,,,,,,W06000022,24.1632
-2013,Male,,Wales,Wales,Powys,,,,,,,,,W06000023,22.2066
-2013,Male,,Wales,Wales,Merthyr Tydfil,,,,,,,,,W06000024,26.1481
+2013,Male,,Scotland,,Clackmannanshire,,,,,,,,,S12000005,26.2662
+2013,Male,,Scotland,,Dumfries and Galloway,,,,,,,,,S12000006,21.7302
+2013,Male,,Scotland,,East Ayrshire,,,,,,,,,S12000008,26.3153
+2013,Male,,Scotland,,East Lothian,,,,,,,,,S12000010,19.6071
+2013,Male,,Scotland,,East Renfrewshire,,,,,,,,,S12000011,16.5994
+2013,Male,,Scotland,,Na h-Eileanan Siar,,,,,,,,,S12000013,16.915
+2013,Male,,Scotland,,Falkirk,,,,,,,,,S12000014,24.9978
+2013,Male,,Scotland,,Fife,,,,,,,,,S12000015,25.9874
+2013,Male,,Scotland,,Highland,,,,,,,,,S12000017,19.9423
+2013,Male,,Scotland,,Inverclyde,,,,,,,,,S12000018,21.6457
+2013,Male,,Scotland,,Midlothian,,,,,,,,,S12000019,18.9448
+2013,Male,,Scotland,,Moray,,,,,,,,,S12000020,17.1404
+2013,Male,,Scotland,,North Ayrshire,,,,,,,,,S12000021,28.354
+2013,Male,,Scotland,,Orkney Islands,,,,,,,,,S12000023,22.6889
+2013,Male,,Scotland,,Perth and Kinross,,,,,,,,,S12000024,18.858
+2013,Male,,Scotland,,Scottish Borders,,,,,,,,,S12000026,20.3631
+2013,Male,,Scotland,,Shetland Islands,,,,,,,,,S12000027,21.2008
+2013,Male,,Scotland,,South Ayrshire,,,,,,,,,S12000028,23.5883
+2013,Male,,Scotland,,South Lanarkshire,,,,,,,,,S12000029,26.2027
+2013,Male,,Scotland,,Stirling,,,,,,,,,S12000030,19.6398
+2013,Male,,Scotland,,Aberdeen City,,,,,,,,,S12000033,27.0932
+2013,Male,,Scotland,,Aberdeenshire,,,,,,,,,S12000034,16.9443
+2013,Male,,Scotland,,Argyll and Bute,,,,,,,,,S12000035,23.8834
+2013,Male,,Scotland,,City of Edinburgh,,,,,,,,,S12000036,19.5724
+2013,Male,,Scotland,,Renfrewshire,,,,,,,,,S12000038,20.846
+2013,Male,,Scotland,,West Dunbartonshire,,,,,,,,,S12000039,25.2284
+2013,Male,,Scotland,,West Lothian,,,,,,,,,S12000040,25.086
+2013,Male,,Scotland,,Angus,,,,,,,,,S12000041,27.5458
+2013,Male,,Scotland,,Dundee City,,,,,,,,,S12000042,31.9567
+2013,Male,,Scotland,,North Lanarkshire,,,,,,,,,S12000044,25.6491
+2013,Male,,Scotland,,East Dunbartonshire,,,,,,,,,S12000045,11.3737
+2013,Male,,Scotland,,Glasgow City,,,,,,,,,S12000046,32.2396
+2013,Male,,Wales,,Isle of Anglesey,,,,,,,,,W06000001,21.9974
+2013,Male,,Wales,,Gwynedd,,,,,,,,,W06000002,22.235
+2013,Male,,Wales,,Conwy,,,,,,,,,W06000003,20.9325
+2013,Male,,Wales,,Denbighshire,,,,,,,,,W06000004,22.5291
+2013,Male,,Wales,,Flintshire,,,,,,,,,W06000005,20.8567
+2013,Male,,Wales,,Wrexham,,,,,,,,,W06000006,20.078
+2013,Male,,Wales,,Ceredigion,,,,,,,,,W06000008,19.2234
+2013,Male,,Wales,,Pembrokeshire,,,,,,,,,W06000009,21.3651
+2013,Male,,Wales,,Carmarthenshire,,,,,,,,,W06000010,17.8016
+2013,Male,,Wales,,Swansea,,,,,,,,,W06000011,19.6766
+2013,Male,,Wales,,Neath Port Talbot,,,,,,,,,W06000012,23.3731
+2013,Male,,Wales,,Bridgend,,,,,,,,,W06000013,20.9574
+2013,Male,,Wales,,Vale of Glamorgan,,,,,,,,,W06000014,17.2714
+2013,Male,,Wales,,Cardiff,,,,,,,,,W06000015,21.4433
+2013,Male,,Wales,,Rhondda Cynon Taf,,,,,,,,,W06000016,26.1417
+2013,Male,,Wales,,Caerphilly,,,,,,,,,W06000018,22.2918
+2013,Male,,Wales,,Blaenau Gwent,,,,,,,,,W06000019,26.3932
+2013,Male,,Wales,,Torfaen,,,,,,,,,W06000020,24.6123
+2013,Male,,Wales,,Monmouthshire,,,,,,,,,W06000021,15.7513
+2013,Male,,Wales,,Newport,,,,,,,,,W06000022,24.1632
+2013,Male,,Wales,,Powys,,,,,,,,,W06000023,22.2066
+2013,Male,,Wales,,Merthyr Tydfil,,,,,,,,,W06000024,26.1481
 2013,Female,,England,North East,Hartlepool,,,,,,,,,E06000001,23.1106
 2013,Female,,England,North East,Middlesbrough,,,,,,,,,E06000002,22.5452
 2013,Female,,England,North East,Redcar and Cleveland,,,,,,,,,E06000003,21.9059
@@ -5405,60 +5405,60 @@ Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socio
 2013,Female,,England,South West,South Somerset,,,,,,,,,E07000189,20.5763
 2013,Female,,England,South West,Taunton Deane,,,,,,,,,E07000190,14.3721
 2013,Female,,England,South West,West Somerset,,,,,,,,,E07000191,21.6057
-2013,Female,,Scotland,Scotland,Clackmannanshire,,,,,,,,,S12000005,23.8053
-2013,Female,,Scotland,Scotland,Dumfries and Galloway,,,,,,,,,S12000006,21.0109
-2013,Female,,Scotland,Scotland,East Ayrshire,,,,,,,,,S12000008,23.1126
-2013,Female,,Scotland,Scotland,East Lothian,,,,,,,,,S12000010,20.121
-2013,Female,,Scotland,Scotland,East Renfrewshire,,,,,,,,,S12000011,13.1038
-2013,Female,,Scotland,Scotland,Na h-Eileanan Siar,,,,,,,,,S12000013,12.363
-2013,Female,,Scotland,Scotland,Falkirk,,,,,,,,,S12000014,20.3668
-2013,Female,,Scotland,Scotland,Fife,,,,,,,,,S12000015,19.0168
-2013,Female,,Scotland,Scotland,Highland,,,,,,,,,S12000017,14.8537
-2013,Female,,Scotland,Scotland,Inverclyde,,,,,,,,,S12000018,21.9026
-2013,Female,,Scotland,Scotland,Midlothian,,,,,,,,,S12000019,18.2473
-2013,Female,,Scotland,Scotland,Moray,,,,,,,,,S12000020,8.9957
-2013,Female,,Scotland,Scotland,North Ayrshire,,,,,,,,,S12000021,23.9887
-2013,Female,,Scotland,Scotland,Orkney Islands,,,,,,,,,S12000023,7.5915
-2013,Female,,Scotland,Scotland,Perth and Kinross,,,,,,,,,S12000024,19.0557
-2013,Female,,Scotland,Scotland,Scottish Borders,,,,,,,,,S12000026,17.3947
-2013,Female,,Scotland,Scotland,Shetland Islands,,,,,,,,,S12000027,20.6729
-2013,Female,,Scotland,Scotland,South Ayrshire,,,,,,,,,S12000028,16.5138
-2013,Female,,Scotland,Scotland,South Lanarkshire,,,,,,,,,S12000029,20.4128
-2013,Female,,Scotland,Scotland,Stirling,,,,,,,,,S12000030,18.381
-2013,Female,,Scotland,Scotland,Aberdeen City,,,,,,,,,S12000033,20.9694
-2013,Female,,Scotland,Scotland,Aberdeenshire,,,,,,,,,S12000034,15.3769
-2013,Female,,Scotland,Scotland,Argyll and Bute,,,,,,,,,S12000035,15.5155
-2013,Female,,Scotland,Scotland,City of Edinburgh,,,,,,,,,S12000036,15.1452
-2013,Female,,Scotland,Scotland,Renfrewshire,,,,,,,,,S12000038,17.0758
-2013,Female,,Scotland,Scotland,West Dunbartonshire,,,,,,,,,S12000039,24.3677
-2013,Female,,Scotland,Scotland,West Lothian,,,,,,,,,S12000040,22.0082
-2013,Female,,Scotland,Scotland,Angus,,,,,,,,,S12000041,23.3914
-2013,Female,,Scotland,Scotland,Dundee City,,,,,,,,,S12000042,28.1972
-2013,Female,,Scotland,Scotland,North Lanarkshire,,,,,,,,,S12000044,22.1312
-2013,Female,,Scotland,Scotland,East Dunbartonshire,,,,,,,,,S12000045,9.9309
-2013,Female,,Scotland,Scotland,Glasgow City,,,,,,,,,S12000046,23.3947
-2013,Female,,Wales,Wales,Isle of Anglesey,,,,,,,,,W06000001,20.0992
-2013,Female,,Wales,Wales,Gwynedd,,,,,,,,,W06000002,19.5459
-2013,Female,,Wales,Wales,Conwy,,,,,,,,,W06000003,19.0334
-2013,Female,,Wales,Wales,Denbighshire,,,,,,,,,W06000004,16.7882
-2013,Female,,Wales,Wales,Flintshire,,,,,,,,,W06000005,15.7688
-2013,Female,,Wales,Wales,Wrexham,,,,,,,,,W06000006,18.8027
-2013,Female,,Wales,Wales,Ceredigion,,,,,,,,,W06000008,13.9624
-2013,Female,,Wales,Wales,Pembrokeshire,,,,,,,,,W06000009,15.06
-2013,Female,,Wales,Wales,Carmarthenshire,,,,,,,,,W06000010,19.5322
-2013,Female,,Wales,Wales,Swansea,,,,,,,,,W06000011,19.5049
-2013,Female,,Wales,Wales,Neath Port Talbot,,,,,,,,,W06000012,20.9151
-2013,Female,,Wales,Wales,Bridgend,,,,,,,,,W06000013,19.1018
-2013,Female,,Wales,Wales,Vale of Glamorgan,,,,,,,,,W06000014,15.487
-2013,Female,,Wales,Wales,Cardiff,,,,,,,,,W06000015,16.8862
-2013,Female,,Wales,Wales,Rhondda Cynon Taf,,,,,,,,,W06000016,23.7482
-2013,Female,,Wales,Wales,Caerphilly,,,,,,,,,W06000018,20.9279
-2013,Female,,Wales,Wales,Blaenau Gwent,,,,,,,,,W06000019,22.527
-2013,Female,,Wales,Wales,Torfaen,,,,,,,,,W06000020,22.0124
-2013,Female,,Wales,Wales,Monmouthshire,,,,,,,,,W06000021,15.7764
-2013,Female,,Wales,Wales,Newport,,,,,,,,,W06000022,19.5843
-2013,Female,,Wales,Wales,Powys,,,,,,,,,W06000023,16.5541
-2013,Female,,Wales,Wales,Merthyr Tydfil,,,,,,,,,W06000024,24.5205
+2013,Female,,Scotland,,Clackmannanshire,,,,,,,,,S12000005,23.8053
+2013,Female,,Scotland,,Dumfries and Galloway,,,,,,,,,S12000006,21.0109
+2013,Female,,Scotland,,East Ayrshire,,,,,,,,,S12000008,23.1126
+2013,Female,,Scotland,,East Lothian,,,,,,,,,S12000010,20.121
+2013,Female,,Scotland,,East Renfrewshire,,,,,,,,,S12000011,13.1038
+2013,Female,,Scotland,,Na h-Eileanan Siar,,,,,,,,,S12000013,12.363
+2013,Female,,Scotland,,Falkirk,,,,,,,,,S12000014,20.3668
+2013,Female,,Scotland,,Fife,,,,,,,,,S12000015,19.0168
+2013,Female,,Scotland,,Highland,,,,,,,,,S12000017,14.8537
+2013,Female,,Scotland,,Inverclyde,,,,,,,,,S12000018,21.9026
+2013,Female,,Scotland,,Midlothian,,,,,,,,,S12000019,18.2473
+2013,Female,,Scotland,,Moray,,,,,,,,,S12000020,8.9957
+2013,Female,,Scotland,,North Ayrshire,,,,,,,,,S12000021,23.9887
+2013,Female,,Scotland,,Orkney Islands,,,,,,,,,S12000023,7.5915
+2013,Female,,Scotland,,Perth and Kinross,,,,,,,,,S12000024,19.0557
+2013,Female,,Scotland,,Scottish Borders,,,,,,,,,S12000026,17.3947
+2013,Female,,Scotland,,Shetland Islands,,,,,,,,,S12000027,20.6729
+2013,Female,,Scotland,,South Ayrshire,,,,,,,,,S12000028,16.5138
+2013,Female,,Scotland,,South Lanarkshire,,,,,,,,,S12000029,20.4128
+2013,Female,,Scotland,,Stirling,,,,,,,,,S12000030,18.381
+2013,Female,,Scotland,,Aberdeen City,,,,,,,,,S12000033,20.9694
+2013,Female,,Scotland,,Aberdeenshire,,,,,,,,,S12000034,15.3769
+2013,Female,,Scotland,,Argyll and Bute,,,,,,,,,S12000035,15.5155
+2013,Female,,Scotland,,City of Edinburgh,,,,,,,,,S12000036,15.1452
+2013,Female,,Scotland,,Renfrewshire,,,,,,,,,S12000038,17.0758
+2013,Female,,Scotland,,West Dunbartonshire,,,,,,,,,S12000039,24.3677
+2013,Female,,Scotland,,West Lothian,,,,,,,,,S12000040,22.0082
+2013,Female,,Scotland,,Angus,,,,,,,,,S12000041,23.3914
+2013,Female,,Scotland,,Dundee City,,,,,,,,,S12000042,28.1972
+2013,Female,,Scotland,,North Lanarkshire,,,,,,,,,S12000044,22.1312
+2013,Female,,Scotland,,East Dunbartonshire,,,,,,,,,S12000045,9.9309
+2013,Female,,Scotland,,Glasgow City,,,,,,,,,S12000046,23.3947
+2013,Female,,Wales,,Isle of Anglesey,,,,,,,,,W06000001,20.0992
+2013,Female,,Wales,,Gwynedd,,,,,,,,,W06000002,19.5459
+2013,Female,,Wales,,Conwy,,,,,,,,,W06000003,19.0334
+2013,Female,,Wales,,Denbighshire,,,,,,,,,W06000004,16.7882
+2013,Female,,Wales,,Flintshire,,,,,,,,,W06000005,15.7688
+2013,Female,,Wales,,Wrexham,,,,,,,,,W06000006,18.8027
+2013,Female,,Wales,,Ceredigion,,,,,,,,,W06000008,13.9624
+2013,Female,,Wales,,Pembrokeshire,,,,,,,,,W06000009,15.06
+2013,Female,,Wales,,Carmarthenshire,,,,,,,,,W06000010,19.5322
+2013,Female,,Wales,,Swansea,,,,,,,,,W06000011,19.5049
+2013,Female,,Wales,,Neath Port Talbot,,,,,,,,,W06000012,20.9151
+2013,Female,,Wales,,Bridgend,,,,,,,,,W06000013,19.1018
+2013,Female,,Wales,,Vale of Glamorgan,,,,,,,,,W06000014,15.487
+2013,Female,,Wales,,Cardiff,,,,,,,,,W06000015,16.8862
+2013,Female,,Wales,,Rhondda Cynon Taf,,,,,,,,,W06000016,23.7482
+2013,Female,,Wales,,Caerphilly,,,,,,,,,W06000018,20.9279
+2013,Female,,Wales,,Blaenau Gwent,,,,,,,,,W06000019,22.527
+2013,Female,,Wales,,Torfaen,,,,,,,,,W06000020,22.0124
+2013,Female,,Wales,,Monmouthshire,,,,,,,,,W06000021,15.7764
+2013,Female,,Wales,,Newport,,,,,,,,,W06000022,19.5843
+2013,Female,,Wales,,Powys,,,,,,,,,W06000023,16.5541
+2013,Female,,Wales,,Merthyr Tydfil,,,,,,,,,W06000024,24.5205
 2014,,,England,North East,Hartlepool,,,,,,,,,E06000001,23.5969
 2014,,,England,North East,Middlesbrough,,,,,,,,,E06000002,21.2057
 2014,,,England,North East,Redcar and Cleveland,,,,,,,,,E06000003,18.7432
@@ -5783,60 +5783,60 @@ Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socio
 2014,,,England,South West,South Somerset,,,,,,,,,E07000189,19.7856
 2014,,,England,South West,Taunton Deane,,,,,,,,,E07000190,15.1691
 2014,,,England,South West,West Somerset,,,,,,,,,E07000191,11.4897
-2014,,,Scotland,Scotland,Clackmannanshire,,,,,,,,,S12000005,24.7677
-2014,,,Scotland,Scotland,Dumfries and Galloway,,,,,,,,,S12000006,18.3161
-2014,,,Scotland,Scotland,East Ayrshire,,,,,,,,,S12000008,23.2043
-2014,,,Scotland,Scotland,East Lothian,,,,,,,,,S12000010,17.3168
-2014,,,Scotland,Scotland,East Renfrewshire,,,,,,,,,S12000011,13.2901
-2014,,,Scotland,Scotland,Na h-Eileanan Siar,,,,,,,,,S12000013,15.1003
-2014,,,Scotland,Scotland,Falkirk,,,,,,,,,S12000014,21.2442
-2014,,,Scotland,Scotland,Fife,,,,,,,,,S12000015,20.8207
-2014,,,Scotland,Scotland,Highland,,,,,,,,,S12000017,15.423
-2014,,,Scotland,Scotland,Inverclyde,,,,,,,,,S12000018,22.365
-2014,,,Scotland,Scotland,Midlothian,,,,,,,,,S12000019,17.9194
-2014,,,Scotland,Scotland,Moray,,,,,,,,,S12000020,15.1524
-2014,,,Scotland,Scotland,North Ayrshire,,,,,,,,,S12000021,22.6278
-2014,,,Scotland,Scotland,Orkney Islands,,,,,,,,,S12000023,11.7522
-2014,,,Scotland,Scotland,Perth and Kinross,,,,,,,,,S12000024,14.8743
-2014,,,Scotland,Scotland,Scottish Borders,,,,,,,,,S12000026,16.0617
-2014,,,Scotland,Scotland,Shetland Islands,,,,,,,,,S12000027,20.2222
-2014,,,Scotland,Scotland,South Ayrshire,,,,,,,,,S12000028,19.8055
-2014,,,Scotland,Scotland,South Lanarkshire,,,,,,,,,S12000029,21.0506
-2014,,,Scotland,Scotland,Stirling,,,,,,,,,S12000030,13.9497
-2014,,,Scotland,Scotland,Aberdeen City,,,,,,,,,S12000033,19.1404
-2014,,,Scotland,Scotland,Aberdeenshire,,,,,,,,,S12000034,16.0935
-2014,,,Scotland,Scotland,Argyll and Bute,,,,,,,,,S12000035,19.7366
-2014,,,Scotland,Scotland,City of Edinburgh,,,,,,,,,S12000036,18.9074
-2014,,,Scotland,Scotland,Renfrewshire,,,,,,,,,S12000038,20.8819
-2014,,,Scotland,Scotland,West Dunbartonshire,,,,,,,,,S12000039,23.3302
-2014,,,Scotland,Scotland,West Lothian,,,,,,,,,S12000040,20.8546
-2014,,,Scotland,Scotland,Angus,,,,,,,,,S12000041,19.0218
-2014,,,Scotland,Scotland,Dundee City,,,,,,,,,S12000042,32.6276
-2014,,,Scotland,Scotland,North Lanarkshire,,,,,,,,,S12000044,24.5336
-2014,,,Scotland,Scotland,East Dunbartonshire,,,,,,,,,S12000045,10.8572
-2014,,,Scotland,Scotland,Glasgow City,,,,,,,,,S12000046,25.7967
-2014,,,Wales,Wales,Isle of Anglesey,,,,,,,,,W06000001,19.442
-2014,,,Wales,Wales,Gwynedd,,,,,,,,,W06000002,18.2088
-2014,,,Wales,Wales,Conwy,,,,,,,,,W06000003,19.9101
-2014,,,Wales,Wales,Denbighshire,,,,,,,,,W06000004,19.0856
-2014,,,Wales,Wales,Flintshire,,,,,,,,,W06000005,17.6112
-2014,,,Wales,Wales,Wrexham,,,,,,,,,W06000006,19.5189
-2014,,,Wales,Wales,Ceredigion,,,,,,,,,W06000008,18.6082
-2014,,,Wales,Wales,Pembrokeshire,,,,,,,,,W06000009,17.4691
-2014,,,Wales,Wales,Carmarthenshire,,,,,,,,,W06000010,15.452
-2014,,,Wales,Wales,Swansea,,,,,,,,,W06000011,20.1639
-2014,,,Wales,Wales,Neath Port Talbot,,,,,,,,,W06000012,21.5979
-2014,,,Wales,Wales,Bridgend,,,,,,,,,W06000013,19.3867
-2014,,,Wales,Wales,Vale of Glamorgan,,,,,,,,,W06000014,18.4802
-2014,,,Wales,Wales,Cardiff,,,,,,,,,W06000015,17.9287
-2014,,,Wales,Wales,Rhondda Cynon Taf,,,,,,,,,W06000016,21.2569
-2014,,,Wales,Wales,Caerphilly,,,,,,,,,W06000018,23.9098
-2014,,,Wales,Wales,Blaenau Gwent,,,,,,,,,W06000019,25.1427
-2014,,,Wales,Wales,Torfaen,,,,,,,,,W06000020,23.4196
-2014,,,Wales,Wales,Monmouthshire,,,,,,,,,W06000021,14.0583
-2014,,,Wales,Wales,Newport,,,,,,,,,W06000022,19.3236
-2014,,,Wales,Wales,Powys,,,,,,,,,W06000023,17.761
-2014,,,Wales,Wales,Merthyr Tydfil,,,,,,,,,W06000024,24.4641
+2014,,,Scotland,,Clackmannanshire,,,,,,,,,S12000005,24.7677
+2014,,,Scotland,,Dumfries and Galloway,,,,,,,,,S12000006,18.3161
+2014,,,Scotland,,East Ayrshire,,,,,,,,,S12000008,23.2043
+2014,,,Scotland,,East Lothian,,,,,,,,,S12000010,17.3168
+2014,,,Scotland,,East Renfrewshire,,,,,,,,,S12000011,13.2901
+2014,,,Scotland,,Na h-Eileanan Siar,,,,,,,,,S12000013,15.1003
+2014,,,Scotland,,Falkirk,,,,,,,,,S12000014,21.2442
+2014,,,Scotland,,Fife,,,,,,,,,S12000015,20.8207
+2014,,,Scotland,,Highland,,,,,,,,,S12000017,15.423
+2014,,,Scotland,,Inverclyde,,,,,,,,,S12000018,22.365
+2014,,,Scotland,,Midlothian,,,,,,,,,S12000019,17.9194
+2014,,,Scotland,,Moray,,,,,,,,,S12000020,15.1524
+2014,,,Scotland,,North Ayrshire,,,,,,,,,S12000021,22.6278
+2014,,,Scotland,,Orkney Islands,,,,,,,,,S12000023,11.7522
+2014,,,Scotland,,Perth and Kinross,,,,,,,,,S12000024,14.8743
+2014,,,Scotland,,Scottish Borders,,,,,,,,,S12000026,16.0617
+2014,,,Scotland,,Shetland Islands,,,,,,,,,S12000027,20.2222
+2014,,,Scotland,,South Ayrshire,,,,,,,,,S12000028,19.8055
+2014,,,Scotland,,South Lanarkshire,,,,,,,,,S12000029,21.0506
+2014,,,Scotland,,Stirling,,,,,,,,,S12000030,13.9497
+2014,,,Scotland,,Aberdeen City,,,,,,,,,S12000033,19.1404
+2014,,,Scotland,,Aberdeenshire,,,,,,,,,S12000034,16.0935
+2014,,,Scotland,,Argyll and Bute,,,,,,,,,S12000035,19.7366
+2014,,,Scotland,,City of Edinburgh,,,,,,,,,S12000036,18.9074
+2014,,,Scotland,,Renfrewshire,,,,,,,,,S12000038,20.8819
+2014,,,Scotland,,West Dunbartonshire,,,,,,,,,S12000039,23.3302
+2014,,,Scotland,,West Lothian,,,,,,,,,S12000040,20.8546
+2014,,,Scotland,,Angus,,,,,,,,,S12000041,19.0218
+2014,,,Scotland,,Dundee City,,,,,,,,,S12000042,32.6276
+2014,,,Scotland,,North Lanarkshire,,,,,,,,,S12000044,24.5336
+2014,,,Scotland,,East Dunbartonshire,,,,,,,,,S12000045,10.8572
+2014,,,Scotland,,Glasgow City,,,,,,,,,S12000046,25.7967
+2014,,,Wales,,Isle of Anglesey,,,,,,,,,W06000001,19.442
+2014,,,Wales,,Gwynedd,,,,,,,,,W06000002,18.2088
+2014,,,Wales,,Conwy,,,,,,,,,W06000003,19.9101
+2014,,,Wales,,Denbighshire,,,,,,,,,W06000004,19.0856
+2014,,,Wales,,Flintshire,,,,,,,,,W06000005,17.6112
+2014,,,Wales,,Wrexham,,,,,,,,,W06000006,19.5189
+2014,,,Wales,,Ceredigion,,,,,,,,,W06000008,18.6082
+2014,,,Wales,,Pembrokeshire,,,,,,,,,W06000009,17.4691
+2014,,,Wales,,Carmarthenshire,,,,,,,,,W06000010,15.452
+2014,,,Wales,,Swansea,,,,,,,,,W06000011,20.1639
+2014,,,Wales,,Neath Port Talbot,,,,,,,,,W06000012,21.5979
+2014,,,Wales,,Bridgend,,,,,,,,,W06000013,19.3867
+2014,,,Wales,,Vale of Glamorgan,,,,,,,,,W06000014,18.4802
+2014,,,Wales,,Cardiff,,,,,,,,,W06000015,17.9287
+2014,,,Wales,,Rhondda Cynon Taf,,,,,,,,,W06000016,21.2569
+2014,,,Wales,,Caerphilly,,,,,,,,,W06000018,23.9098
+2014,,,Wales,,Blaenau Gwent,,,,,,,,,W06000019,25.1427
+2014,,,Wales,,Torfaen,,,,,,,,,W06000020,23.4196
+2014,,,Wales,,Monmouthshire,,,,,,,,,W06000021,14.0583
+2014,,,Wales,,Newport,,,,,,,,,W06000022,19.3236
+2014,,,Wales,,Powys,,,,,,,,,W06000023,17.761
+2014,,,Wales,,Merthyr Tydfil,,,,,,,,,W06000024,24.4641
 2014,Male,,England,North East,Hartlepool,,,,,,,,,E06000001,25.109
 2014,Male,,England,North East,Middlesbrough,,,,,,,,,E06000002,21.7257
 2014,Male,,England,North East,Redcar and Cleveland,,,,,,,,,E06000003,19.8429
@@ -6161,60 +6161,60 @@ Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socio
 2014,Male,,England,South West,South Somerset,,,,,,,,,E07000189,23.8571
 2014,Male,,England,South West,Taunton Deane,,,,,,,,,E07000190,20.9601
 2014,Male,,England,South West,West Somerset,,,,,,,,,E07000191,13.0714
-2014,Male,,Scotland,Scotland,Clackmannanshire,,,,,,,,,S12000005,27.2839
-2014,Male,,Scotland,Scotland,Dumfries and Galloway,,,,,,,,,S12000006,19.8955
-2014,Male,,Scotland,Scotland,East Ayrshire,,,,,,,,,S12000008,25.3551
-2014,Male,,Scotland,Scotland,East Lothian,,,,,,,,,S12000010,17.9617
-2014,Male,,Scotland,Scotland,East Renfrewshire,,,,,,,,,S12000011,13.5601
-2014,Male,,Scotland,Scotland,Na h-Eileanan Siar,,,,,,,,,S12000013,17.7721
-2014,Male,,Scotland,Scotland,Falkirk,,,,,,,,,S12000014,23.3244
-2014,Male,,Scotland,Scotland,Fife,,,,,,,,,S12000015,20.5326
-2014,Male,,Scotland,Scotland,Highland,,,,,,,,,S12000017,17.7895
-2014,Male,,Scotland,Scotland,Inverclyde,,,,,,,,,S12000018,21.827
-2014,Male,,Scotland,Scotland,Midlothian,,,,,,,,,S12000019,17.0871
-2014,Male,,Scotland,Scotland,Moray,,,,,,,,,S12000020,18.0114
-2014,Male,,Scotland,Scotland,North Ayrshire,,,,,,,,,S12000021,23.1031
-2014,Male,,Scotland,Scotland,Orkney Islands,,,,,,,,,S12000023,15.2924
-2014,Male,,Scotland,Scotland,Perth and Kinross,,,,,,,,,S12000024,18.2222
-2014,Male,,Scotland,Scotland,Scottish Borders,,,,,,,,,S12000026,18.1014
-2014,Male,,Scotland,Scotland,Shetland Islands,,,,,,,,,S12000027,16.6298
-2014,Male,,Scotland,Scotland,South Ayrshire,,,,,,,,,S12000028,20.9686
-2014,Male,,Scotland,Scotland,South Lanarkshire,,,,,,,,,S12000029,24.2761
-2014,Male,,Scotland,Scotland,Stirling,,,,,,,,,S12000030,16.1522
-2014,Male,,Scotland,Scotland,Aberdeen City,,,,,,,,,S12000033,22.3936
-2014,Male,,Scotland,Scotland,Aberdeenshire,,,,,,,,,S12000034,17.6496
-2014,Male,,Scotland,Scotland,Argyll and Bute,,,,,,,,,S12000035,24.4951
-2014,Male,,Scotland,Scotland,City of Edinburgh,,,,,,,,,S12000036,20.6655
-2014,Male,,Scotland,Scotland,Renfrewshire,,,,,,,,,S12000038,22.662
-2014,Male,,Scotland,Scotland,West Dunbartonshire,,,,,,,,,S12000039,25.8706
-2014,Male,,Scotland,Scotland,West Lothian,,,,,,,,,S12000040,23.2416
-2014,Male,,Scotland,Scotland,Angus,,,,,,,,,S12000041,21.0577
-2014,Male,,Scotland,Scotland,Dundee City,,,,,,,,,S12000042,36.1111
-2014,Male,,Scotland,Scotland,North Lanarkshire,,,,,,,,,S12000044,25.2817
-2014,Male,,Scotland,Scotland,East Dunbartonshire,,,,,,,,,S12000045,12.6964
-2014,Male,,Scotland,Scotland,Glasgow City,,,,,,,,,S12000046,29.1164
-2014,Male,,Wales,Wales,Isle of Anglesey,,,,,,,,,W06000001,21.6905
-2014,Male,,Wales,Wales,Gwynedd,,,,,,,,,W06000002,20.3165
-2014,Male,,Wales,Wales,Conwy,,,,,,,,,W06000003,21.9198
-2014,Male,,Wales,Wales,Denbighshire,,,,,,,,,W06000004,20.161
-2014,Male,,Wales,Wales,Flintshire,,,,,,,,,W06000005,18.7136
-2014,Male,,Wales,Wales,Wrexham,,,,,,,,,W06000006,19.4731
-2014,Male,,Wales,Wales,Ceredigion,,,,,,,,,W06000008,19.9139
-2014,Male,,Wales,Wales,Pembrokeshire,,,,,,,,,W06000009,21.4295
-2014,Male,,Wales,Wales,Carmarthenshire,,,,,,,,,W06000010,16.9121
-2014,Male,,Wales,Wales,Swansea,,,,,,,,,W06000011,23.7507
-2014,Male,,Wales,Wales,Neath Port Talbot,,,,,,,,,W06000012,21.8407
-2014,Male,,Wales,Wales,Bridgend,,,,,,,,,W06000013,19.9665
-2014,Male,,Wales,Wales,Vale of Glamorgan,,,,,,,,,W06000014,21.1428
-2014,Male,,Wales,Wales,Cardiff,,,,,,,,,W06000015,20.7845
-2014,Male,,Wales,Wales,Rhondda Cynon Taf,,,,,,,,,W06000016,20.71
-2014,Male,,Wales,Wales,Caerphilly,,,,,,,,,W06000018,26.2064
-2014,Male,,Wales,Wales,Blaenau Gwent,,,,,,,,,W06000019,25.7483
-2014,Male,,Wales,Wales,Torfaen,,,,,,,,,W06000020,25.064
-2014,Male,,Wales,Wales,Monmouthshire,,,,,,,,,W06000021,15.6744
-2014,Male,,Wales,Wales,Newport,,,,,,,,,W06000022,19.4574
-2014,Male,,Wales,Wales,Powys,,,,,,,,,W06000023,20.7348
-2014,Male,,Wales,Wales,Merthyr Tydfil,,,,,,,,,W06000024,25.4222
+2014,Male,,Scotland,,Clackmannanshire,,,,,,,,,S12000005,27.2839
+2014,Male,,Scotland,,Dumfries and Galloway,,,,,,,,,S12000006,19.8955
+2014,Male,,Scotland,,East Ayrshire,,,,,,,,,S12000008,25.3551
+2014,Male,,Scotland,,East Lothian,,,,,,,,,S12000010,17.9617
+2014,Male,,Scotland,,East Renfrewshire,,,,,,,,,S12000011,13.5601
+2014,Male,,Scotland,,Na h-Eileanan Siar,,,,,,,,,S12000013,17.7721
+2014,Male,,Scotland,,Falkirk,,,,,,,,,S12000014,23.3244
+2014,Male,,Scotland,,Fife,,,,,,,,,S12000015,20.5326
+2014,Male,,Scotland,,Highland,,,,,,,,,S12000017,17.7895
+2014,Male,,Scotland,,Inverclyde,,,,,,,,,S12000018,21.827
+2014,Male,,Scotland,,Midlothian,,,,,,,,,S12000019,17.0871
+2014,Male,,Scotland,,Moray,,,,,,,,,S12000020,18.0114
+2014,Male,,Scotland,,North Ayrshire,,,,,,,,,S12000021,23.1031
+2014,Male,,Scotland,,Orkney Islands,,,,,,,,,S12000023,15.2924
+2014,Male,,Scotland,,Perth and Kinross,,,,,,,,,S12000024,18.2222
+2014,Male,,Scotland,,Scottish Borders,,,,,,,,,S12000026,18.1014
+2014,Male,,Scotland,,Shetland Islands,,,,,,,,,S12000027,16.6298
+2014,Male,,Scotland,,South Ayrshire,,,,,,,,,S12000028,20.9686
+2014,Male,,Scotland,,South Lanarkshire,,,,,,,,,S12000029,24.2761
+2014,Male,,Scotland,,Stirling,,,,,,,,,S12000030,16.1522
+2014,Male,,Scotland,,Aberdeen City,,,,,,,,,S12000033,22.3936
+2014,Male,,Scotland,,Aberdeenshire,,,,,,,,,S12000034,17.6496
+2014,Male,,Scotland,,Argyll and Bute,,,,,,,,,S12000035,24.4951
+2014,Male,,Scotland,,City of Edinburgh,,,,,,,,,S12000036,20.6655
+2014,Male,,Scotland,,Renfrewshire,,,,,,,,,S12000038,22.662
+2014,Male,,Scotland,,West Dunbartonshire,,,,,,,,,S12000039,25.8706
+2014,Male,,Scotland,,West Lothian,,,,,,,,,S12000040,23.2416
+2014,Male,,Scotland,,Angus,,,,,,,,,S12000041,21.0577
+2014,Male,,Scotland,,Dundee City,,,,,,,,,S12000042,36.1111
+2014,Male,,Scotland,,North Lanarkshire,,,,,,,,,S12000044,25.2817
+2014,Male,,Scotland,,East Dunbartonshire,,,,,,,,,S12000045,12.6964
+2014,Male,,Scotland,,Glasgow City,,,,,,,,,S12000046,29.1164
+2014,Male,,Wales,,Isle of Anglesey,,,,,,,,,W06000001,21.6905
+2014,Male,,Wales,,Gwynedd,,,,,,,,,W06000002,20.3165
+2014,Male,,Wales,,Conwy,,,,,,,,,W06000003,21.9198
+2014,Male,,Wales,,Denbighshire,,,,,,,,,W06000004,20.161
+2014,Male,,Wales,,Flintshire,,,,,,,,,W06000005,18.7136
+2014,Male,,Wales,,Wrexham,,,,,,,,,W06000006,19.4731
+2014,Male,,Wales,,Ceredigion,,,,,,,,,W06000008,19.9139
+2014,Male,,Wales,,Pembrokeshire,,,,,,,,,W06000009,21.4295
+2014,Male,,Wales,,Carmarthenshire,,,,,,,,,W06000010,16.9121
+2014,Male,,Wales,,Swansea,,,,,,,,,W06000011,23.7507
+2014,Male,,Wales,,Neath Port Talbot,,,,,,,,,W06000012,21.8407
+2014,Male,,Wales,,Bridgend,,,,,,,,,W06000013,19.9665
+2014,Male,,Wales,,Vale of Glamorgan,,,,,,,,,W06000014,21.1428
+2014,Male,,Wales,,Cardiff,,,,,,,,,W06000015,20.7845
+2014,Male,,Wales,,Rhondda Cynon Taf,,,,,,,,,W06000016,20.71
+2014,Male,,Wales,,Caerphilly,,,,,,,,,W06000018,26.2064
+2014,Male,,Wales,,Blaenau Gwent,,,,,,,,,W06000019,25.7483
+2014,Male,,Wales,,Torfaen,,,,,,,,,W06000020,25.064
+2014,Male,,Wales,,Monmouthshire,,,,,,,,,W06000021,15.6744
+2014,Male,,Wales,,Newport,,,,,,,,,W06000022,19.4574
+2014,Male,,Wales,,Powys,,,,,,,,,W06000023,20.7348
+2014,Male,,Wales,,Merthyr Tydfil,,,,,,,,,W06000024,25.4222
 2014,Female,,England,North East,Hartlepool,,,,,,,,,E06000001,22.2334
 2014,Female,,England,North East,Middlesbrough,,,,,,,,,E06000002,20.7159
 2014,Female,,England,North East,Redcar and Cleveland,,,,,,,,,E06000003,17.7197
@@ -6539,60 +6539,60 @@ Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socio
 2014,Female,,England,South West,South Somerset,,,,,,,,,E07000189,16.1401
 2014,Female,,England,South West,Taunton Deane,,,,,,,,,E07000190,10.0835
 2014,Female,,England,South West,West Somerset,,,,,,,,,E07000191,9.9172
-2014,Female,,Scotland,Scotland,Clackmannanshire,,,,,,,,,S12000005,22.4476
-2014,Female,,Scotland,Scotland,Dumfries and Galloway,,,,,,,,,S12000006,16.8698
-2014,Female,,Scotland,Scotland,East Ayrshire,,,,,,,,,S12000008,21.3182
-2014,Female,,Scotland,Scotland,East Lothian,,,,,,,,,S12000010,16.7628
-2014,Female,,Scotland,Scotland,East Renfrewshire,,,,,,,,,S12000011,13.0579
-2014,Female,,Scotland,Scotland,Na h-Eileanan Siar,,,,,,,,,S12000013,12.4328
-2014,Female,,Scotland,Scotland,Falkirk,,,,,,,,,S12000014,19.3063
-2014,Female,,Scotland,Scotland,Fife,,,,,,,,,S12000015,21.0813
-2014,Female,,Scotland,Scotland,Highland,,,,,,,,,S12000017,13.2594
-2014,Female,,Scotland,Scotland,Inverclyde,,,,,,,,,S12000018,22.827
-2014,Female,,Scotland,Scotland,Midlothian,,,,,,,,,S12000019,18.686
-2014,Female,,Scotland,Scotland,Moray,,,,,,,,,S12000020,12.4282
-2014,Female,,Scotland,Scotland,North Ayrshire,,,,,,,,,S12000021,22.2257
-2014,Female,,Scotland,Scotland,Orkney Islands,,,,,,,,,S12000023,8.1891
-2014,Female,,Scotland,Scotland,Perth and Kinross,,,,,,,,,S12000024,11.8164
-2014,Female,,Scotland,Scotland,Scottish Borders,,,,,,,,,S12000026,14.1317
-2014,Female,,Scotland,Scotland,Shetland Islands,,,,,,,,,S12000027,23.6984
-2014,Female,,Scotland,Scotland,South Ayrshire,,,,,,,,,S12000028,18.756
-2014,Female,,Scotland,Scotland,South Lanarkshire,,,,,,,,,S12000029,18.138
-2014,Female,,Scotland,Scotland,Stirling,,,,,,,,,S12000030,11.9875
-2014,Female,,Scotland,Scotland,Aberdeen City,,,,,,,,,S12000033,16.0784
-2014,Female,,Scotland,Scotland,Aberdeenshire,,,,,,,,,S12000034,14.6163
-2014,Female,,Scotland,Scotland,Argyll and Bute,,,,,,,,,S12000035,15.1699
-2014,Female,,Scotland,Scotland,City of Edinburgh,,,,,,,,,S12000036,17.336
-2014,Female,,Scotland,Scotland,Renfrewshire,,,,,,,,,S12000038,19.2547
-2014,Female,,Scotland,Scotland,West Dunbartonshire,,,,,,,,,S12000039,21.0735
-2014,Female,,Scotland,Scotland,West Lothian,,,,,,,,,S12000040,18.5384
-2014,Female,,Scotland,Scotland,Angus,,,,,,,,,S12000041,17.2025
-2014,Female,,Scotland,Scotland,Dundee City,,,,,,,,,S12000042,29.5966
-2014,Female,,Scotland,Scotland,North Lanarkshire,,,,,,,,,S12000044,23.856
-2014,Female,,Scotland,Scotland,East Dunbartonshire,,,,,,,,,S12000045,9.2301
-2014,Female,,Scotland,Scotland,Glasgow City,,,,,,,,,S12000046,22.7814
-2014,Female,,Wales,Wales,Isle of Anglesey,,,,,,,,,W06000001,17.3231
-2014,Female,,Wales,Wales,Gwynedd,,,,,,,,,W06000002,16.1897
-2014,Female,,Wales,Wales,Conwy,,,,,,,,,W06000003,18.0278
-2014,Female,,Wales,Wales,Denbighshire,,,,,,,,,W06000004,18.0592
-2014,Female,,Wales,Wales,Flintshire,,,,,,,,,W06000005,16.5544
-2014,Female,,Wales,Wales,Wrexham,,,,,,,,,W06000006,19.5638
-2014,Female,,Wales,Wales,Ceredigion,,,,,,,,,W06000008,17.286
-2014,Female,,Wales,Wales,Pembrokeshire,,,,,,,,,W06000009,13.6139
-2014,Female,,Wales,Wales,Carmarthenshire,,,,,,,,,W06000010,14.0654
-2014,Female,,Wales,Wales,Swansea,,,,,,,,,W06000011,16.6546
-2014,Female,,Wales,Wales,Neath Port Talbot,,,,,,,,,W06000012,21.3672
-2014,Female,,Wales,Wales,Bridgend,,,,,,,,,W06000013,18.8421
-2014,Female,,Wales,Wales,Vale of Glamorgan,,,,,,,,,W06000014,16.0029
-2014,Female,,Wales,Wales,Cardiff,,,,,,,,,W06000015,15.1846
-2014,Female,,Wales,Wales,Rhondda Cynon Taf,,,,,,,,,W06000016,21.7726
-2014,Female,,Wales,Wales,Caerphilly,,,,,,,,,W06000018,21.768
-2014,Female,,Wales,Wales,Blaenau Gwent,,,,,,,,,W06000019,24.5673
-2014,Female,,Wales,Wales,Torfaen,,,,,,,,,W06000020,21.8765
-2014,Female,,Wales,Wales,Monmouthshire,,,,,,,,,W06000021,12.5594
-2014,Female,,Wales,Wales,Newport,,,,,,,,,W06000022,19.1945
-2014,Female,,Wales,Wales,Powys,,,,,,,,,W06000023,14.8778
-2014,Female,,Wales,Wales,Merthyr Tydfil,,,,,,,,,W06000024,23.5722
+2014,Female,,Scotland,,Clackmannanshire,,,,,,,,,S12000005,22.4476
+2014,Female,,Scotland,,Dumfries and Galloway,,,,,,,,,S12000006,16.8698
+2014,Female,,Scotland,,East Ayrshire,,,,,,,,,S12000008,21.3182
+2014,Female,,Scotland,,East Lothian,,,,,,,,,S12000010,16.7628
+2014,Female,,Scotland,,East Renfrewshire,,,,,,,,,S12000011,13.0579
+2014,Female,,Scotland,,Na h-Eileanan Siar,,,,,,,,,S12000013,12.4328
+2014,Female,,Scotland,,Falkirk,,,,,,,,,S12000014,19.3063
+2014,Female,,Scotland,,Fife,,,,,,,,,S12000015,21.0813
+2014,Female,,Scotland,,Highland,,,,,,,,,S12000017,13.2594
+2014,Female,,Scotland,,Inverclyde,,,,,,,,,S12000018,22.827
+2014,Female,,Scotland,,Midlothian,,,,,,,,,S12000019,18.686
+2014,Female,,Scotland,,Moray,,,,,,,,,S12000020,12.4282
+2014,Female,,Scotland,,North Ayrshire,,,,,,,,,S12000021,22.2257
+2014,Female,,Scotland,,Orkney Islands,,,,,,,,,S12000023,8.1891
+2014,Female,,Scotland,,Perth and Kinross,,,,,,,,,S12000024,11.8164
+2014,Female,,Scotland,,Scottish Borders,,,,,,,,,S12000026,14.1317
+2014,Female,,Scotland,,Shetland Islands,,,,,,,,,S12000027,23.6984
+2014,Female,,Scotland,,South Ayrshire,,,,,,,,,S12000028,18.756
+2014,Female,,Scotland,,South Lanarkshire,,,,,,,,,S12000029,18.138
+2014,Female,,Scotland,,Stirling,,,,,,,,,S12000030,11.9875
+2014,Female,,Scotland,,Aberdeen City,,,,,,,,,S12000033,16.0784
+2014,Female,,Scotland,,Aberdeenshire,,,,,,,,,S12000034,14.6163
+2014,Female,,Scotland,,Argyll and Bute,,,,,,,,,S12000035,15.1699
+2014,Female,,Scotland,,City of Edinburgh,,,,,,,,,S12000036,17.336
+2014,Female,,Scotland,,Renfrewshire,,,,,,,,,S12000038,19.2547
+2014,Female,,Scotland,,West Dunbartonshire,,,,,,,,,S12000039,21.0735
+2014,Female,,Scotland,,West Lothian,,,,,,,,,S12000040,18.5384
+2014,Female,,Scotland,,Angus,,,,,,,,,S12000041,17.2025
+2014,Female,,Scotland,,Dundee City,,,,,,,,,S12000042,29.5966
+2014,Female,,Scotland,,North Lanarkshire,,,,,,,,,S12000044,23.856
+2014,Female,,Scotland,,East Dunbartonshire,,,,,,,,,S12000045,9.2301
+2014,Female,,Scotland,,Glasgow City,,,,,,,,,S12000046,22.7814
+2014,Female,,Wales,,Isle of Anglesey,,,,,,,,,W06000001,17.3231
+2014,Female,,Wales,,Gwynedd,,,,,,,,,W06000002,16.1897
+2014,Female,,Wales,,Conwy,,,,,,,,,W06000003,18.0278
+2014,Female,,Wales,,Denbighshire,,,,,,,,,W06000004,18.0592
+2014,Female,,Wales,,Flintshire,,,,,,,,,W06000005,16.5544
+2014,Female,,Wales,,Wrexham,,,,,,,,,W06000006,19.5638
+2014,Female,,Wales,,Ceredigion,,,,,,,,,W06000008,17.286
+2014,Female,,Wales,,Pembrokeshire,,,,,,,,,W06000009,13.6139
+2014,Female,,Wales,,Carmarthenshire,,,,,,,,,W06000010,14.0654
+2014,Female,,Wales,,Swansea,,,,,,,,,W06000011,16.6546
+2014,Female,,Wales,,Neath Port Talbot,,,,,,,,,W06000012,21.3672
+2014,Female,,Wales,,Bridgend,,,,,,,,,W06000013,18.8421
+2014,Female,,Wales,,Vale of Glamorgan,,,,,,,,,W06000014,16.0029
+2014,Female,,Wales,,Cardiff,,,,,,,,,W06000015,15.1846
+2014,Female,,Wales,,Rhondda Cynon Taf,,,,,,,,,W06000016,21.7726
+2014,Female,,Wales,,Caerphilly,,,,,,,,,W06000018,21.768
+2014,Female,,Wales,,Blaenau Gwent,,,,,,,,,W06000019,24.5673
+2014,Female,,Wales,,Torfaen,,,,,,,,,W06000020,21.8765
+2014,Female,,Wales,,Monmouthshire,,,,,,,,,W06000021,12.5594
+2014,Female,,Wales,,Newport,,,,,,,,,W06000022,19.1945
+2014,Female,,Wales,,Powys,,,,,,,,,W06000023,14.8778
+2014,Female,,Wales,,Merthyr Tydfil,,,,,,,,,W06000024,23.5722
 2015,,,England,North East,Hartlepool,,,,,,,,,E06000001,22.7626
 2015,,,England,North East,Middlesbrough,,,,,,,,,E06000002,20.7501
 2015,,,England,North East,Redcar and Cleveland,,,,,,,,,E06000003,17.2878
@@ -6917,60 +6917,60 @@ Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socio
 2015,,,England,South West,South Somerset,,,,,,,,,E07000189,17.1844
 2015,,,England,South West,Taunton Deane,,,,,,,,,E07000190,14.1767
 2015,,,England,South West,West Somerset,,,,,,,,,E07000191,12.6598
-2015,,,Scotland,Scotland,Clackmannanshire,,,,,,,,,S12000005,23.0781
-2015,,,Scotland,Scotland,Dumfries and Galloway,,,,,,,,,S12000006,18.2389
-2015,,,Scotland,Scotland,East Ayrshire,,,,,,,,,S12000008,22.6492
-2015,,,Scotland,Scotland,East Lothian,,,,,,,,,S12000010,15.9584
-2015,,,Scotland,Scotland,East Renfrewshire,,,,,,,,,S12000011,13.4615
-2015,,,Scotland,Scotland,Na h-Eileanan Siar,,,,,,,,,S12000013,13.202
-2015,,,Scotland,Scotland,Falkirk,,,,,,,,,S12000014,21.5308
-2015,,,Scotland,Scotland,Fife,,,,,,,,,S12000015,18.6275
-2015,,,Scotland,Scotland,Highland,,,,,,,,,S12000017,15.4671
-2015,,,Scotland,Scotland,Inverclyde,,,,,,,,,S12000018,22.4378
-2015,,,Scotland,Scotland,Midlothian,,,,,,,,,S12000019,16.5934
-2015,,,Scotland,Scotland,Moray,,,,,,,,,S12000020,15.7551
-2015,,,Scotland,Scotland,North Ayrshire,,,,,,,,,S12000021,20.7411
-2015,,,Scotland,Scotland,Orkney Islands,,,,,,,,,S12000023,7.0174
-2015,,,Scotland,Scotland,Perth and Kinross,,,,,,,,,S12000024,16.0476
-2015,,,Scotland,Scotland,Scottish Borders,,,,,,,,,S12000026,17.9797
-2015,,,Scotland,Scotland,Shetland Islands,,,,,,,,,S12000027,15.8358
-2015,,,Scotland,Scotland,South Ayrshire,,,,,,,,,S12000028,17.0518
-2015,,,Scotland,Scotland,South Lanarkshire,,,,,,,,,S12000029,17.7289
-2015,,,Scotland,Scotland,Stirling,,,,,,,,,S12000030,18.3257
-2015,,,Scotland,Scotland,Aberdeen City,,,,,,,,,S12000033,21.2025
-2015,,,Scotland,Scotland,Aberdeenshire,,,,,,,,,S12000034,14.7904
-2015,,,Scotland,Scotland,Argyll and Bute,,,,,,,,,S12000035,15.2239
-2015,,,Scotland,Scotland,City of Edinburgh,,,,,,,,,S12000036,16.231
-2015,,,Scotland,Scotland,Renfrewshire,,,,,,,,,S12000038,19.8031
-2015,,,Scotland,Scotland,West Dunbartonshire,,,,,,,,,S12000039,21.4033
-2015,,,Scotland,Scotland,West Lothian,,,,,,,,,S12000040,19.1606
-2015,,,Scotland,Scotland,Angus,,,,,,,,,S12000041,21.8489
-2015,,,Scotland,Scotland,Dundee City,,,,,,,,,S12000042,25.2901
-2015,,,Scotland,Scotland,North Lanarkshire,,,,,,,,,S12000044,23.4367
-2015,,,Scotland,Scotland,East Dunbartonshire,,,,,,,,,S12000045,9.478
-2015,,,Scotland,Scotland,Glasgow City,,,,,,,,,S12000046,23.7784
-2015,,,Wales,Wales,Isle of Anglesey,,,,,,,,,W06000001,18.2271
-2015,,,Wales,Wales,Gwynedd,,,,,,,,,W06000002,17.3217
-2015,,,Wales,Wales,Conwy,,,,,,,,,W06000003,17.4598
-2015,,,Wales,Wales,Denbighshire,,,,,,,,,W06000004,16.9257
-2015,,,Wales,Wales,Flintshire,,,,,,,,,W06000005,14.0597
-2015,,,Wales,Wales,Wrexham,,,,,,,,,W06000006,21.9347
-2015,,,Wales,Wales,Ceredigion,,,,,,,,,W06000008,16.9312
-2015,,,Wales,Wales,Pembrokeshire,,,,,,,,,W06000009,15.7028
-2015,,,Wales,Wales,Carmarthenshire,,,,,,,,,W06000010,18.12
-2015,,,Wales,Wales,Swansea,,,,,,,,,W06000011,18.7637
-2015,,,Wales,Wales,Neath Port Talbot,,,,,,,,,W06000012,20.3568
-2015,,,Wales,Wales,Bridgend,,,,,,,,,W06000013,17.0707
-2015,,,Wales,Wales,Vale of Glamorgan,,,,,,,,,W06000014,14.8504
-2015,,,Wales,Wales,Cardiff,,,,,,,,,W06000015,19.0893
-2015,,,Wales,Wales,Rhondda Cynon Taf,,,,,,,,,W06000016,18.3188
-2015,,,Wales,Wales,Caerphilly,,,,,,,,,W06000018,20.8264
-2015,,,Wales,Wales,Blaenau Gwent,,,,,,,,,W06000019,22.4786
-2015,,,Wales,Wales,Torfaen,,,,,,,,,W06000020,21.7609
-2015,,,Wales,Wales,Monmouthshire,,,,,,,,,W06000021,14.4406
-2015,,,Wales,Wales,Newport,,,,,,,,,W06000022,18.501
-2015,,,Wales,Wales,Powys,,,,,,,,,W06000023,13.3651
-2015,,,Wales,Wales,Merthyr Tydfil,,,,,,,,,W06000024,23.4597
+2015,,,Scotland,,Clackmannanshire,,,,,,,,,S12000005,23.0781
+2015,,,Scotland,,Dumfries and Galloway,,,,,,,,,S12000006,18.2389
+2015,,,Scotland,,East Ayrshire,,,,,,,,,S12000008,22.6492
+2015,,,Scotland,,East Lothian,,,,,,,,,S12000010,15.9584
+2015,,,Scotland,,East Renfrewshire,,,,,,,,,S12000011,13.4615
+2015,,,Scotland,,Na h-Eileanan Siar,,,,,,,,,S12000013,13.202
+2015,,,Scotland,,Falkirk,,,,,,,,,S12000014,21.5308
+2015,,,Scotland,,Fife,,,,,,,,,S12000015,18.6275
+2015,,,Scotland,,Highland,,,,,,,,,S12000017,15.4671
+2015,,,Scotland,,Inverclyde,,,,,,,,,S12000018,22.4378
+2015,,,Scotland,,Midlothian,,,,,,,,,S12000019,16.5934
+2015,,,Scotland,,Moray,,,,,,,,,S12000020,15.7551
+2015,,,Scotland,,North Ayrshire,,,,,,,,,S12000021,20.7411
+2015,,,Scotland,,Orkney Islands,,,,,,,,,S12000023,7.0174
+2015,,,Scotland,,Perth and Kinross,,,,,,,,,S12000024,16.0476
+2015,,,Scotland,,Scottish Borders,,,,,,,,,S12000026,17.9797
+2015,,,Scotland,,Shetland Islands,,,,,,,,,S12000027,15.8358
+2015,,,Scotland,,South Ayrshire,,,,,,,,,S12000028,17.0518
+2015,,,Scotland,,South Lanarkshire,,,,,,,,,S12000029,17.7289
+2015,,,Scotland,,Stirling,,,,,,,,,S12000030,18.3257
+2015,,,Scotland,,Aberdeen City,,,,,,,,,S12000033,21.2025
+2015,,,Scotland,,Aberdeenshire,,,,,,,,,S12000034,14.7904
+2015,,,Scotland,,Argyll and Bute,,,,,,,,,S12000035,15.2239
+2015,,,Scotland,,City of Edinburgh,,,,,,,,,S12000036,16.231
+2015,,,Scotland,,Renfrewshire,,,,,,,,,S12000038,19.8031
+2015,,,Scotland,,West Dunbartonshire,,,,,,,,,S12000039,21.4033
+2015,,,Scotland,,West Lothian,,,,,,,,,S12000040,19.1606
+2015,,,Scotland,,Angus,,,,,,,,,S12000041,21.8489
+2015,,,Scotland,,Dundee City,,,,,,,,,S12000042,25.2901
+2015,,,Scotland,,North Lanarkshire,,,,,,,,,S12000044,23.4367
+2015,,,Scotland,,East Dunbartonshire,,,,,,,,,S12000045,9.478
+2015,,,Scotland,,Glasgow City,,,,,,,,,S12000046,23.7784
+2015,,,Wales,,Isle of Anglesey,,,,,,,,,W06000001,18.2271
+2015,,,Wales,,Gwynedd,,,,,,,,,W06000002,17.3217
+2015,,,Wales,,Conwy,,,,,,,,,W06000003,17.4598
+2015,,,Wales,,Denbighshire,,,,,,,,,W06000004,16.9257
+2015,,,Wales,,Flintshire,,,,,,,,,W06000005,14.0597
+2015,,,Wales,,Wrexham,,,,,,,,,W06000006,21.9347
+2015,,,Wales,,Ceredigion,,,,,,,,,W06000008,16.9312
+2015,,,Wales,,Pembrokeshire,,,,,,,,,W06000009,15.7028
+2015,,,Wales,,Carmarthenshire,,,,,,,,,W06000010,18.12
+2015,,,Wales,,Swansea,,,,,,,,,W06000011,18.7637
+2015,,,Wales,,Neath Port Talbot,,,,,,,,,W06000012,20.3568
+2015,,,Wales,,Bridgend,,,,,,,,,W06000013,17.0707
+2015,,,Wales,,Vale of Glamorgan,,,,,,,,,W06000014,14.8504
+2015,,,Wales,,Cardiff,,,,,,,,,W06000015,19.0893
+2015,,,Wales,,Rhondda Cynon Taf,,,,,,,,,W06000016,18.3188
+2015,,,Wales,,Caerphilly,,,,,,,,,W06000018,20.8264
+2015,,,Wales,,Blaenau Gwent,,,,,,,,,W06000019,22.4786
+2015,,,Wales,,Torfaen,,,,,,,,,W06000020,21.7609
+2015,,,Wales,,Monmouthshire,,,,,,,,,W06000021,14.4406
+2015,,,Wales,,Newport,,,,,,,,,W06000022,18.501
+2015,,,Wales,,Powys,,,,,,,,,W06000023,13.3651
+2015,,,Wales,,Merthyr Tydfil,,,,,,,,,W06000024,23.4597
 2015,Male,,England,North East,Hartlepool,,,,,,,,,E06000001,24.3469
 2015,Male,,England,North East,Middlesbrough,,,,,,,,,E06000002,23.2219
 2015,Male,,England,North East,Redcar and Cleveland,,,,,,,,,E06000003,16.7272
@@ -7295,60 +7295,60 @@ Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socio
 2015,Male,,England,South West,South Somerset,,,,,,,,,E07000189,17.557
 2015,Male,,England,South West,Taunton Deane,,,,,,,,,E07000190,14.2825
 2015,Male,,England,South West,West Somerset,,,,,,,,,E07000191,14.2206
-2015,Male,,Scotland,Scotland,Clackmannanshire,,,,,,,,,S12000005,23.8697
-2015,Male,,Scotland,Scotland,Dumfries and Galloway,,,,,,,,,S12000006,19.2607
-2015,Male,,Scotland,Scotland,East Ayrshire,,,,,,,,,S12000008,22.372
-2015,Male,,Scotland,Scotland,East Lothian,,,,,,,,,S12000010,15.9824
-2015,Male,,Scotland,Scotland,East Renfrewshire,,,,,,,,,S12000011,14.1113
-2015,Male,,Scotland,Scotland,Na h-Eileanan Siar,,,,,,,,,S12000013,14.7845
-2015,Male,,Scotland,Scotland,Falkirk,,,,,,,,,S12000014,24.8469
-2015,Male,,Scotland,Scotland,Fife,,,,,,,,,S12000015,18.4556
-2015,Male,,Scotland,Scotland,Highland,,,,,,,,,S12000017,17.7033
-2015,Male,,Scotland,Scotland,Inverclyde,,,,,,,,,S12000018,24.6363
-2015,Male,,Scotland,Scotland,Midlothian,,,,,,,,,S12000019,16.7484
-2015,Male,,Scotland,Scotland,Moray,,,,,,,,,S12000020,20.0029
-2015,Male,,Scotland,Scotland,North Ayrshire,,,,,,,,,S12000021,20.7415
-2015,Male,,Scotland,Scotland,Orkney Islands,,,,,,,,,S12000023,6.2447
-2015,Male,,Scotland,Scotland,Perth and Kinross,,,,,,,,,S12000024,19.2639
-2015,Male,,Scotland,Scotland,Scottish Borders,,,,,,,,,S12000026,19.9222
-2015,Male,,Scotland,Scotland,Shetland Islands,,,,,,,,,S12000027,16.6989
-2015,Male,,Scotland,Scotland,South Ayrshire,,,,,,,,,S12000028,19.5578
-2015,Male,,Scotland,Scotland,South Lanarkshire,,,,,,,,,S12000029,18.5727
-2015,Male,,Scotland,Scotland,Stirling,,,,,,,,,S12000030,20.8152
-2015,Male,,Scotland,Scotland,Aberdeen City,,,,,,,,,S12000033,23.4213
-2015,Male,,Scotland,Scotland,Aberdeenshire,,,,,,,,,S12000034,15.8727
-2015,Male,,Scotland,Scotland,Argyll and Bute,,,,,,,,,S12000035,16.9243
-2015,Male,,Scotland,Scotland,City of Edinburgh,,,,,,,,,S12000036,17.3554
-2015,Male,,Scotland,Scotland,Renfrewshire,,,,,,,,,S12000038,22.3409
-2015,Male,,Scotland,Scotland,West Dunbartonshire,,,,,,,,,S12000039,20.6193
-2015,Male,,Scotland,Scotland,West Lothian,,,,,,,,,S12000040,22.1116
-2015,Male,,Scotland,Scotland,Angus,,,,,,,,,S12000041,23.5402
-2015,Male,,Scotland,Scotland,Dundee City,,,,,,,,,S12000042,28.5134
-2015,Male,,Scotland,Scotland,North Lanarkshire,,,,,,,,,S12000044,24.3621
-2015,Male,,Scotland,Scotland,East Dunbartonshire,,,,,,,,,S12000045,10.1906
-2015,Male,,Scotland,Scotland,Glasgow City,,,,,,,,,S12000046,28.1059
-2015,Male,,Wales,Wales,Isle of Anglesey,,,,,,,,,W06000001,20.2827
-2015,Male,,Wales,Wales,Gwynedd,,,,,,,,,W06000002,17.8751
-2015,Male,,Wales,Wales,Conwy,,,,,,,,,W06000003,19.8352
-2015,Male,,Wales,Wales,Denbighshire,,,,,,,,,W06000004,19.1389
-2015,Male,,Wales,Wales,Flintshire,,,,,,,,,W06000005,15.2222
-2015,Male,,Wales,Wales,Wrexham,,,,,,,,,W06000006,23.0837
-2015,Male,,Wales,Wales,Ceredigion,,,,,,,,,W06000008,16.7538
-2015,Male,,Wales,Wales,Pembrokeshire,,,,,,,,,W06000009,17.2684
-2015,Male,,Wales,Wales,Carmarthenshire,,,,,,,,,W06000010,20.0785
-2015,Male,,Wales,Wales,Swansea,,,,,,,,,W06000011,20.2999
-2015,Male,,Wales,Wales,Neath Port Talbot,,,,,,,,,W06000012,21.4935
-2015,Male,,Wales,Wales,Bridgend,,,,,,,,,W06000013,18.8958
-2015,Male,,Wales,Wales,Vale of Glamorgan,,,,,,,,,W06000014,16.5126
-2015,Male,,Wales,Wales,Cardiff,,,,,,,,,W06000015,21.4714
-2015,Male,,Wales,Wales,Rhondda Cynon Taf,,,,,,,,,W06000016,18.4489
-2015,Male,,Wales,Wales,Caerphilly,,,,,,,,,W06000018,20.4563
-2015,Male,,Wales,Wales,Blaenau Gwent,,,,,,,,,W06000019,23.681
-2015,Male,,Wales,Wales,Torfaen,,,,,,,,,W06000020,23.4205
-2015,Male,,Wales,Wales,Monmouthshire,,,,,,,,,W06000021,15.8111
-2015,Male,,Wales,Wales,Newport,,,,,,,,,W06000022,20.2736
-2015,Male,,Wales,Wales,Powys,,,,,,,,,W06000023,14.3149
-2015,Male,,Wales,Wales,Merthyr Tydfil,,,,,,,,,W06000024,22.1854
+2015,Male,,Scotland,,Clackmannanshire,,,,,,,,,S12000005,23.8697
+2015,Male,,Scotland,,Dumfries and Galloway,,,,,,,,,S12000006,19.2607
+2015,Male,,Scotland,,East Ayrshire,,,,,,,,,S12000008,22.372
+2015,Male,,Scotland,,East Lothian,,,,,,,,,S12000010,15.9824
+2015,Male,,Scotland,,East Renfrewshire,,,,,,,,,S12000011,14.1113
+2015,Male,,Scotland,,Na h-Eileanan Siar,,,,,,,,,S12000013,14.7845
+2015,Male,,Scotland,,Falkirk,,,,,,,,,S12000014,24.8469
+2015,Male,,Scotland,,Fife,,,,,,,,,S12000015,18.4556
+2015,Male,,Scotland,,Highland,,,,,,,,,S12000017,17.7033
+2015,Male,,Scotland,,Inverclyde,,,,,,,,,S12000018,24.6363
+2015,Male,,Scotland,,Midlothian,,,,,,,,,S12000019,16.7484
+2015,Male,,Scotland,,Moray,,,,,,,,,S12000020,20.0029
+2015,Male,,Scotland,,North Ayrshire,,,,,,,,,S12000021,20.7415
+2015,Male,,Scotland,,Orkney Islands,,,,,,,,,S12000023,6.2447
+2015,Male,,Scotland,,Perth and Kinross,,,,,,,,,S12000024,19.2639
+2015,Male,,Scotland,,Scottish Borders,,,,,,,,,S12000026,19.9222
+2015,Male,,Scotland,,Shetland Islands,,,,,,,,,S12000027,16.6989
+2015,Male,,Scotland,,South Ayrshire,,,,,,,,,S12000028,19.5578
+2015,Male,,Scotland,,South Lanarkshire,,,,,,,,,S12000029,18.5727
+2015,Male,,Scotland,,Stirling,,,,,,,,,S12000030,20.8152
+2015,Male,,Scotland,,Aberdeen City,,,,,,,,,S12000033,23.4213
+2015,Male,,Scotland,,Aberdeenshire,,,,,,,,,S12000034,15.8727
+2015,Male,,Scotland,,Argyll and Bute,,,,,,,,,S12000035,16.9243
+2015,Male,,Scotland,,City of Edinburgh,,,,,,,,,S12000036,17.3554
+2015,Male,,Scotland,,Renfrewshire,,,,,,,,,S12000038,22.3409
+2015,Male,,Scotland,,West Dunbartonshire,,,,,,,,,S12000039,20.6193
+2015,Male,,Scotland,,West Lothian,,,,,,,,,S12000040,22.1116
+2015,Male,,Scotland,,Angus,,,,,,,,,S12000041,23.5402
+2015,Male,,Scotland,,Dundee City,,,,,,,,,S12000042,28.5134
+2015,Male,,Scotland,,North Lanarkshire,,,,,,,,,S12000044,24.3621
+2015,Male,,Scotland,,East Dunbartonshire,,,,,,,,,S12000045,10.1906
+2015,Male,,Scotland,,Glasgow City,,,,,,,,,S12000046,28.1059
+2015,Male,,Wales,,Isle of Anglesey,,,,,,,,,W06000001,20.2827
+2015,Male,,Wales,,Gwynedd,,,,,,,,,W06000002,17.8751
+2015,Male,,Wales,,Conwy,,,,,,,,,W06000003,19.8352
+2015,Male,,Wales,,Denbighshire,,,,,,,,,W06000004,19.1389
+2015,Male,,Wales,,Flintshire,,,,,,,,,W06000005,15.2222
+2015,Male,,Wales,,Wrexham,,,,,,,,,W06000006,23.0837
+2015,Male,,Wales,,Ceredigion,,,,,,,,,W06000008,16.7538
+2015,Male,,Wales,,Pembrokeshire,,,,,,,,,W06000009,17.2684
+2015,Male,,Wales,,Carmarthenshire,,,,,,,,,W06000010,20.0785
+2015,Male,,Wales,,Swansea,,,,,,,,,W06000011,20.2999
+2015,Male,,Wales,,Neath Port Talbot,,,,,,,,,W06000012,21.4935
+2015,Male,,Wales,,Bridgend,,,,,,,,,W06000013,18.8958
+2015,Male,,Wales,,Vale of Glamorgan,,,,,,,,,W06000014,16.5126
+2015,Male,,Wales,,Cardiff,,,,,,,,,W06000015,21.4714
+2015,Male,,Wales,,Rhondda Cynon Taf,,,,,,,,,W06000016,18.4489
+2015,Male,,Wales,,Caerphilly,,,,,,,,,W06000018,20.4563
+2015,Male,,Wales,,Blaenau Gwent,,,,,,,,,W06000019,23.681
+2015,Male,,Wales,,Torfaen,,,,,,,,,W06000020,23.4205
+2015,Male,,Wales,,Monmouthshire,,,,,,,,,W06000021,15.8111
+2015,Male,,Wales,,Newport,,,,,,,,,W06000022,20.2736
+2015,Male,,Wales,,Powys,,,,,,,,,W06000023,14.3149
+2015,Male,,Wales,,Merthyr Tydfil,,,,,,,,,W06000024,22.1854
 2015,Female,,England,North East,Hartlepool,,,,,,,,,E06000001,21.2808
 2015,Female,,England,North East,Middlesbrough,,,,,,,,,E06000002,18.4716
 2015,Female,,England,North East,Redcar and Cleveland,,,,,,,,,E06000003,17.8089
@@ -7673,60 +7673,60 @@ Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socio
 2015,Female,,England,South West,South Somerset,,,,,,,,,E07000189,16.8349
 2015,Female,,England,South West,Taunton Deane,,,,,,,,,E07000190,14.0736
 2015,Female,,England,South West,West Somerset,,,,,,,,,E07000191,11.2589
-2015,Female,,Scotland,Scotland,Clackmannanshire,,,,,,,,,S12000005,22.3374
-2015,Female,,Scotland,Scotland,Dumfries and Galloway,,,,,,,,,S12000006,17.3037
-2015,Female,,Scotland,Scotland,East Ayrshire,,,,,,,,,S12000008,22.9022
-2015,Female,,Scotland,Scotland,East Lothian,,,,,,,,,S12000010,15.9374
-2015,Female,,Scotland,Scotland,East Renfrewshire,,,,,,,,,S12000011,12.8941
-2015,Female,,Scotland,Scotland,Na h-Eileanan Siar,,,,,,,,,S12000013,11.5877
-2015,Female,,Scotland,Scotland,Falkirk,,,,,,,,,S12000014,18.4966
-2015,Female,,Scotland,Scotland,Fife,,,,,,,,,S12000015,18.7855
-2015,Female,,Scotland,Scotland,Highland,,,,,,,,,S12000017,13.4303
-2015,Female,,Scotland,Scotland,Inverclyde,,,,,,,,,S12000018,20.5112
-2015,Female,,Scotland,Scotland,Midlothian,,,,,,,,,S12000019,16.4534
-2015,Female,,Scotland,Scotland,Moray,,,,,,,,,S12000020,11.8195
-2015,Female,,Scotland,Scotland,North Ayrshire,,,,,,,,,S12000021,20.7407
-2015,Female,,Scotland,Scotland,Orkney Islands,,,,,,,,,S12000023,7.766
-2015,Female,,Scotland,Scotland,Perth and Kinross,,,,,,,,,S12000024,13.0534
-2015,Female,,Scotland,Scotland,Scottish Borders,,,,,,,,,S12000026,16.1798
-2015,Female,,Scotland,Scotland,Shetland Islands,,,,,,,,,S12000027,14.9196
-2015,Female,,Scotland,Scotland,South Ayrshire,,,,,,,,,S12000028,14.8013
-2015,Female,,Scotland,Scotland,South Lanarkshire,,,,,,,,,S12000029,16.9599
-2015,Female,,Scotland,Scotland,Stirling,,,,,,,,,S12000030,16.1039
-2015,Female,,Scotland,Scotland,Aberdeen City,,,,,,,,,S12000033,19.1039
-2015,Female,,Scotland,Scotland,Aberdeenshire,,,,,,,,,S12000034,13.7335
-2015,Female,,Scotland,Scotland,Argyll and Bute,,,,,,,,,S12000035,13.5248
-2015,Female,,Scotland,Scotland,City of Edinburgh,,,,,,,,,S12000036,15.2041
-2015,Female,,Scotland,Scotland,Renfrewshire,,,,,,,,,S12000038,17.5113
-2015,Female,,Scotland,Scotland,West Dunbartonshire,,,,,,,,,S12000039,22.0786
-2015,Female,,Scotland,Scotland,West Lothian,,,,,,,,,S12000040,16.3512
-2015,Female,,Scotland,Scotland,Angus,,,,,,,,,S12000041,20.323
-2015,Female,,Scotland,Scotland,Dundee City,,,,,,,,,S12000042,22.2306
-2015,Female,,Scotland,Scotland,North Lanarkshire,,,,,,,,,S12000044,22.5667
-2015,Female,,Scotland,Scotland,East Dunbartonshire,,,,,,,,,S12000045,8.8434
-2015,Female,,Scotland,Scotland,Glasgow City,,,,,,,,,S12000046,20.0055
-2015,Female,,Wales,Wales,Isle of Anglesey,,,,,,,,,W06000001,16.2105
-2015,Female,,Wales,Wales,Gwynedd,,,,,,,,,W06000002,16.7745
-2015,Female,,Wales,Wales,Conwy,,,,,,,,,W06000003,15.2732
-2015,Female,,Wales,Wales,Denbighshire,,,,,,,,,W06000004,14.8213
-2015,Female,,Wales,Wales,Flintshire,,,,,,,,,W06000005,12.9633
-2015,Female,,Wales,Wales,Wrexham,,,,,,,,,W06000006,20.8095
-2015,Female,,Wales,Wales,Ceredigion,,,,,,,,,W06000008,17.106
-2015,Female,,Wales,Wales,Pembrokeshire,,,,,,,,,W06000009,14.2223
-2015,Female,,Wales,Wales,Carmarthenshire,,,,,,,,,W06000010,16.2478
-2015,Female,,Wales,Wales,Swansea,,,,,,,,,W06000011,17.2624
-2015,Female,,Wales,Wales,Neath Port Talbot,,,,,,,,,W06000012,19.2667
-2015,Female,,Wales,Wales,Bridgend,,,,,,,,,W06000013,15.3695
-2015,Female,,Wales,Wales,Vale of Glamorgan,,,,,,,,,W06000014,13.3014
-2015,Female,,Wales,Wales,Cardiff,,,,,,,,,W06000015,16.8333
-2015,Female,,Wales,Wales,Rhondda Cynon Taf,,,,,,,,,W06000016,18.1939
-2015,Female,,Wales,Wales,Caerphilly,,,,,,,,,W06000018,21.1758
-2015,Female,,Wales,Wales,Blaenau Gwent,,,,,,,,,W06000019,21.3486
-2015,Female,,Wales,Wales,Torfaen,,,,,,,,,W06000020,20.1957
-2015,Female,,Wales,Wales,Monmouthshire,,,,,,,,,W06000021,13.1703
-2015,Female,,Wales,Wales,Newport,,,,,,,,,W06000022,16.8421
-2015,Female,,Wales,Wales,Powys,,,,,,,,,W06000023,12.4445
-2015,Female,,Wales,Wales,Merthyr Tydfil,,,,,,,,,W06000024,24.6591
+2015,Female,,Scotland,,Clackmannanshire,,,,,,,,,S12000005,22.3374
+2015,Female,,Scotland,,Dumfries and Galloway,,,,,,,,,S12000006,17.3037
+2015,Female,,Scotland,,East Ayrshire,,,,,,,,,S12000008,22.9022
+2015,Female,,Scotland,,East Lothian,,,,,,,,,S12000010,15.9374
+2015,Female,,Scotland,,East Renfrewshire,,,,,,,,,S12000011,12.8941
+2015,Female,,Scotland,,Na h-Eileanan Siar,,,,,,,,,S12000013,11.5877
+2015,Female,,Scotland,,Falkirk,,,,,,,,,S12000014,18.4966
+2015,Female,,Scotland,,Fife,,,,,,,,,S12000015,18.7855
+2015,Female,,Scotland,,Highland,,,,,,,,,S12000017,13.4303
+2015,Female,,Scotland,,Inverclyde,,,,,,,,,S12000018,20.5112
+2015,Female,,Scotland,,Midlothian,,,,,,,,,S12000019,16.4534
+2015,Female,,Scotland,,Moray,,,,,,,,,S12000020,11.8195
+2015,Female,,Scotland,,North Ayrshire,,,,,,,,,S12000021,20.7407
+2015,Female,,Scotland,,Orkney Islands,,,,,,,,,S12000023,7.766
+2015,Female,,Scotland,,Perth and Kinross,,,,,,,,,S12000024,13.0534
+2015,Female,,Scotland,,Scottish Borders,,,,,,,,,S12000026,16.1798
+2015,Female,,Scotland,,Shetland Islands,,,,,,,,,S12000027,14.9196
+2015,Female,,Scotland,,South Ayrshire,,,,,,,,,S12000028,14.8013
+2015,Female,,Scotland,,South Lanarkshire,,,,,,,,,S12000029,16.9599
+2015,Female,,Scotland,,Stirling,,,,,,,,,S12000030,16.1039
+2015,Female,,Scotland,,Aberdeen City,,,,,,,,,S12000033,19.1039
+2015,Female,,Scotland,,Aberdeenshire,,,,,,,,,S12000034,13.7335
+2015,Female,,Scotland,,Argyll and Bute,,,,,,,,,S12000035,13.5248
+2015,Female,,Scotland,,City of Edinburgh,,,,,,,,,S12000036,15.2041
+2015,Female,,Scotland,,Renfrewshire,,,,,,,,,S12000038,17.5113
+2015,Female,,Scotland,,West Dunbartonshire,,,,,,,,,S12000039,22.0786
+2015,Female,,Scotland,,West Lothian,,,,,,,,,S12000040,16.3512
+2015,Female,,Scotland,,Angus,,,,,,,,,S12000041,20.323
+2015,Female,,Scotland,,Dundee City,,,,,,,,,S12000042,22.2306
+2015,Female,,Scotland,,North Lanarkshire,,,,,,,,,S12000044,22.5667
+2015,Female,,Scotland,,East Dunbartonshire,,,,,,,,,S12000045,8.8434
+2015,Female,,Scotland,,Glasgow City,,,,,,,,,S12000046,20.0055
+2015,Female,,Wales,,Isle of Anglesey,,,,,,,,,W06000001,16.2105
+2015,Female,,Wales,,Gwynedd,,,,,,,,,W06000002,16.7745
+2015,Female,,Wales,,Conwy,,,,,,,,,W06000003,15.2732
+2015,Female,,Wales,,Denbighshire,,,,,,,,,W06000004,14.8213
+2015,Female,,Wales,,Flintshire,,,,,,,,,W06000005,12.9633
+2015,Female,,Wales,,Wrexham,,,,,,,,,W06000006,20.8095
+2015,Female,,Wales,,Ceredigion,,,,,,,,,W06000008,17.106
+2015,Female,,Wales,,Pembrokeshire,,,,,,,,,W06000009,14.2223
+2015,Female,,Wales,,Carmarthenshire,,,,,,,,,W06000010,16.2478
+2015,Female,,Wales,,Swansea,,,,,,,,,W06000011,17.2624
+2015,Female,,Wales,,Neath Port Talbot,,,,,,,,,W06000012,19.2667
+2015,Female,,Wales,,Bridgend,,,,,,,,,W06000013,15.3695
+2015,Female,,Wales,,Vale of Glamorgan,,,,,,,,,W06000014,13.3014
+2015,Female,,Wales,,Cardiff,,,,,,,,,W06000015,16.8333
+2015,Female,,Wales,,Rhondda Cynon Taf,,,,,,,,,W06000016,18.1939
+2015,Female,,Wales,,Caerphilly,,,,,,,,,W06000018,21.1758
+2015,Female,,Wales,,Blaenau Gwent,,,,,,,,,W06000019,21.3486
+2015,Female,,Wales,,Torfaen,,,,,,,,,W06000020,20.1957
+2015,Female,,Wales,,Monmouthshire,,,,,,,,,W06000021,13.1703
+2015,Female,,Wales,,Newport,,,,,,,,,W06000022,16.8421
+2015,Female,,Wales,,Powys,,,,,,,,,W06000023,12.4445
+2015,Female,,Wales,,Merthyr Tydfil,,,,,,,,,W06000024,24.6591
 2016,,,England,North East,Hartlepool,,,,,,,,,E06000001,19.6187
 2016,,,England,North East,Middlesbrough,,,,,,,,,E06000002,17.0558
 2016,,,England,North East,Redcar and Cleveland,,,,,,,,,E06000003,16.2528
@@ -8051,60 +8051,60 @@ Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socio
 2016,,,England,South West,South Somerset,,,,,,,,,E07000189,10.325
 2016,,,England,South West,Taunton Deane,,,,,,,,,E07000190,13.4038
 2016,,,England,South West,West Somerset,,,,,,,,,E07000191,9.417
-2016,,,Scotland,Scotland,Clackmannanshire,,,,,,,,,S12000005,24.2916
-2016,,,Scotland,Scotland,Dumfries and Galloway,,,,,,,,,S12000006,18.1109
-2016,,,Scotland,Scotland,East Ayrshire,,,,,,,,,S12000008,21.2136
-2016,,,Scotland,Scotland,East Lothian,,,,,,,,,S12000010,15.5228
-2016,,,Scotland,Scotland,East Renfrewshire,,,,,,,,,S12000011,11.5119
-2016,,,Scotland,Scotland,Na h-Eileanan Siar,,,,,,,,,S12000013,14.8694
-2016,,,Scotland,Scotland,Falkirk,,,,,,,,,S12000014,18.8043
-2016,,,Scotland,Scotland,Fife,,,,,,,,,S12000015,17.3371
-2016,,,Scotland,Scotland,Highland,,,,,,,,,S12000017,17.8379
-2016,,,Scotland,Scotland,Inverclyde,,,,,,,,,S12000018,20.5931
-2016,,,Scotland,Scotland,Midlothian,,,,,,,,,S12000019,16.4258
-2016,,,Scotland,Scotland,Moray,,,,,,,,,S12000020,15.0744
-2016,,,Scotland,Scotland,North Ayrshire,,,,,,,,,S12000021,20.6283
-2016,,,Scotland,Scotland,Orkney Islands,,,,,,,,,S12000023,8.5159
-2016,,,Scotland,Scotland,Perth and Kinross,,,,,,,,,S12000024,13.9697
-2016,,,Scotland,Scotland,Scottish Borders,,,,,,,,,S12000026,18.4785
-2016,,,Scotland,Scotland,Shetland Islands,,,,,,,,,S12000027,19.0991
-2016,,,Scotland,Scotland,South Ayrshire,,,,,,,,,S12000028,15.5198
-2016,,,Scotland,Scotland,South Lanarkshire,,,,,,,,,S12000029,19.1082
-2016,,,Scotland,Scotland,Stirling,,,,,,,,,S12000030,14.2448
-2016,,,Scotland,Scotland,Aberdeen City,,,,,,,,,S12000033,13.8122
-2016,,,Scotland,Scotland,Aberdeenshire,,,,,,,,,S12000034,10.5322
-2016,,,Scotland,Scotland,Argyll and Bute,,,,,,,,,S12000035,14.455
-2016,,,Scotland,Scotland,City of Edinburgh,,,,,,,,,S12000036,15.9454
-2016,,,Scotland,Scotland,Renfrewshire,,,,,,,,,S12000038,18.627
-2016,,,Scotland,Scotland,West Dunbartonshire,,,,,,,,,S12000039,17.9951
-2016,,,Scotland,Scotland,West Lothian,,,,,,,,,S12000040,19.0635
-2016,,,Scotland,Scotland,Angus,,,,,,,,,S12000041,17.4963
-2016,,,Scotland,Scotland,Dundee City,,,,,,,,,S12000042,23.7609
-2016,,,Scotland,Scotland,North Lanarkshire,,,,,,,,,S12000044,19.2459
-2016,,,Scotland,Scotland,East Dunbartonshire,,,,,,,,,S12000045,7.6033
-2016,,,Scotland,Scotland,Glasgow City,,,,,,,,,S12000046,23.6186
-2016,,,Wales,Wales,Isle of Anglesey,,,,,,,,,W06000001,17.6444
-2016,,,Wales,Wales,Gwynedd,,,,,,,,,W06000002,18.7311
-2016,,,Wales,Wales,Conwy,,,,,,,,,W06000003,14.8173
-2016,,,Wales,Wales,Denbighshire,,,,,,,,,W06000004,16.1729
-2016,,,Wales,Wales,Flintshire,,,,,,,,,W06000005,15.8292
-2016,,,Wales,Wales,Wrexham,,,,,,,,,W06000006,18.8889
-2016,,,Wales,Wales,Ceredigion,,,,,,,,,W06000008,16.5362
-2016,,,Wales,Wales,Pembrokeshire,,,,,,,,,W06000009,13.6819
-2016,,,Wales,Wales,Carmarthenshire,,,,,,,,,W06000010,15.5054
-2016,,,Wales,Wales,Swansea,,,,,,,,,W06000011,16.835
-2016,,,Wales,Wales,Neath Port Talbot,,,,,,,,,W06000012,15.7185
-2016,,,Wales,Wales,Bridgend,,,,,,,,,W06000013,18.6632
-2016,,,Wales,Wales,Vale of Glamorgan,,,,,,,,,W06000014,16.9394
-2016,,,Wales,Wales,Cardiff,,,,,,,,,W06000015,13.6814
-2016,,,Wales,Wales,Rhondda Cynon Taf,,,,,,,,,W06000016,19.6753
-2016,,,Wales,Wales,Caerphilly,,,,,,,,,W06000018,20.6023
-2016,,,Wales,Wales,Blaenau Gwent,,,,,,,,,W06000019,21.1893
-2016,,,Wales,Wales,Torfaen,,,,,,,,,W06000020,18.7967
-2016,,,Wales,Wales,Monmouthshire,,,,,,,,,W06000021,13.0146
-2016,,,Wales,Wales,Newport,,,,,,,,,W06000022,19.3618
-2016,,,Wales,Wales,Powys,,,,,,,,,W06000023,15.3919
-2016,,,Wales,Wales,Merthyr Tydfil,,,,,,,,,W06000024,19.7206
+2016,,,Scotland,,Clackmannanshire,,,,,,,,,S12000005,24.2916
+2016,,,Scotland,,Dumfries and Galloway,,,,,,,,,S12000006,18.1109
+2016,,,Scotland,,East Ayrshire,,,,,,,,,S12000008,21.2136
+2016,,,Scotland,,East Lothian,,,,,,,,,S12000010,15.5228
+2016,,,Scotland,,East Renfrewshire,,,,,,,,,S12000011,11.5119
+2016,,,Scotland,,Na h-Eileanan Siar,,,,,,,,,S12000013,14.8694
+2016,,,Scotland,,Falkirk,,,,,,,,,S12000014,18.8043
+2016,,,Scotland,,Fife,,,,,,,,,S12000015,17.3371
+2016,,,Scotland,,Highland,,,,,,,,,S12000017,17.8379
+2016,,,Scotland,,Inverclyde,,,,,,,,,S12000018,20.5931
+2016,,,Scotland,,Midlothian,,,,,,,,,S12000019,16.4258
+2016,,,Scotland,,Moray,,,,,,,,,S12000020,15.0744
+2016,,,Scotland,,North Ayrshire,,,,,,,,,S12000021,20.6283
+2016,,,Scotland,,Orkney Islands,,,,,,,,,S12000023,8.5159
+2016,,,Scotland,,Perth and Kinross,,,,,,,,,S12000024,13.9697
+2016,,,Scotland,,Scottish Borders,,,,,,,,,S12000026,18.4785
+2016,,,Scotland,,Shetland Islands,,,,,,,,,S12000027,19.0991
+2016,,,Scotland,,South Ayrshire,,,,,,,,,S12000028,15.5198
+2016,,,Scotland,,South Lanarkshire,,,,,,,,,S12000029,19.1082
+2016,,,Scotland,,Stirling,,,,,,,,,S12000030,14.2448
+2016,,,Scotland,,Aberdeen City,,,,,,,,,S12000033,13.8122
+2016,,,Scotland,,Aberdeenshire,,,,,,,,,S12000034,10.5322
+2016,,,Scotland,,Argyll and Bute,,,,,,,,,S12000035,14.455
+2016,,,Scotland,,City of Edinburgh,,,,,,,,,S12000036,15.9454
+2016,,,Scotland,,Renfrewshire,,,,,,,,,S12000038,18.627
+2016,,,Scotland,,West Dunbartonshire,,,,,,,,,S12000039,17.9951
+2016,,,Scotland,,West Lothian,,,,,,,,,S12000040,19.0635
+2016,,,Scotland,,Angus,,,,,,,,,S12000041,17.4963
+2016,,,Scotland,,Dundee City,,,,,,,,,S12000042,23.7609
+2016,,,Scotland,,North Lanarkshire,,,,,,,,,S12000044,19.2459
+2016,,,Scotland,,East Dunbartonshire,,,,,,,,,S12000045,7.6033
+2016,,,Scotland,,Glasgow City,,,,,,,,,S12000046,23.6186
+2016,,,Wales,,Isle of Anglesey,,,,,,,,,W06000001,17.6444
+2016,,,Wales,,Gwynedd,,,,,,,,,W06000002,18.7311
+2016,,,Wales,,Conwy,,,,,,,,,W06000003,14.8173
+2016,,,Wales,,Denbighshire,,,,,,,,,W06000004,16.1729
+2016,,,Wales,,Flintshire,,,,,,,,,W06000005,15.8292
+2016,,,Wales,,Wrexham,,,,,,,,,W06000006,18.8889
+2016,,,Wales,,Ceredigion,,,,,,,,,W06000008,16.5362
+2016,,,Wales,,Pembrokeshire,,,,,,,,,W06000009,13.6819
+2016,,,Wales,,Carmarthenshire,,,,,,,,,W06000010,15.5054
+2016,,,Wales,,Swansea,,,,,,,,,W06000011,16.835
+2016,,,Wales,,Neath Port Talbot,,,,,,,,,W06000012,15.7185
+2016,,,Wales,,Bridgend,,,,,,,,,W06000013,18.6632
+2016,,,Wales,,Vale of Glamorgan,,,,,,,,,W06000014,16.9394
+2016,,,Wales,,Cardiff,,,,,,,,,W06000015,13.6814
+2016,,,Wales,,Rhondda Cynon Taf,,,,,,,,,W06000016,19.6753
+2016,,,Wales,,Caerphilly,,,,,,,,,W06000018,20.6023
+2016,,,Wales,,Blaenau Gwent,,,,,,,,,W06000019,21.1893
+2016,,,Wales,,Torfaen,,,,,,,,,W06000020,18.7967
+2016,,,Wales,,Monmouthshire,,,,,,,,,W06000021,13.0146
+2016,,,Wales,,Newport,,,,,,,,,W06000022,19.3618
+2016,,,Wales,,Powys,,,,,,,,,W06000023,15.3919
+2016,,,Wales,,Merthyr Tydfil,,,,,,,,,W06000024,19.7206
 2016,Male,,England,North East,Hartlepool,,,,,,,,,E06000001,20.8929
 2016,Male,,England,North East,Middlesbrough,,,,,,,,,E06000002,19.3052
 2016,Male,,England,North East,Redcar and Cleveland,,,,,,,,,E06000003,16.6398
@@ -8429,60 +8429,60 @@ Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socio
 2016,Male,,England,South West,South Somerset,,,,,,,,,E07000189,12.2791
 2016,Male,,England,South West,Taunton Deane,,,,,,,,,E07000190,14.3971
 2016,Male,,England,South West,West Somerset,,,,,,,,,E07000191,9.8985
-2016,Male,,Scotland,Scotland,Clackmannanshire,,,,,,,,,S12000005,23.5416
-2016,Male,,Scotland,Scotland,Dumfries and Galloway,,,,,,,,,S12000006,18.409
-2016,Male,,Scotland,Scotland,East Ayrshire,,,,,,,,,S12000008,22.2924
-2016,Male,,Scotland,Scotland,East Lothian,,,,,,,,,S12000010,17.2796
-2016,Male,,Scotland,Scotland,East Renfrewshire,,,,,,,,,S12000011,12.7879
-2016,Male,,Scotland,Scotland,Na h-Eileanan Siar,,,,,,,,,S12000013,16.5037
-2016,Male,,Scotland,Scotland,Falkirk,,,,,,,,,S12000014,19.2845
-2016,Male,,Scotland,Scotland,Fife,,,,,,,,,S12000015,17.8868
-2016,Male,,Scotland,Scotland,Highland,,,,,,,,,S12000017,19.2372
-2016,Male,,Scotland,Scotland,Inverclyde,,,,,,,,,S12000018,22.1546
-2016,Male,,Scotland,Scotland,Midlothian,,,,,,,,,S12000019,19.9427
-2016,Male,,Scotland,Scotland,Moray,,,,,,,,,S12000020,16.5368
-2016,Male,,Scotland,Scotland,North Ayrshire,,,,,,,,,S12000021,20.989
-2016,Male,,Scotland,Scotland,Orkney Islands,,,,,,,,,S12000023,7.8978
-2016,Male,,Scotland,Scotland,Perth and Kinross,,,,,,,,,S12000024,13.6828
-2016,Male,,Scotland,Scotland,Scottish Borders,,,,,,,,,S12000026,19.5916
-2016,Male,,Scotland,Scotland,Shetland Islands,,,,,,,,,S12000027,20.4239
-2016,Male,,Scotland,Scotland,South Ayrshire,,,,,,,,,S12000028,17.8261
-2016,Male,,Scotland,Scotland,South Lanarkshire,,,,,,,,,S12000029,21.472
-2016,Male,,Scotland,Scotland,Stirling,,,,,,,,,S12000030,16.2292
-2016,Male,,Scotland,Scotland,Aberdeen City,,,,,,,,,S12000033,15.7778
-2016,Male,,Scotland,Scotland,Aberdeenshire,,,,,,,,,S12000034,12.3757
-2016,Male,,Scotland,Scotland,Argyll and Bute,,,,,,,,,S12000035,14.2571
-2016,Male,,Scotland,Scotland,City of Edinburgh,,,,,,,,,S12000036,17.5937
-2016,Male,,Scotland,Scotland,Renfrewshire,,,,,,,,,S12000038,22.9207
-2016,Male,,Scotland,Scotland,West Dunbartonshire,,,,,,,,,S12000039,20.4563
-2016,Male,,Scotland,Scotland,West Lothian,,,,,,,,,S12000040,20.7055
-2016,Male,,Scotland,Scotland,Angus,,,,,,,,,S12000041,18.1415
-2016,Male,,Scotland,Scotland,Dundee City,,,,,,,,,S12000042,28.6893
-2016,Male,,Scotland,Scotland,North Lanarkshire,,,,,,,,,S12000044,19.5731
-2016,Male,,Scotland,Scotland,East Dunbartonshire,,,,,,,,,S12000045,9.4996
-2016,Male,,Scotland,Scotland,Glasgow City,,,,,,,,,S12000046,25.7275
-2016,Male,,Wales,Wales,Isle of Anglesey,,,,,,,,,W06000001,17.6935
-2016,Male,,Wales,Wales,Gwynedd,,,,,,,,,W06000002,20.4047
-2016,Male,,Wales,Wales,Conwy,,,,,,,,,W06000003,17.2335
-2016,Male,,Wales,Wales,Denbighshire,,,,,,,,,W06000004,19.1136
-2016,Male,,Wales,Wales,Flintshire,,,,,,,,,W06000005,16.4756
-2016,Male,,Wales,Wales,Wrexham,,,,,,,,,W06000006,19.1441
-2016,Male,,Wales,Wales,Ceredigion,,,,,,,,,W06000008,19.9771
-2016,Male,,Wales,Wales,Pembrokeshire,,,,,,,,,W06000009,13.4618
-2016,Male,,Wales,Wales,Carmarthenshire,,,,,,,,,W06000010,17.0214
-2016,Male,,Wales,Wales,Swansea,,,,,,,,,W06000011,18.1317
-2016,Male,,Wales,Wales,Neath Port Talbot,,,,,,,,,W06000012,15.3195
-2016,Male,,Wales,Wales,Bridgend,,,,,,,,,W06000013,20.0155
-2016,Male,,Wales,Wales,Vale of Glamorgan,,,,,,,,,W06000014,17.9899
-2016,Male,,Wales,Wales,Cardiff,,,,,,,,,W06000015,15.2204
-2016,Male,,Wales,Wales,Rhondda Cynon Taf,,,,,,,,,W06000016,19.459
-2016,Male,,Wales,Wales,Caerphilly,,,,,,,,,W06000018,22.9952
-2016,Male,,Wales,Wales,Blaenau Gwent,,,,,,,,,W06000019,21.7463
-2016,Male,,Wales,Wales,Torfaen,,,,,,,,,W06000020,19.9877
-2016,Male,,Wales,Wales,Monmouthshire,,,,,,,,,W06000021,14.2174
-2016,Male,,Wales,Wales,Newport,,,,,,,,,W06000022,21.0452
-2016,Male,,Wales,Wales,Powys,,,,,,,,,W06000023,18.1365
-2016,Male,,Wales,Wales,Merthyr Tydfil,,,,,,,,,W06000024,17.9121
+2016,Male,,Scotland,,Clackmannanshire,,,,,,,,,S12000005,23.5416
+2016,Male,,Scotland,,Dumfries and Galloway,,,,,,,,,S12000006,18.409
+2016,Male,,Scotland,,East Ayrshire,,,,,,,,,S12000008,22.2924
+2016,Male,,Scotland,,East Lothian,,,,,,,,,S12000010,17.2796
+2016,Male,,Scotland,,East Renfrewshire,,,,,,,,,S12000011,12.7879
+2016,Male,,Scotland,,Na h-Eileanan Siar,,,,,,,,,S12000013,16.5037
+2016,Male,,Scotland,,Falkirk,,,,,,,,,S12000014,19.2845
+2016,Male,,Scotland,,Fife,,,,,,,,,S12000015,17.8868
+2016,Male,,Scotland,,Highland,,,,,,,,,S12000017,19.2372
+2016,Male,,Scotland,,Inverclyde,,,,,,,,,S12000018,22.1546
+2016,Male,,Scotland,,Midlothian,,,,,,,,,S12000019,19.9427
+2016,Male,,Scotland,,Moray,,,,,,,,,S12000020,16.5368
+2016,Male,,Scotland,,North Ayrshire,,,,,,,,,S12000021,20.989
+2016,Male,,Scotland,,Orkney Islands,,,,,,,,,S12000023,7.8978
+2016,Male,,Scotland,,Perth and Kinross,,,,,,,,,S12000024,13.6828
+2016,Male,,Scotland,,Scottish Borders,,,,,,,,,S12000026,19.5916
+2016,Male,,Scotland,,Shetland Islands,,,,,,,,,S12000027,20.4239
+2016,Male,,Scotland,,South Ayrshire,,,,,,,,,S12000028,17.8261
+2016,Male,,Scotland,,South Lanarkshire,,,,,,,,,S12000029,21.472
+2016,Male,,Scotland,,Stirling,,,,,,,,,S12000030,16.2292
+2016,Male,,Scotland,,Aberdeen City,,,,,,,,,S12000033,15.7778
+2016,Male,,Scotland,,Aberdeenshire,,,,,,,,,S12000034,12.3757
+2016,Male,,Scotland,,Argyll and Bute,,,,,,,,,S12000035,14.2571
+2016,Male,,Scotland,,City of Edinburgh,,,,,,,,,S12000036,17.5937
+2016,Male,,Scotland,,Renfrewshire,,,,,,,,,S12000038,22.9207
+2016,Male,,Scotland,,West Dunbartonshire,,,,,,,,,S12000039,20.4563
+2016,Male,,Scotland,,West Lothian,,,,,,,,,S12000040,20.7055
+2016,Male,,Scotland,,Angus,,,,,,,,,S12000041,18.1415
+2016,Male,,Scotland,,Dundee City,,,,,,,,,S12000042,28.6893
+2016,Male,,Scotland,,North Lanarkshire,,,,,,,,,S12000044,19.5731
+2016,Male,,Scotland,,East Dunbartonshire,,,,,,,,,S12000045,9.4996
+2016,Male,,Scotland,,Glasgow City,,,,,,,,,S12000046,25.7275
+2016,Male,,Wales,,Isle of Anglesey,,,,,,,,,W06000001,17.6935
+2016,Male,,Wales,,Gwynedd,,,,,,,,,W06000002,20.4047
+2016,Male,,Wales,,Conwy,,,,,,,,,W06000003,17.2335
+2016,Male,,Wales,,Denbighshire,,,,,,,,,W06000004,19.1136
+2016,Male,,Wales,,Flintshire,,,,,,,,,W06000005,16.4756
+2016,Male,,Wales,,Wrexham,,,,,,,,,W06000006,19.1441
+2016,Male,,Wales,,Ceredigion,,,,,,,,,W06000008,19.9771
+2016,Male,,Wales,,Pembrokeshire,,,,,,,,,W06000009,13.4618
+2016,Male,,Wales,,Carmarthenshire,,,,,,,,,W06000010,17.0214
+2016,Male,,Wales,,Swansea,,,,,,,,,W06000011,18.1317
+2016,Male,,Wales,,Neath Port Talbot,,,,,,,,,W06000012,15.3195
+2016,Male,,Wales,,Bridgend,,,,,,,,,W06000013,20.0155
+2016,Male,,Wales,,Vale of Glamorgan,,,,,,,,,W06000014,17.9899
+2016,Male,,Wales,,Cardiff,,,,,,,,,W06000015,15.2204
+2016,Male,,Wales,,Rhondda Cynon Taf,,,,,,,,,W06000016,19.459
+2016,Male,,Wales,,Caerphilly,,,,,,,,,W06000018,22.9952
+2016,Male,,Wales,,Blaenau Gwent,,,,,,,,,W06000019,21.7463
+2016,Male,,Wales,,Torfaen,,,,,,,,,W06000020,19.9877
+2016,Male,,Wales,,Monmouthshire,,,,,,,,,W06000021,14.2174
+2016,Male,,Wales,,Newport,,,,,,,,,W06000022,21.0452
+2016,Male,,Wales,,Powys,,,,,,,,,W06000023,18.1365
+2016,Male,,Wales,,Merthyr Tydfil,,,,,,,,,W06000024,17.9121
 2016,Female,,England,North East,Hartlepool,,,,,,,,,E06000001,18.4008
 2016,Female,,England,North East,Middlesbrough,,,,,,,,,E06000002,14.9344
 2016,Female,,England,North East,Redcar and Cleveland,,,,,,,,,E06000003,15.8846
@@ -8807,60 +8807,60 @@ Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socio
 2016,Female,,England,South West,South Somerset,,,,,,,,,E07000189,8.4363
 2016,Female,,England,South West,Taunton Deane,,,,,,,,,E07000190,12.3888
 2016,Female,,England,South West,West Somerset,,,,,,,,,E07000191,8.9712
-2016,Female,,Scotland,Scotland,Clackmannanshire,,,,,,,,,S12000005,24.9877
-2016,Female,,Scotland,Scotland,Dumfries and Galloway,,,,,,,,,S12000006,17.8399
-2016,Female,,Scotland,Scotland,East Ayrshire,,,,,,,,,S12000008,20.2156
-2016,Female,,Scotland,Scotland,East Lothian,,,,,,,,,S12000010,13.9764
-2016,Female,,Scotland,Scotland,East Renfrewshire,,,,,,,,,S12000011,10.4103
-2016,Female,,Scotland,Scotland,Na h-Eileanan Siar,,,,,,,,,S12000013,13.25
-2016,Female,,Scotland,Scotland,Falkirk,,,,,,,,,S12000014,18.3682
-2016,Female,,Scotland,Scotland,Fife,,,,,,,,,S12000015,16.8288
-2016,Female,,Scotland,Scotland,Highland,,,,,,,,,S12000017,16.5328
-2016,Female,,Scotland,Scotland,Inverclyde,,,,,,,,,S12000018,19.2487
-2016,Female,,Scotland,Scotland,Midlothian,,,,,,,,,S12000019,13.228
-2016,Female,,Scotland,Scotland,Moray,,,,,,,,,S12000020,13.6722
-2016,Female,,Scotland,Scotland,North Ayrshire,,,,,,,,,S12000021,20.3176
-2016,Female,,Scotland,Scotland,Orkney Islands,,,,,,,,,S12000023,9.1517
-2016,Female,,Scotland,Scotland,Perth and Kinross,,,,,,,,,S12000024,14.2262
-2016,Female,,Scotland,Scotland,Scottish Borders,,,,,,,,,S12000026,17.5013
-2016,Female,,Scotland,Scotland,Shetland Islands,,,,,,,,,S12000027,17.7508
-2016,Female,,Scotland,Scotland,South Ayrshire,,,,,,,,,S12000028,13.4131
-2016,Female,,Scotland,Scotland,South Lanarkshire,,,,,,,,,S12000029,16.9972
-2016,Female,,Scotland,Scotland,Stirling,,,,,,,,,S12000030,12.5203
-2016,Female,,Scotland,Scotland,Aberdeen City,,,,,,,,,S12000033,11.8471
-2016,Female,,Scotland,Scotland,Aberdeenshire,,,,,,,,,S12000034,8.7111
-2016,Female,,Scotland,Scotland,Argyll and Bute,,,,,,,,,S12000035,14.6432
-2016,Female,,Scotland,Scotland,City of Edinburgh,,,,,,,,,S12000036,14.4615
-2016,Female,,Scotland,Scotland,Renfrewshire,,,,,,,,,S12000038,14.866
-2016,Female,,Scotland,Scotland,West Dunbartonshire,,,,,,,,,S12000039,15.9
-2016,Female,,Scotland,Scotland,West Lothian,,,,,,,,,S12000040,17.479
-2016,Female,,Scotland,Scotland,Angus,,,,,,,,,S12000041,16.8849
-2016,Female,,Scotland,Scotland,Dundee City,,,,,,,,,S12000042,19.3005
-2016,Female,,Scotland,Scotland,North Lanarkshire,,,,,,,,,S12000044,18.9538
-2016,Female,,Scotland,Scotland,East Dunbartonshire,,,,,,,,,S12000045,5.9668
-2016,Female,,Scotland,Scotland,Glasgow City,,,,,,,,,S12000046,21.6362
-2016,Female,,Wales,Wales,Isle of Anglesey,,,,,,,,,W06000001,17.5979
-2016,Female,,Wales,Wales,Gwynedd,,,,,,,,,W06000002,17.0612
-2016,Female,,Wales,Wales,Conwy,,,,,,,,,W06000003,12.5632
-2016,Female,,Wales,Wales,Denbighshire,,,,,,,,,W06000004,13.3953
-2016,Female,,Wales,Wales,Flintshire,,,,,,,,,W06000005,15.2245
-2016,Female,,Wales,Wales,Wrexham,,,,,,,,,W06000006,18.6392
-2016,Female,,Wales,Wales,Ceredigion,,,,,,,,,W06000008,12.9802
-2016,Female,,Wales,Wales,Pembrokeshire,,,,,,,,,W06000009,13.8868
-2016,Female,,Wales,Wales,Carmarthenshire,,,,,,,,,W06000010,14.0574
-2016,Female,,Wales,Wales,Swansea,,,,,,,,,W06000011,15.5694
-2016,Female,,Wales,Wales,Neath Port Talbot,,,,,,,,,W06000012,16.0968
-2016,Female,,Wales,Wales,Bridgend,,,,,,,,,W06000013,17.3723
-2016,Female,,Wales,Wales,Vale of Glamorgan,,,,,,,,,W06000014,15.975
-2016,Female,,Wales,Wales,Cardiff,,,,,,,,,W06000015,12.2213
-2016,Female,,Wales,Wales,Rhondda Cynon Taf,,,,,,,,,W06000016,19.8836
-2016,Female,,Wales,Wales,Caerphilly,,,,,,,,,W06000018,18.3559
-2016,Female,,Wales,Wales,Blaenau Gwent,,,,,,,,,W06000019,20.6681
-2016,Female,,Wales,Wales,Torfaen,,,,,,,,,W06000020,17.6707
-2016,Female,,Wales,Wales,Monmouthshire,,,,,,,,,W06000021,11.855
-2016,Female,,Wales,Wales,Newport,,,,,,,,,W06000022,17.7672
-2016,Female,,Wales,Wales,Powys,,,,,,,,,W06000023,12.7626
-2016,Female,,Wales,Wales,Merthyr Tydfil,,,,,,,,,W06000024,21.4545
+2016,Female,,Scotland,,Clackmannanshire,,,,,,,,,S12000005,24.9877
+2016,Female,,Scotland,,Dumfries and Galloway,,,,,,,,,S12000006,17.8399
+2016,Female,,Scotland,,East Ayrshire,,,,,,,,,S12000008,20.2156
+2016,Female,,Scotland,,East Lothian,,,,,,,,,S12000010,13.9764
+2016,Female,,Scotland,,East Renfrewshire,,,,,,,,,S12000011,10.4103
+2016,Female,,Scotland,,Na h-Eileanan Siar,,,,,,,,,S12000013,13.25
+2016,Female,,Scotland,,Falkirk,,,,,,,,,S12000014,18.3682
+2016,Female,,Scotland,,Fife,,,,,,,,,S12000015,16.8288
+2016,Female,,Scotland,,Highland,,,,,,,,,S12000017,16.5328
+2016,Female,,Scotland,,Inverclyde,,,,,,,,,S12000018,19.2487
+2016,Female,,Scotland,,Midlothian,,,,,,,,,S12000019,13.228
+2016,Female,,Scotland,,Moray,,,,,,,,,S12000020,13.6722
+2016,Female,,Scotland,,North Ayrshire,,,,,,,,,S12000021,20.3176
+2016,Female,,Scotland,,Orkney Islands,,,,,,,,,S12000023,9.1517
+2016,Female,,Scotland,,Perth and Kinross,,,,,,,,,S12000024,14.2262
+2016,Female,,Scotland,,Scottish Borders,,,,,,,,,S12000026,17.5013
+2016,Female,,Scotland,,Shetland Islands,,,,,,,,,S12000027,17.7508
+2016,Female,,Scotland,,South Ayrshire,,,,,,,,,S12000028,13.4131
+2016,Female,,Scotland,,South Lanarkshire,,,,,,,,,S12000029,16.9972
+2016,Female,,Scotland,,Stirling,,,,,,,,,S12000030,12.5203
+2016,Female,,Scotland,,Aberdeen City,,,,,,,,,S12000033,11.8471
+2016,Female,,Scotland,,Aberdeenshire,,,,,,,,,S12000034,8.7111
+2016,Female,,Scotland,,Argyll and Bute,,,,,,,,,S12000035,14.6432
+2016,Female,,Scotland,,City of Edinburgh,,,,,,,,,S12000036,14.4615
+2016,Female,,Scotland,,Renfrewshire,,,,,,,,,S12000038,14.866
+2016,Female,,Scotland,,West Dunbartonshire,,,,,,,,,S12000039,15.9
+2016,Female,,Scotland,,West Lothian,,,,,,,,,S12000040,17.479
+2016,Female,,Scotland,,Angus,,,,,,,,,S12000041,16.8849
+2016,Female,,Scotland,,Dundee City,,,,,,,,,S12000042,19.3005
+2016,Female,,Scotland,,North Lanarkshire,,,,,,,,,S12000044,18.9538
+2016,Female,,Scotland,,East Dunbartonshire,,,,,,,,,S12000045,5.9668
+2016,Female,,Scotland,,Glasgow City,,,,,,,,,S12000046,21.6362
+2016,Female,,Wales,,Isle of Anglesey,,,,,,,,,W06000001,17.5979
+2016,Female,,Wales,,Gwynedd,,,,,,,,,W06000002,17.0612
+2016,Female,,Wales,,Conwy,,,,,,,,,W06000003,12.5632
+2016,Female,,Wales,,Denbighshire,,,,,,,,,W06000004,13.3953
+2016,Female,,Wales,,Flintshire,,,,,,,,,W06000005,15.2245
+2016,Female,,Wales,,Wrexham,,,,,,,,,W06000006,18.6392
+2016,Female,,Wales,,Ceredigion,,,,,,,,,W06000008,12.9802
+2016,Female,,Wales,,Pembrokeshire,,,,,,,,,W06000009,13.8868
+2016,Female,,Wales,,Carmarthenshire,,,,,,,,,W06000010,14.0574
+2016,Female,,Wales,,Swansea,,,,,,,,,W06000011,15.5694
+2016,Female,,Wales,,Neath Port Talbot,,,,,,,,,W06000012,16.0968
+2016,Female,,Wales,,Bridgend,,,,,,,,,W06000013,17.3723
+2016,Female,,Wales,,Vale of Glamorgan,,,,,,,,,W06000014,15.975
+2016,Female,,Wales,,Cardiff,,,,,,,,,W06000015,12.2213
+2016,Female,,Wales,,Rhondda Cynon Taf,,,,,,,,,W06000016,19.8836
+2016,Female,,Wales,,Caerphilly,,,,,,,,,W06000018,18.3559
+2016,Female,,Wales,,Blaenau Gwent,,,,,,,,,W06000019,20.6681
+2016,Female,,Wales,,Torfaen,,,,,,,,,W06000020,17.6707
+2016,Female,,Wales,,Monmouthshire,,,,,,,,,W06000021,11.855
+2016,Female,,Wales,,Newport,,,,,,,,,W06000022,17.7672
+2016,Female,,Wales,,Powys,,,,,,,,,W06000023,12.7626
+2016,Female,,Wales,,Merthyr Tydfil,,,,,,,,,W06000024,21.4545
 2017,,,England,North East,Hartlepool,,,,,,,,,E06000001,19.1947
 2017,,,England,North East,Middlesbrough,,,,,,,,,E06000002,18.645
 2017,,,England,North East,Redcar and Cleveland,,,,,,,,,E06000003,15.0208
@@ -9185,60 +9185,60 @@ Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socio
 2017,,,England,South West,South Somerset,,,,,,,,,E07000189,11.939
 2017,,,England,South West,Taunton Deane,,,,,,,,,E07000190,16.0735
 2017,,,England,South West,West Somerset,,,,,,,,,E07000191,12.9125
-2017,,,Scotland,Scotland,Clackmannanshire,,,,,,,,,S12000005,17.4648
-2017,,,Scotland,Scotland,Dumfries and Galloway,,,,,,,,,S12000006,17.2648
-2017,,,Scotland,Scotland,East Ayrshire,,,,,,,,,S12000008,18.7774
-2017,,,Scotland,Scotland,East Lothian,,,,,,,,,S12000010,13.4306
-2017,,,Scotland,Scotland,East Renfrewshire,,,,,,,,,S12000011,9.4446
-2017,,,Scotland,Scotland,Na h-Eileanan Siar,,,,,,,,,S12000013,13.0965
-2017,,,Scotland,Scotland,Falkirk,,,,,,,,,S12000014,17.9484
-2017,,,Scotland,Scotland,Fife,,,,,,,,,S12000015,14.684
-2017,,,Scotland,Scotland,Highland,,,,,,,,,S12000017,13.4179
-2017,,,Scotland,Scotland,Inverclyde,,,,,,,,,S12000018,18.2084
-2017,,,Scotland,Scotland,Midlothian,,,,,,,,,S12000019,15.4952
-2017,,,Scotland,Scotland,Moray,,,,,,,,,S12000020,16.884
-2017,,,Scotland,Scotland,North Ayrshire,,,,,,,,,S12000021,16.3708
-2017,,,Scotland,Scotland,Orkney Islands,,,,,,,,,S12000023,6.2504
-2017,,,Scotland,Scotland,Perth and Kinross,,,,,,,,,S12000024,11.7085
-2017,,,Scotland,Scotland,Scottish Borders,,,,,,,,,S12000026,15.8606
-2017,,,Scotland,Scotland,Shetland Islands,,,,,,,,,S12000027,12.71
-2017,,,Scotland,Scotland,South Ayrshire,,,,,,,,,S12000028,15.3851
-2017,,,Scotland,Scotland,South Lanarkshire,,,,,,,,,S12000029,17.8738
-2017,,,Scotland,Scotland,Stirling,,,,,,,,,S12000030,12.7765
-2017,,,Scotland,Scotland,Aberdeen City,,,,,,,,,S12000033,16.5056
-2017,,,Scotland,Scotland,Aberdeenshire,,,,,,,,,S12000034,15.1064
-2017,,,Scotland,Scotland,Argyll and Bute,,,,,,,,,S12000035,14.9127
-2017,,,Scotland,Scotland,City of Edinburgh,,,,,,,,,S12000036,12.0394
-2017,,,Scotland,Scotland,Renfrewshire,,,,,,,,,S12000038,16.1377
-2017,,,Scotland,Scotland,West Dunbartonshire,,,,,,,,,S12000039,17.1044
-2017,,,Scotland,Scotland,West Lothian,,,,,,,,,S12000040,15.0925
-2017,,,Scotland,Scotland,Angus,,,,,,,,,S12000041,16.0957
-2017,,,Scotland,Scotland,Dundee City,,,,,,,,,S12000042,20.7713
-2017,,,Scotland,Scotland,North Lanarkshire,,,,,,,,,S12000044,20.9263
-2017,,,Scotland,Scotland,East Dunbartonshire,,,,,,,,,S12000045,8.8105
-2017,,,Scotland,Scotland,Glasgow City,,,,,,,,,S12000046,22.8321
-2017,,,Wales,Wales,Isle of Anglesey,,,,,,,,,W06000001,17.3482
-2017,,,Wales,Wales,Gwynedd,,,,,,,,,W06000002,16.0429
-2017,,,Wales,Wales,Conwy,,,,,,,,,W06000003,17.1331
-2017,,,Wales,Wales,Denbighshire,,,,,,,,,W06000004,17.9675
-2017,,,Wales,Wales,Flintshire,,,,,,,,,W06000005,12.907
-2017,,,Wales,Wales,Wrexham,,,,,,,,,W06000006,16.9531
-2017,,,Wales,Wales,Ceredigion,,,,,,,,,W06000008,17.0341
-2017,,,Wales,Wales,Pembrokeshire,,,,,,,,,W06000009,16.0686
-2017,,,Wales,Wales,Carmarthenshire,,,,,,,,,W06000010,15.4107
-2017,,,Wales,Wales,Swansea,,,,,,,,,W06000011,14.7823
-2017,,,Wales,Wales,Neath Port Talbot,,,,,,,,,W06000012,19.1533
-2017,,,Wales,Wales,Bridgend,,,,,,,,,W06000013,17.6622
-2017,,,Wales,Wales,Vale of Glamorgan,,,,,,,,,W06000014,14.559
-2017,,,Wales,Wales,Cardiff,,,,,,,,,W06000015,14.7487
-2017,,,Wales,Wales,Rhondda Cynon Taf,,,,,,,,,W06000016,16.8462
-2017,,,Wales,Wales,Caerphilly,,,,,,,,,W06000018,18.033
-2017,,,Wales,Wales,Blaenau Gwent,,,,,,,,,W06000019,19.9336
-2017,,,Wales,Wales,Torfaen,,,,,,,,,W06000020,16.3616
-2017,,,Wales,Wales,Monmouthshire,,,,,,,,,W06000021,10.4716
-2017,,,Wales,Wales,Newport,,,,,,,,,W06000022,16.797
-2017,,,Wales,Wales,Powys,,,,,,,,,W06000023,14.0535
-2017,,,Wales,Wales,Merthyr Tydfil,,,,,,,,,W06000024,22.3129
+2017,,,Scotland,,Clackmannanshire,,,,,,,,,S12000005,17.4648
+2017,,,Scotland,,Dumfries and Galloway,,,,,,,,,S12000006,17.2648
+2017,,,Scotland,,East Ayrshire,,,,,,,,,S12000008,18.7774
+2017,,,Scotland,,East Lothian,,,,,,,,,S12000010,13.4306
+2017,,,Scotland,,East Renfrewshire,,,,,,,,,S12000011,9.4446
+2017,,,Scotland,,Na h-Eileanan Siar,,,,,,,,,S12000013,13.0965
+2017,,,Scotland,,Falkirk,,,,,,,,,S12000014,17.9484
+2017,,,Scotland,,Fife,,,,,,,,,S12000015,14.684
+2017,,,Scotland,,Highland,,,,,,,,,S12000017,13.4179
+2017,,,Scotland,,Inverclyde,,,,,,,,,S12000018,18.2084
+2017,,,Scotland,,Midlothian,,,,,,,,,S12000019,15.4952
+2017,,,Scotland,,Moray,,,,,,,,,S12000020,16.884
+2017,,,Scotland,,North Ayrshire,,,,,,,,,S12000021,16.3708
+2017,,,Scotland,,Orkney Islands,,,,,,,,,S12000023,6.2504
+2017,,,Scotland,,Perth and Kinross,,,,,,,,,S12000024,11.7085
+2017,,,Scotland,,Scottish Borders,,,,,,,,,S12000026,15.8606
+2017,,,Scotland,,Shetland Islands,,,,,,,,,S12000027,12.71
+2017,,,Scotland,,South Ayrshire,,,,,,,,,S12000028,15.3851
+2017,,,Scotland,,South Lanarkshire,,,,,,,,,S12000029,17.8738
+2017,,,Scotland,,Stirling,,,,,,,,,S12000030,12.7765
+2017,,,Scotland,,Aberdeen City,,,,,,,,,S12000033,16.5056
+2017,,,Scotland,,Aberdeenshire,,,,,,,,,S12000034,15.1064
+2017,,,Scotland,,Argyll and Bute,,,,,,,,,S12000035,14.9127
+2017,,,Scotland,,City of Edinburgh,,,,,,,,,S12000036,12.0394
+2017,,,Scotland,,Renfrewshire,,,,,,,,,S12000038,16.1377
+2017,,,Scotland,,West Dunbartonshire,,,,,,,,,S12000039,17.1044
+2017,,,Scotland,,West Lothian,,,,,,,,,S12000040,15.0925
+2017,,,Scotland,,Angus,,,,,,,,,S12000041,16.0957
+2017,,,Scotland,,Dundee City,,,,,,,,,S12000042,20.7713
+2017,,,Scotland,,North Lanarkshire,,,,,,,,,S12000044,20.9263
+2017,,,Scotland,,East Dunbartonshire,,,,,,,,,S12000045,8.8105
+2017,,,Scotland,,Glasgow City,,,,,,,,,S12000046,22.8321
+2017,,,Wales,,Isle of Anglesey,,,,,,,,,W06000001,17.3482
+2017,,,Wales,,Gwynedd,,,,,,,,,W06000002,16.0429
+2017,,,Wales,,Conwy,,,,,,,,,W06000003,17.1331
+2017,,,Wales,,Denbighshire,,,,,,,,,W06000004,17.9675
+2017,,,Wales,,Flintshire,,,,,,,,,W06000005,12.907
+2017,,,Wales,,Wrexham,,,,,,,,,W06000006,16.9531
+2017,,,Wales,,Ceredigion,,,,,,,,,W06000008,17.0341
+2017,,,Wales,,Pembrokeshire,,,,,,,,,W06000009,16.0686
+2017,,,Wales,,Carmarthenshire,,,,,,,,,W06000010,15.4107
+2017,,,Wales,,Swansea,,,,,,,,,W06000011,14.7823
+2017,,,Wales,,Neath Port Talbot,,,,,,,,,W06000012,19.1533
+2017,,,Wales,,Bridgend,,,,,,,,,W06000013,17.6622
+2017,,,Wales,,Vale of Glamorgan,,,,,,,,,W06000014,14.559
+2017,,,Wales,,Cardiff,,,,,,,,,W06000015,14.7487
+2017,,,Wales,,Rhondda Cynon Taf,,,,,,,,,W06000016,16.8462
+2017,,,Wales,,Caerphilly,,,,,,,,,W06000018,18.033
+2017,,,Wales,,Blaenau Gwent,,,,,,,,,W06000019,19.9336
+2017,,,Wales,,Torfaen,,,,,,,,,W06000020,16.3616
+2017,,,Wales,,Monmouthshire,,,,,,,,,W06000021,10.4716
+2017,,,Wales,,Newport,,,,,,,,,W06000022,16.797
+2017,,,Wales,,Powys,,,,,,,,,W06000023,14.0535
+2017,,,Wales,,Merthyr Tydfil,,,,,,,,,W06000024,22.3129
 2017,Male,,England,North East,Hartlepool,,,,,,,,,E06000001,20.148
 2017,Male,,England,North East,Middlesbrough,,,,,,,,,E06000002,19.7988
 2017,Male,,England,North East,Redcar and Cleveland,,,,,,,,,E06000003,14.5444
@@ -9563,60 +9563,60 @@ Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socio
 2017,Male,,England,South West,South Somerset,,,,,,,,,E07000189,12.1954
 2017,Male,,England,South West,Taunton Deane,,,,,,,,,E07000190,15.5261
 2017,Male,,England,South West,West Somerset,,,,,,,,,E07000191,15.1606
-2017,Male,,Scotland,Scotland,Clackmannanshire,,,,,,,,,S12000005,19.0256
-2017,Male,,Scotland,Scotland,Dumfries and Galloway,,,,,,,,,S12000006,18.3381
-2017,Male,,Scotland,Scotland,East Ayrshire,,,,,,,,,S12000008,20.274
-2017,Male,,Scotland,Scotland,East Lothian,,,,,,,,,S12000010,14.226
-2017,Male,,Scotland,Scotland,East Renfrewshire,,,,,,,,,S12000011,10.8009
-2017,Male,,Scotland,Scotland,Na h-Eileanan Siar,,,,,,,,,S12000013,17.9465
-2017,Male,,Scotland,Scotland,Falkirk,,,,,,,,,S12000014,19.848
-2017,Male,,Scotland,Scotland,Fife,,,,,,,,,S12000015,15.1061
-2017,Male,,Scotland,Scotland,Highland,,,,,,,,,S12000017,15.2984
-2017,Male,,Scotland,Scotland,Inverclyde,,,,,,,,,S12000018,18.3149
-2017,Male,,Scotland,Scotland,Midlothian,,,,,,,,,S12000019,19.1356
-2017,Male,,Scotland,Scotland,Moray,,,,,,,,,S12000020,18.8795
-2017,Male,,Scotland,Scotland,North Ayrshire,,,,,,,,,S12000021,17.0571
-2017,Male,,Scotland,Scotland,Orkney Islands,,,,,,,,,S12000023,7.7545
-2017,Male,,Scotland,Scotland,Perth and Kinross,,,,,,,,,S12000024,11.9897
-2017,Male,,Scotland,Scotland,Scottish Borders,,,,,,,,,S12000026,16.3926
-2017,Male,,Scotland,Scotland,Shetland Islands,,,,,,,,,S12000027,15.004
-2017,Male,,Scotland,Scotland,South Ayrshire,,,,,,,,,S12000028,17.5653
-2017,Male,,Scotland,Scotland,South Lanarkshire,,,,,,,,,S12000029,20.6048
-2017,Male,,Scotland,Scotland,Stirling,,,,,,,,,S12000030,14.3815
-2017,Male,,Scotland,Scotland,Aberdeen City,,,,,,,,,S12000033,18.7753
-2017,Male,,Scotland,Scotland,Aberdeenshire,,,,,,,,,S12000034,16.9169
-2017,Male,,Scotland,Scotland,Argyll and Bute,,,,,,,,,S12000035,16.1021
-2017,Male,,Scotland,Scotland,City of Edinburgh,,,,,,,,,S12000036,12.5659
-2017,Male,,Scotland,Scotland,Renfrewshire,,,,,,,,,S12000038,16.4937
-2017,Male,,Scotland,Scotland,West Dunbartonshire,,,,,,,,,S12000039,20.5295
-2017,Male,,Scotland,Scotland,West Lothian,,,,,,,,,S12000040,14.8859
-2017,Male,,Scotland,Scotland,Angus,,,,,,,,,S12000041,17.3039
-2017,Male,,Scotland,Scotland,Dundee City,,,,,,,,,S12000042,23.1112
-2017,Male,,Scotland,Scotland,North Lanarkshire,,,,,,,,,S12000044,20.7081
-2017,Male,,Scotland,Scotland,East Dunbartonshire,,,,,,,,,S12000045,10.2702
-2017,Male,,Scotland,Scotland,Glasgow City,,,,,,,,,S12000046,26.7686
-2017,Male,,Wales,Wales,Isle of Anglesey,,,,,,,,,W06000001,17.2135
-2017,Male,,Wales,Wales,Gwynedd,,,,,,,,,W06000002,18.3692
-2017,Male,,Wales,Wales,Conwy,,,,,,,,,W06000003,18.4389
-2017,Male,,Wales,Wales,Denbighshire,,,,,,,,,W06000004,20.2138
-2017,Male,,Wales,Wales,Flintshire,,,,,,,,,W06000005,15.0157
-2017,Male,,Wales,Wales,Wrexham,,,,,,,,,W06000006,19.0373
-2017,Male,,Wales,Wales,Ceredigion,,,,,,,,,W06000008,20.0717
-2017,Male,,Wales,Wales,Pembrokeshire,,,,,,,,,W06000009,16.6318
-2017,Male,,Wales,Wales,Carmarthenshire,,,,,,,,,W06000010,14.8634
-2017,Male,,Wales,Wales,Swansea,,,,,,,,,W06000011,16.7568
-2017,Male,,Wales,Wales,Neath Port Talbot,,,,,,,,,W06000012,19.5331
-2017,Male,,Wales,Wales,Bridgend,,,,,,,,,W06000013,18.5896
-2017,Male,,Wales,Wales,Vale of Glamorgan,,,,,,,,,W06000014,14.8749
-2017,Male,,Wales,Wales,Cardiff,,,,,,,,,W06000015,18.9873
-2017,Male,,Wales,Wales,Rhondda Cynon Taf,,,,,,,,,W06000016,16.1477
-2017,Male,,Wales,Wales,Caerphilly,,,,,,,,,W06000018,17.8349
-2017,Male,,Wales,Wales,Blaenau Gwent,,,,,,,,,W06000019,19.4456
-2017,Male,,Wales,Wales,Torfaen,,,,,,,,,W06000020,17.3647
-2017,Male,,Wales,Wales,Monmouthshire,,,,,,,,,W06000021,11.5144
-2017,Male,,Wales,Wales,Newport,,,,,,,,,W06000022,16.9003
-2017,Male,,Wales,Wales,Powys,,,,,,,,,W06000023,14.5509
-2017,Male,,Wales,Wales,Merthyr Tydfil,,,,,,,,,W06000024,21.9191
+2017,Male,,Scotland,,Clackmannanshire,,,,,,,,,S12000005,19.0256
+2017,Male,,Scotland,,Dumfries and Galloway,,,,,,,,,S12000006,18.3381
+2017,Male,,Scotland,,East Ayrshire,,,,,,,,,S12000008,20.274
+2017,Male,,Scotland,,East Lothian,,,,,,,,,S12000010,14.226
+2017,Male,,Scotland,,East Renfrewshire,,,,,,,,,S12000011,10.8009
+2017,Male,,Scotland,,Na h-Eileanan Siar,,,,,,,,,S12000013,17.9465
+2017,Male,,Scotland,,Falkirk,,,,,,,,,S12000014,19.848
+2017,Male,,Scotland,,Fife,,,,,,,,,S12000015,15.1061
+2017,Male,,Scotland,,Highland,,,,,,,,,S12000017,15.2984
+2017,Male,,Scotland,,Inverclyde,,,,,,,,,S12000018,18.3149
+2017,Male,,Scotland,,Midlothian,,,,,,,,,S12000019,19.1356
+2017,Male,,Scotland,,Moray,,,,,,,,,S12000020,18.8795
+2017,Male,,Scotland,,North Ayrshire,,,,,,,,,S12000021,17.0571
+2017,Male,,Scotland,,Orkney Islands,,,,,,,,,S12000023,7.7545
+2017,Male,,Scotland,,Perth and Kinross,,,,,,,,,S12000024,11.9897
+2017,Male,,Scotland,,Scottish Borders,,,,,,,,,S12000026,16.3926
+2017,Male,,Scotland,,Shetland Islands,,,,,,,,,S12000027,15.004
+2017,Male,,Scotland,,South Ayrshire,,,,,,,,,S12000028,17.5653
+2017,Male,,Scotland,,South Lanarkshire,,,,,,,,,S12000029,20.6048
+2017,Male,,Scotland,,Stirling,,,,,,,,,S12000030,14.3815
+2017,Male,,Scotland,,Aberdeen City,,,,,,,,,S12000033,18.7753
+2017,Male,,Scotland,,Aberdeenshire,,,,,,,,,S12000034,16.9169
+2017,Male,,Scotland,,Argyll and Bute,,,,,,,,,S12000035,16.1021
+2017,Male,,Scotland,,City of Edinburgh,,,,,,,,,S12000036,12.5659
+2017,Male,,Scotland,,Renfrewshire,,,,,,,,,S12000038,16.4937
+2017,Male,,Scotland,,West Dunbartonshire,,,,,,,,,S12000039,20.5295
+2017,Male,,Scotland,,West Lothian,,,,,,,,,S12000040,14.8859
+2017,Male,,Scotland,,Angus,,,,,,,,,S12000041,17.3039
+2017,Male,,Scotland,,Dundee City,,,,,,,,,S12000042,23.1112
+2017,Male,,Scotland,,North Lanarkshire,,,,,,,,,S12000044,20.7081
+2017,Male,,Scotland,,East Dunbartonshire,,,,,,,,,S12000045,10.2702
+2017,Male,,Scotland,,Glasgow City,,,,,,,,,S12000046,26.7686
+2017,Male,,Wales,,Isle of Anglesey,,,,,,,,,W06000001,17.2135
+2017,Male,,Wales,,Gwynedd,,,,,,,,,W06000002,18.3692
+2017,Male,,Wales,,Conwy,,,,,,,,,W06000003,18.4389
+2017,Male,,Wales,,Denbighshire,,,,,,,,,W06000004,20.2138
+2017,Male,,Wales,,Flintshire,,,,,,,,,W06000005,15.0157
+2017,Male,,Wales,,Wrexham,,,,,,,,,W06000006,19.0373
+2017,Male,,Wales,,Ceredigion,,,,,,,,,W06000008,20.0717
+2017,Male,,Wales,,Pembrokeshire,,,,,,,,,W06000009,16.6318
+2017,Male,,Wales,,Carmarthenshire,,,,,,,,,W06000010,14.8634
+2017,Male,,Wales,,Swansea,,,,,,,,,W06000011,16.7568
+2017,Male,,Wales,,Neath Port Talbot,,,,,,,,,W06000012,19.5331
+2017,Male,,Wales,,Bridgend,,,,,,,,,W06000013,18.5896
+2017,Male,,Wales,,Vale of Glamorgan,,,,,,,,,W06000014,14.8749
+2017,Male,,Wales,,Cardiff,,,,,,,,,W06000015,18.9873
+2017,Male,,Wales,,Rhondda Cynon Taf,,,,,,,,,W06000016,16.1477
+2017,Male,,Wales,,Caerphilly,,,,,,,,,W06000018,17.8349
+2017,Male,,Wales,,Blaenau Gwent,,,,,,,,,W06000019,19.4456
+2017,Male,,Wales,,Torfaen,,,,,,,,,W06000020,17.3647
+2017,Male,,Wales,,Monmouthshire,,,,,,,,,W06000021,11.5144
+2017,Male,,Wales,,Newport,,,,,,,,,W06000022,16.9003
+2017,Male,,Wales,,Powys,,,,,,,,,W06000023,14.5509
+2017,Male,,Wales,,Merthyr Tydfil,,,,,,,,,W06000024,21.9191
 2017,Female,,England,North East,Hartlepool,,,,,,,,,E06000001,18.2674
 2017,Female,,England,North East,Middlesbrough,,,,,,,,,E06000002,17.5787
 2017,Female,,England,North East,Redcar and Cleveland,,,,,,,,,E06000003,15.4646
@@ -9941,88 +9941,88 @@ Year,Sex,Age,Country,Region,Local Authority,Health Board,Economic Activity,Socio
 2017,Female,,England,South West,South Somerset,,,,,,,,,E07000189,11.7169
 2017,Female,,England,South West,Taunton Deane,,,,,,,,,E07000190,16.6065
 2017,Female,,England,South West,West Somerset,,,,,,,,,E07000191,11.2789
-2017,Female,,Scotland,Scotland,Clackmannanshire,,,,,,,,,S12000005,16.0056
-2017,Female,,Scotland,Scotland,Dumfries and Galloway,,,,,,,,,S12000006,16.2838
-2017,Female,,Scotland,Scotland,East Ayrshire,,,,,,,,,S12000008,17.3609
-2017,Female,,Scotland,Scotland,East Lothian,,,,,,,,,S12000010,12.7123
-2017,Female,,Scotland,Scotland,East Renfrewshire,,,,,,,,,S12000011,8.2434
-2017,Female,,Scotland,Scotland,Na h-Eileanan Siar,,,,,,,,,S12000013,8.3694
-2017,Female,,Scotland,Scotland,Falkirk,,,,,,,,,S12000014,16.21
-2017,Female,,Scotland,Scotland,Fife,,,,,,,,,S12000015,14.2909
-2017,Female,,Scotland,Scotland,Highland,,,,,,,,,S12000017,11.724
-2017,Female,,Scotland,Scotland,Inverclyde,,,,,,,,,S12000018,18.1157
-2017,Female,,Scotland,Scotland,Midlothian,,,,,,,,,S12000019,12.3108
-2017,Female,,Scotland,Scotland,Moray,,,,,,,,,S12000020,15.0169
-2017,Female,,Scotland,Scotland,North Ayrshire,,,,,,,,,S12000021,15.7817
-2017,Female,,Scotland,Scotland,Orkney Islands,,,,,,,,,S12000023,4.8328
-2017,Female,,Scotland,Scotland,Perth and Kinross,,,,,,,,,S12000024,11.4389
-2017,Female,,Scotland,Scotland,Scottish Borders,,,,,,,,,S12000026,15.3732
-2017,Female,,Scotland,Scotland,Shetland Islands,,,,,,,,,S12000027,10.4808
-2017,Female,,Scotland,Scotland,South Ayrshire,,,,,,,,,S12000028,13.392
-2017,Female,,Scotland,Scotland,South Lanarkshire,,,,,,,,,S12000029,15.4321
-2017,Female,,Scotland,Scotland,Stirling,,,,,,,,,S12000030,11.3194
-2017,Female,,Scotland,Scotland,Aberdeen City,,,,,,,,,S12000033,14.3506
-2017,Female,,Scotland,Scotland,Aberdeenshire,,,,,,,,,S12000034,13.4636
-2017,Female,,Scotland,Scotland,Argyll and Bute,,,,,,,,,S12000035,13.7627
-2017,Female,,Scotland,Scotland,City of Edinburgh,,,,,,,,,S12000036,11.5575
-2017,Female,,Scotland,Scotland,Renfrewshire,,,,,,,,,S12000038,15.8153
-2017,Female,,Scotland,Scotland,West Dunbartonshire,,,,,,,,,S12000039,14.1966
-2017,Female,,Scotland,Scotland,West Lothian,,,,,,,,,S12000040,15.2917
-2017,Female,,Scotland,Scotland,Angus,,,,,,,,,S12000041,14.9479
-2017,Female,,Scotland,Scotland,Dundee City,,,,,,,,,S12000042,18.6777
-2017,Female,,Scotland,Scotland,North Lanarkshire,,,,,,,,,S12000044,21.119
-2017,Female,,Scotland,Scotland,East Dunbartonshire,,,,,,,,,S12000045,7.5007
-2017,Female,,Scotland,Scotland,Glasgow City,,,,,,,,,S12000046,19.2844
-2017,Female,,Wales,Wales,Isle of Anglesey,,,,,,,,,W06000001,17.4734
-2017,Female,,Wales,Wales,Gwynedd,,,,,,,,,W06000002,13.7549
-2017,Female,,Wales,Wales,Conwy,,,,,,,,,W06000003,15.9107
-2017,Female,,Wales,Wales,Denbighshire,,,,,,,,,W06000004,15.8381
-2017,Female,,Wales,Wales,Flintshire,,,,,,,,,W06000005,10.9085
-2017,Female,,Wales,Wales,Wrexham,,,,,,,,,W06000006,14.8659
-2017,Female,,Wales,Wales,Ceredigion,,,,,,,,,W06000008,13.8436
-2017,Female,,Wales,Wales,Pembrokeshire,,,,,,,,,W06000009,15.5468
-2017,Female,,Wales,Wales,Carmarthenshire,,,,,,,,,W06000010,15.931
-2017,Female,,Wales,Wales,Swansea,,,,,,,,,W06000011,12.8111
-2017,Female,,Wales,Wales,Neath Port Talbot,,,,,,,,,W06000012,18.7997
-2017,Female,,Wales,Wales,Bridgend,,,,,,,,,W06000013,16.7977
-2017,Female,,Wales,Wales,Vale of Glamorgan,,,,,,,,,W06000014,14.2643
-2017,Female,,Wales,Wales,Cardiff,,,,,,,,,W06000015,10.7509
-2017,Female,,Wales,Wales,Rhondda Cynon Taf,,,,,,,,,W06000016,17.5087
-2017,Female,,Wales,Wales,Caerphilly,,,,,,,,,W06000018,18.2209
-2017,Female,,Wales,Wales,Blaenau Gwent,,,,,,,,,W06000019,20.4001
-2017,Female,,Wales,Wales,Torfaen,,,,,,,,,W06000020,15.4324
-2017,Female,,Wales,Wales,Monmouthshire,,,,,,,,,W06000021,9.4895
-2017,Female,,Wales,Wales,Newport,,,,,,,,,W06000022,16.6993
-2017,Female,,Wales,Wales,Powys,,,,,,,,,W06000023,13.5719
-2017,Female,,Wales,Wales,Merthyr Tydfil,,,,,,,,,W06000024,22.6826
-2014,,,Wales,Wales,,Betsi Cadwaladr University Health Board,,,,,,,,W11000023,18.8639
-2014,,,Wales,Wales,,Powys Teaching Health Board,,,,,,,,W11000024,17.761
-2014,,,Wales,Wales,,Hywel Dda University Health Board,,,,,,,,W11000025,16.7398
-2014,,,Wales,Wales,,Abertawe Bro Morgannwg University Health Board,,,,,,,,W11000026,20.336
-2014,,,Wales,Wales,,Cwm Taf University Health Board,,,,,,,,W11000027,21.8988
-2014,,,Wales,Wales,,Aneurin Bevan University Health Board,,,,,,,,W11000028,21.2529
-2014,,,Wales,Wales,,Cardiff and Vale University Health Board,,,,,,,,W11000029,18.0745
-2015,,,Wales,Wales,,Betsi Cadwaladr University Health Board,,,,,,,,W11000023,17.5552
-2015,,,Wales,Wales,,Powys Teaching Health Board,,,,,,,,W11000024,13.3651
-2015,,,Wales,Wales,,Hywel Dda University Health Board,,,,,,,,W11000025,17.0816
-2015,,,Wales,Wales,,Abertawe Bro Morgannwg University Health Board,,,,,,,,W11000026,18.7333
-2015,,,Wales,Wales,,Cwm Taf University Health Board,,,,,,,,W11000027,19.3706
-2015,,,Wales,Wales,,Aneurin Bevan University Health Board,,,,,,,,W11000028,19.5592
-2015,,,Wales,Wales,,Cardiff and Vale University Health Board,,,,,,,,W11000029,17.9558
-2016,,,Wales,Wales,,Betsi Cadwaladr University Health Board,,,,,,,,W11000023,16.9978
-2016,,,Wales,Wales,,Powys Teaching Health Board,,,,,,,,W11000024,15.3919
-2016,,,Wales,Wales,,Hywel Dda University Health Board,,,,,,,,W11000025,15.1193
-2016,,,Wales,Wales,,Abertawe Bro Morgannwg University Health Board,,,,,,,,W11000026,17.0185
-2016,,,Wales,Wales,,Cwm Taf University Health Board,,,,,,,,W11000027,19.6846
-2016,,,Wales,Wales,,Aneurin Bevan University Health Board,,,,,,,,W11000028,18.8463
-2016,,,Wales,Wales,,Cardiff and Vale University Health Board,,,,,,,,W11000029,14.5388
-2017,,,Wales,Wales,,Betsi Cadwaladr University Health Board,,,,,,,,W11000023,16.1093
-2017,,,Wales,Wales,,Powys Teaching Health Board,,,,,,,,W11000024,14.0535
-2017,,,Wales,Wales,,Hywel Dda University Health Board,,,,,,,,W11000025,15.9504
-2017,,,Wales,Wales,,Abertawe Bro Morgannwg University Health Board,,,,,,,,W11000026,16.7365
-2017,,,Wales,Wales,,Cwm Taf University Health Board,,,,,,,,W11000027,17.9428
-2017,,,Wales,Wales,,Aneurin Bevan University Health Board,,,,,,,,W11000028,16.4581
-2017,,,Wales,Wales,,Cardiff and Vale University Health Board,,,,,,,,W11000029,14.6984
+2017,Female,,Scotland,,Clackmannanshire,,,,,,,,,S12000005,16.0056
+2017,Female,,Scotland,,Dumfries and Galloway,,,,,,,,,S12000006,16.2838
+2017,Female,,Scotland,,East Ayrshire,,,,,,,,,S12000008,17.3609
+2017,Female,,Scotland,,East Lothian,,,,,,,,,S12000010,12.7123
+2017,Female,,Scotland,,East Renfrewshire,,,,,,,,,S12000011,8.2434
+2017,Female,,Scotland,,Na h-Eileanan Siar,,,,,,,,,S12000013,8.3694
+2017,Female,,Scotland,,Falkirk,,,,,,,,,S12000014,16.21
+2017,Female,,Scotland,,Fife,,,,,,,,,S12000015,14.2909
+2017,Female,,Scotland,,Highland,,,,,,,,,S12000017,11.724
+2017,Female,,Scotland,,Inverclyde,,,,,,,,,S12000018,18.1157
+2017,Female,,Scotland,,Midlothian,,,,,,,,,S12000019,12.3108
+2017,Female,,Scotland,,Moray,,,,,,,,,S12000020,15.0169
+2017,Female,,Scotland,,North Ayrshire,,,,,,,,,S12000021,15.7817
+2017,Female,,Scotland,,Orkney Islands,,,,,,,,,S12000023,4.8328
+2017,Female,,Scotland,,Perth and Kinross,,,,,,,,,S12000024,11.4389
+2017,Female,,Scotland,,Scottish Borders,,,,,,,,,S12000026,15.3732
+2017,Female,,Scotland,,Shetland Islands,,,,,,,,,S12000027,10.4808
+2017,Female,,Scotland,,South Ayrshire,,,,,,,,,S12000028,13.392
+2017,Female,,Scotland,,South Lanarkshire,,,,,,,,,S12000029,15.4321
+2017,Female,,Scotland,,Stirling,,,,,,,,,S12000030,11.3194
+2017,Female,,Scotland,,Aberdeen City,,,,,,,,,S12000033,14.3506
+2017,Female,,Scotland,,Aberdeenshire,,,,,,,,,S12000034,13.4636
+2017,Female,,Scotland,,Argyll and Bute,,,,,,,,,S12000035,13.7627
+2017,Female,,Scotland,,City of Edinburgh,,,,,,,,,S12000036,11.5575
+2017,Female,,Scotland,,Renfrewshire,,,,,,,,,S12000038,15.8153
+2017,Female,,Scotland,,West Dunbartonshire,,,,,,,,,S12000039,14.1966
+2017,Female,,Scotland,,West Lothian,,,,,,,,,S12000040,15.2917
+2017,Female,,Scotland,,Angus,,,,,,,,,S12000041,14.9479
+2017,Female,,Scotland,,Dundee City,,,,,,,,,S12000042,18.6777
+2017,Female,,Scotland,,North Lanarkshire,,,,,,,,,S12000044,21.119
+2017,Female,,Scotland,,East Dunbartonshire,,,,,,,,,S12000045,7.5007
+2017,Female,,Scotland,,Glasgow City,,,,,,,,,S12000046,19.2844
+2017,Female,,Wales,,Isle of Anglesey,,,,,,,,,W06000001,17.4734
+2017,Female,,Wales,,Gwynedd,,,,,,,,,W06000002,13.7549
+2017,Female,,Wales,,Conwy,,,,,,,,,W06000003,15.9107
+2017,Female,,Wales,,Denbighshire,,,,,,,,,W06000004,15.8381
+2017,Female,,Wales,,Flintshire,,,,,,,,,W06000005,10.9085
+2017,Female,,Wales,,Wrexham,,,,,,,,,W06000006,14.8659
+2017,Female,,Wales,,Ceredigion,,,,,,,,,W06000008,13.8436
+2017,Female,,Wales,,Pembrokeshire,,,,,,,,,W06000009,15.5468
+2017,Female,,Wales,,Carmarthenshire,,,,,,,,,W06000010,15.931
+2017,Female,,Wales,,Swansea,,,,,,,,,W06000011,12.8111
+2017,Female,,Wales,,Neath Port Talbot,,,,,,,,,W06000012,18.7997
+2017,Female,,Wales,,Bridgend,,,,,,,,,W06000013,16.7977
+2017,Female,,Wales,,Vale of Glamorgan,,,,,,,,,W06000014,14.2643
+2017,Female,,Wales,,Cardiff,,,,,,,,,W06000015,10.7509
+2017,Female,,Wales,,Rhondda Cynon Taf,,,,,,,,,W06000016,17.5087
+2017,Female,,Wales,,Caerphilly,,,,,,,,,W06000018,18.2209
+2017,Female,,Wales,,Blaenau Gwent,,,,,,,,,W06000019,20.4001
+2017,Female,,Wales,,Torfaen,,,,,,,,,W06000020,15.4324
+2017,Female,,Wales,,Monmouthshire,,,,,,,,,W06000021,9.4895
+2017,Female,,Wales,,Newport,,,,,,,,,W06000022,16.6993
+2017,Female,,Wales,,Powys,,,,,,,,,W06000023,13.5719
+2017,Female,,Wales,,Merthyr Tydfil,,,,,,,,,W06000024,22.6826
+2014,,,Wales,,,Betsi Cadwaladr University Health Board,,,,,,,,W11000023,18.8639
+2014,,,Wales,,,Powys Teaching Health Board,,,,,,,,W11000024,17.761
+2014,,,Wales,,,Hywel Dda University Health Board,,,,,,,,W11000025,16.7398
+2014,,,Wales,,,Abertawe Bro Morgannwg University Health Board,,,,,,,,W11000026,20.336
+2014,,,Wales,,,Cwm Taf University Health Board,,,,,,,,W11000027,21.8988
+2014,,,Wales,,,Aneurin Bevan University Health Board,,,,,,,,W11000028,21.2529
+2014,,,Wales,,,Cardiff and Vale University Health Board,,,,,,,,W11000029,18.0745
+2015,,,Wales,,,Betsi Cadwaladr University Health Board,,,,,,,,W11000023,17.5552
+2015,,,Wales,,,Powys Teaching Health Board,,,,,,,,W11000024,13.3651
+2015,,,Wales,,,Hywel Dda University Health Board,,,,,,,,W11000025,17.0816
+2015,,,Wales,,,Abertawe Bro Morgannwg University Health Board,,,,,,,,W11000026,18.7333
+2015,,,Wales,,,Cwm Taf University Health Board,,,,,,,,W11000027,19.3706
+2015,,,Wales,,,Aneurin Bevan University Health Board,,,,,,,,W11000028,19.5592
+2015,,,Wales,,,Cardiff and Vale University Health Board,,,,,,,,W11000029,17.9558
+2016,,,Wales,,,Betsi Cadwaladr University Health Board,,,,,,,,W11000023,16.9978
+2016,,,Wales,,,Powys Teaching Health Board,,,,,,,,W11000024,15.3919
+2016,,,Wales,,,Hywel Dda University Health Board,,,,,,,,W11000025,15.1193
+2016,,,Wales,,,Abertawe Bro Morgannwg University Health Board,,,,,,,,W11000026,17.0185
+2016,,,Wales,,,Cwm Taf University Health Board,,,,,,,,W11000027,19.6846
+2016,,,Wales,,,Aneurin Bevan University Health Board,,,,,,,,W11000028,18.8463
+2016,,,Wales,,,Cardiff and Vale University Health Board,,,,,,,,W11000029,14.5388
+2017,,,Wales,,,Betsi Cadwaladr University Health Board,,,,,,,,W11000023,16.1093
+2017,,,Wales,,,Powys Teaching Health Board,,,,,,,,W11000024,14.0535
+2017,,,Wales,,,Hywel Dda University Health Board,,,,,,,,W11000025,15.9504
+2017,,,Wales,,,Abertawe Bro Morgannwg University Health Board,,,,,,,,W11000026,16.7365
+2017,,,Wales,,,Cwm Taf University Health Board,,,,,,,,W11000027,17.9428
+2017,,,Wales,,,Aneurin Bevan University Health Board,,,,,,,,W11000028,16.4581
+2017,,,Wales,,,Cardiff and Vale University Health Board,,,,,,,,W11000029,14.6984
 2011,,,England,,,,In Employment,,,,,,,,20.1167
 2011,,,England,,,,Unemployed,,,,,,,,37.4682
 2011,,,England,,,,Inactive,,,,,,,,17.1407
