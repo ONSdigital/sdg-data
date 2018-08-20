@@ -1,0 +1,85 @@
+Sub output_table()
+' convert a table into a column, reading across
+
+'create new worksheet called Output if there isn't one already
+'
+For i = 1 To Worksheets.Count
+    If Worksheets(i).Name = "Output" Then
+        exists = True
+        Sheets("Output").Delete
+        Sheets.Add After:=Sheets(Sheets.Count)
+        Sheets(Sheets.Count).Select
+        Sheets(Sheets.Count).Name = "Output"
+    End If
+Next i
+
+If Not exists Then
+        Sheets.Add After:=Sheets(Sheets.Count)
+        Sheets(Sheets.Count).Select
+        Sheets(Sheets.Count).Name = "Output"
+End If
+
+'counter tracks the lines in the output tab
+
+Dim counter As Long
+
+counter = 1
+
+' note that ordering of i and j for loops determines the
+'direction that the data is read in - this won't affect
+'values and can be changed by an appropriate sort action
+
+' go through rows with j (MANUAL - update j)
+For j = 7 To 988
+    
+    ' go through colums with i (MANUAL - update i)
+    For i = 4 To 57
+        
+        ' copy row labels - one line for each label, fixed values relating to the indicator sheet
+        ' should be changed to column value that the row label is in (so if the row labes are in
+        ' columns 1 and 2, the fixed values should be 1 and 2)
+        ' (MANUAL - update   'Output' column         &             'Indicator' column
+        Sheets("Output").Cells(counter, 1).Value = Sheets("Indicator").Cells(j, 1).Value
+        Sheets("Output").Cells(counter, 2).Value = Sheets("Indicator").Cells(j, 2).Value
+        '                                                                          ^
+        '                                                                these should be the columns
+        '                                                                that the row labels are in
+        
+        
+        'copy column label - as for row, but with fixed values changed to the row value that
+        ' the column is in
+        ' (MANUAL - update   'Output' column         &             'Indicator' row
+        Sheets("Output").Cells(counter, 3).Value = Sheets("Indicator").Cells(1, i).Value
+        Sheets("Output").Cells(counter, 4).Value = Sheets("Indicator").Cells(2, i).Value
+        Sheets("Output").Cells(counter, 5).Value = Sheets("Indicator").Cells(3, i).Value
+        Sheets("Output").Cells(counter, 6).Value = Sheets("Indicator").Cells(4, i).Value
+        Sheets("Output").Cells(counter, 7).Value = Sheets("Indicator").Cells(5, i).Value
+    
+        '                                                                       ^
+        '                                                                 these should be the rows
+        '                                                                 that the column labels are in
+        
+        'additional labels can be included by repeating one of the above lines of code and changing the
+        'cell addresses
+        
+        ' copy table value - the column value should be the last one - so the value should be:
+        ' row label count + column label count + 1, otherwise there will be gaps or over-writes
+        ' (MANUAL - update 'Output' output value column
+        Sheets("Output").Cells(counter, 8).Value = Sheets("Indicator").Cells(j, i).Value
+                
+
+                
+                
+                
+        'advance counter so that the next value is put on a new line
+        counter = counter + 1
+        
+    Next i
+    
+Next j
+        
+MsgBox ("Always check that the labels are correct before continuing")
+
+End Sub
+
+
