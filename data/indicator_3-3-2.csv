@@ -1,7 +1,64 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Confidence Interval,Value
+1990,,61
+1990,Lower bound,23
+1990,Upper bound,118
+1991,,61
+1991,Lower bound,24
+1991,Upper bound,117
+1992,,62
+1992,Lower bound,26
+1992,Upper bound,114
+1993,,61
+1993,Lower bound,26
+1993,Upper bound,111
+1994,,59
+1994,Lower bound,26
+1994,Upper bound,107
+1995,,58
+1995,Lower bound,26
+1995,Upper bound,103
+1996,,55
+1996,Lower bound,25
+1996,Upper bound,98
+1997,,51
+1997,Lower bound,23
+1997,Upper bound,91
+1998,,47
+1998,Lower bound,22
+1998,Upper bound,82
+1999,,43
+1999,Lower bound,22
+1999,Upper bound,73
+2000,,40
+2000,Lower bound,22
+2000,Upper bound,64
+2001,,36
+2001,Lower bound,22
+2001,Upper bound,55
+2002,,31
+2002,Lower bound,20
+2002,Upper bound,45
+2003,,27
+2003,Lower bound,18
+2003,Upper bound,36
+2004,,22
+2004,Lower bound,15
+2004,Upper bound,29
+2005,,19
+2005,Lower bound,16
+2005,Upper bound,21
+2006,,15
+2006,Lower bound,13
+2006,Upper bound,17
+2007,,13
+2007,Lower bound,11
+2007,Upper bound,15
+2008,,12
+2008,Lower bound,11
+2008,Upper bound,15
+2009,,12
+2009,Lower bound,9.7
+2009,Upper bound,15
+2010,,11
+2010,Lower bound,8.7
+2010,Upper bound,14
