@@ -1,0 +1,42 @@
+https://github.com/ONSdigital/sdg-indicators/wiki/Metadata-
+
+# Mandatory fields
+## Already populated from UN.STAT
+
+Indicator name MANDATORY
+
+Target name MANDATORY
+
+Target number MANDATORY
+
+UN designated tier RECOMMENDED
+
+UN custodian agency RECOMMENDED
+
+Link to UN metadata RECOMMENDED
+
+Link to UN metadata text RECOMMENDED
+
+## Require populating
+
+Geographical coverage MANDATORY
+
+Unit of measurement MANDATORY
+
+Reporting status (needs to be complete')' MANDATORY
+
+Graph type (line by default) MANDATORY
+
+Graph title MANDATORY
+
+data_non_statistical (true/false) MANDATORY
+
+Source 1 active (checkbox) RECOMMENDED
+
+Source 1: Organisation RECOMMENDED
+
+Source 1: Link to data source RECOMMENDED
+
+Source 1: Link to data source text RECOMMENDED
+
+The rest are optional fields (incl. data sources 2-6)
