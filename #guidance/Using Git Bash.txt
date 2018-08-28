@@ -1,0 +1,93 @@
+This guidance will show you how to manage data and metadata in Git Bash.
+The methods below are faster and easier than the drag+drop or manual approaches,
+although in some instances (e.g. first time uploading indicator metadata) it is best
+to use manual entry as this will help guard against build errors in Travis CI.
+
+All commands to be entered into the Git Bash terminal are marked with '##'.
+This is just to make them stand out - don't include '##' when entering the command.
+
+For guidance in setting up Git Bash, go to 'Git Bash setup.txt'.
+
+Cloning a repository has 2 steps:
+1. Set a working directory / project folder
+2. Create a local version of the repository
+Note: If you have already cloned the repo, skip this section.
+
+Editing and pushing files has 3 steps:
+1. Open the working directory
+2. Make required changes to data/metadata/scripts
+3. Push changes to the repository
+
+Any questions, you can contact Chris (ONS UK) at christopher.norris@ons.gov.uk
+
+-----------------
+
+Cloning a repository
+
+1. Set a working directory / project folder
+
+Choose a location to save your cloned repository.
+I recommend creating a folder in your C drive called 'repo',
+and make a folder inside 'repo' for the project (i.e. RwandaSDG).
+
+Open the 'Git Bash' terminal (search for it with the Windows buton), and then
+set your working directory to the project folder using the 'cd' command:
+## cd /c/repo/rwandasdg
+## explorer .   (opens your working directory as a window)
+Note: if you name it differently, just substitute '/c/repo/rwandasdg for your directory in the commands below.
+
+2. Create a local version of the repository
+
+Choose which repository to clone (sustainabledevelopment-rwanda/sdg-data contains the csvs and metadata).
+https://github.com/sustainabledevelopment-rwanda/sdg-data
+
+Use git clone " [SSH URL] " to make a local copy of the repo on your machine.
+You can find the SSH URL in the main repo page in GitHub (green button 'Clone or download').
+## ___________   (for Rwanda sdg-data repository)
+Note: You can press the 'up' key to show previous commands, and paste using SHIFT + INS.
+
+In Git Bash you will see the download progressing (usually takes 15-60 seconds).
+Update the directory (cd ./) to the new folder, which will be named after the repo.
+## cd ./sdg-data
+
+Job's a good'un! You have now cloned the repository.
+
+-----------------
+
+Editing and pushing files
+
+1. Open the working directory
+
+Open Git Bash and set the working directory to your repository (update the following as required).
+## cd /c/repo/rwandasdg/sdg-data
+## explorer .
+
+2. Make required changes to data/metadata/scripts
+
+Go ahead and make changes to the csvs ('data'), metadata ('meta') and so on.
+When you are done, save the file. It will now be 'ahead' of the online repo.
+You can also add, delete and move files and folders.
+It's OK to create a folder for shared documents, etc - these won't display on the site.
+
+You may also want to change the 'Readme' file to alter what displays on your repo page.
+For changes to the site such as contact email, publications and other visual changes,
+you will need to make a clone of the 'sdg-indicators' repo, saving it under 'rwandasdg'.
+
+3. Push changes to the repository
+
+To compare your local copy with the online site, use:
+## git status
+
+If this is as you expected. Proceed with the following:
+## git add -A
+## git clone -m "MESSAGE"   (enter name of the commit)
+## git push
+
+You will see the transfer occur, then your repo will update almost immediately.
+Note that to see the changes on the website, you will have to do a 'Push to Live'.
+
+If another user is also editing the repository, you may have the last step fail.
+Try using 'git push -f' to force the commit. Be careful though.
+
+Note: the NISR 'dlink' WiFi seems to have a security feature that prevents you cloning
+or pushing changes. I suggest using an alternate network or ask your IT team to help.

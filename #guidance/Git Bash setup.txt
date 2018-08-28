@@ -1,0 +1,90 @@
+This guidance will help you to set up a Git Bash terminal on your computer.
+Git Bash will make updating the SDG repositories much faster and easier.
+For instance, you can move and delete files and create new folders.
+
+All commands to be entered into the Git Bash terminal are marked with '##'.
+This is just to make them stand out - don't include '##' when entering the command.
+
+There are 3 stages:
+1. Installing Git Bash
+2. Generating deploy keys
+3. Adding deploy keys to your account
+	a. public key (deploy_key.pub)
+	b. private key (deploy_key)
+
+Any questions, you can contact Chris (ONS UK) at christopher.norris@ons.gov.uk
+
+-----------------
+
+1. Installing Git Bash
+
+Install Git Bash for Windows from https://git-scm.com/download/win (or search 'Git Bash download').
+Follow the installation instructions, selecting the default settings (i.e. click Next), except for...
+Use the Git Bash terminal rather than Windows terminal (choose 'Use Git from Git Bash only' - the first option).
+
+2. Generating deploy keys
+
+Choose a location to save your private/public key pair.
+I recommend creating a folder in your C drive called 'repo',
+where you will clone your repos, and make a folder inside 'repo' called 'key'.
+
+When you have done this, set your working directory (cd) to the 'key' folder.
+Open the 'Git Bash' terminal (search for it with the Windows buton), and then
+set your working directory to the 'key' folder using the 'cd' command:
+## cd /c/repo/key
+## explorer .   (optional - this opens your working directory as a window)
+Note: if you save it somewhere else, just substitute '/c/repo/key' for your directory in the commands below.
+
+Login to GitHub, and then link your account to the terminal using:
+## git config --global user.name "GITHUB USERNAME"
+## git config --global user.email "GITHUB EMAIL ADDRESS"
+Note: You can press the 'up' key to show previous commands, and paste using SHIFT + INS.
+
+Now you will generate the deploy key pair (private / public) for this GitHub user.
+These deploy keys allow you to edit via Git Bash, but only on the machine you set it up on.
+## ssh-keygen -t rsa -b 4096 -C "GITHUB EMAIL ADDRESS"
+
+You will be asked 'enter a file in which to save the key'...
+## /c/repo/key/deploy_key
+This will create two files called 'deploy key' in the 'key' folder.
+No password required (just hit ENTER twice when prompted) but you can add one if you wish.
+Note: if you do enter a password, you won't see any text as you type.
+
+Go to the key folder, where the two deploy keys have been generated.
+## explorer .
+
+deploy_key.pub is your PUBLIC key (it has a green icon).
+This has to be copied to GitHub.
+deploy_key is you PRIVATE key (white page and no file extension).
+Your private key must not be uploaded to GitHub!
+
+3. Adding deploy keys to your account
+
+a. public key (deploy_key.pub)
+
+You need to add deploy_key.pub to your GitHub account. Copy it using the Git Bash terminal:
+## clip < /c/repo/key/deploy_key.pub
+
+Open github.com. Click on your profile pic (top right) and open Settings.
+Go to 'SSH and GPG keys', add a new SSH key, and give it a name. Paste the key into the box (CTRL + V).
+If it says '...RSA PRIVATE KEY' then do not save it - you have copied the private key by mistake.
+If your email is visible at the bottom, you've done it right and you can save the SSH key.
+
+b. private key (deploy_key)
+
+You need to add your private key to your computer's SSH agent.
+## $ eval $(ssh-agent -s)
+
+Add deploy_key to your list of SSH keys using:
+ssh-add /c/repo/key/deploy_key
+
+-----------------
+
+Job's a good'un, you are now set up to use Git Bash!
+Practice cloning a site (See 'Using Git Bash.txt') and pushing a change to the repository.
+When you do you this, your key in Settings > SSH and GPG Keys is activated and turns green.
+
+This one-off installation process has been successful, and you can use Git Bash as long as you are logged into GitHub.
+
+Note: the NISR 'dlink' WiFi seems to have a security feature that prevents you cloning
+or pushing changes. I suggest using an alternate network or ask your IT team to help.
