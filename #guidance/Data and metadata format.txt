@@ -1,0 +1,54 @@
+Guidance on correct format for data and metadata can be found on the SDGs wiki page. See below for some relevant links.
+
+Main: https://github.com/ONSdigital/sdg-indicators/wiki
+Inputting data: https://github.com/ONSdigital/sdg-indicators/wiki
+Metadata format: https://github.com/ONSdigital/sdg-indicators/wiki/Metadata-format
+User permissions: https://github.com/ONSdigital/sdg-indicators/wiki/Permissions-for-Adding-Data
+Data types: https://github.com/ONSdigital/sdg-indicators/wiki/Data-scenarios-and-characteristics
+
+If a commit / pull request is rejected, ensure that all of the mandatory fields in the metadata are present, and that
+the CSV conforms to the rules below ('Year' and 'Value' column; no whitespace; no empty rows; forbidden characters removed).
+Forbidden characters include apostrophes, colons, and accented letters (á, é, í, ó, ú).
+
+If the data is not show on the tool after a pull request, make sure that the metadata field 'reporting status' = 'complete'.
+
+-----------------
+
+Troubleshooting
+
+If the Travis build goes red, or takes more than 10 minutes to complete, there has been a problem.
+Open build by going to 'Details' in the Pull Request, or going to travis-ci.org.
+
+Select the repository you are using (sdg-data or sdg-indicators), click one of the 'Build jobs',
+and then scroll down to the bottom of the text output to determine the cause of the problem.
+Often, a CSV or metadata field has failed the checks, and you will need to fix that file before the build can finish.
+This is a case of doing another commit with the updated file, either manually or with Git Bash.
+
+Search (CTRL + F) for the word 'error' or 'fail' - this will often be near the bottom.
+There should be text explaining which file caused the error, and why. Common errors can include...
+
+
+"data/indicator_17-8-1.csv : Trailing whitespace in column:  Location"
+Cause: 17.8.1 CSV file has whitespace somewhere in the 'Location' column - remove it.
+
+"found duplicate key "data_non_statistical" with value "False" in "meta/3-1-1.md""
+Cause: 3.1.1 metadata file has two fields called 'data_non_statistical' - delete one.
+
+"found duplicate key "graph_title" with value "Maternal mortality ratio (MMR) in "meta/3-1-1.md""
+Cause: 3.1.1 metadata file has two fields called 'graph_title' - delete one.
+
+"Checking 244 metadata files...
+"graph_title missing for published statistical indicator in meta/2-2-2.md"
+Cause: 2.2.2 metadata file is missing the 'graph_title' field - add it.
+Note: It can be useful to look at a completed indicator from ONS DIGITAL repo, or to
+update the metadata through the 'Edit' button on the site to help add a missing field.
+
+"data/indicator_5-5-1.csv : Empty row on rows:  [2]"
+Cause: 5.5.1 CSV is missing a row - find and amend it (try the bottom of the CSV)
+
+"data/indicator_17-6-2.csv 'utf-8' codec can't decode byte 0xe9 in position 9: unexpected end of data"
+Cause: 17.6.2 CSV has a forbidden character (á, é, í, ó, ú, ü, ñ, etc.) - replace it
+
+
+If you have any questions you can contact Chris (ONS UK) at christopher.norris@ons.gov.uk
+He is not a developer but might be able to find a fix for your problem.
