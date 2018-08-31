@@ -8,9 +8,13 @@ Data types: https://github.com/ONSdigital/sdg-indicators/wiki/Data-scenarios-and
 
 If a commit / pull request is rejected, ensure that all of the mandatory fields in the metadata are present, and that
 the CSV conforms to the rules below ('Year' and 'Value' column; no whitespace; no empty rows; forbidden characters removed).
-Forbidden characters include apostrophes, colons, and accented letters (á, é, í, ó, ú).
+Forbidden characters include apostrophes, colons, and accented letters (Ã¡, Ã©, Ã­, Ã³, Ãº).
+The 'GeoCode' column should be one space to the left of the 'Value' column, which is always the rightmost column. 'Year' on the left.
 
 If the data is not show on the tool after a pull request, make sure that the metadata field 'reporting status' = 'complete'.
+
+Finally, when checking for whitespace in Excel, you can use and drag the following formula (example for cell A1).
+=if(or(left(A1,1)=" ",(right(A1,1)=" ")),"Whitespace","")
 
 -----------------
 
@@ -47,7 +51,7 @@ update the metadata through the 'Edit' button on the site to help add a missing 
 Cause: 5.5.1 CSV is missing a row - find and amend it (try the bottom of the CSV)
 
 "data/indicator_17-6-2.csv 'utf-8' codec can't decode byte 0xe9 in position 9: unexpected end of data"
-Cause: 17.6.2 CSV has a forbidden character (á, é, í, ó, ú, ü, ñ, etc.) - replace it
+Cause: 17.6.2 CSV has a forbidden character (Ã¡, Ã©, Ã­, Ã³, Ãº, Ã¼, Ã±, etc.) - replace it
 
 
 If you have any questions you can contact Chris (ONS UK) at christopher.norris@ons.gov.uk
