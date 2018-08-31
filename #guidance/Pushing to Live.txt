@@ -18,6 +18,8 @@ Pushing to Live has 2 steps:
 Troubleshooting section at the bottom of the page.
 
 Any questions, you can contact Chris (ONS UK) at christopher.norris@ons.gov.uk
+Note: I will be away from 31 August - 15 September. If you cannot resolve the problem using the guidance,
+contact my colleagues Ben (ben.hillman@ons.gov.uk) and Mike (mike.bolton@ons.gov.uk) who have agreed to help.
 
 -----------------
 
@@ -52,6 +54,10 @@ Proceed to 'Troubleshooting' below.
 
 Exactly the same process as pushing to Staging, but use the 'sdg-indicators' repo instead of 'sdg-data'.
 Only do this if you are happy for the changes to go Live.
+
+If you are having problems (files not apopearing on Staging or Live), then try going to travis-ci.org, and
+clicking 'Restart Build' for sdg-indicators, then (when it's gone green) sdg-data. This will hopefully clear any blocks.
+If not, it could be a problem with the metadata. Ensure that reporting status is set to 'complete', and that the CSV passes checks.
 
 Job's a good'un! You have now pushed to Live/Staging.
 
@@ -90,8 +96,9 @@ update the metadata through the 'Edit' button on the site to help add a missing 
 Cause: 5.5.1 CSV is missing a row - find and amend it (try the bottom of the CSV)
 
 "data/indicator_17-6-2.csv 'utf-8' codec can't decode byte 0xe9 in position 9: unexpected end of data"
-Cause: 17.6.2 CSV has a forbidden character (á, é, í, ó, ú, ü, ñ, etc.) - replace it
+Cause: 17.6.2 CSV has a forbidden character (Ã¡, Ã©, Ã­, Ã³, Ãº, Ã¼, Ã±, etc.) - replace it
 
 
+If you have resolved these problems, merged the builds to master and stil not seen 
 If you have any questions you can contact Chris (ONS UK) at christopher.norris@ons.gov.uk
 He is not a developer but might be able to find a fix for your problem.
