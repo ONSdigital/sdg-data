@@ -1,181 +1,1041 @@
-Year,Species,Fatality,Value
-2000,,,3.476202363545896
-2001,,,3.467934295
-2002,,,3.276302646
-2003,,,2.887483714
-2004,,,2.76895567
-2005,,,2.9033342
-2006,,,2.890159156
-2007,,,2.524498892
-2008,,,2.215975078
-2009,,,2.401201404
-2010,,,2.805949697
-2011,,,2.649912855
-2012,,,2.163095518
-2013,,,2.341445456
-2014,,,2.45522998
-2015,,,2.150207341
-2016,,,2.464656251
-2017,,,2.713497556163835
-2000,,Fatal,0.02717109810294789
-2001,,Fatal,0.01522507327320264
-2002,,Fatal,0.01516027518729383
-2003,,Fatal,0.02682913406521646
-2004,,Fatal,0.008340232930028581
-2005,,Fatal,0.01655265309565401
-2006,,Fatal,0.01315203969969487
-2007,,Fatal,0.008154069512627189
-2008,,Fatal,0.00970500473507181
-2009,,Fatal,0.009636930877796232
-2010,,Fatal,0.01115369769935546
-2011,,Fatal,0.01264119723514894
-2012,,Fatal,0.003139469520695618
-2013,,Fatal,0.01091947365516308
-2014,,Fatal,0.004644196352163341
-2015,,Fatal,0.009215169508281934
-2016,,Fatal,0.00913964639378343
-2017,,Fatal,0.009085371281798553
-2000,P. falciparum,,2.640691096880249
-2001,P. falciparum,,2.659312798386061
-2002,P. falciparum,,2.467755905487273
-2003,P. falciparum,,2.243586336203727
-2004,P. falciparum,,2.035016834926974
-2005,P. falciparum,,2.213089718888941
-2006,P. falciparum,,2.278590877972137
-2007,P. falciparum,,1.855866221073948
-2008,P. falciparum,,1.758223357837176
-2009,P. falciparum,,1.89365691748696
-2010,P. falciparum,,2.012445742040849
-2011,P. falciparum,,1.810851503935086
-2012,P. falciparum,,1.572874229868505
-2013,P. falciparum,,1.859430370993485
-2014,P. falciparum,,1.809688511892982
-2015,P. falciparum,,1.640300172474184
-2016,P. falciparum,,1.992442913844788
-2017,P. falciparum,,2.19865985019525
-2000,P. vivax,,0.5468183493218264
-2001,P. vivax,,0.4415271249228765
-2002,P. vivax,,0.4783909059101608
-2003,P. vivax,,0.3437482802105859
-2004,P. vivax,,0.4603808577375777
-2005,P. vivax,,0.4270584498678734
-2006,P. vivax,,0.3567490768542235
-2007,P. vivax,,0.417488359046512
-2008,P. vivax,,0.2862976396846184
-2009,P. vivax,,0.3292618049913713
-2010,P. vivax,,0.5544981141965284
-2011,P. vivax,,0.6557621065733514
-2012,P. vivax,,0.4238283852939085
-2013,P. vivax,,0.2792265406105989
-2014,P. vivax,,0.3483147264122506
-2015,P. vivax,,0.3179233480357267
-2016,P. vivax,,0.2528635502280083
-2017,P. vivax,,0.2483334817024938
-2000,P. ovale,,0.2088778166664119
-2001,P. ovale,,0.2655929448769794
-2002,P. ovale,,0.2240351777677866
-2003,P. ovale,,0.2246939977961878
-2004,P. ovale,,0.200165590320686
-2005,P. ovale,,0.1920107759095865
-2006,P. ovale,,0.1742645260209571
-2007,P. ovale,,0.1761279014727473
-2008,P. ovale,,0.1229300599775763
-2009,P. ovale,,0.1108247050946567
-2010,P. ovale,,0.1577451531765986
-2011,P. ovale,,0.1216715233883086
-2012,P. ovale,,0.1036024941829554
-2013,P. ovale,,0.1216741350146744
-2014,P. ovale,,0.2012485085937448
-2015,P. ovale,,0.1459068505477973
-2016,P. ovale,,0.1340481471088237
-2017,P. ovale,,0.163536683072374
-2000,P. malariae,,0.0509458089430273
-2001,P. malariae,,0.06259196790094418
-2002,P. malariae,,0.07243242589484829
-2003,P. malariae,,0.04527416373505277
-2004,P. malariae,,0.04670530440816006
-2005,P. malariae,,0.04800269397739663
-2006,P. malariae,,0.03945611909908462
-2007,P. malariae,,0.04892441707576313
-2008,P. malariae,,0.0323500157835727
-2009,P. malariae,,0.05782158526677739
-2010,P. malariae,,0.0589552592680217
-2011,P. malariae,,0.04898463928620216
-2012,P. malariae,,0.05023151233112989
-2013,P. malariae,,0.06083706750733718
-2014,P. malariae,,0.06347068347956566
-2015,P. malariae,,0.03532481644841408
-2016,P. malariae,,0.06245425035752011
-2017,P. malariae,,0.08328257008315341
-2000,P. knowlesi,,0.0
-2001,P. knowlesi,,0.0
-2002,P. knowlesi,,0.0
-2003,P. knowlesi,,0.0
-2004,P. knowlesi,,0.0
-2005,P. knowlesi,,0.0
-2006,P. knowlesi,,0.001644004962461859
-2007,P. knowlesi,,0.0
-2008,P. knowlesi,,0.0
-2009,P. knowlesi,,0.0
-2010,P. knowlesi,,0.0
-2011,P. knowlesi,,0.0
-2012,P. knowlesi,,0.0
-2013,P. knowlesi,,0.0
-2014,P. knowlesi,,0.0
-2015,P. knowlesi,,0.0
-2016,P. knowlesi,,0.001523274398963905
-2017,P. knowlesi,,0.003028457093932852
-2000,Mixed,,0.02717109810294789
-2001,Mixed,,0.02706679693013803
-2002,Mixed,,0.02189817527053553
-2003,Mixed,,0.02515231318614044
-2004,Mixed,,0.02001655903206859
-2005,Mixed,,0.01655265309565401
-2006,Mixed,,0.03288009924923719
-2007,Mixed,,0.02446220853788156
-2008,Mixed,,0.01455750710260771
-2009,Mixed,,0.009636930877796232
-2010,Mixed,,0.01912062462746649
-2011,Mixed,,0.006320598617574472
-2012,Mixed,,0.01098814332243466
-2013,Mixed,,0.02027902250244573
-2014,Mixed,,0.03250937446514338
-2015,Mixed,,0.01075103109299559
-2016,Mixed,,0.01980256718653077
-2017,Mixed,,0.01665651401663068
-2000,P. unspecified,,0.001698193631434243
-2001,P. unspecified,,0.001691674808133627
-2002,P. unspecified,,0.003368950041620851
-2003,P. unspecified,,0.001676820879076029
-2004,P. unspecified,,0.0
-2005,P. unspecified,,0.004965795928696203
-2006,P. unspecified,,0.0
-2007,P. unspecified,,0.0
-2008,P. unspecified,,0.001617500789178635
-2009,P. unspecified,,0.0
-2010,P. unspecified,,0.0
-2011,P. unspecified,,0.0
-2012,P. unspecified,,0.0
-2013,P. unspecified,,0.0
-2014,P. unspecified,,0.0
-2015,P. unspecified,,0.0
-2016,P. unspecified,,0.001523274398963905
-2017,P. unspecified,,0.0
-2000,,Non-fatal,3.449031265442948
-2001,,Non-fatal,3.44255823455193
-2002,,Non-fatal,3.252721265184932
-2003,,Non-fatal,2.857302777945553
-2004,,Non-fatal,2.753944913495438
-2005,,Non-fatal,2.885127434572494
-2006,,Non-fatal,2.870432664458406
-2007,,Non-fatal,2.514715037694225
-2008,,Non-fatal,2.206271076439658
-2009,,Non-fatal,2.391565012839765
-2010,,Non-fatal,2.791611195610109
-2011,,Non-fatal,2.630949174565374
-2012,,Non-fatal,2.158385295478237
-2013,,Non-fatal,2.330527662973378
-2014,,Non-fatal,2.450587608491523
-2015,,Non-fatal,2.140991049090836
-2016,,Non-fatal,2.455518331129815
-2017,,Non-fatal,2.704412184882036
+Year,Units,Sex,Age,Country,Region,Species,Fatality,Region of Birth,Ethnicity,Region of travel,GeoCode,Value
+2000,"Incidence per 100,000",,,,,,,,,,,3.47620236354589
+2001,"Incidence per 100,000",,,,,,,,,,,3.467934295
+2002,"Incidence per 100,000",,,,,,,,,,,3.276302646
+2003,"Incidence per 100,000",,,,,,,,,,,2.887483714
+2004,"Incidence per 100,000",,,,,,,,,,,2.76895567
+2005,"Incidence per 100,000",,,,,,,,,,,2.9033342
+2006,"Incidence per 100,000",,,,,,,,,,,2.890159156
+2007,"Incidence per 100,000",,,,,,,,,,,2.524498892
+2008,"Incidence per 100,000",,,,,,,,,,,2.215975078
+2009,"Incidence per 100,000",,,,,,,,,,,2.401201404
+2010,"Incidence per 100,000",,,,,,,,,,,2.805949697
+2011,"Incidence per 100,000",,,,,,,,,,,2.649912855
+2012,"Incidence per 100,000",,,,,,,,,,,2.163095518
+2013,"Incidence per 100,000",,,,,,,,,,,2.341445456
+2014,"Incidence per 100,000",,,,,,,,,,,2.45522998
+2015,"Incidence per 100,000",,,,,,,,,,,2.150207341
+2016,"Incidence per 100,000",,,,,,,,,,,2.464656251
+2017,"Incidence per 100,000",,,,,,,,,,,2.71349755616383
+2000,"Incidence per 100,000",,,,,,Fatal,,,,,0.0271710981029478
+2001,"Incidence per 100,000",,,,,,Fatal,,,,,0.0152250732732026
+2002,"Incidence per 100,000",,,,,,Fatal,,,,,0.0151602751872938
+2003,"Incidence per 100,000",,,,,,Fatal,,,,,0.0268291340652164
+2004,"Incidence per 100,000",,,,,,Fatal,,,,,0.00834023293002858
+2005,"Incidence per 100,000",,,,,,Fatal,,,,,0.016552653095654
+2006,"Incidence per 100,000",,,,,,Fatal,,,,,0.0131520396996948
+2007,"Incidence per 100,000",,,,,,Fatal,,,,,0.00815406951262718
+2008,"Incidence per 100,000",,,,,,Fatal,,,,,0.00970500473507181
+2009,"Incidence per 100,000",,,,,,Fatal,,,,,0.00963693087779623
+2010,"Incidence per 100,000",,,,,,Fatal,,,,,0.0111536976993554
+2011,"Incidence per 100,000",,,,,,Fatal,,,,,0.0126411972351489
+2012,"Incidence per 100,000",,,,,,Fatal,,,,,0.00313946952069561
+2013,"Incidence per 100,000",,,,,,Fatal,,,,,0.010919473655163
+2014,"Incidence per 100,000",,,,,,Fatal,,,,,0.00464419635216334
+2015,"Incidence per 100,000",,,,,,Fatal,,,,,0.00921516950828193
+2016,"Incidence per 100,000",,,,,,Fatal,,,,,0.00913964639378343
+2017,"Incidence per 100,000",,,,,,Fatal,,,,,0.00908537128179855
+2000,"Incidence per 100,000",,,,,P. falciparum,,,,,,2.64069109688024
+2001,"Incidence per 100,000",,,,,P. falciparum,,,,,,2.65931279838606
+2002,"Incidence per 100,000",,,,,P. falciparum,,,,,,2.46775590548727
+2003,"Incidence per 100,000",,,,,P. falciparum,,,,,,2.24358633620372
+2004,"Incidence per 100,000",,,,,P. falciparum,,,,,,2.03501683492697
+2005,"Incidence per 100,000",,,,,P. falciparum,,,,,,2.21308971888894
+2006,"Incidence per 100,000",,,,,P. falciparum,,,,,,2.27859087797213
+2007,"Incidence per 100,000",,,,,P. falciparum,,,,,,1.85586622107394
+2008,"Incidence per 100,000",,,,,P. falciparum,,,,,,1.75822335783717
+2009,"Incidence per 100,000",,,,,P. falciparum,,,,,,1.89365691748696
+2010,"Incidence per 100,000",,,,,P. falciparum,,,,,,2.01244574204084
+2011,"Incidence per 100,000",,,,,P. falciparum,,,,,,1.81085150393508
+2012,"Incidence per 100,000",,,,,P. falciparum,,,,,,1.5728742298685
+2013,"Incidence per 100,000",,,,,P. falciparum,,,,,,1.85943037099348
+2014,"Incidence per 100,000",,,,,P. falciparum,,,,,,1.80968851189298
+2015,"Incidence per 100,000",,,,,P. falciparum,,,,,,1.64030017247418
+2016,"Incidence per 100,000",,,,,P. falciparum,,,,,,1.99244291384478
+2017,"Incidence per 100,000",,,,,P. falciparum,,,,,,2.19865985019525
+2000,"Incidence per 100,000",,,,,P. vivax,,,,,,0.546818349321826
+2001,"Incidence per 100,000",,,,,P. vivax,,,,,,0.441527124922876
+2002,"Incidence per 100,000",,,,,P. vivax,,,,,,0.47839090591016
+2003,"Incidence per 100,000",,,,,P. vivax,,,,,,0.343748280210585
+2004,"Incidence per 100,000",,,,,P. vivax,,,,,,0.460380857737577
+2005,"Incidence per 100,000",,,,,P. vivax,,,,,,0.427058449867873
+2006,"Incidence per 100,000",,,,,P. vivax,,,,,,0.356749076854223
+2007,"Incidence per 100,000",,,,,P. vivax,,,,,,0.417488359046512
+2008,"Incidence per 100,000",,,,,P. vivax,,,,,,0.286297639684618
+2009,"Incidence per 100,000",,,,,P. vivax,,,,,,0.329261804991371
+2010,"Incidence per 100,000",,,,,P. vivax,,,,,,0.554498114196528
+2011,"Incidence per 100,000",,,,,P. vivax,,,,,,0.655762106573351
+2012,"Incidence per 100,000",,,,,P. vivax,,,,,,0.423828385293908
+2013,"Incidence per 100,000",,,,,P. vivax,,,,,,0.279226540610598
+2014,"Incidence per 100,000",,,,,P. vivax,,,,,,0.34831472641225
+2015,"Incidence per 100,000",,,,,P. vivax,,,,,,0.317923348035726
+2016,"Incidence per 100,000",,,,,P. vivax,,,,,,0.252863550228008
+2017,"Incidence per 100,000",,,,,P. vivax,,,,,,0.248333481702493
+2000,"Incidence per 100,000",,,,,P. ovale,,,,,,0.208877816666411
+2001,"Incidence per 100,000",,,,,P. ovale,,,,,,0.265592944876979
+2002,"Incidence per 100,000",,,,,P. ovale,,,,,,0.224035177767786
+2003,"Incidence per 100,000",,,,,P. ovale,,,,,,0.224693997796187
+2004,"Incidence per 100,000",,,,,P. ovale,,,,,,0.200165590320686
+2005,"Incidence per 100,000",,,,,P. ovale,,,,,,0.192010775909586
+2006,"Incidence per 100,000",,,,,P. ovale,,,,,,0.174264526020957
+2007,"Incidence per 100,000",,,,,P. ovale,,,,,,0.176127901472747
+2008,"Incidence per 100,000",,,,,P. ovale,,,,,,0.122930059977576
+2009,"Incidence per 100,000",,,,,P. ovale,,,,,,0.110824705094656
+2010,"Incidence per 100,000",,,,,P. ovale,,,,,,0.157745153176598
+2011,"Incidence per 100,000",,,,,P. ovale,,,,,,0.121671523388308
+2012,"Incidence per 100,000",,,,,P. ovale,,,,,,0.103602494182955
+2013,"Incidence per 100,000",,,,,P. ovale,,,,,,0.121674135014674
+2014,"Incidence per 100,000",,,,,P. ovale,,,,,,0.201248508593744
+2015,"Incidence per 100,000",,,,,P. ovale,,,,,,0.145906850547797
+2016,"Incidence per 100,000",,,,,P. ovale,,,,,,0.134048147108823
+2017,"Incidence per 100,000",,,,,P. ovale,,,,,,0.163536683072374
+2000,"Incidence per 100,000",,,,,P. malariae,,,,,,0.0509458089430273
+2001,"Incidence per 100,000",,,,,P. malariae,,,,,,0.0625919679009441
+2002,"Incidence per 100,000",,,,,P. malariae,,,,,,0.0724324258948482
+2003,"Incidence per 100,000",,,,,P. malariae,,,,,,0.0452741637350527
+2004,"Incidence per 100,000",,,,,P. malariae,,,,,,0.04670530440816
+2005,"Incidence per 100,000",,,,,P. malariae,,,,,,0.0480026939773966
+2006,"Incidence per 100,000",,,,,P. malariae,,,,,,0.0394561190990846
+2007,"Incidence per 100,000",,,,,P. malariae,,,,,,0.0489244170757631
+2008,"Incidence per 100,000",,,,,P. malariae,,,,,,0.0323500157835727
+2009,"Incidence per 100,000",,,,,P. malariae,,,,,,0.0578215852667773
+2010,"Incidence per 100,000",,,,,P. malariae,,,,,,0.0589552592680217
+2011,"Incidence per 100,000",,,,,P. malariae,,,,,,0.0489846392862021
+2012,"Incidence per 100,000",,,,,P. malariae,,,,,,0.0502315123311298
+2013,"Incidence per 100,000",,,,,P. malariae,,,,,,0.0608370675073371
+2014,"Incidence per 100,000",,,,,P. malariae,,,,,,0.0634706834795656
+2015,"Incidence per 100,000",,,,,P. malariae,,,,,,0.035324816448414
+2016,"Incidence per 100,000",,,,,P. malariae,,,,,,0.0624542503575201
+2017,"Incidence per 100,000",,,,,P. malariae,,,,,,0.0832825700831534
+2000,"Incidence per 100,000",,,,,P. knowlesi,,,,,,0.0
+2001,"Incidence per 100,000",,,,,P. knowlesi,,,,,,0.0
+2002,"Incidence per 100,000",,,,,P. knowlesi,,,,,,0.0
+2003,"Incidence per 100,000",,,,,P. knowlesi,,,,,,0.0
+2004,"Incidence per 100,000",,,,,P. knowlesi,,,,,,0.0
+2005,"Incidence per 100,000",,,,,P. knowlesi,,,,,,0.0
+2006,"Incidence per 100,000",,,,,P. knowlesi,,,,,,0.00164400496246185
+2007,"Incidence per 100,000",,,,,P. knowlesi,,,,,,0.0
+2008,"Incidence per 100,000",,,,,P. knowlesi,,,,,,0.0
+2009,"Incidence per 100,000",,,,,P. knowlesi,,,,,,0.0
+2010,"Incidence per 100,000",,,,,P. knowlesi,,,,,,0.0
+2011,"Incidence per 100,000",,,,,P. knowlesi,,,,,,0.0
+2012,"Incidence per 100,000",,,,,P. knowlesi,,,,,,0.0
+2013,"Incidence per 100,000",,,,,P. knowlesi,,,,,,0.0
+2014,"Incidence per 100,000",,,,,P. knowlesi,,,,,,0.0
+2015,"Incidence per 100,000",,,,,P. knowlesi,,,,,,0.0
+2016,"Incidence per 100,000",,,,,P. knowlesi,,,,,,0.0015232743989639
+2017,"Incidence per 100,000",,,,,P. knowlesi,,,,,,0.00302845709393285
+2000,"Incidence per 100,000",,,,,Mixed,,,,,,0.0271710981029478
+2001,"Incidence per 100,000",,,,,Mixed,,,,,,0.027066796930138
+2002,"Incidence per 100,000",,,,,Mixed,,,,,,0.0218981752705355
+2003,"Incidence per 100,000",,,,,Mixed,,,,,,0.0251523131861404
+2004,"Incidence per 100,000",,,,,Mixed,,,,,,0.0200165590320685
+2005,"Incidence per 100,000",,,,,Mixed,,,,,,0.016552653095654
+2006,"Incidence per 100,000",,,,,Mixed,,,,,,0.0328800992492371
+2007,"Incidence per 100,000",,,,,Mixed,,,,,,0.0244622085378815
+2008,"Incidence per 100,000",,,,,Mixed,,,,,,0.0145575071026077
+2009,"Incidence per 100,000",,,,,Mixed,,,,,,0.00963693087779623
+2010,"Incidence per 100,000",,,,,Mixed,,,,,,0.0191206246274664
+2011,"Incidence per 100,000",,,,,Mixed,,,,,,0.00632059861757447
+2012,"Incidence per 100,000",,,,,Mixed,,,,,,0.0109881433224346
+2013,"Incidence per 100,000",,,,,Mixed,,,,,,0.0202790225024457
+2014,"Incidence per 100,000",,,,,Mixed,,,,,,0.0325093744651433
+2015,"Incidence per 100,000",,,,,Mixed,,,,,,0.0107510310929955
+2016,"Incidence per 100,000",,,,,Mixed,,,,,,0.0198025671865307
+2017,"Incidence per 100,000",,,,,Mixed,,,,,,0.0166565140166306
+2000,"Incidence per 100,000",,,,,P. unspecified,,,,,,0.00169819363143424
+2001,"Incidence per 100,000",,,,,P. unspecified,,,,,,0.00169167480813362
+2002,"Incidence per 100,000",,,,,P. unspecified,,,,,,0.00336895004162085
+2003,"Incidence per 100,000",,,,,P. unspecified,,,,,,0.00167682087907602
+2004,"Incidence per 100,000",,,,,P. unspecified,,,,,,0.0
+2005,"Incidence per 100,000",,,,,P. unspecified,,,,,,0.0049657959286962
+2006,"Incidence per 100,000",,,,,P. unspecified,,,,,,0.0
+2007,"Incidence per 100,000",,,,,P. unspecified,,,,,,0.0
+2008,"Incidence per 100,000",,,,,P. unspecified,,,,,,0.00161750078917863
+2009,"Incidence per 100,000",,,,,P. unspecified,,,,,,0.0
+2010,"Incidence per 100,000",,,,,P. unspecified,,,,,,0.0
+2011,"Incidence per 100,000",,,,,P. unspecified,,,,,,0.0
+2012,"Incidence per 100,000",,,,,P. unspecified,,,,,,0.0
+2013,"Incidence per 100,000",,,,,P. unspecified,,,,,,0.0
+2014,"Incidence per 100,000",,,,,P. unspecified,,,,,,0.0
+2015,"Incidence per 100,000",,,,,P. unspecified,,,,,,0.0
+2016,"Incidence per 100,000",,,,,P. unspecified,,,,,,0.0015232743989639
+2017,"Incidence per 100,000",,,,,P. unspecified,,,,,,0.0
+2000,"Incidence per 100,000",,,,,,Non-fatal,,,,,3.44903126544294
+2001,"Incidence per 100,000",,,,,,Non-fatal,,,,,3.44255823455193
+2002,"Incidence per 100,000",,,,,,Non-fatal,,,,,3.25272126518493
+2003,"Incidence per 100,000",,,,,,Non-fatal,,,,,2.85730277794555
+2004,"Incidence per 100,000",,,,,,Non-fatal,,,,,2.75394491349543
+2005,"Incidence per 100,000",,,,,,Non-fatal,,,,,2.88512743457249
+2006,"Incidence per 100,000",,,,,,Non-fatal,,,,,2.8704326644584
+2007,"Incidence per 100,000",,,,,,Non-fatal,,,,,2.51471503769422
+2008,"Incidence per 100,000",,,,,,Non-fatal,,,,,2.20627107643965
+2009,"Incidence per 100,000",,,,,,Non-fatal,,,,,2.39156501283976
+2010,"Incidence per 100,000",,,,,,Non-fatal,,,,,2.7916111956101
+2011,"Incidence per 100,000",,,,,,Non-fatal,,,,,2.63094917456537
+2012,"Incidence per 100,000",,,,,,Non-fatal,,,,,2.15838529547823
+2013,"Incidence per 100,000",,,,,,Non-fatal,,,,,2.33052766297337
+2014,"Incidence per 100,000",,,,,,Non-fatal,,,,,2.45058760849152
+2015,"Incidence per 100,000",,,,,,Non-fatal,,,,,2.14099104909083
+2016,"Incidence per 100,000",,,,,,Non-fatal,,,,,2.45551833112981
+2017,"Incidence per 100,000",,,,,,Non-fatal,,,,,2.70441218488203
+2014,"Incidence per 100,000",,,,,,,,,,,2.4490395430408
+2014,"Incidence per 100,000",,0 to 4,,,,,,,,,0.918964699337103
+2014,"Incidence per 100,000",,5 to 9,,,,,,,,,1.08829153775594
+2014,"Incidence per 100,000",,10 to 14,,,,,,,,,1.47643635963036
+2014,"Incidence per 100,000",,15 to 19,,,,,,,,,2.38980902308763
+2014,"Incidence per 100,000",,20 to 24,,,,,,,,,3.0597535090389
+2014,"Incidence per 100,000",,25 to 29,,,,,,,,,3.48327107840023
+2014,"Incidence per 100,000",,30 to 34,,,,,,,,,3.97118708652596
+2014,"Incidence per 100,000",,35 to 39,,,,,,,,,3.63028024261288
+2014,"Incidence per 100,000",,40 to 44,,,,,,,,,3.80368780059383
+2014,"Incidence per 100,000",,45 to 49,,,,,,,,,4.04484859639473
+2014,"Incidence per 100,000",,50 to 54,,,,,,,,,3.2749627304755
+2014,"Incidence per 100,000",,55 to 59,,,,,,,,,2.81036368448046
+2014,"Incidence per 100,000",,60 to 64,,,,,,,,,1.76557795055128
+2014,"Incidence per 100,000",,65 to 69,,,,,,,,,1.23531588430929
+2014,"Incidence per 100,000",,70 and over,,,,,,,,,0.509880268640617
+2014,"Incidence per 100,000",Male,,,,,,,,,,3.40632964615186
+2014,"Incidence per 100,000",Male,0 to 4,,,,,,,,,0.921270189151316
+2014,"Incidence per 100,000",Male,5 to 9,,,,,,,,,1.16436299978383
+2014,"Incidence per 100,000",Male,10 to 14,,,,,,,,,1.6639008936257
+2014,"Incidence per 100,000",Male,15 to 19,,,,,,,,,3.08600129106152
+2014,"Incidence per 100,000",Male,20 to 24,,,,,,,,,4.2378307045872
+2014,"Incidence per 100,000",Male,25 to 29,,,,,,,,,4.73326891839798
+2014,"Incidence per 100,000",Male,30 to 34,,,,,,,,,5.82458566856073
+2014,"Incidence per 100,000",Male,35 to 39,,,,,,,,,5.73206805473219
+2014,"Incidence per 100,000",Male,40 to 44,,,,,,,,,4.83603091743651
+2014,"Incidence per 100,000",Male,45 to 49,,,,,,,,,5.86269312145415
+2014,"Incidence per 100,000",Male,50 to 54,,,,,,,,,4.76734017832576
+2014,"Incidence per 100,000",Male,55 to 59,,,,,,,,,3.89963190636667
+2014,"Incidence per 100,000",Male,60 to 64,,,,,,,,,2.44359655522702
+2014,"Incidence per 100,000",Male,65 to 69,,,,,,,,,1.55984879865645
+2014,"Incidence per 100,000",Male,70 and over,,,,,,,,,0.733376123385545
+2014,"Incidence per 100,000",Female,,,,,,,,,,1.52120232905526
+2014,"Incidence per 100,000",Female,0 to 4,,,,,,,,,0.916543612200213
+2014,"Incidence per 100,000",Female,5 to 9,,,,,,,,,1.00852950559229
+2014,"Incidence per 100,000",Female,10 to 14,,,,,,,,,1.27981235623925
+2014,"Incidence per 100,000",Female,15 to 19,,,,,,,,,1.65508816814841
+2014,"Incidence per 100,000",Female,20 to 24,,,,,,,,,1.84000973789768
+2014,"Incidence per 100,000",Female,25 to 29,,,,,,,,,2.23213268889992
+2014,"Incidence per 100,000",Female,30 to 34,,,,,,,,,2.14304995221454
+2014,"Incidence per 100,000",Female,35 to 39,,,,,,,,,1.54584862352153
+2014,"Incidence per 100,000",Female,40 to 44,,,,,,,,,2.79370641029453
+2014,"Incidence per 100,000",Female,45 to 49,,,,,,,,,2.27856369471634
+2014,"Incidence per 100,000",Female,50 to 54,,,,,,,,,1.81771429078108
+2014,"Incidence per 100,000",Female,55 to 59,,,,,,,,,1.74779880162689
+2014,"Incidence per 100,000",Female,60 to 64,,,,,,,,,1.11556095982864
+2014,"Incidence per 100,000",Female,65 to 69,,,,,,,,,0.928502571132855
+2014,"Incidence per 100,000",Female,70 and over,,,,,,,,,0.338135839085211
+2015,"Incidence per 100,000",,,,,,,,,,,2.13638346433669
+2015,"Incidence per 100,000",,0 to 4,,,,,,,,,0.521468096581851
+2015,"Incidence per 100,000",,5 to 9,,,,,,,,,0.809215753609987
+2015,"Incidence per 100,000",,10 to 14,,,,,,,,,1.69049751623652
+2015,"Incidence per 100,000",,15 to 19,,,,,,,,,2.32748315647512
+2015,"Incidence per 100,000",,20 to 24,,,,,,,,,2.60787583158058
+2015,"Incidence per 100,000",,25 to 29,,,,,,,,,2.40924031474135
+2015,"Incidence per 100,000",,30 to 34,,,,,,,,,3.1039435374412
+2015,"Incidence per 100,000",,35 to 39,,,,,,,,,3.40774976231558
+2015,"Incidence per 100,000",,40 to 44,,,,,,,,,3.72148066551238
+2015,"Incidence per 100,000",,45 to 49,,,,,,,,,3.51995197317062
+2015,"Incidence per 100,000",,50 to 54,,,,,,,,,3.11039469813509
+2015,"Incidence per 100,000",,55 to 59,,,,,,,,,2.42997249574881
+2015,"Incidence per 100,000",,60 to 64,,,,,,,,,1.57065715438617
+2015,"Incidence per 100,000",,65 to 69,,,,,,,,,1.24495482058956
+2015,"Incidence per 100,000",,70 and over,,,,,,,,,0.425181871545553
+2015,"Incidence per 100,000",Male,,,,,,,,,,2.9743304989377
+2015,"Incidence per 100,000",Male,0 to 4,,,,,,,,,0.678383644364158
+2015,"Incidence per 100,000",Male,5 to 9,,,,,,,,,0.988174515572148
+2015,"Incidence per 100,000",Male,10 to 14,,,,,,,,,1.81663842619658
+2015,"Incidence per 100,000",Male,15 to 19,,,,,,,,,3.30911906668587
+2015,"Incidence per 100,000",Male,20 to 24,,,,,,,,,3.74818932744227
+2015,"Incidence per 100,000",Male,25 to 29,,,,,,,,,3.00555848884107
+2015,"Incidence per 100,000",Male,30 to 34,,,,,,,,,4.6808530166262
+2015,"Incidence per 100,000",Male,35 to 39,,,,,,,,,4.82858760363602
+2015,"Incidence per 100,000",Male,40 to 44,,,,,,,,,5.59068657389572
+2015,"Incidence per 100,000",Male,45 to 49,,,,,,,,,5.08242287861421
+2015,"Incidence per 100,000",Male,50 to 54,,,,,,,,,4.0853573244462
+2015,"Incidence per 100,000",Male,55 to 59,,,,,,,,,2.97341967870662
+2015,"Incidence per 100,000",Male,60 to 64,,,,,,,,,2.33287706146139
+2015,"Incidence per 100,000",Male,65 to 69,,,,,,,,,1.59548886918586
+2015,"Incidence per 100,000",Male,70 and over,,,,,,,,,0.571864822593235
+2015,"Incidence per 100,000",Female,,,,,,,,,,1.32281582750045
+2015,"Incidence per 100,000",Female,0 to 4,,,,,,,,,0.356531115234421
+2015,"Incidence per 100,000",Female,5 to 9,,,,,,,,,0.621596757751311
+2015,"Incidence per 100,000",Female,10 to 14,,,,,,,,,1.55825357864476
+2015,"Incidence per 100,000",Female,15 to 19,,,,,,,,,1.29059735298482
+2015,"Incidence per 100,000",Female,20 to 24,,,,,,,,,1.42385237498576
+2015,"Incidence per 100,000",Female,25 to 29,,,,,,,,,1.8082929217538
+2015,"Incidence per 100,000",Female,30 to 34,,,,,,,,,1.54374730127999
+2015,"Incidence per 100,000",Female,35 to 39,,,,,,,,,2.00062556145604
+2015,"Incidence per 100,000",Female,40 to 44,,,,,,,,,1.88868374405294
+2015,"Incidence per 100,000",Female,45 to 49,,,,,,,,,2.00138904916561
+2015,"Incidence per 100,000",Female,50 to 54,,,,,,,,,2.16132847351421
+2015,"Incidence per 100,000",Female,55 to 59,,,,,,,,,1.89995630100507
+2015,"Incidence per 100,000",Female,60 to 64,,,,,,,,,0.839349604778249
+2015,"Incidence per 100,000",Female,65 to 69,,,,,,,,,0.914154936355995
+2015,"Incidence per 100,000",Female,70 and over,,,,,,,,,0.311163109924147
+2016,"Incidence per 100,000",,,,,,,,,,,2.45704160552877
+2016,"Incidence per 100,000",,0 to 4,,,,,,,,,0.622771412500367
+2016,"Incidence per 100,000",,5 to 9,,,,,,,,,0.569665650845482
+2016,"Incidence per 100,000",,10 to 14,,,,,,,,,1.48962969460936
+2016,"Incidence per 100,000",,15 to 19,,,,,,,,,2.30224082127016
+2016,"Incidence per 100,000",,20 to 24,,,,,,,,,2.89156558529166
+2016,"Incidence per 100,000",,25 to 29,,,,,,,,,3.3698040724969
+2016,"Incidence per 100,000",,30 to 34,,,,,,,,,3.49351872877659
+2016,"Incidence per 100,000",,35 to 39,,,,,,,,,4.28277103420785
+2016,"Incidence per 100,000",,40 to 44,,,,,,,,,4.4560877705546
+2016,"Incidence per 100,000",,45 to 49,,,,,,,,,4.13496258075354
+2016,"Incidence per 100,000",,50 to 54,,,,,,,,,3.62695788259926
+2016,"Incidence per 100,000",,55 to 59,,,,,,,,,2.85244615700503
+2016,"Incidence per 100,000",,60 to 64,,,,,,,,,1.89574371582179
+2016,"Incidence per 100,000",,65 to 69,,,,,,,,,0.852464047328803
+2016,"Incidence per 100,000",,70 and over,,,,,,,,,0.697028749867931
+2016,"Incidence per 100,000",Male,,,,,,,,,,3.22444410305693
+2016,"Incidence per 100,000",Male,0 to 4,,,,,,,,,0.971874911923836
+2016,"Incidence per 100,000",Male,5 to 9,,,,,,,,,0.48382149309248
+2016,"Incidence per 100,000",Male,10 to 14,,,,,,,,,1.56197905978555
+2016,"Incidence per 100,000",Male,15 to 19,,,,,,,,,2.83568884553435
+2016,"Incidence per 100,000",Male,20 to 24,,,,,,,,,3.53790218941009
+2016,"Incidence per 100,000",Male,25 to 29,,,,,,,,,3.82443975254556
+2016,"Incidence per 100,000",Male,30 to 34,,,,,,,,,4.63791522982234
+2016,"Incidence per 100,000",Male,35 to 39,,,,,,,,,6.05727004607851
+2016,"Incidence per 100,000",Male,40 to 44,,,,,,,,,5.89689900448744
+2016,"Incidence per 100,000",Male,45 to 49,,,,,,,,,5.92897092827921
+2016,"Incidence per 100,000",Male,50 to 54,,,,,,,,,5.17146473411659
+2016,"Incidence per 100,000",Male,55 to 59,,,,,,,,,3.98570526805611
+2016,"Incidence per 100,000",Male,60 to 64,,,,,,,,,2.13713103443495
+2016,"Incidence per 100,000",Male,65 to 69,,,,,,,,,0.963690959048236
+2016,"Incidence per 100,000",Male,70 and over,,,,,,,,,0.806464171855846
+2016,"Incidence per 100,000",Female,,,,,,,,,,1.71022994026518
+2016,"Incidence per 100,000",Female,0 to 4,,,,,,,,,0.255566755058688
+2016,"Incidence per 100,000",Female,5 to 9,,,,,,,,,0.659704919064355
+2016,"Incidence per 100,000",Female,10 to 14,,,,,,,,,1.41367293149963
+2016,"Incidence per 100,000",Female,15 to 19,,,,,,,,,1.73973272268714
+2016,"Incidence per 100,000",Female,20 to 24,,,,,,,,,2.21439161997188
+2016,"Incidence per 100,000",Female,25 to 29,,,,,,,,,2.90723028171061
+2016,"Incidence per 100,000",Female,30 to 34,,,,,,,,,2.35411397261712
+2016,"Incidence per 100,000",Female,35 to 39,,,,,,,,,2.52454043837453
+2016,"Incidence per 100,000",Female,40 to 44,,,,,,,,,3.04011864062995
+2016,"Incidence per 100,000",Female,45 to 49,,,,,,,,,2.39092269122258
+2016,"Incidence per 100,000",Female,50 to 54,,,,,,,,,2.12745226103498
+2016,"Incidence per 100,000",Female,55 to 59,,,,,,,,,1.74798690175148
+2016,"Incidence per 100,000",Female,60 to 64,,,,,,,,,1.66394888349029
+2016,"Incidence per 100,000",Female,65 to 69,,,,,,,,,0.747677127381752
+2016,"Incidence per 100,000",Female,70 and over,,,,,,,,,0.611137011679701
+2017,"Incidence per 100,000",,,,,,,,,,,2.6922983565063
+2017,"Incidence per 100,000",,0 to 4,,,,,,,,,0.98466423328362
+2017,"Incidence per 100,000",,5 to 9,,,,,,,,,1.2884574150238
+2017,"Incidence per 100,000",,10 to 14,,,,,,,,,1.63390552168996
+2017,"Incidence per 100,000",,15 to 19,,,,,,,,,2.02470955541427
+2017,"Incidence per 100,000",,20 to 24,,,,,,,,,2.78092447436962
+2017,"Incidence per 100,000",,25 to 29,,,,,,,,,3.28050184192472
+2017,"Incidence per 100,000",,30 to 34,,,,,,,,,3.8215546536586
+2017,"Incidence per 100,000",,35 to 39,,,,,,,,,3.78310037686218
+2017,"Incidence per 100,000",,40 to 44,,,,,,,,,4.82833899965191
+2017,"Incidence per 100,000",,45 to 49,,,,,,,,,4.48094189835868
+2017,"Incidence per 100,000",,50 to 54,,,,,,,,,4.26296176016191
+2017,"Incidence per 100,000",,55 to 59,,,,,,,,,3.72821058080502
+2017,"Incidence per 100,000",,60 to 64,,,,,,,,,2.55650430270789
+2017,"Incidence per 100,000",,65 to 69,,,,,,,,,1.38185247688419
+2017,"Incidence per 100,000",,70 and over,,,,,,,,,0.669350016510633
+2017,"Incidence per 100,000",Male,,,,,,,,,,3.64620727994747
+2017,"Incidence per 100,000",Male,0 to 4,,,,,,,,,0.984677434442638
+2017,"Incidence per 100,000",Male,5 to 9,,,,,,,,,1.32998430618518
+2017,"Incidence per 100,000",Male,10 to 14,,,,,,,,,2.14297399840792
+2017,"Incidence per 100,000",Male,15 to 19,,,,,,,,,2.73449044348176
+2017,"Incidence per 100,000",Male,20 to 24,,,,,,,,,3.38203776577952
+2017,"Incidence per 100,000",Male,25 to 29,,,,,,,,,4.35830876699958
+2017,"Incidence per 100,000",Male,30 to 34,,,,,,,,,4.81107018171321
+2017,"Incidence per 100,000",Male,35 to 39,,,,,,,,,5.69098961135714
+2017,"Incidence per 100,000",Male,40 to 44,,,,,,,,,7.05193401773511
+2017,"Incidence per 100,000",Male,45 to 49,,,,,,,,,6.29692483910691
+2017,"Incidence per 100,000",Male,50 to 54,,,,,,,,,6.003944330384
+2017,"Incidence per 100,000",Male,55 to 59,,,,,,,,,4.99075015335654
+2017,"Incidence per 100,000",Male,60 to 64,,,,,,,,,3.62923507633018
+2017,"Incidence per 100,000",Male,65 to 69,,,,,,,,,1.54560056687873
+2017,"Incidence per 100,000",Male,70 and over,,,,,,,,,0.848464504620021
+2017,"Incidence per 100,000",Female,,,,,,,,,,1.76338230833797
+2017,"Incidence per 100,000",Female,0 to 4,,,,,,,,,0.984650337709153
+2017,"Incidence per 100,000",Female,5 to 9,,,,,,,,,1.24492196331165
+2017,"Incidence per 100,000",Female,10 to 14,,,,,,,,,1.09880631176321
+2017,"Incidence per 100,000",Female,15 to 19,,,,,,,,,1.27593405307108
+2017,"Incidence per 100,000",Female,20 to 24,,,,,,,,,2.14762794493481
+2017,"Incidence per 100,000",Female,25 to 29,,,,,,,,,2.18018082152772
+2017,"Incidence per 100,000",Female,30 to 34,,,,,,,,,2.83907577718572
+2017,"Incidence per 100,000",Female,35 to 39,,,,,,,,,1.90163977005928
+2017,"Incidence per 100,000",Female,40 to 44,,,,,,,,,2.63963807629042
+2017,"Incidence per 100,000",Female,45 to 49,,,,,,,,,2.71567877744452
+2017,"Incidence per 100,000",Female,50 to 54,,,,,,,,,2.57424480730511
+2017,"Incidence per 100,000",Female,55 to 59,,,,,,,,,2.4994164098477
+2017,"Incidence per 100,000",Female,60 to 64,,,,,,,,,1.52571344812873
+2017,"Incidence per 100,000",Female,65 to 69,,,,,,,,,1.22808702001335
+2017,"Incidence per 100,000",Female,70 and over,,,,,,,,,0.52695867906214
+2014,"Incidence per 100,000",,,England,London,,,,,,E12000007,9.12242291552636
+2014,"Incidence per 100,000",,,England,South East,,,,,,E12000008,1.49875957924296
+2014,"Incidence per 100,000",,,England,West Midlands,,,,,,E12000005,2.01279824638015
+2014,"Incidence per 100,000",,,England,North West,,,,,,E12000002,1.69633476732034
+2014,"Incidence per 100,000",,,England,East of England,,,,,,E12000006,1.87793427230046
+2014,"Incidence per 100,000",,,England,Yorkshire and Humber,,,,,,E12000003,1.80966199058714
+2014,"Incidence per 100,000",,,England,South West,,,,,,E12000009,1.08790292513125
+2014,"Incidence per 100,000",,,England,East Midlands,,,,,,E12000004,1.03506966989256
+2014,"Incidence per 100,000",,,England,North East,,,,,,E12000001,0.381863616645587
+2014,"Incidence per 100,000",,,England,,,,,,,E92000001,2.71555935238825
+2014,"Incidence per 100,000",,,Scotland,,,,,,,S92000003,1.42119829456204
+2014,"Incidence per 100,000",,,Wales,,,,,,,W92000004,1.06725794913125
+2014,"Incidence per 100,000",,,Northern Ireland,,,,,,,N92000002,0.108666241419441
+2014,"Incidence per 100,000",,,,,,,,,,,2.45523180484368
+2015,"Incidence per 100,000",,,England,London,,,,,,E12000007,7.85745356198792
+2015,"Incidence per 100,000",,,England,South East,,,,,,E12000008,1.34087321239252
+2015,"Incidence per 100,000",,,England,West Midlands,,,,,,E12000005,2.11988395546714
+2015,"Incidence per 100,000",,,England,North West,,,,,,E12000002,1.58881075842299
+2015,"Incidence per 100,000",,,England,East of England,,,,,,E12000006,1.89270190603311
+2015,"Incidence per 100,000",,,England,Yorkshire and Humber,,,,,,E12000003,1.26154616210756
+2015,"Incidence per 100,000",,,England,South West,,,,,,E12000009,0.95036013166143
+2015,"Incidence per 100,000",,,England,East Midlands,,,,,,E12000004,0.833792097147468
+2015,"Incidence per 100,000",,,England,North East,,,,,,E12000001,0.304810790606798
+2015,"Incidence per 100,000",,,England,,,,,,,E92000001,2.40753500412612
+2015,"Incidence per 100,000",,,Scotland,,,,,,,S92000003,0.911967243625535
+2015,"Incidence per 100,000",,,Wales,,,,,,,W92000004,0.677619143192541
+2015,"Incidence per 100,000",,,Northern Ireland,,,,,,,N92000002,0.594074057271979
+2015,"Incidence per 100,000",,,,,,,,,,,2.15020621859911
+2016,"Incidence per 100,000",,,England,London,,,,,,E12000007,9.6126884751163
+2016,"Incidence per 100,000",,,England,South East,,,,,,E12000008,1.56140179330871
+2016,"Incidence per 100,000",,,England,West Midlands,,,,,,E12000005,2.03071088820712
+2016,"Incidence per 100,000",,,England,North West,,,,,,E12000002,1.48118186130849
+2016,"Incidence per 100,000",,,England,East of England,,,,,,E12000006,1.99053516843272
+2016,"Incidence per 100,000",,,England,Yorkshire and Humber,,,,,,E12000003,1.25337073784829
+2016,"Incidence per 100,000",,,England,South West,,,,,,E12000009,1.1781823112058
+2016,"Incidence per 100,000",,,England,East Midlands,,,,,,E12000004,0.909977800774115
+2016,"Incidence per 100,000",,,England,North East,,,,,,E12000001,0.834411430829757
+2016,"Incidence per 100,000",,,England,,,,,,,E92000001,2.76651615118002
+2016,"Incidence per 100,000",,,Scotland,,,,,,,S92000003,1.07314004477584
+2016,"Incidence per 100,000",,,Wales,,,,,,,W92000004,0.803045147198175
+2016,"Incidence per 100,000",,,Northern Ireland,,,,,,,N92000002,0.322210449607091
+2016,"Incidence per 100,000",,,,,,,,,,,2.46465797752359
+2017,"Incidence per 100,000",,,England,London,,,,,,E12000007,10.4475908841256
+2017,"Incidence per 100,000",,,England,South East,,,,,,E12000008,1.7068933714723
+2017,"Incidence per 100,000",,,England,West Midlands,,,,,,E12000005,2.7471093073087
+2017,"Incidence per 100,000",,,England,North West,,,,,,E12000002,1.76341889450993
+2017,"Incidence per 100,000",,,England,East of England,,,,,,E12000006,1.84811958695499
+2017,"Incidence per 100,000",,,England,Yorkshire and Humber,,,,,,E12000003,1.44950670901428
+2017,"Incidence per 100,000",,,England,South West,,,,,,E12000009,1.31311118130359
+2017,"Incidence per 100,000",,,England,East Midlands,,,,,,E12000004,1.04785204999679
+2017,"Incidence per 100,000",,,England,North East,,,,,,E12000001,0.98308823557214
+2017,"Incidence per 100,000",,,England,,,,,,,E92000001,3.07086929873247
+2017,"Incidence per 100,000",,,Scotland,,,,,,,S92000003,0.921692965639286
+2017,"Incidence per 100,000",,,Wales,,,,,,,W92000004,0.767959451740948
+2017,"Incidence per 100,000",,,Northern Ireland,,,,,,,N92000002,0.534520967653998
+2017,"Incidence per 100,000",,,,,,,,,,,2.71349755616383
+2014,Number of cases,,,,,,,Africa,,,,403.0
+2014,Number of cases,,,,,,,United Kingdom,,,,189.0
+2014,Number of cases,,,,,,,Indian subcontinent,,,,46.0
+2014,Number of cases,,,,,,,Europe (non UK),,,,10.0
+2014,Number of cases,,,,,,,Other,,,,9.0
+2015,Number of cases,,,,,,,Africa,,,,345.0
+2015,Number of cases,,,,,,,United Kingdom,,,,130.0
+2015,Number of cases,,,,,,,Indian subcontinent,,,,37.0
+2015,Number of cases,,,,,,,Europe (non UK),,,,11.0
+2015,Number of cases,,,,,,,Other,,,,8.0
+2016,Number of cases,,,,,,,Africa,,,,465.0
+2016,Number of cases,,,,,,,United Kingdom,,,,162.0
+2016,Number of cases,,,,,,,Indian subcontinent,,,,35.0
+2016,Number of cases,,,,,,,Europe (non UK),,,,15.0
+2016,Number of cases,,,,,,,Other,,,,16.0
+2017,Number of cases,,,,,,,Africa,,,,525.0
+2017,Number of cases,,,,,,,United Kingdom,,,,199.0
+2017,Number of cases,,,,,,,Indian subcontinent,,,,45.0
+2017,Number of cases,,,,,,,Europe (non UK),,,,22.0
+2017,Number of cases,,,,,,,Other,,,,13.0
+2014,Number of cases,,,,,,,,Black African/African descent,,,680.0
+2014,Number of cases,,,,,,,,Indian/Pakistani/Bangladesh (ISC)/ISC descent,,,90.0
+2014,Number of cases,,,,,,,,Other/mixed,,,57.0
+2014,Number of cases,,,,,,,,White British,,,145.0
+2015,Number of cases,,,,,,,,Black African/African descent,,,518.0
+2015,Number of cases,,,,,,,,Indian/Pakistani/Bangladesh (ISC)/ISC descent,,,72.0
+2015,Number of cases,,,,,,,,Other/mixed,,,42.0
+2015,Number of cases,,,,,,,,White British,,,93.0
+2016,Number of cases,,,,,,,,Black African/African descent,,,763.0
+2016,Number of cases,,,,,,,,Indian/Pakistani/Bangladesh (ISC)/ISC descent,,,80.0
+2016,Number of cases,,,,,,,,Other/mixed,,,63.0
+2016,Number of cases,,,,,,,,White British,,,105.0
+2017,Number of cases,,,,,,,,Black African/African descent,,,900.0
+2017,Number of cases,,,,,,,,Indian/Pakistani/Bangladesh (ISC)/ISC descent,,,84.0
+2017,Number of cases,,,,,,,,Other/mixed,,,77.0
+2017,Number of cases,,,,,,,,White British,,,131.0
+2014,Number of cases,,,,,,,,,Western Africa,,619.0
+2014,Number of cases,,,,,,,,,Eastern Africa,,127.0
+2014,Number of cases,,,,,,,,,Middle Africa,,76.0
+2014,Number of cases,,,,,,,,,Northern Africa,,14.0
+2014,Number of cases,,,,,,,,,Southern Africa,,4.0
+2014,Number of cases,,,,,,,,,Africa unspecified,,8.0
+2014,Number of cases,,,,,,,,,Southern Asia,,90.0
+2014,Number of cases,,,,,,,,,South-Eastern Asia,,3.0
+2014,Number of cases,,,,,,,,,Western Asia,,1.0
+2014,Number of cases,,,,,,,,,Caribbean,,0.0
+2014,Number of cases,,,,,,,,,Central America,,1.0
+2014,Number of cases,,,,,,,,,South America,,6.0
+2014,Number of cases,,,,,,,,,Oceania,,1.0
+2014,Number of cases,,,,,,,,,Not stated,,22.0
+2015,Number of cases,,,,,,,,,Western Africa,,473.0
+2015,Number of cases,,,,,,,,,Eastern Africa,,77.0
+2015,Number of cases,,,,,,,,,Middle Africa,,71.0
+2015,Number of cases,,,,,,,,,Northern Africa,,9.0
+2015,Number of cases,,,,,,,,,Southern Africa,,1.0
+2015,Number of cases,,,,,,,,,Africa unspecified,,5.0
+2015,Number of cases,,,,,,,,,Southern Asia,,78.0
+2015,Number of cases,,,,,,,,,South-Eastern Asia,,1.0
+2015,Number of cases,,,,,,,,,Western Asia,,1.0
+2015,Number of cases,,,,,,,,,Caribbean,,0.0
+2015,Number of cases,,,,,,,,,Central America,,0.0
+2015,Number of cases,,,,,,,,,South America,,7.0
+2015,Number of cases,,,,,,,,,Oceania,,0.0
+2015,Number of cases,,,,,,,,,Not stated,,2.0
+2016,Number of cases,,,,,,,,,Western Africa,,621.0
+2016,Number of cases,,,,,,,,,Eastern Africa,,142.0
+2016,Number of cases,,,,,,,,,Middle Africa,,113.0
+2016,Number of cases,,,,,,,,,Northern Africa,,17.0
+2016,Number of cases,,,,,,,,,Southern Africa,,3.0
+2016,Number of cases,,,,,,,,,Africa unspecified,,6.0
+2016,Number of cases,,,,,,,,,Southern Asia,,82.0
+2016,Number of cases,,,,,,,,,South-Eastern Asia,,2.0
+2016,Number of cases,,,,,,,,,Western Asia,,0.0
+2016,Number of cases,,,,,,,,,Caribbean,,2.0
+2016,Number of cases,,,,,,,,,Central America,,0.0
+2016,Number of cases,,,,,,,,,South America,,2.0
+2016,Number of cases,,,,,,,,,Oceania,,2.0
+2016,Number of cases,,,,,,,,,Not stated,,19.0
+2017,Number of cases,,,,,,,,,Western Africa,,797.0
+2017,Number of cases,,,,,,,,,Eastern Africa,,148.0
+2017,Number of cases,,,,,,,,,Middle Africa,,91.0
+2017,Number of cases,,,,,,,,,Northern Africa,,14.0
+2017,Number of cases,,,,,,,,,Southern Africa,,7.0
+2017,Number of cases,,,,,,,,,Africa unspecified,,11.0
+2017,Number of cases,,,,,,,,,Southern Asia,,87.0
+2017,Number of cases,,,,,,,,,South-Eastern Asia,,3.0
+2017,Number of cases,,,,,,,,,Western Asia,,3.0
+2017,Number of cases,,,,,,,,,Caribbean,,0.0
+2017,Number of cases,,,,,,,,,Central America,,0.0
+2017,Number of cases,,,,,,,,,South America,,5.0
+2017,Number of cases,,,,,,,,,Oceania,,2.0
+2017,Number of cases,,,,,,,,,Not stated,,24.0
+2014,Percentage of total cases,,,,,,,,,Western Africa,,63.6831275720164
+2014,Percentage of total cases,,,,,,,,,Eastern Africa,,13.0658436213991
+2014,Percentage of total cases,,,,,,,,,Middle Africa,,7.81893004115226
+2014,Percentage of total cases,,,,,,,,,Northern Africa,,1.44032921810699
+2014,Percentage of total cases,,,,,,,,,Southern Africa,,0.411522633744856
+2014,Percentage of total cases,,,,,,,,,Africa unspecified,,0.823045267489712
+2014,Percentage of total cases,,,,,,,,,Southern Asia,,9.25925925925926
+2014,Percentage of total cases,,,,,,,,,South-Eastern Asia,,0.308641975308641
+2014,Percentage of total cases,,,,,,,,,Western Asia,,0.102880658436214
+2014,Percentage of total cases,,,,,,,,,Caribbean,,0.0
+2014,Percentage of total cases,,,,,,,,,Central America,,0.102880658436214
+2014,Percentage of total cases,,,,,,,,,South America,,0.617283950617283
+2014,Percentage of total cases,,,,,,,,,Oceania,,0.102880658436214
+2014,Percentage of total cases,,,,,,,,,Not stated,,2.2633744855967
+2015,Percentage of total cases,,,,,,,,,Western Africa,,65.2413793103448
+2015,Percentage of total cases,,,,,,,,,Eastern Africa,,10.6206896551724
+2015,Percentage of total cases,,,,,,,,,Middle Africa,,9.79310344827586
+2015,Percentage of total cases,,,,,,,,,Northern Africa,,1.24137931034482
+2015,Percentage of total cases,,,,,,,,,Southern Africa,,0.137931034482758
+2015,Percentage of total cases,,,,,,,,,Africa unspecified,,0.689655172413793
+2015,Percentage of total cases,,,,,,,,,Southern Asia,,10.7586206896551
+2015,Percentage of total cases,,,,,,,,,South-Eastern Asia,,0.137931034482758
+2015,Percentage of total cases,,,,,,,,,Western Asia,,0.137931034482758
+2015,Percentage of total cases,,,,,,,,,Caribbean,,0.0
+2015,Percentage of total cases,,,,,,,,,Central America,,0.0
+2015,Percentage of total cases,,,,,,,,,South America,,0.96551724137931
+2015,Percentage of total cases,,,,,,,,,Oceania,,0.0
+2015,Percentage of total cases,,,,,,,,,Not stated,,0.275862068965517
+2016,Percentage of total cases,,,,,,,,,Western Africa,,61.4243323442136
+2016,Percentage of total cases,,,,,,,,,Eastern Africa,,14.0454995054401
+2016,Percentage of total cases,,,,,,,,,Middle Africa,,11.1770524233432
+2016,Percentage of total cases,,,,,,,,,Northern Africa,,1.68150346191889
+2016,Percentage of total cases,,,,,,,,,Southern Africa,,0.29673590504451
+2016,Percentage of total cases,,,,,,,,,Africa unspecified,,0.59347181008902
+2016,Percentage of total cases,,,,,,,,,Southern Asia,,8.11078140454995
+2016,Percentage of total cases,,,,,,,,,South-Eastern Asia,,0.19782393669634
+2016,Percentage of total cases,,,,,,,,,Western Asia,,0.0
+2016,Percentage of total cases,,,,,,,,,Caribbean,,0.19782393669634
+2016,Percentage of total cases,,,,,,,,,Central America,,0.0
+2016,Percentage of total cases,,,,,,,,,South America,,0.19782393669634
+2016,Percentage of total cases,,,,,,,,,Oceania,,0.19782393669634
+2016,Percentage of total cases,,,,,,,,,Not stated,,1.87932739861523
+2017,Percentage of total cases,,,,,,,,,Western Africa,,66.8624161073825
+2017,Percentage of total cases,,,,,,,,,Eastern Africa,,12.4161073825503
+2017,Percentage of total cases,,,,,,,,,Middle Africa,,7.63422818791946
+2017,Percentage of total cases,,,,,,,,,Northern Africa,,1.1744966442953
+2017,Percentage of total cases,,,,,,,,,Southern Africa,,0.587248322147651
+2017,Percentage of total cases,,,,,,,,,Africa unspecified,,0.922818791946308
+2017,Percentage of total cases,,,,,,,,,Southern Asia,,7.2986577181208
+2017,Percentage of total cases,,,,,,,,,South-Eastern Asia,,0.251677852348993
+2017,Percentage of total cases,,,,,,,,,Western Asia,,0.251677852348993
+2017,Percentage of total cases,,,,,,,,,Caribbean,,0.0
+2017,Percentage of total cases,,,,,,,,,Central America,,0.0
+2017,Percentage of total cases,,,,,,,,,South America,,0.419463087248322
+2017,Percentage of total cases,,,,,,,,,Oceania,,0.167785234899328
+2017,Percentage of total cases,,,,,,,,,Not stated,,2.01342281879194
+2014,Percentage of total cases,,,,,,,Africa,,,,61.3394216133942
+2014,Percentage of total cases,,,,,,,United Kingdom,,,,28.7671232876712
+2014,Percentage of total cases,,,,,,,Indian subcontinent,,,,7.00152207001522
+2014,Percentage of total cases,,,,,,,Europe (non UK),,,,1.5220700152207
+2014,Percentage of total cases,,,,,,,Other,,,,1.36986301369863
+2015,Percentage of total cases,,,,,,,Africa,,,,64.9717514124293
+2015,Percentage of total cases,,,,,,,United Kingdom,,,,24.4821092278719
+2015,Percentage of total cases,,,,,,,Indian subcontinent,,,,6.96798493408663
+2015,Percentage of total cases,,,,,,,Europe (non UK),,,,2.07156308851224
+2015,Percentage of total cases,,,,,,,Other,,,,1.50659133709981
+2016,Percentage of total cases,,,,,,,Africa,,,,67.0995670995671
+2016,Percentage of total cases,,,,,,,United Kingdom,,,,23.3766233766233
+2016,Percentage of total cases,,,,,,,Indian subcontinent,,,,5.05050505050505
+2016,Percentage of total cases,,,,,,,Europe (non UK),,,,2.16450216450216
+2016,Percentage of total cases,,,,,,,Other,,,,2.3088023088023
+2017,Percentage of total cases,,,,,,,Africa,,,,65.2985074626865
+2017,Percentage of total cases,,,,,,,United Kingdom,,,,24.7512437810945
+2017,Percentage of total cases,,,,,,,Indian subcontinent,,,,5.59701492537313
+2017,Percentage of total cases,,,,,,,Europe (non UK),,,,2.73631840796019
+2017,Percentage of total cases,,,,,,,Other,,,,1.61691542288557
+2014,Percentage of total cases,,,,,,,,Black African/African descent,,,69.9588477366255
+2014,Percentage of total cases,,,,,,,,Indian/Pakistani/Bangladesh (ISC)/ISC descent,,,9.25925925925926
+2014,Percentage of total cases,,,,,,,,Other/mixed,,,5.86419753086419
+2014,Percentage of total cases,,,,,,,,White British,,,14.917695473251
+2015,Percentage of total cases,,,,,,,,Black African/African descent,,,71.4482758620689
+2015,Percentage of total cases,,,,,,,,Indian/Pakistani/Bangladesh (ISC)/ISC descent,,,9.93103448275862
+2015,Percentage of total cases,,,,,,,,Other/mixed,,,5.79310344827586
+2015,Percentage of total cases,,,,,,,,White British,,,12.8275862068965
+2016,Percentage of total cases,,,,,,,,Black African/African descent,,,75.4698318496538
+2016,Percentage of total cases,,,,,,,,Indian/Pakistani/Bangladesh (ISC)/ISC descent,,,7.91295746785361
+2016,Percentage of total cases,,,,,,,,Other/mixed,,,6.23145400593471
+2016,Percentage of total cases,,,,,,,,White British,,,10.3857566765578
+2017,Percentage of total cases,,,,,,,,Black African/African descent,,,75.5033557046979
+2017,Percentage of total cases,,,,,,,,Indian/Pakistani/Bangladesh (ISC)/ISC descent,,,7.04697986577181
+2017,Percentage of total cases,,,,,,,,Other/mixed,,,6.45973154362416
+2017,Percentage of total cases,,,,,,,,White British,,,10.989932885906
+2000,Number of cases,,,,,,,,,,,2047.0
+2001,Number of cases,,,,,,,,,,,2044.0
+2002,Number of cases,,,,,,,,,,,1940.0
+2003,Number of cases,,,,,,,,,,,1720.0
+2004,Number of cases,,,,,,,,,,,1656.0
+2005,Number of cases,,,,,,,,,,,1753.0
+2006,Number of cases,,,,,,,,,,,1754.0
+2007,Number of cases,,,,,,,,,,,1547.0
+2008,Number of cases,,,,,,,,,,,1370.0
+2009,Number of cases,,,,,,,,,,,1495.0
+2010,Number of cases,,,,,,,,,,,1759.0
+2011,Number of cases,,,,,,,,,,,1673.0
+2012,Number of cases,,,,,,,,,,,1377.0
+2013,Number of cases,,,,,,,,,,,1501.0
+2014,Number of cases,,,,,,,,,,,1586.0
+2015,Number of cases,,,,,,,,,,,1400.0
+2016,Number of cases,,,,,,,,,,,1618.0
+2017,Number of cases,,,,,,,,,,,1792.0
+2000,Number of cases,,,,,,Fatal,,,,,16.0
+2001,Number of cases,,,,,,Fatal,,,,,9.0
+2002,Number of cases,,,,,,Fatal,,,,,9.0
+2003,Number of cases,,,,,,Fatal,,,,,16.0
+2004,Number of cases,,,,,,Fatal,,,,,5.0
+2005,Number of cases,,,,,,Fatal,,,,,10.0
+2006,Number of cases,,,,,,Fatal,,,,,8.0
+2007,Number of cases,,,,,,Fatal,,,,,5.0
+2008,Number of cases,,,,,,Fatal,,,,,6.0
+2009,Number of cases,,,,,,Fatal,,,,,6.0
+2010,Number of cases,,,,,,Fatal,,,,,7.0
+2011,Number of cases,,,,,,Fatal,,,,,8.0
+2012,Number of cases,,,,,,Fatal,,,,,2.0
+2013,Number of cases,,,,,,Fatal,,,,,7.0
+2014,Number of cases,,,,,,Fatal,,,,,3.0
+2015,Number of cases,,,,,,Fatal,,,,,6.0
+2016,Number of cases,,,,,,Fatal,,,,,6.0
+2017,Number of cases,,,,,,Fatal,,,,,6.0
+2000,Number of cases,,,,,P. falciparum,,,,,,1555.0
+2001,Number of cases,,,,,P. falciparum,,,,,,1572.0
+2002,Number of cases,,,,,P. falciparum,,,,,,1465.0
+2003,Number of cases,,,,,P. falciparum,,,,,,1338.0
+2004,Number of cases,,,,,P. falciparum,,,,,,1220.0
+2005,Number of cases,,,,,P. falciparum,,,,,,1337.0
+2006,Number of cases,,,,,P. falciparum,,,,,,1386.0
+2007,Number of cases,,,,,P. falciparum,,,,,,1138.0
+2008,Number of cases,,,,,P. falciparum,,,,,,1087.0
+2009,Number of cases,,,,,P. falciparum,,,,,,1179.0
+2010,Number of cases,,,,,P. falciparum,,,,,,1263.0
+2011,Number of cases,,,,,P. falciparum,,,,,,1146.0
+2012,Number of cases,,,,,P. falciparum,,,,,,1002.0
+2013,Number of cases,,,,,P. falciparum,,,,,,1192.0
+2014,Number of cases,,,,,P. falciparum,,,,,,1169.0
+2015,Number of cases,,,,,P. falciparum,,,,,,1068.0
+2016,Number of cases,,,,,P. falciparum,,,,,,1308.0
+2017,Number of cases,,,,,P. falciparum,,,,,,1452.0
+2000,Number of cases,,,,,P. vivax,,,,,,322.0
+2001,Number of cases,,,,,P. vivax,,,,,,261.0
+2002,Number of cases,,,,,P. vivax,,,,,,284.0
+2003,Number of cases,,,,,P. vivax,,,,,,205.0
+2004,Number of cases,,,,,P. vivax,,,,,,276.0
+2005,Number of cases,,,,,P. vivax,,,,,,258.0
+2006,Number of cases,,,,,P. vivax,,,,,,217.0
+2007,Number of cases,,,,,P. vivax,,,,,,256.0
+2008,Number of cases,,,,,P. vivax,,,,,,177.0
+2009,Number of cases,,,,,P. vivax,,,,,,205.0
+2010,Number of cases,,,,,P. vivax,,,,,,348.0
+2011,Number of cases,,,,,P. vivax,,,,,,415.0
+2012,Number of cases,,,,,P. vivax,,,,,,270.0
+2013,Number of cases,,,,,P. vivax,,,,,,179.0
+2014,Number of cases,,,,,P. vivax,,,,,,225.0
+2015,Number of cases,,,,,P. vivax,,,,,,207.0
+2016,Number of cases,,,,,P. vivax,,,,,,166.0
+2017,Number of cases,,,,,P. vivax,,,,,,164.0
+2000,Number of cases,,,,,P. ovale,,,,,,123.0
+2001,Number of cases,,,,,P. ovale,,,,,,157.0
+2002,Number of cases,,,,,P. ovale,,,,,,133.0
+2003,Number of cases,,,,,P. ovale,,,,,,134.0
+2004,Number of cases,,,,,P. ovale,,,,,,120.0
+2005,Number of cases,,,,,P. ovale,,,,,,116.0
+2006,Number of cases,,,,,P. ovale,,,,,,106.0
+2007,Number of cases,,,,,P. ovale,,,,,,108.0
+2008,Number of cases,,,,,P. ovale,,,,,,76.0
+2009,Number of cases,,,,,P. ovale,,,,,,69.0
+2010,Number of cases,,,,,P. ovale,,,,,,99.0
+2011,Number of cases,,,,,P. ovale,,,,,,77.0
+2012,Number of cases,,,,,P. ovale,,,,,,66.0
+2013,Number of cases,,,,,P. ovale,,,,,,78.0
+2014,Number of cases,,,,,P. ovale,,,,,,130.0
+2015,Number of cases,,,,,P. ovale,,,,,,95.0
+2016,Number of cases,,,,,P. ovale,,,,,,88.0
+2017,Number of cases,,,,,P. ovale,,,,,,108.0
+2000,Number of cases,,,,,P. malariae,,,,,,30.0
+2001,Number of cases,,,,,P. malariae,,,,,,37.0
+2002,Number of cases,,,,,P. malariae,,,,,,43.0
+2003,Number of cases,,,,,P. malariae,,,,,,27.0
+2004,Number of cases,,,,,P. malariae,,,,,,28.0
+2005,Number of cases,,,,,P. malariae,,,,,,29.0
+2006,Number of cases,,,,,P. malariae,,,,,,24.0
+2007,Number of cases,,,,,P. malariae,,,,,,30.0
+2008,Number of cases,,,,,P. malariae,,,,,,20.0
+2009,Number of cases,,,,,P. malariae,,,,,,36.0
+2010,Number of cases,,,,,P. malariae,,,,,,37.0
+2011,Number of cases,,,,,P. malariae,,,,,,31.0
+2012,Number of cases,,,,,P. malariae,,,,,,32.0
+2013,Number of cases,,,,,P. malariae,,,,,,39.0
+2014,Number of cases,,,,,P. malariae,,,,,,41.0
+2015,Number of cases,,,,,P. malariae,,,,,,23.0
+2016,Number of cases,,,,,P. malariae,,,,,,41.0
+2017,Number of cases,,,,,P. malariae,,,,,,55.0
+2000,Number of cases,,,,,P. knowlesi,,,,,,0.0
+2001,Number of cases,,,,,P. knowlesi,,,,,,0.0
+2002,Number of cases,,,,,P. knowlesi,,,,,,0.0
+2003,Number of cases,,,,,P. knowlesi,,,,,,0.0
+2004,Number of cases,,,,,P. knowlesi,,,,,,0.0
+2005,Number of cases,,,,,P. knowlesi,,,,,,0.0
+2006,Number of cases,,,,,P. knowlesi,,,,,,1.0
+2007,Number of cases,,,,,P. knowlesi,,,,,,0.0
+2008,Number of cases,,,,,P. knowlesi,,,,,,0.0
+2009,Number of cases,,,,,P. knowlesi,,,,,,0.0
+2010,Number of cases,,,,,P. knowlesi,,,,,,0.0
+2011,Number of cases,,,,,P. knowlesi,,,,,,0.0
+2012,Number of cases,,,,,P. knowlesi,,,,,,0.0
+2013,Number of cases,,,,,P. knowlesi,,,,,,0.0
+2014,Number of cases,,,,,P. knowlesi,,,,,,0.0
+2015,Number of cases,,,,,P. knowlesi,,,,,,0.0
+2016,Number of cases,,,,,P. knowlesi,,,,,,1.0
+2017,Number of cases,,,,,P. knowlesi,,,,,,2.0
+2000,Number of cases,,,,,Mixed,,,,,,16.0
+2001,Number of cases,,,,,Mixed,,,,,,16.0
+2002,Number of cases,,,,,Mixed,,,,,,13.0
+2003,Number of cases,,,,,Mixed,,,,,,15.0
+2004,Number of cases,,,,,Mixed,,,,,,12.0
+2005,Number of cases,,,,,Mixed,,,,,,10.0
+2006,Number of cases,,,,,Mixed,,,,,,20.0
+2007,Number of cases,,,,,Mixed,,,,,,15.0
+2008,Number of cases,,,,,Mixed,,,,,,9.0
+2009,Number of cases,,,,,Mixed,,,,,,6.0
+2010,Number of cases,,,,,Mixed,,,,,,12.0
+2011,Number of cases,,,,,Mixed,,,,,,4.0
+2012,Number of cases,,,,,Mixed,,,,,,7.0
+2013,Number of cases,,,,,Mixed,,,,,,13.0
+2014,Number of cases,,,,,Mixed,,,,,,21.0
+2015,Number of cases,,,,,Mixed,,,,,,7.0
+2016,Number of cases,,,,,Mixed,,,,,,13.0
+2017,Number of cases,,,,,Mixed,,,,,,11.0
+2000,Number of cases,,,,,P. unspecified,,,,,,1.0
+2001,Number of cases,,,,,P. unspecified,,,,,,1.0
+2002,Number of cases,,,,,P. unspecified,,,,,,2.0
+2003,Number of cases,,,,,P. unspecified,,,,,,1.0
+2004,Number of cases,,,,,P. unspecified,,,,,,0.0
+2005,Number of cases,,,,,P. unspecified,,,,,,3.0
+2006,Number of cases,,,,,P. unspecified,,,,,,0.0
+2007,Number of cases,,,,,P. unspecified,,,,,,0.0
+2008,Number of cases,,,,,P. unspecified,,,,,,1.0
+2009,Number of cases,,,,,P. unspecified,,,,,,0.0
+2010,Number of cases,,,,,P. unspecified,,,,,,0.0
+2011,Number of cases,,,,,P. unspecified,,,,,,0.0
+2012,Number of cases,,,,,P. unspecified,,,,,,0.0
+2013,Number of cases,,,,,P. unspecified,,,,,,0.0
+2014,Number of cases,,,,,P. unspecified,,,,,,0.0
+2015,Number of cases,,,,,P. unspecified,,,,,,0.0
+2016,Number of cases,,,,,P. unspecified,,,,,,1.0
+2017,Number of cases,,,,,P. unspecified,,,,,,0.0
+2000,Number of cases,,,,,,Non-fatal,,,,,2031.0
+2001,Number of cases,,,,,,Non-fatal,,,,,2035.0
+2002,Number of cases,,,,,,Non-fatal,,,,,1931.0
+2003,Number of cases,,,,,,Non-fatal,,,,,1704.0
+2004,Number of cases,,,,,,Non-fatal,,,,,1651.0
+2005,Number of cases,,,,,,Non-fatal,,,,,1743.0
+2006,Number of cases,,,,,,Non-fatal,,,,,1746.0
+2007,Number of cases,,,,,,Non-fatal,,,,,1542.0
+2008,Number of cases,,,,,,Non-fatal,,,,,1364.0
+2009,Number of cases,,,,,,Non-fatal,,,,,1489.0
+2010,Number of cases,,,,,,Non-fatal,,,,,1752.0
+2011,Number of cases,,,,,,Non-fatal,,,,,1665.0
+2012,Number of cases,,,,,,Non-fatal,,,,,1375.0
+2013,Number of cases,,,,,,Non-fatal,,,,,1494.0
+2014,Number of cases,,,,,,Non-fatal,,,,,1583.0
+2015,Number of cases,,,,,,Non-fatal,,,,,1394.0
+2016,Number of cases,,,,,,Non-fatal,,,,,1612.0
+2017,Number of cases,,,,,,Non-fatal,,,,,1786.0
+2014,Number of cases,,,,,,,,,,,1582.0
+2014,Number of cases,,0 to 4,,,,,,,,,37.0
+2014,Number of cases,,5 to 9,,,,,,,,,42.0
+2014,Number of cases,,10 to 14,,,,,,,,,52.0
+2014,Number of cases,,15 to 19,,,,,,,,,92.0
+2014,Number of cases,,20 to 24,,,,,,,,,132.0
+2014,Number of cases,,25 to 29,,,,,,,,,153.0
+2014,Number of cases,,30 to 34,,,,,,,,,173.0
+2014,Number of cases,,35 to 39,,,,,,,,,145.0
+2014,Number of cases,,40 to 44,,,,,,,,,167.0
+2014,Number of cases,,45 to 49,,,,,,,,,189.0
+2014,Number of cases,,50 to 54,,,,,,,,,146.0
+2014,Number of cases,,55 to 59,,,,,,,,,108.0
+2014,Number of cases,,60 to 64,,,,,,,,,62.0
+2014,Number of cases,,65 to 69,,,,,,,,,44.0
+2014,Number of cases,,70 and over,,,,,,,,,40.0
+2014,Number of cases,Male,,,,,,,,,,1083.0
+2014,Number of cases,Male,0 to 4,,,,,,,,,19.0
+2014,Number of cases,Male,5 to 9,,,,,,,,,23.0
+2014,Number of cases,Male,10 to 14,,,,,,,,,30.0
+2014,Number of cases,Male,15 to 19,,,,,,,,,61.0
+2014,Number of cases,Male,20 to 24,,,,,,,,,93.0
+2014,Number of cases,Male,25 to 29,,,,,,,,,104.0
+2014,Number of cases,Male,30 to 34,,,,,,,,,126.0
+2014,Number of cases,Male,35 to 39,,,,,,,,,114.0
+2014,Number of cases,Male,40 to 44,,,,,,,,,105.0
+2014,Number of cases,Male,45 to 49,,,,,,,,,135.0
+2014,Number of cases,Male,50 to 54,,,,,,,,,105.0
+2014,Number of cases,Male,55 to 59,,,,,,,,,74.0
+2014,Number of cases,Male,60 to 64,,,,,,,,,42.0
+2014,Number of cases,Male,65 to 69,,,,,,,,,27.0
+2014,Number of cases,Male,70 and over,,,,,,,,,25.0
+2014,Number of cases,Female,,,,,,,,,,499.0
+2014,Number of cases,Female,0 to 4,,,,,,,,,18.0
+2014,Number of cases,Female,5 to 9,,,,,,,,,19.0
+2014,Number of cases,Female,10 to 14,,,,,,,,,22.0
+2014,Number of cases,Female,15 to 19,,,,,,,,,31.0
+2014,Number of cases,Female,20 to 24,,,,,,,,,39.0
+2014,Number of cases,Female,25 to 29,,,,,,,,,49.0
+2014,Number of cases,Female,30 to 34,,,,,,,,,47.0
+2014,Number of cases,Female,35 to 39,,,,,,,,,31.0
+2014,Number of cases,Female,40 to 44,,,,,,,,,62.0
+2014,Number of cases,Female,45 to 49,,,,,,,,,54.0
+2014,Number of cases,Female,50 to 54,,,,,,,,,41.0
+2014,Number of cases,Female,55 to 59,,,,,,,,,34.0
+2014,Number of cases,Female,60 to 64,,,,,,,,,20.0
+2014,Number of cases,Female,65 to 69,,,,,,,,,17.0
+2014,Number of cases,Female,70 and over,,,,,,,,,15.0
+2015,Number of cases,,,,,,,,,,,1391.0
+2015,Number of cases,,0 to 4,,,,,,,,,21.0
+2015,Number of cases,,5 to 9,,,,,,,,,32.0
+2015,Number of cases,,10 to 14,,,,,,,,,60.0
+2015,Number of cases,,15 to 19,,,,,,,,,89.0
+2015,Number of cases,,20 to 24,,,,,,,,,112.0
+2015,Number of cases,,25 to 29,,,,,,,,,107.0
+2015,Number of cases,,30 to 34,,,,,,,,,136.0
+2015,Number of cases,,35 to 39,,,,,,,,,139.0
+2015,Number of cases,,40 to 44,,,,,,,,,160.0
+2015,Number of cases,,45 to 49,,,,,,,,,163.0
+2015,Number of cases,,50 to 54,,,,,,,,,142.0
+2015,Number of cases,,55 to 59,,,,,,,,,96.0
+2015,Number of cases,,60 to 64,,,,,,,,,55.0
+2015,Number of cases,,65 to 69,,,,,,,,,45.0
+2015,Number of cases,,70 and over,,,,,,,,,34.0
+2015,Number of cases,Male,,,,,,,,,,954.0
+2015,Number of cases,Male,0 to 4,,,,,,,,,14.0
+2015,Number of cases,Male,5 to 9,,,,,,,,,20.0
+2015,Number of cases,Male,10 to 14,,,,,,,,,33.0
+2015,Number of cases,Male,15 to 19,,,,,,,,,65.0
+2015,Number of cases,Male,20 to 24,,,,,,,,,82.0
+2015,Number of cases,Male,25 to 29,,,,,,,,,67.0
+2015,Number of cases,Male,30 to 34,,,,,,,,,102.0
+2015,Number of cases,Male,35 to 39,,,,,,,,,98.0
+2015,Number of cases,Male,40 to 44,,,,,,,,,119.0
+2015,Number of cases,Male,45 to 49,,,,,,,,,116.0
+2015,Number of cases,Male,50 to 54,,,,,,,,,92.0
+2015,Number of cases,Male,55 to 59,,,,,,,,,58.0
+2015,Number of cases,Male,60 to 64,,,,,,,,,40.0
+2015,Number of cases,Male,65 to 69,,,,,,,,,28.0
+2015,Number of cases,Male,70 and over,,,,,,,,,20.0
+2015,Number of cases,Female,,,,,,,,,,437.0
+2015,Number of cases,Female,0 to 4,,,,,,,,,7.0
+2015,Number of cases,Female,5 to 9,,,,,,,,,12.0
+2015,Number of cases,Female,10 to 14,,,,,,,,,27.0
+2015,Number of cases,Female,15 to 19,,,,,,,,,24.0
+2015,Number of cases,Female,20 to 24,,,,,,,,,30.0
+2015,Number of cases,Female,25 to 29,,,,,,,,,40.0
+2015,Number of cases,Female,30 to 34,,,,,,,,,34.0
+2015,Number of cases,Female,35 to 39,,,,,,,,,41.0
+2015,Number of cases,Female,40 to 44,,,,,,,,,41.0
+2015,Number of cases,Female,45 to 49,,,,,,,,,47.0
+2015,Number of cases,Female,50 to 54,,,,,,,,,50.0
+2015,Number of cases,Female,55 to 59,,,,,,,,,38.0
+2015,Number of cases,Female,60 to 64,,,,,,,,,15.0
+2015,Number of cases,Female,65 to 69,,,,,,,,,17.0
+2015,Number of cases,Female,70 and over,,,,,,,,,14.0
+2016,Number of cases,,,,,,,,,,,1613.0
+2016,Number of cases,,0 to 4,,,,,,,,,25.0
+2016,Number of cases,,5 to 9,,,,,,,,,23.0
+2016,Number of cases,,10 to 14,,,,,,,,,54.0
+2016,Number of cases,,15 to 19,,,,,,,,,87.0
+2016,Number of cases,,20 to 24,,,,,,,,,123.0
+2016,Number of cases,,25 to 29,,,,,,,,,152.0
+2016,Number of cases,,30 to 34,,,,,,,,,154.0
+2016,Number of cases,,35 to 39,,,,,,,,,179.0
+2016,Number of cases,,40 to 44,,,,,,,,,186.0
+2016,Number of cases,,45 to 49,,,,,,,,,191.0
+2016,Number of cases,,50 to 54,,,,,,,,,168.0
+2016,Number of cases,,55 to 59,,,,,,,,,116.0
+2016,Number of cases,,60 to 64,,,,,,,,,67.0
+2016,Number of cases,,65 to 69,,,,,,,,,31.0
+2016,Number of cases,,70 and over,,,,,,,,,57.0
+2016,Number of cases,Male,,,,,,,,,,1044.0
+2016,Number of cases,Male,0 to 4,,,,,,,,,20.0
+2016,Number of cases,Male,5 to 9,,,,,,,,,10.0
+2016,Number of cases,Male,10 to 14,,,,,,,,,29.0
+2016,Number of cases,Male,15 to 19,,,,,,,,,55.0
+2016,Number of cases,Male,20 to 24,,,,,,,,,77.0
+2016,Number of cases,Male,25 to 29,,,,,,,,,87.0
+2016,Number of cases,Male,30 to 34,,,,,,,,,102.0
+2016,Number of cases,Male,35 to 39,,,,,,,,,126.0
+2016,Number of cases,Male,40 to 44,,,,,,,,,122.0
+2016,Number of cases,Male,45 to 49,,,,,,,,,135.0
+2016,Number of cases,Male,50 to 54,,,,,,,,,118.0
+2016,Number of cases,Male,55 to 59,,,,,,,,,80.0
+2016,Number of cases,Male,60 to 64,,,,,,,,,37.0
+2016,Number of cases,Male,65 to 69,,,,,,,,,17.0
+2016,Number of cases,Male,70 and over,,,,,,,,,29.0
+2016,Number of cases,Female,,,,,,,,,,569.0
+2016,Number of cases,Female,0 to 4,,,,,,,,,5.0
+2016,Number of cases,Female,5 to 9,,,,,,,,,13.0
+2016,Number of cases,Female,10 to 14,,,,,,,,,25.0
+2016,Number of cases,Female,15 to 19,,,,,,,,,32.0
+2016,Number of cases,Female,20 to 24,,,,,,,,,46.0
+2016,Number of cases,Female,25 to 29,,,,,,,,,65.0
+2016,Number of cases,Female,30 to 34,,,,,,,,,52.0
+2016,Number of cases,Female,35 to 39,,,,,,,,,53.0
+2016,Number of cases,Female,40 to 44,,,,,,,,,64.0
+2016,Number of cases,Female,45 to 49,,,,,,,,,56.0
+2016,Number of cases,Female,50 to 54,,,,,,,,,50.0
+2016,Number of cases,Female,55 to 59,,,,,,,,,36.0
+2016,Number of cases,Female,60 to 64,,,,,,,,,30.0
+2016,Number of cases,Female,65 to 69,,,,,,,,,14.0
+2016,Number of cases,Female,70 and over,,,,,,,,,28.0
+2017,Number of cases,,,,,,,,,,,1778.0
+2017,Number of cases,,0 to 4,,,,,,,,,39.0
+2017,Number of cases,,5 to 9,,,,,,,,,53.0
+2017,Number of cases,,10 to 14,,,,,,,,,61.0
+2017,Number of cases,,15 to 19,,,,,,,,,75.0
+2017,Number of cases,,20 to 24,,,,,,,,,117.0
+2017,Number of cases,,25 to 29,,,,,,,,,149.0
+2017,Number of cases,,30 to 34,,,,,,,,,169.0
+2017,Number of cases,,35 to 39,,,,,,,,,162.0
+2017,Number of cases,,40 to 44,,,,,,,,,196.0
+2017,Number of cases,,45 to 49,,,,,,,,,205.0
+2017,Number of cases,,50 to 54,,,,,,,,,199.0
+2017,Number of cases,,55 to 59,,,,,,,,,156.0
+2017,Number of cases,,60 to 64,,,,,,,,,92.0
+2017,Number of cases,,65 to 69,,,,,,,,,48.0
+2017,Number of cases,,70 and over,,,,,,,,,57.0
+2017,Number of cases,Male,,,,,,,,,,1188.0
+2017,Number of cases,Male,0 to 4,,,,,,,,,20.0
+2017,Number of cases,Male,5 to 9,,,,,,,,,28.0
+2017,Number of cases,Male,10 to 14,,,,,,,,,41.0
+2017,Number of cases,Male,15 to 19,,,,,,,,,52.0
+2017,Number of cases,Male,20 to 24,,,,,,,,,73.0
+2017,Number of cases,Male,25 to 29,,,,,,,,,100.0
+2017,Number of cases,Male,30 to 34,,,,,,,,,106.0
+2017,Number of cases,Male,35 to 39,,,,,,,,,121.0
+2017,Number of cases,Male,40 to 44,,,,,,,,,142.0
+2017,Number of cases,Male,45 to 49,,,,,,,,,142.0
+2017,Number of cases,Male,50 to 54,,,,,,,,,138.0
+2017,Number of cases,Male,55 to 59,,,,,,,,,103.0
+2017,Number of cases,Male,60 to 64,,,,,,,,,64.0
+2017,Number of cases,Male,65 to 69,,,,,,,,,26.0
+2017,Number of cases,Male,70 and over,,,,,,,,,32.0
+2017,Number of cases,Female,,,,,,,,,,590.0
+2017,Number of cases,Female,0 to 4,,,,,,,,,19.0
+2017,Number of cases,Female,5 to 9,,,,,,,,,25.0
+2017,Number of cases,Female,10 to 14,,,,,,,,,20.0
+2017,Number of cases,Female,15 to 19,,,,,,,,,23.0
+2017,Number of cases,Female,20 to 24,,,,,,,,,44.0
+2017,Number of cases,Female,25 to 29,,,,,,,,,49.0
+2017,Number of cases,Female,30 to 34,,,,,,,,,63.0
+2017,Number of cases,Female,35 to 39,,,,,,,,,41.0
+2017,Number of cases,Female,40 to 44,,,,,,,,,54.0
+2017,Number of cases,Female,45 to 49,,,,,,,,,63.0
+2017,Number of cases,Female,50 to 54,,,,,,,,,61.0
+2017,Number of cases,Female,55 to 59,,,,,,,,,53.0
+2017,Number of cases,Female,60 to 64,,,,,,,,,28.0
+2017,Number of cases,Female,65 to 69,,,,,,,,,22.0
+2017,Number of cases,Female,70 and over,,,,,,,,,25.0
+2014,Number of cases,,,England,London,,,,,,E12000007,779.0
+2014,Number of cases,,,England,South East,,,,,,E12000008,133.0
+2014,Number of cases,,,England,West Midlands,,,,,,E12000005,115.0
+2014,Number of cases,,,England,North West,,,,,,E12000002,121.0
+2014,Number of cases,,,England,East of England,,,,,,E12000006,113.0
+2014,Number of cases,,,England,Yorkshire and Humber,,,,,,E12000003,97.0
+2014,Number of cases,,,England,South West,,,,,,E12000009,59.0
+2014,Number of cases,,,England,East Midlands,,,,,,E12000004,48.0
+2014,Number of cases,,,England,North East,,,,,,E12000001,10.0
+2014,Number of cases,,,England,,,,,,,E92000001,1475.0
+2014,Number of cases,,,Scotland,,,,,,,S92000003,76.0
+2014,Number of cases,,,Wales,,,,,,,W92000004,33.0
+2014,Number of cases,,,Northern Ireland,,,,,,,N92000002,2.0
+2014,Number of cases,,,,,,,,,,,1586.0
+2015,Number of cases,,,England,London,,,,,,E12000007,681.0
+2015,Number of cases,,,England,South East,,,,,,E12000008,120.0
+2015,Number of cases,,,England,West Midlands,,,,,,E12000005,122.0
+2015,Number of cases,,,England,North West,,,,,,E12000002,114.0
+2015,Number of cases,,,England,East of England,,,,,,E12000006,115.0
+2015,Number of cases,,,England,Yorkshire and Humber,,,,,,E12000003,68.0
+2015,Number of cases,,,England,South West,,,,,,E12000009,52.0
+2015,Number of cases,,,England,East Midlands,,,,,,E12000004,39.0
+2015,Number of cases,,,England,North East,,,,,,E12000001,8.0
+2015,Number of cases,,,England,,,,,,,E92000001,1319.0
+2015,Number of cases,,,Scotland,,,,,,,S92000003,49.0
+2015,Number of cases,,,Wales,,,,,,,W92000004,21.0
+2015,Number of cases,,,Northern Ireland,,,,,,,N92000002,11.0
+2015,Number of cases,,,,,,,,,,,1400.0
+2016,Number of cases,,,England,London,,,,,,E12000007,843.0
+2016,Number of cases,,,England,South East,,,,,,E12000008,141.0
+2016,Number of cases,,,England,West Midlands,,,,,,E12000005,118.0
+2016,Number of cases,,,England,North West,,,,,,E12000002,107.0
+2016,Number of cases,,,England,East of England,,,,,,E12000006,122.0
+2016,Number of cases,,,England,Yorkshire and Humber,,,,,,E12000003,68.0
+2016,Number of cases,,,England,South West,,,,,,E12000009,65.0
+2016,Number of cases,,,England,East Midlands,,,,,,E12000004,43.0
+2016,Number of cases,,,England,North East,,,,,,E12000001,22.0
+2016,Number of cases,,,England,,,,,,,E92000001,1529.0
+2016,Number of cases,,,Scotland,,,,,,,S92000003,58.0
+2016,Number of cases,,,Wales,,,,,,,W92000004,25.0
+2016,Number of cases,,,Northern Ireland,,,,,,,N92000002,6.0
+2016,Number of cases,,,,,,,,,,,1618.0
+2017,Number of cases,,,England,London,,,,,,E12000007,922.0
+2017,Number of cases,,,England,South East,,,,,,E12000008,155.0
+2017,Number of cases,,,England,West Midlands,,,,,,E12000005,161.0
+2017,Number of cases,,,England,North West,,,,,,E12000002,128.0
+2017,Number of cases,,,England,East of England,,,,,,E12000006,114.0
+2017,Number of cases,,,England,Yorkshire and Humber,,,,,,E12000003,79.0
+2017,Number of cases,,,England,South West,,,,,,E12000009,73.0
+2017,Number of cases,,,England,East Midlands,,,,,,E12000004,50.0
+2017,Number of cases,,,England,North East,,,,,,E12000001,26.0
+2017,Number of cases,,,England,,,,,,,E92000001,1708.0
+2017,Number of cases,,,Scotland,,,,,,,S92000003,50.0
+2017,Number of cases,,,Wales,,,,,,,W92000004,24.0
+2017,Number of cases,,,Northern Ireland,,,,,,,N92000002,10.0
+2017,Number of cases,,,,,,,,,,,1792.0
