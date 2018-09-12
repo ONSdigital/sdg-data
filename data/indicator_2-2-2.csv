@@ -1,7 +1,256 @@
-"Year","Group","Value"
-2015,"A",1
-2015,"B",3
-2015,,2
-2016,"A",1
-2016,"B",3
-2016,,2
+Year,Sex,Country ,Ethnicity,BMI,Value
+2006/07,All,England,,Underweight,1.273148944662753
+2007/08,All,England,,Underweight,1.2521668495054978
+2008/09,All,England,,Underweight,1.0085564307573163
+2009/10,All,England,,Underweight,0.9278270234131499
+2010/11,All,England,,Underweight,0.9681203868786431
+2011/12,All,England,,Underweight,0.9107912498983491
+2012/13,All,England,,Underweight,0.8770108801078141
+2013/14,All,England,,Underweight,0.9482
+2014/15,All,England,,Underweight,0.963913034934069
+2015/16,All,England,,Underweight,0.967175521248117
+2016/17,All,England,,Underweight,0.956211001987737
+2006/07,All,England,,Overweight,13.03819217437782
+2007/08,All,England,,Overweight,12.9619471916793
+2008/09,All,England,,Overweight,13.186109777564411
+2009/10,All,England,,Overweight,13.27865769925489
+2010/11,All,England,,Overweight,13.182880527662562
+2011/12,All,England,,Overweight,13.07087978333351
+2012/13,All,England,,Overweight,12.964752806809171
+2013/14,All,England,,Overweight,13.062
+2014/15,All,England,,Overweight,12.8051736222561
+2015/16,All,England,,Overweight,12.824030985438
+2016/17,All,England,,Overweight,13.0159416167879
+2006/07,All,England,,Obese,9.870230566126898
+2007/08,All,England,,Obese,9.634629395459456
+2008/09,All,England,,Obese,9.596597183944493
+2009/10,All,England,,Obese,9.82584962174667
+2010/11,All,England,,Obese,9.435663411885338
+2011/12,All,England,,Obese,9.487821349144895
+2012/13,All,England,,Obese,9.266469052780604
+2013/14,All,England,,Obese,9.4789
+2014/15,All,England,,Obese,9.0805324284844
+2015/16,All,England,,Obese,9.31354205646335
+2016/17,All,England,,Obese,9.61327318748123
+2011/12,Boys,England,,Underweight,1.1268501427573954
+2011/12,Boys,England,,Overweight,13.584074773074503
+2011/12,Boys,England,,Obese,9.933564233914732
+2011/12,Girls,England,,Underweight,0.6846142712404111
+2011/12,Girls,England,,Overweight,12.53365175857577
+2011/12,Girls,England,,Obese,9.0212042263714
+2012/13,Boys,England,,Underweight,1.0921065336605214
+2012/13,Boys,England,,Overweight,13.456217515657412
+2012/13,Boys,England,,Obese,9.738726830194082
+2012/13,Girls,England,,Underweight,0.6521867745988217
+2012/13,Girls,England,,Overweight,12.451059890513362
+2012/13,Girls,England,,Obese,8.772851768456293
+2013/14,Boys,England,,Underweight,1.1789
+2013/14,Boys,England,,Overweight,13.4902
+2013/14,Boys,England,,Obese,9.9198
+2013/14,Girls,England,,Underweight,0.7079
+2013/14,Girls,England,,Overweight,12.6162
+2013/14,Girls,England,,Obese,9.0198
+2014/15,Boys,England,,Underweight,1.21570902470841
+2014/15,Boys,England,,Overweight,13.0984394180751
+2014/15,Boys,England,,Obese,9.47503036868708
+2014/15,Girls,England,,Underweight,0.700850865766801
+2014/15,Girls,England,,Overweight,12.4987861517494
+2014/15,Girls,England,,Obese,8.66838335504308
+2015/16,Boys,England,,Underweight,1.21369784965424
+2015/16,Boys,England,,Overweight,13.0827048839051
+2015/16,Boys,England,,Obese,9.6413377285662
+2015/16,Girls,England,,Underweight,0.709734576921694
+2015/16,Girls,England,,Overweight,12.5539002710133
+2015/16,Girls,England,,Obese,8.97122812523497
+2016/17,Boys,England,,Underweight,1.21896569966826
+2016/17,Boys,England,,Overweight,13.142858921136
+2016/17,Boys,England,,Obese,10.0106429989606
+2016/17,Girls,England,,Underweight,0.6820963505735
+2016/17,Girls,England,,Overweight,12.8835371614273
+2016/17,Girls,England,,Obese,9.19872346365995
+2011/12,All,England,White,Underweight,0.5363150281971689
+2011/12,All,England,Mixed,Underweight,1.0403794794116474
+2011/12,All,England,Asian or Asian British,Underweight,3.4097165530727316
+2011/12,All,England,Black or Black British,Underweight,0.9735010894777536
+2011/12,All,England,Chinese,Underweight,0.6144393241167435
+2011/12,All,England,Any Other Ethnic Group,Underweight,1.1637014658162694
+2011/12,All,England,Unknown,Underweight,0.9096406793327622
+2011/12,All,England,White,Overweight,13.588814310401803
+2011/12,All,England,Mixed,Overweight,12.265316697891338
+2011/12,All,England,Asian or Asian British,Overweight,9.167884874603686
+2011/12,All,England,Black or Black British,Overweight,14.553314121037463
+2011/12,All,England,Chinese,Overweight,9.575012800819252
+2011/12,All,England,Any Other Ethnic Group,Overweight,13.203535862146135
+2011/12,All,England,Unknown,Overweight,13.046162374640932
+2011/12,All,England,White,Obese,8.882514504883716
+2011/12,All,England,Mixed,Obese,9.929445529557142
+2011/12,All,England,Asian or Asian British,Obese,10.411406223302262
+2011/12,All,England,Black or Black British,Obese,15.649820763337315
+2011/12,All,England,Chinese,Obese,7.322068612391193
+2011/12,All,England,Any Other Ethnic Group,Obese,11.927940024616762
+2011/12,All,England,Unknown,Obese,9.120344705941642
+2012/13,All,England,White,Underweight,0.5304367202567406
+2012/13,All,England,Mixed,Underweight,1.021818181818182
+2012/13,All,England,Asian or Asian British,Underweight,3.278482602688104
+2012/13,All,England,Black or Black British,Underweight,0.8878127522195319
+2012/13,All,England,Chinese,Underweight,1.0110736639383726
+2012/13,All,England,Any Other Ethnic Group,Underweight,1.0425268373245251
+2012/13,All,England,Unknown,Underweight,0.81349313954119
+2012/13,All,England,White,Overweight,13.477856636093774
+2012/13,All,England,Mixed,Overweight,12.054545454545455
+2012/13,All,England,Asian or Asian British,Overweight,9.065623485922442
+2012/13,All,England,Black or Black British,Overweight,14.35940625328982
+2012/13,All,England,Chinese,Overweight,9.91815117958594
+2012/13,All,England,Any Other Ethnic Group,Overweight,13.51156069364162
+2012/13,All,England,Unknown,Overweight,13.009111123162862
+2012/13,All,England,White,Obese,8.56280078784324
+2012/13,All,England,Mixed,Obese,9.658181818181818
+2012/13,All,England,Asian or Asian British,Obese,10.28047445582931
+2012/13,All,England,Black or Black British,Obese,15.513913745306523
+2012/13,All,England,Chinese,Obese,8.088589311506981
+2012/13,All,England,Any Other Ethnic Group,Obese,11.52972749793559
+2012/13,All,England,Unknown,Obese,9.401269049297683
+2013/14,All,England,White,Underweight,0.5736
+2013/14,All,England,Mixed,Underweight,1.0885
+2013/14,All,England,Asian or Asian British,Underweight,3.65
+2013/14,All,England,Black or Black British,Underweight,1.0508
+2013/14,All,England,Chinese,Underweight,0.8613
+2013/14,All,England,Any Other Ethnic Group,Underweight,1.488
+2013/14,All,England,Unknown,Underweight,0.8116
+2013/14,All,England,White,Overweight,13.5123
+2013/14,All,England,Mixed,Overweight,12.13
+2013/14,All,England,Asian or Asian British,Overweight,8.6735
+2013/14,All,England,Black or Black British,Overweight,15.21
+2013/14,All,England,Chinese,Overweight,11.6279
+2013/14,All,England,Any Other Ethnic Group,Overweight,12.0161
+2013/14,All,England,Unknown,Overweight,13.484499999999999
+2013/14,All,England,White,Obese,8.8096
+2013/14,All,England,Mixed,Obese,10.0103
+2013/14,All,England,Asian or Asian British,Obese,10.4431
+2013/14,All,England,Black or Black British,Obese,15.5777
+2013/14,All,England,Chinese,Obese,7.708900000000001
+2013/14,All,England,Any Other Ethnic Group,Obese,11.2777
+2013/14,All,England,Unknown,Obese,9.5623
+2014/15,All,England,White,Underweight,0.574915275643589
+2014/15,All,England,Mixed,Underweight,1.0274225737305
+2014/15,All,England,Asian or Asian British,Underweight,3.60465342111907
+2014/15,All,England,Black or Black British,Underweight,1.10122190375622
+2014/15,All,England,Chinese,Underweight,0.888888888888889
+2014/15,All,England,Any Other Ethnic Group,Underweight,1.15358947468777
+2014/15,All,England,Unknown,Underweight,1.00551526006845
+2014/15,All,England,White,Overweight,13.379870334898
+2014/15,All,England,Mixed,Overweight,12.4916845295292
+2014/15,All,England,Asian or Asian British,Overweight,8.69700324341121
+2014/15,All,England,Black or Black British,Overweight,14.6213606878866
+2014/15,All,England,Chinese,Overweight,9.73333333333333
+2014/15,All,England,Any Other Ethnic Group,Overweight,12.1937267613691
+2014/15,All,England,Unknown,Overweight,12.5104186986824
+2014/15,All,England,White,Obese,8.549792662134
+2014/15,All,England,Mixed,Obese,9.90464927193436
+2014/15,All,England,Asian or Asian British,Obese,10.0118471906621
+2014/15,All,England,Black or Black British,Obese,14.6628450746719
+2014/15,All,England,Chinese,Obese,7.6
+2014/15,All,England,Any Other Ethnic Group,Obese,11.0115358947469
+2014/15,All,England,Unknown,Obese,8.78362801255564
+2015/16,All,England,White,Underweight,0.593671811656561
+2015/16,All,England,Mixed,Underweight,0.988046707662544
+2015/16,All,England,Asian or Asian British,Underweight,3.53872849442516
+2015/16,All,England,Black or Black British,Underweight,0.970984692711903
+2015/16,All,England,Chinese,Underweight,0.995437577768561
+2015/16,All,England,Any Other Ethnic Group,Underweight,0.988361352300018
+2015/16,All,England,Unknown,Underweight,1.06523575296865
+2015/16,All,England,White,Overweight,13.4094718882594
+2015/16,All,England,Mixed,Overweight,12.2849443791888
+2015/16,All,England,Asian or Asian British,Overweight,8.58561618548328
+2015/16,All,England,Black or Black British,Overweight,14.2829944406367
+2015/16,All,England,Chinese,Overweight,9.78846951472418
+2015/16,All,England,Any Other Ethnic Group,Overweight,12.6270090522815
+2015/16,All,England,Unknown,Overweight,12.6347692154817
+2015/16,All,England,White,Obese,8.81603883862175
+2015/16,All,England,Mixed,Obese,9.74573343467146
+2015/16,All,England,Asian or Asian British,Obese,9.59536291811268
+2015/16,All,England,Black or Black British,Obese,15.2044779529358
+2015/16,All,England,Chinese,Obese,7.29987557030278
+2015/16,All,England,Any Other Ethnic Group,Obese,11.18603362276
+2015/16,All,England,Unknown,Obese,9.33472449942863
+2016/17,All,England,White,Underweight,0.56658839398846
+2016/17,All,England,Mixed,Underweight,1.02966567257887
+2016/17,All,England,Asian or Asian British,Underweight,3.59528353326063
+2016/17,All,England,Black or Black British,Underweight,1.06527568600081
+2016/17,All,England,Chinese,Underweight,1.1243851018973998
+2016/17,All,England,Any Other Ethnic Group,Underweight,1.1425812681042806
+2016/17,All,England,Unknown,Underweight,0.8932794427484199
+2016/17,All,England,White,Overweight,13.5797724223947
+2016/17,All,England,Mixed,Overweight,12.0012556898446
+2016/17,All,England,Asian or Asian British,Overweight,8.80759269356598
+2016/17,All,England,Black or Black British,Overweight,14.5795834404731
+2016/17,All,England,Chinese,Overweight,10.014054813773717
+2016/17,All,England,Any Other Ethnic Group,Overweight,12.479884132603798
+2016/17,All,England,Unknown,Overweight,13.279872726490948
+2016/17,All,England,White,Obese,9.09566541281606
+2016/17,All,England,Mixed,Obese,10.2401506827814
+2016/17,All,England,Asian or Asian British,Obese,9.91173664122137
+2016/17,All,England,Black or Black British,Obese,14.7595782977629
+2016/17,All,England,Chinese,Obese,5.762473647224175
+2016/17,All,England,Any Other Ethnic Group,Obese,10.371741229481815
+2016/17,All,England,Unknown,Obese,9.964741798168294
+2006/2007,All,Scotland,,Underweight,0.5
+2006/2007,All,Scotland,,Overweight,9.1
+2006/2007,All,Scotland,,Obese,6.1
+2007/2008,All,Scotland,,Underweight,0.6
+2007/2008,All,Scotland,,Overweight,8.7
+2007/2008,All,Scotland,,Obese,5.7
+2008/2009,All,Scotland,,Underweight,0.6
+2008/2009,All,Scotland,,Overweight,8.6
+2008/2009,All,Scotland,,Obese,5.6
+2009/2010,All,Scotland,,Underweight,0.5
+2009/2010,All,Scotland,,Overweight,8.8
+2009/2010,All,Scotland,,Obese,5.9
+2010/2011,All,Scotland,,Underweight,0.6
+2010/2011,All,Scotland,,Overweight,8.8
+2010/2011,All,Scotland,,Obese,6.0
+2011/2012,All,Scotland,,Underweight,0.4
+2011/2012,All,Scotland,,Overweight,8.8
+2011/2012,All,Scotland,,Obese,6.1
+2012/2013,All,Scotland,,Underweight,0.3
+2012/2013,All,Scotland,,Overweight,8.8
+2012/2013,All,Scotland,,Obese,5.7
+2013/2014,All,Scotland,,Underweight,0.4
+2013/2014,All,Scotland,,Overweight,9.2
+2013/2014,All,Scotland,,Obese,6.4
+2014/2015,All,Scotland,,Underweight,0.4
+2014/2015,All,Scotland,,Overweight,8.7
+2014/2015,All,Scotland,,Obese,6.2
+2015/2016,All,Scotland,,Underweight,0.4
+2015/2016,All,Scotland,,Overweight,8.6
+2015/2016,All,Scotland,,Obese,6.3
+2012/2013,All,Wales,,Underweight,0.6
+2012/2013,All,Wales,,Overweight,14.9
+2012/2013,All,Wales,,Obese,11.3
+2013/2014,All,Wales,,Underweight,0.8
+2013/2014,All,Wales,,Overweight,14.6
+2013/2014,All,Wales,,Obese,11.8
+2014/2015,All,Wales,,Underweight,0.9
+2014/2015,All,Wales,,Overweight,14.5
+2014/2015,All,Wales,,Obese,11.6
+2015/2016,All,Wales,,Underweight,1.0
+2015/2016,All,Wales,,Overweight,14.5
+2015/2016,All,Wales,,Obese,11.7
+2016/2017,All,Wales,,Underweight,0.8
+2016/2017,All,Wales,,Overweight,14.7
+2016/2017,All,Wales,,Obese,12.4
+2010/2011,All,Northern Ireland,,Obese,5.7
+2011/2012,All,Northern Ireland,,Obese,5.1
+2012/2013,All,Northern Ireland,,Obese,5.0
+2013/2014,All,Northern Ireland,,Obese,5.0
+2014/2015,All,Northern Ireland,,Obese,5.2
+2010/2011,Boys,Northern Ireland,,Obese,4.6
+2011/2012,Boys,Northern Ireland,,Obese,4.3
+2012/2013,Boys,Northern Ireland,,Obese,4.3
+2013/2014,Boys,Northern Ireland,,Obese,4.2
+2014/2015,Boys,Northern Ireland,,Obese,4.0
+2010/2011,Girls,Northern Ireland,,Obese,6.8
+2011/2012,Girls,Northern Ireland,,Obese,6.0
+2012/2013,Girls,Northern Ireland,,Obese,5.8
+2013/2014,Girls,Northern Ireland,,Obese,5.8
+2014/2015,Girls,Northern Ireland,,Obese,6.4
