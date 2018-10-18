@@ -1,210 +1,331 @@
 Year,Flow of Official Development Assistance (ODA),Aid Broad Category Description (DAC 5 Code),Aid Description (CRS Code),Value
-2009,Bilateral,,,273706.16
-2009,Bilateral,General health (121),Medical research (12182),20989.18
-2009,Bilateral,Basic health (122),,252716.98
-2009,Bilateral,Basic health (122),Basic health care (12220),58976.49
-2009,Bilateral,Basic health (122),Basic health infrastructure (12230),0
+2009,Bilateral,Basic health (122),Basic health care (12220),58976.49000000001
+2009,Bilateral,Basic health (122),Basic health infrastructure (12230),0.0
 2009,Bilateral,Basic health (122),Basic nutrition (12240),12419.67
-2009,Bilateral,Basic health (122),Infectious disease control (12250),118305.99
 2009,Bilateral,Basic health (122),Health education (12261),666.58
+2009,Bilateral,Basic health (122),Health personnel development (12281),1758.18
+2009,Bilateral,Basic health (122),Infectious disease control (12250),118305.99
 2009,Bilateral,Basic health (122),Malaria control (12262),42243.5
 2009,Bilateral,Basic health (122),Tuberculosis control (12263),18346.57
-2009,Bilateral,Basic health (122),Health personnel development (12281),1758.18
-2010,,,,557366.9698
-2010,,General health (121),Medical research (12182),56221.50573
-2010,,Basic health (122),,501145.464
-2010,,Basic health (122),Basic health care (12220),119110.0385
-2010,,Basic health (122),Basic health infrastructure (12230),2654.219109
-2010,,Basic health (122),Basic nutrition (12240),29889.85632
-2010,,Basic health (122),Infectious disease control (12250),80565.20262
-2010,,Basic health (122),Health education (12261),2049.219646
-2010,,Basic health (122),Malaria control (12262),187590.0476
-2010,,Basic health (122),Tuberculosis control (12263),73588.91329
-2010,,Basic health (122),Health personnel development (12281),5697.967002
-2010,Bilateral,,,324857.4027
-2010,Bilateral,General health (121),Medical research (12182),55607.68739
-2010,Bilateral,Basic health (122),,269249.7153
-2010,Bilateral,Basic health (122),Basic health care (12220),64840.53884
-2010,Bilateral,Basic health (122),Basic health infrastructure (12230),0
+2009,Bilateral,Basic health (122),,252716.98
+2009,Bilateral,"Health, general (121)",Health policy and administrative management (12110),119081.61
+2009,Bilateral,"Health, general (121)",Medical education/training (12181),0.0
+2009,Bilateral,"Health, general (121)",Medical research (12182),20989.18
+2009,Bilateral,"Health, general (121)",Medical services (12191),605.33
+2009,Bilateral,"Health, general (121)",,140676.12
+2009,Bilateral,,,393393.1
+2010,Bilateral,Basic health (122),Basic health care (12220),64840.53884000001
+2010,Bilateral,Basic health (122),Basic health infrastructure (12230),0.0
 2010,Bilateral,Basic health (122),Basic nutrition (12240),24688.3754
-2010,Bilateral,Basic health (122),Infectious disease control (12250),63523.59023
-2010,Bilateral,Basic health (122),Health education (12261),709.729
-2010,Bilateral,Basic health (122),Malaria control (12262),90481.61482
-2010,Bilateral,Basic health (122),Tuberculosis control (12263),21407.73111
+2010,Bilateral,Basic health (122),Health education (12261),709.7289999999999
 2010,Bilateral,Basic health (122),Health personnel development (12281),3598.13591
-2010,Multilateral,,,232509.5671
-2010,Multilateral,General health (121),Medical research (12182),613.8183407
-2010,Multilateral,Basic health (122),,231895.7487
-2010,Multilateral,Basic health (122),Basic health care (12220),54269.49962
-2010,Multilateral,Basic health (122),Basic health infrastructure (12230),2654.219109
-2010,Multilateral,Basic health (122),Basic nutrition (12240),5201.480919
-2010,Multilateral,Basic health (122),Infectious disease control (12250),17041.61239
-2010,Multilateral,Basic health (122),Health education (12261),1339.490646
-2010,Multilateral,Basic health (122),Malaria control (12262),97108.43277
-2010,Multilateral,Basic health (122),Tuberculosis control (12263),52181.18218
-2010,Multilateral,Basic health (122),Health personnel development (12281),2099.831092
-2011,,,,706506.8969
-2011,,General health (121),Medical research (12182),68483.1629
-2011,,Basic health (122),,638023.734
-2011,,Basic health (122),Basic health care (12220),225271.3278
-2011,,Basic health (122),Basic health infrastructure (12230),6941.348811
-2011,,Basic health (122),Basic nutrition (12240),37409.70421
-2011,,Basic health (122),Infectious disease control (12250),187033.5562
-2011,,Basic health (122),Health education (12261),3904.384996
-2011,,Basic health (122),Malaria control (12262),126915.3782
-2011,,Basic health (122),Tuberculosis control (12263),47049.15513
-2011,,Basic health (122),Health personnel development (12281),3498.878674
-2011,Bilateral,,,490791.7551
-2011,Bilateral,General health (121),Medical research (12182),67975.67052
-2011,Bilateral,Basic health (122),,422816.0846
-2011,Bilateral,Basic health (122),Basic health care (12220),138703.3964
+2010,Bilateral,Basic health (122),Infectious disease control (12250),63523.59023
+2010,Bilateral,Basic health (122),Malaria control (12262),90481.61482000002
+2010,Bilateral,Basic health (122),Tuberculosis control (12263),21407.73111
+2010,Bilateral,Basic health (122),,269249.71531
+2010,Bilateral,"Health, general (121)",Health policy and administrative management (12110),123280.400345
+2010,Bilateral,"Health, general (121)",Medical education/training (12181),0.0
+2010,Bilateral,"Health, general (121)",Medical research (12182),55607.68739
+2010,Bilateral,"Health, general (121)",Medical services (12191),0.0
+2010,Bilateral,"Health, general (121)",,178888.087735
+2010,Bilateral,,,448137.803045
+2010,Multilateral,Basic health (122),Basic health care (12220),54269.49962163876
+2010,Multilateral,Basic health (122),Basic health infrastructure (12230),2654.219109243995
+2010,Multilateral,Basic health (122),Basic nutrition (12240),5201.480919088096
+2010,Multilateral,Basic health (122),Health education (12261),1339.490646210399
+2010,Multilateral,Basic health (122),Health personnel development (12281),2099.831092229158
+2010,Multilateral,Basic health (122),Infectious disease control (12250),17041.6123910113
+2010,Multilateral,Basic health (122),Malaria control (12262),97108.43277424286
+2010,Multilateral,Basic health (122),Tuberculosis control (12263),52181.18218007809
+2010,Multilateral,Basic health (122),,231895.7487337427
+2010,Multilateral,"Health, general (121)",Health policy and administrative management (12110),54001.69603539629
+2010,Multilateral,"Health, general (121)",Medical education/training (12181),1875.036996576017
+2010,Multilateral,"Health, general (121)",Medical research (12182),613.8183407223771
+2010,Multilateral,"Health, general (121)",Medical services (12191),7313.340731427384
+2010,Multilateral,"Health, general (121)",,63803.89210412207
+2010,Multilateral,,,295699.6408378647
+2010,,Basic health (122),Basic health care (12220),119110.0384616388
+2010,,Basic health (122),Basic health infrastructure (12230),2654.219109243995
+2010,,Basic health (122),Basic nutrition (12240),29889.8563190881
+2010,,Basic health (122),Health education (12261),2049.219646210399
+2010,,Basic health (122),Health personnel development (12281),5697.967002229158
+2010,,Basic health (122),Infectious disease control (12250),80565.2026210113
+2010,,Basic health (122),Malaria control (12262),187590.0475942429
+2010,,Basic health (122),Tuberculosis control (12263),73588.91329007808
+2010,,Basic health (122),,501145.4640437426
+2010,,"Health, general (121)",Health policy and administrative management (12110),177282.0963803963
+2010,,"Health, general (121)",Medical education/training (12181),1875.036996576017
+2010,,"Health, general (121)",Medical research (12182),56221.50573072238
+2010,,"Health, general (121)",Medical services (12191),7313.340731427384
+2010,,"Health, general (121)",,242691.9798391221
+2010,,,,743837.4438828647
+2011,Bilateral,Basic health (122),Basic health care (12220),138703.39643
 2011,Bilateral,Basic health (122),Basic health infrastructure (12230),4002.99916
 2011,Bilateral,Basic health (122),Basic nutrition (12240),28402.90591
-2011,Bilateral,Basic health (122),Infectious disease control (12250),157545.3229
 2011,Bilateral,Basic health (122),Health education (12261),1947.94
-2011,Bilateral,Basic health (122),Malaria control (12262),75657.77398
-2011,Bilateral,Basic health (122),Tuberculosis control (12263),14601.9035
 2011,Bilateral,Basic health (122),Health personnel development (12281),1953.8427
-2011,Multilateral,,,215715.1418
-2011,Multilateral,General health (121),Medical research (12182),507.4923797
-2011,Multilateral,Basic health (122),,215207.6494
-2011,Multilateral,Basic health (122),Basic health care (12220),86567.93133
-2011,Multilateral,Basic health (122),Basic health infrastructure (12230),2938.349651
-2011,Multilateral,Basic health (122),Basic nutrition (12240),9006.798302
-2011,Multilateral,Basic health (122),Infectious disease control (12250),29488.23334
-2011,Multilateral,Basic health (122),Health education (12261),1956.444996
-2011,Multilateral,Basic health (122),Malaria control (12262),51257.6042
-2011,Multilateral,Basic health (122),Tuberculosis control (12263),32447.25163
-2011,Multilateral,Basic health (122),Health personnel development (12281),1545.035974
-2012,,,,799361.742
-2012,,General health (121),Medical research (12182),84163.13544
-2012,,Basic health (122),,715198.6066
-2012,,Basic health (122),Basic health care (12220),348535.5481
-2012,,Basic health (122),Basic health infrastructure (12230),2119.189607
-2012,,Basic health (122),Basic nutrition (12240),46763.08645
-2012,,Basic health (122),Infectious disease control (12250),133273.4687
-2012,,Basic health (122),Health education (12261),18519.68419
-2012,,Basic health (122),Malaria control (12262),135057.8024
-2012,,Basic health (122),Tuberculosis control (12263),26918.53546
-2012,,Basic health (122),Health personnel development (12281),4011.291713
-2012,Bilateral,,,557455.1557
-2012,Bilateral,General health (121),Medical research (12182),83954.07367
-2012,Bilateral,Basic health (122),,473501.082
-2012,Bilateral,Basic health (122),Basic health care (12220),203576.2414
-2012,Bilateral,Basic health (122),Basic health infrastructure (12230),0
-2012,Bilateral,Basic health (122),Basic nutrition (12240),40390.09455
-2012,Bilateral,Basic health (122),Infectious disease control (12250),111346.5383
+2011,Bilateral,Basic health (122),Infectious disease control (12250),157545.3229
+2011,Bilateral,Basic health (122),Malaria control (12262),75657.773975
+2011,Bilateral,Basic health (122),Tuberculosis control (12263),14601.903501
+2011,Bilateral,Basic health (122),,422816.084576
+2011,Bilateral,"Health, general (121)",Health policy and administrative management (12110),58793.27710200001
+2011,Bilateral,"Health, general (121)",Medical education/training (12181),472.883
+2011,Bilateral,"Health, general (121)",Medical research (12182),67975.67051899998
+2011,Bilateral,"Health, general (121)",Medical services (12191),665.71286
+2011,Bilateral,"Health, general (121)",,127907.543481
+2011,Bilateral,,,550723.628057
+2011,Multilateral,Basic health (122),Basic health care (12220),86567.93133132672
+2011,Multilateral,Basic health (122),Basic health infrastructure (12230),2938.34965149972
+2011,Multilateral,Basic health (122),Basic nutrition (12240),9006.798301868563
+2011,Multilateral,Basic health (122),Health education (12261),1956.444996219958
+2011,Multilateral,Basic health (122),Health personnel development (12281),1545.03597403084
+2011,Multilateral,Basic health (122),Infectious disease control (12250),29488.23333645811
+2011,Multilateral,Basic health (122),Malaria control (12262),51257.60419644845
+2011,Multilateral,Basic health (122),Tuberculosis control (12263),32447.25163164555
+2011,Multilateral,Basic health (122),,215207.6494194979
+2011,Multilateral,"Health, general (121)",Health policy and administrative management (12110),51459.31944863252
+2011,Multilateral,"Health, general (121)",Medical education/training (12181),1537.63783694936
+2011,Multilateral,"Health, general (121)",Medical research (12182),507.4923796519224
+2011,Multilateral,"Health, general (121)",Medical services (12191),6983.016265837252
+2011,Multilateral,"Health, general (121)",,60487.46593107105
+2011,Multilateral,,,275695.115350569
+2011,,Basic health (122),Basic health care (12220),225271.3277613267
+2011,,Basic health (122),Basic health infrastructure (12230),6941.348811499721
+2011,,Basic health (122),Basic nutrition (12240),37409.70421186856
+2011,,Basic health (122),Health education (12261),3904.384996219958
+2011,,Basic health (122),Health personnel development (12281),3498.87867403084
+2011,,Basic health (122),Infectious disease control (12250),187033.5562364581
+2011,,Basic health (122),Malaria control (12262),126915.3781714485
+2011,,Basic health (122),Tuberculosis control (12263),47049.15513264555
+2011,,Basic health (122),,638023.7339954979
+2011,,"Health, general (121)",Health policy and administrative management (12110),110252.5965506325
+2011,,"Health, general (121)",Medical education/training (12181),2010.52083694936
+2011,,"Health, general (121)",Medical research (12182),68483.1628986519
+2011,,"Health, general (121)",Medical services (12191),7648.729125837252
+2011,,"Health, general (121)",,188395.0094120711
+2011,,,,826418.7434075689
+2012,Bilateral,Basic health (122),Basic health care (12220),203576.24136
+2012,Bilateral,Basic health (122),Basic health infrastructure (12230),0.0
+2012,Bilateral,Basic health (122),Basic nutrition (12240),40390.09455000001
 2012,Bilateral,Basic health (122),Health education (12261),16836.427
-2012,Bilateral,Basic health (122),Malaria control (12262),92566.90632
-2012,Bilateral,Basic health (122),Tuberculosis control (12263),6876
 2012,Bilateral,Basic health (122),Health personnel development (12281),1908.87446
-2012,Multilateral,,,241906.5864
-2012,Multilateral,General health (121),Medical research (12182),209.0617706
-2012,Multilateral,Basic health (122),,241697.5246
-2012,Multilateral,Basic health (122),Basic health care (12220),144959.3067
-2012,Multilateral,Basic health (122),Basic health infrastructure (12230),2119.189607
-2012,Multilateral,Basic health (122),Basic nutrition (12240),6372.991901
-2012,Multilateral,Basic health (122),Infectious disease control (12250),21926.93041
-2012,Multilateral,Basic health (122),Health education (12261),1683.257186
-2012,Multilateral,Basic health (122),Malaria control (12262),42490.89609
-2012,Multilateral,Basic health (122),Tuberculosis control (12263),20042.53546
-2012,Multilateral,Basic health (122),Health personnel development (12281),2102.417253
-2013,,,,1450685.608
-2013,,General health (121),Medical research (12182),78140.60966
-2013,,Basic health (122),,1372544.998
-2013,,Basic health (122),Basic health care (12220),528294.708
-2013,,Basic health (122),Basic health infrastructure (12230),7240.71025
-2013,,Basic health (122),Basic nutrition (12240),79054.22616
-2013,,Basic health (122),Infectious disease control (12250),278341.7043
-2013,,Basic health (122),Health education (12261),29870.26492
-2013,,Basic health (122),Malaria control (12262),325694.2606
-2013,,Basic health (122),Tuberculosis control (12263),120678.7079
-2013,,Basic health (122),Health personnel development (12281),3370.41638
-2013,Bilateral,,,817519.8378
-2013,Bilateral,General health (121),Medical research (12182),77971.6937
-2013,Bilateral,Basic health (122),,739548.1441
-2013,Bilateral,Basic health (122),Basic health care (12220),231259.3714
-2013,Bilateral,Basic health (122),Basic health infrastructure (12230),0
-2013,Bilateral,Basic health (122),Basic nutrition (12240),66711.63067
-2013,Bilateral,Basic health (122),Infectious disease control (12250),224005.8562
-2013,Bilateral,Basic health (122),Health education (12261),27758.31464
-2013,Bilateral,Basic health (122),Malaria control (12262),175888.7767
-2013,Bilateral,Basic health (122),Tuberculosis control (12263),11747.8639
+2012,Bilateral,Basic health (122),Infectious disease control (12250),111346.5383
+2012,Bilateral,Basic health (122),Malaria control (12262),92566.90632000001
+2012,Bilateral,Basic health (122),Tuberculosis control (12263),6876.0
+2012,Bilateral,Basic health (122),,473501.0819899999
+2012,Bilateral,"Health, general (121)",Health policy and administrative management (12110),93756.17576800002
+2012,Bilateral,"Health, general (121)",Medical education/training (12181),0.0
+2012,Bilateral,"Health, general (121)",Medical research (12182),83954.07366849997
+2012,Bilateral,"Health, general (121)",Medical services (12191),0.0
+2012,Bilateral,"Health, general (121)",,177710.2494365
+2012,Bilateral,,,651211.3314264999
+2012,Multilateral,Basic health (122),Basic health care (12220),144959.3067038826
+2012,Multilateral,Basic health (122),Basic health infrastructure (12230),2119.189606840909
+2012,Multilateral,Basic health (122),Basic nutrition (12240),6372.991900736229
+2012,Multilateral,Basic health (122),Health education (12261),1683.25718557715
+2012,Multilateral,Basic health (122),Health personnel development (12281),2102.417253193104
+2012,Multilateral,Basic health (122),Infectious disease control (12250),21926.93041097183
+2012,Multilateral,Basic health (122),Malaria control (12262),42490.89609115753
+2012,Multilateral,Basic health (122),Tuberculosis control (12263),20042.53546019657
+2012,Multilateral,Basic health (122),,241697.5246125559
+2012,Multilateral,"Health, general (121)",Health policy and administrative management (12110),43407.85918875253
+2012,Multilateral,"Health, general (121)",Medical education/training (12181),2066.907796241401
+2012,Multilateral,"Health, general (121)",Medical research (12182),209.0617706470517
+2012,Multilateral,"Health, general (121)",Medical services (12191),5326.897992619021
+2012,Multilateral,"Health, general (121)",,51010.72674826
+2012,Multilateral,,,292708.2513608159
+2012,,Basic health (122),Basic health care (12220),348535.5480638825
+2012,,Basic health (122),Basic health infrastructure (12230),2119.189606840909
+2012,,Basic health (122),Basic nutrition (12240),46763.08645073623
+2012,,Basic health (122),Health education (12261),18519.68418557715
+2012,,Basic health (122),Health personnel development (12281),4011.291713193103
+2012,,Basic health (122),Infectious disease control (12250),133273.4687109718
+2012,,Basic health (122),Malaria control (12262),135057.8024111576
+2012,,Basic health (122),Tuberculosis control (12263),26918.53546019657
+2012,,Basic health (122),,715198.6066025557
+2012,,"Health, general (121)",Health policy and administrative management (12110),137164.0349567526
+2012,,"Health, general (121)",Medical education/training (12181),2066.907796241401
+2012,,"Health, general (121)",Medical research (12182),84163.13543914702
+2012,,"Health, general (121)",Medical services (12191),5326.897992619021
+2012,,"Health, general (121)",,228720.97618476
+2012,,,,943919.5827873158
+2013,Bilateral,Basic health (122),Basic health care (12220),231259.37136
+2013,Bilateral,Basic health (122),Basic health infrastructure (12230),0.0
+2013,Bilateral,Basic health (122),Basic nutrition (12240),66711.63066600001
+2013,Bilateral,Basic health (122),Health education (12261),27758.314643
 2013,Bilateral,Basic health (122),Health personnel development (12281),2176.33061
-2013,Multilateral,,,633165.7703
-2013,Multilateral,General health (121),Medical research (12182),168.9159554
-2013,Multilateral,Basic health (122),,632996.8544
-2013,Multilateral,Basic health (122),Basic health care (12220),297035.3367
-2013,Multilateral,Basic health (122),Basic health infrastructure (12230),7240.71025
-2013,Multilateral,Basic health (122),Basic nutrition (12240),12342.5955
-2013,Multilateral,Basic health (122),Infectious disease control (12250),54335.84802
-2013,Multilateral,Basic health (122),Health education (12261),2111.950275
-2013,Multilateral,Basic health (122),Malaria control (12262),149805.4839
-2013,Multilateral,Basic health (122),Tuberculosis control (12263),108930.844
-2013,Multilateral,Basic health (122),Health personnel development (12281),1194.08577
-2014,,,,1154229.863
-2014,,General health (121),Medical research (12182),67495.02564
-2014,,Basic health (122),,1086734.838
-2014,,Basic health (122),Basic health care (12220),495019.782
-2014,,Basic health (122),Basic health infrastructure (12230),6107.567305
-2014,,Basic health (122),Basic nutrition (12240),78094.47363
-2014,,Basic health (122),Infectious disease control (12250),160423.6289
-2014,,Basic health (122),Health education (12261),29131.92475
-2014,,Basic health (122),Malaria control (12262),243177.5118
-2014,,Basic health (122),Tuberculosis control (12263),66424.03555
-2014,,Basic health (122),Health personnel development (12281),8355.913676
-2014,Bilateral,,,652950.0299
-2014,Bilateral,General health (121),Medical research (12182),65927.24054
-2014,Bilateral,Basic health (122),,587022.7893
-2014,Bilateral,Basic health (122),Basic health care (12220),213535.5422
-2014,Bilateral,Basic health (122),Basic health infrastructure (12230),0
-2014,Bilateral,Basic health (122),Basic nutrition (12240),56217.93983
-2014,Bilateral,Basic health (122),Infectious disease control (12250),110386.616
+2013,Bilateral,Basic health (122),Infectious disease control (12250),224005.856233
+2013,Bilateral,Basic health (122),Malaria control (12262),175888.7766685
+2013,Bilateral,Basic health (122),Tuberculosis control (12263),11747.8639
+2013,Bilateral,Basic health (122),,739548.1440805
+2013,Bilateral,"Health, general (121)",Health policy and administrative management (12110),128934.2961
+2013,Bilateral,"Health, general (121)",Medical education/training (12181),0.0
+2013,Bilateral,"Health, general (121)",Medical research (12182),77971.69370250001
+2013,Bilateral,"Health, general (121)",Medical services (12191),0.0
+2013,Bilateral,"Health, general (121)",,206905.9898025
+2013,Bilateral,,,946454.133883
+2013,Multilateral,Basic health (122),Basic health care (12220),297035.3366513995
+2013,Multilateral,Basic health (122),Basic health infrastructure (12230),7240.710249526659
+2013,Multilateral,Basic health (122),Basic nutrition (12240),12342.59549552133
+2013,Multilateral,Basic health (122),Health education (12261),2111.950275001864
+2013,Multilateral,Basic health (122),Health personnel development (12281),1194.085770272914
+2013,Multilateral,Basic health (122),Infectious disease control (12250),54335.84801777704
+2013,Multilateral,Basic health (122),Malaria control (12262),149805.4838988248
+2013,Multilateral,Basic health (122),Tuberculosis control (12263),108930.8440199588
+2013,Multilateral,Basic health (122),,632996.8543782828
+2013,Multilateral,"Health, general (121)",Health policy and administrative management (12110),48403.70705710688
+2013,Multilateral,"Health, general (121)",Medical education/training (12181),1619.391235162281
+2013,Multilateral,"Health, general (121)",Medical research (12182),168.9159554499324
+2013,Multilateral,"Health, general (121)",Medical services (12191),4549.86009119131
+2013,Multilateral,"Health, general (121)",,54741.87433891041
+2013,Multilateral,,,687738.7287171932
+2013,,Basic health (122),Basic health care (12220),528294.7080113995
+2013,,Basic health (122),Basic health infrastructure (12230),7240.710249526659
+2013,,Basic health (122),Basic nutrition (12240),79054.22616152134
+2013,,Basic health (122),Health education (12261),29870.26491800186
+2013,,Basic health (122),Health personnel development (12281),3370.416380272914
+2013,,Basic health (122),Infectious disease control (12250),278341.7042507771
+2013,,Basic health (122),Malaria control (12262),325694.2605673247
+2013,,Basic health (122),Tuberculosis control (12263),120678.7079199588
+2013,,Basic health (122),,1372544.998458783
+2013,,"Health, general (121)",Health policy and administrative management (12110),177338.0031571069
+2013,,"Health, general (121)",Medical education/training (12181),1619.391235162281
+2013,,"Health, general (121)",Medical research (12182),78140.60965794994
+2013,,"Health, general (121)",Medical services (12191),4549.86009119131
+2013,,"Health, general (121)",,261647.8641414104
+2013,,,,1634192.862600193
+2014,Bilateral,Basic health (122),Basic health care (12220),213535.542227
+2014,Bilateral,Basic health (122),Basic health infrastructure (12230),0.0
+2014,Bilateral,Basic health (122),Basic nutrition (12240),56217.939831
 2014,Bilateral,Basic health (122),Health education (12261),26897.41192
-2014,Bilateral,Basic health (122),Malaria control (12262),152460.4986
-2014,Bilateral,Basic health (122),Tuberculosis control (12263),21255.74676
-2014,Bilateral,Basic health (122),Health personnel development (12281),6269.03408
-2014,Multilateral,,,501279.8335
-2014,Multilateral,General health (121),Medical research (12182),1567.785108
-2014,Multilateral,Basic health (122),,499712.0484
-2014,Multilateral,Basic health (122),Basic health care (12220),281484.2398
-2014,Multilateral,Basic health (122),Basic health infrastructure (12230),6107.567305
-2014,Multilateral,Basic health (122),Basic nutrition (12240),21876.53379
-2014,Multilateral,Basic health (122),Infectious disease control (12250),50037.01298
-2014,Multilateral,Basic health (122),Health education (12261),2234.512833
-2014,Multilateral,Basic health (122),Malaria control (12262),90717.01328
-2014,Multilateral,Basic health (122),Tuberculosis control (12263),45168.28879
-2014,Multilateral,Basic health (122),Health personnel development (12281),2086.879596
-2015,,,,960912.2836
-2015,,General health (121),Medical research (12182),87302.2315
-2015,,Basic health (122),,873610.0521
-2015,,Basic health (122),Basic health care (12220),407953.6882
-2015,,Basic health (122),Basic health infrastructure (12230),5604.820468
-2015,,Basic health (122),Basic nutrition (12240),88260.72278
-2015,,Basic health (122),Infectious disease control (12250),209459.9303
-2015,,Basic health (122),Health education (12261),6660.457294
-2015,,Basic health (122),Malaria control (12262),118435.9421
-2015,,Basic health (122),Tuberculosis control (12263),30468.13412
-2015,,Basic health (122),Health personnel development (12281),6766.356912
-2015,Bilateral,,,525954.938
-2015,Bilateral,General health (121),Medical research (12182),85626.42072
-2015,Bilateral,Basic health (122),,440328.5173
-2015,Bilateral,Basic health (122),Basic health care (12220),140931.6606
+2014,Bilateral,Basic health (122),Health personnel development (12281),6269.034079999999
+2014,Bilateral,Basic health (122),Infectious disease control (12250),110386.6159545
+2014,Bilateral,Basic health (122),Malaria control (12262),152460.498565
+2014,Bilateral,Basic health (122),Tuberculosis control (12263),21255.746763
+2014,Bilateral,Basic health (122),,587022.7893405001
+2014,Bilateral,"Health, general (121)",Health policy and administrative management (12110),100578.287079
+2014,Bilateral,"Health, general (121)",Medical education/training (12181),0.0
+2014,Bilateral,"Health, general (121)",Medical research (12182),65927.240535
+2014,Bilateral,"Health, general (121)",Medical services (12191),0.0
+2014,Bilateral,"Health, general (121)",,166505.527614
+2014,Bilateral,,,753528.3169545002
+2014,Multilateral,Basic health (122),Basic health care (12220),281484.2398133482
+2014,Multilateral,Basic health (122),Basic health infrastructure (12230),6107.567304890251
+2014,Multilateral,Basic health (122),Basic nutrition (12240),21876.53379453547
+2014,Multilateral,Basic health (122),Health education (12261),2234.51283281844
+2014,Multilateral,Basic health (122),Health personnel development (12281),2086.879596082359
+2014,Multilateral,Basic health (122),Infectious disease control (12250),50037.01297602711
+2014,Multilateral,Basic health (122),Malaria control (12262),90717.01328079824
+2014,Multilateral,Basic health (122),Tuberculosis control (12263),45168.28878914682
+2014,Multilateral,Basic health (122),,499712.0483876469
+2014,Multilateral,"Health, general (121)",Health policy and administrative management (12110),58110.47415323193
+2014,Multilateral,"Health, general (121)",Medical education/training (12181),1982.477818112141
+2014,Multilateral,"Health, general (121)",Medical research (12182),1567.785107616014
+2014,Multilateral,"Health, general (121)",Medical services (12191),5048.019348488695
+2014,Multilateral,"Health, general (121)",,66708.75642744878
+2014,Multilateral,,,566420.8048150957
+2014,,Basic health (122),Basic health care (12220),495019.7820403482
+2014,,Basic health (122),Basic health infrastructure (12230),6107.567304890251
+2014,,Basic health (122),Basic nutrition (12240),78094.47362553548
+2014,,Basic health (122),Health education (12261),29131.92475281844
+2014,,Basic health (122),Health personnel development (12281),8355.913676082359
+2014,,Basic health (122),Infectious disease control (12250),160423.6289305271
+2014,,Basic health (122),Malaria control (12262),243177.5118457982
+2014,,Basic health (122),Tuberculosis control (12263),66424.03555214682
+2014,,Basic health (122),,1086734.837728147
+2014,,"Health, general (121)",Health policy and administrative management (12110),158688.7612322319
+2014,,"Health, general (121)",Medical education/training (12181),1982.477818112141
+2014,,"Health, general (121)",Medical research (12182),67495.02564261602
+2014,,"Health, general (121)",Medical services (12191),5048.019348488695
+2014,,"Health, general (121)",,233214.2840414488
+2014,,,,1319949.121769596
+2015,Bilateral,Basic health (122),Basic health care (12220),140931.660648
 2015,Bilateral,Basic health (122),Basic health infrastructure (12230),7.953
 2015,Bilateral,Basic health (122),Basic nutrition (12240),69424.44412
-2015,Bilateral,Basic health (122),Infectious disease control (12250),119103.0491
-2015,Bilateral,Basic health (122),Health education (12261),4513.6095
-2015,Bilateral,Basic health (122),Malaria control (12262),88027.33172
-2015,Bilateral,Basic health (122),Tuberculosis control (12263),14232.01489
+2015,Bilateral,Basic health (122),Health education (12261),18887.7955
 2015,Bilateral,Basic health (122),Health personnel development (12281),4088.45425
-2015,Multilateral,,,434957.3456
-2015,Multilateral,General health (121),Medical research (12182),1675.810783
-2015,Multilateral,Basic health (122),,433281.5348
-2015,Multilateral,Basic health (122),Basic health care (12220),267022.0275
-2015,Multilateral,Basic health (122),Basic health infrastructure (12230),5596.867468
-2015,Multilateral,Basic health (122),Basic nutrition (12240),18836.27866
-2015,Multilateral,Basic health (122),Infectious disease control (12250),90356.88115
-2015,Multilateral,Basic health (122),Health education (12261),2146.847794
-2015,Multilateral,Basic health (122),Malaria control (12262),30408.61035
-2015,Multilateral,Basic health (122),Tuberculosis control (12263),16236.11923
-2015,Multilateral,Basic health (122),Health personnel development (12281),2677.902662
+2015,Bilateral,Basic health (122),Infectious disease control (12250),119103.049125
+2015,Bilateral,Basic health (122),Malaria control (12262),88027.33172300001
+2015,Bilateral,Basic health (122),Tuberculosis control (12263),14232.014886
+2015,Bilateral,Basic health (122),,454702.703252
+2015,Bilateral,"Health, general (121)",Health policy and administrative management (12110),104513.81847
+2015,Bilateral,"Health, general (121)",Medical education/training (12181),9.424
+2015,Bilateral,"Health, general (121)",Medical research (12182),85626.420715
+2015,Bilateral,"Health, general (121)",Medical services (12191),1534.772441
+2015,Bilateral,"Health, general (121)",,191684.435626
+2015,Bilateral,,,646387.138878
+2015,Multilateral,Basic health (122),Basic health care (12220),267022.0275092848
+2015,Multilateral,Basic health (122),Basic health infrastructure (12230),5596.867468071673
+2015,Multilateral,Basic health (122),Basic nutrition (12240),18836.27866174817
+2015,Multilateral,Basic health (122),Health education (12261),2146.847794212866
+2015,Multilateral,Basic health (122),Health personnel development (12281),2677.90266194294
+2015,Multilateral,Basic health (122),Infectious disease control (12250),90356.88114729471
+2015,Multilateral,Basic health (122),Malaria control (12262),30408.61035477983
+2015,Multilateral,Basic health (122),Tuberculosis control (12263),16236.11923180929
+2015,Multilateral,Basic health (122),,433281.5348291442
+2015,Multilateral,"Health, general (121)",Health policy and administrative management (12110),39965.22960372757
+2015,Multilateral,"Health, general (121)",Medical education/training (12181),1346.438098893055
+2015,Multilateral,"Health, general (121)",Medical research (12182),1675.81078277264
+2015,Multilateral,"Health, general (121)",Medical services (12191),7365.828622606192
+2015,Multilateral,"Health, general (121)",,50353.30710799946
+2015,Multilateral,,,483634.8419371437
+2015,,Basic health (122),Basic health care (12220),407953.6881572848
+2015,,Basic health (122),Basic health infrastructure (12230),5604.820468071674
+2015,,Basic health (122),Basic nutrition (12240),88260.72278174816
+2015,,Basic health (122),Health education (12261),21034.64329421287
+2015,,Basic health (122),Health personnel development (12281),6766.35691194294
+2015,,Basic health (122),Infectious disease control (12250),209459.9302722947
+2015,,Basic health (122),Malaria control (12262),118435.9420777799
+2015,,Basic health (122),Tuberculosis control (12263),30468.13411780929
+2015,,Basic health (122),,887984.2380811443
+2015,,"Health, general (121)",Health policy and administrative management (12110),144479.0480737276
+2015,,"Health, general (121)",Medical education/training (12181),1355.862098893055
+2015,,"Health, general (121)",Medical research (12182),87302.23149777263
+2015,,"Health, general (121)",Medical services (12191),8900.601063606193
+2015,,"Health, general (121)",,242037.7427339994
+2015,,,,1130021.980815144
+2016,Bilateral,Basic health (122),Basic health care (12220),141966.708188
+2016,Bilateral,Basic health (122),Basic health infrastructure (12230),15.90846
+2016,Bilateral,Basic health (122),Basic nutrition (12240),114316.127664
+2016,Bilateral,Basic health (122),Health education (12261),16274.066902
+2016,Bilateral,Basic health (122),Health personnel development (12281),3077.159446
+2016,Bilateral,Basic health (122),Infectious disease control (12250),110235.0889542
+2016,Bilateral,Basic health (122),Malaria control (12262),99182.5289368
+2016,Bilateral,Basic health (122),Tuberculosis control (12263),5478.806230000001
+2016,Bilateral,Basic health (122),,490546.3947810003
+2016,Bilateral,"Health, general (121)",Health policy and administrative management (12110),109435.83616
+2016,Bilateral,"Health, general (121)",Medical education/training (12181),79.94959000000001
+2016,Bilateral,"Health, general (121)",Medical research (12182),102685.8240600001
+2016,Bilateral,"Health, general (121)",Medical services (12191),1552.507284
+2016,Bilateral,"Health, general (121)",,213754.1170939999
+2016,Bilateral,,,704300.5118750003
+2016,Multilateral,Basic health (122),Basic health care (12220),207914.9806860496
+2016,Multilateral,Basic health (122),Basic health infrastructure (12230),9922.586787484626
+2016,Multilateral,Basic health (122),Basic nutrition (12240),28425.8220594552
+2016,Multilateral,Basic health (122),Health education (12261),1653.740212372057
+2016,Multilateral,Basic health (122),Health personnel development (12281),1611.961193877133
+2016,Multilateral,Basic health (122),Infectious disease control (12250),52176.47458831086
+2016,Multilateral,Basic health (122),Malaria control (12262),49056.49805030736
+2016,Multilateral,Basic health (122),Tuberculosis control (12263),29179.08092496357
+2016,Multilateral,Basic health (122),,379941.1445028204
+2016,Multilateral,"Health, general (121)",Health policy and administrative management (12110),48993.90139670069
+2016,Multilateral,"Health, general (121)",Medical education/training (12181),2234.024430570592
+2016,Multilateral,"Health, general (121)",Medical research (12182),1684.18190374447
+2016,Multilateral,"Health, general (121)",Medical services (12191),7798.703136205808
+2016,Multilateral,"Health, general (121)",,60710.81086722156
+2016,Multilateral,,,440651.955370042
+2016,,Basic health (122),Basic health care (12220),349881.6888740496
+2016,,Basic health (122),Basic health infrastructure (12230),9938.495247484627
+2016,,Basic health (122),Basic nutrition (12240),142741.9497234552
+2016,,Basic health (122),Health education (12261),17927.80711437206
+2016,,Basic health (122),Health personnel development (12281),4689.120639877133
+2016,,Basic health (122),Infectious disease control (12250),162411.5635425108
+2016,,Basic health (122),Malaria control (12262),148239.0269871074
+2016,,Basic health (122),Tuberculosis control (12263),34657.88715496357
+2016,,Basic health (122),,870487.5392838208
+2016,,"Health, general (121)",Health policy and administrative management (12110),158429.7375567007
+2016,,"Health, general (121)",Medical education/training (12181),2313.974020570592
+2016,,"Health, general (121)",Medical research (12182),104370.0059637445
+2016,,"Health, general (121)",Medical services (12191),9351.210420205807
+2016,,"Health, general (121)",,274464.9279612215
+2016,,,,1144952.467245042
