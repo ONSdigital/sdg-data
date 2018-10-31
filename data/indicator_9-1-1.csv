@@ -1,4 +1,4 @@
-Year,Country,LSOA,Road type,GeoCode,Value
+Year,Country,Local Authority,Road type,GeoCode,Value
 2011/15,England,,,E92000001,99.91
 2011/15,England,Hartlepool,,E06000001,99.7371045
 2011/15,England,Middlesbrough,,E06000002,100
@@ -1965,28 +1965,28 @@ Year,Country,LSOA,Road type,GeoCode,Value
 2011/15,Wales,Newport,B-road,W06000022,94
 2011/15,Wales,Powys,B-road,W06000023,74
 2011/15,Wales,Merthyr Tydfil,B-road,W06000024,61
-2011/15,Wales,Isle of Anglesey,Classified Road,W06000001,100
-2011/15,Wales,Gwynedd,Classified Road,W06000002,99
-2011/15,Wales,Conwy,Classified Road,W06000003,100
-2011/15,Wales,Denbighshire,Classified Road,W06000004,100
-2011/15,Wales,Flintshire,Classified Road,W06000005,95
-2011/15,Wales,Wrexham,Classified Road,W06000006,100
-2011/15,Wales,Ceredigion,Classified Road,W06000008,100
-2011/15,Wales,Pembrokeshire,Classified Road,W06000009,99
-2011/15,Wales,Carmarthenshire,Classified Road,W06000010,100
-2011/15,Wales,Swansea,Classified Road,W06000011,98
-2011/15,Wales,Neath Port Talbot,Classified Road,W06000012,97
-2011/15,Wales,Bridgend,Classified Road,W06000013,98
-2011/15,Wales,Vale of Glamorgan,Classified Road,W06000014,99
-2011/15,Wales,Cardiff,Classified Road,W06000015,100
-2011/15,Wales,Rhondda Cynon Taf,Classified Road,W06000016,96
-2011/15,Wales,Caerphilly,Classified Road,W06000018,100
-2011/15,Wales,Blaenau Gwent,Classified Road,W06000019,100
-2011/15,Wales,Torfaen,Classified Road,W06000020,99
-2011/15,Wales,Monmouthshire,Classified Road,W06000021,100
-2011/15,Wales,Newport,Classified Road,W06000022,100
-2011/15,Wales,Powys,Classified Road,W06000023,99
-2011/15,Wales,Merthyr Tydfil,Classified Road,W06000024,100
+2011/15,Wales,Isle of Anglesey,Classified road,W06000001,100
+2011/15,Wales,Gwynedd,Classified road,W06000002,99
+2011/15,Wales,Conwy,Classified road,W06000003,100
+2011/15,Wales,Denbighshire,Classified road,W06000004,100
+2011/15,Wales,Flintshire,Classified road,W06000005,95
+2011/15,Wales,Wrexham,Classified road,W06000006,100
+2011/15,Wales,Ceredigion,Classified road,W06000008,100
+2011/15,Wales,Pembrokeshire,Classified road,W06000009,99
+2011/15,Wales,Carmarthenshire,Classified road,W06000010,100
+2011/15,Wales,Swansea,Classified road,W06000011,98
+2011/15,Wales,Neath Port Talbot,Classified road,W06000012,97
+2011/15,Wales,Bridgend,Classified road,W06000013,98
+2011/15,Wales,Vale of Glamorgan,Classified road,W06000014,99
+2011/15,Wales,Cardiff,Classified road,W06000015,100
+2011/15,Wales,Rhondda Cynon Taf,Classified road,W06000016,96
+2011/15,Wales,Caerphilly,Classified road,W06000018,100
+2011/15,Wales,Blaenau Gwent,Classified road,W06000019,100
+2011/15,Wales,Torfaen,Classified road,W06000020,99
+2011/15,Wales,Monmouthshire,Classified road,W06000021,100
+2011/15,Wales,Newport,Classified road,W06000022,100
+2011/15,Wales,Powys,Classified road,W06000023,99
+2011/15,Wales,Merthyr Tydfil,Classified road,W06000024,100
 2011/15,Wales,Isle of Anglesey,Unclassified road,W06000001,99
 2011/15,Wales,Gwynedd,Unclassified road,W06000002,99
 2011/15,Wales,Conwy,Unclassified road,W06000003,99
@@ -2138,38 +2138,38 @@ Year,Country,LSOA,Road type,GeoCode,Value
 2011/15,Scotland,North Lanarkshire,B-road,S12000044,93.7607673
 2011/15,Scotland,East Dunbartonshire,B-road,S12000045,99.0496034
 2011/15,Scotland,Glasgow City,B-road,S12000046,100
-2011/15,Scotland,Clackmannanshire,Classified Road,S12000005,99.9416876
-2011/15,Scotland,Dumfries and Galloway,Classified Road,S12000006,99.1622062
-2011/15,Scotland,East Ayrshire,Classified Road,S12000008,99.8327126
-2011/15,Scotland,East Lothian,Classified Road,S12000010,100
-2011/15,Scotland,East Renfrewshire,Classified Road,S12000011,100
-2011/15,Scotland,Na h-Eileanan Siar,Classified Road,S12000013,97.2552137
-2011/15,Scotland,Falkirk,Classified Road,S12000014,99.9797796
-2011/15,Scotland,Fife,Classified Road,S12000015,99.8138644
-2011/15,Scotland,Highland,Classified Road,S12000017,96.1025972
-2011/15,Scotland,Inverclyde,Classified Road,S12000018,99.7229077
-2011/15,Scotland,Midlothian,Classified Road,S12000019,100
-2011/15,Scotland,Moray,Classified Road,S12000020,99.0197557
-2011/15,Scotland,North Ayrshire,Classified Road,S12000021,95.6407348
-2011/15,Scotland,Orkney Islands,Classified Road,S12000023,99.8762167
-2011/15,Scotland,Perth and Kinross,Classified Road,S12000024,95.1569304
-2011/15,Scotland,Scottish Borders,Classified Road,S12000026,98.98958
-2011/15,Scotland,Shetland Islands,Classified Road,S12000027,99.0644013
-2011/15,Scotland,South Ayrshire,Classified Road,S12000028,99.6838475
-2011/15,Scotland,South Lanarkshire,Classified Road,S12000029,97.4601083
-2011/15,Scotland,Stirling,Classified Road,S12000030,94.459899
-2011/15,Scotland,Aberdeen City,Classified Road,S12000033,99.8988951
-2011/15,Scotland,Aberdeenshire,Classified Road,S12000034,99.6882402
-2011/15,Scotland,Argyll and Bute,Classified Road,S12000035,91.7588213
-2011/15,Scotland,City of Edinburgh,Classified Road,S12000036,100
-2011/15,Scotland,Renfrewshire,Classified Road,S12000038,96.8366672
-2011/15,Scotland,West Dunbartonshire,Classified Road,S12000039,91.7861596
-2011/15,Scotland,West Lothian,Classified Road,S12000040,99.9395311
-2011/15,Scotland,Angus,Classified Road,S12000041,99.9517423
-2011/15,Scotland,Dundee City,Classified Road,S12000042,100
-2011/15,Scotland,North Lanarkshire,Classified Road,S12000044,99.6262304
-2011/15,Scotland,East Dunbartonshire,Classified Road,S12000045,93.438608
-2011/15,Scotland,Glasgow City,Classified Road,S12000046,100
+2011/15,Scotland,Clackmannanshire,Classified road,S12000005,99.9416876
+2011/15,Scotland,Dumfries and Galloway,Classified road,S12000006,99.1622062
+2011/15,Scotland,East Ayrshire,Classified road,S12000008,99.8327126
+2011/15,Scotland,East Lothian,Classified road,S12000010,100
+2011/15,Scotland,East Renfrewshire,Classified road,S12000011,100
+2011/15,Scotland,Na h-Eileanan Siar,Classified road,S12000013,97.2552137
+2011/15,Scotland,Falkirk,Classified road,S12000014,99.9797796
+2011/15,Scotland,Fife,Classified road,S12000015,99.8138644
+2011/15,Scotland,Highland,Classified road,S12000017,96.1025972
+2011/15,Scotland,Inverclyde,Classified road,S12000018,99.7229077
+2011/15,Scotland,Midlothian,Classified road,S12000019,100
+2011/15,Scotland,Moray,Classified road,S12000020,99.0197557
+2011/15,Scotland,North Ayrshire,Classified road,S12000021,95.6407348
+2011/15,Scotland,Orkney Islands,Classified road,S12000023,99.8762167
+2011/15,Scotland,Perth and Kinross,Classified road,S12000024,95.1569304
+2011/15,Scotland,Scottish Borders,Classified road,S12000026,98.98958
+2011/15,Scotland,Shetland Islands,Classified road,S12000027,99.0644013
+2011/15,Scotland,South Ayrshire,Classified road,S12000028,99.6838475
+2011/15,Scotland,South Lanarkshire,Classified road,S12000029,97.4601083
+2011/15,Scotland,Stirling,Classified road,S12000030,94.459899
+2011/15,Scotland,Aberdeen City,Classified road,S12000033,99.8988951
+2011/15,Scotland,Aberdeenshire,Classified road,S12000034,99.6882402
+2011/15,Scotland,Argyll and Bute,Classified road,S12000035,91.7588213
+2011/15,Scotland,City of Edinburgh,Classified road,S12000036,100
+2011/15,Scotland,Renfrewshire,Classified road,S12000038,96.8366672
+2011/15,Scotland,West Dunbartonshire,Classified road,S12000039,91.7861596
+2011/15,Scotland,West Lothian,Classified road,S12000040,99.9395311
+2011/15,Scotland,Angus,Classified road,S12000041,99.9517423
+2011/15,Scotland,Dundee City,Classified road,S12000042,100
+2011/15,Scotland,North Lanarkshire,Classified road,S12000044,99.6262304
+2011/15,Scotland,East Dunbartonshire,Classified road,S12000045,93.438608
+2011/15,Scotland,Glasgow City,Classified road,S12000046,100
 2011/15,Scotland,Clackmannanshire,Unclassified road,S12000005,100
 2011/15,Scotland,Dumfries and Galloway,Unclassified road,S12000006,97.6710048
 2011/15,Scotland,East Ayrshire,Unclassified road,S12000008,99.388241
