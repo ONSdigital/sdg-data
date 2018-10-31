@@ -1,7 +1,2271 @@
-"Year","Group","Value"
-2015,"A",1
-2015,"B",3
-2015,,2
-2016,"A",1
-2016,"B",3
-2016,,2
+Year,Country,LSOA,Road type,Geocode,Value
+2011/15,England,,,E92000001,99.91
+2011/15,England,Hartlepool,,E06000001,99.7371045
+2011/15,England,Middlesbrough,,E06000002,100
+2011/15,England,Redcar and Cleveland,,E06000003,99.9387294
+2011/15,England,Stockton-on-Tees,,E06000004,100
+2011/15,England,Darlington,,E06000005,99.8991623
+2011/15,England,Halton,,E06000006,100
+2011/15,England,Warrington,,E06000007,100
+2011/15,England,Blackburn with Darwen,,E06000008,99.862202
+2011/15,England,Blackpool,,E06000009,100
+2011/15,England,East Riding of Yorkshire,,E06000011,99.8744097
+2011/15,England,North East Lincolnshire,,E06000012,99.4885576
+2011/15,England,North Lincolnshire,,E06000013,99.774682
+2011/15,England,York,,E06000014,98.7478026
+2011/15,England,Rutland,,E06000017,100
+2011/15,England,"Herefordshire, County of",,E06000019,99.9369397
+2011/15,England,Telford and Wrekin,,E06000020,100
+2011/15,England,Stoke-on-Trent,,E06000021,100
+2011/15,England,Bath and North East Somerset,,E06000022,100
+2011/15,England,North Somerset,,E06000024,100
+2011/15,England,South Gloucestershire,,E06000025,100
+2011/15,England,Torbay,,E06000027,100
+2011/15,England,Poole,,E06000029,100
+2011/15,England,Swindon,,E06000030,100
+2011/15,England,Peterborough,,E06000031,100
+2011/15,England,Thurrock,,E06000034,100
+2011/15,England,Medway,,E06000035,100
+2011/15,England,Bracknell Forest,,E06000036,100
+2011/15,England,West Berkshire,,E06000037,99.9049056
+2011/15,England,Windsor and Maidenhead,,E06000040,99.0534268
+2011/15,England,Wokingham,,E06000041,100
+2011/15,England,Milton Keynes,,E06000042,99.6961772
+2011/15,England,Brighton and Hove,,E06000043,100
+2011/15,England,Isle of Wight,,E06000046,99.9549926
+2011/15,England,County Durham,,E06000047,99.8327712
+2011/15,England,,,E06000048,99.6295304
+2011/15,England,Cheshire East,,E06000049,99.98738
+2011/15,England,Cheshire West and Chester,,E06000050,99.944193
+2011/15,England,Shropshire,,E06000051,100
+2011/15,England,Cornwall,,E06000052,100
+2011/15,England,Isles of Scilly,,E06000053,100
+2011/15,England,Wiltshire,,E06000054,99.9545819
+2011/15,England,Bedford,,E06000055,100
+2011/15,England,Central Bedfordshire,,E06000056,100
+2011/15,England,Aylesbury Vale,,E07000004,99.777233
+2011/15,England,Chiltern,,E07000005,100
+2011/15,England,South Bucks,,E07000006,100
+2011/15,England,Wycombe,,E07000007,100
+2011/15,England,Cambridge,,E07000008,100
+2011/15,England,East Cambridgeshire,,E07000009,99.956106
+2011/15,England,Fenland,,E07000010,99.8596439
+2011/15,England,Huntingdonshire,,E07000011,99.6668798
+2011/15,England,South Cambridgeshire,,E07000012,99.9312845
+2011/15,England,Allerdale,,E07000026,99.6637661
+2011/15,England,Barrow-in-Furness,,E07000027,100
+2011/15,England,Carlisle,,E07000028,99.9444396
+2011/15,England,Copeland,,E07000029,99.8435635
+2011/15,England,Eden,,E07000030,98.7615689
+2011/15,England,South Lakeland,,E07000031,99.7170294
+2011/15,England,Amber Valley,,E07000032,100
+2011/15,England,Bolsover,,E07000033,100
+2011/15,England,Chesterfield,,E07000034,100
+2011/15,England,Derbyshire Dales,,E07000035,100
+2011/15,England,Erewash,,E07000036,100
+2011/15,England,High Peak,,E07000037,99.8391795
+2011/15,England,North East Derbyshire,,E07000038,98.4174958
+2011/15,England,South Derbyshire,,E07000039,100
+2011/15,England,East Devon,,E07000040,100
+2011/15,England,Exeter,,E07000041,100
+2011/15,England,Mid Devon,,E07000042,100
+2011/15,England,North Devon,,E07000043,100
+2011/15,England,South Hams,,E07000044,99.868453
+2011/15,England,Teignbridge,,E07000045,100
+2011/15,England,Torridge,,E07000046,99.9599405
+2011/15,England,West Devon,,E07000047,99.8432455
+2011/15,England,Christchurch,,E07000048,100
+2011/15,England,East Dorset,,E07000049,100
+2011/15,England,North Dorset,,E07000050,100
+2011/15,England,Purbeck,,E07000051,99.9525374
+2011/15,England,West Dorset,,E07000052,100
+2011/15,England,Weymouth and Portland,,E07000053,100
+2011/15,England,Lewes,,E07000063,96.6842747
+2011/15,England,Rother,,E07000064,99.9853658
+2011/15,England,Wealden,,E07000065,100
+2011/15,England,Basildon,,E07000066,100
+2011/15,England,Braintree,,E07000067,100
+2011/15,England,Brentwood,,E07000068,100
+2011/15,England,Chelmsford,,E07000070,100
+2011/15,England,Colchester,,E07000071,100
+2011/15,England,Epping Forest,,E07000072,99.9779903
+2011/15,England,Maldon,,E07000074,99.9556989
+2011/15,England,Rochford,,E07000075,98.672409
+2011/15,England,Tendring,,E07000076,99.7751665
+2011/15,England,Uttlesford,,E07000077,100
+2011/15,England,Cotswold,,E07000079,100
+2011/15,England,Forest of Dean,,E07000080,99.8863677
+2011/15,England,Stroud,,E07000082,99.9236829
+2011/15,England,Tewkesbury,,E07000083,100
+2011/15,England,Basingstoke and Deane,,E07000084,100
+2011/15,England,East Hampshire,,E07000085,100
+2011/15,England,Eastleigh,,E07000086,100
+2011/15,England,Fareham,,E07000087,100
+2011/15,England,Hart,,E07000089,100
+2011/15,England,Havant,,E07000090,100
+2011/15,England,New Forest,,E07000091,99.9611211
+2011/15,England,Rushmoor,,E07000092,100
+2011/15,England,Test Valley,,E07000093,100
+2011/15,England,Winchester,,E07000094,100
+2011/15,England,Broxbourne,,E07000095,100
+2011/15,England,Dacorum,,E07000096,100
+2011/15,England,,,E07000097,100
+2011/15,England,Hertsmere,,E07000098,100
+2011/15,England,North Hertfordshire,,E07000099,100
+2011/15,England,,,E07000100,100
+2011/15,England,Three Rivers,,E07000102,100
+2011/15,England,,,E07000104,100
+2011/15,England,Ashford,,E07000105,99.9805064
+2011/15,England,Canterbury,,E07000106,100
+2011/15,England,Dartford,,E07000107,100
+2011/15,England,Dover,,E07000108,100
+2011/15,England,Gravesham,,E07000109,100
+2011/15,England,Maidstone,,E07000110,100
+2011/15,England,Sevenoaks,,E07000111,100
+2011/15,England,Shepway,,E07000112,99.8876773
+2011/15,England,Swale,,E07000113,99.8510199
+2011/15,England,Thanet,,E07000114,100
+2011/15,England,Tonbridge and Malling,,E07000115,100
+2011/15,England,Tunbridge Wells,,E07000116,100
+2011/15,England,Burnley,,E07000117,100
+2011/15,England,Chorley,,E07000118,100
+2011/15,England,Fylde,,E07000119,100
+2011/15,England,Hyndburn,,E07000120,100
+2011/15,England,Lancaster,,E07000121,100
+2011/15,England,Pendle,,E07000122,100
+2011/15,England,Preston,,E07000123,100
+2011/15,England,Ribble Valley,,E07000124,99.9589838
+2011/15,England,Rossendale,,E07000125,100
+2011/15,England,South Ribble,,E07000126,100
+2011/15,England,West Lancashire,,E07000127,100
+2011/15,England,Wyre,,E07000128,100
+2011/15,England,Blaby,,E07000129,100
+2011/15,England,Charnwood,,E07000130,100
+2011/15,England,Harborough,,E07000131,100
+2011/15,England,Hinckley and Bosworth,,E07000132,100
+2011/15,England,Melton,,E07000133,100
+2011/15,England,North West Leicestershire,,E07000134,100
+2011/15,England,Boston,,E07000136,100
+2011/15,England,East Lindsey,,E07000137,99.9242521
+2011/15,England,North Kesteven,,E07000139,100
+2011/15,England,South Holland,,E07000140,99.5422418
+2011/15,England,South Kesteven,,E07000141,100
+2011/15,England,West Lindsey,,E07000142,99.5697734
+2011/15,England,Breckland,,E07000143,99.9870789
+2011/15,England,Broadland,,E07000144,100
+2011/15,England,Great Yarmouth,,E07000145,100
+2011/15,England,King's Lynn and West Norfolk,,E07000146,99.980101
+2011/15,England,North Norfolk,,E07000147,99.937157
+2011/15,England,South Norfolk,,E07000149,100
+2011/15,England,Corby,,E07000150,99.8562923
+2011/15,England,Daventry,,E07000151,100
+2011/15,England,East Northamptonshire,,E07000152,99.9960334
+2011/15,England,Kettering,,E07000153,100
+2011/15,England,Northampton,,E07000154,100
+2011/15,England,South Northamptonshire,,E07000155,99.9389856
+2011/15,England,Wellingborough,,E07000156,99.8379951
+2011/15,England,Craven,,E07000163,99.7769603
+2011/15,England,Hambleton,,E07000164,99.7916346
+2011/15,England,Harrogate,,E07000165,99.922144
+2011/15,England,Richmondshire,,E07000166,99.8680578
+2011/15,England,Ryedale,,E07000167,99.7771642
+2011/15,England,Scarborough,,E07000168,99.8230705
+2011/15,England,Selby,,E07000169,99.998213
+2011/15,England,Ashfield,,E07000170,100
+2011/15,England,Bassetlaw,,E07000171,99.8626033
+2011/15,England,Broxtowe,,E07000172,100
+2011/15,England,Gedling,,E07000173,99.8849608
+2011/15,England,Mansfield,,E07000174,100
+2011/15,England,Newark and Sherwood,,E07000175,99.835856
+2011/15,England,Rushcliffe,,E07000176,100
+2011/15,England,Cherwell,,E07000177,99.859822
+2011/15,England,Oxford,,E07000178,100
+2011/15,England,South Oxfordshire,,E07000179,100
+2011/15,England,Vale of White Horse,,E07000180,99.5972854
+2011/15,England,West Oxfordshire,,E07000181,100
+2011/15,England,Mendip,,E07000187,100
+2011/15,England,Sedgemoor,,E07000188,100
+2011/15,England,South Somerset,,E07000189,100
+2011/15,England,Taunton Deane,,E07000190,100
+2011/15,England,West Somerset,,E07000191,99.7934338
+2011/15,England,Cannock Chase,,E07000192,100
+2011/15,England,East Staffordshire,,E07000193,100
+2011/15,England,Lichfield,,E07000194,100
+2011/15,England,Newcastle-under-Lyme,,E07000195,100
+2011/15,England,South Staffordshire,,E07000196,100
+2011/15,England,Stafford,,E07000197,100
+2011/15,England,Staffordshire Moorlands,,E07000198,100
+2011/15,England,Babergh,,E07000200,100
+2011/15,England,Forest Heath,,E07000201,98.7424471
+2011/15,England,Mid Suffolk,,E07000203,100
+2011/15,England,St Edmundsbury,,E07000204,99.9006323
+2011/15,England,Suffolk Coastal,,E07000205,99.8584758
+2011/15,England,Waveney,,E07000206,100
+2011/15,England,Elmbridge,,E07000207,100
+2011/15,England,Epsom and Ewell,,E07000208,100
+2011/15,England,Guildford,,E07000209,100
+2011/15,England,Mole Valley,,E07000210,100
+2011/15,England,Reigate and Banstead,,E07000211,100
+2011/15,England,Runnymede,,E07000212,100
+2011/15,England,Spelthorne,,E07000213,100
+2011/15,England,Surrey Heath,,E07000214,100
+2011/15,England,Tandridge,,E07000215,100
+2011/15,England,Waverley,,E07000216,100
+2011/15,England,Woking,,E07000217,100
+2011/15,England,North Warwickshire,,E07000218,99.9461021
+2011/15,England,Rugby,,E07000220,99.866033
+2011/15,England,Stratford-on-Avon,,E07000221,99.9790147
+2011/15,England,Warwick,,E07000222,100
+2011/15,England,Adur,,E07000223,100
+2011/15,England,Arun,,E07000224,100
+2011/15,England,Chichester,,E07000225,97.5512284
+2011/15,England,Crawley,,E07000226,100
+2011/15,England,Horsham,,E07000227,100
+2011/15,England,Mid Sussex,,E07000228,99.8958099
+2011/15,England,Bromsgrove,,E07000234,100
+2011/15,England,Malvern Hills,,E07000235,100
+2011/15,England,Redditch,,E07000236,100
+2011/15,England,Worcester,,E07000237,100
+2011/15,England,Wychavon,,E07000238,99.9343731
+2011/15,England,Wyre Forest,,E07000239,100
+2011/15,England,Bolton,,E08000001,100
+2011/15,England,Bury,,E08000002,100
+2011/15,England,Manchester,,E08000003,100
+2011/15,England,Oldham,,E08000004,100
+2011/15,England,Rochdale,,E08000005,100
+2011/15,England,Salford,,E08000006,100
+2011/15,England,Stockport,,E08000007,100
+2011/15,England,Tameside,,E08000008,100
+2011/15,England,Trafford,,E08000009,100
+2011/15,England,Wigan,,E08000010,100
+2011/15,England,Knowsley,,E08000011,100
+2011/15,England,St. Helens,,E08000013,100
+2011/15,England,Sefton,,E08000014,100
+2011/15,England,Wirral,,E08000015,100
+2011/15,England,Barnsley,,E08000016,100
+2011/15,England,Doncaster,,E08000017,100
+2011/15,England,Rotherham,,E08000018,100
+2011/15,England,Sheffield,,E08000019,99.8088267
+2011/15,England,,,E08000020,100
+2011/15,England,Newcastle upon Tyne,,E08000021,100
+2011/15,England,North Tyneside,,E08000022,100
+2011/15,England,South Tyneside,,E08000023,100
+2011/15,England,Sunderland,,E08000024,100
+2011/15,England,Birmingham,,E08000025,100
+2011/15,England,Coventry,,E08000026,100
+2011/15,England,Solihull,,E08000029,100
+2011/15,England,Walsall,,E08000030,100
+2011/15,England,Bradford,,E08000032,100
+2011/15,England,Calderdale,,E08000033,100
+2011/15,England,Kirklees,,E08000034,100
+2011/15,England,Leeds,,E08000035,100
+2011/15,England,Wakefield,,E08000036,100
+2011/15,England,Bexley,,E09000004,100
+2011/15,England,Bromley,,E09000006,100
+2011/15,England,Enfield,,E09000010,100
+2011/15,England,Hackney,,E09000012,100
+2011/15,England,Harrow,,E09000015,100
+2011/15,England,Havering,,E09000016,99.8660056
+2011/15,England,Hillingdon,,E09000017,100
+2011/15,England,Kingston upon Thames,,E09000021,100
+2011/15,England,Hartlepool,Motorway,E06000001,0
+2011/15,England,Middlesbrough,Motorway,E06000002,0
+2011/15,England,Redcar and Cleveland,Motorway,E06000003,0
+2011/15,England,Stockton-on-Tees,Motorway,E06000004,0
+2011/15,England,Darlington,Motorway,E06000005,14.1405523
+2011/15,England,Halton,Motorway,E06000006,7.5883576
+2011/15,England,Warrington,Motorway,E06000007,60.655058
+2011/15,England,Blackburn with Darwen,Motorway,E06000008,15.6951909
+2011/15,England,Blackpool,Motorway,E06000009,0
+2011/15,England,East Riding of Yorkshire,Motorway,E06000011,12.2758117
+2011/15,England,North East Lincolnshire,Motorway,E06000012,0
+2011/15,England,North Lincolnshire,Motorway,E06000013,31.4955966
+2011/15,England,York,Motorway,E06000014,0
+2011/15,England,Rutland,Motorway,E06000017,0
+2011/15,England,"Herefordshire, County of",Motorway,E06000019,2.0237495
+2011/15,England,Telford and Wrekin,Motorway,E06000020,13.3468442
+2011/15,England,Stoke-on-Trent,Motorway,E06000021,0
+2011/15,England,Bath and North East Somerset,Motorway,E06000022,0
+2011/15,England,North Somerset,Motorway,E06000024,29.5014275
+2011/15,England,South Gloucestershire,Motorway,E06000025,44.5392132
+2011/15,England,Torbay,Motorway,E06000027,0
+2011/15,England,Poole,Motorway,E06000029,0
+2011/15,England,Swindon,Motorway,E06000030,48.712415
+2011/15,England,Peterborough,Motorway,E06000031,0
+2011/15,England,Thurrock,Motorway,E06000034,35.7568754
+2011/15,England,Medway,Motorway,E06000035,11.9958109
+2011/15,England,Bracknell Forest,Motorway,E06000036,14.5865434
+2011/15,England,West Berkshire,Motorway,E06000037,17.5072141
+2011/15,England,Windsor and Maidenhead,Motorway,E06000040,68.726677
+2011/15,England,Wokingham,Motorway,E06000041,18.4921933
+2011/15,England,Milton Keynes,Motorway,E06000042,27.0363818
+2011/15,England,Brighton and Hove,Motorway,E06000043,0
+2011/15,England,Isle of Wight,Motorway,E06000046,0
+2011/15,England,County Durham,Motorway,E06000047,10.410911
+2011/15,England,,Motorway,E06000048,0
+2011/15,England,Cheshire East,Motorway,E06000049,13.6124273
+2011/15,England,Cheshire West and Chester,Motorway,E06000050,32.2696187
+2011/15,England,Shropshire,Motorway,E06000051,6.6009478
+2011/15,England,Cornwall,Motorway,E06000052,0
+2011/15,England,Isles of Scilly,Motorway,E06000053,0
+2011/15,England,Wiltshire,Motorway,E06000054,3.6597634
+2011/15,England,Bedford,Motorway,E06000055,0
+2011/15,England,Central Bedfordshire,Motorway,E06000056,22.3534462
+2011/15,England,Aylesbury Vale,Motorway,E07000004,1.3739075
+2011/15,England,Chiltern,Motorway,E07000005,0.8107623
+2011/15,England,South Bucks,Motorway,E07000006,77.7594373
+2011/15,England,Wycombe,Motorway,E07000007,26.587278
+2011/15,England,Cambridge,Motorway,E07000008,100
+2011/15,England,East Cambridgeshire,Motorway,E07000009,0
+2011/15,England,Fenland,Motorway,E07000010,0
+2011/15,England,Huntingdonshire,Motorway,E07000011,15.8917927
+2011/15,England,South Cambridgeshire,Motorway,E07000012,8.9141228
+2011/15,England,Allerdale,Motorway,E07000026,0
+2011/15,England,Barrow-in-Furness,Motorway,E07000027,0
+2011/15,England,Carlisle,Motorway,E07000028,15.8844343
+2011/15,England,Copeland,Motorway,E07000029,0
+2011/15,England,Eden,Motorway,E07000030,19.9183219
+2011/15,England,South Lakeland,Motorway,E07000031,8.6321081
+2011/15,England,Amber Valley,Motorway,E07000032,0
+2011/15,England,Bolsover,Motorway,E07000033,39.7773645
+2011/15,England,Chesterfield,Motorway,E07000034,66.4403492
+2011/15,England,Derbyshire Dales,Motorway,E07000035,0
+2011/15,England,Erewash,Motorway,E07000036,0
+2011/15,England,High Peak,Motorway,E07000037,0
+2011/15,England,North East Derbyshire,Motorway,E07000038,9.1520359
+2011/15,England,South Derbyshire,Motorway,E07000039,0.2873675
+2011/15,England,East Devon,Motorway,E07000040,5.37514
+2011/15,England,Exeter,Motorway,E07000041,100
+2011/15,England,Mid Devon,Motorway,E07000042,28.5903653
+2011/15,England,North Devon,Motorway,E07000043,0
+2011/15,England,South Hams,Motorway,E07000044,0
+2011/15,England,Teignbridge,Motorway,E07000045,7.5913461
+2011/15,England,Torridge,Motorway,E07000046,0
+2011/15,England,West Devon,Motorway,E07000047,0
+2011/15,England,Christchurch,Motorway,E07000048,0
+2011/15,England,East Dorset,Motorway,E07000049,0
+2011/15,England,North Dorset,Motorway,E07000050,0
+2011/15,England,Purbeck,Motorway,E07000051,0
+2011/15,England,West Dorset,Motorway,E07000052,0
+2011/15,England,Weymouth and Portland,Motorway,E07000053,0
+2011/15,England,Lewes,Motorway,E07000063,0
+2011/15,England,Rother,Motorway,E07000064,0
+2011/15,England,Wealden,Motorway,E07000065,0
+2011/15,England,Basildon,Motorway,E07000066,0
+2011/15,England,Braintree,Motorway,E07000067,0
+2011/15,England,Brentwood,Motorway,E07000068,9.649936
+2011/15,England,Chelmsford,Motorway,E07000070,0
+2011/15,England,Colchester,Motorway,E07000071,0
+2011/15,England,Epping Forest,Motorway,E07000072,53.3687119
+2011/15,England,Maldon,Motorway,E07000074,0
+2011/15,England,Rochford,Motorway,E07000075,0
+2011/15,England,Tendring,Motorway,E07000076,0
+2011/15,England,Uttlesford,Motorway,E07000077,33.0687272
+2011/15,England,Cotswold,Motorway,E07000079,0
+2011/15,England,Forest of Dean,Motorway,E07000080,4.6695785
+2011/15,England,Stroud,Motorway,E07000082,26.3490891
+2011/15,England,Tewkesbury,Motorway,E07000083,20.3666856
+2011/15,England,Basingstoke and Deane,Motorway,E07000084,11.1340283
+2011/15,England,East Hampshire,Motorway,E07000085,0.6607428
+2011/15,England,Eastleigh,Motorway,E07000086,24.6956618
+2011/15,England,Fareham,Motorway,E07000087,49
+2011/15,England,Hart,Motorway,E07000089,49.7051136
+2011/15,England,Havant,Motorway,E07000090,0
+2011/15,England,New Forest,Motorway,E07000091,8.8149012
+2011/15,England,Rushmoor,Motorway,E07000092,0
+2011/15,England,Test Valley,Motorway,E07000093,11.5402937
+2011/15,England,Winchester,Motorway,E07000094,15.3158236
+2011/15,England,Broxbourne,Motorway,E07000095,0
+2011/15,England,Dacorum,Motorway,E07000096,11.3864639
+2011/15,England,,Motorway,E07000097,0.1487889
+2011/15,England,Hertsmere,Motorway,E07000098,40.0690373
+2011/15,England,North Hertfordshire,Motorway,E07000099,36.6448747
+2011/15,England,,Motorway,E07000100,42.9549902
+2011/15,England,Three Rivers,Motorway,E07000102,94.3923408
+2011/15,England,,Motorway,E07000104,57.0185174
+2011/15,England,Ashford,Motorway,E07000105,14.2498213
+2011/15,England,Canterbury,Motorway,E07000106,0
+2011/15,England,Dartford,Motorway,E07000107,52.6917085
+2011/15,England,Dover,Motorway,E07000108,0
+2011/15,England,Gravesham,Motorway,E07000109,16.9512548
+2011/15,England,Maidstone,Motorway,E07000110,24.9672947
+2011/15,England,Sevenoaks,Motorway,E07000111,52.4627639
+2011/15,England,Shepway,Motorway,E07000112,21.0441335
+2011/15,England,Swale,Motorway,E07000113,25.1919551
+2011/15,England,Thanet,Motorway,E07000114,0
+2011/15,England,Tonbridge and Malling,Motorway,E07000115,37.4248532
+2011/15,England,Tunbridge Wells,Motorway,E07000116,0
+2011/15,England,Burnley,Motorway,E07000117,47.7188197
+2011/15,England,Chorley,Motorway,E07000118,61.4561135
+2011/15,England,Fylde,Motorway,E07000119,9.2411597
+2011/15,England,Hyndburn,Motorway,E07000120,93.4036201
+2011/15,England,Lancaster,Motorway,E07000121,61.28343
+2011/15,England,Pendle,Motorway,E07000122,10.5790191
+2011/15,England,Preston,Motorway,E07000123,49.976444
+2011/15,England,Ribble Valley,Motorway,E07000124,0.6101156
+2011/15,England,Rossendale,Motorway,E07000125,36.9158879
+2011/15,England,South Ribble,Motorway,E07000126,5.1531635
+2011/15,England,West Lancashire,Motorway,E07000127,7.9289419
+2011/15,England,Wyre,Motorway,E07000128,31.8347842
+2011/15,England,Blaby,Motorway,E07000129,41.2643678
+2011/15,England,Charnwood,Motorway,E07000130,9.4551021
+2011/15,England,Harborough,Motorway,E07000131,20.9745981
+2011/15,England,Hinckley and Bosworth,Motorway,E07000132,30.1668349
+2011/15,England,Melton,Motorway,E07000133,0
+2011/15,England,North West Leicestershire,Motorway,E07000134,18.2293438
+2011/15,England,Boston,Motorway,E07000136,0
+2011/15,England,East Lindsey,Motorway,E07000137,0
+2011/15,England,North Kesteven,Motorway,E07000139,0
+2011/15,England,South Holland,Motorway,E07000140,0
+2011/15,England,South Kesteven,Motorway,E07000141,0
+2011/15,England,West Lindsey,Motorway,E07000142,0.0525359
+2011/15,England,Breckland,Motorway,E07000143,0
+2011/15,England,Broadland,Motorway,E07000144,0
+2011/15,England,Great Yarmouth,Motorway,E07000145,0
+2011/15,England,King's Lynn and West Norfolk,Motorway,E07000146,0
+2011/15,England,North Norfolk,Motorway,E07000147,0
+2011/15,England,South Norfolk,Motorway,E07000149,0
+2011/15,England,Corby,Motorway,E07000150,0
+2011/15,England,Daventry,Motorway,E07000151,21.9466738
+2011/15,England,East Northamptonshire,Motorway,E07000152,0
+2011/15,England,Kettering,Motorway,E07000153,0
+2011/15,England,Northampton,Motorway,E07000154,0
+2011/15,England,South Northamptonshire,Motorway,E07000155,24.2824172
+2011/15,England,Wellingborough,Motorway,E07000156,0
+2011/15,England,Craven,Motorway,E07000163,0
+2011/15,England,Hambleton,Motorway,E07000164,8.6870184
+2011/15,England,Harrogate,Motorway,E07000165,16.1888614
+2011/15,England,Richmondshire,Motorway,E07000166,4.1977179
+2011/15,England,Ryedale,Motorway,E07000167,0
+2011/15,England,Scarborough,Motorway,E07000168,0
+2011/15,England,Selby,Motorway,E07000169,12.1213746
+2011/15,England,Ashfield,Motorway,E07000170,8.4022039
+2011/15,England,Bassetlaw,Motorway,E07000171,14.3827643
+2011/15,England,Broxtowe,Motorway,E07000172,61.9478446
+2011/15,England,Gedling,Motorway,E07000173,0
+2011/15,England,Mansfield,Motorway,E07000174,0
+2011/15,England,Newark and Sherwood,Motorway,E07000175,0
+2011/15,England,Rushcliffe,Motorway,E07000176,0.0933344
+2011/15,England,Cherwell,Motorway,E07000177,23.9555678
+2011/15,England,Oxford,Motorway,E07000178,0
+2011/15,England,South Oxfordshire,Motorway,E07000179,5.0359898
+2011/15,England,Vale of White Horse,Motorway,E07000180,0
+2011/15,England,West Oxfordshire,Motorway,E07000181,0
+2011/15,England,Mendip,Motorway,E07000187,0
+2011/15,England,Sedgemoor,Motorway,E07000188,28.5756214
+2011/15,England,South Somerset,Motorway,E07000189,0
+2011/15,England,Taunton Deane,Motorway,E07000190,27.3736751
+2011/15,England,West Somerset,Motorway,E07000191,0
+2011/15,England,Cannock Chase,Motorway,E07000192,57.7391058
+2011/15,England,East Staffordshire,Motorway,E07000193,0
+2011/15,England,Lichfield,Motorway,E07000194,17.300505
+2011/15,England,Newcastle-under-Lyme,Motorway,E07000195,49.139234
+2011/15,England,South Staffordshire,Motorway,E07000196,46.2796482
+2011/15,England,Stafford,Motorway,E07000197,17.6064031
+2011/15,England,Staffordshire Moorlands,Motorway,E07000198,0
+2011/15,England,Babergh,Motorway,E07000200,0
+2011/15,England,Forest Heath,Motorway,E07000201,0
+2011/15,England,Mid Suffolk,Motorway,E07000203,0
+2011/15,England,St Edmundsbury,Motorway,E07000204,0
+2011/15,England,Suffolk Coastal,Motorway,E07000205,0
+2011/15,England,Waveney,Motorway,E07000206,0
+2011/15,England,Elmbridge,Motorway,E07000207,25.0351782
+2011/15,England,Epsom and Ewell,Motorway,E07000208,11.5981544
+2011/15,England,Guildford,Motorway,E07000209,1.944642
+2011/15,England,Mole Valley,Motorway,E07000210,4.0912527
+2011/15,England,Reigate and Banstead,Motorway,E07000211,47.518797
+2011/15,England,Runnymede,Motorway,E07000212,45.6133688
+2011/15,England,Spelthorne,Motorway,E07000213,100
+2011/15,England,Surrey Heath,Motorway,E07000214,76.4038048
+2011/15,England,Tandridge,Motorway,E07000215,41.1870181
+2011/15,England,Waverley,Motorway,E07000216,0
+2011/15,England,Woking,Motorway,E07000217,0
+2011/15,England,North Warwickshire,Motorway,E07000218,70.6601414
+2011/15,England,Rugby,Motorway,E07000220,40.856751
+2011/15,England,Stratford-on-Avon,Motorway,E07000221,6.6880017
+2011/15,England,Warwick,Motorway,E07000222,33.7582471
+2011/15,England,Adur,Motorway,E07000223,0
+2011/15,England,Arun,Motorway,E07000224,0
+2011/15,England,Chichester,Motorway,E07000225,0
+2011/15,England,Crawley,Motorway,E07000226,100
+2011/15,England,Horsham,Motorway,E07000227,0.0319663
+2011/15,England,Mid Sussex,Motorway,E07000228,14.4232935
+2011/15,England,Bromsgrove,Motorway,E07000234,41.1177881
+2011/15,England,Malvern Hills,Motorway,E07000235,16.0992207
+2011/15,England,Redditch,Motorway,E07000236,0
+2011/15,England,Worcester,Motorway,E07000237,0
+2011/15,England,Wychavon,Motorway,E07000238,15.943142
+2011/15,England,Wyre Forest,Motorway,E07000239,0
+2011/15,England,Bolton,Motorway,E08000001,70.0058377
+2011/15,England,Bury,Motorway,E08000002,66.545028
+2011/15,England,Manchester,Motorway,E08000003,100
+2011/15,England,Oldham,Motorway,E08000004,0
+2011/15,England,Rochdale,Motorway,E08000005,65.5517478
+2011/15,England,Salford,Motorway,E08000006,100
+2011/15,England,Stockport,Motorway,E08000007,0
+2011/15,England,Tameside,Motorway,E08000008,1.7661098
+2011/15,England,Trafford,Motorway,E08000009,4.9704142
+2011/15,England,Wigan,Motorway,E08000010,4.4748797
+2011/15,England,Knowsley,Motorway,E08000011,37.6911544
+2011/15,England,St. Helens,Motorway,E08000013,36.5938947
+2011/15,England,Sefton,Motorway,E08000014,59.3247224
+2011/15,England,Wirral,Motorway,E08000015,57.9814459
+2011/15,England,Barnsley,Motorway,E08000016,8.6989492
+2011/15,England,Doncaster,Motorway,E08000017,36.2742067
+2011/15,England,Rotherham,Motorway,E08000018,66.1648969
+2011/15,England,Sheffield,Motorway,E08000019,0
+2011/15,England,,Motorway,E08000020,0
+2011/15,England,Newcastle upon Tyne,Motorway,E08000021,0
+2011/15,England,North Tyneside,Motorway,E08000022,0
+2011/15,England,South Tyneside,Motorway,E08000023,12.7007299
+2011/15,England,Sunderland,Motorway,E08000024,1.6907011
+2011/15,England,Birmingham,Motorway,E08000025,91.3043478
+2011/15,England,Coventry,Motorway,E08000026,0.8204481
+2011/15,England,Solihull,Motorway,E08000029,16.5881823
+2011/15,England,Walsall,Motorway,E08000030,50.4494786
+2011/15,England,Bradford,Motorway,E08000032,3.5103474
+2011/15,England,Calderdale,Motorway,E08000033,10.4787011
+2011/15,England,Kirklees,Motorway,E08000034,2.4090175
+2011/15,England,Leeds,Motorway,E08000035,34.4829146
+2011/15,England,Wakefield,Motorway,E08000036,13.3454627
+2011/15,England,Bexley,Motorway,E09000004,0
+2011/15,England,Bromley,Motorway,E09000006,6.7674719
+2011/15,England,Enfield,Motorway,E09000010,84.0872229
+2011/15,England,Hackney,Motorway,E09000012,0
+2011/15,England,Harrow,Motorway,E09000015,100
+2011/15,England,Havering,Motorway,E09000016,38.7645719
+2011/15,England,Hillingdon,Motorway,E09000017,12.8252788
+2011/15,England,Kingston upon Thames,Motorway,E09000021,5.6657224
+2011/15,England,Hartlepool,A-road,E06000001,99.347294
+2011/15,England,Middlesbrough,A-road,E06000002,100
+2011/15,England,Redcar and Cleveland,A-road,E06000003,96.9026642
+2011/15,England,Stockton-on-Tees,A-road,E06000004,83.9454355
+2011/15,England,Darlington,A-road,E06000005,84.4554763
+2011/15,England,Halton,A-road,E06000006,82.3024948
+2011/15,England,Warrington,A-road,E06000007,90.1100558
+2011/15,England,Blackburn with Darwen,A-road,E06000008,65.9363373
+2011/15,England,Blackpool,A-road,E06000009,0
+2011/15,England,East Riding of Yorkshire,A-road,E06000011,73.5773374
+2011/15,England,North East Lincolnshire,A-road,E06000012,99.0811373
+2011/15,England,North Lincolnshire,A-road,E06000013,72.0348149
+2011/15,England,York,A-road,E06000014,70.2231237
+2011/15,England,Rutland,A-road,E06000017,72.8296574
+2011/15,England,"Herefordshire, County of",A-road,E06000019,73.1586402
+2011/15,England,Telford and Wrekin,A-road,E06000020,65.9959467
+2011/15,England,Stoke-on-Trent,A-road,E06000021,100
+2011/15,England,Bath and North East Somerset,A-road,E06000022,88.8577542
+2011/15,England,North Somerset,A-road,E06000024,79.5474387
+2011/15,England,South Gloucestershire,A-road,E06000025,67.5174796
+2011/15,England,Torbay,A-road,E06000027,100
+2011/15,England,Poole,A-road,E06000029,100
+2011/15,England,Swindon,A-road,E06000030,90.932036
+2011/15,England,Peterborough,A-road,E06000031,86.985243
+2011/15,England,Thurrock,A-road,E06000034,73.9449965
+2011/15,England,Medway,A-road,E06000035,67.9742669
+2011/15,England,Bracknell Forest,A-road,E06000036,86.2352337
+2011/15,England,West Berkshire,A-road,E06000037,47.1865163
+2011/15,England,Windsor and Maidenhead,A-road,E06000040,45.4309639
+2011/15,England,Wokingham,A-road,E06000041,94.0669145
+2011/15,England,Milton Keynes,A-road,E06000042,68.1293747
+2011/15,England,Brighton and Hove,A-road,E06000043,100
+2011/15,England,Isle of Wight,A-road,E06000046,83.7223258
+2011/15,England,County Durham,A-road,E06000047,83.1151763
+2011/15,England,,A-road,E06000048,77.4227909
+2011/15,England,Cheshire East,A-road,E06000049,86.5183621
+2011/15,England,Cheshire West and Chester,A-road,E06000050,86.7331615
+2011/15,England,Shropshire,A-road,E06000051,71.326225
+2011/15,England,Cornwall,A-road,E06000052,69.5681311
+2011/15,England,Isles of Scilly,A-road,E06000053,79.7778806
+2011/15,England,Wiltshire,A-road,E06000054,75.2972337
+2011/15,England,Bedford,A-road,E06000055,76.7360647
+2011/15,England,Central Bedfordshire,A-road,E06000056,75.5946697
+2011/15,England,Aylesbury Vale,A-road,E07000004,68.3351098
+2011/15,England,Chiltern,A-road,E07000005,82.87713
+2011/15,England,South Bucks,A-road,E07000006,72.6029855
+2011/15,England,Wycombe,A-road,E07000007,82.2296134
+2011/15,England,Cambridge,A-road,E07000008,100
+2011/15,England,East Cambridgeshire,A-road,E07000009,69.1973664
+2011/15,England,Fenland,A-road,E07000010,58.0704735
+2011/15,England,Huntingdonshire,A-road,E07000011,62.6812566
+2011/15,England,South Cambridgeshire,A-road,E07000012,67.8093487
+2011/15,England,Allerdale,A-road,E07000026,81.3700449
+2011/15,England,Barrow-in-Furness,A-road,E07000027,94.7955228
+2011/15,England,Carlisle,A-road,E07000028,68.7457964
+2011/15,England,Copeland,A-road,E07000029,86.7152443
+2011/15,England,Eden,A-road,E07000030,66.9336233
+2011/15,England,South Lakeland,A-road,E07000031,77.1772179
+2011/15,England,Amber Valley,A-road,E07000032,91.0902656
+2011/15,England,Bolsover,A-road,E07000033,76.9091969
+2011/15,England,Chesterfield,A-road,E07000034,100
+2011/15,England,Derbyshire Dales,A-road,E07000035,78.0553925
+2011/15,England,Erewash,A-road,E07000036,90.5384783
+2011/15,England,High Peak,A-road,E07000037,95.9916252
+2011/15,England,North East Derbyshire,A-road,E07000038,87.9172751
+2011/15,England,South Derbyshire,A-road,E07000039,77.2746689
+2011/15,England,East Devon,A-road,E07000040,64.9769525
+2011/15,England,Exeter,A-road,E07000041,100
+2011/15,England,Mid Devon,A-road,E07000042,65.5234324
+2011/15,England,North Devon,A-road,E07000043,70.3210665
+2011/15,England,South Hams,A-road,E07000044,75.3930446
+2011/15,England,Teignbridge,A-road,E07000045,83.9540625
+2011/15,England,Torridge,A-road,E07000046,66.126817
+2011/15,England,West Devon,A-road,E07000047,67.5003509
+2011/15,England,Christchurch,A-road,E07000048,61.3847252
+2011/15,England,East Dorset,A-road,E07000049,48.3352989
+2011/15,England,North Dorset,A-road,E07000050,75.6720636
+2011/15,England,Purbeck,A-road,E07000051,83.0449069
+2011/15,England,West Dorset,A-road,E07000052,73.7467851
+2011/15,England,Weymouth and Portland,A-road,E07000053,91.7732686
+2011/15,England,Lewes,A-road,E07000063,65.4043072
+2011/15,England,Rother,A-road,E07000064,78.8806891
+2011/15,England,Wealden,A-road,E07000065,77.8431454
+2011/15,England,Basildon,A-road,E07000066,100
+2011/15,England,Braintree,A-road,E07000067,69.4007154
+2011/15,England,Brentwood,A-road,E07000068,77.8395797
+2011/15,England,Chelmsford,A-road,E07000070,81.1808519
+2011/15,England,Colchester,A-road,E07000071,45.5778194
+2011/15,England,Epping Forest,A-road,E07000072,66.7995402
+2011/15,England,Maldon,A-road,E07000074,3.2019886
+2011/15,England,Rochford,A-road,E07000075,8.791339
+2011/15,England,Tendring,A-road,E07000076,43.8785899
+2011/15,England,Uttlesford,A-road,E07000077,49.1518517
+2011/15,England,Cotswold,A-road,E07000079,72.5971494
+2011/15,England,Forest of Dean,A-road,E07000080,62.2350059
+2011/15,England,Stroud,A-road,E07000082,48.0600689
+2011/15,England,Tewkesbury,A-road,E07000083,66.7779989
+2011/15,England,Basingstoke and Deane,A-road,E07000084,64.9553115
+2011/15,England,East Hampshire,A-road,E07000085,77.1428571
+2011/15,England,Eastleigh,A-road,E07000086,17.0540062
+2011/15,England,Fareham,A-road,E07000087,49
+2011/15,England,Hart,A-road,E07000089,82.9435024
+2011/15,England,Havant,A-road,E07000090,100
+2011/15,England,New Forest,A-road,E07000091,62.5278337
+2011/15,England,Rushmoor,A-road,E07000092,100
+2011/15,England,Test Valley,A-road,E07000093,89.3917114
+2011/15,England,Winchester,A-road,E07000094,48.3919655
+2011/15,England,Broxbourne,A-road,E07000095,100
+2011/15,England,Dacorum,A-road,E07000096,62.2641509
+2011/15,England,,A-road,E07000097,70.045827
+2011/15,England,Hertsmere,A-road,E07000098,86.6582653
+2011/15,England,North Hertfordshire,A-road,E07000099,40.9490444
+2011/15,England,,A-road,E07000100,52.8897586
+2011/15,England,Three Rivers,A-road,E07000102,66.9792888
+2011/15,England,,A-road,E07000104,66.3648578
+2011/15,England,Ashford,A-road,E07000105,68.3575559
+2011/15,England,Canterbury,A-road,E07000106,85.2871876
+2011/15,England,Dartford,A-road,E07000107,89.3197161
+2011/15,England,Dover,A-road,E07000108,75.3948358
+2011/15,England,Gravesham,A-road,E07000109,98.0940174
+2011/15,England,Maidstone,A-road,E07000110,73.898272
+2011/15,England,Sevenoaks,A-road,E07000111,66.9696753
+2011/15,England,Shepway,A-road,E07000112,68.9240417
+2011/15,England,Swale,A-road,E07000113,70.034953
+2011/15,England,Thanet,A-road,E07000114,98.1443636
+2011/15,England,Tonbridge and Malling,A-road,E07000115,93.6450536
+2011/15,England,Tunbridge Wells,A-road,E07000116,75.4264338
+2011/15,England,Burnley,A-road,E07000117,69.8363501
+2011/15,England,Chorley,A-road,E07000118,83.6964424
+2011/15,England,Fylde,A-road,E07000119,96.7768504
+2011/15,England,Hyndburn,A-road,E07000120,93.4036201
+2011/15,England,Lancaster,A-road,E07000121,86.9308976
+2011/15,England,Pendle,A-road,E07000122,81.239782
+2011/15,England,Preston,A-road,E07000123,35.814567
+2011/15,England,Ribble Valley,A-road,E07000124,57.2637084
+2011/15,England,Rossendale,A-road,E07000125,93.4929907
+2011/15,England,South Ribble,A-road,E07000126,97.9101059
+2011/15,England,West Lancashire,A-road,E07000127,81.7499724
+2011/15,England,Wyre,A-road,E07000128,84.0689109
+2011/15,England,Blaby,A-road,E07000129,6.5203762
+2011/15,England,Charnwood,A-road,E07000130,74.4910921
+2011/15,England,Harborough,A-road,E07000131,64.9240684
+2011/15,England,Hinckley and Bosworth,A-road,E07000132,48.0229175
+2011/15,England,Melton,A-road,E07000133,55.364434
+2011/15,England,North West Leicestershire,A-road,E07000134,83.8872832
+2011/15,England,Boston,A-road,E07000136,79.2584806
+2011/15,England,East Lindsey,A-road,E07000137,73.4159956
+2011/15,England,North Kesteven,A-road,E07000139,57.7447908
+2011/15,England,South Holland,A-road,E07000140,79.0781697
+2011/15,England,South Kesteven,A-road,E07000141,76.4041467
+2011/15,England,West Lindsey,A-road,E07000142,77.6764923
+2011/15,England,Breckland,A-road,E07000143,57.8450247
+2011/15,England,Broadland,A-road,E07000144,55.6950728
+2011/15,England,Great Yarmouth,A-road,E07000145,77.1116293
+2011/15,England,King's Lynn and West Norfolk,A-road,E07000146,67.3424942
+2011/15,England,North Norfolk,A-road,E07000147,69.0509589
+2011/15,England,South Norfolk,A-road,E07000149,59.0220603
+2011/15,England,Corby,A-road,E07000150,72.7571341
+2011/15,England,Daventry,A-road,E07000151,83.6236735
+2011/15,England,East Northamptonshire,A-road,E07000152,89.7066698
+2011/15,England,Kettering,A-road,E07000153,87.6160269
+2011/15,England,Northampton,A-road,E07000154,100
+2011/15,England,South Northamptonshire,A-road,E07000155,77.7217742
+2011/15,England,Wellingborough,A-road,E07000156,92.3394829
+2011/15,England,Craven,A-road,E07000163,63.6445268
+2011/15,England,Hambleton,A-road,E07000164,72.1279839
+2011/15,England,Harrogate,A-road,E07000165,63.9993772
+2011/15,England,Richmondshire,A-road,E07000166,79.7981772
+2011/15,England,Ryedale,A-road,E07000167,58.2473478
+2011/15,England,Scarborough,A-road,E07000168,80.1345825
+2011/15,England,Selby,A-road,E07000169,83.7595382
+2011/15,England,Ashfield,A-road,E07000170,90.8746556
+2011/15,England,Bassetlaw,A-road,E07000171,87.3938515
+2011/15,England,Broxtowe,A-road,E07000172,100
+2011/15,England,Gedling,A-road,E07000173,73.52772
+2011/15,England,Mansfield,A-road,E07000174,95.9195612
+2011/15,England,Newark and Sherwood,A-road,E07000175,87.5758984
+2011/15,England,Rushcliffe,A-road,E07000176,85.6825076
+2011/15,England,Cherwell,A-road,E07000177,72.1045813
+2011/15,England,Oxford,A-road,E07000178,100
+2011/15,England,South Oxfordshire,A-road,E07000179,63.1430676
+2011/15,England,Vale of White Horse,A-road,E07000180,90.5473935
+2011/15,England,West Oxfordshire,A-road,E07000181,76.1677355
+2011/15,England,Mendip,A-road,E07000187,82.5556095
+2011/15,England,Sedgemoor,A-road,E07000188,81.7976704
+2011/15,England,South Somerset,A-road,E07000189,84.1138695
+2011/15,England,Taunton Deane,A-road,E07000190,57.3972295
+2011/15,England,West Somerset,A-road,E07000191,68.1624401
+2011/15,England,Cannock Chase,A-road,E07000192,90.0608376
+2011/15,England,East Staffordshire,A-road,E07000193,70.2989
+2011/15,England,Lichfield,A-road,E07000194,89.8776069
+2011/15,England,Newcastle-under-Lyme,A-road,E07000195,90.2385078
+2011/15,England,South Staffordshire,A-road,E07000196,86.3583838
+2011/15,England,Stafford,A-road,E07000197,77.2929709
+2011/15,England,Staffordshire Moorlands,A-road,E07000198,75.2806254
+2011/15,England,Babergh,A-road,E07000200,68.7351284
+2011/15,England,Forest Heath,A-road,E07000201,73.6291541
+2011/15,England,Mid Suffolk,A-road,E07000203,53.4438758
+2011/15,England,St Edmundsbury,A-road,E07000204,76.8473351
+2011/15,England,Suffolk Coastal,A-road,E07000205,53.0501753
+2011/15,England,Waveney,A-road,E07000206,89.6142624
+2011/15,England,Elmbridge,A-road,E07000207,93.8907129
+2011/15,England,Epsom and Ewell,A-road,E07000208,72.147651
+2011/15,England,Guildford,A-road,E07000209,90.2658498
+2011/15,England,Mole Valley,A-road,E07000210,73.1266954
+2011/15,England,Reigate and Banstead,A-road,E07000211,92.1637427
+2011/15,England,Runnymede,A-road,E07000212,80.4785416
+2011/15,England,Spelthorne,A-road,E07000213,40.7617775
+2011/15,England,Surrey Heath,A-road,E07000214,81.7991204
+2011/15,England,Tandridge,A-road,E07000215,58.382643
+2011/15,England,Waverley,A-road,E07000216,69.8445571
+2011/15,England,Woking,A-road,E07000217,90.3405573
+2011/15,England,North Warwickshire,A-road,E07000218,58.119179
+2011/15,England,Rugby,A-road,E07000220,71.7808044
+2011/15,England,Stratford-on-Avon,A-road,E07000221,71.5334977
+2011/15,England,Warwick,A-road,E07000222,85.5583612
+2011/15,England,Adur,A-road,E07000223,100
+2011/15,England,Arun,A-road,E07000224,87.642091
+2011/15,England,Chichester,A-road,E07000225,65.6073368
+2011/15,England,Crawley,A-road,E07000226,100
+2011/15,England,Horsham,A-road,E07000227,89.9093105
+2011/15,England,Mid Sussex,A-road,E07000228,65.3075017
+2011/15,England,Bromsgrove,A-road,E07000234,70.0956159
+2011/15,England,Malvern Hills,A-road,E07000235,81.121721
+2011/15,England,Redditch,A-road,E07000236,29.7430482
+2011/15,England,Worcester,A-road,E07000237,100
+2011/15,England,Wychavon,A-road,E07000238,73.5286315
+2011/15,England,Wyre Forest,A-road,E07000239,92.9884305
+2011/15,England,Bolton,A-road,E08000001,89.9124343
+2011/15,England,Bury,A-road,E08000002,99.1137756
+2011/15,England,Manchester,A-road,E08000003,100
+2011/15,England,Oldham,A-road,E08000004,62.8139879
+2011/15,England,Rochdale,A-road,E08000005,81.8505826
+2011/15,England,Salford,A-road,E08000006,64.785553
+2011/15,England,Stockport,A-road,E08000007,86.6605617
+2011/15,England,Tameside,A-road,E08000008,47.7804296
+2011/15,England,Trafford,A-road,E08000009,67.2978304
+2011/15,England,Wigan,A-road,E08000010,78.5002373
+2011/15,England,Knowsley,A-road,E08000011,100
+2011/15,England,St. Helens,A-road,E08000013,96.9473585
+2011/15,England,Sefton,A-road,E08000014,97.0768185
+2011/15,England,Wirral,A-road,E08000015,83.2533589
+2011/15,England,Barnsley,A-road,E08000016,98.0608818
+2011/15,England,Doncaster,A-road,E08000017,76.3105737
+2011/15,England,Rotherham,A-road,E08000018,63.119925
+2011/15,England,Sheffield,A-road,E08000019,72.536596
+2011/15,England,,A-road,E08000020,85.9669652
+2011/15,England,Newcastle upon Tyne,A-road,E08000021,79.1921867
+2011/15,England,North Tyneside,A-road,E08000022,100
+2011/15,England,South Tyneside,A-road,E08000023,100
+2011/15,England,Sunderland,A-road,E08000024,94.6295375
+2011/15,England,Birmingham,A-road,E08000025,100
+2011/15,England,Coventry,A-road,E08000026,97.096876
+2011/15,England,Solihull,A-road,E08000029,72.2451988
+2011/15,England,Walsall,A-road,E08000030,60.1402373
+2011/15,England,Bradford,A-road,E08000032,62.55962
+2011/15,England,Calderdale,A-road,E08000033,84.3288798
+2011/15,England,Kirklees,A-road,E08000034,68.2377401
+2011/15,England,Leeds,A-road,E08000035,86.9694023
+2011/15,England,Wakefield,A-road,E08000036,85.9571005
+2011/15,England,Bexley,A-road,E09000004,100
+2011/15,England,Bromley,A-road,E09000006,78.3883459
+2011/15,England,Enfield,A-road,E09000010,96.9724275
+2011/15,England,Hackney,A-road,E09000012,100
+2011/15,England,Harrow,A-road,E09000015,100
+2011/15,England,Havering,A-road,E09000016,57.9793649
+2011/15,England,Hillingdon,A-road,E09000017,84.4257484
+2011/15,England,Kingston upon Thames,A-road,E09000021,100
+2011/15,England,Hartlepool,B-road,E06000001,1.3416735
+2011/15,England,Middlesbrough,B-road,E06000002,100
+2011/15,England,Redcar and Cleveland,B-road,E06000003,37.5525554
+2011/15,England,Stockton-on-Tees,B-road,E06000004,18.7747195
+2011/15,England,Darlington,B-road,E06000005,33.2454235
+2011/15,England,Halton,B-road,E06000006,37.3960499
+2011/15,England,Warrington,B-road,E06000007,77.687321
+2011/15,England,Blackburn with Darwen,B-road,E06000008,59.1291167
+2011/15,England,Blackpool,B-road,E06000009,0
+2011/15,England,East Riding of Yorkshire,B-road,E06000011,49.9035646
+2011/15,England,North East Lincolnshire,B-road,E06000012,65.104889
+2011/15,England,North Lincolnshire,B-road,E06000013,68.6074059
+2011/15,England,York,B-road,E06000014,41.6768087
+2011/15,England,Rutland,B-road,E06000017,60.9539452
+2011/15,England,"Herefordshire, County of",B-road,E06000019,63.752959
+2011/15,England,Telford and Wrekin,B-road,E06000020,63.0211349
+2011/15,England,Stoke-on-Trent,B-road,E06000021,0
+2011/15,England,Bath and North East Somerset,B-road,E06000022,54.6413287
+2011/15,England,North Somerset,B-road,E06000024,65.9682405
+2011/15,England,South Gloucestershire,B-road,E06000025,69.0590515
+2011/15,England,Torbay,B-road,E06000027,29.7577855
+2011/15,England,Poole,B-road,E06000029,100
+2011/15,England,Swindon,B-road,E06000030,91.2905114
+2011/15,England,Peterborough,B-road,E06000031,52.1517423
+2011/15,England,Thurrock,B-road,E06000034,67.4324012
+2011/15,England,Medway,B-road,E06000035,44.877319
+2011/15,England,Bracknell Forest,B-road,E06000036,91.9363123
+2011/15,England,West Berkshire,B-road,E06000037,41.3873951
+2011/15,England,Windsor and Maidenhead,B-road,E06000040,86.1563666
+2011/15,England,Wokingham,B-road,E06000041,89.7159851
+2011/15,England,Milton Keynes,B-road,E06000042,48.0539958
+2011/15,England,Brighton and Hove,B-road,E06000043,89.6205788
+2011/15,England,Isle of Wight,B-road,E06000046,75.7195825
+2011/15,England,County Durham,B-road,E06000047,84.8887786
+2011/15,England,,B-road,E06000048,73.3456153
+2011/15,England,Cheshire East,B-road,E06000049,56.3369778
+2011/15,England,Cheshire West and Chester,B-road,E06000050,58.2431966
+2011/15,England,Shropshire,B-road,E06000051,69.5323677
+2011/15,England,Cornwall,B-road,E06000052,66.8922077
+2011/15,England,Isles of Scilly,B-road,E06000053,0
+2011/15,England,Wiltshire,B-road,E06000054,55.229234
+2011/15,England,Bedford,B-road,E06000055,24.3612007
+2011/15,England,Central Bedfordshire,B-road,E06000056,43.7142432
+2011/15,England,Aylesbury Vale,B-road,E07000004,40.6214027
+2011/15,England,Chiltern,B-road,E07000005,50.9847534
+2011/15,England,South Bucks,B-road,E07000006,47.358978
+2011/15,England,Wycombe,B-road,E07000007,64.5542555
+2011/15,England,Cambridge,B-road,E07000008,0
+2011/15,England,East Cambridgeshire,B-road,E07000009,54.4646496
+2011/15,England,Fenland,B-road,E07000010,85.0705474
+2011/15,England,Huntingdonshire,B-road,E07000011,88.6202842
+2011/15,England,South Cambridgeshire,B-road,E07000012,40.5456013
+2011/15,England,Allerdale,B-road,E07000026,68.1400349
+2011/15,England,Barrow-in-Furness,B-road,E07000027,0
+2011/15,England,Carlisle,B-road,E07000028,61.3621078
+2011/15,England,Copeland,B-road,E07000029,64.2748343
+2011/15,England,Eden,B-road,E07000030,61.5476411
+2011/15,England,South Lakeland,B-road,E07000031,58.7781089
+2011/15,England,Amber Valley,B-road,E07000032,77.5074735
+2011/15,England,Bolsover,B-road,E07000033,91.0335064
+2011/15,England,Chesterfield,B-road,E07000034,99.2725509
+2011/15,England,Derbyshire Dales,B-road,E07000035,80.0186483
+2011/15,England,Erewash,B-road,E07000036,18.6614345
+2011/15,England,High Peak,B-road,E07000037,64.5072218
+2011/15,England,North East Derbyshire,B-road,E07000038,90.555914
+2011/15,England,South Derbyshire,B-road,E07000039,36.8354627
+2011/15,England,East Devon,B-road,E07000040,68.3637595
+2011/15,England,Exeter,B-road,E07000041,0
+2011/15,England,Mid Devon,B-road,E07000042,46.7909459
+2011/15,England,North Devon,B-road,E07000043,69.0593316
+2011/15,England,South Hams,B-road,E07000044,38.268688
+2011/15,England,Teignbridge,B-road,E07000045,44.336773
+2011/15,England,Torridge,B-road,E07000046,40.8692915
+2011/15,England,West Devon,B-road,E07000047,60.4978709
+2011/15,England,Christchurch,B-road,E07000048,97.6445396
+2011/15,England,East Dorset,B-road,E07000049,69.2234419
+2011/15,England,North Dorset,B-road,E07000050,52.0145477
+2011/15,England,Purbeck,B-road,E07000051,67.3749544
+2011/15,England,West Dorset,B-road,E07000052,63.6933454
+2011/15,England,Weymouth and Portland,B-road,E07000053,1.0733716
+2011/15,England,Lewes,B-road,E07000063,55.1158066
+2011/15,England,Rother,B-road,E07000064,57.6254887
+2011/15,England,Wealden,B-road,E07000065,68.6735929
+2011/15,England,Basildon,B-road,E07000066,13.1217432
+2011/15,England,Braintree,B-road,E07000067,59.6132936
+2011/15,England,Brentwood,B-road,E07000068,31.9648612
+2011/15,England,Chelmsford,B-road,E07000070,43.1674233
+2011/15,England,Colchester,B-road,E07000071,84.3663988
+2011/15,England,Epping Forest,B-road,E07000072,77.3128561
+2011/15,England,Maldon,B-road,E07000074,87.4480077
+2011/15,England,Rochford,B-road,E07000075,55.5375558
+2011/15,England,Tendring,B-road,E07000076,90.9918127
+2011/15,England,Uttlesford,B-road,E07000077,89.7633636
+2011/15,England,Cotswold,B-road,E07000079,38.1977298
+2011/15,England,Forest of Dean,B-road,E07000080,73.9462377
+2011/15,England,Stroud,B-road,E07000082,64.4854751
+2011/15,England,Tewkesbury,B-road,E07000083,64.308556
+2011/15,England,Basingstoke and Deane,B-road,E07000084,51.8627943
+2011/15,England,East Hampshire,B-road,E07000085,58.1111871
+2011/15,England,Eastleigh,B-road,E07000086,92.6294821
+2011/15,England,Fareham,B-road,E07000087,27.3076923
+2011/15,England,Hart,B-road,E07000089,89.2131895
+2011/15,England,Havant,B-road,E07000090,0
+2011/15,England,New Forest,B-road,E07000091,60.5538472
+2011/15,England,Rushmoor,B-road,E07000092,0
+2011/15,England,Test Valley,B-road,E07000093,29.2048961
+2011/15,England,Winchester,B-road,E07000094,84.3357689
+2011/15,England,Broxbourne,B-road,E07000095,0
+2011/15,England,Dacorum,B-road,E07000096,64.9770018
+2011/15,England,,B-road,E07000097,73.3271173
+2011/15,England,Hertsmere,B-road,E07000098,91.156649
+2011/15,England,North Hertfordshire,B-road,E07000099,66.3830586
+2011/15,England,,B-road,E07000100,82.6614481
+2011/15,England,Three Rivers,B-road,E07000102,0
+2011/15,England,,B-road,E07000104,65.786553
+2011/15,England,Ashford,B-road,E07000105,34.3650501
+2011/15,England,Canterbury,B-road,E07000106,19.5256673
+2011/15,England,Dartford,B-road,E07000107,74.2599965
+2011/15,England,Dover,B-road,E07000108,19.8144898
+2011/15,England,Gravesham,B-road,E07000109,44.114607
+2011/15,England,Maidstone,B-road,E07000110,43.612223
+2011/15,England,Sevenoaks,B-road,E07000111,58.7509376
+2011/15,England,Shepway,B-road,E07000112,42.170169
+2011/15,England,Swale,B-road,E07000113,22.584804
+2011/15,England,Thanet,B-road,E07000114,85.5718139
+2011/15,England,Tonbridge and Malling,B-road,E07000115,28.5385236
+2011/15,England,Tunbridge Wells,B-road,E07000116,75.2617562
+2011/15,England,Burnley,B-road,E07000117,1.0538061
+2011/15,England,Chorley,B-road,E07000118,78.6196004
+2011/15,England,Fylde,B-road,E07000119,44.4487151
+2011/15,England,Hyndburn,B-road,E07000120,95.9600672
+2011/15,England,Lancaster,B-road,E07000121,37.5824743
+2011/15,England,Pendle,B-road,E07000122,65.4359673
+2011/15,England,Preston,B-road,E07000123,76.170734
+2011/15,England,Ribble Valley,B-road,E07000124,56.3152093
+2011/15,England,Rossendale,B-road,E07000125,59.3925234
+2011/15,England,South Ribble,B-road,E07000126,19.6679072
+2011/15,England,West Lancashire,B-road,E07000127,69.2574203
+2011/15,England,Wyre,B-road,E07000128,74.5540878
+2011/15,England,Blaby,B-road,E07000129,60.0574713
+2011/15,England,Charnwood,B-road,E07000130,11.5721591
+2011/15,England,Harborough,B-road,E07000131,29.3356416
+2011/15,England,Hinckley and Bosworth,B-road,E07000132,49.709078
+2011/15,England,Melton,B-road,E07000133,11.3282947
+2011/15,England,North West Leicestershire,B-road,E07000134,35.9911595
+2011/15,England,Boston,B-road,E07000136,61.0439494
+2011/15,England,East Lindsey,B-road,E07000137,60.9315822
+2011/15,England,North Kesteven,B-road,E07000139,77.1692201
+2011/15,England,South Holland,B-road,E07000140,76.1457109
+2011/15,England,South Kesteven,B-road,E07000141,32.6473774
+2011/15,England,West Lindsey,B-road,E07000142,55.347305
+2011/15,England,Breckland,B-road,E07000143,50.4632202
+2011/15,England,Broadland,B-road,E07000144,62.1918567
+2011/15,England,Great Yarmouth,B-road,E07000145,11.4864471
+2011/15,England,King's Lynn and West Norfolk,B-road,E07000146,52.5454083
+2011/15,England,North Norfolk,B-road,E07000147,51.2529317
+2011/15,England,South Norfolk,B-road,E07000149,65.3224959
+2011/15,England,Corby,B-road,E07000150,49.6612605
+2011/15,England,Daventry,B-road,E07000151,19.1187098
+2011/15,England,East Northamptonshire,B-road,E07000152,45.7567283
+2011/15,England,Kettering,B-road,E07000153,46.9471524
+2011/15,England,Northampton,B-road,E07000154,28.7248322
+2011/15,England,South Northamptonshire,B-road,E07000155,20.5684953
+2011/15,England,Wellingborough,B-road,E07000156,68.5412947
+2011/15,England,Craven,B-road,E07000163,58.395852
+2011/15,England,Hambleton,B-road,E07000164,48.3687368
+2011/15,England,Harrogate,B-road,E07000165,54.7673835
+2011/15,England,Richmondshire,B-road,E07000166,63.4422264
+2011/15,England,Ryedale,B-road,E07000167,20.9150802
+2011/15,England,Scarborough,B-road,E07000168,35.4903269
+2011/15,England,Selby,B-road,E07000169,24.4411087
+2011/15,England,Ashfield,B-road,E07000170,65.8402204
+2011/15,England,Bassetlaw,B-road,E07000171,53.615251
+2011/15,England,Broxtowe,B-road,E07000172,0
+2011/15,England,Gedling,B-road,E07000173,74.0852175
+2011/15,England,Mansfield,B-road,E07000174,99.7367459
+2011/15,England,Newark and Sherwood,B-road,E07000175,58.7025362
+2011/15,England,Rushcliffe,B-road,E07000176,15.7455083
+2011/15,England,Cherwell,B-road,E07000177,56.8804027
+2011/15,England,Oxford,B-road,E07000178,0
+2011/15,England,South Oxfordshire,B-road,E07000179,77.4278588
+2011/15,England,Vale of White Horse,B-road,E07000180,64.0055187
+2011/15,England,West Oxfordshire,B-road,E07000181,74.9609618
+2011/15,England,Mendip,B-road,E07000187,67.0730611
+2011/15,England,Sedgemoor,B-road,E07000188,43.9126846
+2011/15,England,South Somerset,B-road,E07000189,62.1853733
+2011/15,England,Taunton Deane,B-road,E07000190,52.8041052
+2011/15,England,West Somerset,B-road,E07000191,70.0742759
+2011/15,England,Cannock Chase,B-road,E07000192,67.0132994
+2011/15,England,East Staffordshire,B-road,E07000193,72.8619579
+2011/15,England,Lichfield,B-road,E07000194,34.3756241
+2011/15,England,Newcastle-under-Lyme,B-road,E07000195,72.6103144
+2011/15,England,South Staffordshire,B-road,E07000196,37.0487886
+2011/15,England,Stafford,B-road,E07000197,34.3977144
+2011/15,England,Staffordshire Moorlands,B-road,E07000198,24.3379946
+2011/15,England,Babergh,B-road,E07000200,77.6268003
+2011/15,England,Forest Heath,B-road,E07000201,88.7575529
+2011/15,England,Mid Suffolk,B-road,E07000203,58.5697714
+2011/15,England,St Edmundsbury,B-road,E07000204,46.1562782
+2011/15,England,Suffolk Coastal,B-road,E07000205,79.1087268
+2011/15,England,Waveney,B-road,E07000206,89.0948151
+2011/15,England,Elmbridge,B-road,E07000207,91.4282364
+2011/15,England,Epsom and Ewell,B-road,E07000208,72.147651
+2011/15,England,Guildford,B-road,E07000209,63.8750615
+2011/15,England,Mole Valley,B-road,E07000210,42.9181305
+2011/15,England,Reigate and Banstead,B-road,E07000211,7.2932331
+2011/15,England,Runnymede,B-road,E07000212,61.640714
+2011/15,England,Spelthorne,B-road,E07000213,100
+2011/15,England,Surrey Heath,B-road,E07000214,92.5948655
+2011/15,England,Tandridge,B-road,E07000215,69.1769769
+2011/15,England,Waverley,B-road,E07000216,66.6601696
+2011/15,England,Woking,B-road,E07000217,78.2662539
+2011/15,England,North Warwickshire,B-road,E07000218,81.148672
+2011/15,England,Rugby,B-road,E07000220,71.9562374
+2011/15,England,Stratford-on-Avon,B-road,E07000221,73.6729448
+2011/15,England,Warwick,B-road,E07000222,80.5530667
+2011/15,England,Adur,B-road,E07000223,0
+2011/15,England,Arun,B-road,E07000224,65.7306774
+2011/15,England,Chichester,B-road,E07000225,58.280128
+2011/15,England,Crawley,B-road,E07000226,100
+2011/15,England,Horsham,B-road,E07000227,57.7678064
+2011/15,England,Mid Sussex,B-road,E07000228,84.7234738
+2011/15,England,Bromsgrove,B-road,E07000234,77.5435896
+2011/15,England,Malvern Hills,B-road,E07000235,80.015366
+2011/15,England,Redditch,B-road,E07000236,52.4463217
+2011/15,England,Worcester,B-road,E07000237,0
+2011/15,England,Wychavon,B-road,E07000238,69.0157365
+2011/15,England,Wyre Forest,B-road,E07000239,78.0528269
+2011/15,England,Bolton,B-road,E08000001,59.6847636
+2011/15,England,Bury,B-road,E08000002,27.4599244
+2011/15,England,Manchester,B-road,E08000003,3.7037037
+2011/15,England,Oldham,B-road,E08000004,58.8901658
+2011/15,England,Rochdale,B-road,E08000005,51.9945168
+2011/15,England,Salford,B-road,E08000006,49.4356659
+2011/15,England,Stockport,B-road,E08000007,19.7191697
+2011/15,England,Tameside,B-road,E08000008,20.548926
+2011/15,England,Trafford,B-road,E08000009,70.9861933
+2011/15,England,Wigan,B-road,E08000010,54.0850227
+2011/15,England,Knowsley,B-road,E08000011,42.7886057
+2011/15,England,St. Helens,B-road,E08000013,94.083735
+2011/15,England,Sefton,B-road,E08000014,93.0659415
+2011/15,England,Wirral,B-road,E08000015,67.0345489
+2011/15,England,Barnsley,B-road,E08000016,74.4014733
+2011/15,England,Doncaster,B-road,E08000017,43.5839622
+2011/15,England,Rotherham,B-road,E08000018,80.3560275
+2011/15,England,Sheffield,B-road,E08000019,36.9783701
+2011/15,England,,B-road,E08000020,64.4718484
+2011/15,England,Newcastle upon Tyne,B-road,E08000021,68.5482536
+2011/15,England,North Tyneside,B-road,E08000022,93.2005558
+2011/15,England,South Tyneside,B-road,E08000023,12.7007299
+2011/15,England,Sunderland,B-road,E08000024,75.1367479
+2011/15,England,Birmingham,B-road,E08000025,21.3438735
+2011/15,England,Coventry,B-road,E08000026,93.3733039
+2011/15,England,Solihull,B-road,E08000029,91.789853
+2011/15,England,Walsall,B-road,E08000030,74.685365
+2011/15,England,Bradford,B-road,E08000032,66.2954759
+2011/15,England,Calderdale,B-road,E08000033,40.1114373
+2011/15,England,Kirklees,B-road,E08000034,81.5818413
+2011/15,England,Leeds,B-road,E08000035,22.2754924
+2011/15,England,Wakefield,B-road,E08000036,85.3139264
+2011/15,England,Bexley,B-road,E09000004,0
+2011/15,England,Bromley,B-road,E09000006,39.2218329
+2011/15,England,Enfield,B-road,E09000010,2.108488
+2011/15,England,Hackney,B-road,E09000012,0
+2011/15,England,Harrow,B-road,E09000015,0
+2011/15,England,Havering,B-road,E09000016,49.9397025
+2011/15,England,Hillingdon,B-road,E09000017,0
+2011/15,England,Kingston upon Thames,B-road,E09000021,100
+2011/15,England,Hartlepool,Classified road,E06000001,87.326625
+2011/15,England,Middlesbrough,Classified road,E06000002,100
+2011/15,England,Redcar and Cleveland,Classified road,E06000003,99.9049249
+2011/15,England,Stockton-on-Tees,Classified road,E06000004,98.8215352
+2011/15,England,Darlington,Classified road,E06000005,99.8991623
+2011/15,England,Halton,Classified road,E06000006,100
+2011/15,England,Warrington,Classified road,E06000007,95.7070707
+2011/15,England,Blackburn with Darwen,Classified road,E06000008,99.862202
+2011/15,England,Blackpool,Classified road,E06000009,100
+2011/15,England,East Riding of Yorkshire,Classified road,E06000011,99.8744097
+2011/15,England,North East Lincolnshire,Classified road,E06000012,99.4885576
+2011/15,England,North Lincolnshire,Classified road,E06000013,99.774682
+2011/15,England,York,Classified road,E06000014,98.7478026
+2011/15,England,Rutland,Classified road,E06000017,100
+2011/15,England,"Herefordshire, County of",Classified road,E06000019,99.9369397
+2011/15,England,Telford and Wrekin,Classified road,E06000020,100
+2011/15,England,Stoke-on-Trent,Classified road,E06000021,100
+2011/15,England,Bath and North East Somerset,Classified road,E06000022,100
+2011/15,England,North Somerset,Classified road,E06000024,100
+2011/15,England,South Gloucestershire,Classified road,E06000025,100
+2011/15,England,Torbay,Classified road,E06000027,100
+2011/15,England,Poole,Classified road,E06000029,100
+2011/15,England,Swindon,Classified road,E06000030,100
+2011/15,England,Peterborough,Classified road,E06000031,100
+2011/15,England,Thurrock,Classified road,E06000034,100
+2011/15,England,Medway,Classified road,E06000035,99.5182525
+2011/15,England,Bracknell Forest,Classified road,E06000036,100
+2011/15,England,West Berkshire,Classified road,E06000037,99.9049056
+2011/15,England,Windsor and Maidenhead,Classified road,E06000040,99.0534268
+2011/15,England,Wokingham,Classified road,E06000041,100
+2011/15,England,Milton Keynes,Classified road,E06000042,99.5154219
+2011/15,England,Brighton and Hove,Classified road,E06000043,100
+2011/15,England,Isle of Wight,Classified road,E06000046,99.9549926
+2011/15,England,County Durham,Classified road,E06000047,99.8327712
+2011/15,England,,Classified road,E06000048,99.6295304
+2011/15,England,Cheshire East,Classified road,E06000049,99.98738
+2011/15,England,Cheshire West and Chester,Classified road,E06000050,99.944193
+2011/15,England,Shropshire,Classified road,E06000051,100
+2011/15,England,Cornwall,Classified road,E06000052,100
+2011/15,England,Isles of Scilly,Classified road,E06000053,89.7732531
+2011/15,England,Wiltshire,Classified road,E06000054,99.9545819
+2011/15,England,Bedford,Classified road,E06000055,100
+2011/15,England,Central Bedfordshire,Classified road,E06000056,100
+2011/15,England,Aylesbury Vale,Classified road,E07000004,97.0923044
+2011/15,England,Chiltern,Classified road,E07000005,100
+2011/15,England,South Bucks,Classified road,E07000006,100
+2011/15,England,Wycombe,Classified road,E07000007,100
+2011/15,England,Cambridge,Classified road,E07000008,100
+2011/15,England,East Cambridgeshire,Classified road,E07000009,99.956106
+2011/15,England,Fenland,Classified road,E07000010,99.8596439
+2011/15,England,Huntingdonshire,Classified road,E07000011,98.6025453
+2011/15,England,South Cambridgeshire,Classified road,E07000012,99.9312845
+2011/15,England,Allerdale,Classified road,E07000026,99.6637661
+2011/15,England,Barrow-in-Furness,Classified road,E07000027,99.8257916
+2011/15,England,Carlisle,Classified road,E07000028,99.9444396
+2011/15,England,Copeland,Classified road,E07000029,99.7056523
+2011/15,England,Eden,Classified road,E07000030,98.7615689
+2011/15,England,South Lakeland,Classified road,E07000031,99.7170294
+2011/15,England,Amber Valley,Classified road,E07000032,100
+2011/15,England,Bolsover,Classified road,E07000033,100
+2011/15,England,Chesterfield,Classified road,E07000034,100
+2011/15,England,Derbyshire Dales,Classified road,E07000035,100
+2011/15,England,Erewash,Classified road,E07000036,100
+2011/15,England,High Peak,Classified road,E07000037,99.8391795
+2011/15,England,North East Derbyshire,Classified road,E07000038,97.9318776
+2011/15,England,South Derbyshire,Classified road,E07000039,99.1262475
+2011/15,England,East Devon,Classified road,E07000040,100
+2011/15,England,Exeter,Classified road,E07000041,100
+2011/15,England,Mid Devon,Classified road,E07000042,100
+2011/15,England,North Devon,Classified road,E07000043,100
+2011/15,England,South Hams,Classified road,E07000044,98.2349711
+2011/15,England,Teignbridge,Classified road,E07000045,100
+2011/15,England,Torridge,Classified road,E07000046,99.9599405
+2011/15,England,West Devon,Classified road,E07000047,99.8432455
+2011/15,England,Christchurch,Classified road,E07000048,100
+2011/15,England,East Dorset,Classified road,E07000049,100
+2011/15,England,North Dorset,Classified road,E07000050,100
+2011/15,England,Purbeck,Classified road,E07000051,99.9525374
+2011/15,England,West Dorset,Classified road,E07000052,100
+2011/15,England,Weymouth and Portland,Classified road,E07000053,99.9705926
+2011/15,England,Lewes,Classified road,E07000063,96.509549
+2011/15,England,Rother,Classified road,E07000064,99.9853658
+2011/15,England,Wealden,Classified road,E07000065,100
+2011/15,England,Basildon,Classified road,E07000066,100
+2011/15,England,Braintree,Classified road,E07000067,100
+2011/15,England,Brentwood,Classified road,E07000068,100
+2011/15,England,Chelmsford,Classified road,E07000070,100
+2011/15,England,Colchester,Classified road,E07000071,100
+2011/15,England,Epping Forest,Classified road,E07000072,99.8239221
+2011/15,England,Maldon,Classified road,E07000074,99.9237036
+2011/15,England,Rochford,Classified road,E07000075,87.5024695
+2011/15,England,Tendring,Classified road,E07000076,99.4379163
+2011/15,England,Uttlesford,Classified road,E07000077,100
+2011/15,England,Cotswold,Classified road,E07000079,100
+2011/15,England,Forest of Dean,Classified road,E07000080,99.5241646
+2011/15,England,Stroud,Classified road,E07000082,95.9995076
+2011/15,England,Tewkesbury,Classified road,E07000083,100
+2011/15,England,Basingstoke and Deane,Classified road,E07000084,100
+2011/15,England,East Hampshire,Classified road,E07000085,100
+2011/15,England,Eastleigh,Classified road,E07000086,100
+2011/15,England,Fareham,Classified road,E07000087,100
+2011/15,England,Hart,Classified road,E07000089,100
+2011/15,England,Havant,Classified road,E07000090,100
+2011/15,England,New Forest,Classified road,E07000091,99.9611211
+2011/15,England,Rushmoor,Classified road,E07000092,100
+2011/15,England,Test Valley,Classified road,E07000093,100
+2011/15,England,Winchester,Classified road,E07000094,100
+2011/15,England,Broxbourne,Classified road,E07000095,100
+2011/15,England,Dacorum,Classified road,E07000096,100
+2011/15,England,,Classified road,E07000097,100
+2011/15,England,Hertsmere,Classified road,E07000098,100
+2011/15,England,North Hertfordshire,Classified road,E07000099,100
+2011/15,England,,Classified road,E07000100,100
+2011/15,England,Three Rivers,Classified road,E07000102,100
+2011/15,England,,Classified road,E07000104,100
+2011/15,England,Ashford,Classified road,E07000105,99.9805064
+2011/15,England,Canterbury,Classified road,E07000106,100
+2011/15,England,Dartford,Classified road,E07000107,100
+2011/15,England,Dover,Classified road,E07000108,100
+2011/15,England,Gravesham,Classified road,E07000109,100
+2011/15,England,Maidstone,Classified road,E07000110,100
+2011/15,England,Sevenoaks,Classified road,E07000111,100
+2011/15,England,Shepway,Classified road,E07000112,99.8876773
+2011/15,England,Swale,Classified road,E07000113,99.8510199
+2011/15,England,Thanet,Classified road,E07000114,100
+2011/15,England,Tonbridge and Malling,Classified road,E07000115,100
+2011/15,England,Tunbridge Wells,Classified road,E07000116,100
+2011/15,England,Burnley,Classified road,E07000117,98.5990578
+2011/15,England,Chorley,Classified road,E07000118,100
+2011/15,England,Fylde,Classified road,E07000119,100
+2011/15,England,Hyndburn,Classified road,E07000120,100
+2011/15,England,Lancaster,Classified road,E07000121,100
+2011/15,England,Pendle,Classified road,E07000122,100
+2011/15,England,Preston,Classified road,E07000123,100
+2011/15,England,Ribble Valley,Classified road,E07000124,99.9589838
+2011/15,England,Rossendale,Classified road,E07000125,98.7733645
+2011/15,England,South Ribble,Classified road,E07000126,100
+2011/15,England,West Lancashire,Classified road,E07000127,100
+2011/15,England,Wyre,Classified road,E07000128,100
+2011/15,England,Blaby,Classified road,E07000129,100
+2011/15,England,Charnwood,Classified road,E07000130,100
+2011/15,England,Harborough,Classified road,E07000131,100
+2011/15,England,Hinckley and Bosworth,Classified road,E07000132,100
+2011/15,England,Melton,Classified road,E07000133,100
+2011/15,England,North West Leicestershire,Classified road,E07000134,100
+2011/15,England,Boston,Classified road,E07000136,100
+2011/15,England,East Lindsey,Classified road,E07000137,99.9242521
+2011/15,England,North Kesteven,Classified road,E07000139,100
+2011/15,England,South Holland,Classified road,E07000140,99.5422418
+2011/15,England,South Kesteven,Classified road,E07000141,100
+2011/15,England,West Lindsey,Classified road,E07000142,99.5697734
+2011/15,England,Breckland,Classified road,E07000143,99.9870789
+2011/15,England,Broadland,Classified road,E07000144,100
+2011/15,England,Great Yarmouth,Classified road,E07000145,100
+2011/15,England,King's Lynn and West Norfolk,Classified road,E07000146,99.980101
+2011/15,England,North Norfolk,Classified road,E07000147,99.937157
+2011/15,England,South Norfolk,Classified road,E07000149,100
+2011/15,England,Corby,Classified road,E07000150,99.8562923
+2011/15,England,Daventry,Classified road,E07000151,100
+2011/15,England,East Northamptonshire,Classified road,E07000152,99.9960334
+2011/15,England,Kettering,Classified road,E07000153,100
+2011/15,England,Northampton,Classified road,E07000154,100
+2011/15,England,South Northamptonshire,Classified road,E07000155,99.9389856
+2011/15,England,Wellingborough,Classified road,E07000156,95.2886332
+2011/15,England,Craven,Classified road,E07000163,99.7769603
+2011/15,England,Hambleton,Classified road,E07000164,99.7916346
+2011/15,England,Harrogate,Classified road,E07000165,99.922144
+2011/15,England,Richmondshire,Classified road,E07000166,99.8680578
+2011/15,England,Ryedale,Classified road,E07000167,99.7771642
+2011/15,England,Scarborough,Classified road,E07000168,99.8230705
+2011/15,England,Selby,Classified road,E07000169,99.9892779
+2011/15,England,Ashfield,Classified road,E07000170,50.4820937
+2011/15,England,Bassetlaw,Classified road,E07000171,97.2482491
+2011/15,England,Broxtowe,Classified road,E07000172,100
+2011/15,England,Gedling,Classified road,E07000173,97.3098535
+2011/15,England,Mansfield,Classified road,E07000174,98.8007313
+2011/15,England,Newark and Sherwood,Classified road,E07000175,99.835856
+2011/15,England,Rushcliffe,Classified road,E07000176,100
+2011/15,England,Cherwell,Classified road,E07000177,99.859822
+2011/15,England,Oxford,Classified road,E07000178,100
+2011/15,England,South Oxfordshire,Classified road,E07000179,99.9935386
+2011/15,England,Vale of White Horse,Classified road,E07000180,99.5972854
+2011/15,England,West Oxfordshire,Classified road,E07000181,100
+2011/15,England,Mendip,Classified road,E07000187,100
+2011/15,England,Sedgemoor,Classified road,E07000188,100
+2011/15,England,South Somerset,Classified road,E07000189,100
+2011/15,England,Taunton Deane,Classified road,E07000190,100
+2011/15,England,West Somerset,Classified road,E07000191,99.7934338
+2011/15,England,Cannock Chase,Classified road,E07000192,100
+2011/15,England,East Staffordshire,Classified road,E07000193,100
+2011/15,England,Lichfield,Classified road,E07000194,100
+2011/15,England,Newcastle-under-Lyme,Classified road,E07000195,100
+2011/15,England,South Staffordshire,Classified road,E07000196,100
+2011/15,England,Stafford,Classified road,E07000197,100
+2011/15,England,Staffordshire Moorlands,Classified road,E07000198,100
+2011/15,England,Babergh,Classified road,E07000200,100
+2011/15,England,Forest Heath,Classified road,E07000201,96.6767372
+2011/15,England,Mid Suffolk,Classified road,E07000203,100
+2011/15,England,St Edmundsbury,Classified road,E07000204,99.9006323
+2011/15,England,Suffolk Coastal,Classified road,E07000205,99.8584758
+2011/15,England,Waveney,Classified road,E07000206,100
+2011/15,England,Elmbridge,Classified road,E07000207,91.6510319
+2011/15,England,Epsom and Ewell,Classified road,E07000208,54.9706376
+2011/15,England,Guildford,Classified road,E07000209,100
+2011/15,England,Mole Valley,Classified road,E07000210,100
+2011/15,England,Reigate and Banstead,Classified road,E07000211,100
+2011/15,England,Runnymede,Classified road,E07000212,100
+2011/15,England,Spelthorne,Classified road,E07000213,100
+2011/15,England,Surrey Heath,Classified road,E07000214,93.1625243
+2011/15,England,Tandridge,Classified road,E07000215,100
+2011/15,England,Waverley,Classified road,E07000216,100
+2011/15,England,Woking,Classified road,E07000217,100
+2011/15,England,North Warwickshire,Classified road,E07000218,99.9439462
+2011/15,England,Rugby,Classified road,E07000220,96.8166885
+2011/15,England,Stratford-on-Avon,Classified road,E07000221,99.9790147
+2011/15,England,Warwick,Classified road,E07000222,100
+2011/15,England,Adur,Classified road,E07000223,100
+2011/15,England,Arun,Classified road,E07000224,95.9982896
+2011/15,England,Chichester,Classified road,E07000225,97.5512284
+2011/15,England,Crawley,Classified road,E07000226,100
+2011/15,England,Horsham,Classified road,E07000227,100
+2011/15,England,Mid Sussex,Classified road,E07000228,99.8958099
+2011/15,England,Bromsgrove,Classified road,E07000234,100
+2011/15,England,Malvern Hills,Classified road,E07000235,100
+2011/15,England,Redditch,Classified road,E07000236,100
+2011/15,England,Worcester,Classified road,E07000237,100
+2011/15,England,Wychavon,Classified road,E07000238,99.9343731
+2011/15,England,Wyre Forest,Classified road,E07000239,100
+2011/15,England,Bolton,Classified road,E08000001,100
+2011/15,England,Bury,Classified road,E08000002,100
+2011/15,England,Manchester,Classified road,E08000003,100
+2011/15,England,Oldham,Classified road,E08000004,100
+2011/15,England,Rochdale,Classified road,E08000005,100
+2011/15,England,Salford,Classified road,E08000006,82.3927765
+2011/15,England,Stockport,Classified road,E08000007,100
+2011/15,England,Tameside,Classified road,E08000008,100
+2011/15,England,Trafford,Classified road,E08000009,100
+2011/15,England,Wigan,Classified road,E08000010,84.609126
+2011/15,England,Knowsley,Classified road,E08000011,100
+2011/15,England,St. Helens,Classified road,E08000013,89.8686325
+2011/15,England,Sefton,Classified road,E08000014,100
+2011/15,England,Wirral,Classified road,E08000015,100
+2011/15,England,Barnsley,Classified road,E08000016,100
+2011/15,England,Doncaster,Classified road,E08000017,95.7287026
+2011/15,England,Rotherham,Classified road,E08000018,99.0037477
+2011/15,England,Sheffield,Classified road,E08000019,89.5018571
+2011/15,England,,Classified road,E08000020,100
+2011/15,England,Newcastle upon Tyne,Classified road,E08000021,100
+2011/15,England,North Tyneside,Classified road,E08000022,100
+2011/15,England,South Tyneside,Classified road,E08000023,14.5985401
+2011/15,England,Sunderland,Classified road,E08000024,100
+2011/15,England,Birmingham,Classified road,E08000025,100
+2011/15,England,Coventry,Classified road,E08000026,100
+2011/15,England,Solihull,Classified road,E08000029,100
+2011/15,England,Walsall,Classified road,E08000030,100
+2011/15,England,Bradford,Classified road,E08000032,100
+2011/15,England,Calderdale,Classified road,E08000033,100
+2011/15,England,Kirklees,Classified road,E08000034,100
+2011/15,England,Leeds,Classified road,E08000035,100
+2011/15,England,Wakefield,Classified road,E08000036,100
+2011/15,England,Bexley,Classified road,E09000004,0
+2011/15,England,Bromley,Classified road,E09000006,100
+2011/15,England,Enfield,Classified road,E09000010,100
+2011/15,England,Hackney,Classified road,E09000012,100
+2011/15,England,Harrow,Classified road,E09000015,100
+2011/15,England,Havering,Classified road,E09000016,99.8660056
+2011/15,England,Hillingdon,Classified road,E09000017,100
+2011/15,England,Kingston upon Thames,Classified road,E09000021,0
+2011/15,England,Hartlepool,Unclassified road,E06000001,99.7371045
+2011/15,England,Middlesbrough,Unclassified road,E06000002,100
+2011/15,England,Redcar and Cleveland,Unclassified road,E06000003,99.9387294
+2011/15,England,Stockton-on-Tees,Unclassified road,E06000004,100
+2011/15,England,Darlington,Unclassified road,E06000005,99.8991623
+2011/15,England,Halton,Unclassified road,E06000006,100
+2011/15,England,Warrington,Unclassified road,E06000007,100
+2011/15,England,Blackburn with Darwen,Unclassified road,E06000008,98.1948464
+2011/15,England,Blackpool,Unclassified road,E06000009,100
+2011/15,England,East Riding of Yorkshire,Unclassified road,E06000011,98.5813422
+2011/15,England,North East Lincolnshire,Unclassified road,E06000012,99.1548197
+2011/15,England,North Lincolnshire,Unclassified road,E06000013,99.7154555
+2011/15,England,York,Unclassified road,E06000014,98.3556457
+2011/15,England,Rutland,Unclassified road,E06000017,99.8424616
+2011/15,England,"Herefordshire, County of",Unclassified road,E06000019,98.6029726
+2011/15,England,Telford and Wrekin,Unclassified road,E06000020,99.8986682
+2011/15,England,Stoke-on-Trent,Unclassified road,E06000021,100
+2011/15,England,Bath and North East Somerset,Unclassified road,E06000022,100
+2011/15,England,North Somerset,Unclassified road,E06000024,99.9056181
+2011/15,England,South Gloucestershire,Unclassified road,E06000025,99.9473507
+2011/15,England,Torbay,Unclassified road,E06000027,100
+2011/15,England,Poole,Unclassified road,E06000029,100
+2011/15,England,Swindon,Unclassified road,E06000030,100
+2011/15,England,Peterborough,Unclassified road,E06000031,98.7444951
+2011/15,England,Thurrock,Unclassified road,E06000034,100
+2011/15,England,Medway,Unclassified road,E06000035,100
+2011/15,England,Bracknell Forest,Unclassified road,E06000036,100
+2011/15,England,West Berkshire,Unclassified road,E06000037,99.6983211
+2011/15,England,Windsor and Maidenhead,Unclassified road,E06000040,98.857741
+2011/15,England,Wokingham,Unclassified road,E06000041,100
+2011/15,England,Milton Keynes,Unclassified road,E06000042,99.6961772
+2011/15,England,Brighton and Hove,Unclassified road,E06000043,100
+2011/15,England,Isle of Wight,Unclassified road,E06000046,99.8306865
+2011/15,England,County Durham,Unclassified road,E06000047,99.6871071
+2011/15,England,,Unclassified road,E06000048,97.9580626
+2011/15,England,Cheshire East,Unclassified road,E06000049,99.2313252
+2011/15,England,Cheshire West and Chester,Unclassified road,E06000050,99.6022485
+2011/15,England,Shropshire,Unclassified road,E06000051,95.9104524
+2011/15,England,Cornwall,Unclassified road,E06000052,99.5623407
+2011/15,England,Isles of Scilly,Unclassified road,E06000053,100
+2011/15,England,Wiltshire,Unclassified road,E06000054,99.4414001
+2011/15,England,Bedford,Unclassified road,E06000055,99.582085
+2011/15,England,Central Bedfordshire,Unclassified road,E06000056,99.7958629
+2011/15,England,Aylesbury Vale,Unclassified road,E07000004,99.777233
+2011/15,England,Chiltern,Unclassified road,E07000005,99.4654709
+2011/15,England,South Bucks,Unclassified road,E07000006,100
+2011/15,England,Wycombe,Unclassified road,E07000007,99.5218863
+2011/15,England,Cambridge,Unclassified road,E07000008,100
+2011/15,England,East Cambridgeshire,Unclassified road,E07000009,99.8698856
+2011/15,England,Fenland,Unclassified road,E07000010,91.0209057
+2011/15,England,Huntingdonshire,Unclassified road,E07000011,99.6668798
+2011/15,England,South Cambridgeshire,Unclassified road,E07000012,99.8273522
+2011/15,England,Allerdale,Unclassified road,E07000026,98.7329899
+2011/15,England,Barrow-in-Furness,Unclassified road,E07000027,100
+2011/15,England,Carlisle,Unclassified road,E07000028,99.0379273
+2011/15,England,Copeland,Unclassified road,E07000029,99.8435635
+2011/15,England,Eden,Unclassified road,E07000030,97.8599273
+2011/15,England,South Lakeland,Unclassified road,E07000031,98.9162829
+2011/15,England,Amber Valley,Unclassified road,E07000032,100
+2011/15,England,Bolsover,Unclassified road,E07000033,100
+2011/15,England,Chesterfield,Unclassified road,E07000034,100
+2011/15,England,Derbyshire Dales,Unclassified road,E07000035,99.3145008
+2011/15,England,Erewash,Unclassified road,E07000036,100
+2011/15,England,High Peak,Unclassified road,E07000037,99.4325768
+2011/15,England,North East Derbyshire,Unclassified road,E07000038,98.4174958
+2011/15,England,South Derbyshire,Unclassified road,E07000039,100
+2011/15,England,East Devon,Unclassified road,E07000040,99.933592
+2011/15,England,Exeter,Unclassified road,E07000041,100
+2011/15,England,Mid Devon,Unclassified road,E07000042,99.4211118
+2011/15,England,North Devon,Unclassified road,E07000043,98.0792339
+2011/15,England,South Hams,Unclassified road,E07000044,99.868453
+2011/15,England,Teignbridge,Unclassified road,E07000045,99.8083381
+2011/15,England,Torridge,Unclassified road,E07000046,94.7436191
+2011/15,England,West Devon,Unclassified road,E07000047,98.0908708
+2011/15,England,Christchurch,Unclassified road,E07000048,84.5824411
+2011/15,England,East Dorset,Unclassified road,E07000049,99.7414497
+2011/15,England,North Dorset,Unclassified road,E07000050,99.9496089
+2011/15,England,Purbeck,Unclassified road,E07000051,98.8608981
+2011/15,England,West Dorset,Unclassified road,E07000052,99.6088276
+2011/15,England,Weymouth and Portland,Unclassified road,E07000053,100
+2011/15,England,Lewes,Unclassified road,E07000063,96.6842747
+2011/15,England,Rother,Unclassified road,E07000064,98.8188071
+2011/15,England,Wealden,Unclassified road,E07000065,98.5410495
+2011/15,England,Basildon,Unclassified road,E07000066,100
+2011/15,England,Braintree,Unclassified road,E07000067,99.2672434
+2011/15,England,Brentwood,Unclassified road,E07000068,100
+2011/15,England,Chelmsford,Unclassified road,E07000070,100
+2011/15,England,Colchester,Unclassified road,E07000071,100
+2011/15,England,Epping Forest,Unclassified road,E07000072,99.9779903
+2011/15,England,Maldon,Unclassified road,E07000074,99.9556989
+2011/15,England,Rochford,Unclassified road,E07000075,98.672409
+2011/15,England,Tendring,Unclassified road,E07000076,99.7751665
+2011/15,England,Uttlesford,Unclassified road,E07000077,99.9864176
+2011/15,England,Cotswold,Unclassified road,E07000079,99.0553347
+2011/15,England,Forest of Dean,Unclassified road,E07000080,99.8863677
+2011/15,England,Stroud,Unclassified road,E07000082,99.9236829
+2011/15,England,Tewkesbury,Unclassified road,E07000083,99.474133
+2011/15,England,Basingstoke and Deane,Unclassified road,E07000084,97.5082223
+2011/15,England,East Hampshire,Unclassified road,E07000085,99.4486216
+2011/15,England,Eastleigh,Unclassified road,E07000086,100
+2011/15,England,Fareham,Unclassified road,E07000087,49
+2011/15,England,Hart,Unclassified road,E07000089,99.628041
+2011/15,England,Havant,Unclassified road,E07000090,100
+2011/15,England,New Forest,Unclassified road,E07000091,99.1358287
+2011/15,England,Rushmoor,Unclassified road,E07000092,100
+2011/15,England,Test Valley,Unclassified road,E07000093,98.6330593
+2011/15,England,Winchester,Unclassified road,E07000094,99.3313962
+2011/15,England,Broxbourne,Unclassified road,E07000095,57.7639752
+2011/15,England,Dacorum,Unclassified road,E07000096,100
+2011/15,England,,Unclassified road,E07000097,98.1609697
+2011/15,England,Hertsmere,Unclassified road,E07000098,99.495918
+2011/15,England,North Hertfordshire,Unclassified road,E07000099,99.7685258
+2011/15,England,,Unclassified road,E07000100,97.1298108
+2011/15,England,Three Rivers,Unclassified road,E07000102,100
+2011/15,England,,Unclassified road,E07000104,99.7079269
+2011/15,England,Ashford,Unclassified road,E07000105,99.5971323
+2011/15,England,Canterbury,Unclassified road,E07000106,99.652362
+2011/15,England,Dartford,Unclassified road,E07000107,100
+2011/15,England,Dover,Unclassified road,E07000108,100
+2011/15,England,Gravesham,Unclassified road,E07000109,100
+2011/15,England,Maidstone,Unclassified road,E07000110,99.6387777
+2011/15,England,Sevenoaks,Unclassified road,E07000111,99.9357074
+2011/15,England,Shepway,Unclassified road,E07000112,98.6334067
+2011/15,England,Swale,Unclassified road,E07000113,99.6103598
+2011/15,England,Thanet,Unclassified road,E07000114,100
+2011/15,England,Tonbridge and Malling,Unclassified road,E07000115,99.403432
+2011/15,England,Tunbridge Wells,Unclassified road,E07000116,99.4246447
+2011/15,England,Burnley,Unclassified road,E07000117,100
+2011/15,England,Chorley,Unclassified road,E07000118,100
+2011/15,England,Fylde,Unclassified road,E07000119,99.7638919
+2011/15,England,Hyndburn,Unclassified road,E07000120,100
+2011/15,England,Lancaster,Unclassified road,E07000121,99.3707295
+2011/15,England,Pendle,Unclassified road,E07000122,99.7411444
+2011/15,England,Preston,Unclassified road,E07000123,97.6161312
+2011/15,England,Ribble Valley,Unclassified road,E07000124,96.3598144
+2011/15,England,Rossendale,Unclassified road,E07000125,100
+2011/15,England,South Ribble,Unclassified road,E07000126,97.8814772
+2011/15,England,West Lancashire,Unclassified road,E07000127,99.9713119
+2011/15,England,Wyre,Unclassified road,E07000128,99.8721617
+2011/15,England,Blaby,Unclassified road,E07000129,99.4670846
+2011/15,England,Charnwood,Unclassified road,E07000130,99.6124157
+2011/15,England,Harborough,Unclassified road,E07000131,99.6383394
+2011/15,England,Hinckley and Bosworth,Unclassified road,E07000132,99.9940628
+2011/15,England,Melton,Unclassified road,E07000133,98.9879246
+2011/15,England,North West Leicestershire,Unclassified road,E07000134,98.4019041
+2011/15,England,Boston,Unclassified road,E07000136,99.1388024
+2011/15,England,East Lindsey,Unclassified road,E07000137,95.8152218
+2011/15,England,North Kesteven,Unclassified road,E07000139,97.9221117
+2011/15,England,South Holland,Unclassified road,E07000140,98.6267254
+2011/15,England,South Kesteven,Unclassified road,E07000141,98.5234632
+2011/15,England,West Lindsey,Unclassified road,E07000142,98.0135741
+2011/15,England,Breckland,Unclassified road,E07000143,99.2609151
+2011/15,England,Broadland,Unclassified road,E07000144,97.1747761
+2011/15,England,Great Yarmouth,Unclassified road,E07000145,100
+2011/15,England,King's Lynn and West Norfolk,Unclassified road,E07000146,98.4755188
+2011/15,England,North Norfolk,Unclassified road,E07000147,99.7800496
+2011/15,England,South Norfolk,Unclassified road,E07000149,99.6391409
+2011/15,England,Corby,Unclassified road,E07000150,94.5801683
+2011/15,England,Daventry,Unclassified road,E07000151,99.6976152
+2011/15,England,East Northamptonshire,Unclassified road,E07000152,98.9944666
+2011/15,England,Kettering,Unclassified road,E07000153,95.7600634
+2011/15,England,Northampton,Unclassified road,E07000154,100
+2011/15,England,South Northamptonshire,Unclassified road,E07000155,99.8766447
+2011/15,England,Wellingborough,Unclassified road,E07000156,99.8379951
+2011/15,England,Craven,Unclassified road,E07000163,99.4235727
+2011/15,England,Hambleton,Unclassified road,E07000164,98.0911494
+2011/15,England,Harrogate,Unclassified road,E07000165,99.159155
+2011/15,England,Richmondshire,Unclassified road,E07000166,99.4209202
+2011/15,England,Ryedale,Unclassified road,E07000167,97.4858305
+2011/15,England,Scarborough,Unclassified road,E07000168,99.6171361
+2011/15,England,Selby,Unclassified road,E07000169,99.998213
+2011/15,England,Ashfield,Unclassified road,E07000170,100
+2011/15,England,Bassetlaw,Unclassified road,E07000171,99.8626033
+2011/15,England,Broxtowe,Unclassified road,E07000172,100
+2011/15,England,Gedling,Unclassified road,E07000173,99.8849608
+2011/15,England,Mansfield,Unclassified road,E07000174,100
+2011/15,England,Newark and Sherwood,Unclassified road,E07000175,99.0441881
+2011/15,England,Rushcliffe,Unclassified road,E07000176,99.9766664
+2011/15,England,Cherwell,Unclassified road,E07000177,99.672918
+2011/15,England,Oxford,Unclassified road,E07000178,100
+2011/15,England,South Oxfordshire,Unclassified road,E07000179,100
+2011/15,England,Vale of White Horse,Unclassified road,E07000180,99.0771124
+2011/15,England,West Oxfordshire,Unclassified road,E07000181,97.4302997
+2011/15,England,Mendip,Unclassified road,E07000187,99.0091888
+2011/15,England,Sedgemoor,Unclassified road,E07000188,99.6936623
+2011/15,England,South Somerset,Unclassified road,E07000189,99.9051088
+2011/15,England,Taunton Deane,Unclassified road,E07000190,99.8906399
+2011/15,England,West Somerset,Unclassified road,E07000191,97.2706896
+2011/15,England,Cannock Chase,Unclassified road,E07000192,100
+2011/15,England,East Staffordshire,Unclassified road,E07000193,99.3333086
+2011/15,England,Lichfield,Unclassified road,E07000194,100
+2011/15,England,Newcastle-under-Lyme,Unclassified road,E07000195,99.9483909
+2011/15,England,South Staffordshire,Unclassified road,E07000196,99.5495231
+2011/15,England,Stafford,Unclassified road,E07000197,99.1681022
+2011/15,England,Staffordshire Moorlands,Unclassified road,E07000198,98.9397095
+2011/15,England,Babergh,Unclassified road,E07000200,99.5131497
+2011/15,England,Forest Heath,Unclassified road,E07000201,98.7424471
+2011/15,England,Mid Suffolk,Unclassified road,E07000203,99.7461617
+2011/15,England,St Edmundsbury,Unclassified road,E07000204,99.4060524
+2011/15,England,Suffolk Coastal,Unclassified road,E07000205,96.4355654
+2011/15,England,Waveney,Unclassified road,E07000206,99.7531023
+2011/15,England,Elmbridge,Unclassified road,E07000207,100
+2011/15,England,Epsom and Ewell,Unclassified road,E07000208,100
+2011/15,England,Guildford,Unclassified road,E07000209,100
+2011/15,England,Mole Valley,Unclassified road,E07000210,99.4307822
+2011/15,England,Reigate and Banstead,Unclassified road,E07000211,100
+2011/15,England,Runnymede,Unclassified road,E07000212,100
+2011/15,England,Spelthorne,Unclassified road,E07000213,100
+2011/15,England,Surrey Heath,Unclassified road,E07000214,100
+2011/15,England,Tandridge,Unclassified road,E07000215,100
+2011/15,England,Waverley,Unclassified road,E07000216,99.7831595
+2011/15,England,Woking,Unclassified road,E07000217,100
+2011/15,England,North Warwickshire,Unclassified road,E07000218,99.9461021
+2011/15,England,Rugby,Unclassified road,E07000220,99.866033
+2011/15,England,Stratford-on-Avon,Unclassified road,E07000221,99.8069356
+2011/15,England,Warwick,Unclassified road,E07000222,87.3503299
+2011/15,England,Adur,Unclassified road,E07000223,100
+2011/15,England,Arun,Unclassified road,E07000224,100
+2011/15,England,Chichester,Unclassified road,E07000225,97.0926808
+2011/15,England,Crawley,Unclassified road,E07000226,100
+2011/15,England,Horsham,Unclassified road,E07000227,98.7260845
+2011/15,England,Mid Sussex,Unclassified road,E07000228,98.659608
+2011/15,England,Bromsgrove,Unclassified road,E07000234,100
+2011/15,England,Malvern Hills,Unclassified road,E07000235,99.7036549
+2011/15,England,Redditch,Unclassified road,E07000236,100
+2011/15,England,Worcester,Unclassified road,E07000237,100
+2011/15,England,Wychavon,Unclassified road,E07000238,99.9078431
+2011/15,England,Wyre Forest,Unclassified road,E07000239,99.690024
+2011/15,England,Bolton,Unclassified road,E08000001,100
+2011/15,England,Bury,Unclassified road,E08000002,100
+2011/15,England,Manchester,Unclassified road,E08000003,100
+2011/15,England,Oldham,Unclassified road,E08000004,100
+2011/15,England,Rochdale,Unclassified road,E08000005,100
+2011/15,England,Salford,Unclassified road,E08000006,100
+2011/15,England,Stockport,Unclassified road,E08000007,100
+2011/15,England,Tameside,Unclassified road,E08000008,100
+2011/15,England,Trafford,Unclassified road,E08000009,100
+2011/15,England,Wigan,Unclassified road,E08000010,100
+2011/15,England,Knowsley,Unclassified road,E08000011,100
+2011/15,England,St. Helens,Unclassified road,E08000013,100
+2011/15,England,Sefton,Unclassified road,E08000014,100
+2011/15,England,Wirral,Unclassified road,E08000015,100
+2011/15,England,Barnsley,Unclassified road,E08000016,100
+2011/15,England,Doncaster,Unclassified road,E08000017,100
+2011/15,England,Rotherham,Unclassified road,E08000018,100
+2011/15,England,Sheffield,Unclassified road,E08000019,99.8088267
+2011/15,England,,Unclassified road,E08000020,100
+2011/15,England,Newcastle upon Tyne,Unclassified road,E08000021,100
+2011/15,England,North Tyneside,Unclassified road,E08000022,100
+2011/15,England,South Tyneside,Unclassified road,E08000023,100
+2011/15,England,Sunderland,Unclassified road,E08000024,100
+2011/15,England,Birmingham,Unclassified road,E08000025,100
+2011/15,England,Coventry,Unclassified road,E08000026,100
+2011/15,England,Solihull,Unclassified road,E08000029,100
+2011/15,England,Walsall,Unclassified road,E08000030,100
+2011/15,England,Bradford,Unclassified road,E08000032,99.9980044
+2011/15,England,Calderdale,Unclassified road,E08000033,99.8222595
+2011/15,England,Kirklees,Unclassified road,E08000034,100
+2011/15,England,Leeds,Unclassified road,E08000035,100
+2011/15,England,Wakefield,Unclassified road,E08000036,99.9601009
+2011/15,England,Bexley,Unclassified road,E09000004,100
+2011/15,England,Bromley,Unclassified road,E09000006,100
+2011/15,England,Enfield,Unclassified road,E09000010,100
+2011/15,England,Hackney,Unclassified road,E09000012,100
+2011/15,England,Harrow,Unclassified road,E09000015,100
+2011/15,England,Havering,Unclassified road,E09000016,79.8472464
+2011/15,England,Hillingdon,Unclassified road,E09000017,95.4901194
+2011/15,England,Kingston upon Thames,Unclassified road,E09000021,100
+2011/15,England,Hartlepool,,E06000001,99.7371045
+2011/15,England,Middlesbrough,,E06000002,100
+2011/15,England,Redcar and Cleveland,,E06000003,99.9387294
+2011/15,England,Stockton-on-Tees,,E06000004,100
+2011/15,England,Darlington,,E06000005,99.8991623
+2011/15,England,Halton,,E06000006,100
+2011/15,England,Warrington,,E06000007,100
+2011/15,England,Blackburn with Darwen,,E06000008,99.862202
+2011/15,England,Blackpool,,E06000009,100
+2011/15,England,East Riding of Yorkshire,,E06000011,99.8744097
+2011/15,England,North East Lincolnshire,,E06000012,99.4885576
+2011/15,England,North Lincolnshire,,E06000013,99.774682
+2011/15,England,York,,E06000014,98.7478026
+2011/15,England,Rutland,,E06000017,100
+2011/15,England,"Herefordshire, County of",,E06000019,99.9369397
+2011/15,England,Telford and Wrekin,,E06000020,100
+2011/15,England,Stoke-on-Trent,,E06000021,100
+2011/15,England,Bath and North East Somerset,,E06000022,100
+2011/15,England,North Somerset,,E06000024,100
+2011/15,England,South Gloucestershire,,E06000025,100
+2011/15,England,Torbay,,E06000027,100
+2011/15,England,Poole,,E06000029,100
+2011/15,England,Swindon,,E06000030,100
+2011/15,England,Peterborough,,E06000031,100
+2011/15,England,Thurrock,,E06000034,100
+2011/15,England,Medway,,E06000035,100
+2011/15,England,Bracknell Forest,,E06000036,100
+2011/15,England,West Berkshire,,E06000037,99.9049056
+2011/15,England,Windsor and Maidenhead,,E06000040,99.0534268
+2011/15,England,Wokingham,,E06000041,100
+2011/15,England,Milton Keynes,,E06000042,99.6961772
+2011/15,England,Brighton and Hove,,E06000043,100
+2011/15,England,Isle of Wight,,E06000046,99.9549926
+2011/15,England,County Durham,,E06000047,99.8327712
+2011/15,England,,,E06000048,99.6295304
+2011/15,England,Cheshire East,,E06000049,99.98738
+2011/15,England,Cheshire West and Chester,,E06000050,99.944193
+2011/15,England,Shropshire,,E06000051,100
+2011/15,England,Cornwall,,E06000052,100
+2011/15,England,Isles of Scilly,,E06000053,100
+2011/15,England,Wiltshire,,E06000054,99.9545819
+2011/15,England,Bedford,,E06000055,100
+2011/15,England,Central Bedfordshire,,E06000056,100
+2011/15,England,Aylesbury Vale,,E07000004,99.777233
+2011/15,England,Chiltern,,E07000005,100
+2011/15,England,South Bucks,,E07000006,100
+2011/15,England,Wycombe,,E07000007,100
+2011/15,England,Cambridge,,E07000008,100
+2011/15,England,East Cambridgeshire,,E07000009,99.956106
+2011/15,England,Fenland,,E07000010,99.8596439
+2011/15,England,Huntingdonshire,,E07000011,99.6668798
+2011/15,England,South Cambridgeshire,,E07000012,99.9312845
+2011/15,England,Allerdale,,E07000026,99.6637661
+2011/15,England,Barrow-in-Furness,,E07000027,100
+2011/15,England,Carlisle,,E07000028,99.9444396
+2011/15,England,Copeland,,E07000029,99.8435635
+2011/15,England,Eden,,E07000030,98.7615689
+2011/15,England,South Lakeland,,E07000031,99.7170294
+2011/15,England,Amber Valley,,E07000032,100
+2011/15,England,Bolsover,,E07000033,100
+2011/15,England,Chesterfield,,E07000034,100
+2011/15,England,Derbyshire Dales,,E07000035,100
+2011/15,England,Erewash,,E07000036,100
+2011/15,England,High Peak,,E07000037,99.8391795
+2011/15,England,North East Derbyshire,,E07000038,98.4174958
+2011/15,England,South Derbyshire,,E07000039,100
+2011/15,England,East Devon,,E07000040,100
+2011/15,England,Exeter,,E07000041,100
+2011/15,England,Mid Devon,,E07000042,100
+2011/15,England,North Devon,,E07000043,100
+2011/15,England,South Hams,,E07000044,99.868453
+2011/15,England,Teignbridge,,E07000045,100
+2011/15,England,Torridge,,E07000046,99.9599405
+2011/15,England,West Devon,,E07000047,99.8432455
+2011/15,England,Christchurch,,E07000048,100
+2011/15,England,East Dorset,,E07000049,100
+2011/15,England,North Dorset,,E07000050,100
+2011/15,England,Purbeck,,E07000051,99.9525374
+2011/15,England,West Dorset,,E07000052,100
+2011/15,England,Weymouth and Portland,,E07000053,100
+2011/15,England,Lewes,,E07000063,96.6842747
+2011/15,England,Rother,,E07000064,99.9853658
+2011/15,England,Wealden,,E07000065,100
+2011/15,England,Basildon,,E07000066,100
+2011/15,England,Braintree,,E07000067,100
+2011/15,England,Brentwood,,E07000068,100
+2011/15,England,Chelmsford,,E07000070,100
+2011/15,England,Colchester,,E07000071,100
+2011/15,England,Epping Forest,,E07000072,99.9779903
+2011/15,England,Maldon,,E07000074,99.9556989
+2011/15,England,Rochford,,E07000075,98.672409
+2011/15,England,Tendring,,E07000076,99.7751665
+2011/15,England,Uttlesford,,E07000077,100
+2011/15,England,Cotswold,,E07000079,100
+2011/15,England,Forest of Dean,,E07000080,99.8863677
+2011/15,England,Stroud,,E07000082,99.9236829
+2011/15,England,Tewkesbury,,E07000083,100
+2011/15,England,Basingstoke and Deane,,E07000084,100
+2011/15,England,East Hampshire,,E07000085,100
+2011/15,England,Eastleigh,,E07000086,100
+2011/15,England,Fareham,,E07000087,100
+2011/15,England,Hart,,E07000089,100
+2011/15,England,Havant,,E07000090,100
+2011/15,England,New Forest,,E07000091,99.9611211
+2011/15,England,Rushmoor,,E07000092,100
+2011/15,England,Test Valley,,E07000093,100
+2011/15,England,Winchester,,E07000094,100
+2011/15,England,Broxbourne,,E07000095,100
+2011/15,England,Dacorum,,E07000096,100
+2011/15,England,,,E07000097,100
+2011/15,England,Hertsmere,,E07000098,100
+2011/15,England,North Hertfordshire,,E07000099,100
+2011/15,England,,,E07000100,100
+2011/15,England,Three Rivers,,E07000102,100
+2011/15,England,,,E07000104,100
+2011/15,England,Ashford,,E07000105,99.9805064
+2011/15,England,Canterbury,,E07000106,100
+2011/15,England,Dartford,,E07000107,100
+2011/15,England,Dover,,E07000108,100
+2011/15,England,Gravesham,,E07000109,100
+2011/15,England,Maidstone,,E07000110,100
+2011/15,England,Sevenoaks,,E07000111,100
+2011/15,England,Shepway,,E07000112,99.8876773
+2011/15,England,Swale,,E07000113,99.8510199
+2011/15,England,Thanet,,E07000114,100
+2011/15,England,Tonbridge and Malling,,E07000115,100
+2011/15,England,Tunbridge Wells,,E07000116,100
+2011/15,England,Burnley,,E07000117,100
+2011/15,England,Chorley,,E07000118,100
+2011/15,England,Fylde,,E07000119,100
+2011/15,England,Hyndburn,,E07000120,100
+2011/15,England,Lancaster,,E07000121,100
+2011/15,England,Pendle,,E07000122,100
+2011/15,England,Preston,,E07000123,100
+2011/15,England,Ribble Valley,,E07000124,99.9589838
+2011/15,England,Rossendale,,E07000125,100
+2011/15,England,South Ribble,,E07000126,100
+2011/15,England,West Lancashire,,E07000127,100
+2011/15,England,Wyre,,E07000128,100
+2011/15,England,Blaby,,E07000129,100
+2011/15,England,Charnwood,,E07000130,100
+2011/15,England,Harborough,,E07000131,100
+2011/15,England,Hinckley and Bosworth,,E07000132,100
+2011/15,England,Melton,,E07000133,100
+2011/15,England,North West Leicestershire,,E07000134,100
+2011/15,England,Boston,,E07000136,100
+2011/15,England,East Lindsey,,E07000137,99.9242521
+2011/15,England,North Kesteven,,E07000139,100
+2011/15,England,South Holland,,E07000140,99.5422418
+2011/15,England,South Kesteven,,E07000141,100
+2011/15,England,West Lindsey,,E07000142,99.5697734
+2011/15,England,Breckland,,E07000143,99.9870789
+2011/15,England,Broadland,,E07000144,100
+2011/15,England,Great Yarmouth,,E07000145,100
+2011/15,England,King's Lynn and West Norfolk,,E07000146,99.980101
+2011/15,England,North Norfolk,,E07000147,99.937157
+2011/15,England,South Norfolk,,E07000149,100
+2011/15,England,Corby,,E07000150,99.8562923
+2011/15,England,Daventry,,E07000151,100
+2011/15,England,East Northamptonshire,,E07000152,99.9960334
+2011/15,England,Kettering,,E07000153,100
+2011/15,England,Northampton,,E07000154,100
+2011/15,England,South Northamptonshire,,E07000155,99.9389856
+2011/15,England,Wellingborough,,E07000156,99.8379951
+2011/15,England,Craven,,E07000163,99.7769603
+2011/15,England,Hambleton,,E07000164,99.7916346
+2011/15,England,Harrogate,,E07000165,99.922144
+2011/15,England,Richmondshire,,E07000166,99.8680578
+2011/15,England,Ryedale,,E07000167,99.7771642
+2011/15,England,Scarborough,,E07000168,99.8230705
+2011/15,England,Selby,,E07000169,99.998213
+2011/15,England,Ashfield,,E07000170,100
+2011/15,England,Bassetlaw,,E07000171,99.8626033
+2011/15,England,Broxtowe,,E07000172,100
+2011/15,England,Gedling,,E07000173,99.8849608
+2011/15,England,Mansfield,,E07000174,100
+2011/15,England,Newark and Sherwood,,E07000175,99.835856
+2011/15,England,Rushcliffe,,E07000176,100
+2011/15,England,Cherwell,,E07000177,99.859822
+2011/15,England,Oxford,,E07000178,100
+2011/15,England,South Oxfordshire,,E07000179,100
+2011/15,England,Vale of White Horse,,E07000180,99.5972854
+2011/15,England,West Oxfordshire,,E07000181,100
+2011/15,England,Mendip,,E07000187,100
+2011/15,England,Sedgemoor,,E07000188,100
+2011/15,England,South Somerset,,E07000189,100
+2011/15,England,Taunton Deane,,E07000190,100
+2011/15,England,West Somerset,,E07000191,99.7934338
+2011/15,England,Cannock Chase,,E07000192,100
+2011/15,England,East Staffordshire,,E07000193,100
+2011/15,England,Lichfield,,E07000194,100
+2011/15,England,Newcastle-under-Lyme,,E07000195,100
+2011/15,England,South Staffordshire,,E07000196,100
+2011/15,England,Stafford,,E07000197,100
+2011/15,England,Staffordshire Moorlands,,E07000198,100
+2011/15,England,Babergh,,E07000200,100
+2011/15,England,Forest Heath,,E07000201,98.7424471
+2011/15,England,Mid Suffolk,,E07000203,100
+2011/15,England,St Edmundsbury,,E07000204,99.9006323
+2011/15,England,Suffolk Coastal,,E07000205,99.8584758
+2011/15,England,Waveney,,E07000206,100
+2011/15,England,Elmbridge,,E07000207,100
+2011/15,England,Epsom and Ewell,,E07000208,100
+2011/15,England,Guildford,,E07000209,100
+2011/15,England,Mole Valley,,E07000210,100
+2011/15,England,Reigate and Banstead,,E07000211,100
+2011/15,England,Runnymede,,E07000212,100
+2011/15,England,Spelthorne,,E07000213,100
+2011/15,England,Surrey Heath,,E07000214,100
+2011/15,England,Tandridge,,E07000215,100
+2011/15,England,Waverley,,E07000216,100
+2011/15,England,Woking,,E07000217,100
+2011/15,England,North Warwickshire,,E07000218,99.9461021
+2011/15,England,Rugby,,E07000220,99.866033
+2011/15,England,Stratford-on-Avon,,E07000221,99.9790147
+2011/15,England,Warwick,,E07000222,100
+2011/15,England,Adur,,E07000223,100
+2011/15,England,Arun,,E07000224,100
+2011/15,England,Chichester,,E07000225,97.5512284
+2011/15,England,Crawley,,E07000226,100
+2011/15,England,Horsham,,E07000227,100
+2011/15,England,Mid Sussex,,E07000228,99.8958099
+2011/15,England,Bromsgrove,,E07000234,100
+2011/15,England,Malvern Hills,,E07000235,100
+2011/15,England,Redditch,,E07000236,100
+2011/15,England,Worcester,,E07000237,100
+2011/15,England,Wychavon,,E07000238,99.9343731
+2011/15,England,Wyre Forest,,E07000239,100
+2011/15,England,Bolton,,E08000001,100
+2011/15,England,Bury,,E08000002,100
+2011/15,England,Manchester,,E08000003,100
+2011/15,England,Oldham,,E08000004,100
+2011/15,England,Rochdale,,E08000005,100
+2011/15,England,Salford,,E08000006,100
+2011/15,England,Stockport,,E08000007,100
+2011/15,England,Tameside,,E08000008,100
+2011/15,England,Trafford,,E08000009,100
+2011/15,England,Wigan,,E08000010,100
+2011/15,England,Knowsley,,E08000011,100
+2011/15,England,St. Helens,,E08000013,100
+2011/15,England,Sefton,,E08000014,100
+2011/15,England,Wirral,,E08000015,100
+2011/15,England,Barnsley,,E08000016,100
+2011/15,England,Doncaster,,E08000017,100
+2011/15,England,Rotherham,,E08000018,100
+2011/15,England,Sheffield,,E08000019,99.8088267
+2011/15,England,,,E08000020,100
+2011/15,England,Newcastle upon Tyne,,E08000021,100
+2011/15,England,North Tyneside,,E08000022,100
+2011/15,England,South Tyneside,,E08000023,100
+2011/15,England,Sunderland,,E08000024,100
+2011/15,England,Birmingham,,E08000025,100
+2011/15,England,Coventry,,E08000026,100
+2011/15,England,Solihull,,E08000029,100
+2011/15,England,Walsall,,E08000030,100
+2011/15,England,Bradford,,E08000032,100
+2011/15,England,Calderdale,,E08000033,100
+2011/15,England,Kirklees,,E08000034,100
+2011/15,England,Leeds,,E08000035,100
+2011/15,England,Wakefield,,E08000036,100
+2011/15,England,Bexley,,E09000004,100
+2011/15,England,Bromley,,E09000006,100
+2011/15,England,Enfield,,E09000010,100
+2011/15,England,Hackney,,E09000012,100
+2011/15,England,Harrow,,E09000015,100
+2011/15,England,Havering,,E09000016,99.8660056
+2011/15,England,Hillingdon,,E09000017,100
+2011/15,England,Kingston upon Thames,,E09000021,100
+2011/15,Wales ,,,W92000004,99.73
+2011/15,Wales ,Isle of Anglesey,,W06000001,99.97
+2011/15,Wales ,Gwynedd,,W06000002,98.95
+2011/15,Wales ,Conwy,,W06000003,99.87
+2011/15,Wales ,Denbighshire,,W06000004,99.99
+2011/15,Wales ,Flintshire,,W06000005,100
+2011/15,Wales ,Wrexham,,W06000006,99.92
+2011/15,Wales ,Ceredigion,,W06000008,99.93
+2011/15,Wales ,Pembrokeshire,,W06000009,99.32
+2011/15,Wales ,Carmarthenshire,,W06000010,99.62
+2011/15,Wales ,Swansea,,W06000011,98.22
+2011/15,Wales ,Neath Port Talbot,,W06000012,99.89
+2011/15,Wales ,Bridgend,,W06000013,100
+2011/15,Wales ,Vale of Glamorgan,,W06000014,99.82
+2011/15,Wales ,Cardiff,,W06000015,100
+2011/15,Wales ,Rhondda Cynon Taf,,W06000016,100
+2011/15,Wales ,Caerphilly,,W06000018,100
+2011/15,Wales ,Blaenau Gwent,,W06000019,100
+2011/15,Wales ,Torfaen,,W06000020,99.97
+2011/15,Wales ,Monmouthshire,,W06000021,100
+2011/15,Wales ,Newport,,W06000022,99.99
+2011/15,Wales ,Powys,,W06000023,98.68
+2011/15,Wales ,Merthyr Tydfil,,W06000024,100
+2011/15,Wales ,Isle of Anglesey,Motorway ,W06000001,0
+2011/15,Wales ,Gwynedd,Motorway ,W06000002,0
+2011/15,Wales ,Conwy,Motorway ,W06000003,0
+2011/15,Wales ,Denbighshire,Motorway ,W06000004,0
+2011/15,Wales ,Flintshire,Motorway ,W06000005,0
+2011/15,Wales ,Wrexham,Motorway ,W06000006,0
+2011/15,Wales ,Ceredigion,Motorway ,W06000008,0
+2011/15,Wales ,Pembrokeshire,Motorway ,W06000009,0
+2011/15,Wales ,Carmarthenshire,Motorway ,W06000010,3
+2011/15,Wales ,Swansea,Motorway ,W06000011,50
+2011/15,Wales ,Neath Port Talbot,Motorway ,W06000012,34
+2011/15,Wales ,Bridgend,Motorway ,W06000013,43
+2011/15,Wales ,Vale of Glamorgan,Motorway ,W06000014,2
+2011/15,Wales ,Cardiff,Motorway ,W06000015,28
+2011/15,Wales ,Rhondda Cynon Taf,Motorway ,W06000016,14
+2011/15,Wales ,Caerphilly,Motorway ,W06000018,1
+2011/15,Wales ,Blaenau Gwent,Motorway ,W06000019,0
+2011/15,Wales ,Torfaen,Motorway ,W06000020,0
+2011/15,Wales ,Monmouthshire,Motorway ,W06000021,33
+2011/15,Wales ,Newport,Motorway ,W06000022,59
+2011/15,Wales ,Powys,Motorway ,W06000023,0
+2011/15,Wales ,Merthyr Tydfil,Motorway ,W06000024,0
+2011/15,Wales ,Isle of Anglesey,A-road ,W06000001,85
+2011/15,Wales ,Gwynedd,A-road ,W06000002,91
+2011/15,Wales ,Conwy,A-road ,W06000003,92
+2011/15,Wales ,Denbighshire,A-road ,W06000004,90
+2011/15,Wales ,Flintshire,A-road ,W06000005,98
+2011/15,Wales ,Wrexham,A-road ,W06000006,93
+2011/15,Wales ,Ceredigion,A-road ,W06000008,73
+2011/15,Wales ,Pembrokeshire,A-road ,W06000009,83
+2011/15,Wales ,Carmarthenshire,A-road ,W06000010,80
+2011/15,Wales ,Swansea,A-road ,W06000011,85
+2011/15,Wales ,Neath Port Talbot,A-road ,W06000012,93
+2011/15,Wales ,Bridgend,A-road ,W06000013,95
+2011/15,Wales ,Vale of Glamorgan,A-road ,W06000014,78
+2011/15,Wales ,Cardiff,A-road ,W06000015,98
+2011/15,Wales ,Rhondda Cynon Taf,A-road ,W06000016,95
+2011/15,Wales ,Caerphilly,A-road ,W06000018,86
+2011/15,Wales ,Blaenau Gwent,A-road ,W06000019,100
+2011/15,Wales ,Torfaen,A-road ,W06000020,83
+2011/15,Wales ,Monmouthshire,A-road ,W06000021,85
+2011/15,Wales ,Newport,A-road ,W06000022,94
+2011/15,Wales ,Powys,A-road ,W06000023,79
+2011/15,Wales ,Merthyr Tydfil,A-road ,W06000024,98
+2011/15,Wales ,Isle of Anglesey,B-road,W06000001,78
+2011/15,Wales ,Gwynedd,B-road,W06000002,53
+2011/15,Wales ,Conwy,B-road,W06000003,62
+2011/15,Wales ,Denbighshire,B-road,W06000004,89
+2011/15,Wales ,Flintshire,B-road,W06000005,72
+2011/15,Wales ,Wrexham,B-road,W06000006,95
+2011/15,Wales ,Ceredigion,B-road,W06000008,81
+2011/15,Wales ,Pembrokeshire,B-road,W06000009,75
+2011/15,Wales ,Carmarthenshire,B-road,W06000010,78
+2011/15,Wales ,Swansea,B-road,W06000011,94
+2011/15,Wales ,Neath Port Talbot,B-road,W06000012,68
+2011/15,Wales ,Bridgend,B-road,W06000013,63
+2011/15,Wales ,Vale of Glamorgan,B-road,W06000014,70
+2011/15,Wales ,Cardiff,B-road,W06000015,73
+2011/15,Wales ,Rhondda Cynon Taf,B-road,W06000016,81
+2011/15,Wales ,Caerphilly,B-road,W06000018,80
+2011/15,Wales ,Blaenau Gwent,B-road,W06000019,69
+2011/15,Wales ,Torfaen,B-road,W06000020,69
+2011/15,Wales ,Monmouthshire,B-road,W06000021,76
+2011/15,Wales ,Newport,B-road,W06000022,94
+2011/15,Wales ,Powys,B-road,W06000023,74
+2011/15,Wales ,Merthyr Tydfil,B-road,W06000024,61
+2011/15,Wales ,Isle of Anglesey,Classified Road ,W06000001,100
+2011/15,Wales ,Gwynedd,Classified Road ,W06000002,99
+2011/15,Wales ,Conwy,Classified Road ,W06000003,100
+2011/15,Wales ,Denbighshire,Classified Road ,W06000004,100
+2011/15,Wales ,Flintshire,Classified Road ,W06000005,95
+2011/15,Wales ,Wrexham,Classified Road ,W06000006,100
+2011/15,Wales ,Ceredigion,Classified Road ,W06000008,100
+2011/15,Wales ,Pembrokeshire,Classified Road ,W06000009,99
+2011/15,Wales ,Carmarthenshire,Classified Road ,W06000010,100
+2011/15,Wales ,Swansea,Classified Road ,W06000011,98
+2011/15,Wales ,Neath Port Talbot,Classified Road ,W06000012,97
+2011/15,Wales ,Bridgend,Classified Road ,W06000013,98
+2011/15,Wales ,Vale of Glamorgan,Classified Road ,W06000014,99
+2011/15,Wales ,Cardiff,Classified Road ,W06000015,100
+2011/15,Wales ,Rhondda Cynon Taf,Classified Road ,W06000016,96
+2011/15,Wales ,Caerphilly,Classified Road ,W06000018,100
+2011/15,Wales ,Blaenau Gwent,Classified Road ,W06000019,100
+2011/15,Wales ,Torfaen,Classified Road ,W06000020,99
+2011/15,Wales ,Monmouthshire,Classified Road ,W06000021,100
+2011/15,Wales ,Newport,Classified Road ,W06000022,100
+2011/15,Wales ,Powys,Classified Road ,W06000023,99
+2011/15,Wales ,Merthyr Tydfil,Classified Road ,W06000024,100
+2011/15,Wales ,Isle of Anglesey,Unclassified road,W06000001,99
+2011/15,Wales ,Gwynedd,Unclassified road,W06000002,99
+2011/15,Wales ,Conwy,Unclassified road,W06000003,99
+2011/15,Wales ,Denbighshire,Unclassified road,W06000004,100
+2011/15,Wales ,Flintshire,Unclassified road,W06000005,100
+2011/15,Wales ,Wrexham,Unclassified road,W06000006,100
+2011/15,Wales ,Ceredigion,Unclassified road,W06000008,97
+2011/15,Wales ,Pembrokeshire,Unclassified road,W06000009,98
+2011/15,Wales ,Carmarthenshire,Unclassified road,W06000010,98
+2011/15,Wales ,Swansea,Unclassified road,W06000011,96
+2011/15,Wales ,Neath Port Talbot,Unclassified road,W06000012,100
+2011/15,Wales ,Bridgend,Unclassified road,W06000013,100
+2011/15,Wales ,Vale of Glamorgan,Unclassified road,W06000014,100
+2011/15,Wales ,Cardiff,Unclassified road,W06000015,100
+2011/15,Wales ,Rhondda Cynon Taf,Unclassified road,W06000016,100
+2011/15,Wales ,Caerphilly,Unclassified road,W06000018,100
+2011/15,Wales ,Blaenau Gwent,Unclassified road,W06000019,100
+2011/15,Wales ,Torfaen,Unclassified road,W06000020,100
+2011/15,Wales ,Monmouthshire,Unclassified road,W06000021,99
+2011/15,Wales ,Newport,Unclassified road,W06000022,100
+2011/15,Wales ,Powys,Unclassified road,W06000023,98
+2011/15,Wales ,Merthyr Tydfil,Unclassified road,W06000024,100
+2011/15,Scotland ,,,S92000003,99.3644698
+2011/15,Scotland ,Clackmannanshire,,S12000005,100
+2011/15,Scotland ,Dumfries and Galloway,,S12000006,99.1622062
+2011/15,Scotland ,East Ayrshire,,S12000008,99.8327126
+2011/15,Scotland ,East Lothian,,S12000010,100
+2011/15,Scotland ,East Renfrewshire,,S12000011,100
+2011/15,Scotland ,Na h-Eileanan Siar,,S12000013,97.2552137
+2011/15,Scotland ,Falkirk,,S12000014,99.9797796
+2011/15,Scotland ,Fife,,S12000015,99.8138644
+2011/15,Scotland ,Highland,,S12000017,96.4243649
+2011/15,Scotland ,Inverclyde,,S12000018,99.7791921
+2011/15,Scotland ,Midlothian,,S12000019,100
+2011/15,Scotland ,Moray,,S12000020,99.0197557
+2011/15,Scotland ,North Ayrshire,,S12000021,99.8471815
+2011/15,Scotland ,Orkney Islands,,S12000023,99.8762167
+2011/15,Scotland ,Perth and Kinross,,S12000024,98.163821
+2011/15,Scotland ,Scottish Borders,,S12000026,98.98958
+2011/15,Scotland ,Shetland Islands,,S12000027,99.2021582
+2011/15,Scotland ,South Ayrshire,,S12000028,99.6838475
+2011/15,Scotland ,South Lanarkshire,,S12000029,99.2534036
+2011/15,Scotland ,Stirling,,S12000030,98.2624326
+2011/15,Scotland ,Aberdeen City,,S12000033,99.9819455
+2011/15,Scotland ,Aberdeenshire,,S12000034,99.6882402
+2011/15,Scotland ,Argyll and Bute,,S12000035,95.7262922
+2011/15,Scotland ,City of Edinburgh,,S12000036,100
+2011/15,Scotland ,Renfrewshire,,S12000038,99.9032931
+2011/15,Scotland ,West Dunbartonshire,,S12000039,99.9272652
+2011/15,Scotland ,West Lothian,,S12000040,99.9395311
+2011/15,Scotland ,Angus,,S12000041,99.9517423
+2011/15,Scotland ,Dundee City,,S12000042,100
+2011/15,Scotland ,North Lanarkshire,,S12000044,99.9989925
+2011/15,Scotland ,East Dunbartonshire,,S12000045,100
+2011/15,Scotland ,Glasgow City,,S12000046,100
+2011/15,Scotland ,Clackmannanshire,Motorway ,S12000005,0
+2011/15,Scotland ,Dumfries and Galloway,Motorway ,S12000006,12.928519
+2011/15,Scotland ,East Ayrshire,Motorway ,S12000008,1.9122047
+2011/15,Scotland ,East Lothian,Motorway ,S12000010,0
+2011/15,Scotland ,East Renfrewshire,Motorway ,S12000011,24.1627827
+2011/15,Scotland ,Na h-Eileanan Siar,Motorway ,S12000013,0
+2011/15,Scotland ,Falkirk,Motorway ,S12000014,57.9946416
+2011/15,Scotland ,Fife,Motorway ,S12000015,11.6102055
+2011/15,Scotland ,Highland,Motorway ,S12000017,0
+2011/15,Scotland ,Inverclyde,Motorway ,S12000018,0
+2011/15,Scotland ,Midlothian,Motorway ,S12000019,0
+2011/15,Scotland ,Moray,Motorway ,S12000020,0
+2011/15,Scotland ,North Ayrshire,Motorway ,S12000021,0
+2011/15,Scotland ,Orkney Islands,Motorway ,S12000023,0
+2011/15,Scotland ,Perth and Kinross,Motorway ,S12000024,16.7222042
+2011/15,Scotland ,Scottish Borders,Motorway ,S12000026,0
+2011/15,Scotland ,Shetland Islands,Motorway ,S12000027,0
+2011/15,Scotland ,South Ayrshire,Motorway ,S12000028,0
+2011/15,Scotland ,South Lanarkshire,Motorway ,S12000029,19.2086496
+2011/15,Scotland ,Stirling,Motorway ,S12000030,22.1283061
+2011/15,Scotland ,Aberdeen City,Motorway ,S12000033,0
+2011/15,Scotland ,Aberdeenshire,Motorway ,S12000034,0
+2011/15,Scotland ,Argyll and Bute,Motorway ,S12000035,0
+2011/15,Scotland ,City of Edinburgh,Motorway ,S12000036,44.1430568
+2011/15,Scotland ,Renfrewshire,Motorway ,S12000038,14.8775895
+2011/15,Scotland ,West Dunbartonshire,Motorway ,S12000039,2.6184539
+2011/15,Scotland ,West Lothian,Motorway ,S12000040,37.8327949
+2011/15,Scotland ,Angus,Motorway ,S12000041,0
+2011/15,Scotland ,Dundee City,Motorway ,S12000042,0
+2011/15,Scotland ,North Lanarkshire,Motorway ,S12000044,42.1674609
+2011/15,Scotland ,East Dunbartonshire,Motorway ,S12000045,5.9838433
+2011/15,Scotland ,Glasgow City,Motorway ,S12000046,54.3183693
+2011/15,Scotland ,Clackmannanshire,A-road ,S12000005,99.976675
+2011/15,Scotland ,Dumfries and Galloway,A-road ,S12000006,83.9199083
+2011/15,Scotland ,East Ayrshire,A-road ,S12000008,94.5124855
+2011/15,Scotland ,East Lothian,A-road ,S12000010,92.1996566
+2011/15,Scotland ,East Renfrewshire,A-road ,S12000011,99.1066805
+2011/15,Scotland ,Na h-Eileanan Siar,A-road ,S12000013,78.0417095
+2011/15,Scotland ,Falkirk,A-road ,S12000014,83.1033263
+2011/15,Scotland ,Fife,A-road ,S12000015,88.5114473
+2011/15,Scotland ,Highland,A-road ,S12000017,85.7408882
+2011/15,Scotland ,Inverclyde,A-road ,S12000018,99.4674633
+2011/15,Scotland ,Midlothian,A-road ,S12000019,90.699626
+2011/15,Scotland ,Moray,A-road ,S12000020,81.8911175
+2011/15,Scotland ,North Ayrshire,A-road ,S12000021,95.0641207
+2011/15,Scotland ,Orkney Islands,A-road ,S12000023,81.651944
+2011/15,Scotland ,Perth and Kinross,A-road ,S12000024,88.329254
+2011/15,Scotland ,Scottish Borders,A-road ,S12000026,90.191958
+2011/15,Scotland ,Shetland Islands,A-road ,S12000027,79.124096
+2011/15,Scotland ,South Ayrshire,A-road ,S12000028,83.2151753
+2011/15,Scotland ,South Lanarkshire,A-road ,S12000029,81.9300667
+2011/15,Scotland ,Stirling,A-road ,S12000030,96.0433964
+2011/15,Scotland ,Aberdeen City,A-road ,S12000033,97.4146024
+2011/15,Scotland ,Aberdeenshire,A-road ,S12000034,78.8630199
+2011/15,Scotland ,Argyll and Bute,A-road ,S12000035,87.3132805
+2011/15,Scotland ,City of Edinburgh,A-road ,S12000036,99.6315589
+2011/15,Scotland ,Renfrewshire,A-road ,S12000038,86.8605894
+2011/15,Scotland ,West Dunbartonshire,A-road ,S12000039,99.8441397
+2011/15,Scotland ,West Lothian,A-road ,S12000040,93.6075742
+2011/15,Scotland ,Angus,A-road ,S12000041,80.1560888
+2011/15,Scotland ,Dundee City,A-road ,S12000042,100
+2011/15,Scotland ,North Lanarkshire,A-road ,S12000044,90.5892665
+2011/15,Scotland ,East Dunbartonshire,A-road ,S12000045,98.2819754
+2011/15,Scotland ,Glasgow City,A-road ,S12000046,93.967244
+2011/15,Scotland ,Clackmannanshire,B-road,S12000005,99.8104846
+2011/15,Scotland ,Dumfries and Galloway,B-road,S12000006,73.5146166
+2011/15,Scotland ,East Ayrshire,B-road,S12000008,87.1994627
+2011/15,Scotland ,East Lothian,B-road,S12000010,81.9817172
+2011/15,Scotland ,East Renfrewshire,B-road,S12000011,78.0381495
+2011/15,Scotland ,Na h-Eileanan Siar,B-road,S12000013,55.3118863
+2011/15,Scotland ,Falkirk,B-road,S12000014,97.9097159
+2011/15,Scotland ,Fife,B-road,S12000015,84.1312788
+2011/15,Scotland ,Highland,B-road,S12000017,63.2224145
+2011/15,Scotland ,Inverclyde,B-road,S12000018,32.1556912
+2011/15,Scotland ,Midlothian,B-road,S12000019,98.885106
+2011/15,Scotland ,Moray,B-road,S12000020,80.3951139
+2011/15,Scotland ,North Ayrshire,B-road,S12000021,90.7127328
+2011/15,Scotland ,Orkney Islands,B-road,S12000023,74.1124177
+2011/15,Scotland ,Perth and Kinross,B-road,S12000024,71.1647155
+2011/15,Scotland ,Scottish Borders,B-road,S12000026,86.5879817
+2011/15,Scotland ,Shetland Islands,B-road,S12000027,65.0327173
+2011/15,Scotland ,South Ayrshire,B-road,S12000028,93.3440314
+2011/15,Scotland ,South Lanarkshire,B-road,S12000029,76.7844072
+2011/15,Scotland ,Stirling,B-road,S12000030,82.0422837
+2011/15,Scotland ,Aberdeen City,B-road,S12000033,88.5895862
+2011/15,Scotland ,Aberdeenshire,B-road,S12000034,73.6718312
+2011/15,Scotland ,Argyll and Bute,B-road,S12000035,55.3387322
+2011/15,Scotland ,City of Edinburgh,B-road,S12000036,70.4262483
+2011/15,Scotland ,Renfrewshire,B-road,S12000038,99.7582328
+2011/15,Scotland ,West Dunbartonshire,B-road,S12000039,91.4484622
+2011/15,Scotland ,West Lothian,B-road,S12000040,98.0632677
+2011/15,Scotland ,Angus,B-road,S12000041,75.6614637
+2011/15,Scotland ,Dundee City,B-road,S12000042,57.2450249
+2011/15,Scotland ,North Lanarkshire,B-road,S12000044,93.7607673
+2011/15,Scotland ,East Dunbartonshire,B-road,S12000045,99.0496034
+2011/15,Scotland ,Glasgow City,B-road,S12000046,100
+2011/15,Scotland ,Clackmannanshire,Classified Road ,S12000005,99.9416876
+2011/15,Scotland ,Dumfries and Galloway,Classified Road ,S12000006,99.1622062
+2011/15,Scotland ,East Ayrshire,Classified Road ,S12000008,99.8327126
+2011/15,Scotland ,East Lothian,Classified Road ,S12000010,100
+2011/15,Scotland ,East Renfrewshire,Classified Road ,S12000011,100
+2011/15,Scotland ,Na h-Eileanan Siar,Classified Road ,S12000013,97.2552137
+2011/15,Scotland ,Falkirk,Classified Road ,S12000014,99.9797796
+2011/15,Scotland ,Fife,Classified Road ,S12000015,99.8138644
+2011/15,Scotland ,Highland,Classified Road ,S12000017,96.1025972
+2011/15,Scotland ,Inverclyde,Classified Road ,S12000018,99.7229077
+2011/15,Scotland ,Midlothian,Classified Road ,S12000019,100
+2011/15,Scotland ,Moray,Classified Road ,S12000020,99.0197557
+2011/15,Scotland ,North Ayrshire,Classified Road ,S12000021,95.6407348
+2011/15,Scotland ,Orkney Islands,Classified Road ,S12000023,99.8762167
+2011/15,Scotland ,Perth and Kinross,Classified Road ,S12000024,95.1569304
+2011/15,Scotland ,Scottish Borders,Classified Road ,S12000026,98.98958
+2011/15,Scotland ,Shetland Islands,Classified Road ,S12000027,99.0644013
+2011/15,Scotland ,South Ayrshire,Classified Road ,S12000028,99.6838475
+2011/15,Scotland ,South Lanarkshire,Classified Road ,S12000029,97.4601083
+2011/15,Scotland ,Stirling,Classified Road ,S12000030,94.459899
+2011/15,Scotland ,Aberdeen City,Classified Road ,S12000033,99.8988951
+2011/15,Scotland ,Aberdeenshire,Classified Road ,S12000034,99.6882402
+2011/15,Scotland ,Argyll and Bute,Classified Road ,S12000035,91.7588213
+2011/15,Scotland ,City of Edinburgh,Classified Road ,S12000036,100
+2011/15,Scotland ,Renfrewshire,Classified Road ,S12000038,96.8366672
+2011/15,Scotland ,West Dunbartonshire,Classified Road ,S12000039,91.7861596
+2011/15,Scotland ,West Lothian,Classified Road ,S12000040,99.9395311
+2011/15,Scotland ,Angus,Classified Road ,S12000041,99.9517423
+2011/15,Scotland ,Dundee City,Classified Road ,S12000042,100
+2011/15,Scotland ,North Lanarkshire,Classified Road ,S12000044,99.6262304
+2011/15,Scotland ,East Dunbartonshire,Classified Road ,S12000045,93.438608
+2011/15,Scotland ,Glasgow City,Classified Road ,S12000046,100
+2011/15,Scotland ,Clackmannanshire,Unclassified road,S12000005,100
+2011/15,Scotland ,Dumfries and Galloway,Unclassified road,S12000006,97.6710048
+2011/15,Scotland ,East Ayrshire,Unclassified road,S12000008,99.388241
+2011/15,Scotland ,East Lothian,Unclassified road,S12000010,99.8406831
+2011/15,Scotland ,East Renfrewshire,Unclassified road,S12000011,99.7022268
+2011/15,Scotland ,Na h-Eileanan Siar,Unclassified road,S12000013,96.2358552
+2011/15,Scotland ,Falkirk,Unclassified road,S12000014,99.1406329
+2011/15,Scotland ,Fife,Unclassified road,S12000015,99.5160475
+2011/15,Scotland ,Highland,Unclassified road,S12000017,96.4243649
+2011/15,Scotland ,Inverclyde,Unclassified road,S12000018,99.7791921
+2011/15,Scotland ,Midlothian,Unclassified road,S12000019,99.5708257
+2011/15,Scotland ,Moray,Unclassified road,S12000020,98.0123662
+2011/15,Scotland ,North Ayrshire,Unclassified road,S12000021,99.8471815
+2011/15,Scotland ,Orkney Islands,Unclassified road,S12000023,97.1079728
+2011/15,Scotland ,Perth and Kinross,Unclassified road,S12000024,98.163821
+2011/15,Scotland ,Scottish Borders,Unclassified road,S12000026,97.5730322
+2011/15,Scotland ,Shetland Islands,Unclassified road,S12000027,99.2021582
+2011/15,Scotland ,South Ayrshire,Unclassified road,S12000028,98.7425752
+2011/15,Scotland ,South Lanarkshire,Unclassified road,S12000029,99.2534036
+2011/15,Scotland ,Stirling,Unclassified road,S12000030,98.2624326
+2011/15,Scotland ,Aberdeen City,Unclassified road,S12000033,99.9819455
+2011/15,Scotland ,Aberdeenshire,Unclassified road,S12000034,96.256109
+2011/15,Scotland ,Argyll and Bute,Unclassified road,S12000035,95.7262922
+2011/15,Scotland ,City of Edinburgh,Unclassified road,S12000036,99.9745903
+2011/15,Scotland ,Renfrewshire,Unclassified road,S12000038,99.9032931
+2011/15,Scotland ,West Dunbartonshire,Unclassified road,S12000039,99.9272652
+2011/15,Scotland ,West Lothian,Unclassified road,S12000040,99.7615798
+2011/15,Scotland ,Angus,Unclassified road,S12000041,96.0977801
+2011/15,Scotland ,Dundee City,Unclassified road,S12000042,100
+2011/15,Scotland ,North Lanarkshire,Unclassified road,S12000044,99.9989925
+2011/15,Scotland ,East Dunbartonshire,Unclassified road,S12000045,100
+2011/15,Scotland ,Glasgow City,Unclassified road,S12000046,100
+2011/15,Northern Ireland,,,N92000002,99.77
+2011/15,Northern Ireland,Antrim and Newtownabbey,,N09000001,100
+2011/15,Northern Ireland,"Armagh City, Banbridge and Craigavon",,N09000002,99.95
+2011/15,Northern Ireland,Belfast,,N09000003,100
+2011/15,Northern Ireland,Causeway Coast and Glens,,N09000004,99.66
+2011/15,Northern Ireland,Derry City and Strabane,,N09000005,99.09
+2011/15,Northern Ireland,Fermanagh and Omagh,,N09000006,99.34
+2011/15,Northern Ireland,Lisburn and Castlereagh,,N09000007,100
+2011/15,Northern Ireland,Mid and East Antrim,,N09000008,100
+2011/15,Northern Ireland,Mid Ulster,,N09000009,98.78
+2011/15,Northern Ireland,"Newry, Mourne and Down",,N09000010,99.51
+2011/15,Northern Ireland,Ards and North Down,,N09000011,100
+2011/15,Northern Ireland,Antrim and Newtownabbey,Motorway ,N09000001,34
+2011/15,Northern Ireland,"Armagh City, Banbridge and Craigavon",Motorway ,N09000002,24
+2011/15,Northern Ireland,Belfast,Motorway ,N09000003,83
+2011/15,Northern Ireland,Causeway Coast and Glens,Motorway ,N09000004,7
+2011/15,Northern Ireland,Derry City and Strabane,Motorway ,N09000005,14
+2011/15,Northern Ireland,Fermanagh and Omagh,Motorway ,N09000006,0
+2011/15,Northern Ireland,Lisburn and Castlereagh,Motorway ,N09000007,35
+2011/15,Northern Ireland,Mid and East Antrim,Motorway ,N09000008,18
+2011/15,Northern Ireland,Mid Ulster,Motorway ,N09000009,15
+2011/15,Northern Ireland,"Newry, Mourne and Down",Motorway ,N09000010,12
+2011/15,Northern Ireland,Ards and North Down,Motorway ,N09000011,53
+2011/15,Northern Ireland,Antrim and Newtownabbey,A-road ,N09000001,73
+2011/15,Northern Ireland,"Armagh City, Banbridge and Craigavon",A-road ,N09000002,64
+2011/15,Northern Ireland,Belfast,A-road ,N09000003,72
+2011/15,Northern Ireland,Causeway Coast and Glens,A-road ,N09000004,75
+2011/15,Northern Ireland,Derry City and Strabane,A-road ,N09000005,66
+2011/15,Northern Ireland,Fermanagh and Omagh,A-road ,N09000006,52
+2011/15,Northern Ireland,Lisburn and Castlereagh,A-road ,N09000007,70
+2011/15,Northern Ireland,Mid and East Antrim,A-road ,N09000008,67
+2011/15,Northern Ireland,Mid Ulster,A-road ,N09000009,68
+2011/15,Northern Ireland,"Newry, Mourne and Down",A-road ,N09000010,77
+2011/15,Northern Ireland,Ards and North Down,A-road ,N09000011,92
+2011/15,Northern Ireland,Antrim and Newtownabbey,B-road ,N09000001,86
+2011/15,Northern Ireland,"Armagh City, Banbridge and Craigavon",B-road ,N09000002,87
+2011/15,Northern Ireland,Belfast,B-road ,N09000003,91
+2011/15,Northern Ireland,Causeway Coast and Glens,B-road ,N09000004,77
+2011/15,Northern Ireland,Derry City and Strabane,B-road ,N09000005,80
+2011/15,Northern Ireland,Fermanagh and Omagh,B-road ,N09000006,83
+2011/15,Northern Ireland,Lisburn and Castlereagh,B-road ,N09000007,86
+2011/15,Northern Ireland,Mid and East Antrim,B-road ,N09000008,84
+2011/15,Northern Ireland,Mid Ulster,B-road ,N09000009,78
+2011/15,Northern Ireland,"Newry, Mourne and Down",B-road ,N09000010,80
+2011/15,Northern Ireland,Ards and North Down,B-road ,N09000011,60
+2011/15,Northern Ireland,Antrim and Newtownabbey,Classified road,N09000001,100
+2011/15,Northern Ireland,"Armagh City, Banbridge and Craigavon",Classified road,N09000002,97
+2011/15,Northern Ireland,Belfast,Classified road,N09000003,100
+2011/15,Northern Ireland,Causeway Coast and Glens,Classified road,N09000004,100
+2011/15,Northern Ireland,Derry City and Strabane,Classified road,N09000005,99
+2011/15,Northern Ireland,Fermanagh and Omagh,Classified road,N09000006,96
+2011/15,Northern Ireland,Lisburn and Castlereagh,Classified road,N09000007,100
+2011/15,Northern Ireland,Mid and East Antrim,Classified road,N09000008,100
+2011/15,Northern Ireland,Mid Ulster,Classified road,N09000009,99
+2011/15,Northern Ireland,"Newry, Mourne and Down",Classified road,N09000010,100
+2011/15,Northern Ireland,Ards and North Down,Classified road,N09000011,100
+2011/15,Northern Ireland,Antrim and Newtownabbey,Unclassified road,N09000001,96
+2011/15,Northern Ireland,"Armagh City, Banbridge and Craigavon",Unclassified road,N09000002,100
+2011/15,Northern Ireland,Belfast,Unclassified road,N09000003,97
+2011/15,Northern Ireland,Causeway Coast and Glens,Unclassified road,N09000004,76
+2011/15,Northern Ireland,Derry City and Strabane,Unclassified road,N09000005,99
+2011/15,Northern Ireland,Fermanagh and Omagh,Unclassified road,N09000006,99
+2011/15,Northern Ireland,Lisburn and Castlereagh,Unclassified road,N09000007,97
+2011/15,Northern Ireland,Mid and East Antrim,Unclassified road,N09000008,77
+2011/15,Northern Ireland,Mid Ulster,Unclassified road,N09000009,99
+2011/15,Northern Ireland,"Newry, Mourne and Down",Unclassified road,N09000010,99
+2011/15,Northern Ireland,Ards and North Down,Unclassified road,N09000011,85
