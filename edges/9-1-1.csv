@@ -1,3 +1,4 @@
 From,To
-Country,Local Authority
-Country,Road type
+Local Authority,Road type
+Country,Geocode
+Geocode,Local Authority
