@@ -14,7 +14,7 @@ import os
 
 # %% A dictionary of defaults to add
 
-add_fields = {'reporting_status': 'notstarted', 'published': True, 'graph_type': 'line'}
+add_fields = {'reporting_status': 'notstarted', 'published': True, 'graph_type': 'line', 'graph_title': '', 'data_show_map': True, 'source_active_1': True, 'source_active_2': False, 'source_active_3': False, 'source_active_4': False, 'source_active_5': False, 'source_active_6': False, 'data_non_statistical': False}
 
 # %% Which metadata items do we keep?
 
