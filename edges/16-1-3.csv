@@ -1,9 +1,9 @@
 From,To
-Type of Crime,Crime subcategory
-Type of Crime,Sex
-Type of Crime,Age
-Type of Crime,Ethnicity
-Type of Crime,Income
-Type of Crime,Disability Status
+Type of Crime,Crime Subcategory
+Crime Subcategory,Ethnicity
+Crime Subcategory,Sex
+Crime Subcategory,Age
+Crime Subcategory,Disability Status
+Crime Subcategory,Household Income
 Sex,Region
-Disability Status,Limits Activities
+Disability Status,Limits activities
