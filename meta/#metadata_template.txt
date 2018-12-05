@@ -1,0 +1,64 @@
+METADATA TEMPLATE
+NOTE: Remember to delete these 5 lines when you are ready to upload, and save the metadata in the format ?-?-?.md
+Replace the '?'s are appropriate, and use ' >-' followed by an indented new line for large text blocks
+Catch-all text (displays above the chart) can be added in the free-text area after the dashed lines at the bottom of this file
+You can see an example of a completed .md file here: https://raw.githubusercontent.com/ONSdigital/sdg-data/develop/meta/3-2-1.md
+---
+indicator: ?.?.?
+layout: indicator
+permalink: /?-?-?/
+sdg_goal: '?'
+indicator_sort_order: ??-??-??
+title: 
+target_id: '?.?'
+target:
+indicator_name:
+indicator_definition:
+national_indicator_available: 
+national_indicator_description:
+national_indicator_periodicity: Annual/Quarterly
+national_geographical_coverage: 
+national_earliest_available_data:
+admin_next_release: 
+admin_statistical_classification: 
+admin_contact_details: 
+computation_units: 
+computation_definitions: 
+computation_calculations:
+computation_numerator:
+computation_denominator:
+computation_disaggregation:
+un_designated_tier: '1/2/3'
+un_custodian_agency:
+goal_meta_link: 'https://unstats.un.org/sdgs/files/metadata-compilation/???.pdf '
+goal_meta_link_text: 
+source_active_1: true/false
+source_organisation_1: 
+source_periodicity_1: 
+source_earliest_available_1:
+source_geographical_coverage_1:
+source_url_1:
+source_url_text_1:
+source_release_date_1:
+source_next_release_1:
+source_statistical_classification_1:
+source_contact_1:
+source_other_info_1:
+source_active_2: false
+source_url_text_2: Link to Source
+source_active_3: false
+source_url_text_3: Link to Source
+source_active_4: false
+source_url_text_4: Link to Source
+source_active_5: false
+source_url_text_5: Link to Source
+source_active_6: false
+source_url_text_6:Link to Source
+reporting_status: notstrted/complete
+published: true
+data_non_statistical: false/true
+graph_title: '?'
+graph_type: line/bar
+data_show_map: true/false 
+data_footnote: 
+---
