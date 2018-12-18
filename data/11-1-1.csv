@@ -1,143 +1,1664 @@
-Year,Area,Fails decent homes criteria,Value
-2008,City centre,,45.89786468
-2008,Other urban centre,,37.53985386
-2008,,,38.73383991
-2008,City centre,Minimum standard,28.49278432
-2008,Other urban centre,Minimum standard,22.87285187
-2008,,Minimum standard,23.67568894
-2008,City centre,Repair,11.8813863
-2008,Other urban centre,Repair,8.509467923999999
-2008,,Repair,8.991164297000001
-2008,City centre,"Modern facilities 
-and services",10.14681207
-2008,Other urban centre,"Modern facilities 
-and services",4.5665025980000005
-2008,,"Modern facilities 
-and services",5.363679319
-2008,City centre,Thermal comfort,19.32561844
-2008,Other urban centre,Thermal comfort,14.20770664
-2008,,Thermal comfort,14.93882741
-2009,City centre,,40.37118486
-2009,Other urban centre,,34.190303
-2009,,,35.18234277
-2009,City centre,Minimum standard,25.76934397
-2009,Other urban centre,Minimum standard,20.93275085
-2009,,Minimum standard,21.70903048
-2009,City centre,Repair,9.699487546
-2009,Other urban centre,Repair,8.657939032
-2009,,Repair,8.825108955
-2009,City centre,"Modern facilities 
-and services",10.220151800000002
-2009,Other urban centre,"Modern facilities 
-and services",4.240026854
-2009,,"Modern facilities 
-and services",5.1998448669999995
-2009,City centre,Thermal comfort,15.99217362
-2009,Other urban centre,Thermal comfort,11.25905909
-2009,,Thermal comfort,12.01873027
-2010,City centre,,34.814
-2010,Other urban centre,,30.523000000000003
-2010,,,31.233
-2010,City centre,Minimum standard,20.73
-2010,Other urban centre,Minimum standard,17.652
-2010,,Minimum standard,18.160999999999998
-2010,City centre,Repair,9.682
-2010,Other urban centre,Repair,8.496
-2010,,Repair,8.693
-2010,City centre,"Modern facilities 
-and services",6.621
-2010,Other urban centre,"Modern facilities 
-and services",3.093
-2010,,"Modern facilities 
-and services",3.677
-2010,City centre,Thermal comfort,14.132
-2010,Other urban centre,Thermal comfort,11.374
-2010,,Thermal comfort,11.83
-2011,City centre,,32.34
-2011,Other urban centre,,29.003
-2011,,,29.55
-2011,City centre,Minimum standard,17.862000000000002
-2011,Other urban centre,Minimum standard,17.471
-2011,,Minimum standard,17.535
-2011,City centre,Repair,8.641
-2011,Other urban centre,Repair,8.033999999999999
-2011,,Repair,8.133
-2011,Other urban centre,"Modern facilities 
-and services",2.8289999999999997
-2011,,"Modern facilities 
-and services",2.9019999999999997
-2011,City centre,Thermal comfort,14.164000000000001
-2011,Other urban centre,Thermal comfort,9.972999999999999
-2011,,Thermal comfort,10.66
-2012,City centre,,30.393
-2012,Other urban centre,,28.388
-2012,,,28.693
-2012,City centre,Minimum standard,17.574
-2012,Other urban centre,Minimum standard,17.656
-2012,,Minimum standard,17.643
-2012,City centre,Repair,5.8020000000000005
-2012,Other urban centre,Repair,6.985
-2012,,Repair,6.805
-2012,City centre,"Modern facilities 
-and services",3.157
-2012,Other urban centre,"Modern facilities 
-and services",3.102
-2012,,"Modern facilities 
-and services",3.11
-2012,City centre,Thermal comfort,15.206
-2012,Other urban centre,Thermal comfort,9.133
-2012,,Thermal comfort,10.058
-2013,City centre,,35.88711918
-2013,Other urban centre,,26.28139529
-2013,,,27.66556603
-2013,City centre,Minimum standard,17.53106557
-2013,Other urban centre,Minimum standard,15.92357135
-2013,,Minimum standard,16.15520891
-2013,City centre,Repair,5.162357871
-2013,Other urban centre,Repair,6.172759516
-2013,,Repair,6.02716212
-2013,City centre,"Modern facilities 
-and services",5.927326582999999
-2013,Other urban centre,"Modern facilities 
-and services",3.578637085
-2013,,"Modern facilities 
-and services",3.9170797989999997
-2013,City centre,Thermal comfort,21.23823232
-2013,Other urban centre,Thermal comfort,8.027267945
-2013,,Thermal comfort,9.930948548
-2014,City centre,,33.47746689
-2014,Other urban centre,,24.04738636
-2014,,,25.45999225
-2014,City centre,Minimum standard,16.34568964
-2014,Other urban centre,Minimum standard,14.44155155
-2014,,Minimum standard,14.72678736
-2014,City centre,Repair,5.795297118
-2014,Other urban centre,Repair,5.516898011
-2014,,Repair,5.558601602
-2014,City centre,"Modern facilities 
-and services",5.401597364
-2014,Other urban centre,"Modern facilities 
-and services",3.734639328
-2014,,"Modern facilities 
-and services",3.984346075
-2014,City centre,Thermal comfort,17.83954472
-2014,Other urban centre,Thermal comfort,6.468425272
-2014,,Thermal comfort,8.171794636
-2015,City centre,,26.48433619
-2015,Other urban centre,,22.27699332
-2015,,,23.004483999999998
-2015,City centre,Minimum standard,16.36041117
-2015,Other urban centre,Minimum standard,13.757578299999999
-2015,,Minimum standard,14.20763352
-2015,City centre,Repair,6.260277519
-2015,Other urban centre,Repair,4.818074496
-2015,,Repair,5.067445485
-2015,City centre,"Modern facilities 
-and services",4.585668736000001
-2015,Other urban centre,"Modern facilities 
-and services",2.426104117
-2015,,"Modern facilities 
-and services",2.7995139310000003
-2015,City centre,Thermal comfort,14.792280400000001
-2015,Other urban centre,Thermal comfort,5.593836812
-2015,,Thermal comfort,7.184337547999999
+Year,Area type,Household composition,Age of oldest person,Age of youngest person,Income group,Living in poverty,Workless households,Long term illness or disability,Ethnicity of household reference person (HRP),Length of residence,Sub-national area,Fails decent homes criteria,Value
+2008,City centre,,,,,,,,,,,,45.8978646808
+2008,Other urban centre,,,,,,,,,,,,37.5398538621
+2008,Suburban,,,,,,,,,,,,28.5719278036
+2008,All city and urban areas,,,,,,,,,,,,38.7338399109
+2008,,Couple under 60,,,,,,,,,,,32.0785913458
+2008,,Couple 60 or over,,,,,,,,,,,30.1277921025
+2008,,Couple with children,,,,,,,,,,,30.1891902782
+2008,,Lone parent,,,,,,,,,,,31.1315986189
+2008,,Multi-person household,,,,,,,,,,,38.007913323000004
+2008,,One person under 60,,,,,,,,,,,35.492217784
+2008,,One person 60 or over,,,,,,,,,,,35.5729947841
+2008,,,Under 60 years,,,,,,,,,,32.555280698000004
+2008,,,60 years or more,,,,,,,,,,33.1041171401
+2008,,,75 years or more,,,,,,,,,,34.6853560054
+2008,,,,Under 5 years,,,,,,,,,30.5142304455
+2008,,,,under 16 years,,,,,,,,,30.806699296799998
+2008,,,,16 years or more,,,,,,,,,33.464463279099995
+2008,,,,,1st quintile (lowest),,,,,,,,36.4264860944
+2008,,,,,2nd quintile,,,,,,,,33.1605487248
+2008,,,,,3rd quintile,,,,,,,,33.641705561900004
+2008,,,,,4th quintile,,,,,,,,29.786153926999997
+2008,,,,,5th quintile (highest),,,,,,,,30.7799220372
+2008,,,,,,In poverty,,,,,,,36.2905922243
+2008,,,,,,Not in poverty,,,,,,,31.9913642684
+2008,,,,,,,Workless,,,,,,33.3932823941
+2008,,,,,,,Not workless,,,,,,32.51917294
+2008,,,,,,,,Yes,,,,,32.6420679375
+2008,,,,,,,,No,,,,,32.8023144012
+2008,,,,,,,,,White,,,,32.6236368277
+2008,,,,,,,,,Black,,,,33.7940948258
+2008,,,,,,,,,Asian,,,,32.9704617859
+2008,,,,,,,,,Other,,,,36.0173033598
+2008,,,,,,,,,All minority,,,,34.0604445882
+2008,,,,,,,,,,Less than 1 year,,,34.6358770971
+2008,,,,,,,,,,1-4 years,,,28.9787074213
+2008,,,,,,,,,,5-9 years,,,30.281131680300003
+2008,,,,,,,,,,10-19 years,,,30.387789304499996
+2008,,,,,,,,,,20-29 years,,,36.653468761599996
+2008,,,,,,,,,,30 or more years,,,41.6452937444
+2008,,,,,,,,,,,North,,32.362775815
+2008,,,,,,,,,,,South East,,32.4527659636
+2008,,,,,,,,,,,Rest of England,,34.1007117543
+2009,City centre,,,,,,,,,,,,34.814
+2009,Other urban centre,,,,,,,,,,,,30.523000000000003
+2009,Suburban,,,,,,,,,,,,23.094
+2009,All city and urban areas,,,,,,,,,,,,31.233
+2009,,Couple under 60,,,,,,,,,,,29.3948589632
+2009,,Couple 60 or over,,,,,,,,,,,28.1264855177
+2009,,Couple with children,,,,,,,,,,,25.5143197954
+2009,,Lone parent,,,,,,,,,,,27.1271434343
+2009,,Multi-person household,,,,,,,,,,,33.187715455900005
+2009,,One person under 60,,,,,,,,,,,34.4017659174
+2009,,One person 60 or over,,,,,,,,,,,32.511341199600004
+2009,,,Under 60 years,,,,,,,,,,29.0890916902
+2009,,,60 years or more,,,,,,,,,,30.3744867992
+2009,,,75 years or more,,,,,,,,,,31.759158961300002
+2009,,,,Under 5 years,,,,,,,,,28.5960137852
+2009,,,,under 16 years,,,,,,,,,26.357600756900002
+2009,,,,16 years or more,,,,,,,,,30.8193058467
+2009,,,,,1st quintile (lowest),,,,,,,,33.0290721288
+2009,,,,,2nd quintile,,,,,,,,30.2566533987
+2009,,,,,3rd quintile,,,,,,,,31.3105174384
+2009,,,,,4th quintile,,,,,,,,25.9824723666
+2009,,,,,5th quintile (highest),,,,,,,,27.1286152965
+2009,,,,,,In poverty,,,,,,,33.0762979016
+2009,,,,,,Not in poverty,,,,,,,28.8056237964
+2009,,,,,,,Workless,,,,,,29.393652866799997
+2009,,,,,,,Not workless,,,,,,29.2118201173
+2009,,,,,,,,Yes,,,,,30.288084472199998
+2009,,,,,,,,No,,,,,29.221678990500003
+2009,,,,,,,,,White,,,,29.6546525443
+2009,,,,,,,,,Black,,,,27.7853802625
+2009,,,,,,,,,Asian,,,,30.957178576799997
+2009,,,,,,,,,Other,,,,25.4512178277
+2009,,,,,,,,,All minority,,,,28.534270177
+2009,,,,,,,,,,Less than 1 year,,,31.359579294
+2009,,,,,,,,,,1-4 years,,,27.342264945
+2009,,,,,,,,,,5-9 years,,,26.4789509913
+2009,,,,,,,,,,10-19 years,,,26.306629225500004
+2009,,,,,,,,,,20-29 years,,,32.0981650202
+2009,,,,,,,,,,30 or more years,,,39.5627582012
+2009,,,,,,,,,,,North,,28.162441716100002
+2009,,,,,,,,,,,South East,,29.562431809899998
+2009,,,,,,,,,,,Rest of England,,31.870703330799998
+2010,City centre,,,,,,,,,,,,32.34
+2010,Other urban centre,,,,,,,,,,,,29.003
+2010,Suburban,,,,,,,,,,,,19.957
+2010,All city and urban areas,,,,,,,,,,,,29.55
+2010,,Couple under 60,,,,,,,,,,,26.313000000000002
+2010,,Couple 60 or over,,,,,,,,,,,23.509
+2010,,Couple with children,,,,,,,,,,,21.439
+2010,,Lone parent,,,,,,,,,,,25.503
+2010,,Multi-person household,,,,,,,,,,,29.166999999999998
+2010,,One person under 60,,,,,,,,,,,32.063
+2010,,One person 60 or over,,,,,,,,,,,28.469
+2010,,,Under 60 years,,,,,,,,,,25.814
+2010,,,60 years or more,,,,,,,,,,26.144000000000002
+2010,,,75 years or more,,,,,,,,,,26.956999999999997
+2010,,,,Under 5 years,,,,,,,,,24.656
+2010,,,,under 16 years,,,,,,,,,22.539
+2010,,,,16 years or more,,,,,,,,,27.287
+2010,,,,,1st quintile (lowest),,,,,,,,28.899
+2010,,,,,2nd quintile,,,,,,,,26.906999999999996
+2010,,,,,3rd quintile,,,,,,,,27.19
+2010,,,,,4th quintile,,,,,,,,23.659000000000002
+2010,,,,,5th quintile (highest),,,,,,,,23.059
+2010,,,,,,In poverty,,,,,,,29.112
+2010,,,,,,Not in poverty,,,,,,,25.302
+2010,,,,,,,Workless,,,,,,25.895
+2010,,,,,,,Not workless,,,,,,26.053
+2010,,,,,,,,Yes,,,,,26.083000000000002
+2010,,,,,,,,No,,,,,25.868000000000002
+2010,,,,,,,,,White,,,,26.101
+2010,,,,,,,,,Black,,,,25.069000000000003
+2010,,,,,,,,,Asian,,,,24.646
+2010,,,,,,,,,Other,,,,23.265
+2010,,,,,,,,,All minority,,,,24.401
+2010,,,,,,,,,,Less than 1 year,,,27.951999999999998
+2010,,,,,,,,,,1-4 years,,,25.13
+2010,,,,,,,,,,5-9 years,,,21.910999999999998
+2010,,,,,,,,,,10-19 years,,,23.159000000000002
+2010,,,,,,,,,,20-29 years,,,27.991
+2010,,,,,,,,,,30 or more years,,,33.928000000000004
+2010,,,,,,,,,,,North,,24.575
+2010,,,,,,,,,,,South East,,25.441999999999997
+2010,,,,,,,,,,,Rest of England,,28.715999999999998
+2011,City centre,,,,,,,,,,,,30.393
+2011,Other urban centre,,,,,,,,,,,,28.388
+2011,Suburban,,,,,,,,,,,,17.653
+2011,All city and urban areas,,,,,,,,,,,,28.693
+2011,,Couple under 60,,,,,,,,,,,22.873
+2011,,Couple 60 or over,,,,,,,,,,,20.386
+2011,,Couple with children,,,,,,,,,,,20.484
+2011,,Lone parent,,,,,,,,,,,23.910999999999998
+2011,,Multi-person household,,,,,,,,,,,28.315
+2011,,One person under 60,,,,,,,,,,,27.824
+2011,,One person 60 or over,,,,,,,,,,,24.406
+2011,,,Under 60 years,,,,,,,,,,23.576999999999998
+2011,,,60 years or more,,,,,,,,,,22.62
+2011,,,75 years or more,,,,,,,,,,23.191999999999997
+2011,,,,Under 5 years,,,,,,,,,23.147
+2011,,,,under 16 years,,,,,,,,,21.509
+2011,,,,16 years or more,,,,,,,,,23.904
+2011,,,,,1st quintile (lowest),,,,,,,,25.393
+2011,,,,,2nd quintile,,,,,,,,26.028000000000002
+2011,,,,,3rd quintile,,,,,,,,23.539
+2011,,,,,4th quintile,,,,,,,,21.224
+2011,,,,,5th quintile (highest),,,,,,,,20.008
+2011,,,,,,In poverty,,,,,,,25.64
+2011,,,,,,Not in poverty,,,,,,,22.791
+2011,,,,,,,Workless,,,,,,23.305
+2011,,,,,,,Not workless,,,,,,23.680999999999997
+2011,,,,,,,,Yes,,,,,22.863000000000003
+2011,,,,,,,,No,,,,,23.371
+2011,,,,,,,,,White,,,,23.057
+2011,,,,,,,,,Black,,,,25.436999999999998
+2011,,,,,,,,,Asian,,,,25.074
+2011,,,,,,,,,Other,,,,23.112
+2011,,,,,,,,,All minority,,,,24.628
+2011,,,,,,,,,,Less than 1 year,,,26.166999999999998
+2011,,,,,,,,,,1-4 years,,,22.896
+2011,,,,,,,,,,5-9 years,,,20.19
+2011,,,,,,,,,,10-19 years,,,20.4
+2011,,,,,,,,,,20-29 years,,,24.967
+2011,,,,,,,,,,30 or more years,,,28.599
+2011,,,,,,,,,,,North,,23.066
+2011,,,,,,,,,,,South East,,20.892
+2011,,,,,,,,,,,Rest of England,,25.918000000000003
+2012,City centre,,,,,,,,,,,,35.8871191828
+2012,Other urban centre,,,,,,,,,,,,26.281395292800003
+2012,Suburban,,,,,,,,,,,,16.7704724945
+2012,All city and urban areas,,,,,,,,,,,,27.665566026300002
+2012,,Couple under 60,,,,,,,,,,,20.295
+2012,,Couple 60 or over,,,,,,,,,,,18.867
+2012,,Couple with children,,,,,,,,,,,19.354
+2012,,Lone parent,,,,,,,,,,,20.676
+2012,,Multi-person household,,,,,,,,,,,28.622
+2012,,One person under 60,,,,,,,,,,,26.070999999999998
+2012,,One person 60 or over,,,,,,,,,,,22.811999999999998
+2012,,,Under 60 years,,,,,,,,,,21.843000000000004
+2012,,,60 years or more,,,,,,,,,,21.136
+2012,,,75 years or more,,,,,,,,,,21.384
+2012,,,,Under 5 years,,,,,,,,,20.558000000000003
+2012,,,,under 16 years,,,,,,,,,20.136
+2012,,,,16 years or more,,,,,,,,,22.184
+2012,,,,,1st quintile (lowest),,,,,,,,25.529
+2012,,,,,2nd quintile,,,,,,,,24.499000000000002
+2012,,,,,3rd quintile,,,,,,,,21.558000000000003
+2012,,,,,4th quintile,,,,,,,,18.158
+2012,,,,,5th quintile (highest),,,,,,,,18.598
+2012,,,,,,In poverty,,,,,,,26.415
+2012,,,,,,Not in poverty,,,,,,,20.840999999999998
+2012,,,,,,,Workless,,,,,,22.531999999999996
+2012,,,,,,,Not workless,,,,,,21.701999999999998
+2012,,,,,,,,Yes,,,,,21.386999999999997
+2012,,,,,,,,No,,,,,21.607
+2012,,,,,,,,,White,,,,21.15
+2012,,,,,,,,,Black,,,,25.755
+2012,,,,,,,,,Asian,,,,26.261
+2012,,,,,,,,,Other,,,,22.502
+2012,,,,,,,,,All minority,,,,25.2
+2012,,,,,,,,,,Less than 1 year,,,24.581
+2012,,,,,,,,,,1-4 years,,,21.201999999999998
+2012,,,,,,,,,,5-9 years,,,18.83
+2012,,,,,,,,,,10-19 years,,,18.915
+2012,,,,,,,,,,20-29 years,,,22.581999999999997
+2012,,,,,,,,,,30 or more years,,,27.203000000000003
+2012,,,,,,,,,,,North,,21.046
+2012,,,,,,,,,,,South East,,18.927
+2012,,,,,,,,,,,Rest of England,,24.413
+2013,City centre,,,,,,,,,,,,33.4774668878
+2013,Other urban centre,,,,,,,,,,,,24.0473863627
+2013,Suburban,,,,,,,,,,,,16.3756209513
+2013,All city and urban areas,,,,,,,,,,,,25.459992249299997
+2013,,Couple under 60,,,,,,,,,,,18.3055509931
+2013,,Couple 60 or over,,,,,,,,,,,17.6241884474
+2013,,Couple with children,,,,,,,,,,,17.3370252574
+2013,,Lone parent,,,,,,,,,,,19.5768503165
+2013,,Multi-person household,,,,,,,,,,,25.0039523552
+2013,,One person under 60,,,,,,,,,,,25.1238068591
+2013,,One person 60 or over,,,,,,,,,,,22.6086670521
+2013,,,Under 60 years,,,,,,,,,,20.2543265442
+2013,,,60 years or more,,,,,,,,,,19.880415528
+2013,,,75 years or more,,,,,,,,,,21.3096740253
+2013,,,,Under 5 years,,,,,,,,,18.0802130801
+2013,,,,under 16 years,,,,,,,,,18.621741369000002
+2013,,,,16 years or more,,,,,,,,,20.6541090673
+2013,,,,,1st quintile (lowest),,,,,,,,25.2086583809
+2013,,,,,2nd quintile,,,,,,,,21.0618346951
+2013,,,,,3rd quintile,,,,,,,,22.176662736399997
+2013,,,,,4th quintile,,,,,,,,16.495065922000002
+2013,,,,,5th quintile (highest),,,,,,,,16.337960696
+2013,,,,,,In poverty,,,,,,,25.631760146999998
+2013,,,,,,Not in poverty,,,,,,,19.2829469161
+2013,,,,,,,Workless,,,,,,23.1424170752
+2013,,,,,,,Not workless,,,,,,19.3533456544
+2013,,,,,,,,Yes,,,,,20.022234468
+2013,,,,,,,,No,,,,,20.1354373373
+2013,,,,,,,,,White,,,,19.7400555885
+2013,,,,,,,,,Black,,,,24.986680638499998
+2013,,,,,,,,,Asian,,,,22.9140135194
+2013,,,,,,,,,Other,,,,21.9275258158
+2013,,,,,,,,,All minority,,,,23.259537404299998
+2013,,,,,,,,,,Less than 1 year,,,20.330519285999998
+2013,,,,,,,,,,1-4 years,,,20.170618834000003
+2013,,,,,,,,,,5-9 years,,,16.6091743771
+2013,,,,,,,,,,10-19 years,,,17.7774510196
+2013,,,,,,,,,,20-29 years,,,21.2914166383
+2013,,,,,,,,,,30 or more years,,,26.649225367600003
+2013,,,,,,,,,,,North,,19.5406048525
+2013,,,,,,,,,,,South East,,19.284276864200002
+2013,,,,,,,,,,,Rest of England,,22.2959163378
+2014,City centre,,,,,,,,,,,,33.4774668878
+2014,Other urban centre,,,,,,,,,,,,24.0473863627
+2014,Suburban,,,,,,,,,,,,16.3756209513
+2014,All city and urban areas,,,,,,,,,,,,25.459992249299997
+2014,,Couple under 60,,,,,,,,,,,19.7044425512
+2014,,Couple 60 or over,,,,,,,,,,,16.557494491099998
+2014,,Couple with children,,,,,,,,,,,17.6213741645
+2014,,Lone parent,,,,,,,,,,,18.9566157691
+2014,,Multi-person household,,,,,,,,,,,20.3402102971
+2014,,One person under 60,,,,,,,,,,,23.3700958392
+2014,,One person 60 or over,,,,,,,,,,,21.904138787199997
+2014,,,Under 60 years,,,,,,,,,,19.4889210626
+2014,,,60 years or more,,,,,,,,,,19.4016644421
+2014,,,75 years or more,,,,,,,,,,21.1659876244
+2014,,,,Under 5 years,,,,,,,,,18.65359574
+2014,,,,under 16 years,,,,,,,,,18.298400477999998
+2014,,,,16 years or more,,,,,,,,,19.8759477783
+2014,,,,,1st quintile (lowest),,,,,,,,23.777397427100002
+2014,,,,,2nd quintile,,,,,,,,19.4046536133
+2014,,,,,3rd quintile,,,,,,,,22.2112237955
+2014,,,,,4th quintile,,,,,,,,17.3940063081
+2014,,,,,5th quintile (highest),,,,,,,,15.2203070184
+2014,,,,,,In poverty,,,,,,,23.363274815100002
+2014,,,,,,Not in poverty,,,,,,,18.8593171017
+2014,,,,,,,Workless,,,,,,23.97040073
+2014,,,,,,,Not workless,,,,,,18.3967336414
+2014,,,,,,,,Yes,,,,,20.611588334300002
+2014,,,,,,,,No,,,,,18.9053424234
+2014,,,,,,,,,White,,,,19.2479245261
+2014,,,,,,,,,Black,,,,22.3794539788
+2014,,,,,,,,,Asian,,,,21.0466667975
+2014,,,,,,,,,Other,,,,20.4432859375
+2014,,,,,,,,,All minority,,,,21.2622853076
+2014,,,,,,,,,,Less than 1 year,,,19.4560544646
+2014,,,,,,,,,,1-4 years,,,19.077254568599997
+2014,,,,,,,,,,5-9 years,,,16.2984965808
+2014,,,,,,,,,,10-19 years,,,17.8902653443
+2014,,,,,,,,,,20-29 years,,,20.9085554519
+2014,,,,,,,,,,30 or more years,,,25.1007841159
+2014,,,,,,,,,,,North,,19.0908305425
+2014,,,,,,,,,,,South East,,18.5798674554
+2014,,,,,,,,,,,Rest of England,,21.321250289600002
+2015,City centre,,,,,,,,,,,,26.484336186
+2015,Other urban centre,,,,,,,,,,,,22.276993324899998
+2015,Suburban,,,,,,,,,,,,16.2809527353
+2015,,Couple under 60,,,,,,,,,,,18.701689646400002
+2015,,Couple 60 or over,,,,,,,,,,,17.3194934515
+2015,,Couple with children,,,,,,,,,,,18.3419988151
+2015,,Lone parent,,,,,,,,,,,20.3067580497
+2015,,Multi-person household,,,,,,,,,,,20.6593760218
+2015,,One person under 60,,,,,,,,,,,20.908231832200002
+2015,,One person 60 or over,,,,,,,,,,,20.2095323601
+2015,,,Under 60 years,,,,,,,,,,19.256321521900002
+2015,,,60 years or more,,,,,,,,,,18.954752942
+2015,,,75 years or more,,,,,,,,,,20.1784367925
+2015,,,,Under 5 years,,,,,,,,,18.8121332551
+2015,,,,under 16 years,,,,,,,,,18.4353456615
+2015,,,,16 years or more,,,,,,,,,19.3991746118
+2015,,,,,1st quintile (lowest),,,,,,,,23.343211673200003
+2015,,,,,2nd quintile,,,,,,,,19.2883041431
+2015,,,,,3rd quintile,,,,,,,,20.9408495303
+2015,,,,,4th quintile,,,,,,,,17.4795651228
+2015,,,,,5th quintile (highest),,,,,,,,15.1711767831
+2015,,,,,,In poverty,,,,,,,23.883018997199997
+2015,,,,,,Not in poverty,,,,,,,18.363517573699998
+2015,,,,,,,Workless,,,,,,23.999879936
+2015,,,,,,,Not workless,,,,,,18.4443007518
+2015,,,,,,,,Yes,,,,,19.671971163
+2015,,,,,,,,No,,,,,18.8927671382
+2015,,,,,,,,,White,,,,18.9746365514
+2015,,,,,,,,,Black,,,,19.8093590217
+2015,,,,,,,,,Asian,,,,22.491180133
+2015,,,,,,,,,Other,,,,17.8020705574
+2015,,,,,,,,,All minority,,,,20.4780609836
+2015,,,,,,,,,,Less than 1 year,,,21.7455253054
+2015,,,,,,,,,,1-4 years,,,18.4619045644
+2015,,,,,,,,,,5-9 years,,,17.2992657874
+2015,,,,,,,,,,10-19 years,,,16.9182186136
+2015,,,,,,,,,,20-29 years,,,17.8399505694
+2015,,,,,,,,,,30 or more years,,,25.0024348091
+2015,,,,,,,,,,,North,,20.037137683399997
+2015,,,,,,,,,,,South East,,16.7934079568
+2015,,,,,,,,,,,Rest of England,,20.9416922656
+2008,City centre,,,,,,,,,,,Minimum standard,28.492784318800002
+2008,Other urban centre,,,,,,,,,,,Minimum standard,22.872851866199998
+2008,Suburban,,,,,,,,,,,Minimum standard,17.5761688081
+2008,All city and urban areas,,,,,,,,,,,Minimum standard,23.6756889395
+2008,,Couple under 60,,,,,,,,,,Minimum standard,22.014505978200003
+2008,,Couple 60 or over,,,,,,,,,,Minimum standard,21.1996829945
+2008,,Couple with children,,,,,,,,,,Minimum standard,20.209765634
+2008,,Lone parent,,,,,,,,,,Minimum standard,18.4374755277
+2008,,Multi-person household,,,,,,,,,,Minimum standard,25.2690365173
+2008,,One person under 60,,,,,,,,,,Minimum standard,21.5444543454
+2008,,One person 60 or over,,,,,,,,,,Minimum standard,20.9809403142
+2008,,,Under 60 years,,,,,,,,,Minimum standard,21.2557764251
+2008,,,60 years or more,,,,,,,,,Minimum standard,21.3291086617
+2008,,,75 years or more,,,,,,,,,Minimum standard,21.6661400198
+2008,,,,Under 5 years,,,,,,,,Minimum standard,20.5030259971
+2008,,,,under 16 years,,,,,,,,Minimum standard,20.085749544000002
+2008,,,,16 years or more,,,,,,,,Minimum standard,21.7183794763
+2008,,,,,1st quintile (lowest),,,,,,,Minimum standard,23.188953595
+2008,,,,,2nd quintile,,,,,,,Minimum standard,21.1024339151
+2008,,,,,3rd quintile,,,,,,,Minimum standard,21.2325782207
+2008,,,,,4th quintile,,,,,,,Minimum standard,18.6396977021
+2008,,,,,5th quintile (highest),,,,,,,Minimum standard,22.1855066135
+2008,,,,,,In poverty,,,,,,Minimum standard,22.875674799699997
+2008,,,,,,Not in poverty,,,,,,Minimum standard,20.9384343448
+2008,,,,,,,Workless,,,,,Minimum standard,20.7339228905
+2008,,,,,,,Not workless,,,,,Minimum standard,21.5568779508
+2008,,,,,,,,Yes,,,,Minimum standard,20.2589174134
+2008,,,,,,,,No,,,,Minimum standard,21.7140273181
+2008,,,,,,,,,White,,,Minimum standard,21.6028893894
+2008,,,,,,,,,Black,,,Minimum standard,13.906317637899999
+2008,,,,,,,,,Asian,,,Minimum standard,20.2053756457
+2008,,,,,,,,,Other,,,Minimum standard,19.6932552133
+2008,,,,,,,,,All minority,,,Minimum standard,18.0920763075
+2008,,,,,,,,,,Less than 1 year,,Minimum standard,21.688988966799997
+2008,,,,,,,,,,1-4 years,,Minimum standard,18.206769536099998
+2008,,,,,,,,,,5-9 years,,Minimum standard,19.895472761
+2008,,,,,,,,,,10-19 years,,Minimum standard,19.4055077688
+2008,,,,,,,,,,20-29 years,,Minimum standard,24.695840027600003
+2008,,,,,,,,,,30 or more years,,Minimum standard,28.1382667517
+2008,,,,,,,,,,,North,Minimum standard,22.6241817117
+2008,,,,,,,,,,,South East,Minimum standard,18.6688232886
+2008,,,,,,,,,,,Rest of England,Minimum standard,23.4486689546
+2009,City centre,,,,,,,,,,,Minimum standard,20.73
+2009,Other urban centre,,,,,,,,,,,Minimum standard,17.652
+2009,Suburban,,,,,,,,,,,Minimum standard,14.274000000000001
+2009,All city and urban areas,,,,,,,,,,,Minimum standard,18.160999999999998
+2009,,Couple under 60,,,,,,,,,,Minimum standard,20.395514714100003
+2009,,Couple 60 or over,,,,,,,,,,Minimum standard,20.5309183095
+2009,,Couple with children,,,,,,,,,,Minimum standard,18.2366190532
+2009,,Lone parent,,,,,,,,,,Minimum standard,15.9764866456
+2009,,Multi-person household,,,,,,,,,,Minimum standard,22.5129559971
+2009,,One person under 60,,,,,,,,,,Minimum standard,21.29952534
+2009,,One person 60 or over,,,,,,,,,,Minimum standard,19.852397563
+2009,,,Under 60 years,,,,,,,,,Minimum standard,19.4336559595
+2009,,,60 years or more,,,,,,,,,Minimum standard,20.438326482
+2009,,,75 years or more,,,,,,,,,Minimum standard,20.6373834089
+2009,,,,Under 5 years,,,,,,,,Minimum standard,19.838035844300002
+2009,,,,under 16 years,,,,,,,,Minimum standard,18.0747312456
+2009,,,,16 years or more,,,,,,,,Minimum standard,20.4775619372
+2009,,,,,1st quintile (lowest),,,,,,,Minimum standard,21.5471101869
+2009,,,,,2nd quintile,,,,,,,Minimum standard,19.7351198851
+2009,,,,,3rd quintile,,,,,,,Minimum standard,20.9972843549
+2009,,,,,4th quintile,,,,,,,Minimum standard,17.045602619500002
+2009,,,,,5th quintile (highest),,,,,,,Minimum standard,19.5497171063
+2009,,,,,,In poverty,,,,,,Minimum standard,21.640373727100002
+2009,,,,,,Not in poverty,,,,,,Minimum standard,19.4042292083
+2009,,,,,,,Workless,,,,,Minimum standard,17.8408047209
+2009,,,,,,,Not workless,,,,,Minimum standard,20.1272727745
+2009,,,,,,,,Yes,,,,Minimum standard,19.7650037558
+2009,,,,,,,,No,,,,Minimum standard,19.8018435097
+2009,,,,,,,,,White,,,Minimum standard,20.183942744
+2009,,,,,,,,,Black,,,Minimum standard,11.297504896400001
+2009,,,,,,,,,Asian,,,Minimum standard,21.0396804932
+2009,,,,,,,,,Other,,,Minimum standard,13.3621483494
+2009,,,,,,,,,All minority,,,Minimum standard,15.9979853539
+2009,,,,,,,,,,Less than 1 year,,Minimum standard,22.026118661599998
+2009,,,,,,,,,,1-4 years,,Minimum standard,17.3074635161
+2009,,,,,,,,,,5-9 years,,Minimum standard,17.6836760935
+2009,,,,,,,,,,10-19 years,,Minimum standard,17.8262114807
+2009,,,,,,,,,,20-29 years,,Minimum standard,21.9645982662
+2009,,,,,,,,,,30 or more years,,Minimum standard,27.115454476300002
+2009,,,,,,,,,,,North,Minimum standard,20.1152288421
+2009,,,,,,,,,,,South East,Minimum standard,16.9389475085
+2009,,,,,,,,,,,Rest of England,Minimum standard,22.643345684
+2010,City centre,,,,,,,,,,,Minimum standard,17.862000000000002
+2010,Other urban centre,,,,,,,,,,,Minimum standard,17.471
+2010,Suburban,,,,,,,,,,,Minimum standard,11.745
+2010,All city and urban areas,,,,,,,,,,,Minimum standard,17.535
+2010,,Couple under 60,,,,,,,,,,Minimum standard,17.887999999999998
+2010,,Couple 60 or over,,,,,,,,,,Minimum standard,16.495
+2010,,Couple with children,,,,,,,,,,Minimum standard,14.645
+2010,,Lone parent,,,,,,,,,,Minimum standard,14.485
+2010,,Multi-person household,,,,,,,,,,Minimum standard,18.066
+2010,,One person under 60,,,,,,,,,,Minimum standard,18.936
+2010,,One person 60 or over,,,,,,,,,,Minimum standard,16.989
+2010,,,Under 60 years,,,,,,,,,Minimum standard,16.385
+2010,,,60 years or more,,,,,,,,,Minimum standard,17.160999999999998
+2010,,,75 years or more,,,,,,,,,Minimum standard,17.442999999999998
+2010,,,,Under 5 years,,,,,,,,Minimum standard,15.65
+2010,,,,under 16 years,,,,,,,,Minimum standard,14.488
+2010,,,,16 years or more,,,,,,,,Minimum standard,17.54
+2010,,,,,1st quintile (lowest),,,,,,,Minimum standard,18.038
+2010,,,,,2nd quintile,,,,,,,Minimum standard,17.315
+2010,,,,,3rd quintile,,,,,,,Minimum standard,17.084
+2010,,,,,4th quintile,,,,,,,Minimum standard,14.183
+2010,,,,,5th quintile (highest),,,,,,,Minimum standard,16.582
+2010,,,,,,In poverty,,,,,,Minimum standard,18.255
+2010,,,,,,Not in poverty,,,,,,Minimum standard,16.355
+2010,,,,,,,Workless,,,,,Minimum standard,15.085999999999999
+2010,,,,,,,Not workless,,,,,Minimum standard,17.213
+2010,,,,,,,,Yes,,,,Minimum standard,16.662
+2010,,,,,,,,No,,,,Minimum standard,16.680999999999997
+2010,,,,,,,,,White,,,Minimum standard,17.042
+2010,,,,,,,,,Black,,,Minimum standard,11.722000000000001
+2010,,,,,,,,,Asian,,,Minimum standard,15.609000000000002
+2010,,,,,,,,,Other,,,Minimum standard,11.161
+2010,,,,,,,,,All minority,,,Minimum standard,13.232999999999999
+2010,,,,,,,,,,Less than 1 year,,Minimum standard,16.95
+2010,,,,,,,,,,1-4 years,,Minimum standard,15.196
+2010,,,,,,,,,,5-9 years,,Minimum standard,13.606
+2010,,,,,,,,,,10-19 years,,Minimum standard,15.25
+2010,,,,,,,,,,20-29 years,,Minimum standard,19.166
+2010,,,,,,,,,,30 or more years,,Minimum standard,23.183000000000003
+2010,,,,,,,,,,,North,Minimum standard,16.422
+2010,,,,,,,,,,,South East,Minimum standard,14.0
+2010,,,,,,,,,,,Rest of England,Minimum standard,19.733
+2011,City centre,,,,,,,,,,,Minimum standard,17.574
+2011,Other urban centre,,,,,,,,,,,Minimum standard,17.656
+2011,Suburban,,,,,,,,,,,Minimum standard,9.943
+2011,All city and urban areas,,,,,,,,,,,Minimum standard,17.643
+2011,,Couple under 60,,,,,,,,,,Minimum standard,14.805
+2011,,Couple 60 or over,,,,,,,,,,Minimum standard,14.573
+2011,,Couple with children,,,,,,,,,,Minimum standard,13.575
+2011,,Lone parent,,,,,,,,,,Minimum standard,13.554
+2011,,Multi-person household,,,,,,,,,,Minimum standard,16.419
+2011,,One person under 60,,,,,,,,,,Minimum standard,15.966
+2011,,One person 60 or over,,,,,,,,,,Minimum standard,13.694
+2011,,,Under 60 years,,,,,,,,,Minimum standard,14.477
+2011,,,60 years or more,,,,,,,,,Minimum standard,14.533
+2011,,,75 years or more,,,,,,,,,Minimum standard,15.276
+2011,,,,Under 5 years,,,,,,,,Minimum standard,14.854000000000001
+2011,,,,under 16 years,,,,,,,,Minimum standard,13.589
+2011,,,,16 years or more,,,,,,,,Minimum standard,14.862
+2011,,,,,1st quintile (lowest),,,,,,,Minimum standard,15.636
+2011,,,,,2nd quintile,,,,,,,Minimum standard,15.514000000000001
+2011,,,,,3rd quintile,,,,,,,Minimum standard,15.065
+2011,,,,,4th quintile,,,,,,,Minimum standard,12.061
+2011,,,,,5th quintile (highest),,,,,,,Minimum standard,14.17
+2011,,,,,,In poverty,,,,,,Minimum standard,15.288
+2011,,,,,,Not in poverty,,,,,,Minimum standard,14.357999999999999
+2011,,,,,,,Workless,,,,,Minimum standard,12.964
+2011,,,,,,,Not workless,,,,,Minimum standard,15.241
+2011,,,,,,,,Yes,,,,Minimum standard,14.037
+2011,,,,,,,,No,,,,Minimum standard,14.693
+2011,,,,,,,,,White,,,Minimum standard,14.555
+2011,,,,,,,,,Black,,,Minimum standard,13.394
+2011,,,,,,,,,Asian,,,Minimum standard,14.698
+2011,,,,,,,,,Other,,,Minimum standard,13.623
+2011,,,,,,,,,All minority,,,Minimum standard,14.005
+2011,,,,,,,,,,Less than 1 year,,Minimum standard,14.228
+2011,,,,,,,,,,1-4 years,,Minimum standard,13.545
+2011,,,,,,,,,,5-9 years,,Minimum standard,11.584000000000001
+2011,,,,,,,,,,10-19 years,,Minimum standard,13.450999999999999
+2011,,,,,,,,,,20-29 years,,Minimum standard,16.676
+2011,,,,,,,,,,30 or more years,,Minimum standard,19.838
+2011,,,,,,,,,,,North,Minimum standard,14.374
+2011,,,,,,,,,,,South East,Minimum standard,11.341
+2011,,,,,,,,,,,Rest of England,Minimum standard,17.454
+2012,City centre,,,,,,,,,,,Minimum standard,17.5310655656
+2012,Other urban centre,,,,,,,,,,,Minimum standard,15.9235713485
+2012,Suburban,,,,,,,,,,,Minimum standard,8.87169540148
+2012,All city and urban areas,,,,,,,,,,,Minimum standard,16.1552089091
+2012,,Couple under 60,,,,,,,,,,Minimum standard,13.082
+2012,,Couple 60 or over,,,,,,,,,,Minimum standard,13.089
+2012,,Couple with children,,,,,,,,,,Minimum standard,12.929
+2012,,Lone parent,,,,,,,,,,Minimum standard,12.74
+2012,,Multi-person household,,,,,,,,,,Minimum standard,18.3
+2012,,One person under 60,,,,,,,,,,Minimum standard,13.436
+2012,,One person 60 or over,,,,,,,,,,Minimum standard,11.832
+2012,,,Under 60 years,,,,,,,,,Minimum standard,13.323
+2012,,,60 years or more,,,,,,,,,Minimum standard,13.198
+2012,,,75 years or more,,,,,,,,,Minimum standard,13.222999999999999
+2012,,,,Under 5 years,,,,,,,,Minimum standard,13.299000000000001
+2012,,,,under 16 years,,,,,,,,Minimum standard,13.385
+2012,,,,16 years or more,,,,,,,,Minimum standard,13.231
+2012,,,,,1st quintile (lowest),,,,,,,Minimum standard,14.915
+2012,,,,,2nd quintile,,,,,,,Minimum standard,14.786
+2012,,,,,3rd quintile,,,,,,,Minimum standard,12.783
+2012,,,,,4th quintile,,,,,,,Minimum standard,11.073
+2012,,,,,5th quintile (highest),,,,,,,Minimum standard,12.991
+2012,,,,,,In poverty,,,,,,Minimum standard,15.25
+2012,,,,,,Not in poverty,,,,,,Minimum standard,12.974
+2012,,,,,,,Workless,,,,,Minimum standard,12.796
+2012,,,,,,,Not workless,,,,,Minimum standard,13.895
+2012,,,,,,,,Yes,,,,Minimum standard,12.85
+2012,,,,,,,,No,,,,Minimum standard,13.450999999999999
+2012,,,,,,,,,White,,,Minimum standard,13.020999999999999
+2012,,,,,,,,,Black,,,Minimum standard,14.977
+2012,,,,,,,,,Asian,,,Minimum standard,16.108
+2012,,,,,,,,,Other,,,Minimum standard,14.647
+2012,,,,,,,,,All minority,,,Minimum standard,15.415999999999999
+2012,,,,,,,,,,Less than 1 year,,Minimum standard,13.347999999999999
+2012,,,,,,,,,,1-4 years,,Minimum standard,12.499
+2012,,,,,,,,,,5-9 years,,Minimum standard,10.845
+2012,,,,,,,,,,10-19 years,,Minimum standard,12.370999999999999
+2012,,,,,,,,,,20-29 years,,Minimum standard,14.822000000000001
+2012,,,,,,,,,,30 or more years,,Minimum standard,18.049
+2012,,,,,,,,,,,North,Minimum standard,12.866
+2012,,,,,,,,,,,South East,Minimum standard,10.017000000000001
+2012,,,,,,,,,,,Rest of England,Minimum standard,16.234
+2013,City centre,,,,,,,,,,,Minimum standard,16.3456896371
+2013,Other urban centre,,,,,,,,,,,Minimum standard,14.441551549300002
+2013,Suburban,,,,,,,,,,,Minimum standard,8.61417046888
+2013,All city and urban areas,,,,,,,,,,,Minimum standard,14.7267873608
+2013,,Couple under 60,,,,,,,,,,Minimum standard,11.548947054000001
+2013,,Couple 60 or over,,,,,,,,,,Minimum standard,10.1446005077
+2013,,Couple with children,,,,,,,,,,Minimum standard,11.583277669100001
+2013,,Lone parent,,,,,,,,,,Minimum standard,11.7178406791
+2013,,Multi-person household,,,,,,,,,,Minimum standard,15.446182999500001
+2013,,One person under 60,,,,,,,,,,Minimum standard,11.3520648825
+2013,,One person 60 or over,,,,,,,,,,Minimum standard,11.4296680427
+2013,,,Under 60 years,,,,,,,,,Minimum standard,11.823675955599999
+2013,,,60 years or more,,,,,,,,,Minimum standard,11.2214306977
+2013,,,75 years or more,,,,,,,,,Minimum standard,11.526121126300001
+2013,,,,Under 5 years,,,,,,,,Minimum standard,10.831139417100001
+2013,,,,under 16 years,,,,,,,,Minimum standard,12.0263182526
+2013,,,,16 years or more,,,,,,,,Minimum standard,11.4393185641
+2013,,,,,1st quintile (lowest),,,,,,,Minimum standard,13.401710936099999
+2013,,,,,2nd quintile,,,,,,,Minimum standard,12.478845347
+2013,,,,,3rd quintile,,,,,,,Minimum standard,11.2497606499
+2013,,,,,4th quintile,,,,,,,Minimum standard,10.312311344400001
+2013,,,,,5th quintile (highest),,,,,,,Minimum standard,10.733994040299999
+2013,,,,,,In poverty,,,,,,Minimum standard,13.9948043043
+2013,,,,,,Not in poverty,,,,,,Minimum standard,11.2349448484
+2013,,,,,,,Workless,,,,,Minimum standard,12.6053165081
+2013,,,,,,,Not workless,,,,,Minimum standard,11.823663073199999
+2013,,,,,,,,Yes,,,,Minimum standard,10.998938638699999
+2013,,,,,,,,No,,,,Minimum standard,11.8430445177
+2013,,,,,,,,,White,,,Minimum standard,11.4265542879
+2013,,,,,,,,,Black,,,Minimum standard,15.2087975486
+2013,,,,,,,,,Asian,,,Minimum standard,12.7928562198
+2013,,,,,,,,,Other,,,Minimum standard,10.9453714565
+2013,,,,,,,,,All minority,,,Minimum standard,13.023514481500001
+2013,,,,,,,,,,Less than 1 year,,Minimum standard,10.4028198697
+2013,,,,,,,,,,1-4 years,,Minimum standard,11.1854951638
+2013,,,,,,,,,,5-9 years,,Minimum standard,9.61885612669
+2013,,,,,,,,,,10-19 years,,Minimum standard,10.9619851752
+2013,,,,,,,,,,20-29 years,,Minimum standard,13.1411353802
+2013,,,,,,,,,,30 or more years,,Minimum standard,15.399498135899998
+2013,,,,,,,,,,,North,Minimum standard,11.1919042254
+2013,,,,,,,,,,,South East,Minimum standard,10.0132972792
+2013,,,,,,,,,,,Rest of England,Minimum standard,13.829216327000001
+2014,City centre,,,,,,,,,,,Minimum standard,16.3456896371
+2014,Other urban centre,,,,,,,,,,,Minimum standard,14.441551549300002
+2014,Suburban,,,,,,,,,,,Minimum standard,8.61417046888
+2014,All city and urban areas,,,,,,,,,,,Minimum standard,14.7267873608
+2014,,Couple under 60,,,,,,,,,,Minimum standard,12.9214779687
+2014,,Couple 60 or over,,,,,,,,,,Minimum standard,9.10378706886
+2014,,Couple with children,,,,,,,,,,Minimum standard,11.5255269956
+2014,,Lone parent,,,,,,,,,,Minimum standard,10.4200419305
+2014,,Multi-person household,,,,,,,,,,Minimum standard,11.281597505599999
+2014,,One person under 60,,,,,,,,,,Minimum standard,11.1619754906
+2014,,One person 60 or over,,,,,,,,,,Minimum standard,11.4365190797
+2014,,,Under 60 years,,,,,,,,,Minimum standard,11.471155658699999
+2014,,,60 years or more,,,,,,,,,Minimum standard,10.790374117799999
+2014,,,75 years or more,,,,,,,,,Minimum standard,10.9019600604
+2014,,,,Under 5 years,,,,,,,,Minimum standard,11.3201093268
+2014,,,,under 16 years,,,,,,,,Minimum standard,11.2503775596
+2014,,,,16 years or more,,,,,,,,Minimum standard,11.192637084600001
+2014,,,,,1st quintile (lowest),,,,,,,Minimum standard,13.2507007446
+2014,,,,,2nd quintile,,,,,,,Minimum standard,10.7659732851
+2014,,,,,3rd quintile,,,,,,,Minimum standard,11.0794941701
+2014,,,,,4th quintile,,,,,,,Minimum standard,10.9891630467
+2014,,,,,5th quintile (highest),,,,,,,Minimum standard,10.1575446637
+2014,,,,,,In poverty,,,,,,Minimum standard,13.08126113
+2014,,,,,,Not in poverty,,,,,,Minimum standard,10.922419479
+2014,,,,,,,Workless,,,,,Minimum standard,12.053647129100002
+2014,,,,,,,Not workless,,,,,Minimum standard,11.2803084498
+2014,,,,,,,,Yes,,,,Minimum standard,10.943150546199998
+2014,,,,,,,,No,,,,Minimum standard,11.3468071432
+2014,,,,,,,,,White,,,Minimum standard,11.316513086199999
+2014,,,,,,,,,Black,,,Minimum standard,11.6529829828
+2014,,,,,,,,,Asian,,,Minimum standard,9.20177796966
+2014,,,,,,,,,Other,,,Minimum standard,10.5104147856
+2014,,,,,,,,,All minority,,,Minimum standard,10.26229781
+2014,,,,,,,,,,Less than 1 year,,Minimum standard,10.8755386627
+2014,,,,,,,,,,1-4 years,,Minimum standard,11.0891727872
+2014,,,,,,,,,,5-9 years,,Minimum standard,9.239510923260001
+2014,,,,,,,,,,10-19 years,,Minimum standard,11.231558902
+2014,,,,,,,,,,20-29 years,,Minimum standard,12.221364149400001
+2014,,,,,,,,,,30 or more years,,Minimum standard,13.2486570718
+2014,,,,,,,,,,,North,Minimum standard,11.9099944311
+2014,,,,,,,,,,,South East,Minimum standard,8.41624456355
+2014,,,,,,,,,,,Rest of England,Minimum standard,13.376666596500002
+2015,City centre,,,,,,,,,,,Minimum standard,16.3604111707
+2015,Other urban centre,,,,,,,,,,,Minimum standard,13.7575782991
+2015,Suburban,,,,,,,,,,,Minimum standard,9.32213487221
+2015,All city and urban areas,,,,,,,,,,,Minimum standard,14.207633523699998
+2015,,Couple under 60,,,,,,,,,,Minimum standard,12.3654253553
+2015,,Couple 60 or over,,,,,,,,,,Minimum standard,11.4097030195
+2015,,Couple with children,,,,,,,,,,Minimum standard,12.5882344544
+2015,,Lone parent,,,,,,,,,,Minimum standard,11.0616445043
+2015,,Multi-person household,,,,,,,,,,Minimum standard,13.6408414518
+2015,,One person under 60,,,,,,,,,,Minimum standard,11.045852684100002
+2015,,One person 60 or over,,,,,,,,,,Minimum standard,10.680548586799999
+2015,,,Under 60 years,,,,,,,,,Minimum standard,11.975810223
+2015,,,60 years or more,,,,,,,,,Minimum standard,11.6618903301
+2015,,,75 years or more,,,,,,,,,Minimum standard,11.413632443800001
+2015,,,,Under 5 years,,,,,,,,Minimum standard,12.845079381800002
+2015,,,,under 16 years,,,,,,,,Minimum standard,11.9335117825
+2015,,,,16 years or more,,,,,,,,Minimum standard,11.8235590942
+2015,,,,,1st quintile (lowest),,,,,,,Minimum standard,15.1511833403
+2015,,,,,2nd quintile,,,,,,,Minimum standard,10.7693461468
+2015,,,,,3rd quintile,,,,,,,Minimum standard,11.986188553900002
+2015,,,,,4th quintile,,,,,,,Minimum standard,11.5647486676
+2015,,,,,5th quintile (highest),,,,,,,Minimum standard,10.136153954
+2015,,,,,,In poverty,,,,,,Minimum standard,15.6672939036
+2015,,,,,,Not in poverty,,,,,,Minimum standard,11.230184644300001
+2015,,,,,,,Workless,,,,,Minimum standard,13.041910637
+2015,,,,,,,Not workless,,,,,Minimum standard,11.8216610948
+2015,,,,,,,,Yes,,,,Minimum standard,11.7630609275
+2015,,,,,,,,No,,,,Minimum standard,11.87826405
+2015,,,,,,,,,White,,,Minimum standard,12.1079160049
+2015,,,,,,,,,Black,,,Minimum standard,8.180909608810001
+2015,,,,,,,,,Asian,,,Minimum standard,10.9979475242
+2015,,,,,,,,,Other,,,Minimum standard,9.42339775575
+2015,,,,,,,,,All minority,,,Minimum standard,9.773344108160002
+2015,,,,,,,,,,Less than 1 year,,Minimum standard,13.5364176611
+2015,,,,,,,,,,1-4 years,,Minimum standard,11.1988713974
+2015,,,,,,,,,,5-9 years,,Minimum standard,9.70795034559
+2015,,,,,,,,,,10-19 years,,Minimum standard,10.588681747999999
+2015,,,,,,,,,,20-29 years,,Minimum standard,12.2869530216
+2015,,,,,,,,,,30 or more years,,Minimum standard,15.8835453482
+2015,,,,,,,,,,,North,Minimum standard,14.523213481500001
+2015,,,,,,,,,,,South East,Minimum standard,7.249604565510001
+2015,,,,,,,,,,,Rest of England,Minimum standard,14.283027177300001
+2008,City centre,,,,,,,,,,,Repair,11.8813862966
+2008,Other urban centre,,,,,,,,,,,Repair,8.509467924319999
+2008,Suburban,,,,,,,,,,,Repair,5.315992209030001
+2008,All city and urban areas,,,,,,,,,,,Repair,8.99116429703
+2008,,Couple under 60,,,,,,,,,,Repair,5.702721437439999
+2008,,Couple 60 or over,,,,,,,,,,Repair,4.70013929029
+2008,,Couple with children,,,,,,,,,,Repair,5.73089054941
+2008,,Lone parent,,,,,,,,,,Repair,6.927917986689999
+2008,,Multi-person household,,,,,,,,,,Repair,8.791849362719999
+2008,,One person under 60,,,,,,,,,,Repair,6.51959117013
+2008,,One person 60 or over,,,,,,,,,,Repair,6.14108237829
+2008,,,Under 60 years,,,,,,,,,Repair,6.38587891859
+2008,,,60 years or more,,,,,,,,,Repair,5.44451642344
+2008,,,75 years or more,,,,,,,,,Repair,5.93522041351
+2008,,,,Under 5 years,,,,,,,,Repair,6.25801277267
+2008,,,,under 16 years,,,,,,,,Repair,6.14072470051
+2008,,,,16 years or more,,,,,,,,Repair,6.0083419523699995
+2008,,,,,1st quintile (lowest),,,,,,,Repair,8.244425851789998
+2008,,,,,2nd quintile,,,,,,,Repair,5.70500450625
+2008,,,,,3rd quintile,,,,,,,Repair,6.2674301233500005
+2008,,,,,4th quintile,,,,,,,Repair,4.93430377313
+2008,,,,,5th quintile (highest),,,,,,,Repair,5.10621480181
+2008,,,,,,In poverty,,,,,,Repair,8.13066432572
+2008,,,,,,Not in poverty,,,,,,Repair,5.59309027872
+2008,,,,,,,Workless,,,,,Repair,7.585846594389999
+2008,,,,,,,Not workless,,,,,Repair,5.94457373956
+2008,,,,,,,,Yes,,,,Repair,6.184488106569999
+2008,,,,,,,,No,,,,Repair,5.984319801980001
+2008,,,,,,,,,White,,,Repair,5.82409258712
+2008,,,,,,,,,Black,,,Repair,6.57949115857
+2008,,,,,,,,,Asian,,,Repair,9.371439176019999
+2008,,,,,,,,,Other,,,Repair,8.39434117158
+2008,,,,,,,,,All minority,,,Repair,8.22993795254
+2008,,,,,,,,,,Less than 1 year,,Repair,7.58503443546
+2008,,,,,,,,,,1-4 years,,Repair,6.00599165801
+2008,,,,,,,,,,5-9 years,,Repair,5.588324575669999
+2008,,,,,,,,,,10-19 years,,Repair,5.06656368211
+2008,,,,,,,,,,20-29 years,,Repair,5.49849776253
+2008,,,,,,,,,,30 or more years,,Repair,7.6157010112300005
+2008,,,,,,,,,,,North,Repair,6.607437450549999
+2008,,,,,,,,,,,South East,Repair,6.83909954041
+2008,,,,,,,,,,,Rest of England,Repair,5.85492191228
+2009,City centre,,,,,,,,,,,Repair,9.682
+2009,Other urban centre,,,,,,,,,,,Repair,8.496
+2009,Suburban,,,,,,,,,,,Repair,4.627
+2009,All city and urban areas,,,,,,,,,,,Repair,8.693
+2009,,Couple under 60,,,,,,,,,,Repair,5.51142907129
+2009,,Couple 60 or over,,,,,,,,,,Repair,4.510402469790001
+2009,,Couple with children,,,,,,,,,,Repair,4.9776432371
+2009,,Lone parent,,,,,,,,,,Repair,5.6933335387
+2009,,Multi-person household,,,,,,,,,,Repair,8.49435436084
+2009,,One person under 60,,,,,,,,,,Repair,6.6775365004100005
+2009,,One person 60 or over,,,,,,,,,,Repair,6.083180191189999
+2009,,,Under 60 years,,,,,,,,,Repair,5.75860309857
+2009,,,60 years or more,,,,,,,,,Repair,5.576370155249999
+2009,,,75 years or more,,,,,,,,,Repair,6.08897964071
+2009,,,,Under 5 years,,,,,,,,Repair,5.6292161816699995
+2009,,,,under 16 years,,,,,,,,Repair,5.19925257326
+2009,,,,16 years or more,,,,,,,,Repair,5.88954250957
+2009,,,,,1st quintile (lowest),,,,,,,Repair,7.151228722819999
+2009,,,,,2nd quintile,,,,,,,Repair,5.44776505304
+2009,,,,,3rd quintile,,,,,,,Repair,6.27035965392
+2009,,,,,4th quintile,,,,,,,Repair,5.03436644106
+2009,,,,,5th quintile (highest),,,,,,,Repair,4.609158573399999
+2009,,,,,,In poverty,,,,,,Repair,6.95875698421
+2009,,,,,,Not in poverty,,,,,,Repair,5.42592417616
+2009,,,,,,,Workless,,,,,Repair,6.58885008103
+2009,,,,,,,Not workless,,,,,Repair,5.634152419099999
+2009,,,,,,,,Yes,,,,Repair,5.86571561275
+2009,,,,,,,,No,,,,Repair,5.59849172559
+2009,,,,,,,,,White,,,Repair,5.544907888080001
+2009,,,,,,,,,Black,,,Repair,8.92808155818
+2009,,,,,,,,,Asian,,,Repair,6.46947569105
+2009,,,,,,,,,Other,,,Repair,6.08242399128
+2009,,,,,,,,,All minority,,,Repair,7.1375818761600005
+2009,,,,,,,,,,Less than 1 year,,Repair,5.98504924666
+2009,,,,,,,,,,1-4 years,,Repair,5.46773594864
+2009,,,,,,,,,,5-9 years,,Repair,5.28407750583
+2009,,,,,,,,,,10-19 years,,Repair,4.60422273883
+2009,,,,,,,,,,20-29 years,,Repair,6.46907570727
+2009,,,,,,,,,,30 or more years,,Repair,7.422782532289999
+2009,,,,,,,,,,,North,Repair,6.16385545629
+2009,,,,,,,,,,,South East,Repair,6.465107186880001
+2009,,,,,,,,,,,Rest of England,Repair,5.71132305469
+2010,City centre,,,,,,,,,,,Repair,8.641
+2010,Other urban centre,,,,,,,,,,,Repair,8.033999999999999
+2010,Suburban,,,,,,,,,,,Repair,4.453
+2010,All city and urban areas,,,,,,,,,,,Repair,8.133
+2010,,Couple under 60,,,,,,,,,,Repair,4.956
+2010,,Couple 60 or over,,,,,,,,,,Repair,3.57
+2010,,Couple with children,,,,,,,,,,Repair,4.55
+2010,,Lone parent,,,,,,,,,,Repair,5.6579999999999995
+2010,,Multi-person household,,,,,,,,,,Repair,8.214
+2010,,One person under 60,,,,,,,,,,Repair,7.257999999999999
+2010,,One person 60 or over,,,,,,,,,,Repair,5.96
+2010,,,Under 60 years,,,,,,,,,Repair,5.497000000000001
+2010,,,60 years or more,,,,,,,,,Repair,5.109
+2010,,,75 years or more,,,,,,,,,Repair,5.475
+2010,,,,Under 5 years,,,,,,,,Repair,5.7
+2010,,,,under 16 years,,,,,,,,Repair,5.065
+2010,,,,16 years or more,,,,,,,,Repair,5.468999999999999
+2010,,,,,1st quintile (lowest),,,,,,,Repair,6.73
+2010,,,,,2nd quintile,,,,,,,Repair,5.023
+2010,,,,,3rd quintile,,,,,,,Repair,6.081
+2010,,,,,4th quintile,,,,,,,Repair,5.0889999999999995
+2010,,,,,5th quintile (highest),,,,,,,Repair,3.938
+2010,,,,,,In poverty,,,,,,Repair,6.507999999999999
+2010,,,,,,Not in poverty,,,,,,Repair,5.124
+2010,,,,,,,Workless,,,,,Repair,6.27
+2010,,,,,,,Not workless,,,,,Repair,5.405
+2010,,,,,,,,Yes,,,,Repair,5.282
+2010,,,,,,,,No,,,,Repair,5.36
+2010,,,,,,,,,White,,,Repair,5.236000000000001
+2010,,,,,,,,,Black,,,Repair,8.282
+2010,,,,,,,,,Asian,,,Repair,5.69
+2010,,,,,,,,,All minority,,,Repair,6.445
+2010,,,,,,,,,,Less than 1 year,,Repair,6.41
+2010,,,,,,,,,,1-4 years,,Repair,5.22
+2010,,,,,,,,,,5-9 years,,Repair,4.615
+2010,,,,,,,,,,10-19 years,,Repair,4.354
+2010,,,,,,,,,,20-29 years,,Repair,5.568
+2010,,,,,,,,,,30 or more years,,Repair,7.26
+2010,,,,,,,,,,,North,Repair,6.1739999999999995
+2010,,,,,,,,,,,South East,Repair,5.294
+2010,,,,,,,,,,,Rest of England,Repair,5.374
+2011,City centre,,,,,,,,,,,Repair,5.8020000000000005
+2011,Other urban centre,,,,,,,,,,,Repair,6.985
+2011,Suburban,,,,,,,,,,,Repair,4.065
+2011,All city and urban areas,,,,,,,,,,,Repair,6.805
+2011,,Couple under 60,,,,,,,,,,Repair,5.071000000000001
+2011,,Couple 60 or over,,,,,,,,,,Repair,3.082
+2011,,Couple with children,,,,,,,,,,Repair,4.251
+2011,,Lone parent,,,,,,,,,,Repair,5.8839999999999995
+2011,,Multi-person household,,,,,,,,,,Repair,9.312999999999999
+2011,,One person under 60,,,,,,,,,,Repair,5.932
+2011,,One person 60 or over,,,,,,,,,,Repair,5.803
+2011,,,Under 60 years,,,,,,,,,Repair,5.388999999999999
+2011,,,60 years or more,,,,,,,,,Repair,4.652
+2011,,,75 years or more,,,,,,,,,Repair,4.013
+2011,,,,Under 5 years,,,,,,,,Repair,5.6339999999999995
+2011,,,,under 16 years,,,,,,,,Repair,4.918
+2011,,,,16 years or more,,,,,,,,Repair,5.192
+2011,,,,,1st quintile (lowest),,,,,,,Repair,6.343
+2011,,,,,2nd quintile,,,,,,,Repair,5.847
+2011,,,,,3rd quintile,,,,,,,Repair,4.627
+2011,,,,,4th quintile,,,,,,,Repair,4.996
+2011,,,,,5th quintile (highest),,,,,,,Repair,3.826
+2011,,,,,,In poverty,,,,,,Repair,6.691
+2011,,,,,,Not in poverty,,,,,,Repair,4.835
+2011,,,,,,,Workless,,,,,Repair,6.053
+2011,,,,,,,Not workless,,,,,Repair,5.226
+2011,,,,,,,,Yes,,,,Repair,5.275
+2011,,,,,,,,No,,,,Repair,5.046
+2011,,,,,,,,,White,,,Repair,4.919
+2011,,,,,,,,,Black,,,Repair,8.02
+2011,,,,,,,,,Asian,,,Repair,6.105
+2011,,,,,,,,,Other,,,Repair,6.545
+2011,,,,,,,,,All minority,,,Repair,6.801
+2011,,,,,,,,,,Less than 1 year,,Repair,6.114
+2011,,,,,,,,,,1-4 years,,Repair,5.4670000000000005
+2011,,,,,,,,,,5-9 years,,Repair,4.468
+2011,,,,,,,,,,10-19 years,,Repair,4.346
+2011,,,,,,,,,,20-29 years,,Repair,3.952
+2011,,,,,,,,,,30 or more years,,Repair,6.9510000000000005
+2011,,,,,,,,,,,North,Repair,6.72
+2011,,,,,,,,,,,South East,Repair,4.465
+2011,,,,,,,,,,,Rest of England,Repair,4.727
+2012,City centre,,,,,,,,,,,Repair,5.162357870869999
+2012,Other urban centre,,,,,,,,,,,Repair,6.17275951575
+2012,Suburban,,,,,,,,,,,Repair,4.1482172318199995
+2012,All city and urban areas,,,,,,,,,,,Repair,6.02716211966
+2012,,Couple under 60,,,,,,,,,,Repair,4.458
+2012,,Couple 60 or over,,,,,,,,,,Repair,3.052
+2012,,Couple with children,,,,,,,,,,Repair,3.708
+2012,,Lone parent,,,,,,,,,,Repair,4.795
+2012,,Multi-person household,,,,,,,,,,Repair,8.185
+2012,,One person under 60,,,,,,,,,,Repair,5.432
+2012,,One person 60 or over,,,,,,,,,,Repair,5.647
+2012,,,Under 60 years,,,,,,,,,Repair,4.857
+2012,,,60 years or more,,,,,,,,,Repair,4.255
+2012,,,75 years or more,,,,,,,,,Repair,3.8939999999999997
+2012,,,,Under 5 years,,,,,,,,Repair,4.704
+2012,,,,under 16 years,,,,,,,,Repair,3.965
+2012,,,,16 years or more,,,,,,,,Repair,4.914
+2012,,,,,1st quintile (lowest),,,,,,,Repair,6.4239999999999995
+2012,,,,,2nd quintile,,,,,,,Repair,5.404
+2012,,,,,3rd quintile,,,,,,,Repair,3.6639999999999997
+2012,,,,,4th quintile,,,,,,,Repair,4.172
+2012,,,,,5th quintile (highest),,,,,,,Repair,3.687
+2012,,,,,,In poverty,,,,,,Repair,6.853
+2012,,,,,,Not in poverty,,,,,,Repair,4.294
+2012,,,,,,,Workless,,,,,Repair,5.251
+2012,,,,,,,Not workless,,,,,Repair,4.665
+2012,,,,,,,,Yes,,,,Repair,4.6080000000000005
+2012,,,,,,,,No,,,,Repair,4.574
+2012,,,,,,,,,White,,,Repair,4.386
+2012,,,,,,,,,Black,,,Repair,7.4479999999999995
+2012,,,,,,,,,Asian,,,Repair,6.525
+2012,,,,,,,,,Other,,,Repair,6.182
+2012,,,,,,,,,All minority,,,Repair,6.718999999999999
+2012,,,,,,,,,,Less than 1 year,,Repair,4.715
+2012,,,,,,,,,,1-4 years,,Repair,5.047
+2012,,,,,,,,,,5-9 years,,Repair,4.387
+2012,,,,,,,,,,10-19 years,,Repair,3.852
+2012,,,,,,,,,,20-29 years,,Repair,4.215
+2012,,,,,,,,,,30 or more years,,Repair,5.7379999999999995
+2012,,,,,,,,,,,North,Repair,6.46
+2012,,,,,,,,,,,South East,Repair,4.126
+2012,,,,,,,,,,,Rest of England,Repair,3.9939999999999998
+2013,City centre,,,,,,,,,,,Repair,5.79529711803
+2013,Other urban centre,,,,,,,,,,,Repair,5.516898010959999
+2013,Suburban,,,,,,,,,,,Repair,4.16198714594
+2013,All city and urban areas,,,,,,,,,,,Repair,5.5586016015499995
+2013,,Couple under 60,,,,,,,,,,Repair,3.3595102485400004
+2013,,Couple 60 or over,,,,,,,,,,Repair,3.3007755459599997
+2013,,Couple with children,,,,,,,,,,Repair,3.2300803938700002
+2013,,Lone parent,,,,,,,,,,Repair,4.54416178332
+2013,,Multi-person household,,,,,,,,,,Repair,6.52625879805
+2013,,One person under 60,,,,,,,,,,Repair,5.68711641037
+2013,,One person 60 or over,,,,,,,,,,Repair,5.407972955
+2013,,,Under 60 years,,,,,,,,,Repair,4.3173730184400005
+2013,,,60 years or more,,,,,,,,,Repair,4.17387703876
+2013,,,75 years or more,,,,,,,,,Repair,4.58106662567
+2013,,,,Under 5 years,,,,,,,,Repair,4.170717786580001
+2013,,,,under 16 years,,,,,,,,Repair,3.5963911735400003
+2013,,,,16 years or more,,,,,,,,Repair,4.50508715684
+2013,,,,,1st quintile (lowest),,,,,,,Repair,6.011331438069999
+2013,,,,,2nd quintile,,,,,,,Repair,4.19148782985
+2013,,,,,3rd quintile,,,,,,,Repair,4.893303808
+2013,,,,,4th quintile,,,,,,,Repair,3.4538115057699996
+2013,,,,,5th quintile (highest),,,,,,,Repair,2.9940542202
+2013,,,,,,In poverty,,,,,,Repair,5.880459698459999
+2013,,,,,,Not in poverty,,,,,,Repair,4.01985709287
+2013,,,,,,,Workless,,,,,Repair,5.17454201625
+2013,,,,,,,Not workless,,,,,Repair,3.9881073376800003
+2013,,,,,,,,Yes,,,,Repair,4.5455867113
+2013,,,,,,,,No,,,,Repair,4.117343819669999
+2013,,,,,,,,,White,,,Repair,4.0797940096800005
+2013,,,,,,,,,Black,,,Repair,5.28373919366
+2013,,,,,,,,,Asian,,,Repair,6.43341250072
+2013,,,,,,,,,Other,,,Repair,5.23130852211
+2013,,,,,,,,,All minority,,,Repair,5.810232468680001
+2013,,,,,,,,,,Less than 1 year,,Repair,4.266330276050001
+2013,,,,,,,,,,1-4 years,,Repair,4.40519557496
+2013,,,,,,,,,,5-9 years,,Repair,3.43847100756
+2013,,,,,,,,,,10-19 years,,Repair,3.32837954648
+2013,,,,,,,,,,20-29 years,,Repair,5.890021775090001
+2013,,,,,,,,,,30 or more years,,Repair,5.21780239036
+2013,,,,,,,,,,,North,Repair,6.4297372501600005
+2013,,,,,,,,,,,South East,Repair,3.86175444451
+2013,,,,,,,,,,,Rest of England,Repair,3.91398919375
+2014,City centre,,,,,,,,,,,Repair,5.79529711803
+2014,Other urban centre,,,,,,,,,,,Repair,5.516898010959999
+2014,Suburban,,,,,,,,,,,Repair,4.16198714594
+2014,All city and urban areas,,,,,,,,,,,Repair,5.5586016015499995
+2014,,Couple under 60,,,,,,,,,,Repair,3.61184407357
+2014,,Couple 60 or over,,,,,,,,,,Repair,3.0470012407200002
+2014,,Couple with children,,,,,,,,,,Repair,3.6765470564199996
+2014,,Lone parent,,,,,,,,,,Repair,5.40722774342
+2014,,Multi-person household,,,,,,,,,,Repair,7.37001456032
+2014,,One person under 60,,,,,,,,,,Repair,4.86845337642
+2014,,One person 60 or over,,,,,,,,,,Repair,4.68246695324
+2014,,,Under 60 years,,,,,,,,,Repair,4.34555059758
+2014,,,60 years or more,,,,,,,,,Repair,4.16026731343
+2014,,,75 years or more,,,,,,,,,Repair,4.976063831319999
+2014,,,,Under 5 years,,,,,,,,Repair,4.13837640195
+2014,,,,under 16 years,,,,,,,,Repair,4.2526183009
+2014,,,,16 years or more,,,,,,,,Repair,4.2816945749599995
+2014,,,,,1st quintile (lowest),,,,,,,Repair,5.830443230319999
+2014,,,,,2nd quintile,,,,,,,Repair,3.87590040951
+2014,,,,,3rd quintile,,,,,,,Repair,5.49708157248
+2014,,,,,4th quintile,,,,,,,Repair,3.75925408071
+2014,,,,,5th quintile (highest),,,,,,,Repair,2.68878389066
+2014,,,,,,In poverty,,,,,,Repair,5.33390692579
+2014,,,,,,Not in poverty,,,,,,Repair,4.11232226836
+2014,,,,,,,Workless,,,,,Repair,5.0924048512599995
+2014,,,,,,,Not workless,,,,,Repair,4.2594912283
+2014,,,,,,,,Yes,,,,Repair,4.8773193747
+2014,,,,,,,,No,,,,Repair,3.9661635831999997
+2014,,,,,,,,,White,,,Repair,3.99441104171
+2014,,,,,,,,,Black,,,Repair,6.329457294249999
+2014,,,,,,,,,Asian,,,Repair,7.531546205619999
+2014,,,,,,,,,Other,,,Repair,5.7953787087699995
+2014,,,,,,,,,All minority,,,Repair,6.71098869215
+2014,,,,,,,,,,Less than 1 year,,Repair,4.25616997876
+2014,,,,,,,,,,1-4 years,,Repair,3.81140389499
+2014,,,,,,,,,,5-9 years,,Repair,3.5961741688599997
+2014,,,,,,,,,,10-19 years,,Repair,3.94009931227
+2014,,,,,,,,,,20-29 years,,Repair,5.31391681508
+2014,,,,,,,,,,30 or more years,,Repair,5.57070124862
+2014,,,,,,,,,,,North,Repair,5.498650392869999
+2014,,,,,,,,,,,South East,Repair,4.15663663853
+2014,,,,,,,,,,,Rest of England,Repair,4.17891821303
+2015,City centre,,,,,,,,,,,Repair,6.26027751926
+2015,Other urban centre,,,,,,,,,,,Repair,4.81807449639
+2015,Suburban,,,,,,,,,,,Repair,3.7155362977800004
+2015,All city and urban areas,,,,,,,,,,,Repair,5.06744548463
+2015,,Couple under 60,,,,,,,,,,Repair,4.13897421543
+2015,,Couple 60 or over,,,,,,,,,,Repair,2.7271675190400004
+2015,,Couple with children,,,,,,,,,,Repair,3.8090732132099996
+2015,,Lone parent,,,,,,,,,,Repair,4.260767122930001
+2015,,Multi-person household,,,,,,,,,,Repair,6.599261938990001
+2015,,One person under 60,,,,,,,,,,Repair,3.90176197753
+2015,,One person 60 or over,,,,,,,,,,Repair,4.1351285253
+2015,,,Under 60 years,,,,,,,,,Repair,4.21826193946
+2015,,,60 years or more,,,,,,,,,Repair,3.6677696172500003
+2015,,,75 years or more,,,,,,,,,Repair,4.71432150915
+2015,,,,Under 5 years,,,,,,,,Repair,3.4897843956
+2015,,,,under 16 years,,,,,,,,Repair,3.8372929283999997
+2015,,,,16 years or more,,,,,,,,Repair,4.06493934318
+2015,,,,,1st quintile (lowest),,,,,,,Repair,5.62599121899
+2015,,,,,2nd quintile,,,,,,,Repair,3.2528345764399997
+2015,,,,,3rd quintile,,,,,,,Repair,4.57389262856
+2015,,,,,4th quintile,,,,,,,Repair,4.0143531557
+2015,,,,,5th quintile (highest),,,,,,,Repair,2.75416351975
+2015,,,,,,In poverty,,,,,,Repair,5.66898797773
+2015,,,,,,Not in poverty,,,,,,Repair,3.7312888706400003
+2015,,,,,,,Workless,,,,,Repair,5.02239807493
+2015,,,,,,,Not workless,,,,,Repair,4.10566201202
+2015,,,,,,,,Yes,,,,Repair,3.60297341273
+2015,,,,,,,,No,,,,Repair,4.17672098774
+2015,,,,,,,,,White,,,Repair,3.8191167572300007
+2015,,,,,,,,,Black,,,Repair,5.70820310346
+2015,,,,,,,,,Asian,,,Repair,6.812359642890001
+2015,,,,,,,,,Other,,,Repair,3.0939521136000003
+2015,,,,,,,,,All minority,,,Repair,5.5086798228100005
+2015,,,,,,,,,,Less than 1 year,,Repair,4.66148564911
+2015,,,,,,,,,,1-4 years,,Repair,3.5695555679
+2015,,,,,,,,,,5-9 years,,Repair,3.9008494207699997
+2015,,,,,,,,,,10-19 years,,Repair,3.6698604093
+2015,,,,,,,,,,20-29 years,,Repair,3.42230496965
+2015,,,,,,,,,,30 or more years,,Repair,5.38144233858
+2015,,,,,,,,,,,North,Repair,4.891473424040001
+2015,,,,,,,,,,,South East,Repair,3.71362092759
+2015,,,,,,,,,,,Rest of England,Repair,3.70121081134
+2008,City centre,,,,,,,,,,,Modern facilities and services,10.146812068600001
+2008,Other urban centre,,,,,,,,,,,Modern facilities and services,4.56650259825
+2008,Suburban,,,,,,,,,,,Modern facilities and services,2.61997594546
+2008,All city and urban areas,,,,,,,,,,,Modern facilities and services,5.36367931894
+2008,,Couple under 60,,,,,,,,,,Modern facilities and services,1.8632290683500001
+2008,,Couple 60 or over,,,,,,,,,,Modern facilities and services,2.54802234736
+2008,,Couple with children,,,,,,,,,,Modern facilities and services,1.9923986029700003
+2008,,Lone parent,,,,,,,,,,Modern facilities and services,3.63663546079
+2008,,Multi-person household,,,,,,,,,,Modern facilities and services,4.33873022203
+2008,,One person under 60,,,,,,,,,,Modern facilities and services,4.61518298116
+2008,,One person 60 or over,,,,,,,,,,Modern facilities and services,6.08844080519
+2008,,,Under 60 years,,,,,,,,,Modern facilities and services,2.8116032991299997
+2008,,,60 years or more,,,,,,,,,Modern facilities and services,4.26135220934
+2008,,,75 years or more,,,,,,,,,Modern facilities and services,5.92457518462
+2008,,,,Under 5 years,,,,,,,,Modern facilities and services,2.30413609325
+2008,,,,under 16 years,,,,,,,,Modern facilities and services,2.47682806461
+2008,,,,16 years or more,,,,,,,,Modern facilities and services,3.6525278007199997
+2008,,,,,1st quintile (lowest),,,,,,,Modern facilities and services,5.01057375177
+2008,,,,,2nd quintile,,,,,,,Modern facilities and services,4.64380343557
+2008,,,,,3rd quintile,,,,,,,Modern facilities and services,3.3514232325999997
+2008,,,,,4th quintile,,,,,,,Modern facilities and services,2.03668984435
+2008,,,,,5th quintile (highest),,,,,,,Modern facilities and services,1.63346725236
+2008,,,,,,In poverty,,,,,,Modern facilities and services,5.1778951115
+2008,,,,,,Not in poverty,,,,,,Modern facilities and services,2.9414651435400003
+2008,,,,,,,Workless,,,,,Modern facilities and services,4.533112457890001
+2008,,,,,,,Not workless,,,,,Modern facilities and services,2.5082995670700003
+2008,,,,,,,,Yes,,,,Modern facilities and services,3.8458685427199994
+2008,,,,,,,,No,,,,Modern facilities and services,3.1246833019499998
+2008,,,,,,,,,White,,,Modern facilities and services,3.12530377323
+2008,,,,,,,,,Black,,,Modern facilities and services,6.8058970065699995
+2008,,,,,,,,,Asian,,,Modern facilities and services,3.8072438217199998
+2008,,,,,,,,,Other,,,Modern facilities and services,6.4269086738
+2008,,,,,,,,,All minority,,,Modern facilities and services,5.462008978559999
+2008,,,,,,,,,,Less than 1 year,,Modern facilities and services,1.8426979505
+2008,,,,,,,,,,1-4 years,,Modern facilities and services,2.34426252526
+2008,,,,,,,,,,5-9 years,,Modern facilities and services,2.84828490144
+2008,,,,,,,,,,10-19 years,,Modern facilities and services,3.20953952977
+2008,,,,,,,,,,20-29 years,,Modern facilities and services,3.8727772785400005
+2008,,,,,,,,,,30 or more years,,Modern facilities and services,6.703561839480001
+2008,,,,,,,,,,,North,Modern facilities and services,2.4589770494
+2008,,,,,,,,,,,South East,Modern facilities and services,3.7148392811199997
+2008,,,,,,,,,,,Rest of England,Modern facilities and services,3.52306280199
+2009,City centre,,,,,,,,,,,Modern facilities and services,6.621
+2009,Other urban centre,,,,,,,,,,,Modern facilities and services,3.093
+2009,Suburban,,,,,,,,,,,Modern facilities and services,1.9240000000000002
+2009,All city and urban areas,,,,,,,,,,,Modern facilities and services,3.677
+2009,,Couple under 60,,,,,,,,,,Modern facilities and services,1.5064146535799998
+2009,,Couple 60 or over,,,,,,,,,,Modern facilities and services,2.25026741051
+2009,,Couple with children,,,,,,,,,,Modern facilities and services,1.55598161359
+2009,,Lone parent,,,,,,,,,,Modern facilities and services,3.8089240798
+2009,,Multi-person household,,,,,,,,,,Modern facilities and services,4.239287362869999
+2009,,One person under 60,,,,,,,,,,Modern facilities and services,4.570429655340001
+2009,,One person 60 or over,,,,,,,,,,Modern facilities and services,5.75024456623
+2009,,,Under 60 years,,,,,,,,,Modern facilities and services,2.59902786312
+2009,,,60 years or more,,,,,,,,,Modern facilities and services,3.82807750312
+2009,,,75 years or more,,,,,,,,,Modern facilities and services,5.53752640551
+2009,,,,Under 5 years,,,,,,,,Modern facilities and services,2.46446563217
+2009,,,,under 16 years,,,,,,,,Modern facilities and services,2.17669671013
+2009,,,,16 years or more,,,,,,,,Modern facilities and services,3.38318949431
+2009,,,,,1st quintile (lowest),,,,,,,Modern facilities and services,4.757636897609999
+2009,,,,,2nd quintile,,,,,,,Modern facilities and services,4.0234798315599996
+2009,,,,,3rd quintile,,,,,,,Modern facilities and services,3.51140046047
+2009,,,,,4th quintile,,,,,,,Modern facilities and services,1.40798237863
+2009,,,,,5th quintile (highest),,,,,,,Modern facilities and services,1.47074512537
+2009,,,,,,In poverty,,,,,,Modern facilities and services,4.94509825434
+2009,,,,,,Not in poverty,,,,,,Modern facilities and services,2.63768717492
+2009,,,,,,,Workless,,,,,Modern facilities and services,4.20837890915
+2009,,,,,,,Not workless,,,,,Modern facilities and services,2.2078142483
+2009,,,,,,,,Yes,,,,Modern facilities and services,3.52962651245
+2009,,,,,,,,No,,,,Modern facilities and services,2.79282930644
+2009,,,,,,,,,White,,,Modern facilities and services,2.91763497973
+2009,,,,,,,,,Black,,,Modern facilities and services,5.49547997729
+2009,,,,,,,,,Asian,,,Modern facilities and services,3.2353212277599996
+2009,,,,,,,,,Other,,,Modern facilities and services,4.351796430159999
+2009,,,,,,,,,All minority,,,Modern facilities and services,4.23220292074
+2009,,,,,,,,,,Less than 1 year,,Modern facilities and services,2.27011991051
+2009,,,,,,,,,,1-4 years,,Modern facilities and services,2.26814847872
+2009,,,,,,,,,,5-9 years,,Modern facilities and services,2.29117763074
+2009,,,,,,,,,,10-19 years,,Modern facilities and services,2.47119140774
+2009,,,,,,,,,,20-29 years,,Modern facilities and services,2.78260121408
+2009,,,,,,,,,,30 or more years,,Modern facilities and services,7.2828575532
+2009,,,,,,,,,,,North,Modern facilities and services,2.57139090253
+2009,,,,,,,,,,,South East,Modern facilities and services,3.88792097245
+2009,,,,,,,,,,,Rest of England,Modern facilities and services,2.8853766427900003
+2010,Other urban centre,,,,,,,,,,,Modern facilities and services,2.8289999999999997
+2010,Suburban,,,,,,,,,,,Modern facilities and services,1.207
+2010,All city and urban areas,,,,,,,,,,,Modern facilities and services,2.9019999999999997
+2010,,Couple under 60,,,,,,,,,,Modern facilities and services,1.459
+2010,,Couple 60 or over,,,,,,,,,,Modern facilities and services,1.8530000000000002
+2010,,Couple with children,,,,,,,,,,Modern facilities and services,0.872
+2010,,Lone parent,,,,,,,,,,Modern facilities and services,2.75
+2010,,Multi-person household,,,,,,,,,,Modern facilities and services,3.53
+2010,,One person under 60,,,,,,,,,,Modern facilities and services,3.4730000000000003
+2010,,One person 60 or over,,,,,,,,,,Modern facilities and services,4.1419999999999995
+2010,,,Under 60 years,,,,,,,,,Modern facilities and services,1.8559999999999999
+2010,,,60 years or more,,,,,,,,,Modern facilities and services,3.054
+2010,,,75 years or more,,,,,,,,,Modern facilities and services,4.378
+2010,,,,Under 5 years,,,,,,,,Modern facilities and services,1.848
+2010,,,,under 16 years,,,,,,,,Modern facilities and services,1.4140000000000001
+2010,,,,16 years or more,,,,,,,,Modern facilities and services,2.65
+2010,,,,,1st quintile (lowest),,,,,,,Modern facilities and services,3.424
+2010,,,,,2nd quintile,,,,,,,Modern facilities and services,2.627
+2010,,,,,3rd quintile,,,,,,,Modern facilities and services,2.8739999999999997
+2010,,,,,4th quintile,,,,,,,Modern facilities and services,1.368
+2010,,,,,5th quintile (highest),,,,,,,Modern facilities and services,1.208
+2010,,,,,,In poverty,,,,,,Modern facilities and services,3.583
+2010,,,,,,Not in poverty,,,,,,Modern facilities and services,2.042
+2010,,,,,,,Workless,,,,,Modern facilities and services,2.984
+2010,,,,,,,Not workless,,,,,Modern facilities and services,1.7309999999999999
+2010,,,,,,,,Yes,,,,Modern facilities and services,2.88
+2010,,,,,,,,No,,,,Modern facilities and services,2.065
+2010,,,,,,,,,White,,,Modern facilities and services,2.299
+2010,,,,,,,,,All minority,,,Modern facilities and services,2.295
+2010,,,,,,,,,,1-4 years,,Modern facilities and services,1.65
+2010,,,,,,,,,,5-9 years,,Modern facilities and services,1.724
+2010,,,,,,,,,,10-19 years,,Modern facilities and services,1.551
+2010,,,,,,,,,,20-29 years,,Modern facilities and services,2.151
+2010,,,,,,,,,,30 or more years,,Modern facilities and services,5.796
+2010,,,,,,,,,,,North,Modern facilities and services,2.1069999999999998
+2010,,,,,,,,,,,South East,Modern facilities and services,2.6519999999999997
+2010,,,,,,,,,,,Rest of England,Modern facilities and services,2.28
+2011,City centre,,,,,,,,,,,Modern facilities and services,3.157
+2011,Other urban centre,,,,,,,,,,,Modern facilities and services,3.102
+2011,Suburban,,,,,,,,,,,Modern facilities and services,1.166
+2011,All city and urban areas,,,,,,,,,,,Modern facilities and services,3.11
+2011,,Couple under 60,,,,,,,,,,Modern facilities and services,1.192
+2011,,One person under 60,,,,,,,,,,Modern facilities and services,2.5340000000000003
+2011,,One person 60 or over,,,,,,,,,,Modern facilities and services,2.431
+2011,,,Under 60 years,,,,,,,,,Modern facilities and services,1.3530000000000002
+2011,,,60 years or more,,,,,,,,,Modern facilities and services,1.953
+2011,,,75 years or more,,,,,,,,,Modern facilities and services,2.759
+2011,,,,under 16 years,,,,,,,,Modern facilities and services,0.899
+2011,,,,16 years or more,,,,,,,,Modern facilities and services,1.848
+2011,,,,,1st quintile (lowest),,,,,,,Modern facilities and services,1.943
+2011,,,,,2nd quintile,,,,,,,Modern facilities and services,2.205
+2011,,,,,3rd quintile,,,,,,,Modern facilities and services,1.911
+2011,,,,,,In poverty,,,,,,Modern facilities and services,1.815
+2011,,,,,,Not in poverty,,,,,,Modern facilities and services,1.535
+2011,,,,,,,Workless,,,,,Modern facilities and services,1.9269999999999998
+2011,,,,,,,Not workless,,,,,Modern facilities and services,1.275
+2011,,,,,,,,Yes,,,,Modern facilities and services,1.9669999999999999
+2011,,,,,,,,No,,,,Modern facilities and services,1.411
+2011,,,,,,,,,White,,,Modern facilities and services,1.528
+2011,,,,,,,,,All minority,,,Modern facilities and services,2.0
+2011,,,,,,,,,,1-4 years,,Modern facilities and services,1.514
+2011,,,,,,,,,,5-9 years,,Modern facilities and services,1.251
+2011,,,,,,,,,,10-19 years,,Modern facilities and services,0.838
+2011,,,,,,,,,,20-29 years,,Modern facilities and services,1.9169999999999998
+2011,,,,,,,,,,30 or more years,,Modern facilities and services,3.306
+2011,,,,,,,,,,,North,Modern facilities and services,1.166
+2011,,,,,,,,,,,South East,Modern facilities and services,2.016
+2011,,,,,,,,,,,Rest of England,Modern facilities and services,1.725
+2012,City centre,,,,,,,,,,,Modern facilities and services,5.92732658301
+2012,Other urban centre,,,,,,,,,,,Modern facilities and services,3.5786370846
+2012,Suburban,,,,,,,,,,,Modern facilities and services,1.47791312088
+2012,All city and urban areas,,,,,,,,,,,Modern facilities and services,3.9170797988599997
+2012,,Couple under 60,,,,,,,,,,Modern facilities and services,0.718
+2012,,Couple 60 or over,,,,,,,,,,Modern facilities and services,1.639
+2012,,Couple with children,,,,,,,,,,Modern facilities and services,0.7170000000000001
+2012,,Lone parent,,,,,,,,,,Modern facilities and services,0.9590000000000001
+2012,,Multi-person household,,,,,,,,,,Modern facilities and services,2.265
+2012,,One person under 60,,,,,,,,,,Modern facilities and services,2.688
+2012,,One person 60 or over,,,,,,,,,,Modern facilities and services,2.8360000000000003
+2012,,,Under 60 years,,,,,,,,,Modern facilities and services,1.2819999999999998
+2012,,,60 years or more,,,,,,,,,Modern facilities and services,2.063
+2012,,,75 years or more,,,,,,,,,Modern facilities and services,2.674
+2012,,,,Under 5 years,,,,,,,,Modern facilities and services,0.514
+2012,,,,under 16 years,,,,,,,,Modern facilities and services,0.812
+2012,,,,16 years or more,,,,,,,,Modern facilities and services,1.8869999999999998
+2012,,,,,1st quintile (lowest),,,,,,,Modern facilities and services,2.3040000000000003
+2012,,,,,2nd quintile,,,,,,,Modern facilities and services,2.122
+2012,,,,,3rd quintile,,,,,,,Modern facilities and services,1.857
+2012,,,,,4th quintile,,,,,,,Modern facilities and services,0.851
+2012,,,,,5th quintile (highest),,,,,,,Modern facilities and services,0.805
+2012,,,,,,In poverty,,,,,,Modern facilities and services,2.424
+2012,,,,,,Not in poverty,,,,,,Modern facilities and services,1.44
+2012,,,,,,,Workless,,,,,Modern facilities and services,2.276
+2012,,,,,,,Not workless,,,,,Modern facilities and services,1.062
+2012,,,,,,,,Yes,,,,Modern facilities and services,2.085
+2012,,,,,,,,No,,,,Modern facilities and services,1.3659999999999999
+2012,,,,,,,,,White,,,Modern facilities and services,1.463
+2012,,,,,,,,,Black,,,Modern facilities and services,2.425
+2012,,,,,,,,,Asian,,,Modern facilities and services,2.633
+2012,,,,,,,,,Other,,,Modern facilities and services,2.226
+2012,,,,,,,,,All minority,,,Modern facilities and services,2.472
+2012,,,,,,,,,,Less than 1 year,,Modern facilities and services,0.799
+2012,,,,,,,,,,1-4 years,,Modern facilities and services,1.656
+2012,,,,,,,,,,5-9 years,,Modern facilities and services,0.981
+2012,,,,,,,,,,10-19 years,,Modern facilities and services,1.124
+2012,,,,,,,,,,20-29 years,,Modern facilities and services,1.796
+2012,,,,,,,,,,30 or more years,,Modern facilities and services,3.267
+2012,,,,,,,,,,,North,Modern facilities and services,1.094
+2012,,,,,,,,,,,South East,Modern facilities and services,1.778
+2012,,,,,,,,,,,Rest of England,Modern facilities and services,1.965
+2013,City centre,,,,,,,,,,,Modern facilities and services,5.40159736362
+2013,Other urban centre,,,,,,,,,,,Modern facilities and services,3.7346393275699996
+2013,Suburban,,,,,,,,,,,Modern facilities and services,1.5136372788499999
+2013,All city and urban areas,,,,,,,,,,,Modern facilities and services,3.9843460748500004
+2013,,Couple under 60,,,,,,,,,,Modern facilities and services,1.08504257903
+2013,,Couple 60 or over,,,,,,,,,,Modern facilities and services,1.1863332176799999
+2013,,Couple with children,,,,,,,,,,Modern facilities and services,0.7666195922329999
+2013,,Lone parent,,,,,,,,,,Modern facilities and services,1.4491335352099999
+2013,,Multi-person household,,,,,,,,,,Modern facilities and services,1.85863562534
+2013,,One person under 60,,,,,,,,,,Modern facilities and services,3.25814886954
+2013,,One person 60 or over,,,,,,,,,,Modern facilities and services,4.39839578867
+2013,,,Under 60 years,,,,,,,,,Modern facilities and services,1.55639436363
+2013,,,60 years or more,,,,,,,,,Modern facilities and services,2.44813649286
+2013,,,75 years or more,,,,,,,,,Modern facilities and services,3.3590146739599995
+2013,,,,Under 5 years,,,,,,,,Modern facilities and services,1.0068399452799999
+2013,,,,under 16 years,,,,,,,,Modern facilities and services,0.985330185942
+2013,,,,16 years or more,,,,,,,,Modern facilities and services,2.2239063657
+2013,,,,,1st quintile (lowest),,,,,,,Modern facilities and services,3.6079185421499997
+2013,,,,,2nd quintile,,,,,,,Modern facilities and services,2.0475793032799996
+2013,,,,,3rd quintile,,,,,,,Modern facilities and services,2.27972580418
+2013,,,,,4th quintile,,,,,,,Modern facilities and services,1.01758221776
+2013,,,,,5th quintile (highest),,,,,,,Modern facilities and services,0.733363480871
+2013,,,,,,In poverty,,,,,,Modern facilities and services,3.8316562059400003
+2013,,,,,,Not in poverty,,,,,,Modern facilities and services,1.60265835725
+2013,,,,,,,Workless,,,,,Modern facilities and services,3.7302548577800008
+2013,,,,,,,Not workless,,,,,Modern facilities and services,1.01035427257
+2013,,,,,,,,Yes,,,,Modern facilities and services,2.49335727529
+2013,,,,,,,,No,,,,Modern facilities and services,1.62010015314
+2013,,,,,,,,,White,,,Modern facilities and services,1.8327601474700002
+2013,,,,,,,,,Black,,,Modern facilities and services,2.12079557061
+2013,,,,,,,,,Asian,,,Modern facilities and services,1.8964526176499998
+2013,,,,,,,,,Other,,,Modern facilities and services,3.72405703554
+2013,,,,,,,,,All minority,,,Modern facilities and services,2.4110340559599996
+2013,,,,,,,,,,Less than 1 year,,Modern facilities and services,1.3339857635299999
+2013,,,,,,,,,,1-4 years,,Modern facilities and services,1.65994992912
+2013,,,,,,,,,,5-9 years,,Modern facilities and services,1.13911549733
+2013,,,,,,,,,,10-19 years,,Modern facilities and services,1.3978900862799999
+2013,,,,,,,,,,20-29 years,,Modern facilities and services,2.36293289993
+2013,,,,,,,,,,30 or more years,,Modern facilities and services,3.9916322251599996
+2013,,,,,,,,,,,North,Modern facilities and services,1.23720171439
+2013,,,,,,,,,,,South East,Modern facilities and services,2.3420151392900004
+2013,,,,,,,,,,,Rest of England,Modern facilities and services,2.0541627704799996
+2014,City centre,,,,,,,,,,,Modern facilities and services,5.40159736362
+2014,Other urban centre,,,,,,,,,,,Modern facilities and services,3.7346393275699996
+2014,Suburban,,,,,,,,,,,Modern facilities and services,1.5136372788499999
+2014,All city and urban areas,,,,,,,,,,,Modern facilities and services,3.9843460748500004
+2014,,Couple under 60,,,,,,,,,,Modern facilities and services,1.56128370044
+2014,,Couple 60 or over,,,,,,,,,,Modern facilities and services,1.4731009903299999
+2014,,Couple with children,,,,,,,,,,Modern facilities and services,0.931264463687
+2014,,Lone parent,,,,,,,,,,Modern facilities and services,1.61842520667
+2014,,Multi-person household,,,,,,,,,,Modern facilities and services,1.4672245584499999
+2014,,One person under 60,,,,,,,,,,Modern facilities and services,3.1280806019300003
+2014,,One person 60 or over,,,,,,,,,,Modern facilities and services,4.69068165477
+2014,,,Under 60 years,,,,,,,,,Modern facilities and services,1.58627011336
+2014,,,60 years or more,,,,,,,,,Modern facilities and services,2.8209225192100003
+2014,,,75 years or more,,,,,,,,,Modern facilities and services,4.0872615973199995
+2014,,,,Under 5 years,,,,,,,,Modern facilities and services,1.32343498055
+2014,,,,under 16 years,,,,,,,,Modern facilities and services,1.00973072517
+2014,,,,16 years or more,,,,,,,,Modern facilities and services,2.4467189119599997
+2014,,,,,1st quintile (lowest),,,,,,,Modern facilities and services,3.5886226434199995
+2014,,,,,2nd quintile,,,,,,,Modern facilities and services,2.13580918875
+2014,,,,,3rd quintile,,,,,,,Modern facilities and services,2.9858915668799995
+2014,,,,,4th quintile,,,,,,,Modern facilities and services,1.32204813626
+2014,,,,,5th quintile (highest),,,,,,,Modern facilities and services,0.5428994382819999
+2014,,,,,,In poverty,,,,,,Modern facilities and services,3.926604754
+2014,,,,,,Not in poverty,,,,,,Modern facilities and services,1.77937542309
+2014,,,,,,,Workless,,,,,Modern facilities and services,4.70913736784
+2014,,,,,,,Not workless,,,,,Modern facilities and services,1.08345145204
+2014,,,,,,,,Yes,,,,Modern facilities and services,2.79932541866
+2014,,,,,,,,No,,,,Modern facilities and services,1.70457071284
+2014,,,,,,,,,White,,,Modern facilities and services,1.99949749616
+2014,,,,,,,,,Black,,,Modern facilities and services,2.97122809556
+2014,,,,,,,,,Asian,,,Modern facilities and services,1.7698255391799997
+2014,,,,,,,,,Other,,,Modern facilities and services,3.61851971076
+2014,,,,,,,,,All minority,,,Modern facilities and services,2.6210811717299998
+2014,,,,,,,,,,Less than 1 year,,Modern facilities and services,1.9714794115
+2014,,,,,,,,,,1-4 years,,Modern facilities and services,1.21547140041
+2014,,,,,,,,,,5-9 years,,Modern facilities and services,1.1626307403799998
+2014,,,,,,,,,,10-19 years,,Modern facilities and services,1.397548632
+2014,,,,,,,,,,20-29 years,,Modern facilities and services,2.5181525109900003
+2014,,,,,,,,,,30 or more years,,Modern facilities and services,5.27255266543
+2014,,,,,,,,,,,North,Modern facilities and services,1.02967833722
+2014,,,,,,,,,,,South East,Modern facilities and services,3.05559704728
+2014,,,,,,,,,,,Rest of England,Modern facilities and services,1.97880026118
+2015,City centre,,,,,,,,,,,Modern facilities and services,4.5856687355800005
+2015,Other urban centre,,,,,,,,,,,Modern facilities and services,2.42610411667
+2015,Suburban,,,,,,,,,,,Modern facilities and services,1.18467865403
+2015,All city and urban areas,,,,,,,,,,,Modern facilities and services,2.79951393112
+2015,,Couple under 60,,,,,,,,,,Modern facilities and services,1.0144918102200002
+2015,,Couple 60 or over,,,,,,,,,,Modern facilities and services,1.50501944002
+2015,,Couple with children,,,,,,,,,,Modern facilities and services,0.8281338743009999
+2015,,Lone parent,,,,,,,,,,Modern facilities and services,1.8879971882099997
+2015,,Multi-person household,,,,,,,,,,Modern facilities and services,1.96738413947
+2015,,One person under 60,,,,,,,,,,Modern facilities and services,2.31296931492
+2015,,One person 60 or over,,,,,,,,,,Modern facilities and services,2.78817672379
+2015,,,Under 60 years,,,,,,,,,Modern facilities and services,1.2671493985200002
+2015,,,60 years or more,,,,,,,,,Modern facilities and services,2.17708446296
+2015,,,75 years or more,,,,,,,,,Modern facilities and services,3.35733129704
+2015,,,,Under 5 years,,,,,,,,Modern facilities and services,1.01685530958
+2015,,,,under 16 years,,,,,,,,Modern facilities and services,1.0353151308700002
+2015,,,,16 years or more,,,,,,,,Modern facilities and services,1.8397871552
+2015,,,,,1st quintile (lowest),,,,,,,Modern facilities and services,2.31567594807
+2015,,,,,2nd quintile,,,,,,,Modern facilities and services,1.6417662105500002
+2015,,,,,3rd quintile,,,,,,,Modern facilities and services,2.35228953132
+2015,,,,,4th quintile,,,,,,,Modern facilities and services,1.15219686904
+2015,,,,,5th quintile (highest),,,,,,,Modern facilities and services,0.7499454739929999
+2015,,,,,,In poverty,,,,,,Modern facilities and services,2.82684079695
+2015,,,,,,Not in poverty,,,,,,Modern facilities and services,1.4255225652899999
+2015,,,,,,,Workless,,,,,Modern facilities and services,3.5189587128300004
+2015,,,,,,,Not workless,,,,,Modern facilities and services,1.04443974527
+2015,,,,,,,,Yes,,,,Modern facilities and services,2.1133163210799997
+2015,,,,,,,,No,,,,Modern facilities and services,1.3908545093
+2015,,,,,,,,,White,,,Modern facilities and services,1.53897850861
+2015,,,,,,,,,Black,,,Modern facilities and services,3.0245842892900003
+2015,,,,,,,,,Asian,,,Modern facilities and services,2.14042618898
+2015,,,,,,,,,Other,,,Modern facilities and services,1.7995109279400003
+2015,,,,,,,,,All minority,,,Modern facilities and services,2.3029786042400002
+2015,,,,,,,,,,Less than 1 year,,Modern facilities and services,1.5858579583599999
+2015,,,,,,,,,,1-4 years,,Modern facilities and services,0.963449415698
+2015,,,,,,,,,,5-9 years,,Modern facilities and services,1.21029041678
+2015,,,,,,,,,,10-19 years,,Modern facilities and services,0.94203612276
+2015,,,,,,,,,,20-29 years,,Modern facilities and services,1.9932285408300001
+2015,,,,,,,,,,30 or more years,,Modern facilities and services,3.9530109061300003
+2015,,,,,,,,,,,North,Modern facilities and services,0.9378796273219999
+2015,,,,,,,,,,,South East,Modern facilities and services,2.0125114945400004
+2015,,,,,,,,,,,Rest of England,Modern facilities and services,1.7546053486000002
+2008,City centre,,,,,,,,,,,Thermal comfort,19.3256184363
+2008,Other urban centre,,,,,,,,,,,Thermal comfort,14.207706641500002
+2008,Suburban,,,,,,,,,,,Thermal comfort,10.894528569
+2008,All city and urban areas,,,,,,,,,,,Thermal comfort,14.938827408699998
+2008,,Couple under 60,,,,,,,,,,Thermal comfort,10.5615290022
+2008,,Couple 60 or over,,,,,,,,,,Thermal comfort,10.526960109600001
+2008,,Couple with children,,,,,,,,,,Thermal comfort,9.97410250272
+2008,,Lone parent,,,,,,,,,,Thermal comfort,11.079414800799999
+2008,,Multi-person household,,,,,,,,,,Thermal comfort,12.4096733026
+2008,,One person under 60,,,,,,,,,,Thermal comfort,16.7854191321
+2008,,One person 60 or over,,,,,,,,,,Thermal comfort,16.9643023777
+2008,,,Under 60 years,,,,,,,,,Thermal comfort,11.7275868543
+2008,,,60 years or more,,,,,,,,,Thermal comfort,13.691030536
+2008,,,75 years or more,,,,,,,,,Thermal comfort,16.0369025618
+2008,,,,Under 5 years,,,,,,,,Thermal comfort,9.65803546019
+2008,,,,under 16 years,,,,,,,,Thermal comfort,10.2304125376
+2008,,,,16 years or more,,,,,,,,Thermal comfort,13.2467226064
+2008,,,,,1st quintile (lowest),,,,,,,Thermal comfort,13.6460923271
+2008,,,,,2nd quintile,,,,,,,Thermal comfort,13.8003051077
+2008,,,,,3rd quintile,,,,,,,Thermal comfort,13.7476082378
+2008,,,,,4th quintile,,,,,,,Thermal comfort,11.353790401400001
+2008,,,,,5th quintile (highest),,,,,,,Thermal comfort,9.69153798413
+2008,,,,,,In poverty,,,,,,Thermal comfort,13.2719142044
+2008,,,,,,Not in poverty,,,,,,Thermal comfort,12.261966429500001
+2008,,,,,,,Workless,,,,,Thermal comfort,12.362402528299999
+2008,,,,,,,Not workless,,,,,Thermal comfort,11.688325971700001
+2008,,,,,,,,Yes,,,,Thermal comfort,13.2515790576
+2008,,,,,,,,No,,,,Thermal comfort,12.0996289079
+2008,,,,,,,,,White,,,Thermal comfort,12.5214996264
+2008,,,,,,,,,Black,,,Thermal comfort,13.857965451099998
+2008,,,,,,,,,Asian,,,Thermal comfort,8.748507624260002
+2008,,,,,,,,,Other,,,Thermal comfort,13.4861996709
+2008,,,,,,,,,All minority,,,Thermal comfort,11.6429067118
+2008,,,,,,,,,,Less than 1 year,,Thermal comfort,13.4699084186
+2008,,,,,,,,,,1-4 years,,Thermal comfort,10.3593434684
+2008,,,,,,,,,,5-9 years,,Thermal comfort,10.8411830733
+2008,,,,,,,,,,10-19 years,,Thermal comfort,11.3670684251
+2008,,,,,,,,,,20-29 years,,Thermal comfort,14.3247919106
+2008,,,,,,,,,,30 or more years,,Thermal comfort,17.6152944691
+2008,,,,,,,,,,,North,Thermal comfort,11.389601241500001
+2008,,,,,,,,,,,South East,Thermal comfort,13.7586229421
+2008,,,,,,,,,,,Rest of England,Thermal comfort,13.0049479899
+2009,City centre,,,,,,,,,,,Thermal comfort,14.132
+2009,Other urban centre,,,,,,,,,,,Thermal comfort,11.374
+2009,Suburban,,,,,,,,,,,Thermal comfort,8.027999999999999
+2009,All city and urban areas,,,,,,,,,,,Thermal comfort,11.83
+2009,,Couple under 60,,,,,,,,,,Thermal comfort,9.19216774133
+2009,,Couple 60 or over,,,,,,,,,,Thermal comfort,8.65706012253
+2009,,Couple with children,,,,,,,,,,Thermal comfort,6.227713584630001
+2009,,Lone parent,,,,,,,,,,Thermal comfort,6.95347682727
+2009,,Multi-person household,,,,,,,,,,Thermal comfort,10.7087413286
+2009,,One person under 60,,,,,,,,,,Thermal comfort,15.365085667899999
+2009,,One person 60 or over,,,,,,,,,,Thermal comfort,14.2616052986
+2009,,,Under 60 years,,,,,,,,,Thermal comfort,9.35922917349
+2009,,,60 years or more,,,,,,,,,Thermal comfort,11.0061983968
+2009,,,75 years or more,,,,,,,,,Thermal comfort,13.3342736652
+2009,,,,Under 5 years,,,,,,,,Thermal comfort,7.12913843712
+2009,,,,under 16 years,,,,,,,,Thermal comfort,6.51177180791
+2009,,,,16 years or more,,,,,,,,Thermal comfort,11.316845203
+2009,,,,,1st quintile (lowest),,,,,,,Thermal comfort,11.248753642899999
+2009,,,,,2nd quintile,,,,,,,Thermal comfort,11.0936652494
+2009,,,,,3rd quintile,,,,,,,Thermal comfort,10.749235264300001
+2009,,,,,4th quintile,,,,,,,Thermal comfort,8.60884931256
+2009,,,,,5th quintile (highest),,,,,,,Thermal comfort,8.04786878425
+2009,,,,,,In poverty,,,,,,Thermal comfort,11.1634259627
+2009,,,,,,Not in poverty,,,,,,Thermal comfort,9.693967883300001
+2009,,,,,,,Workless,,,,,Thermal comfort,9.60831370653
+2009,,,,,,,Not workless,,,,,Thermal comfort,9.14082335889
+2009,,,,,,,,Yes,,,,Thermal comfort,10.4925625511
+2009,,,,,,,,No,,,,Thermal comfort,9.77675477436
+2009,,,,,,,,,White,,,Thermal comfort,10.1394058474
+2009,,,,,,,,,Black,,,Thermal comfort,8.096805680489998
+2009,,,,,,,,,Asian,,,Thermal comfort,8.36721811845
+2009,,,,,,,,,Other,,,Thermal comfort,7.69353254447
+2009,,,,,,,,,All minority,,,Thermal comfort,8.10755417478
+2009,,,,,,,,,,Less than 1 year,,Thermal comfort,11.0746531317
+2009,,,,,,,,,,1-4 years,,Thermal comfort,8.835150103119998
+2009,,,,,,,,,,5-9 years,,Thermal comfort,8.39673881518
+2009,,,,,,,,,,10-19 years,,Thermal comfort,7.40423032635
+2009,,,,,,,,,,20-29 years,,Thermal comfort,12.221811880799999
+2009,,,,,,,,,,30 or more years,,Thermal comfort,15.2799133204
+2009,,,,,,,,,,,North,Thermal comfort,8.36051506342
+2009,,,,,,,,,,,South East,Thermal comfort,10.811661649200001
+2009,,,,,,,,,,,Rest of England,Thermal comfort,11.502113068800002
+2010,City centre,,,,,,,,,,,Thermal comfort,14.164000000000001
+2010,Other urban centre,,,,,,,,,,,Thermal comfort,9.972999999999999
+2010,Suburban,,,,,,,,,,,Thermal comfort,6.999
+2010,All city and urban areas,,,,,,,,,,,Thermal comfort,10.66
+2010,,Couple under 60,,,,,,,,,,Thermal comfort,8.783
+2010,,Couple 60 or over,,,,,,,,,,Thermal comfort,8.548
+2010,,Couple with children,,,,,,,,,,Thermal comfort,5.981
+2010,,Lone parent,,,,,,,,,,Thermal comfort,6.527
+2010,,Multi-person household,,,,,,,,,,Thermal comfort,9.919
+2010,,One person under 60,,,,,,,,,,Thermal comfort,14.786
+2010,,One person 60 or over,,,,,,,,,,Thermal comfort,12.755999999999998
+2010,,,Under 60 years,,,,,,,,,Thermal comfort,8.837
+2010,,,60 years or more,,,,,,,,,Thermal comfort,10.290999999999999
+2010,,,75 years or more,,,,,,,,,Thermal comfort,11.725
+2010,,,,Under 5 years,,,,,,,,Thermal comfort,6.921
+2010,,,,under 16 years,,,,,,,,Thermal comfort,6.212000000000001
+2010,,,,16 years or more,,,,,,,,Thermal comfort,10.632
+2010,,,,,1st quintile (lowest),,,,,,,Thermal comfort,10.502
+2010,,,,,2nd quintile,,,,,,,Thermal comfort,10.545
+2010,,,,,3rd quintile,,,,,,,Thermal comfort,10.123
+2010,,,,,4th quintile,,,,,,,Thermal comfort,9.044
+2010,,,,,5th quintile (highest),,,,,,,Thermal comfort,6.772
+2010,,,,,,In poverty,,,,,,Thermal comfort,10.713
+2010,,,,,,Not in poverty,,,,,,Thermal comfort,9.106
+2010,,,,,,,Workless,,,,,Thermal comfort,8.729
+2010,,,,,,,Not workless,,,,,Thermal comfort,8.817
+2010,,,,,,,,Yes,,,,Thermal comfort,9.472000000000001
+2010,,,,,,,,No,,,,Thermal comfort,9.341000000000001
+2010,,,,,,,,,White,,,Thermal comfort,9.486
+2010,,,,,,,,,Black,,,Thermal comfort,7.285
+2010,,,,,,,,,Asian,,,Thermal comfort,8.537
+2010,,,,,,,,,Other,,,Thermal comfort,9.152999999999999
+2010,,,,,,,,,All minority,,,Thermal comfort,8.325
+2010,,,,,,,,,,Less than 1 year,,Thermal comfort,11.071
+2010,,,,,,,,,,1-4 years,,Thermal comfort,8.611
+2010,,,,,,,,,,5-9 years,,Thermal comfort,6.879
+2010,,,,,,,,,,10-19 years,,Thermal comfort,7.142
+2010,,,,,,,,,,20-29 years,,Thermal comfort,11.573
+2010,,,,,,,,,,30 or more years,,Thermal comfort,14.419
+2010,,,,,,,,,,,North,Thermal comfort,8.077
+2010,,,,,,,,,,,South East,Thermal comfort,10.093
+2010,,,,,,,,,,,Rest of England,Thermal comfort,11.049000000000001
+2011,City centre,,,,,,,,,,,Thermal comfort,15.206
+2011,Other urban centre,,,,,,,,,,,Thermal comfort,9.133
+2011,Suburban,,,,,,,,,,,Thermal comfort,5.94
+2011,All city and urban areas,,,,,,,,,,,Thermal comfort,10.058
+2011,,Couple under 60,,,,,,,,,,Thermal comfort,7.747000000000001
+2011,,Couple 60 or over,,,,,,,,,,Thermal comfort,7.251
+2011,,Couple with children,,,,,,,,,,Thermal comfort,5.841
+2011,,Lone parent,,,,,,,,,,Thermal comfort,8.155
+2011,,Multi-person household,,,,,,,,,,Thermal comfort,9.014
+2011,,One person under 60,,,,,,,,,,Thermal comfort,11.388
+2011,,One person 60 or over,,,,,,,,,,Thermal comfort,11.07
+2011,,,Under 60 years,,,,,,,,,Thermal comfort,7.8839999999999995
+2011,,,60 years or more,,,,,,,,,Thermal comfort,8.994
+2011,,,75 years or more,,,,,,,,,Thermal comfort,9.962
+2011,,,,Under 5 years,,,,,,,,Thermal comfort,6.93
+2011,,,,under 16 years,,,,,,,,Thermal comfort,6.4079999999999995
+2011,,,,16 years or more,,,,,,,,Thermal comfort,9.054
+2011,,,,,1st quintile (lowest),,,,,,,Thermal comfort,9.189
+2011,,,,,2nd quintile,,,,,,,Thermal comfort,10.261
+2011,,,,,3rd quintile,,,,,,,Thermal comfort,9.097000000000001
+2011,,,,,4th quintile,,,,,,,Thermal comfort,8.244
+2011,,,,,5th quintile (highest),,,,,,,Thermal comfort,4.8389999999999995
+2011,,,,,,In poverty,,,,,,Thermal comfort,9.326
+2011,,,,,,Not in poverty,,,,,,Thermal comfort,8.116
+2011,,,,,,,Workless,,,,,Thermal comfort,8.052999999999999
+2011,,,,,,,Not workless,,,,,Thermal comfort,7.9110000000000005
+2011,,,,,,,,Yes,,,,Thermal comfort,8.201
+2011,,,,,,,,No,,,,Thermal comfort,8.339
+2011,,,,,,,,,White,,,Thermal comfort,8.339
+2011,,,,,,,,,Black,,,Thermal comfort,8.241
+2011,,,,,,,,,Asian,,,Thermal comfort,7.962000000000001
+2011,,,,,,,,,Other,,,Thermal comfort,7.614
+2011,,,,,,,,,All minority,,,Thermal comfort,7.947
+2011,,,,,,,,,,Less than 1 year,,Thermal comfort,11.322000000000001
+2011,,,,,,,,,,1-4 years,,Thermal comfort,7.808
+2011,,,,,,,,,,5-9 years,,Thermal comfort,6.744
+2011,,,,,,,,,,10-19 years,,Thermal comfort,5.723
+2011,,,,,,,,,,20-29 years,,Thermal comfort,9.658999999999999
+2011,,,,,,,,,,30 or more years,,Thermal comfort,11.935
+2011,,,,,,,,,,,North,Thermal comfort,7.279
+2011,,,,,,,,,,,South East,Thermal comfort,8.594
+2011,,,,,,,,,,,Rest of England,Thermal comfort,9.847000000000001
+2012,City centre,,,,,,,,,,,Thermal comfort,21.2382323193
+2012,Other urban centre,,,,,,,,,,,Thermal comfort,8.02726794494
+2012,Suburban,,,,,,,,,,,Thermal comfort,5.6729744363100005
+2012,All city and urban areas,,,,,,,,,,,Thermal comfort,9.930948548049999
+2012,,Couple under 60,,,,,,,,,,Thermal comfort,7.1129999999999995
+2012,,Couple 60 or over,,,,,,,,,,Thermal comfort,5.525
+2012,,Couple with children,,,,,,,,,,Thermal comfort,4.678999999999999
+2012,,Lone parent,,,,,,,,,,Thermal comfort,6.2860000000000005
+2012,,Multi-person household,,,,,,,,,,Thermal comfort,8.984
+2012,,One person under 60,,,,,,,,,,Thermal comfort,11.704
+2012,,One person 60 or over,,,,,,,,,,Thermal comfort,9.291
+2012,,,Under 60 years,,,,,,,,,Thermal comfort,7.187
+2012,,,60 years or more,,,,,,,,,Thermal comfort,7.372999999999999
+2012,,,75 years or more,,,,,,,,,Thermal comfort,7.08
+2012,,,,Under 5 years,,,,,,,,Thermal comfort,5.417000000000001
+2012,,,,under 16 years,,,,,,,,Thermal comfort,5.0680000000000005
+2012,,,,16 years or more,,,,,,,,Thermal comfort,8.167
+2012,,,,,1st quintile (lowest),,,,,,,Thermal comfort,8.845
+2012,,,,,2nd quintile,,,,,,,Thermal comfort,8.89
+2012,,,,,3rd quintile,,,,,,,Thermal comfort,8.095
+2012,,,,,4th quintile,,,,,,,Thermal comfort,6.303999999999999
+2012,,,,,5th quintile (highest),,,,,,,Thermal comfort,4.354
+2012,,,,,,In poverty,,,,,,Thermal comfort,9.701
+2012,,,,,,Not in poverty,,,,,,Thermal comfort,6.881
+2012,,,,,,,Workless,,,,,Thermal comfort,8.331
+2012,,,,,,,Not workless,,,,,Thermal comfort,7.011
+2012,,,,,,,,Yes,,,,Thermal comfort,7.226
+2012,,,,,,,,No,,,,Thermal comfort,7.268
+2012,,,,,,,,,White,,,Thermal comfort,7.247000000000001
+2012,,,,,,,,,Black,,,Thermal comfort,10.390999999999998
+2012,,,,,,,,,Asian,,,Thermal comfort,5.872999999999999
+2012,,,,,,,,,Other,,,Thermal comfort,6.275
+2012,,,,,,,,,All minority,,,Thermal comfort,7.325
+2012,,,,,,,,,,Less than 1 year,,Thermal comfort,10.958
+2012,,,,,,,,,,1-4 years,,Thermal comfort,7.5329999999999995
+2012,,,,,,,,,,5-9 years,,Thermal comfort,5.9
+2012,,,,,,,,,,10-19 years,,Thermal comfort,4.611000000000001
+2012,,,,,,,,,,20-29 years,,Thermal comfort,7.252000000000001
+2012,,,,,,,,,,30 or more years,,Thermal comfort,10.104
+2012,,,,,,,,,,,North,Thermal comfort,6.421
+2012,,,,,,,,,,,South East,Thermal comfort,7.587999999999999
+2012,,,,,,,,,,,Rest of England,Thermal comfort,8.579
+2013,City centre,,,,,,,,,,,Thermal comfort,17.8395447199
+2013,Other urban centre,,,,,,,,,,,Thermal comfort,6.468425271619999
+2013,Suburban,,,,,,,,,,,Thermal comfort,5.189467287219999
+2013,All city and urban areas,,,,,,,,,,,Thermal comfort,8.17179463597
+2013,,Couple under 60,,,,,,,,,,Thermal comfort,6.377685381159999
+2013,,Couple 60 or over,,,,,,,,,,Thermal comfort,6.0229743323500005
+2013,,Couple with children,,,,,,,,,,Thermal comfort,4.17606883831
+2013,,Lone parent,,,,,,,,,,Thermal comfort,4.19577767761
+2013,,Multi-person household,,,,,,,,,,Thermal comfort,8.065132647539999
+2013,,One person under 60,,,,,,,,,,Thermal comfort,12.4044680233
+2013,,One person 60 or over,,,,,,,,,,Thermal comfort,8.87596258406
+2013,,,Under 60 years,,,,,,,,,Thermal comfort,6.78657093138
+2013,,,60 years or more,,,,,,,,,Thermal comfort,7.23273180457
+2013,,,75 years or more,,,,,,,,,Thermal comfort,7.4146284017
+2013,,,,Under 5 years,,,,,,,,Thermal comfort,4.530272420069999
+2013,,,,under 16 years,,,,,,,,Thermal comfort,4.53410817801
+2013,,,,16 years or more,,,,,,,,Thermal comfort,7.83460299993
+2013,,,,,1st quintile (lowest),,,,,,,Thermal comfort,9.69004489347
+2013,,,,,2nd quintile,,,,,,,Thermal comfort,7.392729021339999
+2013,,,,,3rd quintile,,,,,,,Thermal comfort,8.1802647422
+2013,,,,,4th quintile,,,,,,,Thermal comfort,5.44569153147
+2013,,,,,5th quintile (highest),,,,,,,Thermal comfort,4.4730594014
+2013,,,,,,In poverty,,,,,,Thermal comfort,10.725371433300001
+2013,,,,,,Not in poverty,,,,,,Thermal comfort,6.388652967530001
+2013,,,,,,,Workless,,,,,Thermal comfort,8.767394935539999
+2013,,,,,,,Not workless,,,,,Thermal comfort,6.351094119040001
+2013,,,,,,,,Yes,,,,Thermal comfort,6.91280212589
+2013,,,,,,,,No,,,,Thermal comfort,6.973075457919999
+2013,,,,,,,,,White,,,Thermal comfort,6.9235519958200005
+2013,,,,,,,,,Black,,,Thermal comfort,9.937421077260002
+2013,,,,,,,,,Asian,,,Thermal comfort,5.106519501469999
+2013,,,,,,,,,Other,,,Thermal comfort,8.130716605529999
+2013,,,,,,,,,All minority,,,Thermal comfort,7.225073750630001
+2013,,,,,,,,,,Less than 1 year,,Thermal comfort,9.13470289259
+2013,,,,,,,,,,1-4 years,,Thermal comfort,7.60958052658
+2013,,,,,,,,,,5-9 years,,Thermal comfort,5.33847715288
+2013,,,,,,,,,,10-19 years,,Thermal comfort,4.75722902984
+2013,,,,,,,,,,20-29 years,,Thermal comfort,4.85925203456
+2013,,,,,,,,,,30 or more years,,Thermal comfort,10.8398229633
+2013,,,,,,,,,,,North,Thermal comfort,5.92653433952
+2013,,,,,,,,,,,South East,Thermal comfort,8.06270136388
+2013,,,,,,,,,,,Rest of England,Thermal comfort,8.09065069261
+2014,City centre,,,,,,,,,,,Thermal comfort,17.8395447199
+2014,Other urban centre,,,,,,,,,,,Thermal comfort,6.468425271619999
+2014,Suburban,,,,,,,,,,,Thermal comfort,5.189467287219999
+2014,All city and urban areas,,,,,,,,,,,Thermal comfort,8.17179463597
+2014,,Couple under 60,,,,,,,,,,Thermal comfort,5.831537698099999
+2014,,Couple 60 or over,,,,,,,,,,Thermal comfort,5.45416040777
+2014,,Couple with children,,,,,,,,,,Thermal comfort,3.74094099183
+2014,,Lone parent,,,,,,,,,,Thermal comfort,3.96297717644
+2014,,Multi-person household,,,,,,,,,,Thermal comfort,7.2154260615600005
+2014,,One person under 60,,,,,,,,,,Thermal comfort,10.5183757413
+2014,,One person 60 or over,,,,,,,,,,Thermal comfort,8.886797639389998
+2014,,,Under 60 years,,,,,,,,,Thermal comfort,5.81771928605
+2014,,,60 years or more,,,,,,,,,Thermal comfort,7.07417151212
+2014,,,75 years or more,,,,,,,,,Thermal comfort,7.527101603689999
+2014,,,,Under 5 years,,,,,,,,Thermal comfort,4.72943743883
+2014,,,,under 16 years,,,,,,,,Thermal comfort,4.16862376703
+2014,,,,16 years or more,,,,,,,,Thermal comfort,7.07976915148
+2014,,,,,1st quintile (lowest),,,,,,,Thermal comfort,8.100087499389998
+2014,,,,,2nd quintile,,,,,,,Thermal comfort,6.055526273350001
+2014,,,,,3rd quintile,,,,,,,Thermal comfort,7.7825505343899986
+2014,,,,,4th quintile,,,,,,,Thermal comfort,5.56371208264
+2014,,,,,5th quintile (highest),,,,,,,Thermal comfort,4.352402003530001
+2014,,,,,,In poverty,,,,,,Thermal comfort,8.22945352577
+2014,,,,,,Not in poverty,,,,,,Thermal comfort,6.009648210319999
+2014,,,,,,,Workless,,,,,Thermal comfort,8.62377634212
+2014,,,,,,,Not workless,,,,,Thermal comfort,5.4460130519300005
+2014,,,,,,,,Yes,,,,Thermal comfort,6.884593249239999
+2014,,,,,,,,No,,,,Thermal comfort,6.01749351893
+2014,,,,,,,,,White,,,Thermal comfort,6.32530789239
+2014,,,,,,,,,Black,,,Thermal comfort,5.42494770663
+2014,,,,,,,,,Asian,,,Thermal comfort,4.9803756108099995
+2014,,,,,,,,,Other,,,Thermal comfort,8.63787323247
+2014,,,,,,,,,All minority,,,Thermal comfort,6.11173168461
+2014,,,,,,,,,,Less than 1 year,,Thermal comfort,6.99604346653
+2014,,,,,,,,,,1-4 years,,Thermal comfort,6.6263102942
+2014,,,,,,,,,,5-9 years,,Thermal comfort,4.97988874079
+2014,,,,,,,,,,10-19 years,,Thermal comfort,4.505910360680001
+2014,,,,,,,,,,20-29 years,,Thermal comfort,5.654738677999999
+2014,,,,,,,,,,30 or more years,,Thermal comfort,9.99066369702
+2014,,,,,,,,,,,North,Thermal comfort,4.45592279573
+2014,,,,,,,,,,,South East,Thermal comfort,7.69484133246
+2014,,,,,,,,,,,Rest of England,Thermal comfort,7.34093350464
+2015,City centre,,,,,,,,,,,Thermal comfort,14.7922804022
+2015,Other urban centre,,,,,,,,,,,Thermal comfort,5.593836812459999
+2015,Suburban,,,,,,,,,,,Thermal comfort,4.82807652444
+2015,All city and urban areas,,,,,,,,,,,Thermal comfort,7.18433754765
+2015,,Couple under 60,,,,,,,,,,Thermal comfort,5.10052218157
+2015,,Couple 60 or over,,,,,,,,,,Thermal comfort,4.96492424671
+2015,,Couple with children,,,,,,,,,,Thermal comfort,3.27338023128
+2015,,Lone parent,,,,,,,,,,Thermal comfort,5.58360832861
+2015,,Multi-person household,,,,,,,,,,Thermal comfort,6.48139017061
+2015,,One person under 60,,,,,,,,,,Thermal comfort,9.94300935714
+2015,,One person 60 or over,,,,,,,,,,Thermal comfort,8.94854789741
+2015,,,Under 60 years,,,,,,,,,Thermal comfort,5.5103360426400005
+2015,,,60 years or more,,,,,,,,,Thermal comfort,6.7167395150800004
+2015,,,75 years or more,,,,,,,,,Thermal comfort,7.2471183005699995
+2015,,,,Under 5 years,,,,,,,,Thermal comfort,4.1170257155400005
+2015,,,,under 16 years,,,,,,,,Thermal comfort,3.6739948359099994
+2015,,,,16 years or more,,,,,,,,Thermal comfort,6.83602532758
+2015,,,,,1st quintile (lowest),,,,,,,Thermal comfort,7.17932777839
+2015,,,,,2nd quintile,,,,,,,Thermal comfort,6.90684013135
+2015,,,,,3rd quintile,,,,,,,Thermal comfort,6.41194264114
+2015,,,,,4th quintile,,,,,,,Thermal comfort,5.107248591559999
+2015,,,,,5th quintile (highest),,,,,,,Thermal comfort,4.46421811552
+2015,,,,,,In poverty,,,,,,Thermal comfort,7.27178951742
+2015,,,,,,Not in poverty,,,,,,Thermal comfort,5.77036692971
+2015,,,,,,,Workless,,,,,Thermal comfort,9.3649521028
+2015,,,,,,,Not workless,,,,,Thermal comfort,5.206323197240001
+2015,,,,,,,,Yes,,,,Thermal comfort,6.71148343214
+2015,,,,,,,,No,,,,Thermal comfort,5.652757376039999
+2015,,,,,,,,,White,,,Thermal comfort,5.94391702388
+2015,,,,,,,,,Black,,,Thermal comfort,5.67682070899
+2015,,,,,,,,,Asian,,,Thermal comfort,5.04405192863
+2015,,,,,,,,,Other,,,Thermal comfort,9.03747267062
+2015,,,,,,,,,All minority,,,Thermal comfort,6.285835453430001
+2015,,,,,,,,,,Less than 1 year,,Thermal comfort,6.56005491777
+2015,,,,,,,,,,1-4 years,,Thermal comfort,6.0352190947099995
+2015,,,,,,,,,,5-9 years,,Thermal comfort,5.4638955224300005
+2015,,,,,,,,,,10-19 years,,Thermal comfort,4.598623980849999
+2015,,,,,,,,,,20-29 years,,Thermal comfort,5.80427230207
+2015,,,,,,,,,,30 or more years,,Thermal comfort,8.25282331997
+2015,,,,,,,,,,,North,Thermal comfort,3.53697271049
+2015,,,,,,,,,,,South East,Thermal comfort,7.09778930719
+2015,,,,,,,,,,,Rest of England,Thermal comfort,6.87836055276
+2015,,,,,,,,,,,Rest of England,Thermal comfort,6.87836055276
