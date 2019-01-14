@@ -17,7 +17,7 @@ Loosely speaking with have: `/<datatype>/<id>.<format>` and support csv and json
 
 ## Versions
 
-We're planning for versioned APIs. Right now the root location is the latest API. Other versions will be available. For example the development branch of the API code will be available by adding `dev` to the beginning of the path. e.g. `/dev/<datatype>/<id>.<format>`.
+We don't currently support API versioning.
 
 ## Data
 
