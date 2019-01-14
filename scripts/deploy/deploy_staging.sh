@@ -33,14 +33,7 @@ cd out
 git checkout $TARGET_BRANCH || git checkout --orphan $TARGET_BRANCH
 cd ..
 
-
-# Use the API_VERSION variable to put in the right place
-# unset or empty
-if [ -z "$API_VERSION" ]; then
-  OUTDIR="out"
-else
-  OUTDIR="out/$API_VERSION"
-fi
+OUTDIR="out"
 
 # Overwrite contents with _site
 mkdir -p $OUTDIR

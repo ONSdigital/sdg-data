@@ -1,23 +1,15 @@
 language: python
 python:
   - "3.6"
-env:
-  - SDG_REF="master" API_VERSION=""
-  - SDG_REF="develop" API_VERSION="dev"
-matrix:
-  allow_failures:
-    - env: SDG_REF="develop"
 sudo: false
 git:
   depth: false
-
 branches:
   only:
   - master
   - develop
 install:
   - pip install -r scripts/requirements.txt
-  - pip install git+git://github.com/ONSdigital/sdg-build@${SDG_REF}
 before_script:
   - chmod +x ./scripts/*.py
   - chmod +x ./scripts/deploy/*.sh
