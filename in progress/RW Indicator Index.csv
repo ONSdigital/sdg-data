@@ -1,34 +1,35 @@
-﻿Indicator code,Indicator name,Source,Organisation,Calculations Y/N,Proxy Y/N,Disaggregations Y/N,Complete Y/N,CSV Y/N,Excel Y/N,Comments
-1.3.1,Proportion of population covered by social protection,http://www.statistics.gov.rw/publication/eicv5-thematic-report-vup,NISR EICV,N,Y,Y,N,N,N,Disaggregated by scheme as a proxy
-1.4.1,Households with access to basic services,http://rgb.rw/fileadmin/Publications/Citizen_Report_Card_all/CRC_Report_ENG_2018.pdf,RGB CRC 2018,N,N,Y,N,N,N,Disaggregated by services
-1.5.1,Deaths due to disasters,Not released yet,REMA,Y,N,Y,N,N,N,"Only raw numbers – use population figures, disaggregataion by type of disaster, not published yet"
-2.1.1,Prevelance of undernourishment,http://www.statistics.gov.rw/publication/demographic-and-health-survey-20142015-final-report,NISR DHS,N,N,Y,N,N,N,
-2.2.1,Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age,http://www.statistics.gov.rw/publication/demographic-and-health-survey-20142015-final-report,NISR DHS,Y,N,Y,N,Y,Y,
-2.4.1,MINIRENA media centre documents Land accounts March 2018,,MINIRENA NCA-L,,,,N,N,N,
-3.1.2,Proportion of births attended by skilled health personnel,http://www.statistics.gov.rw/publication/demographic-and-health-survey-20142015-final-report,NISR DHS,Y,N,N,N,N,N,
-3.2.2,Neonatal mortality rate,,NISR DHS,Y,N,N,N,Y,Y,
-3.4.1,"Mortality rate due to cardio disease, cancer, diabeties or chronic resp disease",http://www.statistics.gov.rw/publication/statistical-yearbook-2018,Ministry of Health,N,,,N,N,N,
-3.7.1,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,NISR DHS,Y,N,N,N,Y,Y,
-3.9.1,Mortality attributed to air pollution,,Ministry of Health,,N,Y,N,N,N,Disaggregated by cause of death
-4.2.2,"Participation rate in organized learning (one year before the official primary entry age), by sex",,MINEDUC,Y,Y,Y,N,N,N,Disaggregated by sex
-4.a.1,Proportion of schools with access to: (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic hand-washing facilities (as per the WASH indicator definitions),,MINEDUC,Y,N,Y,N,N,N,Disaggregated by (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic hand-washing facilities (as per the WASH indicator definitions)
-5.5.2,Women in managerial positions,,NISR Statistical Yearbook,,,,N,N,N,
-5.b.1,"Proportion of individuals who own a mobile telephone, by sex",,NISR Statistical Yearbook,,,,N,N,N,
-6.2.1,Proportion of population using safely managed sanitation services,,NISR EICV,,,,N,N,N,Disaggrgated by district
-7.1.1,Proportion of population with access to electricity,,NISR EICV,Y,N,N,N,N,N,
-7.2.1,Renewable energy share in the total final energy consumption,,MININFRA,Y,Y,N,N,N,N,
-8.1.1,Annual growth rate of GDP per capita,http://www.statistics.gov.rw/publication/gdp-national-accounts-2017,NISR,Y,N,N,N,N,N,GDP per capita (per head) is row 14 of table A
-8.7.1,Proportion and number of children aged 5-17 engaged in child labour by sex and age,,NISR Labour Force Survey,,,,N,N,N,
-8.10.2,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,,BNR,Y,N,N,N,N,N,
-9.4.1,CO2 emissions per unit of value added,,NISR Statistical Yearbook,,Y,,N,N,N,Only per capita – proxy
-9.c.1,Proportion of population covered by mobile network,,NISR Statistical Yearbook,,,,N,N,N,
-10.5.1,Financial soundness indicators,,Bank of Rwanda,,,,N,N,N,
-11.1.1,"Proportion of urban population living in slums, informal settlements or inadequate housing",,NISR EICV,,,,N,N,N,
-13.1.1,As 1.5.1,,,,,,N,N,N,
-15.1.1,Forest area as a proportion of total land area,,NISR Statistical Yearbook,Y,N,N,Y,N,N,Addition of Natural Forest Coverage and Forest Plantation
-16.1.3,"Proportion of population subjected to physical, psychological & sexual violence in the previous 12 months",http://www.statistics.gov.rw/publication/demographic-and-health-survey-20142015-final-report,NISR DHS,,,,N,N,N,
-16.2.3,Proportion of young women & men aged 18-29 who experienced sexual violence,http://www.statistics.gov.rw/publication/demographic-and-health-survey-20142015-final-report,NISR DHS,,Y,,N,N,N,Proxy – aged 15-49
-16.6.2,Proportion of population satisfied with their last experience of public services,http://rgb.rw/fileadmin/Publications/Citizen_Report_Card_all/CRC_Report_ENG_2018.pdf,RGB CRC 2018,,,,N,N,N,
-16.9.1,Proportion of children under 5 years whose births have been registered with a civil authority,http://www.statistics.gov.rw/publication/demographic-and-health-survey-20142015-final-report,NISR DHS,,,,N,N,N,
-17.6.2,Fixed internet broadband subscriptions per 100 inhabitants,,NISR Statistical Yearbook,,,,N,N,N,
-17.8.1,Proportion of individuals using the internet,,NISR Statistical Yearbook,,,,N,N,N,
+﻿Indicator code,Organisation,Calculations Y/N,Proxy Y/N,Disaggregations Y/N,Complete Y/N,CSV Y/N,Excel Y/N,Indicator name,Source,Comments
+1.3.1,NISR EICV,N,Y,Y,N,N,Y,Proportion of population covered by social protection,http://www.statistics.gov.rw/publication/eicv5-thematic-report-vup,Disaggregated by scheme as a proxy
+1.4.1,RGB CRC 2018,N,N,Y,N,Y,Y,Households with access to basic services,http://rgb.rw/fileadmin/Publications/Citizen_Report_Card_all/CRC_Report_ENG_2018.pdf,Disaggregated by services
+1.5.1,REMA,Y,N,Y,N,N,N,Deaths due to disasters,Not released yet,"Only raw numbers – use population figures, disaggregataion by type of disaster, not published yet"
+2.1.1,NISR DHS,N,N,Y,N,N,N,Prevelance of undernourishment,http://www.statistics.gov.rw/publication/demographic-and-health-survey-20142015-final-report,
+2.2.1,NISR DHS,Y,N,Y,Y,Y,Y,Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age,http://www.statistics.gov.rw/publication/demographic-and-health-survey-20142015-final-report,
+2.4.1,MINIRENA NCA-L,,,,N,N,N,MINIRENA media centre documents Land accounts March 2018,,
+3.1.2,NISR DHS,Y,N,N,N,N,Y,Proportion of births attended by skilled health personnel,http://www.statistics.gov.rw/publication/demographic-and-health-survey-20142015-final-report,
+3.2.2,NISR DHS,Y,N,N,Y,Y,Y,Neonatal mortality rate,,
+3.4.1,Ministry of Health,N,,,N,N,N,"Mortality rate due to cardio disease, cancer, diabeties or chronic resp disease",http://www.statistics.gov.rw/publication/statistical-yearbook-2018,
+3.7.1,NISR DHS,Y,N,N,Y,Y,Y,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,
+3.9.1,Ministry of Health,,N,Y,N,N,N,Mortality attributed to air pollution,,Disaggregated by cause of death
+4.2.2,MINEDUC,Y,Y,Y,N,N,Y,"Participation rate in organized learning (one year before the official primary entry age), by sex",,Disaggregated by sex
+4.a.1,MINEDUC,N,N,Y,N,Y,Y,Proportion of schools with access to: (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic hand-washing facilities (as per the WASH indicator definitions),,Disaggregated by (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic hand-washing facilities (as per the WASH indicator definitions)
+5.5.2,NISR Statistical Yearbook,,,,N,N,N,Women in managerial positions,,
+5.b.1,NISR Statistical Yearbook,,,,N,N,N,"Proportion of individuals who own a mobile telephone, by sex",,
+6.2.1,NISR EICV,,,,N,N,N,Proportion of population using safely managed sanitation services,,Disaggrgated by district
+7.1.1,NISR EICV,Y,Y,N,N,Y,Y,Proportion of population with access to electricity,,
+7.2.1,MININFRA,Y,Y,N,N,N,Y,Renewable energy share in the total final energy consumption,,
+8.1.1,NISR,Y,N,N,N,N,N,Annual growth rate of GDP per capita,http://www.statistics.gov.rw/publication/gdp-national-accounts-2017,GDP per capita (per head) is row 14 of table A
+8.7.1,NISR Labour Force Survey,,,,N,N,N,Proportion and number of children aged 5-17 engaged in child labour by sex and age,,
+8.10.2,BNR,Y,N,N,N,N,Y,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,,
+9.4.1,NISR Statistical Yearbook,,Y,,N,N,N,CO2 emissions per unit of value added,,Only per capita – proxy
+9.c.1,NISR Statistical Yearbook,,,,N,N,N,Proportion of population covered by mobile network,,
+10.5.1,Bank of Rwanda,N,N,Y,N,N,Y,Financial soundness indicators,,
+11.1.1,NISR EICV,,,,N,N,N,"Proportion of urban population living in slums, informal settlements or inadequate housing",,
+13.1.1,,,,,N,N,N,As 1.5.1,,
+16.1.3,NISR DHS,,,,N,N,N,"Proportion of population subjected to physical, psychological & sexual violence in the previous 12 months",http://www.statistics.gov.rw/publication/demographic-and-health-survey-20142015-final-report,
+16.2.3,NISR DHS,,Y,,N,N,N,Proportion of young women & men aged 18-29 who experienced sexual violence,http://www.statistics.gov.rw/publication/demographic-and-health-survey-20142015-final-report,Proxy – aged 15-49
+16.6.2,RGB CRC 2018,,,,N,N,N,Proportion of population satisfied with their last experience of public services,http://rgb.rw/fileadmin/Publications/Citizen_Report_Card_all/CRC_Report_ENG_2018.pdf,
+16.9.1,NISR DHS,,,,N,N,N,Proportion of children under 5 years whose births have been registered with a civil authority,http://www.statistics.gov.rw/publication/demographic-and-health-survey-20142015-final-report,
+17.6.2,NISR Statistical Yearbook,,,,N,N,N,Fixed internet broadband subscriptions per 100 inhabitants,,
+17.8.1,NISR Statistical Yearbook,,,,N,N,N,Proportion of individuals using the internet,,
+,,,,,,,,,,
+,,,,,,,,,,
