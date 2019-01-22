@@ -1,49 +1,437 @@
-Year,Age at which female genital mutilation occurred,Country of birth,Value
-2015,Not recorded,,93.77800753
-2015,Did not say,,40.16998786
-2015,Under 1,,10.77204159
-2015,1 to 4,,12.7895477
-2015,5 to 9,,26.62387536
-2015,10 to 14,,6.232652825
-2015,15 to 17,,0.756564794
-2015,18 and over,,3.098312965
-2015,,,194.2209906
-2016,Not recorded,,119.6403766
-2016,Did not say,,35.89926423
-2016,Under 1,,8.40271623
-2016,1 to 4,,12.19287759
-2016,5 to 9,,20.81013126
-2016,10 to 14,,4.755579824
-2016,15 to 17,,0.464831111
-2016,18 and over,,1.716299485
-2016,,,203.8820764
-2015,,Not recorded,85.41976791
-2015,,Not stated or unknown,40.99860644
-2015,,Eastern Africa,42.33160156
-2015,,Northern Africa,8.862616156
-2015,,Western Africa,20.21108806
-2015,,Rest of Africa,0.468349634
-2015,,United Kingdom,1.549156482
-2015,,Western Asia,3.962958444
-2015,,Rest of Asia,1.116833743
-2015,,Rest of world,0.504376529
-2016,,Not recorded,36.47136406
-2016,,Not stated or unknown,23.59911792
-2016,,Eastern Africa,24.6718051
-2016,,Northern Africa,1.96659316
-2016,,Western Africa,3.93318632
-2016,,United Kingdom,0.536343589
-2016,,Western Asia,0.715124786
-2016,,Rest of Asia,0.178781196
-2015,,,4.863630817
-2015,,,109.4857337
-2015,,,32.17201718
-2015,,,28.42522011
-2015,,,25.57909541
-2015,,,4.899657712
-2016,,,7.508810248
-2016,,,48.44970422
-2016,,,12.87224614
-2016,,,10.011747
-2016,,,11.62077776
-2016,,,1.609030767
+Year,Country,Region,Age,Country of Birth,Units,FGM Type,GeoCode,Value
+2015,England,,Total,,"Newly recorded cases per 1,000,000 population",,,205.425354958
+2015,England,,Under 1,,"Newly recorded cases per 1,000,000 population",,E92000001,728.122250177
+2015,England,,1 to 4,,"Newly recorded cases per 1,000,000 population",,E92000001,252.304031537
+2015,England,,5 to 9,,"Newly recorded cases per 1,000,000 population",,E92000001,355.190356399
+2015,England,,10 to 14,,"Newly recorded cases per 1,000,000 population",,E92000001,90.7813888597
+2015,England,,15 to 17,,"Newly recorded cases per 1,000,000 population",,E92000001,14.1610503578
+2015,England,,18 and over,,"Newly recorded cases per 1,000,000 population",,E92000001,2.17577329023
+2015,England,,Not recorded,,"Newly recorded cases per 1,000,000 population",,E92000001,120.545990475
+2015,England,,Not stated or unknown,,"Newly recorded cases per 1,000,000 population",,E92000001,36.1710025215
+2016,England,,Total,,"Newly recorded cases per 1,000,000 population",,E92000001,192.761885937
+2016,England,,Under 1,,"Newly recorded cases per 1,000,000 population",,E92000001,917.445267793
+2016,England,,1 to 4,,"Newly recorded cases per 1,000,000 population",,E92000001,263.842045571
+2016,England,,5 to 9,,"Newly recorded cases per 1,000,000 population",,E92000001,441.831586235
+2016,England,,10 to 14,,"Newly recorded cases per 1,000,000 population",,E92000001,115.500192612
+2016,England,,15 to 17,,"Newly recorded cases per 1,000,000 population",,E92000001,23.2135770685
+2016,England,,18 and over,,"Newly recorded cases per 1,000,000 population",,E92000001,3.87026842247
+2016,England,,Not recorded,,"Newly recorded cases per 1,000,000 population",,E92000001,93.0734908355
+2016,England,,Not stated or unknown,,"Newly recorded cases per 1,000,000 population",,E92000001,39.8682067928
+2017,England,,Total,,"Newly recorded cases per 1,000,000 population",,E92000001,220.161951771
+2017,England,,Under 1,,"Newly recorded cases per 1,000,000 population",,E92000001,1193.34740227
+2017,England,,1 to 4,,"Newly recorded cases per 1,000,000 population",,E92000001,349.366894594
+2017,England,,5 to 9,,"Newly recorded cases per 1,000,000 population",,E92000001,492.110415517
+2017,England,,10 to 14,,"Newly recorded cases per 1,000,000 population",,E92000001,129.563552218
+2017,England,,15 to 17,,"Newly recorded cases per 1,000,000 population",,E92000001,22.5854463901
+2017,England,,18 and over,,"Newly recorded cases per 1,000,000 population",,E92000001,12.5263601592
+2017,England,,Not recorded,,"Newly recorded cases per 1,000,000 population",,E92000001,98.6197604787
+2017,England,,Not stated or unknown,,"Newly recorded cases per 1,000,000 population",,E92000001,43.7125424825
+2015,England,London,Under 1,,Number of newly recorded cases,,E12000007,115.0
+2015,England,Midlands and East of England,Under 1,,Number of newly recorded cases,,E92000001,65.0
+2015,England,North of England,Under 1,,Number of newly recorded cases,,E92000001,45.0
+2015,England,South of England,Under 1,,Number of newly recorded cases,,E92000001,10.0
+2015,England,London,1 to 4,,Number of newly recorded cases,,E12000007,220.0
+2015,England,Midlands and East of England,1 to 4,,Number of newly recorded cases,,E92000001,60.0
+2015,England,North of England,1 to 4,,Number of newly recorded cases,,E92000001,45.0
+2015,England,South of England,1 to 4,,Number of newly recorded cases,,E92000001,15.0
+2015,England,London,5 to 9,,Number of newly recorded cases,,E12000007,390.0
+2015,England,Midlands and East of England,5 to 9,,Number of newly recorded cases,,E92000001,85.0
+2015,England,North of England,5 to 9,,Number of newly recorded cases,,E92000001,80.0
+2015,England,South of England,5 to 9,,Number of newly recorded cases,,E92000001,30.0
+2015,England,London,10 to 14,,Number of newly recorded cases,,E12000007,85.0
+2015,England,Midlands and East of England,10 to 14,,Number of newly recorded cases,,E92000001,20.0
+2015,England,North of England,10 to 14,,Number of newly recorded cases,,E92000001,20.0
+2015,England,South of England,10 to 14,,Number of newly recorded cases,,E92000001,5.0
+2015,England,London,15 to 17,,Number of newly recorded cases,,E12000007,5.0
+2015,England,Midlands and East of England,15 to 17,,Number of newly recorded cases,,E92000001,0.0
+2015,England,North of England,15 to 17,,Number of newly recorded cases,,E92000001,0.0
+2015,England,South of England,15 to 17,,Number of newly recorded cases,,E92000001,0.0
+2015,England,London,18 and over,,Number of newly recorded cases,,E12000007,30.0
+2015,England,Midlands and East of England,18 and over,,Number of newly recorded cases,,E92000001,5.0
+2015,England,North of England,18 and over,,Number of newly recorded cases,,E92000001,10.0
+2015,England,South of England,18 and over,,Number of newly recorded cases,,E92000001,0.0
+2015,England,London,Not stated or unknown,,Number of newly recorded cases,,E12000007,370.0
+2015,England,Midlands and East of England,Not stated or unknown,,Number of newly recorded cases,,E92000001,260.0
+2015,England,North of England,Not stated or unknown,,Number of newly recorded cases,,E92000001,310.0
+2015,England,South of England,Not stated or unknown,,Number of newly recorded cases,,E92000001,65.0
+2015,England,London,Not recorded,,Number of newly recorded cases,,E12000007,1725.0
+2015,England,Midlands and East of England,Not recorded,,Number of newly recorded cases,,E92000001,520.0
+2015,England,North of England,Not recorded,,Number of newly recorded cases,,E92000001,615.0
+2015,England,South of England,Not recorded,,Number of newly recorded cases,,E92000001,485.0
+2016,England,London,Under 1,,Number of newly recorded cases,,E12000007,115.0
+2016,England,Midlands and East of England,Under 1,,Number of newly recorded cases,,E92000001,110.0
+2016,England,North of England,Under 1,,Number of newly recorded cases,,E92000001,60.0
+2016,England,South of England,Under 1,,Number of newly recorded cases,,E92000001,10.0
+2016,England,London,1 to 4,,Number of newly recorded cases,,E12000007,195.0
+2016,England,Midlands and East of England,1 to 4,,Number of newly recorded cases,,E92000001,90.0
+2016,England,North of England,1 to 4,,Number of newly recorded cases,,E92000001,45.0
+2016,England,South of England,1 to 4,,Number of newly recorded cases,,E92000001,20.0
+2016,England,London,5 to 9,,Number of newly recorded cases,,E12000007,450.0
+2016,England,Midlands and East of England,5 to 9,,Number of newly recorded cases,,E92000001,130.0
+2016,England,North of England,5 to 9,,Number of newly recorded cases,,E92000001,90.0
+2016,England,South of England,5 to 9,,Number of newly recorded cases,,E92000001,70.0
+2016,England,London,10 to 14,,Number of newly recorded cases,,E12000007,100.0
+2016,England,Midlands and East of England,10 to 14,,Number of newly recorded cases,,E92000001,20.0
+2016,England,North of England,10 to 14,,Number of newly recorded cases,,E92000001,30.0
+2016,England,South of England,10 to 14,,Number of newly recorded cases,,E92000001,25.0
+2016,England,London,15 to 17,,Number of newly recorded cases,,E12000007,10.0
+2016,England,Midlands and East of England,15 to 17,,Number of newly recorded cases,,E92000001,0.0
+2016,England,North of England,15 to 17,,Number of newly recorded cases,,E92000001,5.0
+2016,England,South of England,15 to 17,,Number of newly recorded cases,,E92000001,0.0
+2016,England,London,18 and over,,Number of newly recorded cases,,E12000007,20.0
+2016,England,Midlands and East of England,18 and over,,Number of newly recorded cases,,E92000001,30.0
+2016,England,North of England,18 and over,,Number of newly recorded cases,,E92000001,25.0
+2016,England,South of England,18 and over,,Number of newly recorded cases,,E92000001,10.0
+2016,England,London,Not stated or unknown,,Number of newly recorded cases,,E12000007,250.0
+2016,England,Midlands and East of England,Not stated or unknown,,Number of newly recorded cases,,E92000001,210.0
+2016,England,North of England,Not stated or unknown,,Number of newly recorded cases,,E92000001,545.0
+2016,England,South of England,Not stated or unknown,,Number of newly recorded cases,,E92000001,115.0
+2016,England,London,Not recorded,,Number of newly recorded cases,,E12000007,1415.0
+2016,England,Midlands and East of England,Not recorded,,Number of newly recorded cases,,E92000001,485.0
+2016,England,North of England,Not recorded,,Number of newly recorded cases,,E92000001,370.0
+2016,England,South of England,Not recorded,,Number of newly recorded cases,,E92000001,330.0
+2017,England,London,Under 1,,Number of newly recorded cases,,E12000007,160.0
+2017,England,Midlands and East of England,Under 1,,Number of newly recorded cases,,E92000001,100.0
+2017,England,North of England,Under 1,,Number of newly recorded cases,,E92000001,80.0
+2017,England,South of England,Under 1,,Number of newly recorded cases,,E92000001,25.0
+2017,England,London,1 to 4,,Number of newly recorded cases,,E12000007,245.0
+2017,England,Midlands and East of England,1 to 4,,Number of newly recorded cases,,E92000001,105.0
+2017,England,North of England,1 to 4,,Number of newly recorded cases,,E92000001,85.0
+2017,England,South of England,1 to 4,,Number of newly recorded cases,,E92000001,20.0
+2017,England,London,5 to 9,,Number of newly recorded cases,,E12000007,385.0
+2017,England,Midlands and East of England,5 to 9,,Number of newly recorded cases,,E92000001,185.0
+2017,England,North of England,5 to 9,,Number of newly recorded cases,,E92000001,150.0
+2017,England,South of England,5 to 9,,Number of newly recorded cases,,E92000001,100.0
+2017,England,London,10 to 14,,Number of newly recorded cases,,E12000007,90.0
+2017,England,Midlands and East of England,10 to 14,,Number of newly recorded cases,,E92000001,45.0
+2017,England,North of England,10 to 14,,Number of newly recorded cases,,E92000001,45.0
+2017,England,South of England,10 to 14,,Number of newly recorded cases,,E92000001,25.0
+2017,England,London,15 to 17,,Number of newly recorded cases,,E12000007,10.0
+2017,England,Midlands and East of England,15 to 17,,Number of newly recorded cases,,E92000001,5.0
+2017,England,North of England,15 to 17,,Number of newly recorded cases,,E92000001,5.0
+2017,England,South of England,15 to 17,,Number of newly recorded cases,,E92000001,5.0
+2017,England,London,18 and over,,Number of newly recorded cases,,E12000007,165.0
+2017,England,Midlands and East of England,18 and over,,Number of newly recorded cases,,E92000001,45.0
+2017,England,North of England,18 and over,,Number of newly recorded cases,,E92000001,50.0
+2017,England,South of England,18 and over,,Number of newly recorded cases,,E92000001,10.0
+2017,England,London,Not stated or unknown,,Number of newly recorded cases,,E12000007,280.0
+2017,England,Midlands and East of England,Not stated or unknown,,Number of newly recorded cases,,E92000001,210.0
+2017,England,North of England,Not stated or unknown,,Number of newly recorded cases,,E92000001,625.0
+2017,England,South of England,Not stated or unknown,,Number of newly recorded cases,,E92000001,95.0
+2017,England,London,Not recorded,,Number of newly recorded cases,,E12000007,1420.0
+2017,England,Midlands and East of England,Not recorded,,Number of newly recorded cases,,E92000001,500.0
+2017,England,North of England,Not recorded,,Number of newly recorded cases,,E92000001,385.0
+2017,England,South of England,Not recorded,,Number of newly recorded cases,,E92000001,460.0
+2017,England,London,,Not recorded,Number of newly recorded cases,,E12000007,825.0
+2017,England,Midlands and East of England,,Not recorded,Number of newly recorded cases,,E92000001,300.0
+2017,England,North of England,,Not recorded,Number of newly recorded cases,,E92000001,240.0
+2017,England,South of England,,Not recorded,Number of newly recorded cases,,E92000001,380.0
+2017,England,Total,,Not recorded,Number of newly recorded cases,,E92000001,1750.0
+2017,England,London,,Not stated or unknown,Number of newly recorded cases,,E12000007,545.0
+2017,England,Midlands and East of England,,Not stated or unknown,Number of newly recorded cases,,E92000001,75.0
+2017,England,North of England,,Not stated or unknown,Number of newly recorded cases,,E92000001,335.0
+2017,England,South of England,,Not stated or unknown,Number of newly recorded cases,,E92000001,65.0
+2017,England,Total,,Not stated or unknown,Number of newly recorded cases,,E92000001,1030.0
+2017,England,London,,Eastern Africa,Number of newly recorded cases,,E12000007,895.0
+2017,England,Midlands and East of England,,Eastern Africa,Number of newly recorded cases,,E92000001,320.0
+2017,England,North of England,,Eastern Africa,Number of newly recorded cases,,E92000001,340.0
+2017,England,South of England,,Eastern Africa,Number of newly recorded cases,,E92000001,135.0
+2017,England,Total,,Eastern Africa,Number of newly recorded cases,,E92000001,1715.0
+2017,England,London,,Northern Africa,Number of newly recorded cases,,E12000007,90.0
+2017,England,Midlands and East of England,,Northern Africa,Number of newly recorded cases,,E92000001,145.0
+2017,England,North of England,,Northern Africa,Number of newly recorded cases,,E92000001,135.0
+2017,England,South of England,,Northern Africa,Number of newly recorded cases,,E92000001,30.0
+2017,England,Total,,Northern Africa,Number of newly recorded cases,,E92000001,415.0
+2017,England,London,,Western Africa,Number of newly recorded cases,,E12000007,280.0
+2017,England,Midlands and East of England,,Western Africa,Number of newly recorded cases,,E92000001,190.0
+2017,England,North of England,,Western Africa,Number of newly recorded cases,,E92000001,205.0
+2017,England,South of England,,Western Africa,Number of newly recorded cases,,E92000001,95.0
+2017,England,Total,,Western Africa,Number of newly recorded cases,,E92000001,790.0
+2017,England,London,,Rest of Africa,Number of newly recorded cases,,E12000007,20.0
+2017,England,Midlands and East of England,,Rest of Africa,Number of newly recorded cases,,E92000001,10.0
+2017,England,North of England,,Rest of Africa,Number of newly recorded cases,,E92000001,10.0
+2017,England,South of England,,Rest of Africa,Number of newly recorded cases,,E92000001,5.0
+2017,England,Total,,Rest of Africa,Number of newly recorded cases,,E92000001,40.0
+2017,England,London,,United Kingdom,Number of newly recorded cases,,E12000007,35.0
+2017,England,Midlands and East of England,,United Kingdom,Number of newly recorded cases,,E92000001,60.0
+2017,England,North of England,,United Kingdom,Number of newly recorded cases,,E92000001,40.0
+2017,England,South of England,,United Kingdom,Number of newly recorded cases,,E92000001,15.0
+2017,England,Total,,United Kingdom,Number of newly recorded cases,,E92000001,150.0
+2017,England,London,,Western Asia,Number of newly recorded cases,,E12000007,35.0
+2017,England,Midlands and East of England,,Western Asia,Number of newly recorded cases,,E92000001,85.0
+2017,England,North of England,,Western Asia,Number of newly recorded cases,,E92000001,85.0
+2017,England,South of England,,Western Asia,Number of newly recorded cases,,E92000001,15.0
+2017,England,Total,,Western Asia,Number of newly recorded cases,,E92000001,225.0
+2017,England,London,,Rest of Asia,Number of newly recorded cases,,E12000007,5.0
+2017,England,Midlands and East of England,,Rest of Asia,Number of newly recorded cases,,E92000001,10.0
+2017,England,North of England,,Rest of Asia,Number of newly recorded cases,,E92000001,15.0
+2017,England,South of England,,Rest of Asia,Number of newly recorded cases,,E92000001,5.0
+2017,England,Total,,Rest of Asia,Number of newly recorded cases,,E92000001,40.0
+2017,England,London,,Rest of World,Number of newly recorded cases,,E12000007,20.0
+2017,England,Midlands and East of England,,Rest of World,Number of newly recorded cases,,E92000001,10.0
+2017,England,North of England,,Rest of World,Number of newly recorded cases,,E92000001,5.0
+2017,England,South of England,,Rest of World,Number of newly recorded cases,,E92000001,5.0
+2017,England,Total,,Rest of World,Number of newly recorded cases,,E92000001,35.0
+2017,England,London,,Total,Number of newly recorded cases,,E12000007,2755.0
+2017,England,Midlands and East of England,,Total,Number of newly recorded cases,,E92000001,1200.0
+2017,England,North of England,,Total,Number of newly recorded cases,,E92000001,1415.0
+2017,England,South of England,,Total,Number of newly recorded cases,,E92000001,745.0
+2017,England,Total,,Total,Number of newly recorded cases,,E92000001,6195.0
+2016,England,London,,Not recorded,Number of newly recorded cases,,E12000007,1015.0
+2016,England,Midlands and East of England,,Not recorded,Number of newly recorded cases,,E92000001,245.0
+2016,England,North of England,,Not recorded,Number of newly recorded cases,,E92000001,295.0
+2016,England,South of England,,Not recorded,Number of newly recorded cases,,E92000001,250.0
+2016,England,Total,,Not recorded,Number of newly recorded cases,,E92000001,1803.0
+2016,England,London,,Not stated or unknown,Number of newly recorded cases,,E12000007,655.0
+2016,England,Midlands and East of England,,Not stated or unknown,Number of newly recorded cases,,E92000001,135.0
+2016,England,North of England,,Not stated or unknown,Number of newly recorded cases,,E92000001,250.0
+2016,England,South of England,,Not stated or unknown,Number of newly recorded cases,,E92000001,40.0
+2016,England,Total,,Not stated or unknown,Number of newly recorded cases,,E92000001,1084.0
+2016,England,London,,Eastern Africa,Number of newly recorded cases,,E12000007,685.0
+2016,England,Midlands and East of England,,Eastern Africa,Number of newly recorded cases,,E92000001,260.0
+2016,England,North of England,,Eastern Africa,Number of newly recorded cases,,E92000001,250.0
+2016,England,South of England,,Eastern Africa,Number of newly recorded cases,,E92000001,145.0
+2016,England,Total,,Eastern Africa,Number of newly recorded cases,,E92000001,1338.0
+2016,England,London,,Northern Africa,Number of newly recorded cases,,E12000007,55.0
+2016,England,Midlands and East of England,,Northern Africa,Number of newly recorded cases,,E92000001,140.0
+2016,England,North of England,,Northern Africa,Number of newly recorded cases,,E92000001,105.0
+2016,England,South of England,,Northern Africa,Number of newly recorded cases,,E92000001,35.0
+2016,England,Total,,Northern Africa,Number of newly recorded cases,,E92000001,339.0
+2016,England,London,,Western Africa,Number of newly recorded cases,,E12000007,110.0
+2016,England,Midlands and East of England,,Western Africa,Number of newly recorded cases,,E92000001,145.0
+2016,England,North of England,,Western Africa,Number of newly recorded cases,,E92000001,175.0
+2016,England,South of England,,Western Africa,Number of newly recorded cases,,E92000001,70.0
+2016,England,Total,,Western Africa,Number of newly recorded cases,,E92000001,505.0
+2016,England,London,,Rest of Africa,Number of newly recorded cases,,E12000007,0.0
+2016,England,Midlands and East of England,,Rest of Africa,Number of newly recorded cases,,E92000001,0.0
+2016,England,North of England,,Rest of Africa,Number of newly recorded cases,,E92000001,15.0
+2016,England,South of England,,Rest of Africa,Number of newly recorded cases,,E92000001,0.0
+2016,England,Total,,Rest of Africa,Number of newly recorded cases,,E92000001,20.0
+2016,England,London,,United Kingdom,Number of newly recorded cases,,E12000007,15.0
+2016,England,Midlands and East of England,,United Kingdom,Number of newly recorded cases,,E92000001,55.0
+2016,England,North of England,,United Kingdom,Number of newly recorded cases,,E92000001,25.0
+2016,England,South of England,,United Kingdom,Number of newly recorded cases,,E92000001,20.0
+2016,England,Total,,United Kingdom,Number of newly recorded cases,,E92000001,112.0
+2016,England,London,,Rest of Europe,Number of newly recorded cases,,E12000007,0.0
+2016,England,Midlands and East of England,,Rest of Europe,Number of newly recorded cases,,E92000001,5.0
+2016,England,North of England,,Rest of Europe,Number of newly recorded cases,,E92000001,0.0
+2016,England,South of England,,Rest of Europe,Number of newly recorded cases,,E92000001,0.0
+2016,England,Total,,Rest of Europe,Number of newly recorded cases,,E92000001,13.0
+2016,England,London,,Western Asia,Number of newly recorded cases,,E12000007,20.0
+2016,England,Midlands and East of England,,Western Asia,Number of newly recorded cases,,E92000001,70.0
+2016,England,North of England,,Western Asia,Number of newly recorded cases,,E92000001,40.0
+2016,England,South of England,,Western Asia,Number of newly recorded cases,,E92000001,10.0
+2016,England,Total,,Western Asia,Number of newly recorded cases,,E92000001,135.0
+2016,England,London,,Rest of Asia,Number of newly recorded cases,,E12000007,5.0
+2016,England,Midlands and East of England,,Rest of Asia,Number of newly recorded cases,,E92000001,10.0
+2016,England,North of England,,Rest of Asia,Number of newly recorded cases,,E92000001,15.0
+2016,England,South of England,,Rest of Asia,Number of newly recorded cases,,E92000001,5.0
+2016,England,Total,,Rest of Asia,Number of newly recorded cases,,E92000001,40.0
+2016,England,London,,Rest of World,Number of newly recorded cases,,E12000007,0.0
+2016,England,Midlands and East of England,,Rest of World,Number of newly recorded cases,,E92000001,0.0
+2016,England,North of England,,Rest of World,Number of newly recorded cases,,E92000001,0.0
+2016,England,South of England,,Rest of World,Number of newly recorded cases,,E92000001,0.0
+2016,England,Total,,Rest of World,Number of newly recorded cases,,E92000001,2.0
+2016,England,London,,Total,Number of newly recorded cases,,E12000007,2560.0
+2016,England,Midlands and East of England,,Total,Number of newly recorded cases,,E92000001,1070.0
+2016,England,North of England,,Total,Number of newly recorded cases,,E92000001,1175.0
+2016,England,South of England,,Total,Number of newly recorded cases,,E92000001,580.0
+2016,England,Total,,Total,Number of newly recorded cases,,E92000001,5391.0
+2015,England,London,,Not recorded,Number of newly recorded cases,,E12000007,1380.0
+2015,England,Midlands and East of England,,Not recorded,Number of newly recorded cases,,E92000001,380.0
+2015,England,North of England,,Not recorded,Number of newly recorded cases,,E92000001,185.0
+2015,England,South of England,,Not recorded,Number of newly recorded cases,,E92000001,420.0
+2015,England,,,Not recorded,Number of newly recorded cases,,E92000001,2371.0
+2015,England,London,,Not stated or unknown,Number of newly recorded cases,,E12000007,640.0
+2015,England,Midlands and East of England,,Not stated or unknown,Number of newly recorded cases,,E92000001,100.0
+2015,England,North of England,,Not stated or unknown,Number of newly recorded cases,,E92000001,360.0
+2015,England,South of England,,Not stated or unknown,Number of newly recorded cases,,E92000001,40.0
+2015,England,,,Not stated or unknown,Number of newly recorded cases,,E92000001,1138.0
+2015,England,London,,Eastern Africa,Number of newly recorded cases,,E12000007,640.0
+2015,England,Midlands and East of England,,Eastern Africa,Number of newly recorded cases,,E92000001,250.0
+2015,England,North of England,,Eastern Africa,Number of newly recorded cases,,E92000001,235.0
+2015,England,South of England,,Eastern Africa,Number of newly recorded cases,,E92000001,55.0
+2015,England,,,Eastern Africa,Number of newly recorded cases,,E92000001,1175.0
+2015,England,London,,Northern Africa,Number of newly recorded cases,,E12000007,70.0
+2015,England,Midlands and East of England,,Northern Africa,Number of newly recorded cases,,E92000001,75.0
+2015,England,North of England,,Northern Africa,Number of newly recorded cases,,E92000001,75.0
+2015,England,South of England,,Northern Africa,Number of newly recorded cases,,E92000001,25.0
+2015,England,,,Northern Africa,Number of newly recorded cases,,E92000001,246.0
+2015,England,London,,Western Africa,Number of newly recorded cases,,E12000007,160.0
+2015,England,Midlands and East of England,,Western Africa,Number of newly recorded cases,,E92000001,145.0
+2015,England,North of England,,Western Africa,Number of newly recorded cases,,E92000001,200.0
+2015,England,South of England,,Western Africa,Number of newly recorded cases,,E92000001,55.0
+2015,England,,,Western Africa,Number of newly recorded cases,,E92000001,561.0
+2015,England,London,,Rest of Africa,Number of newly recorded cases,,E12000007,0.0
+2015,England,Midlands and East of England,,Rest of Africa,Number of newly recorded cases,,E92000001,5.0
+2015,England,North of England,,Rest of Africa,Number of newly recorded cases,,E92000001,5.0
+2015,England,South of England,,Rest of Africa,Number of newly recorded cases,,E92000001,0.0
+2015,England,,,Rest of Africa,Number of newly recorded cases,,E92000001,13.0
+2015,England,London,,United Kingdom,Number of newly recorded cases,,E12000007,10.0
+2015,England,Midlands and East of England,,United Kingdom,Number of newly recorded cases,,E92000001,10.0
+2015,England,North of England,,United Kingdom,Number of newly recorded cases,,E92000001,10.0
+2015,England,South of England,,United Kingdom,Number of newly recorded cases,,E92000001,10.0
+2015,England,,,United Kingdom,Number of newly recorded cases,,E92000001,43.0
+2015,England,London,,Rest of Europe,Number of newly recorded cases,,E12000007,0.0
+2015,England,Midlands and East of England,,Rest of Europe,Number of newly recorded cases,,E92000001,5.0
+2015,England,North of England,,Rest of Europe,Number of newly recorded cases,,E92000001,0.0
+2015,England,South of England,,Rest of Europe,Number of newly recorded cases,,E92000001,0.0
+2015,England,,,Rest of Europe,Number of newly recorded cases,,E92000001,11.0
+2015,England,London,,Western Asia,Number of newly recorded cases,,E12000007,25.0
+2015,England,Midlands and East of England,,Western Asia,Number of newly recorded cases,,E92000001,40.0
+2015,England,North of England,,Western Asia,Number of newly recorded cases,,E92000001,45.0
+2015,England,South of England,,Western Asia,Number of newly recorded cases,,E92000001,0.0
+2015,England,,,Western Asia,Number of newly recorded cases,,E92000001,110.0
+2015,England,London,,Rest of Asia,Number of newly recorded cases,,E12000007,5.0
+2015,England,Midlands and East of England,,Rest of Asia,Number of newly recorded cases,,E92000001,10.0
+2015,England,North of England,,Rest of Asia,Number of newly recorded cases,,E92000001,10.0
+2015,England,South of England,,Rest of Asia,Number of newly recorded cases,,E92000001,5.0
+2015,England,,,Rest of Asia,Number of newly recorded cases,,E92000001,31.0
+2015,England,London,,Rest of World,Number of newly recorded cases,,E12000007,0.0
+2015,England,Midlands and East of England,,Rest of World,Number of newly recorded cases,,E92000001,0.0
+2015,England,North of England,,Rest of World,Number of newly recorded cases,,E92000001,0.0
+2015,England,South of England,,Rest of World,Number of newly recorded cases,,E92000001,0.0
+2015,England,,,Rest of World,Number of newly recorded cases,,E92000001,3.0
+2015,England,London,,Total,Number of newly recorded cases,,E12000007,2940.0
+2015,England,Midlands and East of England,,Total,Number of newly recorded cases,,E92000001,1015.0
+2015,England,North of England,,Total,Number of newly recorded cases,,E92000001,1130.0
+2015,England,South of England,,Total,Number of newly recorded cases,,E92000001,620.0
+2015,England,,,Total,Number of newly recorded cases,,E92000001,5702.0
+2016,England,,,Not recorded,Number of newly recorded cases,Type 1,E92000001,200.0
+2016,England,,,Not recorded,Number of newly recorded cases,Type 2,E92000001,95.0
+2016,England,,,Not recorded,Number of newly recorded cases,Type 3 and others,E92000001,80.0
+2016,England,,,Not recorded,Number of newly recorded cases,Type 4,E92000001,45.0
+2016,England,,,Not recorded,Number of newly recorded cases,Not Recorded or Unknown,E92000001,1380.0
+2016,England,,,Not recorded,Number of newly recorded cases,Total,E92000001,1803.0
+2016,England,,,Not stated or unknown,Number of newly recorded cases,Type 1,E92000001,130.0
+2016,England,,,Not stated or unknown,Number of newly recorded cases,Type 2,E92000001,125.0
+2016,England,,,Not stated or unknown,Number of newly recorded cases,Type 3 and others,E92000001,85.0
+2016,England,,,Not stated or unknown,Number of newly recorded cases,Type 4,E92000001,35.0
+2016,England,,,Not stated or unknown,Number of newly recorded cases,Not Recorded or Unknown,E92000001,715.0
+2016,England,,,Not stated or unknown,Number of newly recorded cases,Total,E92000001,1084.0
+2016,England,,,Eastern Africa,Number of newly recorded cases,Type 1,E92000001,240.0
+2016,England,,,Eastern Africa,Number of newly recorded cases,Type 2,E92000001,245.0
+2016,England,,,Eastern Africa,Number of newly recorded cases,Type 3 and others,E92000001,370.0
+2016,England,,,Eastern Africa,Number of newly recorded cases,Type 4,E92000001,15.0
+2016,England,,,Eastern Africa,Number of newly recorded cases,Not Recorded or Unknown,E92000001,470.0
+2016,England,,,Eastern Africa,Number of newly recorded cases,Total,E92000001,1338.0
+2016,England,,,Northern Africa,Number of newly recorded cases,Type 1,E92000001,60.0
+2016,England,,,Northern Africa,Number of newly recorded cases,Type 2,E92000001,80.0
+2016,England,,,Northern Africa,Number of newly recorded cases,Type 3 and others,E92000001,85.0
+2016,England,,,Northern Africa,Number of newly recorded cases,Type 4,E92000001,5.0
+2016,England,,,Northern Africa,Number of newly recorded cases,Not Recorded or Unknown,E92000001,110.0
+2016,England,,,Northern Africa,Number of newly recorded cases,Total,E92000001,339.0
+2016,England,,,Western Africa,Number of newly recorded cases,Type 1,E92000001,120.0
+2016,England,,,Western Africa,Number of newly recorded cases,Type 2,E92000001,135.0
+2016,England,,,Western Africa,Number of newly recorded cases,Type 3 and others,E92000001,20.0
+2016,England,,,Western Africa,Number of newly recorded cases,Type 4,E92000001,10.0
+2016,England,,,Western Africa,Number of newly recorded cases,Not Recorded or Unknown,E92000001,225.0
+2016,England,,,Western Africa,Number of newly recorded cases,Total,E92000001,505.0
+2016,England,,,Rest of Africa,Number of newly recorded cases,Type 1,E92000001,5.0
+2016,England,,,Rest of Africa,Number of newly recorded cases,Type 2,E92000001,0.0
+2016,England,,,Rest of Africa,Number of newly recorded cases,Type 3 and others,E92000001,0.0
+2016,England,,,Rest of Africa,Number of newly recorded cases,Type 4,E92000001,0.0
+2016,England,,,Rest of Africa,Number of newly recorded cases,Not Recorded or Unknown,E92000001,10.0
+2016,England,,,Rest of Africa,Number of newly recorded cases,Total,E92000001,20.0
+2016,England,,,United Kingdom,Number of newly recorded cases,Type 1,E92000001,10.0
+2016,England,,,United Kingdom,Number of newly recorded cases,Type 2,E92000001,5.0
+2016,England,,,United Kingdom,Number of newly recorded cases,Type 3 and others,E92000001,0.0
+2016,England,,,United Kingdom,Number of newly recorded cases,Type 4,E92000001,85.0
+2016,England,,,United Kingdom,Number of newly recorded cases,Not Recorded or Unknown,E92000001,10.0
+2016,England,,,United Kingdom,Number of newly recorded cases,Total,E92000001,112.0
+2016,England,,,Rest of Europe,Number of newly recorded cases,Type 1,E92000001,0.0
+2016,England,,,Rest of Europe,Number of newly recorded cases,Type 2,E92000001,0.0
+2016,England,,,Rest of Europe,Number of newly recorded cases,Type 3 and others,E92000001,0.0
+2016,England,,,Rest of Europe,Number of newly recorded cases,Type 4,E92000001,0.0
+2016,England,,,Rest of Europe,Number of newly recorded cases,Not Recorded or Unknown,E92000001,10.0
+2016,England,,,Rest of Europe,Number of newly recorded cases,Total,E92000001,13.0
+2016,England,,,Western Asia,Number of newly recorded cases,Type 1,E92000001,40.0
+2016,England,,,Western Asia,Number of newly recorded cases,Type 2,E92000001,10.0
+2016,England,,,Western Asia,Number of newly recorded cases,Type 3 and others,E92000001,5.0
+2016,England,,,Western Asia,Number of newly recorded cases,Type 4,E92000001,0.0
+2016,England,,,Western Asia,Number of newly recorded cases,Not Recorded or Unknown,E92000001,75.0
+2016,England,,,Western Asia,Number of newly recorded cases,Total,E92000001,135.0
+2016,England,,,Rest of Asia,Number of newly recorded cases,Type 1,E92000001,10.0
+2016,England,,,Rest of Asia,Number of newly recorded cases,Type 2,E92000001,0.0
+2016,England,,,Rest of Asia,Number of newly recorded cases,Type 3 and others,E92000001,0.0
+2016,England,,,Rest of Asia,Number of newly recorded cases,Type 4,E92000001,5.0
+2016,England,,,Rest of Asia,Number of newly recorded cases,Not Recorded or Unknown,E92000001,20.0
+2016,England,,,Rest of Asia,Number of newly recorded cases,Total,E92000001,40.0
+2016,England,,,Rest of World,Number of newly recorded cases,Type 1,E92000001,0.0
+2016,England,,,Rest of World,Number of newly recorded cases,Type 2,E92000001,0.0
+2016,England,,,Rest of World,Number of newly recorded cases,Type 3 and others,E92000001,0.0
+2016,England,,,Rest of World,Number of newly recorded cases,Type 4,E92000001,0.0
+2016,England,,,Rest of World,Number of newly recorded cases,Not Recorded or Unknown,E92000001,0.0
+2016,England,,,Rest of World,Number of newly recorded cases,Total,E92000001,2.0
+2016,England,,,Total,Number of newly recorded cases,Type 1,E92000001,820.0
+2016,England,,,Total,Number of newly recorded cases,Type 2,E92000001,695.0
+2016,England,,,Total,Number of newly recorded cases,Type 3 and others,E92000001,655.0
+2016,England,,,Total,Number of newly recorded cases,Type 4,E92000001,205.0
+2016,England,,,Total,Number of newly recorded cases,Not Recorded or Unknown,E92000001,3020.0
+2016,England,,,Total,Number of newly recorded cases,Total,E92000001,5391.0
+2017,England,,,Not recorded,Number of newly recorded cases,Type 1,E92000001,360.0
+2017,England,,,Not recorded,Number of newly recorded cases,Type 2,E92000001,165.0
+2017,England,,,Not recorded,Number of newly recorded cases,Type 3 and others,E92000001,160.0
+2017,England,,,Not recorded,Number of newly recorded cases,Type 4,E92000001,75.0
+2017,England,,,Not recorded,Number of newly recorded cases,Not Recorded or Unknown,E92000001,985.0
+2017,England,,,Not recorded,Number of newly recorded cases,Total,E92000001,1750.0
+2017,England,,,Not stated or unknown,Number of newly recorded cases,Type 1,E92000001,155.0
+2017,England,,,Not stated or unknown,Number of newly recorded cases,Type 2,E92000001,100.0
+2017,England,,,Not stated or unknown,Number of newly recorded cases,Type 3 and others,E92000001,70.0
+2017,England,,,Not stated or unknown,Number of newly recorded cases,Type 4,E92000001,25.0
+2017,England,,,Not stated or unknown,Number of newly recorded cases,Not Recorded or Unknown,E92000001,685.0
+2017,England,,,Not stated or unknown,Number of newly recorded cases,Total,E92000001,1030.0
+2017,England,,,Eastern Africa,Number of newly recorded cases,Type 1,E92000001,325.0
+2017,England,,,Eastern Africa,Number of newly recorded cases,Type 2,E92000001,305.0
+2017,England,,,Eastern Africa,Number of newly recorded cases,Type 3 and others,E92000001,440.0
+2017,England,,,Eastern Africa,Number of newly recorded cases,Type 4,E92000001,75.0
+2017,England,,,Eastern Africa,Number of newly recorded cases,Not Recorded or Unknown,E92000001,570.0
+2017,England,,,Eastern Africa,Number of newly recorded cases,Total,E92000001,1715.0
+2017,England,,,Northern Africa,Number of newly recorded cases,Type 1,E92000001,110.0
+2017,England,,,Northern Africa,Number of newly recorded cases,Type 2,E92000001,75.0
+2017,England,,,Northern Africa,Number of newly recorded cases,Type 3 and others,E92000001,80.0
+2017,England,,,Northern Africa,Number of newly recorded cases,Type 4,E92000001,10.0
+2017,England,,,Northern Africa,Number of newly recorded cases,Not Recorded or Unknown,E92000001,140.0
+2017,England,,,Northern Africa,Number of newly recorded cases,Total,E92000001,415.0
+2017,England,,,Western Africa,Number of newly recorded cases,Type 1,E92000001,210.0
+2017,England,,,Western Africa,Number of newly recorded cases,Type 2,E92000001,155.0
+2017,England,,,Western Africa,Number of newly recorded cases,Type 3 and others,E92000001,40.0
+2017,England,,,Western Africa,Number of newly recorded cases,Type 4,E92000001,15.0
+2017,England,,,Western Africa,Number of newly recorded cases,Not Recorded or Unknown,E92000001,375.0
+2017,England,,,Western Africa,Number of newly recorded cases,Total,E92000001,790.0
+2017,England,,,Rest of Africa,Number of newly recorded cases,Type 1,E92000001,5.0
+2017,England,,,Rest of Africa,Number of newly recorded cases,Type 2,E92000001,5.0
+2017,England,,,Rest of Africa,Number of newly recorded cases,Type 3 and others,E92000001,5.0
+2017,England,,,Rest of Africa,Number of newly recorded cases,Type 4,E92000001,0.0
+2017,England,,,Rest of Africa,Number of newly recorded cases,Not Recorded or Unknown,E92000001,30.0
+2017,England,,,Rest of Africa,Number of newly recorded cases,Total,E92000001,40.0
+2017,England,,,United Kingdom,Number of newly recorded cases,Type 1,E92000001,10.0
+2017,England,,,United Kingdom,Number of newly recorded cases,Type 2,E92000001,5.0
+2017,England,,,United Kingdom,Number of newly recorded cases,Type 3 and others,E92000001,5.0
+2017,England,,,United Kingdom,Number of newly recorded cases,Type 4,E92000001,105.0
+2017,England,,,United Kingdom,Number of newly recorded cases,Not Recorded or Unknown,E92000001,25.0
+2017,England,,,United Kingdom,Number of newly recorded cases,Total,E92000001,150.0
+2017,England,,,Western Asia,Number of newly recorded cases,Type 1,E92000001,70.0
+2017,England,,,Western Asia,Number of newly recorded cases,Type 2,E92000001,15.0
+2017,England,,,Western Asia,Number of newly recorded cases,Type 3 and others,E92000001,5.0
+2017,England,,,Western Asia,Number of newly recorded cases,Type 4,E92000001,10.0
+2017,England,,,Western Asia,Number of newly recorded cases,Not Recorded or Unknown,E92000001,120.0
+2017,England,,,Western Asia,Number of newly recorded cases,Total,E92000001,225.0
+2017,England,,,Rest of Asia,Number of newly recorded cases,Type 1,E92000001,15.0
+2017,England,,,Rest of Asia,Number of newly recorded cases,Type 2,E92000001,5.0
+2017,England,,,Rest of Asia,Number of newly recorded cases,Type 3 and others,E92000001,5.0
+2017,England,,,Rest of Asia,Number of newly recorded cases,Type 4,E92000001,5.0
+2017,England,,,Rest of Asia,Number of newly recorded cases,Not Recorded or Unknown,E92000001,20.0
+2017,England,,,Rest of Asia,Number of newly recorded cases,Total,E92000001,40.0
+2017,England,,,Rest of World,Number of newly recorded cases,Type 1,E92000001,10.0
+2017,England,,,Rest of World,Number of newly recorded cases,Type 2,E92000001,5.0
+2017,England,,,Rest of World,Number of newly recorded cases,Type 3 and others,E92000001,5.0
+2017,England,,,Rest of World,Number of newly recorded cases,Type 4,E92000001,5.0
+2017,England,,,Rest of World,Number of newly recorded cases,Not Recorded or Unknown,E92000001,10.0
+2017,England,,,Rest of World,Number of newly recorded cases,Total,E92000001,35.0
+2017,England,,,Total,Number of newly recorded cases,Type 1,E92000001,1265.0
+2017,England,,,Total,Number of newly recorded cases,Type 2,E92000001,845.0
+2017,England,,,Total,Number of newly recorded cases,Type 3 and others,E92000001,795.0
+2017,England,,,Total,Number of newly recorded cases,Type 4,E92000001,325.0
+2017,England,,,Total,Number of newly recorded cases,Not Recorded or Unknown,E92000001,2960.0
+2017,England,,,Total,Number of newly recorded cases,Total,E92000001,6195.0
