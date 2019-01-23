@@ -2,8 +2,7 @@
 Tip: Worth copying and pasting this page into the Indicator QA file and checking off list below.,
 ,
 Sources,
-,Information about sources in source sheets (e.g. release date) correct and up to date
-,Source sheet data matches source data
+,Information about sources (e.g. release date) correct and up to date
 ,
 Calculations,
 ,Calculations being carried out are appropriate for indicator
@@ -15,12 +14,12 @@ CSV,
 ,No duplicate categories due to typing differences (e.g. capitalisation)
 ,All disaggregation categories in the correct column
 ,"‘Year’ and ‘Value’ columns appear as first and last columns, respectively"
-,"Units' column, if present, is in the second column"
-,"Geocode' column, if present, is in the penultimate column (next to 'Value')"
+,"'Units' column, if present, is in the second column"
+,"'Geocode' column, if present, is in the penultimate column (next to 'Value')"
 ,"Remove any white space, using the 'trim' function or VBA macro as needed"
 ,
 Metadata,
-,All appropriate cells populated with relevant info
+,All appropriate lines populated with relevant info
 ,Ensure no colons are in the string
 ,"Text boxes (e.g. footnotes, graph title)"
 ,"Option boxes (e.g. graph type, proxy indicator)"
