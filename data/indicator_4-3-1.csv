@@ -1,45 +1,91 @@
-Year,Age,Sex,Region,Household income,Deprivation quintile,Employment status,Education,Disability status,Country of birth,GeoCode,Value
-2016,,,,,,,,,,,78.3
-2016,19 to 24,,,,,,,,,,88.9
-2016,25 to 34,,,,,,,,,,83.9
-2016,35 to 44,,,,,,,,,,82.8
-2016,45 to 54,,,,,,,,,,77.5
-2016,55 to 64,,,,,,,,,,76.7
-2016,65 and over,,,,,,,,,,70.1
-2016,,Male,,,,,,,,,79.4
-2016,,Female,,,,,,,,,77.2
-2016,,,North East,,,,,,,E12000001,73.6
-2016,,,North West,,,,,,,E12000002,75.7
-2016,,,Yorkshire and the Humber,,,,,,,,75.0
-2016,,,East Midlands,,,,,,,E12000004,75.3
-2016,,,West Midlands,,,,,,,E12000005,75.9
-2016,,,East of England,,,,,,,E12000006,76.0
-2016,,,London,,,,,,,E12000007,83.7
-2016,,,South East,,,,,,,E12000008,82.4
-2016,,,South West,,,,,,,E12000009,80.2
-2016,,,,"Less than 14,999",,,,,,,68.4
-2016,,,,"15,000 to 29,999",,,,,,,78.2
-2016,,,,"30,000 to 44,999",,,,,,,81.0
-2016,,,,"45,000 and above",,,,,,,86.2
-2016,,,,,Quintile 1 (Most deprived),,,,,,72.1
-2016,,,,,Quintile 2,,,,,,78.1
-2016,,,,,Quintile 3,,,,,,79.8
-2016,,,,,Quintile 4,,,,,,77.8
-2016,,,,,Quintile 5 (Least deprived),,,,,,82.5
-2016,,,,,,Full-time,,,,,85.1
-2016,,,,,,Part-time,,,,,81.3
-2016,,,,,,Unemployed,,,,,63.1
-2016,,,,,,Retired,,,,,69.4
-2016,,,,,,Permanently disabled,,,,,65.1
-2016,,,,,,Fulfilling domestic tasks,,,,,72.0
-2016,,,,,,Other inactive person,,,,,65.6
-2016,,,,,,,Degree or equivalent,,,,91.9
-2016,,,,,,,Higher Education,,,,85.0
-2016,,,,,,,A level or equivalent,,,,80.2
-2016,,,,,,,GCSE or equivalent,,,,70.7
-2016,,,,,,,Other qualification,,,,72.7
-2016,,,,,,,No qualification,,,,52.6
-2016,,,,,,,,Disabled andor work-limiting disabled2,,,74.8
-2016,,,,,,,,Not disabled,,,80.0
-2016,,,,,,,,,UK,,77.6
-2016,,,,,,,,,Other,,83.2
+Year,Units,Age,Sex,Region,Household income,Deprivation quintile,Employment status,Education,Disability status,Country of birth,GeoCode,Value
+2016,Formal,,,,,,,,,,,10.4
+2016,Formal,19 to 24,,,,,,,,,,35.4
+2016,Formal,25 to 34,,,,,,,,,,17.4
+2016,Formal,35 to 44,,,,,,,,,,13.7
+2016,Formal,45 to 54,,,,,,,,,,10.4
+2016,Formal,55 to 64,,,,,,,,,,5.1
+2016,Formal,65 and over,,,,,,,,,,0.6
+2016,Formal,,Male,,,,,,,,,9.6
+2016,Formal,,Female,,,,,,,,,11.2
+2016,Formal,,,North East,,,,,,,E12000001,11.1
+2016,Formal,,,North West,,,,,,,E12000002,11.6
+2016,Formal,,,Yorkshire and the Humber,,,,,,,,9.1
+2016,Formal,,,East Midlands,,,,,,,E12000004,12.6
+2016,Formal,,,West Midlands,,,,,,,E12000005,9.0
+2016,Formal,,,East of England,,,,,,,E12000006,8.2
+2016,Formal,,,London,,,,,,,E12000007,10.2
+2016,Formal,,,South East,,,,,,,E12000008,9.8
+2016,Formal,,,South West,,,,,,,E12000009,13.0
+2016,Formal,,,,"Less than 14,999",,,,,,,5.9
+2016,Formal,,,,"15,000 to 29,999",,,,,,,9.2
+2016,Formal,,,,"30,000 to 44,999",,,,,,,13.3
+2016,Formal,,,,"45,000 and above",,,,,,,13.6
+2016,Formal,,,,,Quintile 1 (Most deprived),,,,,,10.6
+2016,Y,,,,,Quintile 2,,,,,,12.5
+2016,Formal,,,,,Quintile 3,,,,,,10.4
+2016,Formal,,,,,Quintile 4,,,,,,10.4
+2016,Formal,,,,,Quintile 5 (Least deprived),,,,,,8.4
+2016,Formal,,,,,,Full-time,,,,,14.5
+2016,Formal,,,,,,Part-time,,,,,14.0
+2016,Formal,,,,,,Unemployed,,,,,9.2
+2016,Formal,,,,,,Mature student,,,,,90.1
+2016,Formal,,,,,,Retired,,,,,0.7
+2016,Formal,,,,,,Permanently disabled,,,,,1.6
+2016,Formal,,,,,,Fulfilling domestic tasks,,,,,3.3
+2016,Formal,,,,,,Other inactive person,,,,,8.3
+2016,Formal,,,,,,,Degree or equivalent,,,,16.1
+2016,Formal,,,,,,,Higher Education,,,,11.9
+2016,Formal,,,,,,,A level or equivalent,,,,15.4
+2016,Formal,,,,,,,GCSE or equivalent,,,,6.7
+2016,Formal,,,,,,,Other qualification,,,,8.6
+2016,Formal,,,,,,,No qualification,,,,1.0
+2016,Formal,,,,,,,,Disabled andor work-limiting disabled,,,7.5
+2016,Formal,,,,,,,,Not disabled,,,12.0
+2016,Formal,,,,,,,,,UK,,10.0
+2016,Formal,,,,,,,,,Other,,13.3
+2016,Non-formal learning,,,,,,,,,,,42.3
+2016,Non-formal learning,19 to 24,,,,,,,,,,64.9
+2016,Non-formal learning,25 to 34,,,,,,,,,,54.5
+2016,Non-formal learning,35 to 44,,,,,,,,,,51.6
+2016,Non-formal learning,45 to 54,,,,,,,,,,46.1
+2016,Non-formal learning,55 to 64,,,,,,,,,,36.7
+2016,Non-formal learning,65 and over,,,,,,,,,,21.8
+2016,Non-formal learning,,Male,,,,,,,,,41.1
+2016,Non-formal learning,,Female,,,,,,,,,43.4
+2016,Non-formal learning,,,North East,,,,,,,E12000001,39.8
+2016,Non-formal learning,,,North West,,,,,,,E12000002,43.3
+2016,Non-formal learning,,,Yorkshire and the Humber,,,,,,,,40.6
+2016,Non-formal learning,,,East Midlands,,,,,,,E12000004,41.1
+2016,Non-formal learning,,,West Midlands,,,,,,,E12000005,36.0
+2016,Non-formal learning,,,East of England,,,,,,,E12000006,41.4
+2016,Non-formal learning,,,London,,,,,,,E12000007,44.2
+2016,Non-formal learning,,,South East,,,,,,,E12000008,46.5
+2016,Non-formal learning,,,South West,,,,,,,E12000009,42.3
+2016,Non-formal learning,,,,"Less than 14,999",,,,,,,24.3
+2016,Non-formal learning,,,,"15,000 to 29,999",,,,,,,39.7
+2016,Non-formal learning,,,,"30,000 to 44,999",,,,,,,48.9
+2016,Non-formal learning,,,,"45,000 and above",,,,,,,58.1
+2016,Non-formal learning,,,,,Quintile 1 (Most deprived),,,,,,33.7
+2016,Non-formal learning,,,,,Quintile 2,,,,,,41.8
+2016,Non-formal learning,,,,,Quintile 3,,,,,,44.1
+2016,Non-formal learning,,,,,Quintile 4,,,,,,43.6
+2016,Non-formal learning,,,,,Quintile 5 (Least deprived),,,,,,46.5
+2016,Non-formal learning,,,,,,Full-time,,,,,57.4
+2016,Non-formal learning,,,,,,Part-time,,,,,50.9
+2016,Non-formal learning,,,,,,Unemployed,,,,,23.6
+2016,Non-formal learning,,,,,,Mature student,,,,,40.8
+2016,Non-formal learning,,,,,,Retired,,,,,20.5
+2016,Non-formal learning,,,,,,Permanently disabled,,,,,10.1
+2016,Non-formal learning,,,,,,Fulfilling domestic tasks,,,,,19.3
+2016,Non-formal learning,,,,,,Other inactive person,,,,,26.8
+2016,Non-formal learning,,,,,,,Degree or equivalent,,,,63.0
+2016,Non-formal learning,,,,,,,Higher Education,,,,51.1
+2016,Non-formal learning,,,,,,,A level or equivalent,,,,47.8
+2016,Non-formal learning,,,,,,,GCSE or equivalent,,,,32.8
+2016,Non-formal learning,,,,,,,Other qualification,,,,28.8
+2016,Non-formal learning,,,,,,,No qualification,,,,13.2
+2016,Non-formal learning,,,,,,,,Disabled andor work-limiting disabled,,,30.9
+2016,Non-formal learning,,,,,,,,Not disabled,,,47.6
+2016,Non-formal learning,,,,,,,,,UK,,42.0
+2016,Non-formal learning,,,,,,,,,Other,,44.1
