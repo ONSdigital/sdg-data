@@ -1,4 +1,4 @@
-Year,Units,Age,Sex,Region,Household income,Deprivation quintile,Employment status,Education,Disability status,Country of birth,GeoCode,Value
+Year,Education category,Age,Sex,Region,Household income,Deprivation quintile,Employment status,Education,Disability status,Country of birth,GeoCode,Value
 2016,Formal,,,,,,,,,,,10.4
 2016,Formal,19 to 24,,,,,,,,,,35.4
 2016,Formal,25 to 34,,,,,,,,,,17.4
@@ -22,7 +22,7 @@ Year,Units,Age,Sex,Region,Household income,Deprivation quintile,Employment statu
 2016,Formal,,,,"30,000 to 44,999",,,,,,,13.3
 2016,Formal,,,,"45,000 and above",,,,,,,13.6
 2016,Formal,,,,,Quintile 1 (Most deprived),,,,,,10.6
-2016,Y,,,,,Quintile 2,,,,,,12.5
+2016,Formal,,,,,Quintile 2,,,,,,12.5
 2016,Formal,,,,,Quintile 3,,,,,,10.4
 2016,Formal,,,,,Quintile 4,,,,,,10.4
 2016,Formal,,,,,Quintile 5 (Least deprived),,,,,,8.4
