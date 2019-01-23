@@ -1,4 +1,4 @@
-Year,Units,Age,Sex,Region,Household income,Deprivation quintile,Employment status,Education,Disability status,Country of birth,GeoCode,Value
+Year,Education category,Age,Sex,Region,Household income,Deprivation quintile,Employment status,Education,Disability status,Country of birth,GeoCode,Value
 2016,Formal,,,,,,,,,,,10.4
 2016,Formal,19 to 24,,,,,,,,,,35.4
 2016,Formal,25 to 34,,,,,,,,,,17.4
@@ -12,22 +12,22 @@ Year,Units,Age,Sex,Region,Household income,Deprivation quintile,Employment statu
 2016,Formal,,,North West,,,,,,,E12000002,11.6
 2016,Formal,,,Yorkshire and the Humber,,,,,,,,9.1
 2016,Formal,,,East Midlands,,,,,,,E12000004,12.6
-2016,Formal,,,West Midlands,,,,,,,E12000005,9.0
+2016,Formal,,,West Midlands,,,,,,,E12000005,9
 2016,Formal,,,East of England,,,,,,,E12000006,8.2
 2016,Formal,,,London,,,,,,,E12000007,10.2
 2016,Formal,,,South East,,,,,,,E12000008,9.8
-2016,Formal,,,South West,,,,,,,E12000009,13.0
+2016,Formal,,,South West,,,,,,,E12000009,13
 2016,Formal,,,,"Less than 14,999",,,,,,,5.9
 2016,Formal,,,,"15,000 to 29,999",,,,,,,9.2
 2016,Formal,,,,"30,000 to 44,999",,,,,,,13.3
 2016,Formal,,,,"45,000 and above",,,,,,,13.6
 2016,Formal,,,,,Quintile 1 (Most deprived),,,,,,10.6
-2016,Y,,,,,Quintile 2,,,,,,12.5
+2016,Formal,,,,,Quintile 2,,,,,,12.5
 2016,Formal,,,,,Quintile 3,,,,,,10.4
 2016,Formal,,,,,Quintile 4,,,,,,10.4
 2016,Formal,,,,,Quintile 5 (Least deprived),,,,,,8.4
 2016,Formal,,,,,,Full-time,,,,,14.5
-2016,Formal,,,,,,Part-time,,,,,14.0
+2016,Formal,,,,,,Part-time,,,,,14
 2016,Formal,,,,,,Unemployed,,,,,9.2
 2016,Formal,,,,,,Mature student,,,,,90.1
 2016,Formal,,,,,,Retired,,,,,0.7
@@ -39,10 +39,10 @@ Year,Units,Age,Sex,Region,Household income,Deprivation quintile,Employment statu
 2016,Formal,,,,,,,A level or equivalent,,,,15.4
 2016,Formal,,,,,,,GCSE or equivalent,,,,6.7
 2016,Formal,,,,,,,Other qualification,,,,8.6
-2016,Formal,,,,,,,No qualification,,,,1.0
+2016,Formal,,,,,,,No qualification,,,,1
 2016,Formal,,,,,,,,Disabled andor work-limiting disabled,,,7.5
-2016,Formal,,,,,,,,Not disabled,,,12.0
-2016,Formal,,,,,,,,,UK,,10.0
+2016,Formal,,,,,,,,Not disabled,,,12
+2016,Formal,,,,,,,,,UK,,10
 2016,Formal,,,,,,,,,Other,,13.3
 2016,Non-formal learning,,,,,,,,,,,42.3
 2016,Non-formal learning,19 to 24,,,,,,,,,,64.9
@@ -57,7 +57,7 @@ Year,Units,Age,Sex,Region,Household income,Deprivation quintile,Employment statu
 2016,Non-formal learning,,,North West,,,,,,,E12000002,43.3
 2016,Non-formal learning,,,Yorkshire and the Humber,,,,,,,,40.6
 2016,Non-formal learning,,,East Midlands,,,,,,,E12000004,41.1
-2016,Non-formal learning,,,West Midlands,,,,,,,E12000005,36.0
+2016,Non-formal learning,,,West Midlands,,,,,,,E12000005,36
 2016,Non-formal learning,,,East of England,,,,,,,E12000006,41.4
 2016,Non-formal learning,,,London,,,,,,,E12000007,44.2
 2016,Non-formal learning,,,South East,,,,,,,E12000008,46.5
@@ -79,7 +79,7 @@ Year,Units,Age,Sex,Region,Household income,Deprivation quintile,Employment statu
 2016,Non-formal learning,,,,,,Permanently disabled,,,,,10.1
 2016,Non-formal learning,,,,,,Fulfilling domestic tasks,,,,,19.3
 2016,Non-formal learning,,,,,,Other inactive person,,,,,26.8
-2016,Non-formal learning,,,,,,,Degree or equivalent,,,,63.0
+2016,Non-formal learning,,,,,,,Degree or equivalent,,,,63
 2016,Non-formal learning,,,,,,,Higher Education,,,,51.1
 2016,Non-formal learning,,,,,,,A level or equivalent,,,,47.8
 2016,Non-formal learning,,,,,,,GCSE or equivalent,,,,32.8
@@ -87,5 +87,5 @@ Year,Units,Age,Sex,Region,Household income,Deprivation quintile,Employment statu
 2016,Non-formal learning,,,,,,,No qualification,,,,13.2
 2016,Non-formal learning,,,,,,,,Disabled andor work-limiting disabled,,,30.9
 2016,Non-formal learning,,,,,,,,Not disabled,,,47.6
-2016,Non-formal learning,,,,,,,,,UK,,42.0
+2016,Non-formal learning,,,,,,,,,UK,,42
 2016,Non-formal learning,,,,,,,,,Other,,44.1
