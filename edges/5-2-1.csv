@@ -1,14 +1,18 @@
 From,To
-Sex,Region
 Sex,Age
 Sex,Ethnicity
-Sex,Highest qualification
 Sex,Disability status
 Sex,Household income
-Abuse type,Region
+Sex,Region
+Sex,Sexual orientation
+Sex,Highest qualification
+Abuse type,Abuse category
 Abuse type,Age
 Abuse type,Ethnicity
-Abuse type,Highest qualification
 Abuse type,Disability status
 Abuse type,Household income
-Abuse type,Abuse category
+Abuse type,Region
+Abuse type,Sexual orientation
+Abuse type,Highest qualification
+Ethnicity,Ethnic group
+Disability status,Limits activities
