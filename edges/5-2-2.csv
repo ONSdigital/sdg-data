@@ -2,7 +2,7 @@ From,To
 Sex,Region
 Sex,Age
 Sex,Ethnicity
-Sex,Marital status
+Sex,Relationship status
 Sex,Employment status
 Sex,Occupation
 Sex,Highest qualification
@@ -16,6 +16,7 @@ Sex,Output area classification
 Sex,Urbanisation
 Sex,Level of physical disorder
 Sex,Employment deprivation index
-Abuse type,Abuse category
+Abuse perpetrator,Abuse sub-category
+Abuse category,Abuse sub-category
 Ethnicity,Ethnic group
 Accommodation type,House type

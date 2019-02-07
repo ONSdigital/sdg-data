@@ -1,4 +1,4 @@
-Year,Sex,Abuse type,Abuse category,Age,Ethnicity,Ethnic group,Disability status,Household income,Region,Sexual orientation,Highest qualification,GeoCode,Value
+Year,Sex,Abuse category,Abuse sub-category,Age,Ethnicity,Ethnic group,Disability status,Household income,Region,Sexual orientation,Highest qualification,GeoCode,Value
 2004,Male,,,,,,,,,,,,4.88073374104
 2005,Male,,,,,,,,,,,,4.81584098458
 2006,Male,,,,,,,,,,,,4.9145386514
@@ -290,90 +290,90 @@ Year,Sex,Abuse type,Abuse category,Age,Ethnicity,Ethnic group,Disability status,
 2015,,Sexual,,,,,,,,,,,0.309825296796
 2016,,Sexual,,,,,,,,,,,0.248627008537
 2017,,Sexual,,,,,,,,,,,0.218631252912
-2004,Male,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.0684472533466
-2005,Male,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.0
-2006,Male,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.0269168878779
-2007,Male,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.0524311362373
-2008,Male,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.0437189484155
-2009,Male,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.00422650735399
-2010,Male,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.0263992592908
-2011,Male,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.042912521314900004
-2012,Male,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.049338717974199996
-2013,Male,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.00505107630474
-2014,Male,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.010183246577799999
-2015,Male,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.0485915451233
-2016,Male,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.029701555923599996
-2017,Male,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.0125073392349
-2004,Female,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.263437563268
-2005,Female,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.278080862482
-2006,Female,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.310307372177
-2007,Female,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.25377713904300003
-2008,Female,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.223831839694
-2009,Female,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.207328813373
-2010,Female,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.395977916236
-2011,Female,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.34426727981
-2012,Female,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.320458465017
-2013,Female,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.241317702997
-2014,Female,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.266320545985
-2015,Female,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.297414003195
-2016,Female,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.295751244353
-2017,Female,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.22408165314800002
-2004,,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.18782026051800002
-2005,,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.157987734246
-2006,,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.190865151226
-2007,,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.173692603083
-2008,,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.151614537193
-2009,,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.11941261198599999
-2010,,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.239486499149
-2011,,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.218831299285
-2012,,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.184881261953
-2013,,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.123774996758
-2014,,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.139244860713
-2015,,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.173424414964
-2016,,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.16230576139900002
-2017,,Sexual,Sexual assault by rape or penetration (including attempts) by a partner,,,,,,,,,,0.11746134949100001
-2004,Male,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.22124927335499997
-2005,Male,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.0
-2006,Male,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.134028057541
-2007,Male,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.137267883561
-2008,Male,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.177253770753
-2009,Male,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.195929746899
-2010,Male,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.154505453912
-2011,Male,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.0
-2012,Male,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.12199499891200001
-2013,Male,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.08318787501019999
-2014,Male,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.0449068296944
-2015,Male,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.06992098175089999
-2016,Male,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.054226105543900005
-2017,Male,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.0649254326942
-2004,Female,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.463629729743
-2005,Female,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.6214529325639999
-2006,Female,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.541148058908
-2007,Female,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.488599419361
-2008,Female,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.26864573515900003
-2009,Female,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.44003727250200003
-2010,Female,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.44570616671
-2011,Female,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.402680877041
-2012,Female,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.241481472748
-2013,Female,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.21332649352000002
-2014,Female,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.333936870332
-2015,Female,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.3781658131
-2016,Female,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.256627318345
-2017,Female,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.259186991063
-2004,,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.34387585295900003
-2005,,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.330997467913
-2006,,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.34658023816399997
-2007,,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.320190272855
-2008,,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.22047989464200002
-2009,,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.319058481447
-2010,,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.304782382849
-2011,,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.212871388115
-2012,,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.181852478266
-2013,,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.148691876374
-2014,,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.19075563452
-2015,,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.22500037002300002
-2016,,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.155213943666
-2017,,Sexual,Indecent exposure or unwanted sexual touching by a partner,,,,,,,,,,0.161351572534
+2004,Male,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.0684472533466
+2005,Male,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.0
+2006,Male,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.0269168878779
+2007,Male,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.0524311362373
+2008,Male,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.0437189484155
+2009,Male,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.00422650735399
+2010,Male,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.0263992592908
+2011,Male,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.042912521314900004
+2012,Male,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.049338717974199996
+2013,Male,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.00505107630474
+2014,Male,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.010183246577799999
+2015,Male,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.0485915451233
+2016,Male,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.029701555923599996
+2017,Male,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.0125073392349
+2004,Female,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.263437563268
+2005,Female,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.278080862482
+2006,Female,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.310307372177
+2007,Female,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.25377713904300003
+2008,Female,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.223831839694
+2009,Female,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.207328813373
+2010,Female,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.395977916236
+2011,Female,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.34426727981
+2012,Female,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.320458465017
+2013,Female,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.241317702997
+2014,Female,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.266320545985
+2015,Female,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.297414003195
+2016,Female,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.295751244353
+2017,Female,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.22408165314800002
+2004,,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.18782026051800002
+2005,,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.157987734246
+2006,,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.190865151226
+2007,,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.173692603083
+2008,,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.151614537193
+2009,,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.11941261198599999
+2010,,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.239486499149
+2011,,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.218831299285
+2012,,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.184881261953
+2013,,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.123774996758
+2014,,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.139244860713
+2015,,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.173424414964
+2016,,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.16230576139900002
+2017,,Sexual,Sexual assault by rape/penetration (including attempts),,,,,,,,,,0.11746134949100001
+2004,Male,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.22124927335499997
+2005,Male,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.0
+2006,Male,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.134028057541
+2007,Male,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.137267883561
+2008,Male,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.177253770753
+2009,Male,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.195929746899
+2010,Male,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.154505453912
+2011,Male,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.0
+2012,Male,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.12199499891200001
+2013,Male,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.08318787501019999
+2014,Male,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.0449068296944
+2015,Male,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.06992098175089999
+2016,Male,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.054226105543900005
+2017,Male,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.0649254326942
+2004,Female,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.463629729743
+2005,Female,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.6214529325639999
+2006,Female,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.541148058908
+2007,Female,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.488599419361
+2008,Female,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.26864573515900003
+2009,Female,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.44003727250200003
+2010,Female,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.44570616671
+2011,Female,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.402680877041
+2012,Female,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.241481472748
+2013,Female,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.21332649352000002
+2014,Female,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.333936870332
+2015,Female,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.3781658131
+2016,Female,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.256627318345
+2017,Female,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.259186991063
+2004,,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.34387585295900003
+2005,,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.330997467913
+2006,,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.34658023816399997
+2007,,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.320190272855
+2008,,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.22047989464200002
+2009,,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.319058481447
+2010,,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.304782382849
+2011,,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.212871388115
+2012,,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.181852478266
+2013,,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.148691876374
+2014,,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.19075563452
+2015,,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.22500037002300002
+2016,,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.155213943666
+2017,,Sexual,Indecent exposure/unwanted sexual touching,,,,,,,,,,0.161351572534
 2004,Male,Stalking,,,,,,,,,,,1.0866792872600002
 2005,Male,Stalking,,,,,,,,,,,1.0334385823899999
 2006,Male,Stalking,,,,,,,,,,,0.8602606868170001
@@ -649,22 +649,22 @@ Year,Sex,Abuse type,Abuse category,Age,Ethnicity,Ethnic group,Disability status,
 2016,Female,Non-sexual,,,,,,"40,000 to less than 50,000",,,,,4.22843022176
 2017,Male,Non-sexual,,,,,,"40,000 to less than 50,000",,,,,2.65337771094
 2017,Female,Non-sexual,,,,,,"40,000 to less than 50,000",,,,,5.16522204137
-2014,Male,Non-sexual,,,,,,"50,000 or more",,,,,2.0292384858
-2014,Female,Non-sexual,,,,,,"50,000 or more",,,,,2.6463289624
-2015,Male,Non-sexual,,,,,,"50,000 or more",,,,,2.39310155007
-2015,Female,Non-sexual,,,,,,"50,000 or more",,,,,2.71587503037
-2016,Male,Non-sexual,,,,,,"50,000 or more",,,,,2.16621683334
-2016,Female,Non-sexual,,,,,,"50,000 or more",,,,,2.7033461981
-2017,Male,Non-sexual,,,,,,"50,000 or more",,,,,2.03919899993
-2017,Female,Non-sexual,,,,,,"50,000 or more",,,,,3.13640532913
-2014,Male,Non-sexual,,,,,,No income stated or not enough information provided,,,,,2.1188775846400003
-2014,Female,Non-sexual,,,,,,No income stated or not enough information provided,,,,,6.4345650378
-2015,Male,Non-sexual,,,,,,No income stated or not enough information provided,,,,,2.4029261274000002
-2015,Female,Non-sexual,,,,,,No income stated or not enough information provided,,,,,3.82100235954
-2016,Male,Non-sexual,,,,,,No income stated or not enough information provided,,,,,2.28537995699
-2016,Female,Non-sexual,,,,,,No income stated or not enough information provided,,,,,4.80662060933
-2017,Male,Non-sexual,,,,,,No income stated or not enough information provided,,,,,2.35401493229
-2017,Female,Non-sexual,,,,,,No income stated or not enough information provided,,,,,4.845777697869999
+2014,Male,Non-sexual,,,,,,"50,000/more",,,,,2.0292384858
+2014,Female,Non-sexual,,,,,,"50,000/more",,,,,2.6463289624
+2015,Male,Non-sexual,,,,,,"50,000/more",,,,,2.39310155007
+2015,Female,Non-sexual,,,,,,"50,000/more",,,,,2.71587503037
+2016,Male,Non-sexual,,,,,,"50,000/more",,,,,2.16621683334
+2016,Female,Non-sexual,,,,,,"50,000/more",,,,,2.7033461981
+2017,Male,Non-sexual,,,,,,"50,000/more",,,,,2.03919899993
+2017,Female,Non-sexual,,,,,,"50,000/more",,,,,3.13640532913
+2014,Male,Non-sexual,,,,,,No income stated/not enough information provided,,,,,2.1188775846400003
+2014,Female,Non-sexual,,,,,,No income stated/not enough information provided,,,,,6.4345650378
+2015,Male,Non-sexual,,,,,,No income stated/not enough information provided,,,,,2.4029261274000002
+2015,Female,Non-sexual,,,,,,No income stated/not enough information provided,,,,,3.82100235954
+2016,Male,Non-sexual,,,,,,No income stated/not enough information provided,,,,,2.28537995699
+2016,Female,Non-sexual,,,,,,No income stated/not enough information provided,,,,,4.80662060933
+2017,Male,Non-sexual,,,,,,No income stated/not enough information provided,,,,,2.35401493229
+2017,Female,Non-sexual,,,,,,No income stated/not enough information provided,,,,,4.845777697869999
 2014,Male,Non-sexual,,,,,,,North East,,,E12000001,2.55873425559
 2014,Female,Non-sexual,,,,,,,North East,,,E12000001,7.223012709780001
 2015,Male,Non-sexual,,,,,,,North East,,,E12000001,4.6094715191699995
@@ -745,36 +745,36 @@ Year,Sex,Abuse type,Abuse category,Age,Ethnicity,Ethnic group,Disability status,
 2016,Female,Non-sexual,,,,,,,Wales,,,,6.7546520265900005
 2017,Male,Non-sexual,,,,,,,Wales,,,,2.91128362939
 2017,Female,Non-sexual,,,,,,,Wales,,,,6.2092453366900004
-2017,Male,Non-sexual,,,,,,,,Heterosexual or straight,,,2.2424228456099997
-2017,Female,Non-sexual,,,,,,,,Heterosexual or straight,,,5.13761090454
-2017,Male,Non-sexual,,,,,,,,Gay or lesbian,,,5.11569710717
-2017,Female,Non-sexual,,,,,,,,Gay or lesbian,,,8.41480771663
+2017,Male,Non-sexual,,,,,,,,Heterosexual/straight,,,2.2424228456099997
+2017,Female,Non-sexual,,,,,,,,Heterosexual/straight,,,5.13761090454
+2017,Male,Non-sexual,,,,,,,,Gay/lesbian,,,5.11569710717
+2017,Female,Non-sexual,,,,,,,,Gay/lesbian,,,8.41480771663
 2017,Male,Non-sexual,,,,,,,,Bisexual,,,5.596399245090001
 2017,Female,Non-sexual,,,,,,,,Bisexual,,,14.094293703800002
-2014,Male,Non-sexual,,,,,,,,,Degree or diploma,,2.3259605297999997
-2014,Female,Non-sexual,,,,,,,,,Degree or diploma,,4.24111108543
-2015,Male,Non-sexual,,,,,,,,,Degree or diploma,,2.4095736165400004
-2015,Female,Non-sexual,,,,,,,,,Degree or diploma,,4.417945995169999
-2016,Male,Non-sexual,,,,,,,,,Degree or diploma,,2.4889131183099997
-2016,Female,Non-sexual,,,,,,,,,Degree or diploma,,4.290670646580001
-2017,Male,Non-sexual,,,,,,,,,Degree or diploma,,2.22416530379
-2017,Female,Non-sexual,,,,,,,,,Degree or diploma,,5.379362497969999
-2014,Male,Non-sexual,,,,,,,,,Apprenticeship or AAS level,,2.68052823494
-2014,Female,Non-sexual,,,,,,,,,Apprenticeship or AAS level,,7.08137494234
-2015,Male,Non-sexual,,,,,,,,,Apprenticeship or AAS level,,3.1961124403
-2015,Female,Non-sexual,,,,,,,,,Apprenticeship or AAS level,,5.9981162583800005
-2016,Male,Non-sexual,,,,,,,,,Apprenticeship or AAS level,,3.3982764864200004
-2016,Female,Non-sexual,,,,,,,,,Apprenticeship or AAS level,,6.44355379885
-2017,Male,Non-sexual,,,,,,,,,Apprenticeship or AAS level,,3.1988227470700004
-2017,Female,Non-sexual,,,,,,,,,Apprenticeship or AAS level,,6.1996188741
-2014,Male,Non-sexual,,,,,,,,,O levelGCSE,,2.5764211236500003
-2014,Female,Non-sexual,,,,,,,,,O levelGCSE,,7.078160238169999
-2015,Male,Non-sexual,,,,,,,,,O levelGCSE,,3.3987734354000003
-2015,Female,Non-sexual,,,,,,,,,O levelGCSE,,6.629929347969999
-2016,Male,Non-sexual,,,,,,,,,O levelGCSE,,3.25199648269
-2016,Female,Non-sexual,,,,,,,,,O levelGCSE,,5.96822551031
-2017,Male,Non-sexual,,,,,,,,,O levelGCSE,,2.67069993255
-2017,Female,Non-sexual,,,,,,,,,O levelGCSE,,5.83858678247
+2014,Male,Non-sexual,,,,,,,,,Degree/diploma,,2.3259605297999997
+2014,Female,Non-sexual,,,,,,,,,Degree/diploma,,4.24111108543
+2015,Male,Non-sexual,,,,,,,,,Degree/diploma,,2.4095736165400004
+2015,Female,Non-sexual,,,,,,,,,Degree/diploma,,4.417945995169999
+2016,Male,Non-sexual,,,,,,,,,Degree/diploma,,2.4889131183099997
+2016,Female,Non-sexual,,,,,,,,,Degree/diploma,,4.290670646580001
+2017,Male,Non-sexual,,,,,,,,,Degree/diploma,,2.22416530379
+2017,Female,Non-sexual,,,,,,,,,Degree/diploma,,5.379362497969999
+2014,Male,Non-sexual,,,,,,,,,Apprenticeship/A/AS level,,2.68052823494
+2014,Female,Non-sexual,,,,,,,,,Apprenticeship/A/AS level,,7.08137494234
+2015,Male,Non-sexual,,,,,,,,,Apprenticeship/A/AS level,,3.1961124403
+2015,Female,Non-sexual,,,,,,,,,Apprenticeship/A/AS level,,5.9981162583800005
+2016,Male,Non-sexual,,,,,,,,,Apprenticeship/A/AS level,,3.3982764864200004
+2016,Female,Non-sexual,,,,,,,,,Apprenticeship/A/AS level,,6.44355379885
+2017,Male,Non-sexual,,,,,,,,,Apprenticeship/A/AS level,,3.1988227470700004
+2017,Female,Non-sexual,,,,,,,,,Apprenticeship/A/AS level,,6.1996188741
+2014,Male,Non-sexual,,,,,,,,,O level/GCSE,,2.5764211236500003
+2014,Female,Non-sexual,,,,,,,,,O level/GCSE,,7.078160238169999
+2015,Male,Non-sexual,,,,,,,,,O level/GCSE,,3.3987734354000003
+2015,Female,Non-sexual,,,,,,,,,O level/GCSE,,6.629929347969999
+2016,Male,Non-sexual,,,,,,,,,O level/GCSE,,3.25199648269
+2016,Female,Non-sexual,,,,,,,,,O level/GCSE,,5.96822551031
+2017,Male,Non-sexual,,,,,,,,,O level/GCSE,,2.67069993255
+2017,Female,Non-sexual,,,,,,,,,O level/GCSE,,5.83858678247
 2014,Male,Non-sexual,,,,,,,,,Other,,2.41124300927
 2014,Female,Non-sexual,,,,,,,,,Other,,6.18818120281
 2015,Male,Non-sexual,,,,,,,,,Other,,1.66272755929
