@@ -1,621 +1,741 @@
-Year,Type of government,Source of revenue,Value
-1998,Central government,,23.2
-1999,Central government,,23.9
-2000,Central government,,24.9
-2001,Central government,,25.0
-2002,Central government,,24.7
-2003,Central government,,25.2
-2004,Central government,,26.9
-2005,Central government,,28.1
-2006,Central government,,28.9
-2007,Central government,,29.9
-2008,Central government,,31.5
-2009,Central government,,30.1
-2010,Central government,,31.6
-2011,Central government,,32.5
-2012,Central government,,33.2
-2013,Central government,,33.9
-2014,Central government,,33.6
-2015,Central government,,34.1
-2016,Central government,,35.3
-2017,Central government,,36.8
-1998,Local government,,6.0
-1999,Local government,,6.3
-2000,Local government,,6.4
-2001,Local government,,6.8
-2002,Local government,,7.2
-2003,Local government,,7.7
-2004,Local government,,8.1
-2005,Local government,,8.4
-2006,Local government,,9.0
-2007,Local government,,9.0
-2008,Local government,,9.5
-2009,Local government,,10.4
-2010,Local government,,10.7
-2011,Local government,,10.2
-2012,Local government,,10.0
-2013,Local government,,9.6
-2014,Local government,,9.6
-2015,Local government,,9.3
-2016,Local government,,8.8
-2017,Local government,,8.8
-1998,,,29.3
-1999,,,30.2
-2000,,,31.3
-2001,,,31.8
-2002,,,31.9
-2003,,,32.9
-2004,,,35.0
-2005,,,36.5
-2006,,,37.9
-2007,,,38.9
-2008,,,41.0
-2009,,,40.4
-2010,,,42.2
-2011,,,42.7
-2012,,,43.2
-2013,,,43.5
-2014,,,43.2
-2015,,,43.4
-2016,,,44.1
-2017,,,45.6
-1998,Central government,Taxes,17.9
-1999,Central government,Taxes,18.4
-2000,Central government,Taxes,19.2
-2001,Central government,Taxes,19.1
-2002,Central government,Taxes,18.8
-2003,Central government,Taxes,19.0
-2004,Central government,Taxes,20.0
-2005,Central government,Taxes,20.7
-2006,Central government,Taxes,21.5
-2007,Central government,Taxes,22.2
-2008,Central government,Taxes,22.1
-2009,Central government,Taxes,21.5
-2010,Central government,Taxes,23.1
-2011,Central government,Taxes,24.0
-2012,Central government,Taxes,23.7
-2013,Central government,Taxes,24.1
-2014,Central government,Taxes,24.2
-2015,Central government,Taxes,24.6
-2016,Central government,Taxes,25.5
-2017,Central government,Taxes,26.4
-1998,Local government,Taxes,0.8
-1999,Local government,Taxes,0.9
-2000,Local government,Taxes,0.9
-2001,Local government,Taxes,0.9
-2002,Local government,Taxes,1.0
-2003,Local government,Taxes,1.1
-2004,Local government,Taxes,1.2
-2005,Local government,Taxes,1.2
-2006,Local government,Taxes,1.2
-2007,Local government,Taxes,1.3
-2008,Local government,Taxes,1.3
-2009,Local government,Taxes,1.4
-2010,Local government,Taxes,1.4
-2011,Local government,Taxes,1.4
-2012,Local government,Taxes,1.4
-2013,Local government,Taxes,1.4
-2014,Local government,Taxes,1.5
-2015,Local government,Taxes,1.5
-2016,Local government,Taxes,1.5
-2017,Local government,Taxes,1.6
-1998,,Taxes,18.7
-1999,,Taxes,19.2
-2000,,Taxes,20.1
-2001,,Taxes,20.0
-2002,,Taxes,19.8
-2003,,Taxes,20.1
-2004,,Taxes,21.1
-2005,,Taxes,21.9
-2006,,Taxes,22.7
-2007,,Taxes,23.4
-2008,,Taxes,23.4
-2009,,Taxes,22.9
-2010,,Taxes,24.5
-2011,,Taxes,25.4
-2012,,Taxes,25.1
-2013,,Taxes,25.5
-2014,,Taxes,25.7
-2015,,Taxes,26.1
-2016,,Taxes,27.0
-2017,,Taxes,28.0
-1998,Central government,National insurance contributions,3.8
-1999,Central government,National insurance contributions,4.0
-2000,Central government,National insurance contributions,4.1
-2001,Central government,National insurance contributions,4.1
-2002,Central government,National insurance contributions,4.1
-2003,Central government,National insurance contributions,4.4
-2004,Central government,National insurance contributions,4.8
-2005,Central government,National insurance contributions,4.9
-2006,Central government,National insurance contributions,5.1
-2007,Central government,National insurance contributions,5.2
-2008,Central government,National insurance contributions,5.5
-2009,Central government,National insurance contributions,5.5
-2010,Central government,National insurance contributions,5.6
-2011,Central government,National insurance contributions,5.7
-2012,Central government,National insurance contributions,5.8
-2013,Central government,National insurance contributions,5.8
-2014,Central government,National insurance contributions,5.8
-2015,Central government,National insurance contributions,5.9
-2016,Central government,National insurance contributions,6.2
-2017,Central government,National insurance contributions,6.6
-1998,,National insurance contributions,3.8
-1999,,National insurance contributions,4.0
-2000,,National insurance contributions,4.1
-2001,,National insurance contributions,4.1
-2002,,National insurance contributions,4.1
-2003,,National insurance contributions,4.4
-2004,,National insurance contributions,4.8
-2005,,National insurance contributions,4.9
-2006,,National insurance contributions,5.1
-2007,,National insurance contributions,5.2
-2008,,National insurance contributions,5.5
-2009,,National insurance contributions,5.5
-2010,,National insurance contributions,5.6
-2011,,National insurance contributions,5.7
-2012,,National insurance contributions,5.8
-2013,,National insurance contributions,5.8
-2014,,National insurance contributions,5.8
-2015,,National insurance contributions,5.9
-2016,,National insurance contributions,6.2
-2017,,National insurance contributions,6.6
-1998,Central government,Interest and dividends,0.6
-1999,Central government,Interest and dividends,0.5
-2000,Central government,Interest and dividends,0.5
-2001,Central government,Interest and dividends,0.5
-2002,Central government,Interest and dividends,0.5
-2003,Central government,Interest and dividends,0.5
-2004,Central government,Interest and dividends,0.4
-2005,Central government,Interest and dividends,0.4
-2006,Central government,Interest and dividends,0.4
-2007,Central government,Interest and dividends,0.4
-2008,Central government,Interest and dividends,0.5
-2009,Central government,Interest and dividends,0.5
-2010,Central government,Interest and dividends,0.5
-2011,Central government,Interest and dividends,0.5
-2012,Central government,Interest and dividends,0.7
-2013,Central government,Interest and dividends,1.5
-2014,Central government,Interest and dividends,0.9
-2015,Central government,Interest and dividends,0.9
-2016,Central government,Interest and dividends,0.9
-2017,Central government,Interest and dividends,1.0
-1998,Local government,Interest and dividends,0.0
-1999,Local government,Interest and dividends,0.0
-2000,Local government,Interest and dividends,0.0
-2001,Local government,Interest and dividends,-0.1
-2002,Local government,Interest and dividends,-0.1
-2003,Local government,Interest and dividends,-0.1
-2004,Local government,Interest and dividends,-0.1
-2005,Local government,Interest and dividends,-0.1
-2006,Local government,Interest and dividends,-0.1
-2007,Local government,Interest and dividends,0.0
-2008,Local government,Interest and dividends,0.0
-2009,Local government,Interest and dividends,-0.1
-2010,Local government,Interest and dividends,-0.1
-2011,Local government,Interest and dividends,-0.1
-2012,Local government,Interest and dividends,-0.1
-2013,Local government,Interest and dividends,0.0
-2014,Local government,Interest and dividends,0.0
-2015,Local government,Interest and dividends,0.0
-2016,Local government,Interest and dividends,0.0
-2017,Local government,Interest and dividends,-0.1
-1998,,Interest and dividends,0.6
-1999,,Interest and dividends,0.5
-2000,,Interest and dividends,0.6
-2001,,Interest and dividends,0.5
-2002,,Interest and dividends,0.4
-2003,,Interest and dividends,0.3
-2004,,Interest and dividends,0.3
-2005,,Interest and dividends,0.3
-2006,,Interest and dividends,0.3
-2007,,Interest and dividends,0.4
-2008,,Interest and dividends,0.5
-2009,,Interest and dividends,0.4
-2010,,Interest and dividends,0.4
-2011,,Interest and dividends,0.4
-2012,,Interest and dividends,0.5
-2013,,Interest and dividends,1.4
-2014,,Interest and dividends,0.8
-2015,,Interest and dividends,0.9
-2016,,Interest and dividends,0.9
-2017,,Interest and dividends,1.0
-1998,Central government,Other receipts,0.7
-1999,Central government,Other receipts,0.7
-2000,Central government,Other receipts,0.7
-2001,Central government,Other receipts,0.8
-2002,Central government,Other receipts,0.8
-2003,Central government,Other receipts,0.8
-2004,Central government,Other receipts,0.8
-2005,Central government,Other receipts,0.8
-2006,Central government,Other receipts,0.8
-2007,Central government,Other receipts,0.8
-2008,Central government,Other receipts,0.9
-2009,Central government,Other receipts,1.0
-2010,Central government,Other receipts,1.0
-2011,Central government,Other receipts,1.0
-2012,Central government,Other receipts,1.1
-2013,Central government,Other receipts,1.2
-2014,Central government,Other receipts,1.2
-2015,Central government,Other receipts,1.2
-2016,Central government,Other receipts,1.1
-2017,Central government,Other receipts,1.2
-1998,Local government,Other receipts,0.3
-1999,Local government,Other receipts,0.3
-2000,Local government,Other receipts,0.3
-2001,Local government,Other receipts,0.3
-2002,Local government,Other receipts,0.3
-2003,Local government,Other receipts,0.3
-2004,Local government,Other receipts,0.4
-2005,Local government,Other receipts,0.4
-2006,Local government,Other receipts,0.4
-2007,Local government,Other receipts,0.4
-2008,Local government,Other receipts,0.4
-2009,Local government,Other receipts,0.5
-2010,Local government,Other receipts,0.5
-2011,Local government,Other receipts,0.5
-2012,Local government,Other receipts,0.5
-2013,Local government,Other receipts,0.6
-2014,Local government,Other receipts,0.6
-2015,Local government,Other receipts,0.6
-2016,Local government,Other receipts,0.6
-2017,Local government,Other receipts,0.6
-1998,,Other receipts,1.0
-1999,,Other receipts,1.0
-2000,,Other receipts,1.0
-2001,,Other receipts,1.1
-2002,,Other receipts,1.1
-2003,,Other receipts,1.1
-2004,,Other receipts,1.2
-2005,,Other receipts,1.2
-2006,,Other receipts,1.2
-2007,,Other receipts,1.2
-2008,,Other receipts,1.3
-2009,,Other receipts,1.5
-2010,,Other receipts,1.5
-2011,,Other receipts,1.6
-2012,,Other receipts,1.7
-2013,,Other receipts,1.7
-2014,,Other receipts,1.8
-2015,,Other receipts,1.8
-2016,,Other receipts,1.7
-2017,,Other receipts,1.8
-1998,Central government,Market output and output for own final use,0.2
-1999,Central government,Market output and output for own final use,0.2
-2000,Central government,Market output and output for own final use,0.2
-2001,Central government,Market output and output for own final use,0.3
-2002,Central government,Market output and output for own final use,0.3
-2003,Central government,Market output and output for own final use,0.3
-2004,Central government,Market output and output for own final use,0.6
-2005,Central government,Market output and output for own final use,0.7
-2006,Central government,Market output and output for own final use,0.8
-2007,Central government,Market output and output for own final use,0.9
-2008,Central government,Market output and output for own final use,0.9
-2009,Central government,Market output and output for own final use,1.1
-2010,Central government,Market output and output for own final use,1.1
-2011,Central government,Market output and output for own final use,1.0
-2012,Central government,Market output and output for own final use,0.9
-2013,Central government,Market output and output for own final use,1.0
-2014,Central government,Market output and output for own final use,1.0
-2015,Central government,Market output and output for own final use,1.0
-2016,Central government,Market output and output for own final use,1.1
-2017,Central government,Market output and output for own final use,1.2
-1998,Local government,Market output,0.7
-1999,Local government,Market output,0.8
-2000,Local government,Market output,0.8
-2001,Local government,Market output,0.9
-2002,Local government,Market output,1.0
-2003,Local government,Market output,1.1
-2004,Local government,Market output,1.1
-2005,Local government,Market output,1.1
-2006,Local government,Market output,1.3
-2007,Local government,Market output,1.3
-2008,Local government,Market output,1.4
-2009,Local government,Market output,1.5
-2010,Local government,Market output,1.5
-2011,Local government,Market output,1.4
-2012,Local government,Market output,1.4
-2013,Local government,Market output,1.4
-2014,Local government,Market output,1.4
-2015,Local government,Market output,1.4
-2016,Local government,Market output,1.3
-2017,Local government,Market output,1.4
-1998,,Market output,0.9
-1999,,Market output,1.0
-2000,,Market output,1.1
-2001,,Market output,1.2
-2002,,Market output,1.3
-2003,,Market output,1.4
-2004,,Market output,1.7
-2005,,Market output,1.9
-2006,,Market output,2.1
-2007,,Market output,2.2
-2008,,Market output,2.3
-2009,,Market output,2.6
-2010,,Market output,2.6
-2011,,Market output,2.4
-2012,,Market output,2.3
-2013,,Market output,2.4
-2014,,Market output,2.4
-2015,,Market output,2.4
-2016,,Market output,2.4
-2017,,Market output,2.5
-1998,Central government,Pension contributions,0.7
-1999,Central government,Pension contributions,0.7
-2000,Central government,Pension contributions,0.8
-2001,Central government,Pension contributions,0.9
-2002,Central government,Pension contributions,0.9
-2003,Central government,Pension contributions,0.9
-2004,Central government,Pension contributions,1.0
-2005,Central government,Pension contributions,1.0
-2006,Central government,Pension contributions,1.0
-2007,Central government,Pension contributions,1.1
-2008,Central government,Pension contributions,1.1
-2009,Central government,Pension contributions,1.3
-2010,Central government,Pension contributions,1.3
-2011,Central government,Pension contributions,1.3
-2012,Central government,Pension contributions,1.2
-2013,Central government,Pension contributions,1.3
-2014,Central government,Pension contributions,1.3
-2015,Central government,Pension contributions,1.3
-2016,Central government,Pension contributions,1.4
-2017,Central government,Pension contributions,1.4
-1998,Local government,Pension contributions,0.1
-1999,Local government,Pension contributions,0.1
-2000,Local government,Pension contributions,0.1
-2001,Local government,Pension contributions,0.1
-2002,Local government,Pension contributions,0.2
-2003,Local government,Pension contributions,0.1
-2004,Local government,Pension contributions,0.2
-2005,Local government,Pension contributions,0.2
-2006,Local government,Pension contributions,0.2
-2007,Local government,Pension contributions,0.2
-2008,Local government,Pension contributions,0.2
-2009,Local government,Pension contributions,0.2
-2010,Local government,Pension contributions,0.2
-2011,Local government,Pension contributions,0.2
-2012,Local government,Pension contributions,0.2
-2013,Local government,Pension contributions,0.2
-2014,Local government,Pension contributions,0.2
-2015,Local government,Pension contributions,0.2
-2016,Local government,Pension contributions,0.2
-2017,Local government,Pension contributions,0.1
-1998,,Pension contributions,0.8
-1999,,Pension contributions,0.9
-2000,,Pension contributions,0.9
-2001,,Pension contributions,1.0
-2002,,Pension contributions,1.1
-2003,,Pension contributions,1.1
-2004,,Pension contributions,1.1
-2005,,Pension contributions,1.2
-2006,,Pension contributions,1.2
-2007,,Pension contributions,1.2
-2008,,Pension contributions,1.3
-2009,,Pension contributions,1.5
-2010,,Pension contributions,1.4
-2011,,Pension contributions,1.4
-2012,,Pension contributions,1.4
-2013,,Pension contributions,1.4
-2014,,Pension contributions,1.4
-2015,,Pension contributions,1.5
-2016,,Pension contributions,1.5
-2017,,Pension contributions,1.5
-1998,Central government,Current grants to central government,0.0
-1999,Central government,Current grants to central government,0.0
-2000,Central government,Current grants to central government,0.0
-2001,Central government,Current grants to central government,0.0
-2002,Central government,Current grants to central government,0.0
-2003,Central government,Current grants to central government,0.0
-2004,Central government,Current grants to central government,0.0
-2005,Central government,Current grants to central government,0.0
-2006,Central government,Current grants to central government,0.0
-2007,Central government,Current grants to central government,0.0
-2008,Central government,Current grants to central government,0.0
-2009,Central government,Current grants to central government,0.0
-2010,Central government,Current grants to central government,0.0
-2011,Central government,Current grants to central government,0.0
-2012,Central government,Current grants to central government,0.0
-2013,Central government,Current grants to central government,0.0
-2014,Central government,Current grants to central government,0.0
-2015,Central government,Current grants to central government,0.0
-2016,Central government,Current grants to central government,0.0
-2017,Central government,Current grants to central government,0.0
-1998,,Current grants to central government,0.0
-1999,,Current grants to central government,0.0
+Year,Revenue category,Source of revenue,Value
+1998,Central government revenue,,23.217074888994695
+1999,Central government revenue,,23.902263554155045
+2000,Central government revenue,,24.925145673379568
+2001,Central government revenue,,25.01178777171549
+2002,Central government revenue,,24.685408692756123
+2003,Central government revenue,,25.213065200050373
+2004,Central government revenue,,26.89707966187273
+2005,Central government revenue,,28.072957969865183
+2006,Central government revenue,,28.937955592459822
+2007,Central government revenue,,29.89576341080495
+2008,Central government revenue,,31.510390361967545
+2009,Central government revenue,,30.08805768947207
+2010,Central government revenue,,31.586185398769636
+2011,Central government revenue,,32.53848079230068
+2012,Central government revenue,,33.208412589654806
+2013,Central government revenue,,33.91967283192612
+2014,Central government revenue,,33.629164456044
+2015,Central government revenue,,34.16362473984484
+2016,Central government revenue,,35.338843294115726
+2017,Central government revenue,,36.84212892205341
+1998,Local government revenue,,6.029510930333264
+1999,Local government revenue,,6.245803626779697
+2000,Local government revenue,,6.348763323128575
+2001,Local government revenue,,6.80329364402041
+2002,Local government revenue,,7.20036545738638
+2003,Local government revenue,,7.650405138754777
+2004,Local government revenue,,8.062705440427479
+2005,Local government revenue,,8.412810921706097
+2006,Local government revenue,,8.999672652077063
+2007,Local government revenue,,9.043885255775336
+2008,Local government revenue,,9.482778345455467
+2009,Local government revenue,,10.354719382774404
+2010,Local government revenue,,10.651238161598195
+2011,Local government revenue,,10.152761867823608
+2012,Local government revenue,,10.019443847069892
+2013,Local government revenue,,9.625537406779152
+2014,Local government revenue,,9.585859349915603
+2015,Local government revenue,,9.282635873736305
+2016,Local government revenue,,8.831880190340408
+2017,Local government revenue,,8.791093529922984
+1998,,,29.24658581932796
+1999,,,30.14806718093474
+2000,,,31.273908996508144
+2001,,,31.81508141573591
+2002,,,31.885774150142502
+2003,,,32.86347033880516
+2004,,,34.95978510230021
+2005,,,36.48576889157128
+2006,,,37.93762824453688
+2007,,,38.93964866658028
+2008,,,40.99316870742301
+2009,,,40.44277707224647
+2010,,,42.23742356036782
+2011,,,42.691242660124296
+2012,,,43.2278564367247
+2013,,,43.54521023870527
+2014,,,43.2150238059596
+2015,,,43.44626061358115
+2016,,,44.17072348445614
+2017,,,45.633222451976394
+1998,Central government revenue,Taxes,17.85032829419871
+1999,Central government revenue,Taxes,18.394673728285834
+2000,Central government revenue,Taxes,19.21247599012165
+2001,Central government revenue,Taxes,19.049562266574327
+2002,Central government revenue,Taxes,18.830880893941433
+2003,Central government revenue,Taxes,18.96243236368396
+2004,Central government revenue,Taxes,19.945117357043017
+2005,Central government revenue,Taxes,20.722947793926718
+2006,Central government revenue,Taxes,21.48611394673239
+2007,Central government revenue,Taxes,22.145728791332733
+2008,Central government revenue,Taxes,22.075549932725078
+2009,Central government revenue,Taxes,21.493850998393178
+2010,Central government revenue,Taxes,23.078752303503162
+2011,Central government revenue,Taxes,23.974785102871014
+2012,Central government revenue,Taxes,23.65130886153747
+2013,Central government revenue,Taxes,24.087095974928733
+2014,Central government revenue,Taxes,24.22833620648159
+2015,Central government revenue,Taxes,24.584643261186734
+2016,Central government revenue,Taxes,25.47610488625677
+2017,Central government revenue,Taxes,26.433566084289808
+1998,Local government revenue,Taxes,0.8049545386322882
+1999,Local government revenue,Taxes,0.8459192640404996
+2000,Local government revenue,Taxes,0.8960997734866378
+2001,Local government revenue,Taxes,0.9449836409925404
+2002,Local government revenue,Taxes,1.0090911352977092
+2003,Local government revenue,Taxes,1.096257807039857
+2004,Local government revenue,Taxes,1.154538254070805
+2005,Local government revenue,Taxes,1.1832745000339198
+2006,Local government revenue,Taxes,1.2169472696103647
+2007,Local government revenue,Taxes,1.2513062246645248
+2008,Local government revenue,Taxes,1.3135770335526349
+2009,Local government revenue,Taxes,1.4095408166536212
+2010,Local government revenue,Taxes,1.4236451734159692
+2011,Local government revenue,Taxes,1.414363606844237
+2012,Local government revenue,Taxes,1.4120823032095406
+2013,Local government revenue,Taxes,1.4400731880644642
+2014,Local government revenue,Taxes,1.449780559885702
+2015,Local government revenue,Taxes,1.4641560843101695
+2016,Local government revenue,Taxes,1.5092479198019417
+2017,Local government revenue,Taxes,1.5719180476889731
+1998,,Taxes,18.655282832831
+1999,,Taxes,19.24059299232633
+2000,,Taxes,20.10857576360829
+2001,,Taxes,19.994545907566867
+2002,,Taxes,19.839972029239146
+2003,,Taxes,20.058690170723818
+2004,,Taxes,21.09965561111383
+2005,,Taxes,21.906222293960642
+2006,,Taxes,22.703061216342764
+2007,,Taxes,23.397035015997247
+2008,,Taxes,23.389126966277708
+2009,,Taxes,22.903391815046803
+2010,,Taxes,24.502397476919132
+2011,,Taxes,25.389148709715247
+2012,,Taxes,25.063391164747014
+2013,,Taxes,25.527169162993196
+2014,,Taxes,25.67811676636729
+2015,,Taxes,26.048799345496906
+2016,,Taxes,26.985352806058717
+2017,,Taxes,28.005484131978783
+1998,Central government revenue,National insurance contributions,3.805239637170817
+1999,Central government revenue,National insurance contributions,3.947947925660965
+2000,Central government revenue,National insurance contributions,4.052221821683947
+2001,Central government revenue,National insurance contributions,4.12817248011447
+2002,Central government revenue,National insurance contributions,4.045679621220773
+2003,Central government revenue,National insurance contributions,4.416889136947026
+2004,Central government revenue,National insurance contributions,4.779097060478887
+2005,Central government revenue,National insurance contributions,4.9393654425129645
+2006,Central government revenue,National insurance contributions,5.106969773354336
+2007,Central government revenue,National insurance contributions,5.1837445867102385
+2008,Central government revenue,National insurance contributions,5.486854463499937
+2009,Central government revenue,National insurance contributions,5.504406964186531
+2010,Central government revenue,National insurance contributions,5.578030309975888
+2011,Central government revenue,National insurance contributions,5.718620058268014
+2012,Central government revenue,National insurance contributions,5.796978229448509
+2013,Central government revenue,National insurance contributions,5.7769016508156055
+2014,Central government revenue,National insurance contributions,5.772039356929648
+2015,Central government revenue,National insurance contributions,5.8952309237207245
+2016,Central government revenue,National insurance contributions,6.18423537870064
+2017,Central government revenue,National insurance contributions,6.55708392020538
+1998,,National insurance contributions,3.805239637170817
+1999,,National insurance contributions,3.947947925660965
+2000,,National insurance contributions,4.052221821683947
+2001,,National insurance contributions,4.12817248011447
+2002,,National insurance contributions,4.045679621220773
+2003,,National insurance contributions,4.416889136947026
+2004,,National insurance contributions,4.779097060478887
+2005,,National insurance contributions,4.9393654425129645
+2006,,National insurance contributions,5.106969773354336
+2007,,National insurance contributions,5.1837445867102385
+2008,,National insurance contributions,5.486854463499937
+2009,,National insurance contributions,5.504406964186531
+2010,,National insurance contributions,5.578030309975888
+2011,,National insurance contributions,5.718620058268014
+2012,,National insurance contributions,5.796978229448509
+2013,,National insurance contributions,5.7769016508156055
+2014,,National insurance contributions,5.772039356929648
+2015,,National insurance contributions,5.8952309237207245
+2016,,National insurance contributions,6.18423537870064
+2017,,National insurance contributions,6.55708392020538
+1998,Central government revenue,Interest and dividends,0.6040211102182332
+1999,Central government revenue,Interest and dividends,0.5427019460039395
+2000,Central government revenue,Interest and dividends,0.5414664722561484
+2001,Central government revenue,Interest and dividends,0.5391965480957435
+2002,Central government revenue,Interest and dividends,0.4478256625350671
+2003,Central government revenue,Interest and dividends,0.4652119044855442
+2004,Central government revenue,Interest and dividends,0.4362017929456079
+2005,Central government revenue,Interest and dividends,0.4044058304618473
+2006,Central government revenue,Interest and dividends,0.3717737124790275
+2007,Central government revenue,Interest and dividends,0.4285584785451034
+2008,Central government revenue,Interest and dividends,0.5306654776128815
+2009,Central government revenue,Interest and dividends,0.4939949539779242
+2010,Central government revenue,Interest and dividends,0.4453439439641341
+2011,Central government revenue,Interest and dividends,0.4472701525250976
+2012,Central government revenue,Interest and dividends,0.6562784621189515
+2013,Central government revenue,Interest and dividends,1.4534692177208781
+2014,Central government revenue,Interest and dividends,0.8844782815910982
+2015,Central government revenue,Interest and dividends,0.8968408235451596
+2016,Central government revenue,Interest and dividends,0.9250966223310809
+2017,Central government revenue,Interest and dividends,1.0045751046380371
+1998,Local government revenue,Interest and dividends,0.024703752456910262
+1999,Local government revenue,Interest and dividends,-0.002504778212325875
+2000,Local government revenue,Interest and dividends,0.004371546478282157
+2001,Local government revenue,Interest and dividends,-0.04839362590550033
+2002,Local government revenue,Interest and dividends,-0.08460134328558186
+2003,Local government revenue,Interest and dividends,-0.1395327012790086
+2004,Local government revenue,Interest and dividends,-0.09621654816045422
+2005,Local government revenue,Interest and dividends,-0.06936013231059303
+2006,Local government revenue,Interest and dividends,-0.06632502341050912
+2007,Local government revenue,Interest and dividends,-0.028529781922351168
+2008,Local government revenue,Interest and dividends,0.003180979306334446
+2009,Local government revenue,Interest and dividends,-0.07308514302599302
+2010,Local government revenue,Interest and dividends,-0.07913278263181539
+2011,Local government revenue,Interest and dividends,-0.05332966527460832
+2012,Local government revenue,Interest and dividends,-0.13375633008639426
+2013,Local government revenue,Interest and dividends,-0.027009880933256732
+2014,Local government revenue,Interest and dividends,-0.03977798383807821
+2015,Local government revenue,Interest and dividends,-0.0434647111508949
+2016,Local government revenue,Interest and dividends,-0.04204061488968908
+2017,Local government revenue,Interest and dividends,-0.049197358826056116
+1998,,Interest and dividends,0.6287248626751435
+1999,,Interest and dividends,0.5401971677916135
+2000,,Interest and dividends,0.5458380187344305
+2001,,Interest and dividends,0.4908029221902432
+2002,,Interest and dividends,0.3632243192494853
+2003,,Interest and dividends,0.3256792032065356
+2004,,Interest and dividends,0.3399852447851536
+2005,,Interest and dividends,0.33504569815125423
+2006,,Interest and dividends,0.30544868906851835
+2007,,Interest and dividends,0.4000286966227523
+2008,,Interest and dividends,0.533846456919216
+2009,,Interest and dividends,0.4209098109519311
+2010,,Interest and dividends,0.3662111613323187
+2011,,Interest and dividends,0.39394048725048936
+2012,,Interest and dividends,0.5225221320325572
+2013,,Interest and dividends,1.4264593367876208
+2014,,Interest and dividends,0.8447002977530199
+2015,,Interest and dividends,0.8533761123942647
+2016,,Interest and dividends,0.8830560074413919
+2017,,Interest and dividends,0.9553777458119812
+1998,Central government revenue,Other receipts,0.7042005714897153
+1999,Central government revenue,Other receipts,0.6829695258941885
+2000,Central government revenue,Other receipts,0.7357648995754892
+2001,Central government revenue,Other receipts,0.7636383374304423
+2002,Central government revenue,Other receipts,0.772322217550504
+2003,Central government revenue,Other receipts,0.7970651210230093
+2004,Central government revenue,Other receipts,0.7964558528918352
+2005,Central government revenue,Other receipts,0.8146599014220582
+2006,Central government revenue,Other receipts,0.8219056211455352
+2007,Central government revenue,Other receipts,0.8232482686092871
+2008,Central government revenue,Other receipts,0.8891116194477262
+2009,Central government revenue,Other receipts,0.9754593611052992
+2010,Central government revenue,Other receipts,1.0175524648629817
+2011,Central government revenue,Other receipts,1.0566715073015416
+2012,Central government revenue,Other receipts,1.1394572282598732
+2013,Central government revenue,Other receipts,1.1881624840377594
+2014,Central government revenue,Other receipts,1.2627394018385678
+2015,Central government revenue,Other receipts,1.2168051835156597
+2016,Central government revenue,Other receipts,1.1645453419201797
+2017,Central government revenue,Other receipts,1.2022635779715705
+1998,Local government revenue,Other receipts,0.2851703517627635
+1999,Local government revenue,Other receipts,0.29083258132005985
+2000,Local government revenue,Other receipts,0.2971979059619824
+2001,Local government revenue,Other receipts,0.3072995244999271
+2002,Local government revenue,Other receipts,0.32373093199927777
+2003,Local government revenue,Other receipts,0.3322236573373209
+2004,Local government revenue,Other receipts,0.3516880725864878
+2005,Local government revenue,Other receipts,0.37598338163979983
+2006,Local government revenue,Other receipts,0.40051645693207705
+2007,Local government revenue,Other receipts,0.41287544052930814
+2008,Local government revenue,Other receipts,0.4380822378022
+2009,Local government revenue,Other receipts,0.48303801068535107
+2010,Local government revenue,Other receipts,0.5008686842756686
+2011,Local government revenue,Other receipts,0.5214017696880046
+2012,Local government revenue,Other receipts,0.5420826755267038
+2013,Local government revenue,Other receipts,0.5603461185548625
+2014,Local government revenue,Other receipts,0.5711208663560245
+2015,Local government revenue,Other receipts,0.584783836709127
+2016,Local government revenue,Other receipts,0.6042576785050601
+2017,Local government revenue,Other receipts,0.6168399812200945
+1998,,Other receipts,0.9893709232524788
+1999,,Other receipts,0.9738021072142482
+2000,,Other receipts,1.0329628055374716
+2001,,Other receipts,1.070937861930369
+2002,,Other receipts,1.0960531495497816
+2003,,Other receipts,1.1292887783603305
+2004,,Other receipts,1.1481439254783228
+2005,,Other receipts,1.190643283061858
+2006,,Other receipts,1.2224220780776125
+2007,,Other receipts,1.236123709138595
+2008,,Other receipts,1.3271938572499262
+2009,,Other receipts,1.4584973717906502
+2010,,Other receipts,1.51842114913865
+2011,,Other receipts,1.5780732769895462
+2012,,Other receipts,1.6815399037865768
+2013,,Other receipts,1.7485086025926218
+2014,,Other receipts,1.8338602681945928
+2015,,Other receipts,1.8015890202247864
+2016,,Other receipts,1.7688030204252396
+2017,,Other receipts,1.8191035591916649
+1998,Central government revenue,Market output and output for own final use,0.20150793428514596
+1999,Central government revenue,Market output and output for own final use,0.2241080728306012
+2000,Central government revenue,Market output and output for own final use,0.22563905284056365
+2001,Central government revenue,Market output and output for own final use,0.273816367116662
+2002,Central government revenue,Market output and output for own final use,0.28972450969821056
+2003,Central government revenue,Market output and output for own final use,0.2939447746855575
+2004,Central government revenue,Market output and output for own final use,0.5818839019158253
+2005,Central government revenue,Market output and output for own final use,0.7198014405385995
+2006,Central government revenue,Market output and output for own final use,0.7721761109013702
+2007,Central government revenue,Market output and output for own final use,0.8794736283042129
+2008,Central government revenue,Market output and output for own final use,0.9221491589100068
+2009,Central government revenue,Market output and output for own final use,1.0947618234451777
+2010,Central government revenue,Market output and output for own final use,1.0780623985770998
+2011,Central government revenue,Market output and output for own final use,1.0019888695463934
+2012,Central government revenue,Market output and output for own final use,0.9119547706887478
+2013,Central government revenue,Market output and output for own final use,0.9905438189031048
+2014,Central government revenue,Market output and output for own final use,1.0052404319931365
+2015,Central government revenue,Market output and output for own final use,1.0197410412821728
+2016,Central government revenue,Market output and output for own final use,1.0667552159811202
+2017,Central government revenue,Market output and output for own final use,1.1585603404357336
+1998,Local government revenue,Market output,0.7031951862153062
+1999,Local government revenue,Market output,0.7627049656532288
+2000,Local government revenue,Market output,0.8336202861278051
+2001,Local government revenue,Market output,0.9392941201090558
+2002,Local government revenue,Market output,1.0198098575239372
+2003,Local government revenue,Market output,1.066005141718302
+2004,Local government revenue,Market output,1.0814860660944343
+2005,Local government revenue,Market output,1.1416935100905543
+2006,Local government revenue,Market output,1.330891720834954
+2007,Local government revenue,Market output,1.3067529938196594
+2008,Local government revenue,Market output,1.345721666542962
+2009,Local government revenue,Market output,1.4774971777128783
+2010,Local government revenue,Market output,1.487593171545662
+2011,Local government revenue,Market output,1.3995936572650112
+2012,Local government revenue,Market output,1.3602913187307208
+2013,Local government revenue,Market output,1.3551772115020706
+2014,Local government revenue,Market output,1.3659928918012392
+2015,Local government revenue,Market output,1.3591895821134186
+2016,Local government revenue,Market output,1.3405269496589023
+2017,Local government revenue,Market output,1.3603943780155234
+1998,,Market output,0.904703120500452
+1999,,Market output,0.98681303848383
+2000,,Market output,1.0592593389683689
+2001,,Market output,1.2131104872257177
+2002,,Market output,1.309534367222147
+2003,,Market output,1.3599499164038595
+2004,,Market output,1.6633699680102598
+2005,,Market output,1.8614949506291536
+2006,,Market output,2.1030678317363236
+2007,,Market output,2.186226622123873
+2008,,Market output,2.2678708254529694
+2009,,Market output,2.572259001158056
+2010,,Market output,2.565655570122762
+2011,,Market output,2.4015825268114046
+2012,,Market output,2.2722460894194687
+2013,,Market output,2.3457210304051754
+2014,,Market output,2.3712333237943755
+2015,,Market output,2.3789306233955907
+2016,,Market output,2.4072821656400225
+2017,,Market output,2.5189547184512566
+1998,Central government revenue,Pension contributions,0.685744570380919
+1999,Central government revenue,Pension contributions,0.7317431238619784
+2000,Central government revenue,Pension contributions,0.784053674520206
+2001,Central government revenue,Pension contributions,0.8532319421473821
+2002,Central government revenue,Pension contributions,0.9077098875746404
+2003,Central government revenue,Pension contributions,0.9305472892377068
+2004,Central government revenue,Pension contributions,0.9472051656523212
+2005,Central government revenue,Pension contributions,1.0339689201106954
+2006,Central government revenue,Pension contributions,1.0349669173292515
+2007,Central government revenue,Pension contributions,1.0747886265718491
+2008,Central government revenue,Pension contributions,1.1221044019731
+2009,Central government revenue,Pension contributions,1.2600484786459083
+2010,Central government revenue,Pension contributions,1.262972963061436
+2011,Central government revenue,Pension contributions,1.2465386454039524
+2012,Central government revenue,Pension contributions,1.226146000563477
+2013,Central government revenue,Pension contributions,1.260315895805028
+2014,Central government revenue,Pension contributions,1.2653313183386556
+2015,Central government revenue,Pension contributions,1.3385683933509844
+2016,Central government revenue,Pension contributions,1.3611410675879043
+2017,Central government revenue,Pension contributions,1.3674368425784411
+1998,Local government revenue,Pension contributions,0.11971266088857388
+1999,Local government revenue,Pension contributions,0.12746538013836115
+2000,Local government revenue,Pension contributions,0.12684210243138688
+2001,Local government revenue,Pension contributions,0.1336710423660036
+2002,Local government revenue,Pension contributions,0.1461701941683771
+2003,Local government revenue,Pension contributions,0.13879181967929705
+2004,Local government revenue,Pension contributions,0.15678169822509122
+2005,Local government revenue,Pension contributions,0.16918959761766075
+2006,Local government revenue,Pension contributions,0.1627044641360125
+2007,Local government revenue,Pension contributions,0.1606121056369399
+2008,Local government revenue,Pension contributions,0.17618160824733062
+2009,Local government revenue,Pension contributions,0.19716669765305767
+2010,Local government revenue,Pension contributions,0.17694571525492103
+2011,Local government revenue,Pension contributions,0.17137651420170116
+2012,Local government revenue,Pension contributions,0.17076576749293293
+2013,Local government revenue,Pension contributions,0.15470780591004513
+2014,Local government revenue,Pension contributions,0.15218252593371148
+2015,Local government revenue,Pension contributions,0.15080859350572096
+2016,Local government revenue,Pension contributions,0.14978238396688742
+2017,Local government revenue,Pension contributions,0.13855174962789815
+1998,,Pension contributions,0.8054572312694929
+1999,,Pension contributions,0.8592085040003395
+2000,,Pension contributions,0.910895776951593
+2001,,Pension contributions,0.9869029845133857
+2002,,Pension contributions,1.0538800817430174
+2003,,Pension contributions,1.0693391089170041
+2004,,Pension contributions,1.1039868638774124
+2005,,Pension contributions,1.203158517728356
+2006,,Pension contributions,1.1976713814652642
+2007,,Pension contributions,1.2354007322087892
+2008,,Pension contributions,1.2982860102204306
+2009,,Pension contributions,1.4572151762989658
+2010,,Pension contributions,1.439918678316357
+2011,,Pension contributions,1.4179151596056536
+2012,,Pension contributions,1.39691176805641
+2013,,Pension contributions,1.4150237017150733
+2014,,Pension contributions,1.4175138442723672
+2015,,Pension contributions,1.4893769868567055
+2016,,Pension contributions,1.510923451554792
+2017,,Pension contributions,1.5059885922063394
+1998,Central government revenue,Current grants to Central government revenue,0.0005026926372045694
+1999,Central government revenue,Current grants to Central government revenue,0.00034788586282303815
+2000,Central government revenue,Current grants to Central government revenue,0.0
+2001,Central government revenue,Current grants to Central government revenue,0.000523174334113517
+2002,Central government revenue,Current grants to Central government revenue,0.0008294249341723711
+2003,Central government revenue,Current grants to Central government revenue,0.0006174013330929584
+2004,Central government revenue,Current grants to Central government revenue,0.0007238862557526336
+2005,Central government revenue,Current grants to Central government revenue,0.0007602712647872762
+2006,Central government revenue,Current grants to Central government revenue,0.0013687021168118825
+2007,Central government revenue,Current grants to Central government revenue,0.004282247968851929
+2008,Central government revenue,Current grants to Central government revenue,0.0021764595253867267
+2009,Central government revenue,Current grants to Central government revenue,0.0022147013038179703
+2010,Central government revenue,Current grants to Central government revenue,0.002177440796530764
+2011,Central government revenue,Current grants to Central government revenue,0.002536823401012023
+2012,Central government revenue,Current grants to Central government revenue,0.006723936826112881
+2013,Central government revenue,Current grants to Central government revenue,0.005717817536274107
+2014,Central government revenue,Current grants to Central government revenue,0.006506239377770772
+2015,Central government revenue,Current grants to Central government revenue,0.005736721685789935
+2016,Central government revenue,Current grants to Central government revenue,0.015079785775649343
+2017,Central government revenue,Current grants to Central government revenue,0.018929745172665248
+1998,,Current grants to Central government revenue,0.0005026926372045694
+1999,,Current grants to Central government revenue,0.00034788586282303815
+2000,,Current grants to Central government revenue,0.0
+2001,,Current grants to Central government revenue,0.000523174334113517
+2002,,Current grants to Central government revenue,0.0008294249341723711
+2003,,Current grants to Central government revenue,0.0006174013330929584
+2004,,Current grants to Central government revenue,0.0007238862557526336
+2005,,Current grants to Central government revenue,0.0007602712647872762
+2006,,Current grants to Central government revenue,0.0013687021168118825
+2007,,Current grants to Central government revenue,0.004282247968851929
+2008,,Current grants to Central government revenue,0.0021764595253867267
+2009,,Current grants to Central government revenue,0.0022147013038179703
+2010,,Current grants to Central government revenue,0.002177440796530764
+2011,,Current grants to Central government revenue,0.002536823401012023
+2012,,Current grants to Central government revenue,0.006723936826112881
+2013,,Current grants to Central government revenue,0.005717817536274107
+2014,,Current grants to Central government revenue,0.006506239377770772
+2015,,Current grants to Central government revenue,0.005736721685789935
+2016,,Current grants to Central government revenue,0.015079785775649343
+2017,,Current grants to Central government revenue,0.018929745172665248
+1998,Local government revenue,Current grants from Central government revenue,4.33593943559107
+1999,Local government revenue,Current grants from Central government revenue,4.4794479468820025
+2000,Local government revenue,Current grants from Central government revenue,4.4420965129855094
+2001,Local government revenue,Current grants from Central government revenue,4.787372141097502
+2002,Local government revenue,Current grants from Central government revenue,5.049794206913448
+2003,Local government revenue,Current grants from Central government revenue,5.424426372421423
+2004,Local government revenue,Current grants from Central government revenue,5.713875512074122
+2005,Local government revenue,Current grants from Central government revenue,5.928302910786262
+2006,Local government revenue,Current grants from Central government revenue,6.2935774793753705
+2007,Local government revenue,Current grants from Central government revenue,6.29034419819356
+2008,Local government revenue,Current grants from Central government revenue,6.577539718991172
+2009,Local government revenue,Current grants from Central government revenue,7.268183426224512
+2010,Local government revenue,Current grants from Central government revenue,7.581505047078561
+2011,Local government revenue,Current grants from Central government revenue,7.155082215627734
+2012,Local government revenue,Current grants from Central government revenue,7.1378201441367555
+2013,Local government revenue,Current grants from Central government revenue,6.6249356745527175
+2014,Local government revenue,Current grants from Central government revenue,6.562997059497179
+2015,Local government revenue,Current grants from Central government revenue,6.260055413630553
+2016,Local government revenue,Current grants from Central government revenue,5.776928841689668
+2017,Local government revenue,Current grants from Central government revenue,5.64900556404647
+1998,,Current grants from Central government revenue,4.33593943559107
+1999,,Current grants from Central government revenue,4.4794479468820025
+2000,,Current grants from Central government revenue,4.4420965129855094
+2001,,Current grants from Central government revenue,4.787372141097502
+2002,,Current grants from Central government revenue,5.049794206913448
+2003,,Current grants from Central government revenue,5.424426372421423
+2004,,Current grants from Central government revenue,5.713875512074122
+2005,,Current grants from Central government revenue,5.928302910786262
+2006,,Current grants from Central government revenue,6.2935774793753705
+2007,,Current grants from Central government revenue,6.29034419819356
+2008,,Current grants from Central government revenue,6.577539718991172
+2009,,Current grants from Central government revenue,7.268183426224512
+2010,,Current grants from Central government revenue,7.581505047078561
+2011,,Current grants from Central government revenue,7.155082215627734
+2012,,Current grants from Central government revenue,7.1378201441367555
+2013,,Current grants from Central government revenue,6.6249356745527175
+2014,,Current grants from Central government revenue,6.562997059497179
+2015,,Current grants from Central government revenue,6.260055413630553
+2016,,Current grants from Central government revenue,5.776928841689668
+2017,,Current grants from Central government revenue,5.64900556404647
+1998,Central government revenue,Capital transfers to Central government revenue,0.0013644514438409738
+1999,Central government revenue,Capital transfers to Central government revenue,0.001669852141550583
+2000,Central government revenue,Capital transfers to Central government revenue,0.001950382274925885
+2001,Central government revenue,Capital transfers to Central government revenue,0.029690143460942092
+2002,Central government revenue,Capital transfers to Central government revenue,0.029285080368086025
+2003,Central government revenue,Capital transfers to Central government revenue,0.03179616865428735
+2004,Central government revenue,Capital transfers to Central government revenue,0.1011027803867845
+2005,Central government revenue,Capital transfers to Central government revenue,0.14614753005410794
+2006,Central government revenue,Capital transfers to Central government revenue,0.06866322286006275
+2007,Central government revenue,Capital transfers to Central government revenue,0.0872577540666062
+2008,Central government revenue,Capital transfers to Central government revenue,1.2717220426798133
+2009,Central government revenue,Capital transfers to Central government revenue,0.12612141109110758
+2010,Central government revenue,Capital transfers to Central government revenue,0.012319730822476692
+2011,Central government revenue,Capital transfers to Central government revenue,0.015559183526207082
+2012,Central government revenue,Capital transfers to Central government revenue,0.7717523524054191
+2013,Central government revenue,Capital transfers to Central government revenue,0.1102721953424292
+2014,Central government revenue,Capital transfers to Central government revenue,0.14832109931113205
+2015,Central government revenue,Capital transfers to Central government revenue,0.14770766286475345
+2016,Central government revenue,Capital transfers to Central government revenue,0.06280705388713212
+2017,Central government revenue,Capital transfers to Central government revenue,0.06478068466740587
+1998,,Capital transfers to Central government revenue,0.0013644514438409738
+1999,,Capital transfers to Central government revenue,0.001669852141550583
+2000,,Capital transfers to Central government revenue,0.001950382274925885
+2001,,Capital transfers to Central government revenue,0.029690143460942092
+2002,,Capital transfers to Central government revenue,0.029285080368086025
+2003,,Capital transfers to Central government revenue,0.03179616865428735
+2004,,Capital transfers to Central government revenue,0.1011027803867845
+2005,,Capital transfers to Central government revenue,0.14614753005410794
+2006,,Capital transfers to Central government revenue,0.06866322286006275
+2007,,Capital transfers to Central government revenue,0.0872577540666062
+2008,,Capital transfers to Central government revenue,1.2717220426798133
+2009,,Capital transfers to Central government revenue,0.12612141109110758
+2010,,Capital transfers to Central government revenue,0.012319730822476692
+2011,,Capital transfers to Central government revenue,0.015559183526207082
+2012,,Capital transfers to Central government revenue,0.7717523524054191
+2013,,Capital transfers to Central government revenue,0.1102721953424292
+2014,,Capital transfers to Central government revenue,0.14832109931113205
+2015,,Capital transfers to Central government revenue,0.14770766286475345
+2016,,Capital transfers to Central government revenue,0.06280705388713212
+2017,,Capital transfers to Central government revenue,0.06478068466740587
+1998,Local government revenue,Capital grants from private sector,0.0265708965379558
+1999,Local government revenue,Capital grants from private sector,0.019133722455267097
+2000,Local government revenue,Capital grants from private sector,0.029995534297136032
+2001,Local government revenue,Capital grants from private sector,0.03171744400563197
+2002,Local government revenue,Capital grants from private sector,0.04568217329749367
+2003,Local government revenue,Capital grants from private sector,0.04871296518103442
+2004,Local government revenue,Capital grants from private sector,0.035832369659755364
+2005,Local government revenue,Capital grants from private sector,0.04029437703372563
+2006,Local government revenue,Capital grants from private sector,0.042657882640637
+2007,Local government revenue,Capital grants from private sector,0.042822479688519294
+2008,Local government revenue,Capital grants from private sector,0.04531500345164158
+2009,Local government revenue,Capital grants from private sector,0.052220325479497405
+2010,Local government revenue,Capital grants from private sector,0.03982424614707581
+2011,Local government revenue,Capital grants from private sector,0.044422596444388326
+2012,Local government revenue,Capital grants from private sector,0.050790729413778296
+2013,Local government revenue,Capital grants from private sector,0.05619797807080837
+2014,Local government revenue,Capital grants from private sector,0.07426634216577369
+2015,Local government revenue,Capital grants from private sector,0.07116635821020485
+2016,Local government revenue,Capital grants from private sector,0.07270792333579078
+2017,Local government revenue,Capital grants from private sector,0.07511962200445524
+1998,,Capital grants from private sector,0.0265708965379558
+1999,,Capital grants from private sector,0.019133722455267097
+2000,,Capital grants from private sector,0.029995534297136032
+2001,,Capital grants from private sector,0.03171744400563197
+2002,,Capital grants from private sector,0.04568217329749367
+2003,,Capital grants from private sector,0.04871296518103442
+2004,,Capital grants from private sector,0.035832369659755364
+2005,,Capital grants from private sector,0.04029437703372563
+2006,,Capital grants from private sector,0.042657882640637
+2007,,Capital grants from private sector,0.042822479688519294
+2008,,Capital grants from private sector,0.04531500345164158
+2009,,Capital grants from private sector,0.052220325479497405
+2010,,Capital grants from private sector,0.03982424614707581
+2011,,Capital grants from private sector,0.044422596444388326
+2012,,Capital grants from private sector,0.050790729413778296
+2013,,Capital grants from private sector,0.05619797807080837
+2014,,Capital grants from private sector,0.07426634216577369
+2015,,Capital grants from private sector,0.07116635821020485
+2016,,Capital grants from private sector,0.07270792333579078
+2017,,Capital grants from private sector,0.07511962200445524
+1998,Central government revenue,Gross operating surplus,0.6358343728298939
+1999,Central government revenue,Gross operating surplus,0.6238985063868365
+2000,Central government revenue,Gross operating surplus,0.6284266198933612
+2001,Central government revenue,Gross operating surplus,0.6260434875585873
+2002,Central government revenue,Gross operating surplus,0.6388486050667656
+2003,Central government revenue,Gross operating surplus,0.6854389599998024
+2004,Central government revenue,Gross operating surplus,0.6907081356973046
+2005,Central government revenue,Gross operating surplus,0.7090991604265942
+2006,Central government revenue,Gross operating surplus,0.7259824144589692
+2007,Central government revenue,Gross operating surplus,0.7313189713039334
+2008,Central government revenue,Gross operating surplus,0.7899431944063874
+2009,Central government revenue,Gross operating surplus,0.8628010026768745
+2010,Central government revenue,Gross operating surplus,0.8890261567940736
+2011,Central government revenue,Gross operating surplus,0.925489550542542
+2012,Central government revenue,Gross operating surplus,0.952187252193754
+2013,Central government revenue,Gross operating surplus,0.9528062231636956
+2014,Central government revenue,Gross operating surplus,0.9438278798175926
+2015,Central government revenue,Gross operating surplus,0.9416492713071404
+2016,Central government revenue,Gross operating surplus,0.9286000069052218
+2017,Central government revenue,Gross operating surplus,0.9229624301996864
+1998,Local government revenue,Gross operating surplus,0.2707358917516037
+1999,Local government revenue,Gross operating surplus,0.2771954554973968
+2000,Local government revenue,Gross operating surplus,0.28146033864016656
+2001,Local government revenue,Gross operating surplus,0.2926506431447486
+2002,Local government revenue,Gross operating surplus,0.3093116985282812
+2003,Local government revenue,Gross operating surplus,0.3164799233434505
+2004,Local government revenue,Gross operating surplus,0.33527998412276144
+2005,Local government revenue,Gross operating surplus,0.3565672231852325
+2006,Local government revenue,Gross operating surplus,0.3812975980418435
+2007,Local government revenue,Gross operating surplus,0.3922984048348248
+2008,Local government revenue,Gross operating surplus,0.4168199024388066
+2009,Local government revenue,Gross operating surplus,0.4598419286085206
+2010,Local government revenue,Gross operating surplus,0.4800110934878475
+2011,Local government revenue,Gross operating surplus,0.5001488269728593
+2012,Local government revenue,Gross operating surplus,0.5206327613541453
+2013,Local government revenue,Gross operating surplus,0.5388906889425578
+2014,Local government revenue,Gross operating surplus,0.5507029118859472
+2015,Local government revenue,Gross operating surplus,0.5638008727052468
+2016,Local government revenue,Gross operating surplus,0.5796324391071142
+2017,Local government revenue,Gross operating surplus,0.5949134426164004
+1998,,Gross operating surplus,0.9065702645814976
+1999,,Gross operating surplus,0.9010939618842334
+2000,,Gross operating surplus,0.9098869585335276
+2001,,Gross operating surplus,0.918694130703336
+2002,,Gross operating surplus,0.9481603035950468
+2003,,Gross operating surplus,1.001918883343253
+2004,,Gross operating surplus,1.025988119820066
+2005,,Gross operating surplus,1.0656663836118263
+2006,,Gross operating surplus,1.1072800125008126
+2007,,Gross operating surplus,1.1236173761387582
+2008,,Gross operating surplus,1.2067630968451941
+2009,,Gross operating surplus,1.3226429312853951
+2010,,Gross operating surplus,1.3690372502819212
+2011,,Gross operating surplus,1.4256383775154011
+2012,,Gross operating surplus,1.472820013547899
+2013,,Gross operating surplus,1.491696912106253
+2014,,Gross operating surplus,1.4945307917035398
+2015,,Gross operating surplus,1.505450144012387
+2016,,Gross operating surplus,1.508232446012336
+2017,,Gross operating surplus,1.5178758728160868
+1998,Central government revenue,Current grants to central government,0.0005026926372045694
+1999,Central government revenue,Current grants to central government,0.00034788586282303815
+2000,Central government revenue,Current grants to central government,0.0
+2001,Central government revenue,Current grants to central government,0.000523174334113517
+2002,Central government revenue,Current grants to central government,0.0008294249341723711
+2003,Central government revenue,Current grants to central government,0.0006174013330929584
+2004,Central government revenue,Current grants to central government,0.0007238862557526336
+2005,Central government revenue,Current grants to central government,0.0007602712647872762
+2006,Central government revenue,Current grants to central government,0.0013687021168118825
+2007,Central government revenue,Current grants to central government,0.004282247968851929
+2008,Central government revenue,Current grants to central government,0.0021764595253867267
+2009,Central government revenue,Current grants to central government,0.0022147013038179703
+2010,Central government revenue,Current grants to central government,0.002177440796530764
+2011,Central government revenue,Current grants to central government,0.002536823401012023
+2012,Central government revenue,Current grants to central government,0.006723936826112881
+2013,Central government revenue,Current grants to central government,0.005717817536274107
+2014,Central government revenue,Current grants to central government,0.006506239377770772
+2015,Central government revenue,Current grants to central government,0.005736721685789935
+2016,Central government revenue,Current grants to central government,0.015079785775649343
+2017,Central government revenue,Current grants to central government,0.018929745172665248
+1998,,Current grants to central government,0.0005026926372045694
+1999,,Current grants to central government,0.00034788586282303815
 2000,,Current grants to central government,0.0
-2001,,Current grants to central government,0.0
-2002,,Current grants to central government,0.0
-2003,,Current grants to central government,0.0
-2004,,Current grants to central government,0.0
-2005,,Current grants to central government,0.0
-2006,,Current grants to central government,0.0
-2007,,Current grants to central government,0.0
-2008,,Current grants to central government,0.0
-2009,,Current grants to central government,0.0
-2010,,Current grants to central government,0.0
-2011,,Current grants to central government,0.0
-2012,,Current grants to central government,0.0
-2013,,Current grants to central government,0.0
-2014,,Current grants to central government,0.0
-2015,,Current grants to central government,0.0
-2016,,Current grants to central government,0.0
-2017,,Current grants to central government,0.0
-1998,Local government,Current grants from central government,4.3
-1999,Local government,Current grants from central government,4.5
-2000,Local government,Current grants from central government,4.4
-2001,Local government,Current grants from central government,4.8
-2002,Local government,Current grants from central government,5.1
-2003,Local government,Current grants from central government,5.4
-2004,Local government,Current grants from central government,5.7
-2005,Local government,Current grants from central government,5.9
-2006,Local government,Current grants from central government,6.3
-2007,Local government,Current grants from central government,6.3
-2008,Local government,Current grants from central government,6.6
-2009,Local government,Current grants from central government,7.3
-2010,Local government,Current grants from central government,7.6
-2011,Local government,Current grants from central government,7.2
-2012,Local government,Current grants from central government,7.1
-2013,Local government,Current grants from central government,6.6
-2014,Local government,Current grants from central government,6.6
-2015,Local government,Current grants from central government,6.3
-2016,Local government,Current grants from central government,5.8
-2017,Local government,Current grants from central government,5.7
-1998,,Current grants from central government,4.3
-1999,,Current grants from central government,4.5
-2000,,Current grants from central government,4.4
-2001,,Current grants from central government,4.8
-2002,,Current grants from central government,5.1
-2003,,Current grants from central government,5.4
-2004,,Current grants from central government,5.7
-2005,,Current grants from central government,5.9
-2006,,Current grants from central government,6.3
-2007,,Current grants from central government,6.3
-2008,,Current grants from central government,6.6
-2009,,Current grants from central government,7.3
-2010,,Current grants from central government,7.6
-2011,,Current grants from central government,7.2
-2012,,Current grants from central government,7.1
-2013,,Current grants from central government,6.6
-2014,,Current grants from central government,6.6
-2015,,Current grants from central government,6.3
-2016,,Current grants from central government,5.8
-2017,,Current grants from central government,5.7
-1998,Central government,Capital transfers to central government,0.0
-1999,Central government,Capital transfers to central government,0.0
-2000,Central government,Capital transfers to central government,0.0
-2001,Central government,Capital transfers to central government,0.0
-2002,Central government,Capital transfers to central government,0.0
-2003,Central government,Capital transfers to central government,0.0
-2004,Central government,Capital transfers to central government,0.1
-2005,Central government,Capital transfers to central government,0.2
-2006,Central government,Capital transfers to central government,0.1
-2007,Central government,Capital transfers to central government,0.1
-2008,Central government,Capital transfers to central government,1.3
-2009,Central government,Capital transfers to central government,0.1
-2010,Central government,Capital transfers to central government,0.0
-2011,Central government,Capital transfers to central government,0.0
-2012,Central government,Capital transfers to central government,0.8
-2013,Central government,Capital transfers to central government,0.1
-2014,Central government,Capital transfers to central government,0.2
-2015,Central government,Capital transfers to central government,0.2
-2016,Central government,Capital transfers to central government,0.1
-2017,Central government,Capital transfers to central government,0.1
-1998,,Capital transfers to central government,0.0
-1999,,Capital transfers to central government,0.0
-2000,,Capital transfers to central government,0.0
-2001,,Capital transfers to central government,0.0
-2002,,Capital transfers to central government,0.0
-2003,,Capital transfers to central government,0.0
-2004,,Capital transfers to central government,0.1
-2005,,Capital transfers to central government,0.2
-2006,,Capital transfers to central government,0.1
-2007,,Capital transfers to central government,0.1
-2008,,Capital transfers to central government,1.3
-2009,,Capital transfers to central government,0.1
-2010,,Capital transfers to central government,0.0
-2011,,Capital transfers to central government,0.0
-2012,,Capital transfers to central government,0.8
-2013,,Capital transfers to central government,0.1
-2014,,Capital transfers to central government,0.2
-2015,,Capital transfers to central government,0.2
-2016,,Capital transfers to central government,0.1
-2017,,Capital transfers to central government,0.1
-1998,Local government,Capital grants from private sector,0.0
-1999,Local government,Capital grants from private sector,0.0
-2000,Local government,Capital grants from private sector,0.0
-2001,Local government,Capital grants from private sector,0.0
-2002,Local government,Capital grants from private sector,0.1
-2003,Local government,Capital grants from private sector,0.1
-2004,Local government,Capital grants from private sector,0.0
-2005,Local government,Capital grants from private sector,0.0
-2006,Local government,Capital grants from private sector,0.0
-2007,Local government,Capital grants from private sector,0.0
-2008,Local government,Capital grants from private sector,0.1
-2009,Local government,Capital grants from private sector,0.1
-2010,Local government,Capital grants from private sector,0.0
-2011,Local government,Capital grants from private sector,0.0
-2012,Local government,Capital grants from private sector,0.1
-2013,Local government,Capital grants from private sector,0.1
-2014,Local government,Capital grants from private sector,0.1
-2015,Local government,Capital grants from private sector,0.1
-2016,Local government,Capital grants from private sector,0.1
-2017,Local government,Capital grants from private sector,0.1
-1998,,Capital grants from private sector,0.0
-1999,,Capital grants from private sector,0.0
-2000,,Capital grants from private sector,0.0
-2001,,Capital grants from private sector,0.0
-2002,,Capital grants from private sector,0.1
-2003,,Capital grants from private sector,0.1
-2004,,Capital grants from private sector,0.0
-2005,,Capital grants from private sector,0.0
-2006,,Capital grants from private sector,0.0
-2007,,Capital grants from private sector,0.0
-2008,,Capital grants from private sector,0.1
-2009,,Capital grants from private sector,0.1
-2010,,Capital grants from private sector,0.0
-2011,,Capital grants from private sector,0.0
-2012,,Capital grants from private sector,0.1
-2013,,Capital grants from private sector,0.1
-2014,,Capital grants from private sector,0.1
-2015,,Capital grants from private sector,0.1
-2016,,Capital grants from private sector,0.1
-2017,,Capital grants from private sector,0.1
-1998,Central government,Gross operating surplus,0.6
-1999,Central government,Gross operating surplus,0.6
-2000,Central government,Gross operating surplus,0.6
-2001,Central government,Gross operating surplus,0.6
-2002,Central government,Gross operating surplus,0.6
-2003,Central government,Gross operating surplus,0.7
-2004,Central government,Gross operating surplus,0.7
-2005,Central government,Gross operating surplus,0.7
-2006,Central government,Gross operating surplus,0.7
-2007,Central government,Gross operating surplus,0.7
-2008,Central government,Gross operating surplus,0.8
-2009,Central government,Gross operating surplus,0.9
-2010,Central government,Gross operating surplus,0.9
-2011,Central government,Gross operating surplus,0.9
-2012,Central government,Gross operating surplus,1.0
-2013,Central government,Gross operating surplus,1.0
-2014,Central government,Gross operating surplus,0.9
-2015,Central government,Gross operating surplus,0.9
-2016,Central government,Gross operating surplus,0.9
-2017,Central government,Gross operating surplus,0.9
-1998,Local government,Gross operating surplus,0.3
-1999,Local government,Gross operating surplus,0.3
-2000,Local government,Gross operating surplus,0.3
-2001,Local government,Gross operating surplus,0.3
-2002,Local government,Gross operating surplus,0.3
-2003,Local government,Gross operating surplus,0.3
-2004,Local government,Gross operating surplus,0.3
-2005,Local government,Gross operating surplus,0.4
-2006,Local government,Gross operating surplus,0.4
-2007,Local government,Gross operating surplus,0.4
-2008,Local government,Gross operating surplus,0.4
-2009,Local government,Gross operating surplus,0.5
-2010,Local government,Gross operating surplus,0.5
-2011,Local government,Gross operating surplus,0.5
-2012,Local government,Gross operating surplus,0.5
-2013,Local government,Gross operating surplus,0.5
-2014,Local government,Gross operating surplus,0.6
-2015,Local government,Gross operating surplus,0.6
-2016,Local government,Gross operating surplus,0.6
-2017,Local government,Gross operating surplus,0.6
-1998,,Gross operating surplus,0.9
-1999,,Gross operating surplus,0.9
-2000,,Gross operating surplus,0.9
-2001,,Gross operating surplus,0.9
-2002,,Gross operating surplus,1.0
-2003,,Gross operating surplus,1.0
-2004,,Gross operating surplus,1.0
-2005,,Gross operating surplus,1.1
-2006,,Gross operating surplus,1.1
-2007,,Gross operating surplus,1.1
-2008,,Gross operating surplus,1.2
-2009,,Gross operating surplus,1.3
-2010,,Gross operating surplus,1.4
-2011,,Gross operating surplus,1.4
-2012,,Gross operating surplus,1.5
-2013,,Gross operating surplus,1.5
-2014,,Gross operating surplus,1.5
-2015,,Gross operating surplus,1.5
-2016,,Gross operating surplus,1.5
-2017,,Gross operating surplus,1.5
+2001,,Current grants to central government,0.000523174334113517
+2002,,Current grants to central government,0.0008294249341723711
+2003,,Current grants to central government,0.0006174013330929584
+2004,,Current grants to central government,0.0007238862557526336
+2005,,Current grants to central government,0.0007602712647872762
+2006,,Current grants to central government,0.0013687021168118825
+2007,,Current grants to central government,0.004282247968851929
+2008,,Current grants to central government,0.0021764595253867267
+2009,,Current grants to central government,0.0022147013038179703
+2010,,Current grants to central government,0.002177440796530764
+2011,,Current grants to central government,0.002536823401012023
+2012,,Current grants to central government,0.006723936826112881
+2013,,Current grants to central government,0.005717817536274107
+2014,,Current grants to central government,0.006506239377770772
+2015,,Current grants to central government,0.005736721685789935
+2016,,Current grants to central government,0.015079785775649343
+2017,,Current grants to central government,0.018929745172665248
+1998,Local government revenue,Current grants from central government,4.33593943559107
+1999,Local government revenue,Current grants from central government,4.4794479468820025
+2000,Local government revenue,Current grants from central government,4.4420965129855094
+2001,Local government revenue,Current grants from central government,4.787372141097502
+2002,Local government revenue,Current grants from central government,5.049794206913448
+2003,Local government revenue,Current grants from central government,5.424426372421423
+2004,Local government revenue,Current grants from central government,5.713875512074122
+2005,Local government revenue,Current grants from central government,5.928302910786262
+2006,Local government revenue,Current grants from central government,6.2935774793753705
+2007,Local government revenue,Current grants from central government,6.29034419819356
+2008,Local government revenue,Current grants from central government,6.577539718991172
+2009,Local government revenue,Current grants from central government,7.268183426224512
+2010,Local government revenue,Current grants from central government,7.581505047078561
+2011,Local government revenue,Current grants from central government,7.155082215627734
+2012,Local government revenue,Current grants from central government,7.1378201441367555
+2013,Local government revenue,Current grants from central government,6.6249356745527175
+2014,Local government revenue,Current grants from central government,6.562997059497179
+2015,Local government revenue,Current grants from central government,6.260055413630553
+2016,Local government revenue,Current grants from central government,5.776928841689668
+2017,Local government revenue,Current grants from central government,5.64900556404647
+1998,,Current grants from central government,4.33593943559107
+1999,,Current grants from central government,4.4794479468820025
+2000,,Current grants from central government,4.4420965129855094
+2001,,Current grants from central government,4.787372141097502
+2002,,Current grants from central government,5.049794206913448
+2003,,Current grants from central government,5.424426372421423
+2004,,Current grants from central government,5.713875512074122
+2005,,Current grants from central government,5.928302910786262
+2006,,Current grants from central government,6.2935774793753705
+2007,,Current grants from central government,6.29034419819356
+2008,,Current grants from central government,6.577539718991172
+2009,,Current grants from central government,7.268183426224512
+2010,,Current grants from central government,7.581505047078561
+2011,,Current grants from central government,7.155082215627734
+2012,,Current grants from central government,7.1378201441367555
+2013,,Current grants from central government,6.6249356745527175
+2014,,Current grants from central government,6.562997059497179
+2015,,Current grants from central government,6.260055413630553
+2016,,Current grants from central government,5.776928841689668
+2017,,Current grants from central government,5.64900556404647
+1998,Central government revenue,Capital transfers to central government,0.0013644514438409738
+1999,Central government revenue,Capital transfers to central government,0.001669852141550583
+2000,Central government revenue,Capital transfers to central government,0.001950382274925885
+2001,Central government revenue,Capital transfers to central government,0.029690143460942092
+2002,Central government revenue,Capital transfers to central government,0.029285080368086025
+2003,Central government revenue,Capital transfers to central government,0.03179616865428735
+2004,Central government revenue,Capital transfers to central government,0.1011027803867845
+2005,Central government revenue,Capital transfers to central government,0.14614753005410794
+2006,Central government revenue,Capital transfers to central government,0.06866322286006275
+2007,Central government revenue,Capital transfers to central government,0.0872577540666062
+2008,Central government revenue,Capital transfers to central government,1.2717220426798133
+2009,Central government revenue,Capital transfers to central government,0.12612141109110758
+2010,Central government revenue,Capital transfers to central government,0.012319730822476692
+2011,Central government revenue,Capital transfers to central government,0.015559183526207082
+2012,Central government revenue,Capital transfers to central government,0.7717523524054191
+2013,Central government revenue,Capital transfers to central government,0.1102721953424292
+2014,Central government revenue,Capital transfers to central government,0.14832109931113205
+2015,Central government revenue,Capital transfers to central government,0.14770766286475345
+2016,Central government revenue,Capital transfers to central government,0.06280705388713212
+2017,Central government revenue,Capital transfers to central government,0.06478068466740587
+1998,,Capital transfers to central government,0.0013644514438409738
+1999,,Capital transfers to central government,0.001669852141550583
+2000,,Capital transfers to central government,0.001950382274925885
+2001,,Capital transfers to central government,0.029690143460942092
+2002,,Capital transfers to central government,0.029285080368086025
+2003,,Capital transfers to central government,0.03179616865428735
+2004,,Capital transfers to central government,0.1011027803867845
+2005,,Capital transfers to central government,0.14614753005410794
+2006,,Capital transfers to central government,0.06866322286006275
+2007,,Capital transfers to central government,0.0872577540666062
+2008,,Capital transfers to central government,1.2717220426798133
+2009,,Capital transfers to central government,0.12612141109110758
+2010,,Capital transfers to central government,0.012319730822476692
+2011,,Capital transfers to central government,0.015559183526207082
+2012,,Capital transfers to central government,0.7717523524054191
+2013,,Capital transfers to central government,0.1102721953424292
+2014,,Capital transfers to central government,0.14832109931113205
+2015,,Capital transfers to central government,0.14770766286475345
+2016,,Capital transfers to central government,0.06280705388713212
+2017,,Capital transfers to central government,0.06478068466740587
