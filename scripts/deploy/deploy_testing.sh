@@ -27,4 +27,4 @@ rm scripts/deploy/deploy_key*
 
 # Push the files over, removing anything existing already.
 ssh -oStrictHostKeyChecking=no travis@$TEST_SERVER "rm -rf ~/www/data/$BASEURL || true"
-scp -oStrictHostKeyChecking=no -r _site travis@$TEST_SERVER:~/www/data/$BASEURL
+scp -oStrictHostKeyChecking=no -rC _site travis@$TEST_SERVER:~/www/data/$BASEURL
