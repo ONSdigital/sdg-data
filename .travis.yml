@@ -6,9 +6,8 @@ git:
   depth: false
 
 branches:
-  only:
-  - master
-  - develop
+  except:
+  - gh-pages
 install:
   - pip install -r scripts/requirements.txt
 before_script:
@@ -28,3 +27,9 @@ deploy:
   skip_cleanup: true
   on:
     branch: master
+- provider: script
+  script: scripts/deploy/deploy_testing.sh
+  skip_cleanup: true
+  on:
+    all_branches: true
+
