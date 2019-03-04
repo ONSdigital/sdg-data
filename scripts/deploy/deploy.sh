@@ -43,6 +43,9 @@ echo "Copying to $OUTDIR"
 cp -r _site/* $OUTDIR
 cp README.md $OUTDIR
 
+DTIME=$(date -u)
+printf "\n\nLast updated ${DTIME}\n" >> $OUTDIR/README.md
+
 # Now let's go have some fun with the cloned repo
 cd out
 git config user.name "Travis CI"
