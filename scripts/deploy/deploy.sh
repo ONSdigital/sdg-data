@@ -12,7 +12,7 @@ if [ "$TRAVIS_PULL_REQUEST" != "false" -o "$TRAVIS_BRANCH" != "$SOURCE_BRANCH" ]
 fi
 
 # Keys
-openssl aes-256-cbc -K $encrypted_64c33928a335_key -iv $encrypted_64c33928a335_iv -in scripts/deploy/keys.tar.enc -out scripts/deploy/keys.tar -d
+openssl aes-256-cbc -K $encrypted_110f8461dee3_key -iv $encrypted_110f8461dee3_iv -in scripts/deploy/keys.tar.enc -out scripts/deploy/keys.tar -d
 tar xvf scripts/deploy/keys.tar -C scripts/deploy/
 rm scripts/deploy/keys.tar
 
@@ -42,6 +42,9 @@ rm -rf $OUTDIR/**/* || exit 0
 echo "Copying to $OUTDIR"
 cp -r _site/* $OUTDIR
 cp README.md $OUTDIR
+
+DTIME=$(date -u)
+printf "\n\nLast updated ${DTIME}\n" >> $OUTDIR/README.md
 
 # Now let's go have some fun with the cloned repo
 cd out
