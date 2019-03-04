@@ -42,7 +42,9 @@ rm -rf $OUTDIR/**/* || exit 0
 
 echo "Copying to $OUTDIR"
 cp -r _site/* $OUTDIR
-cp README.md $OUTDIR
+
+DTIME=$(date -u)
+cat README.md | sed "s/{{UPDATEDATE}}/${DTIME}/g" > $OUTDIR/README.md
 
 # Now let's go have some fun with the cloned repo
 cd out

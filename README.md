@@ -85,6 +85,8 @@ Packages:
 
 This uses the `sdg` package from the `sdg-build` repository during the build.
 
+Last updated at {{UPDATEDATE}}
+
 ## License
 
 Data (`data/` and `meta/`) is under [open government license v3](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
