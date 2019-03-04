@@ -23,8 +23,8 @@ rm scripts/deploy/keys.tar
 chmod 600 ./scripts/deploy/deploy_key_test
 eval `ssh-agent -s`
 ssh-add scripts/deploy/deploy_key_test
-#rm scripts/deploy/deploy_key*
 
 # Push the files over, removing anything existing already.
 ssh -oStrictHostKeyChecking=no travis@$TEST_SERVER "rm -rf ~/www/data/$BASEURL || true"
-rsync -rvz -e "ssh -i scripts/deploy/deploy_key_test -oStrictHostKeyChecking=no" --checksum --link-dest="../sdg-indicators" _site/ travis@$TEST_SERVER:~/www/data/$BASEURL
+rsync -rvz -e "ssh -i scripts/deploy/deploy_key_test -oStrictHostKeyChecking=no" --checksum --link-dest="../develop" _site/ travis@$TEST_SERVER:~/www/data/$BASEURL
+rm scripts/deploy/deploy_key*
