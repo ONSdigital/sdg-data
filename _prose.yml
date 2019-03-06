@@ -7,7 +7,7 @@ prose:
       - name: "title"
         field:
             element: text
-            label: "Page Title (TEST)"
+            label: "Page Title"
             scope: page
       - name: "sdg_goal"
         field:
@@ -25,7 +25,7 @@ prose:
             label: "Layout"
             scope: page
     ######### Global Metadata #########
-      - name: "indicator_name"
+      - name: "indicator_name (TEST)"
         field:
             element: text
             label: "Indicator name"
