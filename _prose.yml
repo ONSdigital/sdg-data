@@ -7,7 +7,7 @@ prose:
       - name: "title"
         field:
             element: text
-            label: "Page Title"
+            label: "Page Title (TEST)"
             scope: page
       - name: "sdg_goal"
         field:
