@@ -140,8 +140,11 @@ prose:
             options:
               - name: 'notstarted'
                 value: 'notstarted'
+                translation_key: 'status.exploring_data_sources'
               - name: 'complete'
                 value: 'complete'
+                translation_key: 'status.reported_online'
+                
             scope: data
       - name: data_non_statistical
         field:
