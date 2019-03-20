@@ -25,7 +25,7 @@ prose:
             label: "Layout"
             scope: page
     ######### Global Metadata #########
-      - name: "indicator_name (TEST)"
+      - name: "indicator_name"
         field:
             element: text
             label: "Indicator name"
