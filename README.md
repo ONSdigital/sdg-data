@@ -52,6 +52,13 @@ e.g. https://ONSdigital.github.io/sdg-data/data/1-2-1.json
 /meta/<id>.json
 ```
 
+## Statistics
+
+Statistics generated from the data and metadata. Currently just the reporting status statistics.
+
+```
+/stats/reporting.json
+```
 
 ## Build time routes
 
