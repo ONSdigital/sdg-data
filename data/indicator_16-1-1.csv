@@ -1,4 +1,4 @@
-Year,Units,Age,Sex,Region,Police force area,GeoCode,Value
+Year,Units,Age,Sex,Region,Police Force Area,GeoCode,Value
 2007/08,"Rate per 100,000 population",,,,,,1.34038152149
 2007/08,"Rate per 100,000 population",,Male,,,,1.98731120543548
 2007/08,"Rate per 100,000 population",,Female,,,,0.717937247233776
@@ -362,55 +362,55 @@ Year,Units,Age,Sex,Region,Police force area,GeoCode,Value
 2017/18,"Rate per 100,000 population",75 and over,Male,,,,0.928768809401486
 2017/18,"Rate per 100,000 population",75 and over,Female,,,,0.792433556247294
 2017/18,"Rate per 100,000 population",75 and over,,,,,0.850273653316886
-2017/18,,,,,Cleveland,,0.529894904177338
-2017/18,,,,,Durham,,0.476183673566568
-2017/18,,,,,Northumbria,,1.03550540948025
-2017/18,,,,North East,,E12000001,0.794032805654421
-2017/18,,,,,Cheshire,,0.569189218417824
-2017/18,,,,,Cumbria,,0.601956358164033
-2017/18,,,,,Greater Manchester,,3.00128733789028
-2017/18,,,,,Lancashire,,0.939284010635378
-2017/18,,,,,Merseyside,,2.04683006016974
-2017/18,,,,North West,,E12000002,1.87363257541681
-2017/18,,,,,Humberside,,1.72070023896224
-2017/18,,,,,North Yorkshire,,0.731889396874344
-2017/18,,,,,South Yorkshire,,0.574116667683331
-2017/18,,,,,West Yorkshire,,0.996950631438188
-2017/18,,,,Yorkshire and the Humber Region,,,0.972453868072871
-2017/18,,,,,Derbyshire,,0.857959961868446
-2017/18,,,,,Leicestershire,,1.38475258164039
-2017/18,,,,,Lincolnshire,,0.665627400418812
-2017/18,,,,,Northamptonshire,,0.674573568318787
-2017/18,,,,,Nottinghamshire,,1.3076909664708
-2017/18,,,,East Midlands,,E12000004,1.02689500899685
-2017/18,,,,,Staffordshire,,0.976733324276351
-2017/18,,,,,Warwickshire,,2.30267003446919
-2017/18,,,,,West Mercia,,1.33580798310281
-2017/18,,,,,West Midlands,,1.4841388698386
-2017/18,,,,West Midlands,,E12000005,1.43327442120454
-2017/18,,,,,Bedfordshire,,0.601865783930183
-2017/18,,,,,Cambridgeshire,,0.708256261280456
-2017/18,,,,,Essex,,1.42827400228194
-2017/18,,,,,Hertfordshire,,0.592751161368882
-2017/18,,,,,Norfolk,,0.890481861997573
-2017/18,,,,,Suffolk,,0.396312706577998
-2017/18,,,,East,,E12000007,0.875425067504999
-2017/18,,,,,Metropolitan Police,,1.81460477851217
-2017/18,,,,London,,E12000007,1.83569384298086
-2017/18,,,,,Hampshire,,1.01071918228775
-2017/18,,,,,Kent,,0.709509390629673
-2017/18,,,,,Surrey,,0.506191993561237
-2017/18,,,,,Sussex,,1.77224626897854
-2017/18,,,,,Thames Valley,,0.919849345401756
-2017/18,,,,South East,,E12000008,1.28132270802344
-2017/18,,,,,Avon and Somerset,,0.825965524199019
-2017/18,,,,,Devon and Cornwall,,0.914758252262883
-2017/18,,,,,Dorset,,0.389262075882749
-2017/18,,,,,Gloucestershire,,0.477601295254712
-2017/18,,,,,Wiltshire,,0.13958565394483
-2017/18,,,,South West,,E12000009,0.665549502852509
-2017/18,,,,,Dyfed-Powys,,1.35460973693478
-2017/18,,,,,Gwent,,1.19099674517603
-2017/18,,,,,North Wales,,1.43619557536867
-2017/18,,,,,South Wales,,0.755068016526928
-2017/18,,,,Wales,,,1.087942556633
+2017/18,"Rate per 100,000 population",,,,Cleveland,E23000013,0.529894904177338
+2017/18,"Rate per 100,000 population",,,,Durham,E23000008,0.476183673566568
+2017/18,"Rate per 100,000 population",,,,Northumbria,E23000007,1.03550540948025
+2017/18,"Rate per 100,000 population",,,North East,,E12000001,0.794032805654421
+2017/18,"Rate per 100,000 population",,,,Cheshire,E23000006,0.569189218417824
+2017/18,"Rate per 100,000 population",,,,Cumbria,E23000002,0.601956358164033
+2017/18,"Rate per 100,000 population",,,,Greater Manchester,E23000005,3.00128733789028
+2017/18,"Rate per 100,000 population",,,,Lancashire,E23000003,0.939284010635378
+2017/18,"Rate per 100,000 population",,,,Merseyside,E23000004,2.04683006016974
+2017/18,"Rate per 100,000 population",,,North West,,E12000002,1.87363257541681
+2017/18,"Rate per 100,000 population",,,,Humberside,E23000012,1.72070023896224
+2017/18,"Rate per 100,000 population",,,,North Yorkshire,E23000009,0.731889396874344
+2017/18,"Rate per 100,000 population",,,,South Yorkshire,E23000011,0.574116667683331
+2017/18,"Rate per 100,000 population",,,,West Yorkshire,E23000010,0.996950631438188
+2017/18,"Rate per 100,000 population",,,Yorkshire and The Humber,,E12000003,0.972453868072871
+2017/18,"Rate per 100,000 population",,,,Derbyshire,E23000018,0.857959961868446
+2017/18,"Rate per 100,000 population",,,,Leicestershire,E23000021,1.38475258164039
+2017/18,"Rate per 100,000 population",,,,Lincolnshire,E23000020,0.665627400418812
+2017/18,"Rate per 100,000 population",,,,Northamptonshire,E23000022,0.674573568318787
+2017/18,"Rate per 100,000 population",,,,Nottinghamshire,E23000019,1.3076909664708
+2017/18,"Rate per 100,000 population",,,East Midlands,,E12000004,1.02689500899685
+2017/18,"Rate per 100,000 population",,,,Staffordshire,E23000015,0.976733324276351
+2017/18,"Rate per 100,000 population",,,,Warwickshire,E23000017,2.30267003446919
+2017/18,"Rate per 100,000 population",,,,West Mercia,E23000016,1.33580798310281
+2017/18,"Rate per 100,000 population",,,,West Midlands,E23000014,1.4841388698386
+2017/18,"Rate per 100,000 population",,,West Midlands,,E12000005,1.43327442120454
+2017/18,"Rate per 100,000 population",,,,Bedfordshire,E23000026,0.601865783930183
+2017/18,"Rate per 100,000 population",,,,Cambridgeshire,E23000023,0.708256261280456
+2017/18,"Rate per 100,000 population",,,,Essex,E23000028,1.42827400228194
+2017/18,"Rate per 100,000 population",,,,Hertfordshire,E23000027,0.592751161368882
+2017/18,"Rate per 100,000 population",,,,Norfolk,E23000024,0.890481861997573
+2017/18,"Rate per 100,000 population",,,,Suffolk,E23000025,0.396312706577998
+2017/18,"Rate per 100,000 population",,,East,,E12000007,0.875425067504999
+2017/18,"Rate per 100,000 population",,,,Metropolitan Police,E23000001,1.81460477851217
+2017/18,"Rate per 100,000 population",,,London,,E12000007,1.83569384298086
+2017/18,"Rate per 100,000 population",,,,Hampshire,E23000030,1.01071918228775
+2017/18,"Rate per 100,000 population",,,,Kent,E23000032,0.709509390629673
+2017/18,"Rate per 100,000 population",,,,Surrey,E23000031,0.506191993561237
+2017/18,"Rate per 100,000 population",,,,Sussex,E23000033,1.77224626897854
+2017/18,"Rate per 100,000 population",,,,Thames Valley,E23000029,0.919849345401756
+2017/18,"Rate per 100,000 population",,,South East,,E12000008,1.28132270802344
+2017/18,"Rate per 100,000 population",,,,Avon and Somerset,E23000036,0.825965524199019
+2017/18,"Rate per 100,000 population",,,,Devon and Cornwall,E23000035,0.914758252262883
+2017/18,"Rate per 100,000 population",,,,Dorset,E23000039,0.389262075882749
+2017/18,"Rate per 100,000 population",,,,Gloucestershire,E23000037,0.477601295254712
+2017/18,"Rate per 100,000 population",,,,Wiltshire,E23000038,0.13958565394483
+2017/18,"Rate per 100,000 population",,,South West,,E12000009,0.665549502852509
+2017/18,"Rate per 100,000 population",,,,Dyfed-Powys,W15000004,1.35460973693478
+2017/18,"Rate per 100,000 population",,,,Gwent,W15000002,1.19099674517603
+2017/18,"Rate per 100,000 population",,,,North Wales,W15000001,1.43619557536867
+2017/18,"Rate per 100,000 population",,,,South Wales,W15000003,0.755068016526928
+2017/18,"Rate per 100,000 population",,,Wales,,W92000004,1.087942556633
