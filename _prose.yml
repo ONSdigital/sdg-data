@@ -138,10 +138,13 @@ prose:
             element: select 
             label: "Reporting status"
             options:
-              - name: 'notstarted'
-                value: 'notstarted'
               - name: 'complete'
                 value: 'complete'
+                translation_key: 'status.reported_online'
+              - name: 'notstarted'
+                value: 'notstarted'
+                translation_key: 'status.exploring_data_sources'
+                
             scope: data
       - name: data_non_statistical
         field:
