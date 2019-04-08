@@ -1,13 +1,542 @@
-Year,Units,Urbanisation,Household composition,Age of oldest person,Age of youngest person,Income quintile,Living in poverty,Economic activity,Disability status,Ethnicity of household reference person (HRP),Length of residence,Sub-national area,Decent homes criteria,Household,Value
-2008,Percentage (%),All dwellings,,,,,,,,,,,,,33.0949066157
-2008,Percentage (%),City centre,,,,,,,,,,,,,45.8978646807809
-2008,Percentage (%),Other urban centre,,,,,,,,,,,,,37.5398538620745
-2008,Percentage (%),Suburban residential,,,,,,,,,,,,,28.5719278036183
-2008,Percentage (%),Rural residential,,,,,,,,,,,,,33.5351703422605
-2008,Percentage (%),Village centre,,,,,,,,,,,,,47.3787438972137
-2008,Percentage (%),Rural,,,,,,,,,,,,,60.5911789207547
-2008,Percentage (%),All city and urban centres,,,,,,,,,,,,,38.7338399109331
-2008,Percentage (%),All rural areas,,,,,,,,,,,,,40.8341920554479
+Year,Units,Urbanisation,Household composition,Age of oldest person,Age of youngest person,Income quintile,Living in poverty,Economic activity,Disability status,Ethnicity of household reference person (HRP),Length of residence,Sub-national area,Decent homes criteria,Household/Dwelling,Value
+2008,Percentage (%),,,,,,,,,,,,,Dwelling,33.0949066157
+2008,Percentage (%),City centre,,,,,,,,,,,,Dwelling,45.8978646807809
+2008,Percentage (%),Other urban centre,,,,,,,,,,,,Dwelling,37.5398538620745
+2008,Percentage (%),Suburban residential,,,,,,,,,,,,Dwelling,28.5719278036183
+2008,Percentage (%),Rural residential,,,,,,,,,,,,Dwelling,33.5351703422605
+2008,Percentage (%),Village centre,,,,,,,,,,,,Dwelling,47.3787438972137
+2008,Percentage (%),Rural,,,,,,,,,,,,Dwelling,60.5911789207547
+2008,Percentage (%),All city and urban centres,,,,,,,,,,,,Dwelling,38.7338399109331
+2008,Percentage (%),All rural areas,,,,,,,,,,,,Dwelling,40.8341920554479
+2008,Percentage (%),,,,,,,,,,,North,,Dwelling,32.362775815
+2008,Percentage (%),,,,,,,,,,,South East,,Dwelling,32.4527659636
+2008,Percentage (%),,,,,,,,,,,Rest of England,,Dwelling,34.1007117543
+2009,Percentage (%),,,,,,,,,,,,,Dwelling,30.0944924350444
+2009,Percentage (%),City centre,,,,,,,,,,,,Dwelling,40.3711848585478
+2009,Percentage (%),Other urban centre,,,,,,,,,,,,Dwelling,34.190303003958
+2009,Percentage (%),Suburban residential,,,,,,,,,,,,Dwelling,25.7960330462114
+2009,Percentage (%),Rural residential,,,,,,,,,,,,Dwelling,31.4916739715745
+2009,Percentage (%),Village centre,,,,,,,,,,,,Dwelling,39.3483288680786
+2009,Percentage (%),Rural,,,,,,,,,,,,Dwelling,60.4915279797016
+2009,Percentage (%),All city and urban centres,,,,,,,,,,,,Dwelling,35.1823427674644
+2009,Percentage (%),All rural areas,,,,,,,,,,,,Dwelling,37.9722329869722
+2009,Percentage (%),,,,,,,,,,,North,,Dwelling,28.1624417161
+2009,Percentage (%),,,,,,,,,,,South East,,Dwelling,29.5624318099
+2009,Percentage (%),,,,,,,,,,,Rest of England,,Dwelling,31.8707033308
+2010,Percentage (%),,,,,,,,,,,,,Dwelling,26.522
+2010,Percentage (%),City centre,,,,,,,,,,,,Dwelling,34.814
+2010,Percentage (%),Other urban centre,,,,,,,,,,,,Dwelling,30.523
+2010,Percentage (%),Suburban residential,,,,,,,,,,,,Dwelling,23.094
+2010,Percentage (%),Rural residential,,,,,,,,,,,,Dwelling,25.67
+2010,Percentage (%),Village centre,,,,,,,,,,,,Dwelling,34.623
+2010,Percentage (%),Rural,,,,,,,,,,,,Dwelling,55.764
+2010,Percentage (%),All city and urban centres,,,,,,,,,,,,Dwelling,31.233
+2010,Percentage (%),All rural areas,,,,,,,,,,,,Dwelling,32.782
+2010,Percentage (%),,,,,,,,,,,North,,Dwelling,24.575
+2010,Percentage (%),,,,,,,,,,,South East,,Dwelling,25.442
+2010,Percentage (%),,,,,,,,,,,Rest of England,,Dwelling,28.716
+2011,Percentage (%),,,,,,,,,,,,,Dwelling,23.574
+2011,Percentage (%),City centre,,,,,,,,,,,,Dwelling,32.34
+2011,Percentage (%),Other urban centre,,,,,,,,,,,,Dwelling,29.003
+2011,Percentage (%),Suburban residential,,,,,,,,,,,,Dwelling,19.957
+2011,Percentage (%),Rural residential,,,,,,,,,,,,Dwelling,22.074
+2011,Percentage (%),Village centre,,,,,,,,,,,,Dwelling,32.641
+2011,Percentage (%),Rural,,,,,,,,,,,,Dwelling,51.574
+2011,Percentage (%),All city and urban centres,,,,,,,,,,,,Dwelling,29.55
+2011,Percentage (%),All rural areas,,,,,,,,,,,,Dwelling,29.588
+2011,Percentage (%),,,,,,,,,,,North,,Dwelling,23.066
+2011,Percentage (%),,,,,,,,,,,South East,,Dwelling,20.892
+2011,Percentage (%),,,,,,,,,,,Rest of England,,Dwelling,25.918
+2012,Percentage (%),,,,,,,,,,,,,Dwelling,21.777
+2012,Percentage (%),City centre,,,,,,,,,,,,Dwelling,30.393
+2012,Percentage (%),Other urban centre,,,,,,,,,,,,Dwelling,28.388
+2012,Percentage (%),Suburban residential,,,,,,,,,,,,Dwelling,17.653
+2012,Percentage (%),Rural residential,,,,,,,,,,,,Dwelling,21.382
+2012,Percentage (%),Village centre,,,,,,,,,,,,Dwelling,33.172
+2012,Percentage (%),Rural,,,,,,,,,,,,Dwelling,45.368
+2012,Percentage (%),All city and urban centres,,,,,,,,,,,,Dwelling,28.693
+2012,Percentage (%),All rural areas,,,,,,,,,,,,Dwelling,28.44
+2012,Percentage (%),,,,,,,,,,,North,,Dwelling,21.046
+2012,Percentage (%),,,,,,,,,,,South East,,Dwelling,18.927
+2012,Percentage (%),,,,,,,,,,,Rest of England,,Dwelling,24.413
+2013,Percentage (%),,,,,,,,,,,,,Dwelling,20.579246876024
+2013,Percentage (%),City centre,,,,,,,,,,,,Dwelling,35.8871191828478
+2013,Percentage (%),Other urban centre,,,,,,,,,,,,Dwelling,26.2813952928083
+2013,Percentage (%),Suburban residential,,,,,,,,,,,,Dwelling,16.7704724945148
+2013,Percentage (%),Rural residential,,,,,,,,,,,,Dwelling,18.2026309824366
+2013,Percentage (%),Village centre,,,,,,,,,,,,Dwelling,31.0580478911331
+2013,Percentage (%),Rural,,,,,,,,,,,,Dwelling,42.4808655008911
+2013,Percentage (%),All city and urban centres,,,,,,,,,,,,Dwelling,27.6655660263092
+2013,Percentage (%),All rural areas,,,,,,,,,,,,Dwelling,25.0024709691261
+2013,Percentage (%),,,,,,,,,,,North,,Dwelling,19.5406048525
+2013,Percentage (%),,,,,,,,,,,South East,,Dwelling,19.2842768642
+2013,Percentage (%),,,,,,,,,,,Rest of England,,Dwelling,22.2959163378
+2014,Percentage (%),,,,,,,,,,,,,Dwelling,19.8414390582565
+2014,Percentage (%),City centre,,,,,,,,,,,,Dwelling,33.4774668877647
+2014,Percentage (%),Other urban centre,,,,,,,,,,,,Dwelling,24.0473863626907
+2014,Percentage (%),Suburban residential,,,,,,,,,,,,Dwelling,16.3756209513379
+2014,Percentage (%),Rural residential,,,,,,,,,,,,Dwelling,17.941760963355
+2014,Percentage (%),Village centre,,,,,,,,,,,,Dwelling,32.6544278627384
+2014,Percentage (%),Rural,,,,,,,,,,,,Dwelling,42.2421444615788
+2014,Percentage (%),All city and urban centres,,,,,,,,,,,,Dwelling,25.4599922492868
+2014,Percentage (%),All rural areas,,,,,,,,,,,,Dwelling,24.8201298207721
+2014,Percentage (%),,,,,,,,,,,North,,Dwelling,19.0908305425
+2014,Percentage (%),,,,,,,,,,,South East,,Dwelling,18.5798674554
+2014,Percentage (%),,,,,,,,,,,Rest of England,,Dwelling,21.3212502896
+2015,Percentage (%),,,,,,,,,,,,,Dwelling,19.4088030850508
+2015,Percentage (%),City centre,,,,,,,,,,,,Dwelling,26.4843361859644
+2015,Percentage (%),Other urban centre,,,,,,,,,,,,Dwelling,22.2769933249039
+2015,Percentage (%),Suburban residential,,,,,,,,,,,,Dwelling,16.2809527353166
+2015,Percentage (%),Rural residential,,,,,,,,,,,,Dwelling,20.1990316310637
+2015,Percentage (%),Village centre,,,,,,,,,,,,Dwelling,31.0314586607088
+2015,Percentage (%),Rural,,,,,,,,,,,,Dwelling,42.624444843786
+2015,Percentage (%),All rural areas,,,,,,,,,,,,Dwelling,26.1144305255438
+2015,Percentage (%),,,,,,,,,,,North,,Dwelling,20.0371376834
+2015,Percentage (%),,,,,,,,,,,South East,,Dwelling,16.7934079568
+2015,Percentage (%),,,,,,,,,,,Rest of England,,Dwelling,20.9416922656
+2008,Percentage (%),,,,,,,,,,,,Minimum standard,Dwelling,21.771587522288
+2008,Percentage (%),City centre,,,,,,,,,,,Minimum standard,Dwelling,28.492784318847
+2008,Percentage (%),Other urban centre,,,,,,,,,,,Minimum standard,Dwelling,22.8728518661875
+2008,Percentage (%),Suburban residential,,,,,,,,,,,Minimum standard,Dwelling,17.5761688081418
+2008,Percentage (%),Rural residential,,,,,,,,,,,Minimum standard,Dwelling,25.5853779389023
+2008,Percentage (%),Village centre,,,,,,,,,,,Minimum standard,Dwelling,38.4556706879175
+2008,Percentage (%),Rural,,,,,,,,,,,Minimum standard,Dwelling,54.1194067238737
+2008,Percentage (%),All city and urban centres,,,,,,,,,,,Minimum standard,Dwelling,23.6756889394519
+2008,Percentage (%),All rural areas,,,,,,,,,,,Minimum standard,Dwelling,32.9350417409394
+2008,Percentage (%),,,,,,,,,,,North,Minimum standard,Dwelling,22.6241817117
+2008,Percentage (%),,,,,,,,,,,South East,Minimum standard,Dwelling,18.6688232886
+2008,Percentage (%),,,,,,,,,,,Rest of England,Minimum standard,Dwelling,23.4486689546
+2009,Percentage (%),,,,,,,,,,,,Minimum standard,Dwelling,20.1986881577713
+2009,Percentage (%),City centre,,,,,,,,,,,Minimum standard,Dwelling,25.7693439655618
+2009,Percentage (%),Other urban centre,,,,,,,,,,,Minimum standard,Dwelling,20.9327508470442
+2009,Percentage (%),Suburban residential,,,,,,,,,,,Minimum standard,Dwelling,16.3998014098161
+2009,Percentage (%),Rural residential,,,,,,,,,,,Minimum standard,Dwelling,23.9471727851635
+2009,Percentage (%),Village centre,,,,,,,,,,,Minimum standard,Dwelling,31.2563891354266
+2009,Percentage (%),Rural,,,,,,,,,,,Minimum standard,Dwelling,55.6652655220324
+2009,Percentage (%),All city and urban centres,,,,,,,,,,,Minimum standard,Dwelling,21.7090304793604
+2009,Percentage (%),All rural areas,,,,,,,,,,,Minimum standard,Dwelling,30.7690555266771
+2009,Percentage (%),,,,,,,,,,,North,Minimum standard,Dwelling,20.1152288421
+2009,Percentage (%),,,,,,,,,,,South East,Minimum standard,Dwelling,16.9389475085
+2009,Percentage (%),,,,,,,,,,,Rest of England,Minimum standard,Dwelling,22.643345684
+2010,Percentage (%),,,,,,,,,,,,Minimum standard,Dwelling,17.048
+2010,Percentage (%),City centre,,,,,,,,,,,Minimum standard,Dwelling,20.73
+2010,Percentage (%),Other urban centre,,,,,,,,,,,Minimum standard,Dwelling,17.652
+2010,Percentage (%),Suburban residential,,,,,,,,,,,Minimum standard,Dwelling,14.274
+2010,Percentage (%),Rural residential,,,,,,,,,,,Minimum standard,Dwelling,18.63
+2010,Percentage (%),Village centre,,,,,,,,,,,Minimum standard,Dwelling,25.197
+2010,Percentage (%),Rural,,,,,,,,,,,Minimum standard,Dwelling,49.472
+2010,Percentage (%),All city and urban centres,,,,,,,,,,,Minimum standard,Dwelling,18.161
+2010,Percentage (%),All rural areas,,,,,,,,,,,Minimum standard,Dwelling,25.34
+2010,Percentage (%),,,,,,,,,,,North,Minimum standard,Dwelling,16.422
+2010,Percentage (%),,,,,,,,,,,South East,Minimum standard,Dwelling,14.0
+2010,Percentage (%),,,,,,,,,,,Rest of England,Minimum standard,Dwelling,19.733
+2011,Percentage (%),,,,,,,,,,,,Minimum standard,Dwelling,14.718
+2011,Percentage (%),City centre,,,,,,,,,,,Minimum standard,Dwelling,17.862
+2011,Percentage (%),Other urban centre,,,,,,,,,,,Minimum standard,Dwelling,17.471
+2011,Percentage (%),Suburban residential,,,,,,,,,,,Minimum standard,Dwelling,11.745
+2011,Percentage (%),Rural residential,,,,,,,,,,,Minimum standard,Dwelling,15.905
+2011,Percentage (%),Village centre,,,,,,,,,,,Minimum standard,Dwelling,22.764
+2011,Percentage (%),Rural,,,,,,,,,,,Minimum standard,Dwelling,43.298
+2011,Percentage (%),All city and urban centres,,,,,,,,,,,Minimum standard,Dwelling,17.535
+2011,Percentage (%),All rural areas,,,,,,,,,,,Minimum standard,Dwelling,22.172
+2011,Percentage (%),,,,,,,,,,,North,Minimum standard,Dwelling,14.374
+2011,Percentage (%),,,,,,,,,,,South East,Minimum standard,Dwelling,11.341
+2011,Percentage (%),,,,,,,,,,,Rest of England,Minimum standard,Dwelling,17.454
+2012,Percentage (%),,,,,,,,,,,,Minimum standard,Dwelling,13.377
+2012,Percentage (%),City centre,,,,,,,,,,,Minimum standard,Dwelling,17.574
+2012,Percentage (%),Other urban centre,,,,,,,,,,,Minimum standard,Dwelling,17.656
+2012,Percentage (%),Suburban residential,,,,,,,,,,,Minimum standard,Dwelling,9.943
+2012,Percentage (%),Rural residential,,,,,,,,,,,Minimum standard,Dwelling,14.315
+2012,Percentage (%),Village centre,,,,,,,,,,,Minimum standard,Dwelling,23.888
+2012,Percentage (%),Rural,,,,,,,,,,,Minimum standard,Dwelling,37.569
+2012,Percentage (%),All city and urban centres,,,,,,,,,,,Minimum standard,Dwelling,17.643
+2012,Percentage (%),All rural areas,,,,,,,,,,,Minimum standard,Dwelling,20.719
+2012,Percentage (%),,,,,,,,,,,North,Minimum standard,Dwelling,12.866
+2012,Percentage (%),,,,,,,,,,,South East,Minimum standard,Dwelling,10.017
+2012,Percentage (%),,,,,,,,,,,Rest of England,Minimum standard,Dwelling,16.234
+2013,Percentage (%),,,,,,,,,,,,Minimum standard,Dwelling,11.9008173337487
+2013,Percentage (%),City centre,,,,,,,,,,,Minimum standard,Dwelling,17.5310655655711
+2013,Percentage (%),Other urban centre,,,,,,,,,,,Minimum standard,Dwelling,15.9235713485418
+2013,Percentage (%),Suburban residential,,,,,,,,,,,Minimum standard,Dwelling,8.87169540148429
+2013,Percentage (%),Rural residential,,,,,,,,,,,Minimum standard,Dwelling,10.9668821373019
+2013,Percentage (%),Village centre,,,,,,,,,,,Minimum standard,Dwelling,22.7426217441104
+2013,Percentage (%),Rural,,,,,,,,,,,Minimum standard,Dwelling,32.5132938668218
+2013,Percentage (%),All city and urban centres,,,,,,,,,,,Minimum standard,Dwelling,16.1552089091208
+2013,Percentage (%),All rural areas,,,,,,,,,,,Minimum standard,Dwelling,17.081966264642
+2013,Percentage (%),,,,,,,,,,,North,Minimum standard,Dwelling,11.1919042254
+2013,Percentage (%),,,,,,,,,,,South East,Minimum standard,Dwelling,10.0132972792
+2013,Percentage (%),,,,,,,,,,,Rest of England,Minimum standard,Dwelling,13.829216327
+2014,Percentage (%),,,,,,,,,,,,Minimum standard,Dwelling,11.4420290385273
+2014,Percentage (%),City centre,,,,,,,,,,,Minimum standard,Dwelling,16.3456896370773
+2014,Percentage (%),Other urban centre,,,,,,,,,,,Minimum standard,Dwelling,14.4415515492655
+2014,Percentage (%),Suburban residential,,,,,,,,,,,Minimum standard,Dwelling,8.61417046888018
+2014,Percentage (%),Rural residential,,,,,,,,,,,Minimum standard,Dwelling,11.6497014448238
+2014,Percentage (%),Village centre,,,,,,,,,,,Minimum standard,Dwelling,22.3206059709262
+2014,Percentage (%),Rural,,,,,,,,,,,Minimum standard,Dwelling,32.4850955093972
+2014,Percentage (%),All city and urban centres,,,,,,,,,,,Minimum standard,Dwelling,14.726787360835
+2014,Percentage (%),All rural areas,,,,,,,,,,,Minimum standard,Dwelling,17.1102213762536
+2014,Percentage (%),,,,,,,,,,,North,Minimum standard,Dwelling,11.9099944311
+2014,Percentage (%),,,,,,,,,,,South East,Minimum standard,Dwelling,8.41624456355
+2014,Percentage (%),,,,,,,,,,,Rest of England,Minimum standard,Dwelling,13.3766665965
+2015,Percentage (%),,,,,,,,,,,,Minimum standard,Dwelling,12.1957608457835
+2015,Percentage (%),City centre,,,,,,,,,,,Minimum standard,Dwelling,16.360411170745
+2015,Percentage (%),Other urban centre,,,,,,,,,,,Minimum standard,Dwelling,13.7575782991354
+2015,Percentage (%),Suburban residential,,,,,,,,,,,Minimum standard,Dwelling,9.3221348722128
+2015,Percentage (%),Rural residential,,,,,,,,,,,Minimum standard,Dwelling,15.1103462575817
+2015,Percentage (%),Village centre,,,,,,,,,,,Minimum standard,Dwelling,22.3229955644016
+2015,Percentage (%),Rural,,,,,,,,,,,Minimum standard,Dwelling,35.764093908043
+2015,Percentage (%),All city and urban centres,,,,,,,,,,,Minimum standard,Dwelling,14.2076335237493
+2015,Percentage (%),All rural areas,,,,,,,,,,,Minimum standard,Dwelling,19.9193010155089
+2015,Percentage (%),,,,,,,,,,,North,Minimum standard,Dwelling,14.5232134815
+2015,Percentage (%),,,,,,,,,,,South East,Minimum standard,Dwelling,7.24960456551
+2015,Percentage (%),,,,,,,,,,,Rest of England,Minimum standard,Dwelling,14.2830271773
+2008,Percentage (%),,,,,,,,,,,,Repair,Dwelling,6.37165178661756
+2008,Percentage (%),City centre,,,,,,,,,,,Repair,Dwelling,11.8813862965938
+2008,Percentage (%),Other urban centre,,,,,,,,,,,Repair,Dwelling,8.50946792432474
+2008,Percentage (%),Suburban residential,,,,,,,,,,,Repair,Dwelling,5.31599220903229
+2008,Percentage (%),Rural residential,,,,,,,,,,,Repair,Dwelling,4.57700526516286
+2008,Percentage (%),Village centre,,,,,,,,,,,Repair,Dwelling,9.14817474638359
+2008,Percentage (%),Rural,,,,,,,,,,,Repair,Dwelling,11.2899561334521
+2008,Percentage (%),All city and urban centres,,,,,,,,,,,Repair,Dwelling,8.99116429702724
+2008,Percentage (%),All rural areas,,,,,,,,,,,Repair,Dwelling,6.61670288603506
+2008,Percentage (%),,,,,,,,,,,North,Repair,Dwelling,6.60743745055
+2008,Percentage (%),,,,,,,,,,,South East,Repair,Dwelling,6.83909954041
+2008,Percentage (%),,,,,,,,,,,Rest of England,Repair,Dwelling,5.85492191228
+2009,Percentage (%),,,,,,,,,,,,Repair,Dwelling,6.06908139075801
+2009,Percentage (%),City centre,,,,,,,,,,,Repair,Dwelling,9.69948754612022
+2009,Percentage (%),Other urban centre,,,,,,,,,,,Repair,Dwelling,8.65793903213576
+2009,Percentage (%),Suburban residential,,,,,,,,,,,Repair,Dwelling,4.84419056519448
+2009,Percentage (%),Rural residential,,,,,,,,,,,Repair,Dwelling,5.62297744134724
+2009,Percentage (%),Village centre,,,,,,,,,,,Repair,Dwelling,6.76465409146937
+2009,Percentage (%),Rural,,,,,,,,,,,Repair,Dwelling,10.858944119658
+2009,Percentage (%),All city and urban centres,,,,,,,,,,,Repair,Dwelling,8.82510895477815
+2009,Percentage (%),All rural areas,,,,,,,,,,,Repair,Dwelling,6.73566612954508
+2009,Percentage (%),,,,,,,,,,,North,Repair,Dwelling,6.16385545629
+2009,Percentage (%),,,,,,,,,,,South East,Repair,Dwelling,6.46510718688
+2009,Percentage (%),,,,,,,,,,,Rest of England,Repair,Dwelling,5.71132305469
+2010,Percentage (%),,,,,,,,,,,,Repair,Dwelling,5.585
+2010,Percentage (%),City centre,,,,,,,,,,,Repair,Dwelling,9.682
+2010,Percentage (%),Other urban centre,,,,,,,,,,,Repair,Dwelling,8.496
+2010,Percentage (%),Suburban residential,,,,,,,,,,,Repair,Dwelling,4.627
+2010,Percentage (%),Rural residential,,,,,,,,,,,Repair,Dwelling,4.593
+2010,Percentage (%),Rural,,,,,,,,,,,Repair,Dwelling,8.948
+2010,Percentage (%),All city and urban centres,,,,,,,,,,,Repair,Dwelling,8.693
+2010,Percentage (%),All rural areas,,,,,,,,,,,Repair,Dwelling,5.192
+2010,Percentage (%),,,,,,,,,,,North,Repair,Dwelling,6.174
+2010,Percentage (%),,,,,,,,,,,South East,Repair,Dwelling,5.294
+2010,Percentage (%),,,,,,,,,,,Rest of England,Repair,Dwelling,5.374
+2011,Percentage (%),,,,,,,,,,,,Repair,Dwelling,5.233
+2011,Percentage (%),City centre,,,,,,,,,,,Repair,Dwelling,8.641
+2011,Percentage (%),Other urban centre,,,,,,,,,,,Repair,Dwelling,8.034
+2011,Percentage (%),Suburban residential,,,,,,,,,,,Repair,Dwelling,4.453
+2011,Percentage (%),Rural residential,,,,,,,,,,,Repair,Dwelling,3.349
+2011,Percentage (%),Rural,,,,,,,,,,,Repair,Dwelling,9.77
+2011,Percentage (%),All city and urban centres,,,,,,,,,,,Repair,Dwelling,8.133
+2011,Percentage (%),All rural areas,,,,,,,,,,,Repair,Dwelling,4.595
+2011,Percentage (%),,,,,,,,,,,North,Repair,Dwelling,6.72
+2011,Percentage (%),,,,,,,,,,,South East,Repair,Dwelling,4.465
+2011,Percentage (%),,,,,,,,,,,Rest of England,Repair,Dwelling,4.727
+2012,Percentage (%),,,,,,,,,,,,Repair,Dwelling,4.751
+2012,Percentage (%),City centre,,,,,,,,,,,Repair,Dwelling,5.802
+2012,Percentage (%),Other urban centre,,,,,,,,,,,Repair,Dwelling,6.985
+2012,Percentage (%),Suburban residential,,,,,,,,,,,Repair,Dwelling,4.065
+2012,Percentage (%),Rural residential,,,,,,,,,,,Repair,Dwelling,3.493
+2012,Percentage (%),Village centre,,,,,,,,,,,Repair,Dwelling,5.456
+2012,Percentage (%),Rural,,,,,,,,,,,Repair,Dwelling,8.088
+2012,Percentage (%),All city and urban centres,,,,,,,,,,,Repair,Dwelling,6.805
+2012,Percentage (%),All rural areas,,,,,,,,,,,Repair,Dwelling,4.775
+2012,Percentage (%),,,,,,,,,,,North,Repair,Dwelling,6.46
+2012,Percentage (%),,,,,,,,,,,South East,Repair,Dwelling,4.126
+2012,Percentage (%),,,,,,,,,,,Rest of England,Repair,Dwelling,3.994
+2013,Percentage (%),,,,,,,,,,,,Repair,Dwelling,4.62496830085392
+2013,Percentage (%),City centre,,,,,,,,,,,Repair,Dwelling,5.1623578708695
+2013,Percentage (%),Other urban centre,,,,,,,,,,,Repair,Dwelling,6.17275951574698
+2013,Percentage (%),Suburban residential,,,,,,,,,,,Repair,Dwelling,4.1482172318194
+2013,Percentage (%),Rural residential,,,,,,,,,,,Repair,Dwelling,3.58602280810086
+2013,Percentage (%),Village centre,,,,,,,,,,,Repair,Dwelling,4.83950649885075
+2013,Percentage (%),Rural,,,,,,,,,,,Repair,Dwelling,7.83805506210171
+2013,Percentage (%),All city and urban centres,,,,,,,,,,,Repair,Dwelling,6.02716211965995
+2013,Percentage (%),All rural areas,,,,,,,,,,,Repair,Dwelling,4.55827509480084
+2013,Percentage (%),,,,,,,,,,,North,Repair,Dwelling,6.42973725016
+2013,Percentage (%),,,,,,,,,,,South East,Repair,Dwelling,3.86175444451
+2013,Percentage (%),,,,,,,,,,,Rest of England,Repair,Dwelling,3.91398919375
+2014,Percentage (%),,,,,,,,,,,,Repair,Dwelling,4.55380698885551
+2014,Percentage (%),City centre,,,,,,,,,,,Repair,Dwelling,5.79529711802858
+2014,Percentage (%),Other urban centre,,,,,,,,,,,Repair,Dwelling,5.51689801095991
+2014,Percentage (%),Suburban residential,,,,,,,,,,,Repair,Dwelling,4.16198714594371
+2014,Percentage (%),Rural residential,,,,,,,,,,,Repair,Dwelling,3.59425874163448
+2014,Percentage (%),Village centre,,,,,,,,,,,Repair,Dwelling,6.06370557745128
+2014,Percentage (%),Rural,,,,,,,,,,,Repair,Dwelling,7.06837305935846
+2014,Percentage (%),All city and urban centres,,,,,,,,,,,Repair,Dwelling,5.55860160155203
+2014,Percentage (%),All rural areas,,,,,,,,,,,Repair,Dwelling,4.65992897717268
+2014,Percentage (%),,,,,,,,,,,North,Repair,Dwelling,5.49865039287
+2014,Percentage (%),,,,,,,,,,,South East,Repair,Dwelling,4.15663663853
+2014,Percentage (%),,,,,,,,,,,Rest of England,Repair,Dwelling,4.17891821303
+2015,Percentage (%),,,,,,,,,,,,Repair,Dwelling,4.04840072937332
+2015,Percentage (%),City centre,,,,,,,,,,,Repair,Dwelling,6.2602775192605
+2015,Percentage (%),Other urban centre,,,,,,,,,,,Repair,Dwelling,4.81807449639328
+2015,Percentage (%),Suburban residential,,,,,,,,,,,Repair,Dwelling,3.71553629777858
+2015,Percentage (%),Rural residential,,,,,,,,,,,Repair,Dwelling,3.03758879617084
+2015,Percentage (%),Village centre,,,,,,,,,,,Repair,Dwelling,5.43342328356696
+2015,Percentage (%),Rural,,,,,,,,,,,Repair,Dwelling,5.6698136215439
+2015,Percentage (%),All city and urban centres,,,,,,,,,,,Repair,Dwelling,5.06744548462503
+2015,Percentage (%),All rural areas,,,,,,,,,,,Repair,Dwelling,3.99190325882851
+2015,Percentage (%),,,,,,,,,,,North,Repair,Dwelling,4.89147342404
+2015,Percentage (%),,,,,,,,,,,South East,Repair,Dwelling,3.71362092759
+2015,Percentage (%),,,,,,,,,,,Rest of England,Repair,Dwelling,3.70121081134
+2008,Percentage (%),,,,,,,,,,,,Modern facilities and services,Dwelling,3.26761992388461
+2008,Percentage (%),City centre,,,,,,,,,,,Modern facilities and services,Dwelling,10.1468120686277
+2008,Percentage (%),Other urban centre,,,,,,,,,,,Modern facilities and services,Dwelling,4.56650259824941
+2008,Percentage (%),Suburban residential,,,,,,,,,,,Modern facilities and services,Dwelling,2.61997594545535
+2008,Percentage (%),Rural residential,,,,,,,,,,,Modern facilities and services,Dwelling,2.20124323499417
+2008,Percentage (%),Village centre,,,,,,,,,,,Modern facilities and services,Dwelling,4.36528004924473
+2008,Percentage (%),Rural,,,,,,,,,,,Modern facilities and services,Dwelling,3.37285983094193
+2008,Percentage (%),All city and urban centres,,,,,,,,,,,Modern facilities and services,Dwelling,5.36367931893906
+2008,Percentage (%),All rural areas,,,,,,,,,,,Modern facilities and services,Dwelling,2.83220399836563
+2008,Percentage (%),,,,,,,,,,,North,Modern facilities and services,Dwelling,2.4589770494
+2008,Percentage (%),,,,,,,,,,,South East,Modern facilities and services,Dwelling,3.71483928112
+2008,Percentage (%),,,,,,,,,,,Rest of England,Modern facilities and services,Dwelling,3.52306280199
+2009,Percentage (%),,,,,,,,,,,,Modern facilities and services,Dwelling,3.09278415136843
+2009,Percentage (%),City centre,,,,,,,,,,,Modern facilities and services,Dwelling,10.2201518035673
+2009,Percentage (%),Other urban centre,,,,,,,,,,,Modern facilities and services,Dwelling,4.24002685426009
+2009,Percentage (%),Suburban residential,,,,,,,,,,,Modern facilities and services,Dwelling,2.48408902383825
+2009,Percentage (%),Rural residential,,,,,,,,,,,Modern facilities and services,Dwelling,1.95963460575822
+2009,Percentage (%),Village centre,,,,,,,,,,,Modern facilities and services,Dwelling,3.35798185455993
+2009,Percentage (%),Rural,,,,,,,,,,,Modern facilities and services,Dwelling,3.65381039599539
+2009,Percentage (%),All city and urban centres,,,,,,,,,,,Modern facilities and services,Dwelling,5.19984486729076
+2009,Percentage (%),All rural areas,,,,,,,,,,,Modern facilities and services,Dwelling,2.53293891070961
+2009,Percentage (%),,,,,,,,,,,North,Modern facilities and services,Dwelling,2.57139090253
+2009,Percentage (%),,,,,,,,,,,South East,Modern facilities and services,Dwelling,3.88792097245
+2009,Percentage (%),,,,,,,,,,,Rest of England,Modern facilities and services,Dwelling,2.88537664279
+2010,Percentage (%),,,,,,,,,,,,Modern facilities and services,Dwelling,2.34
+2010,Percentage (%),City centre,,,,,,,,,,,Modern facilities and services,Dwelling,6.621
+2010,Percentage (%),Other urban centre,,,,,,,,,,,Modern facilities and services,Dwelling,3.093
+2010,Percentage (%),Suburban residential,,,,,,,,,,,Modern facilities and services,Dwelling,1.924
+2010,Percentage (%),Rural residential,,,,,,,,,,,Modern facilities and services,Dwelling,1.713
+2010,Percentage (%),All city and urban centres,,,,,,,,,,,Modern facilities and services,Dwelling,3.677
+2010,Percentage (%),All rural areas,,,,,,,,,,,Modern facilities and services,Dwelling,2.185
+2010,Percentage (%),,,,,,,,,,,North,Modern facilities and services,Dwelling,2.107
+2010,Percentage (%),,,,,,,,,,,South East,Modern facilities and services,Dwelling,2.652
+2010,Percentage (%),,,,,,,,,,,Rest of England,Modern facilities and services,Dwelling,2.28
+2011,Percentage (%),,,,,,,,,,,,Modern facilities and services,Dwelling,1.648
+2011,Percentage (%),Other urban centre,,,,,,,,,,,Modern facilities and services,Dwelling,2.829
+2011,Percentage (%),Suburban residential,,,,,,,,,,,Modern facilities and services,Dwelling,1.207
+2011,Percentage (%),All city and urban centres,,,,,,,,,,,Modern facilities and services,Dwelling,2.902
+2011,Percentage (%),All rural areas,,,,,,,,,,,Modern facilities and services,Dwelling,1.753
+2011,Percentage (%),,,,,,,,,,,North,Modern facilities and services,Dwelling,1.166
+2011,Percentage (%),,,,,,,,,,,South East,Modern facilities and services,Dwelling,2.016
+2011,Percentage (%),,,,,,,,,,,Rest of England,Modern facilities and services,Dwelling,1.725
+2012,Percentage (%),,,,,,,,,,,,Modern facilities and services,Dwelling,1.656
+2012,Percentage (%),City centre,,,,,,,,,,,Modern facilities and services,Dwelling,3.157
+2012,Percentage (%),Other urban centre,,,,,,,,,,,Modern facilities and services,Dwelling,3.102
+2012,Percentage (%),Suburban residential,,,,,,,,,,,Modern facilities and services,Dwelling,1.166
+2012,Percentage (%),Rural residential,,,,,,,,,,,Modern facilities and services,Dwelling,1.431
+2012,Percentage (%),Village centre,,,,,,,,,,,Modern facilities and services,Dwelling,2.227
+2012,Percentage (%),Rural,,,,,,,,,,,Modern facilities and services,Dwelling,1.805
+2012,Percentage (%),All city and urban centres,,,,,,,,,,,Modern facilities and services,Dwelling,3.11
+2012,Percentage (%),All rural areas,,,,,,,,,,,Modern facilities and services,Dwelling,1.686
+2012,Percentage (%),,,,,,,,,,,North,Modern facilities and services,Dwelling,1.094
+2012,Percentage (%),,,,,,,,,,,South East,Modern facilities and services,Dwelling,1.778
+2012,Percentage (%),,,,,,,,,,,Rest of England,Modern facilities and services,Dwelling,1.965
+2013,Percentage (%),,,,,,,,,,,,Modern facilities and services,Dwelling,1.90607712354389
+2013,Percentage (%),City centre,,,,,,,,,,,Modern facilities and services,Dwelling,5.92732658301008
+2013,Percentage (%),Other urban centre,,,,,,,,,,,Modern facilities and services,Dwelling,3.5786370846016
+2013,Percentage (%),Suburban residential,,,,,,,,,,,Modern facilities and services,Dwelling,1.477913120879
+2013,Percentage (%),Rural residential,,,,,,,,,,,Modern facilities and services,Dwelling,0.704526446610441
+2013,Percentage (%),Rural,,,,,,,,,,,Modern facilities and services,Dwelling,1.75336515926926
+2013,Percentage (%),All city and urban centres,,,,,,,,,,,Modern facilities and services,Dwelling,3.91707979886169
+2013,Percentage (%),All rural areas,,,,,,,,,,,Modern facilities and services,Dwelling,0.941017364283527
+2013,Percentage (%),,,,,,,,,,,North,Modern facilities and services,Dwelling,1.23720171439
+2013,Percentage (%),,,,,,,,,,,South East,Modern facilities and services,Dwelling,2.34201513929
+2013,Percentage (%),,,,,,,,,,,Rest of England,Modern facilities and services,Dwelling,2.05416277048
+2014,Percentage (%),,,,,,,,,,,,Modern facilities and services,Dwelling,2.03219800512182
+2014,Percentage (%),City centre,,,,,,,,,,,Modern facilities and services,Dwelling,5.40159736361537
+2014,Percentage (%),Other urban centre,,,,,,,,,,,Modern facilities and services,Dwelling,3.73463932757445
+2014,Percentage (%),Suburban residential,,,,,,,,,,,Modern facilities and services,Dwelling,1.51363727885293
+2014,Percentage (%),Rural residential,,,,,,,,,,,Modern facilities and services,Dwelling,0.856217667152822
+2014,Percentage (%),Village centre,,,,,,,,,,,Modern facilities and services,Dwelling,1.55899478642937
+2014,Percentage (%),Rural,,,,,,,,,,,Modern facilities and services,Dwelling,3.50633616464937
+2014,Percentage (%),All city and urban centres,,,,,,,,,,,Modern facilities and services,Dwelling,3.98434607484547
+2014,Percentage (%),All rural areas,,,,,,,,,,,Modern facilities and services,Dwelling,1.40360301333396
+2014,Percentage (%),,,,,,,,,,,North,Modern facilities and services,Dwelling,1.02967833722
+2014,Percentage (%),,,,,,,,,,,South East,Modern facilities and services,Dwelling,3.05559704728
+2014,Percentage (%),,,,,,,,,,,Rest of England,Modern facilities and services,Dwelling,1.97880026118
+2015,Percentage (%),,,,,,,,,,,,Modern facilities and services,Dwelling,1.59806219704573
+2015,Percentage (%),City centre,,,,,,,,,,,Modern facilities and services,Dwelling,4.58566873558231
+2015,Percentage (%),Other urban centre,,,,,,,,,,,Modern facilities and services,Dwelling,2.42610411667496
+2015,Percentage (%),Suburban residential,,,,,,,,,,,Modern facilities and services,Dwelling,1.18467865402534
+2015,Percentage (%),Rural residential,,,,,,,,,,,Modern facilities and services,Dwelling,0.938770212604307
+2015,Percentage (%),Village centre,,,,,,,,,,,Modern facilities and services,Dwelling,2.00979145405942
+2015,Percentage (%),Rural,,,,,,,,,,,Modern facilities and services,Dwelling,3.69403511924626
+2015,Percentage (%),All city and urban centres,,,,,,,,,,,Modern facilities and services,Dwelling,2.79951393112438
+2015,Percentage (%),All rural areas,,,,,,,,,,,Modern facilities and services,Dwelling,1.60546322608038
+2015,Percentage (%),,,,,,,,,,,North,Modern facilities and services,Dwelling,0.937879627322
+2015,Percentage (%),,,,,,,,,,,South East,Modern facilities and services,Dwelling,2.01251149454
+2015,Percentage (%),,,,,,,,,,,Rest of England,Modern facilities and services,Dwelling,1.7546053486
+2008,Percentage (%),,,,,,,,,,,,Thermal comfort,Dwelling,12.7559927656314
+2008,Percentage (%),City centre,,,,,,,,,,,Thermal comfort,Dwelling,19.3256184362569
+2008,Percentage (%),Other urban centre,,,,,,,,,,,Thermal comfort,Dwelling,14.2077066415059
+2008,Percentage (%),Suburban residential,,,,,,,,,,,Thermal comfort,Dwelling,10.894528568979
+2008,Percentage (%),Rural residential,,,,,,,,,,,Thermal comfort,Dwelling,12.6122119334722
+2008,Percentage (%),Village centre,,,,,,,,,,,Thermal comfort,Dwelling,20.4608244871849
+2008,Percentage (%),Rural,,,,,,,,,,,Thermal comfort,Dwelling,24.0903371257798
+2008,Percentage (%),All city and urban centres,,,,,,,,,,,Thermal comfort,Dwelling,14.9388274087278
+2008,Percentage (%),All rural areas,,,,,,,,,,,Thermal comfort,Dwelling,16.1063474503847
+2008,Percentage (%),,,,,,,,,,,North,Thermal comfort,Dwelling,11.3896012415
+2008,Percentage (%),,,,,,,,,,,South East,Thermal comfort,Dwelling,13.7586229421
+2008,Percentage (%),,,,,,,,,,,Rest of England,Thermal comfort,Dwelling,13.0049479899
+2009,Percentage (%),,,,,,,,,,,,Thermal comfort,Dwelling,10.3751705082379
+2009,Percentage (%),City centre,,,,,,,,,,,Thermal comfort,Dwelling,15.9921736153829
+2009,Percentage (%),Other urban centre,,,,,,,,,,,Thermal comfort,Dwelling,11.259059086617
+2009,Percentage (%),Suburban residential,,,,,,,,,,,Thermal comfort,Dwelling,8.51484317479127
+2009,Percentage (%),Rural residential,,,,,,,,,,,Thermal comfort,Dwelling,11.6568706479002
+2009,Percentage (%),Village centre,,,,,,,,,,,Thermal comfort,Dwelling,14.6010874973261
+2009,Percentage (%),Rural,,,,,,,,,,,Thermal comfort,Dwelling,24.7589723768068
+2009,Percentage (%),All city and urban centres,,,,,,,,,,,Thermal comfort,Dwelling,12.0187302675633
+2009,Percentage (%),All rural areas,,,,,,,,,,,Thermal comfort,Dwelling,14.4592913620759
+2009,Percentage (%),,,,,,,,,,,North,Thermal comfort,Dwelling,8.36051506342
+2009,Percentage (%),,,,,,,,,,,South East,Thermal comfort,Dwelling,10.8116616492
+2009,Percentage (%),,,,,,,,,,,Rest of England,Thermal comfort,Dwelling,11.5021130688
+2010,Percentage (%),,,,,,,,,,,,Thermal comfort,Dwelling,9.89
+2010,Percentage (%),City centre,,,,,,,,,,,Thermal comfort,Dwelling,14.132
+2010,Percentage (%),Other urban centre,,,,,,,,,,,Thermal comfort,Dwelling,11.374
+2010,Percentage (%),Suburban residential,,,,,,,,,,,Thermal comfort,Dwelling,8.028
+2010,Percentage (%),Rural residential,,,,,,,,,,,Thermal comfort,Dwelling,10.752
+2010,Percentage (%),Village centre,,,,,,,,,,,Thermal comfort,Dwelling,15.24
+2010,Percentage (%),Rural,,,,,,,,,,,Thermal comfort,Dwelling,24.166
+2010,Percentage (%),All city and urban centres,,,,,,,,,,,Thermal comfort,Dwelling,11.83
+2010,Percentage (%),All rural areas,,,,,,,,,,,Thermal comfort,Dwelling,14.032
+2010,Percentage (%),,,,,,,,,,,North,Thermal comfort,Dwelling,8.077
+2010,Percentage (%),,,,,,,,,,,South East,Thermal comfort,Dwelling,10.093
+2010,Percentage (%),,,,,,,,,,,Rest of England,Thermal comfort,Dwelling,11.049
+2011,Percentage (%),,,,,,,,,,,,Thermal comfort,Dwelling,8.718
+2011,Percentage (%),City centre,,,,,,,,,,,Thermal comfort,Dwelling,14.164
+2011,Percentage (%),Other urban centre,,,,,,,,,,,Thermal comfort,Dwelling,9.973
+2011,Percentage (%),Suburban residential,,,,,,,,,,,Thermal comfort,Dwelling,6.999
+2011,Percentage (%),Rural residential,,,,,,,,,,,Thermal comfort,Dwelling,10.228
+2011,Percentage (%),Village centre,,,,,,,,,,,Thermal comfort,Dwelling,13.733
+2011,Percentage (%),Rural,,,,,,,,,,,Thermal comfort,Dwelling,19.604
+2011,Percentage (%),All city and urban centres,,,,,,,,,,,Thermal comfort,Dwelling,10.66
+2011,Percentage (%),All rural areas,,,,,,,,,,,Thermal comfort,Dwelling,12.652
+2011,Percentage (%),,,,,,,,,,,North,Thermal comfort,Dwelling,7.279
+2011,Percentage (%),,,,,,,,,,,South East,Thermal comfort,Dwelling,8.594
+2011,Percentage (%),,,,,,,,,,,Rest of England,Thermal comfort,Dwelling,9.847
+2012,Percentage (%),,,,,,,,,,,,Thermal comfort,Dwelling,7.653
+2012,Percentage (%),City centre,,,,,,,,,,,Thermal comfort,Dwelling,15.206
+2012,Percentage (%),Other urban centre,,,,,,,,,,,Thermal comfort,Dwelling,9.133
+2012,Percentage (%),Suburban residential,,,,,,,,,,,Thermal comfort,Dwelling,5.94
+2012,Percentage (%),Rural residential,,,,,,,,,,,Thermal comfort,Dwelling,8.88
+2012,Percentage (%),Village centre,,,,,,,,,,,Thermal comfort,Dwelling,11.259
+2012,Percentage (%),Rural,,,,,,,,,,,Thermal comfort,Dwelling,17.524
+2012,Percentage (%),All city and urban centres,,,,,,,,,,,Thermal comfort,Dwelling,10.058
+2012,Percentage (%),All rural areas,,,,,,,,,,,Thermal comfort,Dwelling,10.981
+2012,Percentage (%),,,,,,,,,,,North,Thermal comfort,Dwelling,6.421
+2012,Percentage (%),,,,,,,,,,,South East,Thermal comfort,Dwelling,7.588
+2012,Percentage (%),,,,,,,,,,,Rest of England,Thermal comfort,Dwelling,8.579
+2013,Percentage (%),,,,,,,,,,,,Thermal comfort,Dwelling,7.45677014847602
+2013,Percentage (%),City centre,,,,,,,,,,,Thermal comfort,Dwelling,21.2382323193028
+2013,Percentage (%),Other urban centre,,,,,,,,,,,Thermal comfort,Dwelling,8.02726794493737
+2013,Percentage (%),Suburban residential,,,,,,,,,,,Thermal comfort,Dwelling,5.6729744363119
+2013,Percentage (%),Rural residential,,,,,,,,,,,Thermal comfort,Dwelling,7.52311684657292
+2013,Percentage (%),Village centre,,,,,,,,,,,Thermal comfort,Dwelling,12.4826567112613
+2013,Percentage (%),Rural,,,,,,,,,,,Thermal comfort,Dwelling,19.3209585395921
+2013,Percentage (%),All city and urban centres,,,,,,,,,,,Thermal comfort,Dwelling,9.93094854804964
+2013,Percentage (%),All rural areas,,,,,,,,,,,Thermal comfort,Dwelling,10.5453730199099
+2013,Percentage (%),,,,,,,,,,,North,Thermal comfort,Dwelling,5.92653433952
+2013,Percentage (%),,,,,,,,,,,South East,Thermal comfort,Dwelling,8.06270136388
+2013,Percentage (%),,,,,,,,,,,Rest of England,Thermal comfort,Dwelling,8.09065069261
+2014,Percentage (%),,,,,,,,,,,,Thermal comfort,Dwelling,6.6143393137917
+2014,Percentage (%),City centre,,,,,,,,,,,Thermal comfort,Dwelling,17.8395447198841
+2014,Percentage (%),Other urban centre,,,,,,,,,,,Thermal comfort,Dwelling,6.46842527161726
+2014,Percentage (%),Suburban residential,,,,,,,,,,,Thermal comfort,Dwelling,5.18946728722028
+2014,Percentage (%),Rural residential,,,,,,,,,,,Thermal comfort,Dwelling,7.28836444644078
+2014,Percentage (%),Village centre,,,,,,,,,,,Thermal comfort,Dwelling,11.6220393518193
+2014,Percentage (%),Rural,,,,,,,,,,,Thermal comfort,Dwelling,16.3287433948355
+2014,Percentage (%),All city and urban centres,,,,,,,,,,,Thermal comfort,Dwelling,8.17179463597196
+2014,Percentage (%),All rural areas,,,,,,,,,,,Thermal comfort,Dwelling,9.59102012685803
+2014,Percentage (%),,,,,,,,,,,North,Thermal comfort,Dwelling,4.45592279573
+2014,Percentage (%),,,,,,,,,,,South East,Thermal comfort,Dwelling,7.69484133246
+2014,Percentage (%),,,,,,,,,,,Rest of England,Thermal comfort,Dwelling,7.34093350464
+2015,Percentage (%),,,,,,,,,,,,Thermal comfort,Dwelling,5.98166729395991
+2015,Percentage (%),City centre,,,,,,,,,,,Thermal comfort,Dwelling,14.792280402214
+2015,Percentage (%),Other urban centre,,,,,,,,,,,Thermal comfort,Dwelling,5.59383681245511
+2015,Percentage (%),Suburban residential,,,,,,,,,,,Thermal comfort,Dwelling,4.82807652444374
+2015,Percentage (%),Rural residential,,,,,,,,,,,Thermal comfort,Dwelling,6.50424037329213
+2015,Percentage (%),Village centre,,,,,,,,,,,Thermal comfort,Dwelling,10.7342957339949
+2015,Percentage (%),Rural,,,,,,,,,,,Thermal comfort,Dwelling,13.880509845198
+2015,Percentage (%),All city and urban centres,,,,,,,,,,,Thermal comfort,Dwelling,7.18433754765105
+2015,Percentage (%),All rural areas,,,,,,,,,,,Thermal comfort,Dwelling,8.6041906370144
+2015,Percentage (%),,,,,,,,,,,North,Thermal comfort,Dwelling,3.53697271049
+2015,Percentage (%),,,,,,,,,,,South East,Thermal comfort,Dwelling,7.09778930719
+2015,Percentage (%),,,,,,,,,,,Rest of England,Thermal comfort,Dwelling,6.87836055276
+2016,Percentage (%),,,,,,,,,,,,,Dwelling,19.9069846226514
+2016,Percentage (%),City centre,,,,,,,,,,,,Dwelling,30.0687015563998
+2016,Percentage (%),Other urban centre,,,,,,,,,,,,Dwelling,24.0172370332618
+2016,Percentage (%),Suburban residential,,,,,,,,,,,,Dwelling,16.2334246642795
+2016,Percentage (%),Rural residential,,,,,,,,,,,,Dwelling,19.9888840397601
+2016,Percentage (%),Village centre,,,,,,,,,,,,Dwelling,31.6392846001871
+2016,Percentage (%),Rural,,,,,,,,,,,,Dwelling,48.2037478308745
+2016,Percentage (%),All city and urban centres,,,,,,,,,,,,Dwelling,25.050723025168
+2016,Percentage (%),All rural areas,,,,,,,,,,,,Dwelling,27.0547145988224
+2016,Percentage (%),,,,,,,,,,,North,,Dwelling,21.5288190487614
+2016,Percentage (%),,,,,,,,,,,South East,,Dwelling,16.9392831620031
+2016,Percentage (%),,,,,,,,,,,Rest of England,,Dwelling,20.9991990898417
+2016,Percentage (%),,,,,,,,,,,,Minimum standard,Dwelling,12.0152144926174
+2016,Percentage (%),City centre,,,,,,,,,,,Minimum standard,Dwelling,18.9431128727518
+2016,Percentage (%),Other urban centre,,,,,,,,,,,Minimum standard,Dwelling,13.2273032281601
+2016,Percentage (%),Suburban residential,,,,,,,,,,,Minimum standard,Dwelling,8.93887346866115
+2016,Percentage (%),Rural residential,,,,,,,,,,,Minimum standard,Dwelling,13.6007339324375
+2016,Percentage (%),Village centre,,,,,,,,,,,Minimum standard,Dwelling,24.9396449222617
+2016,Percentage (%),Rural,,,,,,,,,,,Minimum standard,Dwelling,40.9991927794795
+2016,Percentage (%),All city and urban centres,,,,,,,,,,,Minimum standard,Dwelling,14.2034651435942
+2016,Percentage (%),All rural areas,,,,,,,,,,,Minimum standard,Dwelling,20.4675941387735
+2016,Percentage (%),,,,,,,,,,,North,Minimum standard,Dwelling,14.8391806235581
+2016,Percentage (%),,,,,,,,,,,South East,Minimum standard,Dwelling,7.35510692100488
+2016,Percentage (%),,,,,,,,,,,Rest of England,Minimum standard,Dwelling,13.5332923436419
+2016,Percentage (%),,,,,,,,,,,,Repair,Dwelling,3.86995375776857
+2016,Percentage (%),City centre,,,,,,,,,,,Repair,Dwelling,5.00510364846993
+2016,Percentage (%),Other urban centre,,,,,,,,,,,Repair,Dwelling,5.42017398398674
+2016,Percentage (%),Suburban residential,,,,,,,,,,,Repair,Dwelling,3.35187886552667
+2016,Percentage (%),Rural residential,,,,,,,,,,,Repair,Dwelling,2.46144102843561
+2016,Percentage (%),Village centre,,,,,,,,,,,Repair,Dwelling,5.87727348761929
+2016,Percentage (%),Rural,,,,,,,,,,,Repair,Dwelling,7.44761646133025
+2016,Percentage (%),All city and urban centres,,,,,,,,,,,Repair,Dwelling,5.3492871142427
+2016,Percentage (%),All rural areas,,,,,,,,,,,Repair,Dwelling,4.00047012857678
+2016,Percentage (%),,,,,,,,,,,North,Repair,Dwelling,5.1040750856138
+2016,Percentage (%),,,,,,,,,,,South East,Repair,Dwelling,3.3024435160244
+2016,Percentage (%),,,,,,,,,,,Rest of England,Repair,Dwelling,3.42226156031435
+2016,Percentage (%),,,,,,,,,,,,Modern facilities and services,Dwelling,2.11297649839556
+2016,Percentage (%),City centre,,,,,,,,,,,Modern facilities and services,Dwelling,6.76735270894847
+2016,Percentage (%),Other urban centre,,,,,,,,,,,Modern facilities and services,Dwelling,3.40721563981636
+2016,Percentage (%),Suburban residential,,,,,,,,,,,Modern facilities and services,Dwelling,1.4444533951432
+2016,Percentage (%),Rural residential,,,,,,,,,,,Modern facilities and services,Dwelling,1.20000434096076
+2016,Percentage (%),Village centre,,,,,,,,,,,Modern facilities and services,Dwelling,5.38437368609029
+2016,Percentage (%),Rural,,,,,,,,,,,Modern facilities and services,Dwelling,2.64129716308987
+2016,Percentage (%),All city and urban centres,,,,,,,,,,,Modern facilities and services,Dwelling,3.98106922163194
+2016,Percentage (%),All rural areas,,,,,,,,,,,Modern facilities and services,Dwelling,2.32892603914981
+2016,Percentage (%),,,,,,,,,,,North,Modern facilities and services,Dwelling,1.7767882351048
+2016,Percentage (%),,,,,,,,,,,South East,Modern facilities and services,Dwelling,2.52090319388708
+2016,Percentage (%),,,,,,,,,,,Rest of England,Modern facilities and services,Dwelling,2.0433239902477
+2016,Percentage (%),,,,,,,,,,,,Thermal comfort,Dwelling,6.51869461608455
+2016,Percentage (%),City centre,,,,,,,,,,,Thermal comfort,Dwelling,17.911677074703
+2016,Percentage (%),Other urban centre,,,,,,,,,,,Thermal comfort,Dwelling,6.86339215152713
+2016,Percentage (%),Suburban residential,,,,,,,,,,,Thermal comfort,Dwelling,4.79159763412065
+2016,Percentage (%),Rural residential,,,,,,,,,,,Thermal comfort,Dwelling,6.92588662185658
+2016,Percentage (%),Village centre,,,,,,,,,,,Thermal comfort,Dwelling,13.1771862327128
+2016,Percentage (%),Rural,,,,,,,,,,,Thermal comfort,Dwelling,18.2354248949195
+2016,Percentage (%),All city and urban centres,,,,,,,,,,,Thermal comfort,Dwelling,8.75024907005192
+2016,Percentage (%),All rural areas,,,,,,,,,,,Thermal comfort,Dwelling,10.0964948577268
+2016,Percentage (%),,,,,,,,,,,North,Thermal comfort,Dwelling,4.27026022794265
+2016,Percentage (%),,,,,,,,,,,South East,Thermal comfort,Dwelling,7.23662800285854
+2016,Percentage (%),,,,,,,,,,,Rest of England,Thermal comfort,Dwelling,7.57335656198009
+2016,Percentage (%),,,,,,,,,,,,Thermal comfort,Dwelling,6.518694616084556
+2016,Percentage (%),City centre,,,,,,,,,,,Thermal comfort,Dwelling,17.911677074703046
+2016,Percentage (%),Other urban centre,,,,,,,,,,,Thermal comfort,Dwelling,6.863392151527137
+2016,Percentage (%),Rural residential,,,,,,,,,,,Thermal comfort,Dwelling,6.925886621856586
+2016,Percentage (%),Village centre,,,,,,,,,,,Thermal comfort,Dwelling,13.177186232712893
+2016,Percentage (%),Rural,,,,,,,,,,,Thermal comfort,Dwelling,18.235424894919568
+2016,Percentage (%),All city and urban centres,,,,,,,,,,,Thermal comfort,Dwelling,8.750249070051922
+2016,Percentage (%),All rural areas,,,,,,,,,,,Thermal comfort,Dwelling,10.096494857726853
 2008,Percentage (%),,Couple under 60,,,,,,,,,,,Household,32.0785913458
 2008,Percentage (%),,Couple 60 or over,,,,,,,,,,,Household,30.1277921025
 2008,Percentage (%),,Couple with children,,,,,,,,,,,Household,30.1891902782
@@ -43,18 +572,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2008,Percentage (%),,,,,,,,,,10-19 years,,,Household,30.3877893045
 2008,Percentage (%),,,,,,,,,,20-29 years,,,Household,36.6534687616
 2008,Percentage (%),,,,,,,,,,30 or more years,,,Household,41.6452937444
-2008,Percentage (%),,,,,,,,,,,North,,,32.362775815
-2008,Percentage (%),,,,,,,,,,,South East,,,32.4527659636
-2008,Percentage (%),,,,,,,,,,,Rest of England,,,34.1007117543
-2009,Percentage (%),All dwellings,,,,,,,,,,,,,30.0944924350444
-2009,Percentage (%),City centre,,,,,,,,,,,,,40.3711848585478
-2009,Percentage (%),Other urban centre,,,,,,,,,,,,,34.190303003958
-2009,Percentage (%),Suburban residential,,,,,,,,,,,,,25.7960330462114
-2009,Percentage (%),Rural residential,,,,,,,,,,,,,31.4916739715745
-2009,Percentage (%),Village centre,,,,,,,,,,,,,39.3483288680786
-2009,Percentage (%),Rural,,,,,,,,,,,,,60.4915279797016
-2009,Percentage (%),All city and urban centres,,,,,,,,,,,,,35.1823427674644
-2009,Percentage (%),All rural areas,,,,,,,,,,,,,37.9722329869722
 2009,Percentage (%),,Couple under 60,,,,,,,,,,,Household,29.3948589632
 2009,Percentage (%),,Couple 60 or over,,,,,,,,,,,Household,28.1264855177
 2009,Percentage (%),,Couple with children,,,,,,,,,,,Household,25.5143197954
@@ -90,18 +607,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2009,Percentage (%),,,,,,,,,,10-19 years,,,Household,26.3066292255
 2009,Percentage (%),,,,,,,,,,20-29 years,,,Household,32.0981650202
 2009,Percentage (%),,,,,,,,,,30 or more years,,,Household,39.5627582012
-2009,Percentage (%),,,,,,,,,,,North,,,28.1624417161
-2009,Percentage (%),,,,,,,,,,,South East,,,29.5624318099
-2009,Percentage (%),,,,,,,,,,,Rest of England,,,31.8707033308
-2010,Percentage (%),All dwellings,,,,,,,,,,,,,26.522
-2010,Percentage (%),City centre,,,,,,,,,,,,,34.814
-2010,Percentage (%),Other urban centre,,,,,,,,,,,,,30.523
-2010,Percentage (%),Suburban residential,,,,,,,,,,,,,23.094
-2010,Percentage (%),Rural residential,,,,,,,,,,,,,25.67
-2010,Percentage (%),Village centre,,,,,,,,,,,,,34.623
-2010,Percentage (%),Rural,,,,,,,,,,,,,55.764
-2010,Percentage (%),All city and urban centres,,,,,,,,,,,,,31.233
-2010,Percentage (%),All rural areas,,,,,,,,,,,,,32.782
 2010,Percentage (%),,Couple under 60,,,,,,,,,,,Household,26.313
 2010,Percentage (%),,Couple 60 or over,,,,,,,,,,,Household,23.509
 2010,Percentage (%),,Couple with children,,,,,,,,,,,Household,21.439
@@ -137,18 +642,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2010,Percentage (%),,,,,,,,,,10-19 years,,,Household,23.159
 2010,Percentage (%),,,,,,,,,,20-29 years,,,Household,27.991
 2010,Percentage (%),,,,,,,,,,30 or more years,,,Household,33.928
-2010,Percentage (%),,,,,,,,,,,North,,,24.575
-2010,Percentage (%),,,,,,,,,,,South East,,,25.442
-2010,Percentage (%),,,,,,,,,,,Rest of England,,,28.716
-2011,Percentage (%),All dwellings,,,,,,,,,,,,,23.574
-2011,Percentage (%),City centre,,,,,,,,,,,,,32.34
-2011,Percentage (%),Other urban centre,,,,,,,,,,,,,29.003
-2011,Percentage (%),Suburban residential,,,,,,,,,,,,,19.957
-2011,Percentage (%),Rural residential,,,,,,,,,,,,,22.074
-2011,Percentage (%),Village centre,,,,,,,,,,,,,32.641
-2011,Percentage (%),Rural,,,,,,,,,,,,,51.574
-2011,Percentage (%),All city and urban centres,,,,,,,,,,,,,29.55
-2011,Percentage (%),All rural areas,,,,,,,,,,,,,29.588
 2011,Percentage (%),,Couple under 60,,,,,,,,,,,Household,22.873
 2011,Percentage (%),,Couple 60 or over,,,,,,,,,,,Household,20.386
 2011,Percentage (%),,Couple with children,,,,,,,,,,,Household,20.484
@@ -184,18 +677,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2011,Percentage (%),,,,,,,,,,10-19 years,,,Household,20.4
 2011,Percentage (%),,,,,,,,,,20-29 years,,,Household,24.967
 2011,Percentage (%),,,,,,,,,,30 or more years,,,Household,28.599
-2011,Percentage (%),,,,,,,,,,,North,,,23.066
-2011,Percentage (%),,,,,,,,,,,South East,,,20.892
-2011,Percentage (%),,,,,,,,,,,Rest of England,,,25.918
-2012,Percentage (%),All dwellings,,,,,,,,,,,,,21.777
-2012,Percentage (%),City centre,,,,,,,,,,,,,30.393
-2012,Percentage (%),Other urban centre,,,,,,,,,,,,,28.388
-2012,Percentage (%),Suburban residential,,,,,,,,,,,,,17.653
-2012,Percentage (%),Rural residential,,,,,,,,,,,,,21.382
-2012,Percentage (%),Village centre,,,,,,,,,,,,,33.172
-2012,Percentage (%),Rural,,,,,,,,,,,,,45.368
-2012,Percentage (%),All city and urban centres,,,,,,,,,,,,,28.693
-2012,Percentage (%),All rural areas,,,,,,,,,,,,,28.44
 2012,Percentage (%),,Couple under 60,,,,,,,,,,,Household,20.295
 2012,Percentage (%),,Couple 60 or over,,,,,,,,,,,Household,18.867
 2012,Percentage (%),,Couple with children,,,,,,,,,,,Household,19.354
@@ -231,18 +712,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2012,Percentage (%),,,,,,,,,,10-19 years,,,Household,18.915
 2012,Percentage (%),,,,,,,,,,20-29 years,,,Household,22.582
 2012,Percentage (%),,,,,,,,,,30 or more years,,,Household,27.203
-2012,Percentage (%),,,,,,,,,,,North,,,21.046
-2012,Percentage (%),,,,,,,,,,,South East,,,18.927
-2012,Percentage (%),,,,,,,,,,,Rest of England,,,24.413
-2013,Percentage (%),All dwellings,,,,,,,,,,,,,20.579246876024
-2013,Percentage (%),City centre,,,,,,,,,,,,,35.8871191828478
-2013,Percentage (%),Other urban centre,,,,,,,,,,,,,26.2813952928083
-2013,Percentage (%),Suburban residential,,,,,,,,,,,,,16.7704724945148
-2013,Percentage (%),Rural residential,,,,,,,,,,,,,18.2026309824366
-2013,Percentage (%),Village centre,,,,,,,,,,,,,31.0580478911331
-2013,Percentage (%),Rural,,,,,,,,,,,,,42.4808655008911
-2013,Percentage (%),All city and urban centres,,,,,,,,,,,,,27.6655660263092
-2013,Percentage (%),All rural areas,,,,,,,,,,,,,25.0024709691261
 2013,Percentage (%),,Couple under 60,,,,,,,,,,,Household,18.3055509931
 2013,Percentage (%),,Couple 60 or over,,,,,,,,,,,Household,17.6241884474
 2013,Percentage (%),,Couple with children,,,,,,,,,,,Household,17.3370252574
@@ -278,18 +747,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2013,Percentage (%),,,,,,,,,,10-19 years,,,Household,17.7774510196
 2013,Percentage (%),,,,,,,,,,20-29 years,,,Household,21.2914166383
 2013,Percentage (%),,,,,,,,,,30 or more years,,,Household,26.6492253676
-2013,Percentage (%),,,,,,,,,,,North,,,19.5406048525
-2013,Percentage (%),,,,,,,,,,,South East,,,19.2842768642
-2013,Percentage (%),,,,,,,,,,,Rest of England,,,22.2959163378
-2014,Percentage (%),All dwellings,,,,,,,,,,,,,19.8414390582565
-2014,Percentage (%),City centre,,,,,,,,,,,,,33.4774668877647
-2014,Percentage (%),Other urban centre,,,,,,,,,,,,,24.0473863626907
-2014,Percentage (%),Suburban residential,,,,,,,,,,,,,16.3756209513379
-2014,Percentage (%),Rural residential,,,,,,,,,,,,,17.941760963355
-2014,Percentage (%),Village centre,,,,,,,,,,,,,32.6544278627384
-2014,Percentage (%),Rural,,,,,,,,,,,,,42.2421444615788
-2014,Percentage (%),All city and urban centres,,,,,,,,,,,,,25.4599922492868
-2014,Percentage (%),All rural areas,,,,,,,,,,,,,24.8201298207721
 2014,Percentage (%),,Couple under 60,,,,,,,,,,,Household,19.7044425512
 2014,Percentage (%),,Couple 60 or over,,,,,,,,,,,Household,16.5574944911
 2014,Percentage (%),,Couple with children,,,,,,,,,,,Household,17.6213741645
@@ -325,17 +782,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2014,Percentage (%),,,,,,,,,,10-19 years,,,Household,17.8902653443
 2014,Percentage (%),,,,,,,,,,20-29 years,,,Household,20.9085554519
 2014,Percentage (%),,,,,,,,,,30 or more years,,,Household,25.1007841159
-2014,Percentage (%),,,,,,,,,,,North,,,19.0908305425
-2014,Percentage (%),,,,,,,,,,,South East,,,18.5798674554
-2014,Percentage (%),,,,,,,,,,,Rest of England,,,21.3212502896
-2015,Percentage (%),All dwellings,,,,,,,,,,,,,19.4088030850508
-2015,Percentage (%),City centre,,,,,,,,,,,,,26.4843361859644
-2015,Percentage (%),Other urban centre,,,,,,,,,,,,,22.2769933249039
-2015,Percentage (%),Suburban residential,,,,,,,,,,,,,16.2809527353166
-2015,Percentage (%),Rural residential,,,,,,,,,,,,,20.1990316310637
-2015,Percentage (%),Village centre,,,,,,,,,,,,,31.0314586607088
-2015,Percentage (%),Rural,,,,,,,,,,,,,42.624444843786
-2015,Percentage (%),All rural areas,,,,,,,,,,,,,26.1144305255438
 2015,Percentage (%),,Couple under 60,,,,,,,,,,,Household,18.7016896464
 2015,Percentage (%),,Couple 60 or over,,,,,,,,,,,Household,17.3194934515
 2015,Percentage (%),,Couple with children,,,,,,,,,,,Household,18.3419988151
@@ -371,18 +817,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2015,Percentage (%),,,,,,,,,,10-19 years,,,Household,16.9182186136
 2015,Percentage (%),,,,,,,,,,20-29 years,,,Household,17.8399505694
 2015,Percentage (%),,,,,,,,,,30 or more years,,,Household,25.0024348091
-2015,Percentage (%),,,,,,,,,,,North,,,20.0371376834
-2015,Percentage (%),,,,,,,,,,,South East,,,16.7934079568
-2015,Percentage (%),,,,,,,,,,,Rest of England,,,20.9416922656
-2008,Percentage (%),All dwellings,,,,,,,,,,,Minimum standard,,21.771587522288
-2008,Percentage (%),City centre,,,,,,,,,,,Minimum standard,,28.492784318847
-2008,Percentage (%),Other urban centre,,,,,,,,,,,Minimum standard,,22.8728518661875
-2008,Percentage (%),Suburban residential,,,,,,,,,,,Minimum standard,,17.5761688081418
-2008,Percentage (%),Rural residential,,,,,,,,,,,Minimum standard,,25.5853779389023
-2008,Percentage (%),Village centre,,,,,,,,,,,Minimum standard,,38.4556706879175
-2008,Percentage (%),Rural,,,,,,,,,,,Minimum standard,,54.1194067238737
-2008,Percentage (%),All city and urban centres,,,,,,,,,,,Minimum standard,,23.6756889394519
-2008,Percentage (%),All rural areas,,,,,,,,,,,Minimum standard,,32.9350417409394
 2008,Percentage (%),,Couple under 60,,,,,,,,,,Minimum standard,Household,22.0145059782
 2008,Percentage (%),,Couple 60 or over,,,,,,,,,,Minimum standard,Household,21.1996829945
 2008,Percentage (%),,Couple with children,,,,,,,,,,Minimum standard,Household,20.209765634
@@ -418,18 +852,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2008,Percentage (%),,,,,,,,,,10-19 years,,Minimum standard,Household,19.4055077688
 2008,Percentage (%),,,,,,,,,,20-29 years,,Minimum standard,Household,24.6958400276
 2008,Percentage (%),,,,,,,,,,30 or more years,,Minimum standard,Household,28.1382667517
-2008,Percentage (%),,,,,,,,,,,North,Minimum standard,,22.6241817117
-2008,Percentage (%),,,,,,,,,,,South East,Minimum standard,,18.6688232886
-2008,Percentage (%),,,,,,,,,,,Rest of England,Minimum standard,,23.4486689546
-2009,Percentage (%),All dwellings,,,,,,,,,,,Minimum standard,,20.1986881577713
-2009,Percentage (%),City centre,,,,,,,,,,,Minimum standard,,25.7693439655618
-2009,Percentage (%),Other urban centre,,,,,,,,,,,Minimum standard,,20.9327508470442
-2009,Percentage (%),Suburban residential,,,,,,,,,,,Minimum standard,,16.3998014098161
-2009,Percentage (%),Rural residential,,,,,,,,,,,Minimum standard,,23.9471727851635
-2009,Percentage (%),Village centre,,,,,,,,,,,Minimum standard,,31.2563891354266
-2009,Percentage (%),Rural,,,,,,,,,,,Minimum standard,,55.6652655220324
-2009,Percentage (%),All city and urban centres,,,,,,,,,,,Minimum standard,,21.7090304793604
-2009,Percentage (%),All rural areas,,,,,,,,,,,Minimum standard,,30.7690555266771
 2009,Percentage (%),,Couple under 60,,,,,,,,,,Minimum standard,Household,20.3955147141
 2009,Percentage (%),,Couple 60 or over,,,,,,,,,,Minimum standard,Household,20.5309183095
 2009,Percentage (%),,Couple with children,,,,,,,,,,Minimum standard,Household,18.2366190532
@@ -465,18 +887,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2009,Percentage (%),,,,,,,,,,10-19 years,,Minimum standard,Household,17.8262114807
 2009,Percentage (%),,,,,,,,,,20-29 years,,Minimum standard,Household,21.9645982662
 2009,Percentage (%),,,,,,,,,,30 or more years,,Minimum standard,Household,27.1154544763
-2009,Percentage (%),,,,,,,,,,,North,Minimum standard,,20.1152288421
-2009,Percentage (%),,,,,,,,,,,South East,Minimum standard,,16.9389475085
-2009,Percentage (%),,,,,,,,,,,Rest of England,Minimum standard,,22.643345684
-2010,Percentage (%),All dwellings,,,,,,,,,,,Minimum standard,,17.048
-2010,Percentage (%),City centre,,,,,,,,,,,Minimum standard,,20.73
-2010,Percentage (%),Other urban centre,,,,,,,,,,,Minimum standard,,17.652
-2010,Percentage (%),Suburban residential,,,,,,,,,,,Minimum standard,,14.274
-2010,Percentage (%),Rural residential,,,,,,,,,,,Minimum standard,,18.63
-2010,Percentage (%),Village centre,,,,,,,,,,,Minimum standard,,25.197
-2010,Percentage (%),Rural,,,,,,,,,,,Minimum standard,,49.472
-2010,Percentage (%),All city and urban centres,,,,,,,,,,,Minimum standard,,18.161
-2010,Percentage (%),All rural areas,,,,,,,,,,,Minimum standard,,25.34
 2010,Percentage (%),,Couple under 60,,,,,,,,,,Minimum standard,Household,17.888
 2010,Percentage (%),,Couple 60 or over,,,,,,,,,,Minimum standard,Household,16.495
 2010,Percentage (%),,Couple with children,,,,,,,,,,Minimum standard,Household,14.645
@@ -512,18 +922,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2010,Percentage (%),,,,,,,,,,10-19 years,,Minimum standard,Household,15.25
 2010,Percentage (%),,,,,,,,,,20-29 years,,Minimum standard,Household,19.166
 2010,Percentage (%),,,,,,,,,,30 or more years,,Minimum standard,Household,23.183
-2010,Percentage (%),,,,,,,,,,,North,Minimum standard,,16.422
-2010,Percentage (%),,,,,,,,,,,South East,Minimum standard,,14.0
-2010,Percentage (%),,,,,,,,,,,Rest of England,Minimum standard,,19.733
-2011,Percentage (%),All dwellings,,,,,,,,,,,Minimum standard,,14.718
-2011,Percentage (%),City centre,,,,,,,,,,,Minimum standard,,17.862
-2011,Percentage (%),Other urban centre,,,,,,,,,,,Minimum standard,,17.471
-2011,Percentage (%),Suburban residential,,,,,,,,,,,Minimum standard,,11.745
-2011,Percentage (%),Rural residential,,,,,,,,,,,Minimum standard,,15.905
-2011,Percentage (%),Village centre,,,,,,,,,,,Minimum standard,,22.764
-2011,Percentage (%),Rural,,,,,,,,,,,Minimum standard,,43.298
-2011,Percentage (%),All city and urban centres,,,,,,,,,,,Minimum standard,,17.535
-2011,Percentage (%),All rural areas,,,,,,,,,,,Minimum standard,,22.172
 2011,Percentage (%),,Couple under 60,,,,,,,,,,Minimum standard,Household,14.805
 2011,Percentage (%),,Couple 60 or over,,,,,,,,,,Minimum standard,Household,14.573
 2011,Percentage (%),,Couple with children,,,,,,,,,,Minimum standard,Household,13.575
@@ -559,18 +957,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2011,Percentage (%),,,,,,,,,,10-19 years,,Minimum standard,Household,13.451
 2011,Percentage (%),,,,,,,,,,20-29 years,,Minimum standard,Household,16.676
 2011,Percentage (%),,,,,,,,,,30 or more years,,Minimum standard,Household,19.838
-2011,Percentage (%),,,,,,,,,,,North,Minimum standard,,14.374
-2011,Percentage (%),,,,,,,,,,,South East,Minimum standard,,11.341
-2011,Percentage (%),,,,,,,,,,,Rest of England,Minimum standard,,17.454
-2012,Percentage (%),All dwellings,,,,,,,,,,,Minimum standard,,13.377
-2012,Percentage (%),City centre,,,,,,,,,,,Minimum standard,,17.574
-2012,Percentage (%),Other urban centre,,,,,,,,,,,Minimum standard,,17.656
-2012,Percentage (%),Suburban residential,,,,,,,,,,,Minimum standard,,9.943
-2012,Percentage (%),Rural residential,,,,,,,,,,,Minimum standard,,14.315
-2012,Percentage (%),Village centre,,,,,,,,,,,Minimum standard,,23.888
-2012,Percentage (%),Rural,,,,,,,,,,,Minimum standard,,37.569
-2012,Percentage (%),All city and urban centres,,,,,,,,,,,Minimum standard,,17.643
-2012,Percentage (%),All rural areas,,,,,,,,,,,Minimum standard,,20.719
 2012,Percentage (%),,Couple under 60,,,,,,,,,,Minimum standard,Household,13.082
 2012,Percentage (%),,Couple 60 or over,,,,,,,,,,Minimum standard,Household,13.089
 2012,Percentage (%),,Couple with children,,,,,,,,,,Minimum standard,Household,12.929
@@ -606,18 +992,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2012,Percentage (%),,,,,,,,,,10-19 years,,Minimum standard,Household,12.371
 2012,Percentage (%),,,,,,,,,,20-29 years,,Minimum standard,Household,14.822
 2012,Percentage (%),,,,,,,,,,30 or more years,,Minimum standard,Household,18.049
-2012,Percentage (%),,,,,,,,,,,North,Minimum standard,,12.866
-2012,Percentage (%),,,,,,,,,,,South East,Minimum standard,,10.017
-2012,Percentage (%),,,,,,,,,,,Rest of England,Minimum standard,,16.234
-2013,Percentage (%),All dwellings,,,,,,,,,,,Minimum standard,,11.9008173337487
-2013,Percentage (%),City centre,,,,,,,,,,,Minimum standard,,17.5310655655711
-2013,Percentage (%),Other urban centre,,,,,,,,,,,Minimum standard,,15.9235713485418
-2013,Percentage (%),Suburban residential,,,,,,,,,,,Minimum standard,,8.87169540148429
-2013,Percentage (%),Rural residential,,,,,,,,,,,Minimum standard,,10.9668821373019
-2013,Percentage (%),Village centre,,,,,,,,,,,Minimum standard,,22.7426217441104
-2013,Percentage (%),Rural,,,,,,,,,,,Minimum standard,,32.5132938668218
-2013,Percentage (%),All city and urban centres,,,,,,,,,,,Minimum standard,,16.1552089091208
-2013,Percentage (%),All rural areas,,,,,,,,,,,Minimum standard,,17.081966264642
 2013,Percentage (%),,Couple under 60,,,,,,,,,,Minimum standard,Household,11.548947054
 2013,Percentage (%),,Couple 60 or over,,,,,,,,,,Minimum standard,Household,10.1446005077
 2013,Percentage (%),,Couple with children,,,,,,,,,,Minimum standard,Household,11.5832776691
@@ -653,18 +1027,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2013,Percentage (%),,,,,,,,,,10-19 years,,Minimum standard,Household,10.9619851752
 2013,Percentage (%),,,,,,,,,,20-29 years,,Minimum standard,Household,13.1411353802
 2013,Percentage (%),,,,,,,,,,30 or more years,,Minimum standard,Household,15.3994981359
-2013,Percentage (%),,,,,,,,,,,North,Minimum standard,,11.1919042254
-2013,Percentage (%),,,,,,,,,,,South East,Minimum standard,,10.0132972792
-2013,Percentage (%),,,,,,,,,,,Rest of England,Minimum standard,,13.829216327
-2014,Percentage (%),All dwellings,,,,,,,,,,,Minimum standard,,11.4420290385273
-2014,Percentage (%),City centre,,,,,,,,,,,Minimum standard,,16.3456896370773
-2014,Percentage (%),Other urban centre,,,,,,,,,,,Minimum standard,,14.4415515492655
-2014,Percentage (%),Suburban residential,,,,,,,,,,,Minimum standard,,8.61417046888018
-2014,Percentage (%),Rural residential,,,,,,,,,,,Minimum standard,,11.6497014448238
-2014,Percentage (%),Village centre,,,,,,,,,,,Minimum standard,,22.3206059709262
-2014,Percentage (%),Rural,,,,,,,,,,,Minimum standard,,32.4850955093972
-2014,Percentage (%),All city and urban centres,,,,,,,,,,,Minimum standard,,14.726787360835
-2014,Percentage (%),All rural areas,,,,,,,,,,,Minimum standard,,17.1102213762536
 2014,Percentage (%),,Couple under 60,,,,,,,,,,Minimum standard,Household,12.9214779687
 2014,Percentage (%),,Couple 60 or over,,,,,,,,,,Minimum standard,Household,9.10378706886
 2014,Percentage (%),,Couple with children,,,,,,,,,,Minimum standard,Household,11.5255269956
@@ -700,18 +1062,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2014,Percentage (%),,,,,,,,,,10-19 years,,Minimum standard,Household,11.231558902
 2014,Percentage (%),,,,,,,,,,20-29 years,,Minimum standard,Household,12.2213641494
 2014,Percentage (%),,,,,,,,,,30 or more years,,Minimum standard,Household,13.2486570718
-2014,Percentage (%),,,,,,,,,,,North,Minimum standard,,11.9099944311
-2014,Percentage (%),,,,,,,,,,,South East,Minimum standard,,8.41624456355
-2014,Percentage (%),,,,,,,,,,,Rest of England,Minimum standard,,13.3766665965
-2015,Percentage (%),All dwellings,,,,,,,,,,,Minimum standard,,12.1957608457835
-2015,Percentage (%),City centre,,,,,,,,,,,Minimum standard,,16.360411170745
-2015,Percentage (%),Other urban centre,,,,,,,,,,,Minimum standard,,13.7575782991354
-2015,Percentage (%),Suburban residential,,,,,,,,,,,Minimum standard,,9.3221348722128
-2015,Percentage (%),Rural residential,,,,,,,,,,,Minimum standard,,15.1103462575817
-2015,Percentage (%),Village centre,,,,,,,,,,,Minimum standard,,22.3229955644016
-2015,Percentage (%),Rural,,,,,,,,,,,Minimum standard,,35.764093908043
-2015,Percentage (%),All city and urban centres,,,,,,,,,,,Minimum standard,,14.2076335237493
-2015,Percentage (%),All rural areas,,,,,,,,,,,Minimum standard,,19.9193010155089
 2015,Percentage (%),,Couple under 60,,,,,,,,,,Minimum standard,Household,12.3654253553
 2015,Percentage (%),,Couple 60 or over,,,,,,,,,,Minimum standard,Household,11.4097030195
 2015,Percentage (%),,Couple with children,,,,,,,,,,Minimum standard,Household,12.5882344544
@@ -747,18 +1097,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2015,Percentage (%),,,,,,,,,,10-19 years,,Minimum standard,Household,10.588681748
 2015,Percentage (%),,,,,,,,,,20-29 years,,Minimum standard,Household,12.2869530216
 2015,Percentage (%),,,,,,,,,,30 or more years,,Minimum standard,Household,15.8835453482
-2015,Percentage (%),,,,,,,,,,,North,Minimum standard,,14.5232134815
-2015,Percentage (%),,,,,,,,,,,South East,Minimum standard,,7.24960456551
-2015,Percentage (%),,,,,,,,,,,Rest of England,Minimum standard,,14.2830271773
-2008,Percentage (%),All dwellings,,,,,,,,,,,Repair,,6.37165178661756
-2008,Percentage (%),City centre,,,,,,,,,,,Repair,,11.8813862965938
-2008,Percentage (%),Other urban centre,,,,,,,,,,,Repair,,8.50946792432474
-2008,Percentage (%),Suburban residential,,,,,,,,,,,Repair,,5.31599220903229
-2008,Percentage (%),Rural residential,,,,,,,,,,,Repair,,4.57700526516286
-2008,Percentage (%),Village centre,,,,,,,,,,,Repair,,9.14817474638359
-2008,Percentage (%),Rural,,,,,,,,,,,Repair,,11.2899561334521
-2008,Percentage (%),All city and urban centres,,,,,,,,,,,Repair,,8.99116429702724
-2008,Percentage (%),All rural areas,,,,,,,,,,,Repair,,6.61670288603506
 2008,Percentage (%),,Couple under 60,,,,,,,,,,Repair,Household,5.70272143744
 2008,Percentage (%),,Couple 60 or over,,,,,,,,,,Repair,Household,4.70013929029
 2008,Percentage (%),,Couple with children,,,,,,,,,,Repair,Household,5.73089054941
@@ -794,18 +1132,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2008,Percentage (%),,,,,,,,,,10-19 years,,Repair,Household,5.06656368211
 2008,Percentage (%),,,,,,,,,,20-29 years,,Repair,Household,5.49849776253
 2008,Percentage (%),,,,,,,,,,30 or more years,,Repair,Household,7.61570101123
-2008,Percentage (%),,,,,,,,,,,North,Repair,,6.60743745055
-2008,Percentage (%),,,,,,,,,,,South East,Repair,,6.83909954041
-2008,Percentage (%),,,,,,,,,,,Rest of England,Repair,,5.85492191228
-2009,Percentage (%),All dwellings,,,,,,,,,,,Repair,,6.06908139075801
-2009,Percentage (%),City centre,,,,,,,,,,,Repair,,9.69948754612022
-2009,Percentage (%),Other urban centre,,,,,,,,,,,Repair,,8.65793903213576
-2009,Percentage (%),Suburban residential,,,,,,,,,,,Repair,,4.84419056519448
-2009,Percentage (%),Rural residential,,,,,,,,,,,Repair,,5.62297744134724
-2009,Percentage (%),Village centre,,,,,,,,,,,Repair,,6.76465409146937
-2009,Percentage (%),Rural,,,,,,,,,,,Repair,,10.858944119658
-2009,Percentage (%),All city and urban centres,,,,,,,,,,,Repair,,8.82510895477815
-2009,Percentage (%),All rural areas,,,,,,,,,,,Repair,,6.73566612954508
 2009,Percentage (%),,Couple under 60,,,,,,,,,,Repair,Household,5.51142907129
 2009,Percentage (%),,Couple 60 or over,,,,,,,,,,Repair,Household,4.51040246979
 2009,Percentage (%),,Couple with children,,,,,,,,,,Repair,Household,4.9776432371
@@ -841,17 +1167,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2009,Percentage (%),,,,,,,,,,10-19 years,,Repair,Household,4.60422273883
 2009,Percentage (%),,,,,,,,,,20-29 years,,Repair,Household,6.46907570727
 2009,Percentage (%),,,,,,,,,,30 or more years,,Repair,Household,7.42278253229
-2009,Percentage (%),,,,,,,,,,,North,Repair,,6.16385545629
-2009,Percentage (%),,,,,,,,,,,South East,Repair,,6.46510718688
-2009,Percentage (%),,,,,,,,,,,Rest of England,Repair,,5.71132305469
-2010,Percentage (%),All dwellings,,,,,,,,,,,Repair,,5.585
-2010,Percentage (%),City centre,,,,,,,,,,,Repair,,9.682
-2010,Percentage (%),Other urban centre,,,,,,,,,,,Repair,,8.496
-2010,Percentage (%),Suburban residential,,,,,,,,,,,Repair,,4.627
-2010,Percentage (%),Rural residential,,,,,,,,,,,Repair,,4.593
-2010,Percentage (%),Rural,,,,,,,,,,,Repair,,8.948
-2010,Percentage (%),All city and urban centres,,,,,,,,,,,Repair,,8.693
-2010,Percentage (%),All rural areas,,,,,,,,,,,Repair,,5.192
 2010,Percentage (%),,Couple under 60,,,,,,,,,,Repair,Household,4.956
 2010,Percentage (%),,Couple 60 or over,,,,,,,,,,Repair,Household,3.57
 2010,Percentage (%),,Couple with children,,,,,,,,,,Repair,Household,4.55
@@ -886,17 +1201,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2010,Percentage (%),,,,,,,,,,10-19 years,,Repair,Household,4.354
 2010,Percentage (%),,,,,,,,,,20-29 years,,Repair,Household,5.568
 2010,Percentage (%),,,,,,,,,,30 or more years,,Repair,Household,7.26
-2010,Percentage (%),,,,,,,,,,,North,Repair,,6.174
-2010,Percentage (%),,,,,,,,,,,South East,Repair,,5.294
-2010,Percentage (%),,,,,,,,,,,Rest of England,Repair,,5.374
-2011,Percentage (%),All dwellings,,,,,,,,,,,Repair,,5.233
-2011,Percentage (%),City centre,,,,,,,,,,,Repair,,8.641
-2011,Percentage (%),Other urban centre,,,,,,,,,,,Repair,,8.034
-2011,Percentage (%),Suburban residential,,,,,,,,,,,Repair,,4.453
-2011,Percentage (%),Rural residential,,,,,,,,,,,Repair,,3.349
-2011,Percentage (%),Rural,,,,,,,,,,,Repair,,9.77
-2011,Percentage (%),All city and urban centres,,,,,,,,,,,Repair,,8.133
-2011,Percentage (%),All rural areas,,,,,,,,,,,Repair,,4.595
 2011,Percentage (%),,Couple under 60,,,,,,,,,,Repair,Household,5.071
 2011,Percentage (%),,Couple 60 or over,,,,,,,,,,Repair,Household,3.082
 2011,Percentage (%),,Couple with children,,,,,,,,,,Repair,Household,4.251
@@ -932,18 +1236,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2011,Percentage (%),,,,,,,,,,10-19 years,,Repair,Household,4.346
 2011,Percentage (%),,,,,,,,,,20-29 years,,Repair,Household,3.952
 2011,Percentage (%),,,,,,,,,,30 or more years,,Repair,Household,6.951
-2011,Percentage (%),,,,,,,,,,,North,Repair,,6.72
-2011,Percentage (%),,,,,,,,,,,South East,Repair,,4.465
-2011,Percentage (%),,,,,,,,,,,Rest of England,Repair,,4.727
-2012,Percentage (%),All dwellings,,,,,,,,,,,Repair,,4.751
-2012,Percentage (%),City centre,,,,,,,,,,,Repair,,5.802
-2012,Percentage (%),Other urban centre,,,,,,,,,,,Repair,,6.985
-2012,Percentage (%),Suburban residential,,,,,,,,,,,Repair,,4.065
-2012,Percentage (%),Rural residential,,,,,,,,,,,Repair,,3.493
-2012,Percentage (%),Village centre,,,,,,,,,,,Repair,,5.456
-2012,Percentage (%),Rural,,,,,,,,,,,Repair,,8.088
-2012,Percentage (%),All city and urban centres,,,,,,,,,,,Repair,,6.805
-2012,Percentage (%),All rural areas,,,,,,,,,,,Repair,,4.775
 2012,Percentage (%),,Couple under 60,,,,,,,,,,Repair,Household,4.458
 2012,Percentage (%),,Couple 60 or over,,,,,,,,,,Repair,Household,3.052
 2012,Percentage (%),,Couple with children,,,,,,,,,,Repair,Household,3.708
@@ -979,18 +1271,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2012,Percentage (%),,,,,,,,,,10-19 years,,Repair,Household,3.852
 2012,Percentage (%),,,,,,,,,,20-29 years,,Repair,Household,4.215
 2012,Percentage (%),,,,,,,,,,30 or more years,,Repair,Household,5.738
-2012,Percentage (%),,,,,,,,,,,North,Repair,,6.46
-2012,Percentage (%),,,,,,,,,,,South East,Repair,,4.126
-2012,Percentage (%),,,,,,,,,,,Rest of England,Repair,,3.994
-2013,Percentage (%),All dwellings,,,,,,,,,,,Repair,,4.62496830085392
-2013,Percentage (%),City centre,,,,,,,,,,,Repair,,5.1623578708695
-2013,Percentage (%),Other urban centre,,,,,,,,,,,Repair,,6.17275951574698
-2013,Percentage (%),Suburban residential,,,,,,,,,,,Repair,,4.1482172318194
-2013,Percentage (%),Rural residential,,,,,,,,,,,Repair,,3.58602280810086
-2013,Percentage (%),Village centre,,,,,,,,,,,Repair,,4.83950649885075
-2013,Percentage (%),Rural,,,,,,,,,,,Repair,,7.83805506210171
-2013,Percentage (%),All city and urban centres,,,,,,,,,,,Repair,,6.02716211965995
-2013,Percentage (%),All rural areas,,,,,,,,,,,Repair,,4.55827509480084
 2013,Percentage (%),,Couple under 60,,,,,,,,,,Repair,Household,3.35951024854
 2013,Percentage (%),,Couple 60 or over,,,,,,,,,,Repair,Household,3.30077554596
 2013,Percentage (%),,Couple with children,,,,,,,,,,Repair,Household,3.23008039387
@@ -1026,18 +1306,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2013,Percentage (%),,,,,,,,,,10-19 years,,Repair,Household,3.32837954648
 2013,Percentage (%),,,,,,,,,,20-29 years,,Repair,Household,5.89002177509
 2013,Percentage (%),,,,,,,,,,30 or more years,,Repair,Household,5.21780239036
-2013,Percentage (%),,,,,,,,,,,North,Repair,,6.42973725016
-2013,Percentage (%),,,,,,,,,,,South East,Repair,,3.86175444451
-2013,Percentage (%),,,,,,,,,,,Rest of England,Repair,,3.91398919375
-2014,Percentage (%),All dwellings,,,,,,,,,,,Repair,,4.55380698885551
-2014,Percentage (%),City centre,,,,,,,,,,,Repair,,5.79529711802858
-2014,Percentage (%),Other urban centre,,,,,,,,,,,Repair,,5.51689801095991
-2014,Percentage (%),Suburban residential,,,,,,,,,,,Repair,,4.16198714594371
-2014,Percentage (%),Rural residential,,,,,,,,,,,Repair,,3.59425874163448
-2014,Percentage (%),Village centre,,,,,,,,,,,Repair,,6.06370557745128
-2014,Percentage (%),Rural,,,,,,,,,,,Repair,,7.06837305935846
-2014,Percentage (%),All city and urban centres,,,,,,,,,,,Repair,,5.55860160155203
-2014,Percentage (%),All rural areas,,,,,,,,,,,Repair,,4.65992897717268
 2014,Percentage (%),,Couple under 60,,,,,,,,,,Repair,Household,3.61184407357
 2014,Percentage (%),,Couple 60 or over,,,,,,,,,,Repair,Household,3.04700124072
 2014,Percentage (%),,Couple with children,,,,,,,,,,Repair,Household,3.67654705642
@@ -1073,18 +1341,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2014,Percentage (%),,,,,,,,,,10-19 years,,Repair,Household,3.94009931227
 2014,Percentage (%),,,,,,,,,,20-29 years,,Repair,Household,5.31391681508
 2014,Percentage (%),,,,,,,,,,30 or more years,,Repair,Household,5.57070124862
-2014,Percentage (%),,,,,,,,,,,North,Repair,,5.49865039287
-2014,Percentage (%),,,,,,,,,,,South East,Repair,,4.15663663853
-2014,Percentage (%),,,,,,,,,,,Rest of England,Repair,,4.17891821303
-2015,Percentage (%),All dwellings,,,,,,,,,,,Repair,,4.04840072937332
-2015,Percentage (%),City centre,,,,,,,,,,,Repair,,6.2602775192605
-2015,Percentage (%),Other urban centre,,,,,,,,,,,Repair,,4.81807449639328
-2015,Percentage (%),Suburban residential,,,,,,,,,,,Repair,,3.71553629777858
-2015,Percentage (%),Rural residential,,,,,,,,,,,Repair,,3.03758879617084
-2015,Percentage (%),Village centre,,,,,,,,,,,Repair,,5.43342328356696
-2015,Percentage (%),Rural,,,,,,,,,,,Repair,,5.6698136215439
-2015,Percentage (%),All city and urban centres,,,,,,,,,,,Repair,,5.06744548462503
-2015,Percentage (%),All rural areas,,,,,,,,,,,Repair,,3.99190325882851
 2015,Percentage (%),,Couple under 60,,,,,,,,,,Repair,Household,4.13897421543
 2015,Percentage (%),,Couple 60 or over,,,,,,,,,,Repair,Household,2.72716751904
 2015,Percentage (%),,Couple with children,,,,,,,,,,Repair,Household,3.80907321321
@@ -1120,18 +1376,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2015,Percentage (%),,,,,,,,,,10-19 years,,Repair,Household,3.6698604093
 2015,Percentage (%),,,,,,,,,,20-29 years,,Repair,Household,3.42230496965
 2015,Percentage (%),,,,,,,,,,30 or more years,,Repair,Household,5.38144233858
-2015,Percentage (%),,,,,,,,,,,North,Repair,,4.89147342404
-2015,Percentage (%),,,,,,,,,,,South East,Repair,,3.71362092759
-2015,Percentage (%),,,,,,,,,,,Rest of England,Repair,,3.70121081134
-2008,Percentage (%),All dwellings,,,,,,,,,,,Modern facilities and services,,3.26761992388461
-2008,Percentage (%),City centre,,,,,,,,,,,Modern facilities and services,,10.1468120686277
-2008,Percentage (%),Other urban centre,,,,,,,,,,,Modern facilities and services,,4.56650259824941
-2008,Percentage (%),Suburban residential,,,,,,,,,,,Modern facilities and services,,2.61997594545535
-2008,Percentage (%),Rural residential,,,,,,,,,,,Modern facilities and services,,2.20124323499417
-2008,Percentage (%),Village centre,,,,,,,,,,,Modern facilities and services,,4.36528004924473
-2008,Percentage (%),Rural,,,,,,,,,,,Modern facilities and services,,3.37285983094193
-2008,Percentage (%),All city and urban centres,,,,,,,,,,,Modern facilities and services,,5.36367931893906
-2008,Percentage (%),All rural areas,,,,,,,,,,,Modern facilities and services,,2.83220399836563
 2008,Percentage (%),,Couple under 60,,,,,,,,,,Modern facilities and services,Household,1.86322906835
 2008,Percentage (%),,Couple 60 or over,,,,,,,,,,Modern facilities and services,Household,2.54802234736
 2008,Percentage (%),,Couple with children,,,,,,,,,,Modern facilities and services,Household,1.99239860297
@@ -1167,18 +1411,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2008,Percentage (%),,,,,,,,,,10-19 years,,Modern facilities and services,Household,3.20953952977
 2008,Percentage (%),,,,,,,,,,20-29 years,,Modern facilities and services,Household,3.87277727854
 2008,Percentage (%),,,,,,,,,,30 or more years,,Modern facilities and services,Household,6.70356183948
-2008,Percentage (%),,,,,,,,,,,North,Modern facilities and services,,2.4589770494
-2008,Percentage (%),,,,,,,,,,,South East,Modern facilities and services,,3.71483928112
-2008,Percentage (%),,,,,,,,,,,Rest of England,Modern facilities and services,,3.52306280199
-2009,Percentage (%),All dwellings,,,,,,,,,,,Modern facilities and services,,3.09278415136843
-2009,Percentage (%),City centre,,,,,,,,,,,Modern facilities and services,,10.2201518035673
-2009,Percentage (%),Other urban centre,,,,,,,,,,,Modern facilities and services,,4.24002685426009
-2009,Percentage (%),Suburban residential,,,,,,,,,,,Modern facilities and services,,2.48408902383825
-2009,Percentage (%),Rural residential,,,,,,,,,,,Modern facilities and services,,1.95963460575822
-2009,Percentage (%),Village centre,,,,,,,,,,,Modern facilities and services,,3.35798185455993
-2009,Percentage (%),Rural,,,,,,,,,,,Modern facilities and services,,3.65381039599539
-2009,Percentage (%),All city and urban centres,,,,,,,,,,,Modern facilities and services,,5.19984486729076
-2009,Percentage (%),All rural areas,,,,,,,,,,,Modern facilities and services,,2.53293891070961
 2009,Percentage (%),,Couple under 60,,,,,,,,,,Modern facilities and services,Household,1.50641465358
 2009,Percentage (%),,Couple 60 or over,,,,,,,,,,Modern facilities and services,Household,2.25026741051
 2009,Percentage (%),,Couple with children,,,,,,,,,,Modern facilities and services,Household,1.55598161359
@@ -1214,16 +1446,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2009,Percentage (%),,,,,,,,,,10-19 years,,Modern facilities and services,Household,2.47119140774
 2009,Percentage (%),,,,,,,,,,20-29 years,,Modern facilities and services,Household,2.78260121408
 2009,Percentage (%),,,,,,,,,,30 or more years,,Modern facilities and services,Household,7.2828575532
-2009,Percentage (%),,,,,,,,,,,North,Modern facilities and services,,2.57139090253
-2009,Percentage (%),,,,,,,,,,,South East,Modern facilities and services,,3.88792097245
-2009,Percentage (%),,,,,,,,,,,Rest of England,Modern facilities and services,,2.88537664279
-2010,Percentage (%),All dwellings,,,,,,,,,,,Modern facilities and services,,2.34
-2010,Percentage (%),City centre,,,,,,,,,,,Modern facilities and services,,6.621
-2010,Percentage (%),Other urban centre,,,,,,,,,,,Modern facilities and services,,3.093
-2010,Percentage (%),Suburban residential,,,,,,,,,,,Modern facilities and services,,1.924
-2010,Percentage (%),Rural residential,,,,,,,,,,,Modern facilities and services,,1.713
-2010,Percentage (%),All city and urban centres,,,,,,,,,,,Modern facilities and services,,3.677
-2010,Percentage (%),All rural areas,,,,,,,,,,,Modern facilities and services,,2.185
 2010,Percentage (%),,Couple under 60,,,,,,,,,,Modern facilities and services,Household,1.459
 2010,Percentage (%),,Couple 60 or over,,,,,,,,,,Modern facilities and services,Household,1.853
 2010,Percentage (%),,Couple with children,,,,,,,,,,Modern facilities and services,Household,0.872
@@ -1255,14 +1477,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2010,Percentage (%),,,,,,,,,,10-19 years,,Modern facilities and services,Household,1.551
 2010,Percentage (%),,,,,,,,,,20-29 years,,Modern facilities and services,Household,2.151
 2010,Percentage (%),,,,,,,,,,30 or more years,,Modern facilities and services,Household,5.796
-2010,Percentage (%),,,,,,,,,,,North,Modern facilities and services,,2.107
-2010,Percentage (%),,,,,,,,,,,South East,Modern facilities and services,,2.652
-2010,Percentage (%),,,,,,,,,,,Rest of England,Modern facilities and services,,2.28
-2011,Percentage (%),All dwellings,,,,,,,,,,,Modern facilities and services,,1.648
-2011,Percentage (%),Other urban centre,,,,,,,,,,,Modern facilities and services,,2.829
-2011,Percentage (%),Suburban residential,,,,,,,,,,,Modern facilities and services,,1.207
-2011,Percentage (%),All city and urban centres,,,,,,,,,,,Modern facilities and services,,2.902
-2011,Percentage (%),All rural areas,,,,,,,,,,,Modern facilities and services,,1.753
 2011,Percentage (%),,Couple under 60,,,,,,,,,,Modern facilities and services,Household,1.192
 2011,Percentage (%),,One person under 60,,,,,,,,,,Modern facilities and services,Household,2.534
 2011,Percentage (%),,One person 60 or over,,,,,,,,,,Modern facilities and services,Household,2.431
@@ -1287,18 +1501,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2011,Percentage (%),,,,,,,,,,10-19 years,,Modern facilities and services,Household,0.838
 2011,Percentage (%),,,,,,,,,,20-29 years,,Modern facilities and services,Household,1.917
 2011,Percentage (%),,,,,,,,,,30 or more years,,Modern facilities and services,Household,3.306
-2011,Percentage (%),,,,,,,,,,,North,Modern facilities and services,,1.166
-2011,Percentage (%),,,,,,,,,,,South East,Modern facilities and services,,2.016
-2011,Percentage (%),,,,,,,,,,,Rest of England,Modern facilities and services,,1.725
-2012,Percentage (%),All dwellings,,,,,,,,,,,Modern facilities and services,,1.656
-2012,Percentage (%),City centre,,,,,,,,,,,Modern facilities and services,,3.157
-2012,Percentage (%),Other urban centre,,,,,,,,,,,Modern facilities and services,,3.102
-2012,Percentage (%),Suburban residential,,,,,,,,,,,Modern facilities and services,,1.166
-2012,Percentage (%),Rural residential,,,,,,,,,,,Modern facilities and services,,1.431
-2012,Percentage (%),Village centre,,,,,,,,,,,Modern facilities and services,,2.227
-2012,Percentage (%),Rural,,,,,,,,,,,Modern facilities and services,,1.805
-2012,Percentage (%),All city and urban centres,,,,,,,,,,,Modern facilities and services,,3.11
-2012,Percentage (%),All rural areas,,,,,,,,,,,Modern facilities and services,,1.686
 2012,Percentage (%),,Couple under 60,,,,,,,,,,Modern facilities and services,Household,0.718
 2012,Percentage (%),,Couple 60 or over,,,,,,,,,,Modern facilities and services,Household,1.639
 2012,Percentage (%),,Couple with children,,,,,,,,,,Modern facilities and services,Household,0.717
@@ -1334,17 +1536,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2012,Percentage (%),,,,,,,,,,10-19 years,,Modern facilities and services,Household,1.124
 2012,Percentage (%),,,,,,,,,,20-29 years,,Modern facilities and services,Household,1.796
 2012,Percentage (%),,,,,,,,,,30 or more years,,Modern facilities and services,Household,3.267
-2012,Percentage (%),,,,,,,,,,,North,Modern facilities and services,,1.094
-2012,Percentage (%),,,,,,,,,,,South East,Modern facilities and services,,1.778
-2012,Percentage (%),,,,,,,,,,,Rest of England,Modern facilities and services,,1.965
-2013,Percentage (%),All dwellings,,,,,,,,,,,Modern facilities and services,,1.90607712354389
-2013,Percentage (%),City centre,,,,,,,,,,,Modern facilities and services,,5.92732658301008
-2013,Percentage (%),Other urban centre,,,,,,,,,,,Modern facilities and services,,3.5786370846016
-2013,Percentage (%),Suburban residential,,,,,,,,,,,Modern facilities and services,,1.477913120879
-2013,Percentage (%),Rural residential,,,,,,,,,,,Modern facilities and services,,0.704526446610441
-2013,Percentage (%),Rural,,,,,,,,,,,Modern facilities and services,,1.75336515926926
-2013,Percentage (%),All city and urban centres,,,,,,,,,,,Modern facilities and services,,3.91707979886169
-2013,Percentage (%),All rural areas,,,,,,,,,,,Modern facilities and services,,0.941017364283527
 2013,Percentage (%),,Couple under 60,,,,,,,,,,Modern facilities and services,Household,1.08504257903
 2013,Percentage (%),,Couple 60 or over,,,,,,,,,,Modern facilities and services,Household,1.18633321768
 2013,Percentage (%),,Couple with children,,,,,,,,,,Modern facilities and services,Household,0.766619592233
@@ -1380,18 +1571,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2013,Percentage (%),,,,,,,,,,10-19 years,,Modern facilities and services,Household,1.39789008628
 2013,Percentage (%),,,,,,,,,,20-29 years,,Modern facilities and services,Household,2.36293289993
 2013,Percentage (%),,,,,,,,,,30 or more years,,Modern facilities and services,Household,3.99163222516
-2013,Percentage (%),,,,,,,,,,,North,Modern facilities and services,,1.23720171439
-2013,Percentage (%),,,,,,,,,,,South East,Modern facilities and services,,2.34201513929
-2013,Percentage (%),,,,,,,,,,,Rest of England,Modern facilities and services,,2.05416277048
-2014,Percentage (%),All dwellings,,,,,,,,,,,Modern facilities and services,,2.03219800512182
-2014,Percentage (%),City centre,,,,,,,,,,,Modern facilities and services,,5.40159736361537
-2014,Percentage (%),Other urban centre,,,,,,,,,,,Modern facilities and services,,3.73463932757445
-2014,Percentage (%),Suburban residential,,,,,,,,,,,Modern facilities and services,,1.51363727885293
-2014,Percentage (%),Rural residential,,,,,,,,,,,Modern facilities and services,,0.856217667152822
-2014,Percentage (%),Village centre,,,,,,,,,,,Modern facilities and services,,1.55899478642937
-2014,Percentage (%),Rural,,,,,,,,,,,Modern facilities and services,,3.50633616464937
-2014,Percentage (%),All city and urban centres,,,,,,,,,,,Modern facilities and services,,3.98434607484547
-2014,Percentage (%),All rural areas,,,,,,,,,,,Modern facilities and services,,1.40360301333396
 2014,Percentage (%),,Couple under 60,,,,,,,,,,Modern facilities and services,Household,1.56128370044
 2014,Percentage (%),,Couple 60 or over,,,,,,,,,,Modern facilities and services,Household,1.47310099033
 2014,Percentage (%),,Couple with children,,,,,,,,,,Modern facilities and services,Household,0.931264463687
@@ -1427,18 +1606,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2014,Percentage (%),,,,,,,,,,10-19 years,,Modern facilities and services,Household,1.397548632
 2014,Percentage (%),,,,,,,,,,20-29 years,,Modern facilities and services,Household,2.51815251099
 2014,Percentage (%),,,,,,,,,,30 or more years,,Modern facilities and services,Household,5.27255266543
-2014,Percentage (%),,,,,,,,,,,North,Modern facilities and services,,1.02967833722
-2014,Percentage (%),,,,,,,,,,,South East,Modern facilities and services,,3.05559704728
-2014,Percentage (%),,,,,,,,,,,Rest of England,Modern facilities and services,,1.97880026118
-2015,Percentage (%),All dwellings,,,,,,,,,,,Modern facilities and services,,1.59806219704573
-2015,Percentage (%),City centre,,,,,,,,,,,Modern facilities and services,,4.58566873558231
-2015,Percentage (%),Other urban centre,,,,,,,,,,,Modern facilities and services,,2.42610411667496
-2015,Percentage (%),Suburban residential,,,,,,,,,,,Modern facilities and services,,1.18467865402534
-2015,Percentage (%),Rural residential,,,,,,,,,,,Modern facilities and services,,0.938770212604307
-2015,Percentage (%),Village centre,,,,,,,,,,,Modern facilities and services,,2.00979145405942
-2015,Percentage (%),Rural,,,,,,,,,,,Modern facilities and services,,3.69403511924626
-2015,Percentage (%),All city and urban centres,,,,,,,,,,,Modern facilities and services,,2.79951393112438
-2015,Percentage (%),All rural areas,,,,,,,,,,,Modern facilities and services,,1.60546322608038
 2015,Percentage (%),,Couple under 60,,,,,,,,,,Modern facilities and services,Household,1.01449181022
 2015,Percentage (%),,Couple 60 or over,,,,,,,,,,Modern facilities and services,Household,1.50501944002
 2015,Percentage (%),,Couple with children,,,,,,,,,,Modern facilities and services,Household,0.828133874301
@@ -1474,18 +1641,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2015,Percentage (%),,,,,,,,,,10-19 years,,Modern facilities and services,Household,0.94203612276
 2015,Percentage (%),,,,,,,,,,20-29 years,,Modern facilities and services,Household,1.99322854083
 2015,Percentage (%),,,,,,,,,,30 or more years,,Modern facilities and services,Household,3.95301090613
-2015,Percentage (%),,,,,,,,,,,North,Modern facilities and services,,0.937879627322
-2015,Percentage (%),,,,,,,,,,,South East,Modern facilities and services,,2.01251149454
-2015,Percentage (%),,,,,,,,,,,Rest of England,Modern facilities and services,,1.7546053486
-2008,Percentage (%),All dwellings,,,,,,,,,,,Thermal comfort,,12.7559927656314
-2008,Percentage (%),City centre,,,,,,,,,,,Thermal comfort,,19.3256184362569
-2008,Percentage (%),Other urban centre,,,,,,,,,,,Thermal comfort,,14.2077066415059
-2008,Percentage (%),Suburban residential,,,,,,,,,,,Thermal comfort,,10.894528568979
-2008,Percentage (%),Rural residential,,,,,,,,,,,Thermal comfort,,12.6122119334722
-2008,Percentage (%),Village centre,,,,,,,,,,,Thermal comfort,,20.4608244871849
-2008,Percentage (%),Rural,,,,,,,,,,,Thermal comfort,,24.0903371257798
-2008,Percentage (%),All city and urban centres,,,,,,,,,,,Thermal comfort,,14.9388274087278
-2008,Percentage (%),All rural areas,,,,,,,,,,,Thermal comfort,,16.1063474503847
 2008,Percentage (%),,Couple under 60,,,,,,,,,,Thermal comfort,Household,10.5615290022
 2008,Percentage (%),,Couple 60 or over,,,,,,,,,,Thermal comfort,Household,10.5269601096
 2008,Percentage (%),,Couple with children,,,,,,,,,,Thermal comfort,Household,9.97410250272
@@ -1521,18 +1676,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2008,Percentage (%),,,,,,,,,,10-19 years,,Thermal comfort,Household,11.3670684251
 2008,Percentage (%),,,,,,,,,,20-29 years,,Thermal comfort,Household,14.3247919106
 2008,Percentage (%),,,,,,,,,,30 or more years,,Thermal comfort,Household,17.6152944691
-2008,Percentage (%),,,,,,,,,,,North,Thermal comfort,,11.3896012415
-2008,Percentage (%),,,,,,,,,,,South East,Thermal comfort,,13.7586229421
-2008,Percentage (%),,,,,,,,,,,Rest of England,Thermal comfort,,13.0049479899
-2009,Percentage (%),All dwellings,,,,,,,,,,,Thermal comfort,,10.3751705082379
-2009,Percentage (%),City centre,,,,,,,,,,,Thermal comfort,,15.9921736153829
-2009,Percentage (%),Other urban centre,,,,,,,,,,,Thermal comfort,,11.259059086617
-2009,Percentage (%),Suburban residential,,,,,,,,,,,Thermal comfort,,8.51484317479127
-2009,Percentage (%),Rural residential,,,,,,,,,,,Thermal comfort,,11.6568706479002
-2009,Percentage (%),Village centre,,,,,,,,,,,Thermal comfort,,14.6010874973261
-2009,Percentage (%),Rural,,,,,,,,,,,Thermal comfort,,24.7589723768068
-2009,Percentage (%),All city and urban centres,,,,,,,,,,,Thermal comfort,,12.0187302675633
-2009,Percentage (%),All rural areas,,,,,,,,,,,Thermal comfort,,14.4592913620759
 2009,Percentage (%),,Couple under 60,,,,,,,,,,Thermal comfort,Household,9.19216774133
 2009,Percentage (%),,Couple 60 or over,,,,,,,,,,Thermal comfort,Household,8.65706012253
 2009,Percentage (%),,Couple with children,,,,,,,,,,Thermal comfort,Household,6.22771358463
@@ -1568,18 +1711,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2009,Percentage (%),,,,,,,,,,10-19 years,,Thermal comfort,Household,7.40423032635
 2009,Percentage (%),,,,,,,,,,20-29 years,,Thermal comfort,Household,12.2218118808
 2009,Percentage (%),,,,,,,,,,30 or more years,,Thermal comfort,Household,15.2799133204
-2009,Percentage (%),,,,,,,,,,,North,Thermal comfort,,8.36051506342
-2009,Percentage (%),,,,,,,,,,,South East,Thermal comfort,,10.8116616492
-2009,Percentage (%),,,,,,,,,,,Rest of England,Thermal comfort,,11.5021130688
-2010,Percentage (%),All dwellings,,,,,,,,,,,Thermal comfort,,9.89
-2010,Percentage (%),City centre,,,,,,,,,,,Thermal comfort,,14.132
-2010,Percentage (%),Other urban centre,,,,,,,,,,,Thermal comfort,,11.374
-2010,Percentage (%),Suburban residential,,,,,,,,,,,Thermal comfort,,8.028
-2010,Percentage (%),Rural residential,,,,,,,,,,,Thermal comfort,,10.752
-2010,Percentage (%),Village centre,,,,,,,,,,,Thermal comfort,,15.24
-2010,Percentage (%),Rural,,,,,,,,,,,Thermal comfort,,24.166
-2010,Percentage (%),All city and urban centres,,,,,,,,,,,Thermal comfort,,11.83
-2010,Percentage (%),All rural areas,,,,,,,,,,,Thermal comfort,,14.032
 2010,Percentage (%),,Couple under 60,,,,,,,,,,Thermal comfort,Household,8.783
 2010,Percentage (%),,Couple 60 or over,,,,,,,,,,Thermal comfort,Household,8.548
 2010,Percentage (%),,Couple with children,,,,,,,,,,Thermal comfort,Household,5.981
@@ -1615,18 +1746,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2010,Percentage (%),,,,,,,,,,10-19 years,,Thermal comfort,Household,7.142
 2010,Percentage (%),,,,,,,,,,20-29 years,,Thermal comfort,Household,11.573
 2010,Percentage (%),,,,,,,,,,30 or more years,,Thermal comfort,Household,14.419
-2010,Percentage (%),,,,,,,,,,,North,Thermal comfort,,8.077
-2010,Percentage (%),,,,,,,,,,,South East,Thermal comfort,,10.093
-2010,Percentage (%),,,,,,,,,,,Rest of England,Thermal comfort,,11.049
-2011,Percentage (%),All dwellings,,,,,,,,,,,Thermal comfort,,8.718
-2011,Percentage (%),City centre,,,,,,,,,,,Thermal comfort,,14.164
-2011,Percentage (%),Other urban centre,,,,,,,,,,,Thermal comfort,,9.973
-2011,Percentage (%),Suburban residential,,,,,,,,,,,Thermal comfort,,6.999
-2011,Percentage (%),Rural residential,,,,,,,,,,,Thermal comfort,,10.228
-2011,Percentage (%),Village centre,,,,,,,,,,,Thermal comfort,,13.733
-2011,Percentage (%),Rural,,,,,,,,,,,Thermal comfort,,19.604
-2011,Percentage (%),All city and urban centres,,,,,,,,,,,Thermal comfort,,10.66
-2011,Percentage (%),All rural areas,,,,,,,,,,,Thermal comfort,,12.652
 2011,Percentage (%),,Couple under 60,,,,,,,,,,Thermal comfort,Household,7.747
 2011,Percentage (%),,Couple 60 or over,,,,,,,,,,Thermal comfort,Household,7.251
 2011,Percentage (%),,Couple with children,,,,,,,,,,Thermal comfort,Household,5.841
@@ -1662,18 +1781,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2011,Percentage (%),,,,,,,,,,10-19 years,,Thermal comfort,Household,5.723
 2011,Percentage (%),,,,,,,,,,20-29 years,,Thermal comfort,Household,9.659
 2011,Percentage (%),,,,,,,,,,30 or more years,,Thermal comfort,Household,11.935
-2011,Percentage (%),,,,,,,,,,,North,Thermal comfort,,7.279
-2011,Percentage (%),,,,,,,,,,,South East,Thermal comfort,,8.594
-2011,Percentage (%),,,,,,,,,,,Rest of England,Thermal comfort,,9.847
-2012,Percentage (%),All dwellings,,,,,,,,,,,Thermal comfort,,7.653
-2012,Percentage (%),City centre,,,,,,,,,,,Thermal comfort,,15.206
-2012,Percentage (%),Other urban centre,,,,,,,,,,,Thermal comfort,,9.133
-2012,Percentage (%),Suburban residential,,,,,,,,,,,Thermal comfort,,5.94
-2012,Percentage (%),Rural residential,,,,,,,,,,,Thermal comfort,,8.88
-2012,Percentage (%),Village centre,,,,,,,,,,,Thermal comfort,,11.259
-2012,Percentage (%),Rural,,,,,,,,,,,Thermal comfort,,17.524
-2012,Percentage (%),All city and urban centres,,,,,,,,,,,Thermal comfort,,10.058
-2012,Percentage (%),All rural areas,,,,,,,,,,,Thermal comfort,,10.981
 2012,Percentage (%),,Couple under 60,,,,,,,,,,Thermal comfort,Household,7.113
 2012,Percentage (%),,Couple 60 or over,,,,,,,,,,Thermal comfort,Household,5.525
 2012,Percentage (%),,Couple with children,,,,,,,,,,Thermal comfort,Household,4.679
@@ -1709,18 +1816,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2012,Percentage (%),,,,,,,,,,10-19 years,,Thermal comfort,Household,4.611
 2012,Percentage (%),,,,,,,,,,20-29 years,,Thermal comfort,Household,7.252
 2012,Percentage (%),,,,,,,,,,30 or more years,,Thermal comfort,Household,10.104
-2012,Percentage (%),,,,,,,,,,,North,Thermal comfort,,6.421
-2012,Percentage (%),,,,,,,,,,,South East,Thermal comfort,,7.588
-2012,Percentage (%),,,,,,,,,,,Rest of England,Thermal comfort,,8.579
-2013,Percentage (%),All dwellings,,,,,,,,,,,Thermal comfort,,7.45677014847602
-2013,Percentage (%),City centre,,,,,,,,,,,Thermal comfort,,21.2382323193028
-2013,Percentage (%),Other urban centre,,,,,,,,,,,Thermal comfort,,8.02726794493737
-2013,Percentage (%),Suburban residential,,,,,,,,,,,Thermal comfort,,5.6729744363119
-2013,Percentage (%),Rural residential,,,,,,,,,,,Thermal comfort,,7.52311684657292
-2013,Percentage (%),Village centre,,,,,,,,,,,Thermal comfort,,12.4826567112613
-2013,Percentage (%),Rural,,,,,,,,,,,Thermal comfort,,19.3209585395921
-2013,Percentage (%),All city and urban centres,,,,,,,,,,,Thermal comfort,,9.93094854804964
-2013,Percentage (%),All rural areas,,,,,,,,,,,Thermal comfort,,10.5453730199099
 2013,Percentage (%),,Couple under 60,,,,,,,,,,Thermal comfort,Household,6.37768538116
 2013,Percentage (%),,Couple 60 or over,,,,,,,,,,Thermal comfort,Household,6.02297433235
 2013,Percentage (%),,Couple with children,,,,,,,,,,Thermal comfort,Household,4.17606883831
@@ -1756,18 +1851,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2013,Percentage (%),,,,,,,,,,10-19 years,,Thermal comfort,Household,4.75722902984
 2013,Percentage (%),,,,,,,,,,20-29 years,,Thermal comfort,Household,4.85925203456
 2013,Percentage (%),,,,,,,,,,30 or more years,,Thermal comfort,Household,10.8398229633
-2013,Percentage (%),,,,,,,,,,,North,Thermal comfort,,5.92653433952
-2013,Percentage (%),,,,,,,,,,,South East,Thermal comfort,,8.06270136388
-2013,Percentage (%),,,,,,,,,,,Rest of England,Thermal comfort,,8.09065069261
-2014,Percentage (%),All dwellings,,,,,,,,,,,Thermal comfort,,6.6143393137917
-2014,Percentage (%),City centre,,,,,,,,,,,Thermal comfort,,17.8395447198841
-2014,Percentage (%),Other urban centre,,,,,,,,,,,Thermal comfort,,6.46842527161726
-2014,Percentage (%),Suburban residential,,,,,,,,,,,Thermal comfort,,5.18946728722028
-2014,Percentage (%),Rural residential,,,,,,,,,,,Thermal comfort,,7.28836444644078
-2014,Percentage (%),Village centre,,,,,,,,,,,Thermal comfort,,11.6220393518193
-2014,Percentage (%),Rural,,,,,,,,,,,Thermal comfort,,16.3287433948355
-2014,Percentage (%),All city and urban centres,,,,,,,,,,,Thermal comfort,,8.17179463597196
-2014,Percentage (%),All rural areas,,,,,,,,,,,Thermal comfort,,9.59102012685803
 2014,Percentage (%),,Couple under 60,,,,,,,,,,Thermal comfort,Household,5.8315376981
 2014,Percentage (%),,Couple 60 or over,,,,,,,,,,Thermal comfort,Household,5.45416040777
 2014,Percentage (%),,Couple with children,,,,,,,,,,Thermal comfort,Household,3.74094099183
@@ -1803,18 +1886,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2014,Percentage (%),,,,,,,,,,10-19 years,,Thermal comfort,Household,4.50591036068
 2014,Percentage (%),,,,,,,,,,20-29 years,,Thermal comfort,Household,5.654738678
 2014,Percentage (%),,,,,,,,,,30 or more years,,Thermal comfort,Household,9.99066369702
-2014,Percentage (%),,,,,,,,,,,North,Thermal comfort,,4.45592279573
-2014,Percentage (%),,,,,,,,,,,South East,Thermal comfort,,7.69484133246
-2014,Percentage (%),,,,,,,,,,,Rest of England,Thermal comfort,,7.34093350464
-2015,Percentage (%),All dwellings,,,,,,,,,,,Thermal comfort,,5.98166729395991
-2015,Percentage (%),City centre,,,,,,,,,,,Thermal comfort,,14.792280402214
-2015,Percentage (%),Other urban centre,,,,,,,,,,,Thermal comfort,,5.59383681245511
-2015,Percentage (%),Suburban residential,,,,,,,,,,,Thermal comfort,,4.82807652444374
-2015,Percentage (%),Rural residential,,,,,,,,,,,Thermal comfort,,6.50424037329213
-2015,Percentage (%),Village centre,,,,,,,,,,,Thermal comfort,,10.7342957339949
-2015,Percentage (%),Rural,,,,,,,,,,,Thermal comfort,,13.880509845198
-2015,Percentage (%),All city and urban centres,,,,,,,,,,,Thermal comfort,,7.18433754765105
-2015,Percentage (%),All rural areas,,,,,,,,,,,Thermal comfort,,8.6041906370144
 2015,Percentage (%),,Couple under 60,,,,,,,,,,Thermal comfort,Household,5.10052218157
 2015,Percentage (%),,Couple 60 or over,,,,,,,,,,Thermal comfort,Household,4.96492424671
 2015,Percentage (%),,Couple with children,,,,,,,,,,Thermal comfort,Household,3.27338023128
@@ -1850,18 +1921,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2015,Percentage (%),,,,,,,,,,10-19 years,,Thermal comfort,Household,4.59862398085
 2015,Percentage (%),,,,,,,,,,20-29 years,,Thermal comfort,Household,5.80427230207
 2015,Percentage (%),,,,,,,,,,30 or more years,,Thermal comfort,Household,8.25282331997
-2015,Percentage (%),,,,,,,,,,,North,Thermal comfort,,3.53697271049
-2015,Percentage (%),,,,,,,,,,,South East,Thermal comfort,,7.09778930719
-2015,Percentage (%),,,,,,,,,,,Rest of England,Thermal comfort,,6.87836055276
-2016,Percentage (%),All dwellings,,,,,,,,,,,,,19.9069846226514
-2016,Percentage (%),City centre,,,,,,,,,,,,,30.0687015563998
-2016,Percentage (%),Other urban centre,,,,,,,,,,,,,24.0172370332618
-2016,Percentage (%),Suburban residential,,,,,,,,,,,,,16.2334246642795
-2016,Percentage (%),Rural residential,,,,,,,,,,,,,19.9888840397601
-2016,Percentage (%),Village centre,,,,,,,,,,,,,31.6392846001871
-2016,Percentage (%),Rural,,,,,,,,,,,,,48.2037478308745
-2016,Percentage (%),All city and urban centres,,,,,,,,,,,,,25.050723025168
-2016,Percentage (%),All rural areas,,,,,,,,,,,,,27.0547145988224
 2016,Percentage (%),,Couple under 60,,,,,,,,,,,Household,17.4842065400849
 2016,Percentage (%),,Couple 60 or over,,,,,,,,,,,Household,17.4441005369655
 2016,Percentage (%),,Couple with children,,,,,,,,,,,Household,19.0409100343845
@@ -1897,18 +1956,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2016,Percentage (%),,,,,,,,,,10-19 years,,,Household,16.8780070246386
 2016,Percentage (%),,,,,,,,,,20-29 years,,,Household,18.898518161263
 2016,Percentage (%),,,,,,,,,,30 or more years,,,Household,26.9856484762579
-2016,Percentage (%),,,,,,,,,,,North,,,21.5288190487614
-2016,Percentage (%),,,,,,,,,,,South East,,,16.9392831620031
-2016,Percentage (%),,,,,,,,,,,Rest of England,,,20.9991990898417
-2016,Percentage (%),All dwellings,,,,,,,,,,,Minimum standard,,12.0152144926174
-2016,Percentage (%),City centre,,,,,,,,,,,Minimum standard,,18.9431128727518
-2016,Percentage (%),Other urban centre,,,,,,,,,,,Minimum standard,,13.2273032281601
-2016,Percentage (%),Suburban residential,,,,,,,,,,,Minimum standard,,8.93887346866115
-2016,Percentage (%),Rural residential,,,,,,,,,,,Minimum standard,,13.6007339324375
-2016,Percentage (%),Village centre,,,,,,,,,,,Minimum standard,,24.9396449222617
-2016,Percentage (%),Rural,,,,,,,,,,,Minimum standard,,40.9991927794795
-2016,Percentage (%),All city and urban centres,,,,,,,,,,,Minimum standard,,14.2034651435942
-2016,Percentage (%),All rural areas,,,,,,,,,,,Minimum standard,,20.4675941387735
 2016,Percentage (%),,Couple under 60,,,,,,,,,,Minimum standard,Household,10.8297867538076
 2016,Percentage (%),,Couple 60 or over,,,,,,,,,,Minimum standard,Household,11.3734167783871
 2016,Percentage (%),,Couple with children,,,,,,,,,,Minimum standard,Household,12.8369312209305
@@ -1944,18 +1991,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2016,Percentage (%),,,,,,,,,,10-19 years,,Minimum standard,Household,9.617714227756
 2016,Percentage (%),,,,,,,,,,20-29 years,,Minimum standard,Household,12.5784592575881
 2016,Percentage (%),,,,,,,,,,30 or more years,,Minimum standard,Household,17.0327781715095
-2016,Percentage (%),,,,,,,,,,,North,Minimum standard,,14.8391806235581
-2016,Percentage (%),,,,,,,,,,,South East,Minimum standard,,7.35510692100488
-2016,Percentage (%),,,,,,,,,,,Rest of England,Minimum standard,,13.5332923436419
-2016,Percentage (%),All dwellings,,,,,,,,,,,Repair,,3.86995375776857
-2016,Percentage (%),City centre,,,,,,,,,,,Repair,,5.00510364846993
-2016,Percentage (%),Other urban centre,,,,,,,,,,,Repair,,5.42017398398674
-2016,Percentage (%),Suburban residential,,,,,,,,,,,Repair,,3.35187886552667
-2016,Percentage (%),Rural residential,,,,,,,,,,,Repair,,2.46144102843561
-2016,Percentage (%),Village centre,,,,,,,,,,,Repair,,5.87727348761929
-2016,Percentage (%),Rural,,,,,,,,,,,Repair,,7.44761646133025
-2016,Percentage (%),All city and urban centres,,,,,,,,,,,Repair,,5.3492871142427
-2016,Percentage (%),All rural areas,,,,,,,,,,,Repair,,4.00047012857678
 2016,Percentage (%),,Couple under 60,,,,,,,,,,Repair,Household,3.76199086625152
 2016,Percentage (%),,Couple 60 or over,,,,,,,,,,Repair,Household,2.33870363925436
 2016,Percentage (%),,Couple with children,,,,,,,,,,Repair,Household,3.7638719146491
@@ -1991,18 +2026,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2016,Percentage (%),,,,,,,,,,10-19 years,,Repair,Household,3.26817874711465
 2016,Percentage (%),,,,,,,,,,20-29 years,,Repair,Household,3.73109045082874
 2016,Percentage (%),,,,,,,,,,30 or more years,,Repair,Household,5.28206945428774
-2016,Percentage (%),,,,,,,,,,,North,Repair,,5.1040750856138
-2016,Percentage (%),,,,,,,,,,,South East,Repair,,3.3024435160244
-2016,Percentage (%),,,,,,,,,,,Rest of England,Repair,,3.42226156031435
-2016,Percentage (%),All dwellings,,,,,,,,,,,Modern facilities and services,,2.11297649839556
-2016,Percentage (%),City centre,,,,,,,,,,,Modern facilities and services,,6.76735270894847
-2016,Percentage (%),Other urban centre,,,,,,,,,,,Modern facilities and services,,3.40721563981636
-2016,Percentage (%),Suburban residential,,,,,,,,,,,Modern facilities and services,,1.4444533951432
-2016,Percentage (%),Rural residential,,,,,,,,,,,Modern facilities and services,,1.20000434096076
-2016,Percentage (%),Village centre,,,,,,,,,,,Modern facilities and services,,5.38437368609029
-2016,Percentage (%),Rural,,,,,,,,,,,Modern facilities and services,,2.64129716308987
-2016,Percentage (%),All city and urban centres,,,,,,,,,,,Modern facilities and services,,3.98106922163194
-2016,Percentage (%),All rural areas,,,,,,,,,,,Modern facilities and services,,2.32892603914981
 2016,Percentage (%),,Couple under 60,,,,,,,,,,Modern facilities and services,Household,0.936623020958467
 2016,Percentage (%),,Couple 60 or over,,,,,,,,,,Modern facilities and services,Household,1.33603624938205
 2016,Percentage (%),,Couple with children,,,,,,,,,,Modern facilities and services,Household,1.2006005832424
@@ -2038,18 +2061,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2016,Percentage (%),,,,,,,,,,10-19 years,,Modern facilities and services,Household,1.66563194754587
 2016,Percentage (%),,,,,,,,,,20-29 years,,Modern facilities and services,Household,2.56544842110756
 2016,Percentage (%),,,,,,,,,,30 or more years,,Modern facilities and services,Household,4.45399244034963
-2016,Percentage (%),,,,,,,,,,,North,Modern facilities and services,,1.7767882351048
-2016,Percentage (%),,,,,,,,,,,South East,Modern facilities and services,,2.52090319388708
-2016,Percentage (%),,,,,,,,,,,Rest of England,Modern facilities and services,,2.0433239902477
-2016,Percentage (%),All dwellings,,,,,,,,,,,Thermal comfort,,6.51869461608455
-2016,Percentage (%),City centre,,,,,,,,,,,Thermal comfort,,17.911677074703
-2016,Percentage (%),Other urban centre,,,,,,,,,,,Thermal comfort,,6.86339215152713
-2016,Percentage (%),Suburban residential,,,,,,,,,,,Thermal comfort,,4.79159763412065
-2016,Percentage (%),Rural residential,,,,,,,,,,,Thermal comfort,,6.92588662185658
-2016,Percentage (%),Village centre,,,,,,,,,,,Thermal comfort,,13.1771862327128
-2016,Percentage (%),Rural,,,,,,,,,,,Thermal comfort,,18.2354248949195
-2016,Percentage (%),All city and urban centres,,,,,,,,,,,Thermal comfort,,8.75024907005192
-2016,Percentage (%),All rural areas,,,,,,,,,,,Thermal comfort,,10.0964948577268
 2016,Percentage (%),,Couple under 60,,,,,,,,,,Thermal comfort,Household,5.31334876523858
 2016,Percentage (%),,Couple 60 or over,,,,,,,,,,Thermal comfort,Household,5.79255525804077
 2016,Percentage (%),,Couple with children,,,,,,,,,,Thermal comfort,Household,4.02501527428945
@@ -2085,6 +2096,3 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2016,Percentage (%),,,,,,,,,,10-19 years,,Thermal comfort,Household,4.89833168923418
 2016,Percentage (%),,,,,,,,,,20-29 years,,Thermal comfort,Household,6.3867437571198
 2016,Percentage (%),,,,,,,,,,30 or more years,,Thermal comfort,Household,8.73051027639971
-2016,Percentage (%),,,,,,,,,,,North,Thermal comfort,,4.27026022794265
-2016,Percentage (%),,,,,,,,,,,South East,Thermal comfort,,7.23662800285854
-2016,Percentage (%),,,,,,,,,,,Rest of England,Thermal comfort,,7.57335656198009
