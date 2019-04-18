@@ -1,4 +1,4 @@
-Year,Units,Urbanisation,Household composition,Age of oldest person,Age of youngest person,Income quintile,Living in poverty,Economic activity,Disability status,Ethnicity of household reference person (HRP),Length of residence,Sub-national area,Decent homes criteria,Household/Dwelling,Value
+Year,Unit measure,Urbanisation,Household composition,Age of oldest person,Age of youngest person,Income quintile,Living in poverty,Economic activity,Disability status,Ethnicity of household reference person (HRP),Length of residence,Sub-national area,Decent homes criteria,Units,Value
 2008,Percentage (%),,,,,,,,,,,,,Dwelling,33.0949066157
 2008,Percentage (%),City centre,,,,,,,,,,,,Dwelling,45.8978646807809
 2008,Percentage (%),Other urban centre,,,,,,,,,,,,Dwelling,37.5398538620745
@@ -529,14 +529,6 @@ Year,Units,Urbanisation,Household composition,Age of oldest person,Age of younge
 2016,Percentage (%),,,,,,,,,,,North,Thermal comfort,Dwelling,4.27026022794265
 2016,Percentage (%),,,,,,,,,,,South East,Thermal comfort,Dwelling,7.23662800285854
 2016,Percentage (%),,,,,,,,,,,Rest of England,Thermal comfort,Dwelling,7.57335656198009
-2016,Percentage (%),,,,,,,,,,,,Thermal comfort,Dwelling,6.518694616084556
-2016,Percentage (%),City centre,,,,,,,,,,,Thermal comfort,Dwelling,17.911677074703046
-2016,Percentage (%),Other urban centre,,,,,,,,,,,Thermal comfort,Dwelling,6.863392151527137
-2016,Percentage (%),Rural residential,,,,,,,,,,,Thermal comfort,Dwelling,6.925886621856586
-2016,Percentage (%),Village centre,,,,,,,,,,,Thermal comfort,Dwelling,13.177186232712893
-2016,Percentage (%),Rural,,,,,,,,,,,Thermal comfort,Dwelling,18.235424894919568
-2016,Percentage (%),All city and urban centres,,,,,,,,,,,Thermal comfort,Dwelling,8.750249070051922
-2016,Percentage (%),All rural areas,,,,,,,,,,,Thermal comfort,Dwelling,10.096494857726853
 2008,Percentage (%),,Couple under 60,,,,,,,,,,,Household,32.0785913458
 2008,Percentage (%),,Couple 60 or over,,,,,,,,,,,Household,30.1277921025
 2008,Percentage (%),,Couple with children,,,,,,,,,,,Household,30.1891902782
