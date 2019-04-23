@@ -1,64 +1,52 @@
-Year,Units,Sex,Value
-2007,Percentage (%) with English proficiency,,64.6
-2007,Percentage (%) with English proficiency,Female,71.5
-2007,Percentage (%) with English proficiency,Male,57.8
-2007,Percentage (%) with Maths proficiency,,59.3
-2007,Percentage (%) with Maths proficiency,Female,59.9
-2007,Percentage (%) with Maths proficiency,Male,58.6
-2008,Percentage (%) with English proficiency,,66.1
-2008,Percentage (%) with English proficiency,Female,72.8
-2008,Percentage (%) with English proficiency,Male,59.5
-2008,Percentage (%) with Maths proficiency,,61.4
-2008,Percentage (%) with Maths proficiency,Female,61.4
-2008,Percentage (%) with Maths proficiency,Male,61.3
-2009,Percentage (%) with English proficiency,,69.8
-2009,Percentage (%) with English proficiency,Female,76.5
-2009,Percentage (%) with English proficiency,Male,63.1
-2009,Percentage (%) with Maths proficiency,,64.6
-2009,Percentage (%) with Maths proficiency,Female,64.8
-2009,Percentage (%) with Maths proficiency,Male,64.5
-2010,Percentage (%) with English proficiency,,72.3
-2010,Percentage (%) with English proficiency,Female,78.8
-2010,Percentage (%) with English proficiency,Male,65.8
-2010,Percentage (%) with Maths proficiency,,67
-2010,Percentage (%) with Maths proficiency,Female,67.3
-2010,Percentage (%) with Maths proficiency,Male,66.8
-2011,Percentage (%) with English proficiency,,69.3
-2011,Percentage (%) with English proficiency,Female,76.5
-2011,Percentage (%) with English proficiency,Male,62.2
-2011,Percentage (%) with Maths proficiency,,70.9
-2011,Percentage (%) with Maths proficiency,Female,71.2
-2011,Percentage (%) with Maths proficiency,Male,70.6
-2012,Percentage (%) with English proficiency,,70.7
-2012,Percentage (%) with English proficiency,Female,78
-2012,Percentage (%) with English proficiency,Male,63.4
-2012,Percentage (%) with Maths proficiency,,72.8
-2012,Percentage (%) with Maths proficiency,Female,73.2
-2012,Percentage (%) with Maths proficiency,Male,72.3
-2013,Percentage (%) with English proficiency,,72.4
-2013,Percentage (%) with English proficiency,Female,79.8
-2013,Percentage (%) with English proficiency,Male,64.7
-2013,Percentage (%) with Maths proficiency,,68
-2013,Percentage (%) with Maths proficiency,Female,68.7
-2013,Percentage (%) with Maths proficiency,Male,67.3
-2014,Percentage (%) with English proficiency,,74.77973568
-2014,Percentage (%) with English proficiency,Female,81.97424893
-2014,Percentage (%) with English proficiency,Male,67.19457014
-2014,Percentage (%) with Maths proficiency,,70.49239033
-2014,Percentage (%) with Maths proficiency,Female,70.98765432
-2014,Percentage (%) with Maths proficiency,Male,70.03533569
-2015,Percentage (%) with English proficiency,,72.81065089
-2015,Percentage (%) with English proficiency,Female,80.18486424
-2015,Percentage (%) with English proficiency,Male,65.03030303
-2015,Percentage (%) with Maths proficiency,,71.86915888
-2015,Percentage (%) with Maths proficiency,Female,72.78576836
-2015,Percentage (%) with Maths proficiency,Male,70.97488922
-2016,Percentage (%) with English proficiency,,69.6
-2016,Percentage (%) with English proficiency,Female,62.4
-2016,Percentage (%) with English proficiency,Male,61.3
-2016,Percentage (%) with Maths proficiency,,70.4
-2016,Percentage (%) with Maths proficiency,Female,70.7
-2016,Percentage (%) with Maths proficiency,Male,70.1
-2015,Percentage (%) with English and Maths proficiency,,61.1
-2015,Percentage (%) with English and Maths proficiency,Female,65.7
-2015,Percentage (%) with English and Maths proficiency,Male,56.6
+Year,Educational subject,Sex,Observation status,Unit multiplier,Unit measure,Value
+2015,,,Undefined,Units,Percentage (%),61.1038107752956
+2015,,Female,Undefined,Units,Percentage (%),65.6569481257099
+2015,,Male,Undefined,Units,Percentage (%),56.6058801637514
+2009,English,,Undefined,Units,Percentage (%),69.8
+2009,English,Female,Undefined,Units,Percentage (%),76.5
+2009,English,Male,Undefined,Units,Percentage (%),63.1
+2009,Maths,,Undefined,Units,Percentage (%),64.6
+2009,Maths,Female,Undefined,Units,Percentage (%),64.8
+2009,Maths,Male,Undefined,Units,Percentage (%),64.5
+2010,English,,Undefined,Units,Percentage (%),72.3
+2010,English,Female,Undefined,Units,Percentage (%),78.8
+2010,English,Male,Undefined,Units,Percentage (%),65.8
+2010,Maths,,Undefined,Units,Percentage (%),67.0
+2010,Maths,Female,Undefined,Units,Percentage (%),67.3
+2010,Maths,Male,Undefined,Units,Percentage (%),66.8
+2011,English,,Undefined,Units,Percentage (%),69.3
+2011,English,Female,Undefined,Units,Percentage (%),76.5
+2011,English,Male,Undefined,Units,Percentage (%),62.2
+2011,Maths,,Undefined,Units,Percentage (%),70.9
+2011,Maths,Female,Undefined,Units,Percentage (%),71.2
+2011,Maths,Male,Undefined,Units,Percentage (%),70.6
+2012,English,,Undefined,Units,Percentage (%),70.7
+2012,English,Female,Undefined,Units,Percentage (%),78.0
+2012,English,Male,Undefined,Units,Percentage (%),63.4
+2012,Maths,,Undefined,Units,Percentage (%),72.8
+2012,Maths,Female,Undefined,Units,Percentage (%),73.2
+2012,Maths,Male,Undefined,Units,Percentage (%),72.3
+2013,English,,Undefined,Units,Percentage (%),72.4
+2013,English,Female,Undefined,Units,Percentage (%),79.8
+2013,English,Male,Undefined,Units,Percentage (%),64.7
+2013,Maths,,Undefined,Units,Percentage (%),68.0
+2013,Maths,Female,Undefined,Units,Percentage (%),68.7
+2013,Maths,Male,Undefined,Units,Percentage (%),67.3
+2014,English,,Undefined,Units,Percentage (%),74.8
+2014,English,Female,Undefined,Units,Percentage (%),82.0
+2014,English,Male,Undefined,Units,Percentage (%),67.2
+2014,Maths,,Undefined,Units,Percentage (%),70.2
+2014,Maths,Female,Undefined,Units,Percentage (%),70.7
+2014,Maths,Male,Undefined,Units,Percentage (%),69.8
+2015,English,,Undefined,Units,Percentage (%),72.8
+2015,English,Female,Undefined,Units,Percentage (%),80.2
+2015,English,Male,Undefined,Units,Percentage (%),65.0
+2015,Maths,,Undefined,Units,Percentage (%),71.7
+2015,Maths,Female,Undefined,Units,Percentage (%),72.6
+2015,Maths,Male,Undefined,Units,Percentage (%),70.8
+2016,English,,Undefined,Units,Percentage (%),69.6
+2016,English,Female,Undefined,Units,Percentage (%),62.4
+2016,English,Male,Undefined,Units,Percentage (%),61.3
+2016,Maths,,Undefined,Units,Percentage (%),70.4
+2016,Maths,Female,Undefined,Units,Percentage (%),70.7
+2016,Maths,Male,Undefined,Units,Percentage (%),70.1
