@@ -1,41 +1,41 @@
-Year,Units,Corruption offence type,Value
-2016 - Q4,Number,,23.0
-2017 - Q1,Number,,22.0
-2017 - Q2,Number,,19.0
-2017 - Q3,Number,,33.0
-2017 - Q4,Number,,27.0
-2018 - Q1,Number,,26.0
-2018 - Q2,Number,,35.0
-2018 - Q3,Number,,39.0
-2016 - Q4,Number,"Offering, promising or giving bribes",6.0
-2017 - Q1,Number,"Offering, promising or giving bribes",3.0
-2017 - Q2,Number,"Offering, promising or giving bribes",1.0
-2017 - Q3,Number,"Offering, promising or giving bribes",4.0
-2017 - Q4,Number,"Offering, promising or giving bribes",0.0
-2018 - Q1,Number,"Offering, promising or giving bribes",1.0
-2018 - Q2,Number,"Offering, promising or giving bribes",3.0
-2018 - Q3,Number,"Offering, promising or giving bribes",2.0
-2016 - Q4,Number,"Requesting, agreeing to receive and accepting bribes",1.0
-2017 - Q1,Number,"Requesting, agreeing to receive and accepting bribes",0.0
-2017 - Q2,Number,"Requesting, agreeing to receive and accepting bribes",1.0
-2017 - Q3,Number,"Requesting, agreeing to receive and accepting bribes",1.0
-2017 - Q4,Number,"Requesting, agreeing to receive and accepting bribes",1.0
-2018 - Q1,Number,"Requesting, agreeing to receive and accepting bribes",3.0
-2018 - Q2,Number,"Requesting, agreeing to receive and accepting bribes",1.0
-2018 - Q3,Number,"Requesting, agreeing to receive and accepting bribes",0.0
-2016 - Q4,Number,Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage,0.0
-2017 - Q1,Number,Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage,0.0
-2017 - Q2,Number,Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage,0.0
-2017 - Q3,Number,Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage,0.0
-2017 - Q4,Number,Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage,0.0
-2018 - Q1,Number,Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage,0.0
-2018 - Q2,Number,Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage,1.0
-2018 - Q3,Number,Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage,0.0
-2016 - Q4,Number,Misconduct in a public office,16.0
-2017 - Q1,Number,Misconduct in a public office,19.0
-2017 - Q2,Number,Misconduct in a public office,17.0
-2017 - Q3,Number,Misconduct in a public office,28.0
-2017 - Q4,Number,Misconduct in a public office,26.0
-2018 - Q1,Number,Misconduct in a public office,22.0
-2018 - Q2,Number,Misconduct in a public office,30.0
-2018 - Q3,Number,Misconduct in a public office,37.0
+Year,Corruption offence type,Observation status,Unit multiplier,Unit measure,Value
+2016 Q4,,Undefined,Units,Number,23.0
+2017 Q1,,Undefined,Units,Number,22.0
+2017 Q2,,Undefined,Units,Number,19.0
+2017 Q3,,Undefined,Units,Number,33.0
+2017 Q4,,Undefined,Units,Number,27.0
+2018 Q1,,Undefined,Units,Number,26.0
+2018 Q2,,Undefined,Units,Number,35.0
+2018 Q3,,Undefined,Units,Number,39.0
+2016 Q4,"Offering, promising or giving bribes",Undefined,Units,Number,6.0
+2017 Q1,"Offering, promising or giving bribes",Undefined,Units,Number,3.0
+2017 Q2,"Offering, promising or giving bribes",Undefined,Units,Number,1.0
+2017 Q3,"Offering, promising or giving bribes",Undefined,Units,Number,4.0
+2017 Q4,"Offering, promising or giving bribes",Undefined,Units,Number,0.0
+2018 Q1,"Offering, promising or giving bribes",Undefined,Units,Number,1.0
+2018 Q2,"Offering, promising or giving bribes",Undefined,Units,Number,3.0
+2018 Q3,"Offering, promising or giving bribes",Undefined,Units,Number,2.0
+2016 Q4,"Requesting, agreeing to receive and accepting bribes",Undefined,Units,Number,1.0
+2017 Q1,"Requesting, agreeing to receive and accepting bribes",Undefined,Units,Number,0.0
+2017 Q2,"Requesting, agreeing to receive and accepting bribes",Undefined,Units,Number,1.0
+2017 Q3,"Requesting, agreeing to receive and accepting bribes",Undefined,Units,Number,1.0
+2017 Q4,"Requesting, agreeing to receive and accepting bribes",Undefined,Units,Number,1.0
+2018 Q1,"Requesting, agreeing to receive and accepting bribes",Undefined,Units,Number,3.0
+2018 Q2,"Requesting, agreeing to receive and accepting bribes",Undefined,Units,Number,1.0
+2018 Q3,"Requesting, agreeing to receive and accepting bribes",Undefined,Units,Number,0.0
+2016 Q4,Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage,Undefined,Units,Number,0.0
+2017 Q1,Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage,Undefined,Units,Number,0.0
+2017 Q2,Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage,Undefined,Units,Number,0.0
+2017 Q3,Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage,Undefined,Units,Number,0.0
+2017 Q4,Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage,Undefined,Units,Number,0.0
+2018 Q1,Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage,Undefined,Units,Number,0.0
+2018 Q2,Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage,Undefined,Units,Number,1.0
+2018 Q3,Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage,Undefined,Units,Number,0.0
+2016 Q4,Misconduct in a public office,Undefined,Units,Number,16.0
+2017 Q1,Misconduct in a public office,Undefined,Units,Number,19.0
+2017 Q2,Misconduct in a public office,Undefined,Units,Number,17.0
+2017 Q3,Misconduct in a public office,Undefined,Units,Number,28.0
+2017 Q4,Misconduct in a public office,Undefined,Units,Number,26.0
+2018 Q1,Misconduct in a public office,Undefined,Units,Number,22.0
+2018 Q2,Misconduct in a public office,Undefined,Units,Number,30.0
+2018 Q3,Misconduct in a public office,Undefined,Units,Number,37.0
