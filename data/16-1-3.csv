@@ -1,1287 +1,557 @@
-Year,Units,Crime Subcategory,Ethnicity,Sex,Age,Disability Status,Limits activities,Household Income,Region,GeoCode,Value
-2016,Violent Crime,,,,,,,,,,1.6663071735400001
-2016,Violent Crime,Violence with injury,,,,,,,,,0.798713381951
-2016,Violent Crime,Wounding,,,,,,,,,0.409063088696
-2016,Violent Crime,Assault with minor injury,,,,,,,,,0.400299834332
-2016,Violent Crime,Violence without injury,,,,,,,,,0.925459841304
-2016,Violent Crime,,,,16 to 24,,,,,,4.07807862276
-2016,Violent Crime,Violence with injury,,,16 to 24,,,,,,2.3386791934
-2016,Violent Crime,Wounding,,,16 to 24,,,,,,1.27216176794
-2016,Violent Crime,Assault with minor injury,,,16 to 24,,,,,,1.12005542301
-2016,Violent Crime,Violence without injury,,,16 to 24,,,,,,1.922148954
-2016,Violent Crime,,,,25 to 34,,,,,,2.04154800818
-2016,Violent Crime,Violence with injury,,,25 to 34,,,,,,0.944453913028
-2016,Violent Crime,Wounding,,,25 to 34,,,,,,0.469473938117
-2016,Violent Crime,Assault with minor injury,,,25 to 34,,,,,,0.47497997491099997
-2016,Violent Crime,Violence without injury,,,25 to 34,,,,,,1.16712706344
-2016,Violent Crime,,,,35 to 44,,,,,,1.58092246493
-2016,Violent Crime,Violence with injury,,,35 to 44,,,,,,0.668149055883
-2016,Violent Crime,Wounding,,,35 to 44,,,,,,0.350514023181
-2016,Violent Crime,Assault with minor injury,,,35 to 44,,,,,,0.317635032702
-2016,Violent Crime,Violence without injury,,,35 to 44,,,,,,0.936012762993
-2016,Violent Crime,,,,45 to 54,,,,,,1.8984524467900001
-2016,Violent Crime,Violence with injury,,,45 to 54,,,,,,0.87899563487
-2016,Violent Crime,Wounding,,,45 to 54,,,,,,0.47132086401999995
-2016,Violent Crime,Assault with minor injury,,,45 to 54,,,,,,0.42782054403499997
-2016,Violent Crime,Violence without injury,,,45 to 54,,,,,,1.08566086076
-2016,Violent Crime,,,,55 to 64,,,,,,0.8165588017219999
-2016,Violent Crime,Violence with injury,,,55 to 64,,,,,,0.317835410404
-2016,Violent Crime,Wounding,,,55 to 64,,,,,,0.104683094668
-2016,Violent Crime,Assault with minor injury,,,55 to 64,,,,,,0.21315231573600002
-2016,Violent Crime,Violence without injury,,,55 to 64,,,,,,0.521898728714
-2016,Violent Crime,,,,65 to 74,,,,,,0.47400638732100003
-2016,Violent Crime,Violence with injury,,,65 to 74,,,,,,0.157541546283
-2016,Violent Crime,Wounding,,,65 to 74,,,,,,0.040405142523300006
-2016,Violent Crime,Assault with minor injury,,,65 to 74,,,,,,0.11713640375999998
-2016,Violent Crime,Violence without injury,,,65 to 74,,,,,,0.341134076699
-2016,Violent Crime,,,,75 and over,,,,,,0.17215548045499998
-2016,Violent Crime,Violence with injury,,,75 and over,,,,,,0.0162109847608
-2016,Violent Crime,Wounding,,,75 and over,,,,,,0.0162109847608
-2016,Violent Crime,Assault with minor injury,,,75 and over,,,,,,0.0
-2016,Violent Crime,Violence without injury,,,75 and over,,,,,,0.15594449569399998
-2016,Violent Crime,,,Male,,,,,,,2.07938725966
-2016,Violent Crime,Violence with injury,,Male,,,,,,,0.958473847096
-2016,Violent Crime,Wounding,,Male,,,,,,,0.48769418484800003
-2016,Violent Crime,Assault with minor injury,,Male,,,,,,,0.48939878411300003
-2016,Violent Crime,Violence without injury,,Male,,,,,,,1.21573829498
-2016,Violent Crime,,,Male,16 to 24,,,,,,5.42249123349
-2016,Violent Crime,Violence with injury,,Male,16 to 24,,,,,,2.92943086351
-2016,Violent Crime,Wounding,,Male,16 to 24,,,,,,1.49285915091
-2016,Violent Crime,Assault with minor injury,,Male,16 to 24,,,,,,1.54136411273
-2016,Violent Crime,Violence without injury,,Male,16 to 24,,,,,,2.8507644713999998
-2016,Violent Crime,,,Male,25 to 34,,,,,,2.40294251137
-2016,Violent Crime,Violence with injury,,Male,25 to 34,,,,,,1.05286494438
-2016,Violent Crime,Wounding,,Male,25 to 34,,,,,,0.449200675876
-2016,Violent Crime,Assault with minor injury,,Male,25 to 34,,,,,,0.603664268507
-2016,Violent Crime,Violence without injury,,Male,25 to 34,,,,,,1.42938545596
-2016,Violent Crime,,,Male,35 to 44,,,,,,1.9545592726199998
-2016,Violent Crime,Violence with injury,,Male,35 to 44,,,,,,0.87950120254
-2016,Violent Crime,Wounding,,Male,35 to 44,,,,,,0.597541743489
-2016,Violent Crime,Assault with minor injury,,Male,35 to 44,,,,,,0.281959459051
-2016,Violent Crime,Violence without injury,,Male,35 to 44,,,,,,1.12192971764
-2016,Violent Crime,,,Male,45 to 54,,,,,,2.21824025022
-2016,Violent Crime,Violence with injury,,Male,45 to 54,,,,,,0.9668107569329999
-2016,Violent Crime,Wounding,,Male,45 to 54,,,,,,0.482562623917
-2016,Violent Crime,Assault with minor injury,,Male,45 to 54,,,,,,0.507380890527
-2016,Violent Crime,Violence without injury,,Male,45 to 54,,,,,,1.3304994889700001
-2016,Violent Crime,,,Male,55 to 64,,,,,,0.7066104492990001
-2016,Violent Crime,Violence with injury,,Male,55 to 64,,,,,,0.173505431219
-2016,Violent Crime,Wounding,,Male,55 to 64,,,,,,0.074051883752
-2016,Violent Crime,Assault with minor injury,,Male,55 to 64,,,,,,0.0994535474669
-2016,Violent Crime,Violence without injury,,Male,55 to 64,,,,,,0.558981832584
-2016,Violent Crime,,,Male,65 to 74,,,,,,0.645324664733
-2016,Violent Crime,Violence with injury,,Male,65 to 74,,,,,,0.23495924352800002
-2016,Violent Crime,Wounding,,Male,65 to 74,,,,,,0.057776350757599994
-2016,Violent Crime,Assault with minor injury,,Male,65 to 74,,,,,,0.17718289277
-2016,Violent Crime,Violence without injury,,Male,65 to 74,,,,,,0.461571940082
-2016,Violent Crime,,,Male,75 and over,,,,,,0.270931890439
-2016,Violent Crime,Violence with injury,,Male,75 and over,,,,,,0.0374372159381
-2016,Violent Crime,Wounding,,Male,75 and over,,,,,,0.0374372159381
-2016,Violent Crime,Assault with minor injury,,Male,75 and over,,,,,,0.0
-2016,Violent Crime,Violence without injury,,Male,75 and over,,,,,,0.233494674501
-2016,Violent Crime,,,Female,,,,,,,1.27030929101
-2016,Violent Crime,Violence with injury,,Female,,,,,,,0.6455595310760001
-2016,Violent Crime,Wounding,,Female,,,,,,,0.33368364383
-2016,Violent Crime,Assault with minor injury,,Female,,,,,,,0.314885415592
-2016,Violent Crime,Violence without injury,,Female,,,,,,,0.647185344752
-2016,Violent Crime,,,Female,16 to 24,,,,,,2.6737668863
-2016,Violent Crime,Violence with injury,,Female,16 to 24,,,,,,1.72160710031
-2016,Violent Crime,Wounding,,Female,16 to 24,,,,,,1.0416314064899999
-2016,Violent Crime,Assault with minor injury,,Female,16 to 24,,,,,,0.679975693829
-2016,Violent Crime,Violence without injury,,Female,16 to 24,,,,,,0.952159785985
-2016,Violent Crime,,,Female,25 to 34,,,,,,1.6812407431299998
-2016,Violent Crime,Violence with injury,,Female,25 to 34,,,,,,0.8363690310940001
-2016,Violent Crime,Wounding,,Female,25 to 34,,,,,,0.489686209215
-2016,Violent Crime,Assault with minor injury,,Female,25 to 34,,,,,,0.346682821879
-2016,Violent Crime,Violence without injury,,Female,25 to 34,,,,,,0.905657662792
-2016,Violent Crime,,,Female,35 to 44,,,,,,1.21349820369
-2016,Violent Crime,Violence with injury,,Female,35 to 44,,,,,,0.460311110721
-2016,Violent Crime,Wounding,,Female,35 to 44,,,,,,0.107593690462
-2016,Violent Crime,Assault with minor injury,,Female,35 to 44,,,,,,0.352717420259
-2016,Violent Crime,Violence without injury,,Female,35 to 44,,,,,,0.753187092966
-2016,Violent Crime,,,Female,45 to 54,,,,,,1.5881629323500002
-2016,Violent Crime,Violence with injury,,Female,45 to 54,,,,,,0.793788784287
-2016,Violent Crime,Wounding,,Female,45 to 54,,,,,,0.460413005176
-2016,Violent Crime,Assault with minor injury,,Female,45 to 54,,,,,,0.350623286926
-2016,Violent Crime,Violence without injury,,Female,45 to 54,,,,,,0.8480943924750001
-2016,Violent Crime,,,Female,55 to 64,,,,,,0.922807278468
-2016,Violent Crime,Violence with injury,,Female,55 to 64,,,,,,0.457308536642
-2016,Violent Crime,Wounding,,Female,55 to 64,,,,,,0.134283533683
-2016,Violent Crime,Assault with minor injury,,Female,55 to 64,,,,,,0.323025002959
-2016,Violent Crime,Violence without injury,,Female,55 to 64,,,,,,0.486063509609
-2016,Violent Crime,,,Female,65 to 74,,,,,,0.314747772787
-2016,Violent Crime,Violence with injury,,Female,65 to 74,,,,,,0.08557353802510001
-2016,Violent Crime,Wounding,,Female,65 to 74,,,,,,0.0242567513653
-2016,Violent Crime,Assault with minor injury,,Female,65 to 74,,,,,,0.06131678665990001
-2016,Violent Crime,Violence without injury,,Female,65 to 74,,,,,,0.229174234762
-2016,Violent Crime,,,Female,75 and over,,,,,,0.09671755350410001
-2016,Violent Crime,Violence with injury,,Female,75 and over,,,,,,0.0
-2016,Violent Crime,Wounding,,Female,75 and over,,,,,,0.0
-2016,Violent Crime,Assault with minor injury,,Female,75 and over,,,,,,0.0
-2016,Violent Crime,Violence without injury,,Female,75 and over,,,,,,0.09671755350410001
-2016,Violent Crime,,White,,,,,,,,1.74102596501
-2016,Violent Crime,Violence with injury,White,,,,,,,,0.83929752498
-2016,Violent Crime,Wounding,White,,,,,,,,0.441536442341
-2016,Violent Crime,Assault with minor injury,White,,,,,,,,0.41006440072899997
-2016,Violent Crime,Violence without injury,White,,,,,,,,0.966800167736
-2016,Violent Crime,,White - EnglishWelshScottishNorthern IrishBritish,,,,,,,,1.7670741635299998
-2016,Violent Crime,Violence with injury,White - EnglishWelshScottishNorthern IrishBritish,,,,,,,,0.8767863279350001
-2016,Violent Crime,Wounding,White - EnglishWelshScottishNorthern IrishBritish,,,,,,,,0.45823684208099996
-2016,Violent Crime,Assault with minor injury,White - EnglishWelshScottishNorthern IrishBritish,,,,,,,,0.43201411573299997
-2016,Violent Crime,Violence without injury,White - EnglishWelshScottishNorthern IrishBritish,,,,,,,,0.9615016921089999
-2016,Violent Crime,,White - Irish,,,,,,,,1.09941690587
-2016,Violent Crime,Violence with injury,White - Irish,,,,,,,,0.888682660864
-2016,Violent Crime,Wounding,White - Irish,,,,,,,,0.888682660864
-2016,Violent Crime,Assault with minor injury,White - Irish,,,,,,,,0.0
-2016,Violent Crime,Violence without injury,White - Irish,,,,,,,,0.21073424500399998
-2016,Violent Crime,,White - any other white background,,,,,,,,1.4957276004100002
-2016,Violent Crime,Violence with injury,White - any other white background,,,,,,,,0.369358547654
-2016,Violent Crime,Wounding,White - any other white background,,,,,,,,0.169591989097
-2016,Violent Crime,Assault with minor injury,White - any other white background,,,,,,,,0.199766558557
-2016,Violent Crime,Violence without injury,White - any other white background,,,,,,,,1.12636905276
-2016,Violent Crime,,Mixedmultiple ethnic groups,,,,,,,,1.9186214559900001
-2016,Violent Crime,Violence with injury,Mixedmultiple ethnic groups,,,,,,,,0.977932178048
-2016,Violent Crime,Wounding,Mixedmultiple ethnic groups,,,,,,,,0.5665597034040001
-2016,Violent Crime,Assault with minor injury,Mixedmultiple ethnic groups,,,,,,,,0.411372474644
-2016,Violent Crime,Violence without injury,Mixedmultiple ethnic groups,,,,,,,,1.06123828401
-2016,Violent Crime,,Mixed - White and Black Caribbean,,,,,,,,3.1264618194700002
-2016,Violent Crime,Violence with injury,Mixed - White and Black Caribbean,,,,,,,,1.7665375911
-2016,Violent Crime,Wounding,Mixed - White and Black Caribbean,,,,,,,,0.845720426629
-2016,Violent Crime,Assault with minor injury,Mixed - White and Black Caribbean,,,,,,,,0.9208171644740001
-2016,Violent Crime,Violence without injury,Mixed - White and Black Caribbean,,,,,,,,1.3599242283700002
-2016,Violent Crime,,Mixed - White and Black African,,,,,,,,3.1781135066900004
-2016,Violent Crime,Violence with injury,Mixed - White and Black African,,,,,,,,1.8847390384599998
-2016,Violent Crime,Wounding,Mixed - White and Black African,,,,,,,,1.8847390384599998
-2016,Violent Crime,Assault with minor injury,Mixed - White and Black African,,,,,,,,0.0
-2016,Violent Crime,Violence without injury,Mixed - White and Black African,,,,,,,,1.29337446823
-2016,Violent Crime,,Mixed - White and Asian,,,,,,,,0.484812075061
-2016,Violent Crime,Violence with injury,Mixed - White and Asian,,,,,,,,0.0
-2016,Violent Crime,Wounding,Mixed - White and Asian,,,,,,,,0.0
-2016,Violent Crime,Assault with minor injury,Mixed - White and Asian,,,,,,,,0.0
-2016,Violent Crime,Violence without injury,Mixed - White and Asian,,,,,,,,0.484812075061
-2016,Violent Crime,,Mixed - Any other MixedMultiple ethnic background,,,,,,,,1.25384923923
-2016,Violent Crime,Violence with injury,Mixed - Any other MixedMultiple ethnic background,,,,,,,,0.540341484348
-2016,Violent Crime,Wounding,Mixed - Any other MixedMultiple ethnic background,,,,,,,,0.0
-2016,Violent Crime,Assault with minor injury,Mixed - Any other MixedMultiple ethnic background,,,,,,,,0.540341484348
-2016,Violent Crime,Violence without injury,Mixed - Any other MixedMultiple ethnic background,,,,,,,,1.25384923923
-2016,Violent Crime,,AsianAsian British,,,,,,,,0.783931456456
-2016,Violent Crime,Violence with injury,AsianAsian British,,,,,,,,0.488301878756
-2016,Violent Crime,Wounding,AsianAsian British,,,,,,,,0.149882607181
-2016,Violent Crime,Assault with minor injury,AsianAsian British,,,,,,,,0.338419271575
-2016,Violent Crime,Violence without injury,AsianAsian British,,,,,,,,0.2956295777
-2016,Violent Crime,,Asian - Indian,,,,,,,,0.449959758355
-2016,Violent Crime,Violence with injury,Asian - Indian,,,,,,,,0.119889021438
-2016,Violent Crime,Wounding,Asian - Indian,,,,,,,,0.0
-2016,Violent Crime,Assault with minor injury,Asian - Indian,,,,,,,,0.119889021438
-2016,Violent Crime,Violence without injury,Asian - Indian,,,,,,,,0.330070736917
-2016,Violent Crime,,Asian - Pakistani,,,,,,,,0.910281059855
-2016,Violent Crime,Violence with injury,Asian - Pakistani,,,,,,,,0.553257988205
-2016,Violent Crime,Wounding,Asian - Pakistani,,,,,,,,0.39437681074299996
-2016,Violent Crime,Assault with minor injury,Asian - Pakistani,,,,,,,,0.158881177462
-2016,Violent Crime,Violence without injury,Asian - Pakistani,,,,,,,,0.357023071651
-2016,Violent Crime,,Asian - Bangladeshi,,,,,,,,1.82992332525
-2016,Violent Crime,Violence with injury,Asian - Bangladeshi,,,,,,,,1.82992332525
-2016,Violent Crime,Wounding,Asian - Bangladeshi,,,,,,,,0.0
-2016,Violent Crime,Assault with minor injury,Asian - Bangladeshi,,,,,,,,1.82992332525
-2016,Violent Crime,Violence without injury,Asian - Bangladeshi,,,,,,,,0.0
-2016,Violent Crime,,Asian - Chinese,,,,,,,,0.6814787577410001
-2016,Violent Crime,Violence with injury,Asian - Chinese,,,,,,,,0.6814787577410001
-2016,Violent Crime,Wounding,Asian - Chinese,,,,,,,,0.5280531031019999
-2016,Violent Crime,Assault with minor injury,Asian - Chinese,,,,,,,,0.153425654639
-2016,Violent Crime,Violence without injury,Asian - Chinese,,,,,,,,0.0
-2016,Violent Crime,,Asian - Any other Asian background,,,,,,,,0.7493072581199999
-2016,Violent Crime,Violence with injury,Asian - Any other Asian background,,,,,,,,0.28444369022599997
-2016,Violent Crime,Wounding,Asian - Any other Asian background,,,,,,,,0.0
-2016,Violent Crime,Assault with minor injury,Asian - Any other Asian background,,,,,,,,0.28444369022599997
-2016,Violent Crime,Violence without injury,Asian - Any other Asian background,,,,,,,,0.46486356789399996
-2016,Violent Crime,,BlackAfricanCaribbeanBlack British,,,,,,,,1.7854446291
-2016,Violent Crime,Violence with injury,BlackAfricanCaribbeanBlack British,,,,,,,,0.49596034792800003
-2016,Violent Crime,Wounding,BlackAfricanCaribbeanBlack British,,,,,,,,0.18782513360800002
-2016,Violent Crime,Assault with minor injury,BlackAfricanCaribbeanBlack British,,,,,,,,0.30813521431999996
-2016,Violent Crime,Violence without injury,BlackAfricanCaribbeanBlack British,,,,,,,,1.2894842811700002
-2016,Violent Crime,,Black - African,,,,,,,,1.3093402655
-2016,Violent Crime,Violence with injury,Black - African,,,,,,,,0.0830928403814
-2016,Violent Crime,Wounding,Black - African,,,,,,,,0.0
-2016,Violent Crime,Assault with minor injury,Black - African,,,,,,,,0.0830928403814
-2016,Violent Crime,Violence without injury,Black - African,,,,,,,,1.2262474251200002
-2016,Violent Crime,,Black - Caribbean,,,,,,,,1.62802472354
-2016,Violent Crime,Violence with injury,Black - Caribbean,,,,,,,,0.36782296963600003
-2016,Violent Crime,Wounding,Black - Caribbean,,,,,,,,0.0
-2016,Violent Crime,Assault with minor injury,Black - Caribbean,,,,,,,,0.36782296963600003
-2016,Violent Crime,Violence without injury,Black - Caribbean,,,,,,,,1.2602017539
-2016,Violent Crime,,Black - Any other BlackAfricanCaribbean background,,,,,,,,7.04100443645
-2016,Violent Crime,Violence with injury,Black - Any other BlackAfricanCaribbean background,,,,,,,,5.02034244377
-2016,Violent Crime,Wounding,Black - Any other BlackAfricanCaribbean background,,,,,,,,2.75852403037
-2016,Violent Crime,Assault with minor injury,Black - Any other BlackAfricanCaribbean background,,,,,,,,2.2618184134
-2016,Violent Crime,Violence without injury,Black - Any other BlackAfricanCaribbean background,,,,,,,,2.02066199268
-2016,Violent Crime,,Other ethnic group,,,,,,,,1.1510772916299998
-2016,Violent Crime,Violence with injury,Other ethnic group,,,,,,,,0.373247887629
-2016,Violent Crime,Wounding,Other ethnic group,,,,,,,,0.0
-2016,Violent Crime,Assault with minor injury,Other ethnic group,,,,,,,,0.373247887629
-2016,Violent Crime,Violence without injury,Other ethnic group,,,,,,,,0.777829404004
-2016,Violent Crime,,Other ethnic group - Arab,,,,,,,,1.15996723125
-2016,Violent Crime,Violence with injury,Other ethnic group - Arab,,,,,,,,0.0
-2016,Violent Crime,Wounding,Other ethnic group - Arab,,,,,,,,0.0
-2016,Violent Crime,Assault with minor injury,Other ethnic group - Arab,,,,,,,,0.0
-2016,Violent Crime,Violence without injury,Other ethnic group - Arab,,,,,,,,1.15996723125
-2016,Violent Crime,,Other ethnic group - Any other ethnic group,,,,,,,,1.1446862891
-2016,Violent Crime,Violence with injury,Other ethnic group - Any other ethnic group,,,,,,,,0.6415768412080001
-2016,Violent Crime,Wounding,Other ethnic group - Any other ethnic group,,,,,,,,0.0
-2016,Violent Crime,Assault with minor injury,Other ethnic group - Any other ethnic group,,,,,,,,0.6415768412080001
-2016,Violent Crime,Violence without injury,Other ethnic group - Any other ethnic group,,,,,,,,0.5031094478939999
-2016,Violent Crime,,,,,Long-standing illness or disability,,,,,2.1819399558900003
-2016,Violent Crime,Violence with injury,,,,Long-standing illness or disability,,,,,1.20032611862
-2016,Violent Crime,Wounding,,,,Long-standing illness or disability,,,,,0.738109680026
-2016,Violent Crime,Assault with minor injury,,,,Long-standing illness or disability,,,,,0.469612283057
-2016,Violent Crime,Violence without injury,,,,Long-standing illness or disability,,,,,1.06926202213
-2016,Violent Crime,,,,,Long-standing illness or disability,Limits activities,,,,2.30286908171
-2016,Violent Crime,Violence with injury,,,,Long-standing illness or disability,Limits activities,,,,1.25624874907
-2016,Violent Crime,Wounding,,,,Long-standing illness or disability,Limits activities,,,,0.7533472265719999
-2016,Violent Crime,Assault with minor injury,,,,Long-standing illness or disability,Limits activities,,,,0.512452123972
-2016,Violent Crime,Violence without injury,,,,Long-standing illness or disability,Limits activities,,,,1.1534572219399999
-2016,Violent Crime,,,,,Long-standing illness or disability,Does not limit activities,,,,1.7757806060499999
-2016,Violent Crime,Violence with injury,,,,Long-standing illness or disability,Does not limit activities,,,,1.01346592807
-2016,Violent Crime,Wounding,,,,Long-standing illness or disability,Does not limit activities,,,,0.689267642812
-2016,Violent Crime,Assault with minor injury,,,,Long-standing illness or disability,Does not limit activities,,,,0.32419828526
-2016,Violent Crime,Violence without injury,,,,Long-standing illness or disability,Does not limit activities,,,,0.784210691838
-2016,Violent Crime,,,,,No long-standing illness or disability,,,,,1.52271186512
-2016,Violent Crime,Violence with injury,,,,No long-standing illness or disability,,,,,0.6899821805840001
-2016,Violent Crime,Wounding,,,,No long-standing illness or disability,,,,,0.321407045537
-2016,Violent Crime,Assault with minor injury,,,,No long-standing illness or disability,,,,,0.377586341585
-2016,Violent Crime,Violence without injury,,,,No long-standing illness or disability,,,,,0.8829664906460001
-2016,Violent Crime,,,,,,,"10,000 less than 20,000",,,1.63965437109
-2016,Violent Crime,Violence with injury,,,,,,"10,000 less than 20,000",,,0.69994831491
-2016,Violent Crime,Wounding,,,,,,"10,000 less than 20,000",,,0.38380835876
-2016,Violent Crime,Assault with minor injury,,,,,,"10,000 less than 20,000",,,0.31613995614999996
-2016,Violent Crime,Violence without injury,,,,,,"10,000 less than 20,000",,,1.03365530375
-2015,Violent Crime,,,,,,,"10,000 less than 20,000",,,1.85457591847
-2015,Violent Crime,Violence with injury,,,,,,"10,000 less than 20,000",,,0.866241295711
-2015,Violent Crime,Wounding,,,,,,"10,000 less than 20,000",,,0.574857482412
-2015,Violent Crime,Assault with minor injury,,,,,,"10,000 less than 20,000",,,0.355403119567
-2015,Violent Crime,Violence without injury,,,,,,"10,000 less than 20,000",,,1.00562294693
-2014,Violent Crime,,,,,,,"10,000 less than 20,000",,,1.56841859197
-2014,Violent Crime,Violence with injury,,,,,,"10,000 less than 20,000",,,0.863436236077
-2014,Violent Crime,Wounding,,,,,,"10,000 less than 20,000",,,0.454454673218
-2014,Violent Crime,Assault with minor injury,,,,,,"10,000 less than 20,000",,,0.431518572355
-2014,Violent Crime,Violence without injury,,,,,,"10,000 less than 20,000",,,0.765653429162
-2016,Sexual Assault,,,Male,,,,"10,000 less than 20,000",,,0.654782294717
-2016,Sexual Assault,,,Female,,,,"10,000 less than 20,000",,,2.7100133211900004
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,,,,"10,000 less than 20,000",,,0.651772538543
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,,,,"10,000 less than 20,000",,,1.998972221
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,,,,"10,000 less than 20,000",,,0.13732497129000001
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,,,,"10,000 less than 20,000",,,0.846396331021
-2015,Sexual Assault,,,Male,,,,"10,000 less than 20,000",,,0.672009283901
-2015,Sexual Assault,,,Female,,,,"10,000 less than 20,000",,,3.53147585199
-2014,Sexual Assault,,,Male,,,,"10,000 less than 20,000",,,1.5212242495100001
-2014,Sexual Assault,,,Female,,,,"10,000 less than 20,000",,,2.24863023452
-2016,Violent Crime,,,,,,,"20,000 less than 30,000",,,1.74487421498
-2016,Violent Crime,Violence with injury,,,,,,"20,000 less than 30,000",,,0.9023907001379999
-2016,Violent Crime,Wounding,,,,,,"20,000 less than 30,000",,,0.407642246955
-2016,Violent Crime,Assault with minor injury,,,,,,"20,000 less than 30,000",,,0.5460536117979999
-2016,Violent Crime,Violence without injury,,,,,,"20,000 less than 30,000",,,0.924984866485
-2015,Violent Crime,,,,,,,"20,000 less than 30,000",,,1.95601885678
-2015,Violent Crime,Violence with injury,,,,,,"20,000 less than 30,000",,,0.9051688393189999
-2015,Violent Crime,Wounding,,,,,,"20,000 less than 30,000",,,0.551046309011
-2015,Violent Crime,Assault with minor injury,,,,,,"20,000 less than 30,000",,,0.36623261646099997
-2015,Violent Crime,Violence without injury,,,,,,"20,000 less than 30,000",,,1.08527345338
-2015,Violent Crime,,,,,,,,,,1.79697333324
-2015,Violent Crime,Violence with injury,,,,,,,,,0.9094217533210001
-2015,Violent Crime,Wounding,,,,,,,,,0.488365068268
-2015,Violent Crime,Assault with minor injury,,,,,,,,,0.4347951242
-2015,Violent Crime,Violence without injury,,,,,,,,,0.9373279920290001
-2015,Violent Crime,,,,16 to 24,,,,,,3.7440816805
-2015,Violent Crime,Violence with injury,,,16 to 24,,,,,,2.11143770454
-2015,Violent Crime,Wounding,,,16 to 24,,,,,,1.1058705444799999
-2015,Violent Crime,Assault with minor injury,,,16 to 24,,,,,,1.03657865072
-2015,Violent Crime,Violence without injury,,,16 to 24,,,,,,1.8140399958200002
-2015,Violent Crime,,,,25 to 34,,,,,,2.42380779863
-2015,Violent Crime,Violence with injury,,,25 to 34,,,,,,1.24079417735
-2015,Violent Crime,Wounding,,,25 to 34,,,,,,0.568307080781
-2015,Violent Crime,Assault with minor injury,,,25 to 34,,,,,,0.6884798552789999
-2015,Violent Crime,Violence without injury,,,25 to 34,,,,,,1.2552929624200002
-2015,Violent Crime,,,,35 to 44,,,,,,1.8704490820599997
-2015,Violent Crime,Violence with injury,,,35 to 44,,,,,,0.974852852327
-2015,Violent Crime,Wounding,,,35 to 44,,,,,,0.505606175328
-2015,Violent Crime,Assault with minor injury,,,35 to 44,,,,,,0.501103624815
-2015,Violent Crime,Violence without injury,,,35 to 44,,,,,,0.9675139801620001
-2015,Violent Crime,,,,45 to 54,,,,,,2.03521219578
-2015,Violent Crime,Violence with injury,,,45 to 54,,,,,,0.8833296602930001
-2015,Violent Crime,Wounding,,,45 to 54,,,,,,0.5106570410469999
-2015,Violent Crime,Assault with minor injury,,,45 to 54,,,,,,0.372672619246
-2015,Violent Crime,Violence without injury,,,45 to 54,,,,,,1.15188253549
-2015,Violent Crime,,,,55 to 64,,,,,,1.12551624908
-2015,Violent Crime,Violence with injury,,,55 to 64,,,,,,0.48744967802199995
-2015,Violent Crime,Wounding,,,55 to 64,,,,,,0.32212636797
-2015,Violent Crime,Assault with minor injury,,,55 to 64,,,,,,0.16532331005200002
-2015,Violent Crime,Violence without injury,,,55 to 64,,,,,,0.648120040337
-2015,Violent Crime,,,,65 to 74,,,,,,0.454877285776
-2015,Violent Crime,Violence with injury,,,65 to 74,,,,,,0.246215839817
-2015,Violent Crime,Wounding,,,65 to 74,,,,,,0.19796115451699997
-2015,Violent Crime,Assault with minor injury,,,65 to 74,,,,,,0.0622557553451
-2015,Violent Crime,Violence without injury,,,65 to 74,,,,,,0.208661445959
-2015,Violent Crime,,,,75 and over,,,,,,0.0658112426903
-2015,Violent Crime,Violence with injury,,,75 and over,,,,,,0.025964354114900005
-2015,Violent Crime,Wounding,,,75 and over,,,,,,0.0178532740846
-2015,Violent Crime,Assault with minor injury,,,75 and over,,,,,,0.008111080030359999
-2015,Violent Crime,Violence without injury,,,75 and over,,,,,,0.0398468885754
-2015,Violent Crime,,,Male,,,,,,,2.21743845891
-2015,Violent Crime,Violence with injury,,Male,,,,,,,1.09929434953
-2015,Violent Crime,Wounding,,Male,,,,,,,0.615421292065
-2015,Violent Crime,Assault with minor injury,,Male,,,,,,,0.507936965533
-2015,Violent Crime,Violence without injury,,Male,,,,,,,1.18978647496
-2015,Violent Crime,,,Male,16 to 24,,,,,,4.54435046763
-2015,Violent Crime,Violence with injury,,Male,16 to 24,,,,,,2.52957340548
-2015,Violent Crime,Wounding,,Male,16 to 24,,,,,,1.56159405329
-2015,Violent Crime,Assault with minor injury,,Male,16 to 24,,,,,,1.02877685088
-2015,Violent Crime,Violence without injury,,Male,16 to 24,,,,,,2.26011291125
-2015,Violent Crime,,,Male,25 to 34,,,,,,2.85259372737
-2015,Violent Crime,Violence with injury,,Male,25 to 34,,,,,,1.3659410922600002
-2015,Violent Crime,Wounding,,Male,25 to 34,,,,,,0.589635474666
-2015,Violent Crime,Assault with minor injury,,Male,25 to 34,,,,,,0.808445115139
-2015,Violent Crime,Violence without injury,,Male,25 to 34,,,,,,1.57274288558
-2015,Violent Crime,,,Male,35 to 44,,,,,,2.33807490372
-2015,Violent Crime,Violence with injury,,Male,35 to 44,,,,,,1.3493312451600001
-2015,Violent Crime,Wounding,,Male,35 to 44,,,,,,0.737045580465
-2015,Violent Crime,Assault with minor injury,,Male,35 to 44,,,,,,0.651928009128
-2015,Violent Crime,Violence without injury,,Male,35 to 44,,,,,,1.10674763671
-2015,Violent Crime,,,Male,45 to 54,,,,,,2.5626176558099996
-2015,Violent Crime,Violence with injury,,Male,45 to 54,,,,,,0.9862927895620001
-2015,Violent Crime,Wounding,,Male,45 to 54,,,,,,0.497934838671
-2015,Violent Crime,Assault with minor injury,,Male,45 to 54,,,,,,0.48835795089100004
-2015,Violent Crime,Violence without injury,,Male,45 to 54,,,,,,1.5763248662399998
-2015,Violent Crime,,,Male,55 to 64,,,,,,1.13771278336
-2015,Violent Crime,Violence with injury,,Male,55 to 64,,,,,,0.453751939293
-2015,Violent Crime,Wounding,,Male,55 to 64,,,,,,0.360376668538
-2015,Violent Crime,Assault with minor injury,,Male,55 to 64,,,,,,0.093375270755
-2015,Violent Crime,Violence without injury,,Male,55 to 64,,,,,,0.7044199018
-2015,Violent Crime,,,Male,65 to 74,,,,,,0.7100919873899999
-2015,Violent Crime,Violence with injury,,Male,65 to 74,,,,,,0.38096122145499994
-2015,Violent Crime,Wounding,,Male,65 to 74,,,,,,0.280777306586
-2015,Violent Crime,Assault with minor injury,,Male,65 to 74,,,,,,0.12925222193299998
-2015,Violent Crime,Violence without injury,,Male,65 to 74,,,,,,0.329130765935
-2015,Violent Crime,,,Male,75 and over,,,,,,0.018851796245099996
-2015,Violent Crime,Violence with injury,,Male,75 and over,,,,,,0.018851796245099996
-2015,Violent Crime,Wounding,,Male,75 and over,,,,,,0.0
-2015,Violent Crime,Assault with minor injury,,Male,75 and over,,,,,,0.018851796245099996
-2015,Violent Crime,Violence without injury,,Male,75 and over,,,,,,0.0
-2015,Violent Crime,,,Female,,,,,,,1.39475154715
-2015,Violent Crime,Violence with injury,,Female,,,,,,,0.727787439048
-2015,Violent Crime,Wounding,,Female,,,,,,,0.366821619952
-2015,Violent Crime,Assault with minor injury,,Female,,,,,,,0.364826795643
-2015,Violent Crime,Violence without injury,,Female,,,,,,,0.695823297059
-2015,Violent Crime,,,Female,16 to 24,,,,,,2.91088751809
-2015,Violent Crime,Violence with injury,,Female,16 to 24,,,,,,1.67609869005
-2015,Violent Crime,Wounding,,Female,16 to 24,,,,,,0.631397250853
-2015,Violent Crime,Assault with minor injury,,Female,16 to 24,,,,,,1.04470143919
-2015,Violent Crime,Violence without injury,,Female,16 to 24,,,,,,1.34961434892
-2015,Violent Crime,,,Female,25 to 34,,,,,,1.9991109006099999
-2015,Violent Crime,Violence with injury,,Female,25 to 34,,,,,,1.11684070081
-2015,Violent Crime,Wounding,,Female,25 to 34,,,,,,0.547182080833
-2015,Violent Crime,Assault with minor injury,,Female,25 to 34,,,,,,0.569658619974
-2015,Violent Crime,Violence without injury,,Female,25 to 34,,,,,,0.9408703365539999
-2015,Violent Crime,,,Female,35 to 44,,,,,,1.41083627444
-2015,Violent Crime,Violence with injury,,Female,35 to 44,,,,,,0.606791343411
-2015,Violent Crime,Wounding,,Female,35 to 44,,,,,,0.27813260593899997
-2015,Violent Crime,Assault with minor injury,,Female,35 to 44,,,,,,0.352863695532
-2015,Violent Crime,Violence without injury,,Female,35 to 44,,,,,,0.830666165439
-2015,Violent Crime,,,Female,45 to 54,,,,,,1.52260728705
-2015,Violent Crime,Violence with injury,,Female,45 to 54,,,,,,0.783255979829
-2015,Violent Crime,Wounding,,Female,45 to 54,,,,,,0.5230222209350001
-2015,Violent Crime,Assault with minor injury,,Female,45 to 54,,,,,,0.260233758894
-2015,Violent Crime,Violence without injury,,Female,45 to 54,,,,,,0.739351307225
-2015,Violent Crime,,,Female,55 to 64,,,,,,1.11373243857
-2015,Violent Crime,Violence with injury,,Female,55 to 64,,,,,,0.52000710448
-2015,Violent Crime,Wounding,,Female,55 to 64,,,,,,0.28517043576900003
-2015,Violent Crime,Assault with minor injury,,Female,55 to 64,,,,,,0.234836668711
-2015,Violent Crime,Violence without injury,,Female,55 to 64,,,,,,0.5937253340950001
-2015,Violent Crime,,,Female,65 to 74,,,,,,0.217721733651
-2015,Violent Crime,Violence with injury,,Female,65 to 74,,,,,,0.12100512438100001
-2015,Violent Crime,Wounding,,Female,65 to 74,,,,,,0.12100512438100001
-2015,Violent Crime,Assault with minor injury,,Female,65 to 74,,,,,,0.0
-2015,Violent Crime,Violence without injury,,Female,65 to 74,,,,,,0.0967166092698
-2015,Violent Crime,,,Female,75 and over,,,,,,0.101273666302
-2015,Violent Crime,Violence with injury,,Female,75 and over,,,,,,0.031335553292799995
-2015,Violent Crime,Wounding,,Female,75 and over,,,,,,0.031335553292799995
-2015,Violent Crime,Assault with minor injury,,Female,75 and over,,,,,,0.0
-2015,Violent Crime,Violence without injury,,Female,75 and over,,,,,,0.06993811300910001
-2015,Violent Crime,,White,,,,,,,,1.8466528844499999
-2015,Violent Crime,Violence with injury,White,,,,,,,,0.943827456323
-2015,Violent Crime,Wounding,White,,,,,,,,0.515531435967
-2015,Violent Crime,Assault with minor injury,White,,,,,,,,0.44406568292
-2015,Violent Crime,Violence without injury,White,,,,,,,,0.947425714313
-2015,Violent Crime,,White - EnglishWelshScottishNorthern IrishBritish,,,,,,,,1.8507597460499998
-2015,Violent Crime,Violence with injury,White - EnglishWelshScottishNorthern IrishBritish,,,,,,,,0.945174308112
-2015,Violent Crime,Wounding,White - EnglishWelshScottishNorthern IrishBritish,,,,,,,,0.510129538164
-2015,Violent Crime,Assault with minor injury,White - EnglishWelshScottishNorthern IrishBritish,,,,,,,,0.45217325827699995
-2015,Violent Crime,Violence without injury,White - EnglishWelshScottishNorthern IrishBritish,,,,,,,,0.9540288005230001
-2015,Violent Crime,,White - Irish,,,,,,,,1.8215606046700001
-2015,Violent Crime,Violence with injury,White - Irish,,,,,,,,1.21294050112
-2015,Violent Crime,Wounding,White - Irish,,,,,,,,0.0
-2015,Violent Crime,Assault with minor injury,White - Irish,,,,,,,,1.21294050112
-2015,Violent Crime,Violence without injury,White - Irish,,,,,,,,0.6086201035509999
-2015,Violent Crime,,White - any other white background,,,,,,,,1.7466246940799999
-2015,Violent Crime,Violence with injury,White - any other white background,,,,,,,,0.897179373339
-2015,Violent Crime,Wounding,White - any other white background,,,,,,,,0.6584462760809999
-2015,Violent Crime,Assault with minor injury,White - any other white background,,,,,,,,0.238733097258
-2015,Violent Crime,Violence without injury,White - any other white background,,,,,,,,0.849445320739
-2015,Violent Crime,,Mixedmultiple ethnic groups,,,,,,,,1.3935263668200002
-2015,Violent Crime,Violence with injury,Mixedmultiple ethnic groups,,,,,,,,0.73751961936
-2015,Violent Crime,Wounding,Mixedmultiple ethnic groups,,,,,,,,0.0
-2015,Violent Crime,Assault with minor injury,Mixedmultiple ethnic groups,,,,,,,,0.73751961936
-2015,Violent Crime,Violence without injury,Mixedmultiple ethnic groups,,,,,,,,0.656006747465
-2015,Violent Crime,,Mixed - White and Black Caribbean,,,,,,,,2.02813907337
-2015,Violent Crime,Violence with injury,Mixed - White and Black Caribbean,,,,,,,,2.02813907337
-2015,Violent Crime,Wounding,Mixed - White and Black Caribbean,,,,,,,,0.0
-2015,Violent Crime,Assault with minor injury,Mixed - White and Black Caribbean,,,,,,,,2.02813907337
-2015,Violent Crime,Violence without injury,Mixed - White and Black Caribbean,,,,,,,,0.0
-2015,Violent Crime,,Mixed - White and Asian,,,,,,,,2.3798903284
-2015,Violent Crime,Violence with injury,Mixed - White and Asian,,,,,,,,0.0
-2015,Violent Crime,Wounding,Mixed - White and Asian,,,,,,,,0.0
-2015,Violent Crime,Assault with minor injury,Mixed - White and Asian,,,,,,,,0.0
-2015,Violent Crime,Violence without injury,Mixed - White and Asian,,,,,,,,2.3798903284
-2015,Violent Crime,,Mixed - Any other MixedMultiple ethnic background,,,,,,,,0.0
-2015,Violent Crime,Violence with injury,Mixed - Any other MixedMultiple ethnic background,,,,,,,,0.0
-2015,Violent Crime,Wounding,Mixed - Any other MixedMultiple ethnic background,,,,,,,,0.0
-2015,Violent Crime,Assault with minor injury,Mixed - Any other MixedMultiple ethnic background,,,,,,,,0.0
-2015,Violent Crime,Violence without injury,Mixed - Any other MixedMultiple ethnic background,,,,,,,,0.0
-2015,Violent Crime,,AsianAsian British,,,,,,,,1.10011875408
-2015,Violent Crime,Violence with injury,AsianAsian British,,,,,,,,0.41104320977799996
-2015,Violent Crime,Wounding,AsianAsian British,,,,,,,,0.157288828175
-2015,Violent Crime,Assault with minor injury,AsianAsian British,,,,,,,,0.253754381603
-2015,Violent Crime,Violence without injury,AsianAsian British,,,,,,,,0.689075544305
-2015,Violent Crime,,Asian - Indian,,,,,,,,0.783607335583
-2015,Violent Crime,Violence with injury,Asian - Indian,,,,,,,,0.0249383705229
-2015,Violent Crime,Wounding,Asian - Indian,,,,,,,,0.0249383705229
-2015,Violent Crime,Assault with minor injury,Asian - Indian,,,,,,,,0.0
-2015,Violent Crime,Violence without injury,Asian - Indian,,,,,,,,0.7586689650599999
-2015,Violent Crime,,Asian - Pakistani,,,,,,,,2.35324607905
-2015,Violent Crime,Violence with injury,Asian - Pakistani,,,,,,,,1.41826366704
-2015,Violent Crime,Wounding,Asian - Pakistani,,,,,,,,0.522489316072
-2015,Violent Crime,Assault with minor injury,Asian - Pakistani,,,,,,,,0.8957743509630001
-2015,Violent Crime,Violence without injury,Asian - Pakistani,,,,,,,,0.934982412015
-2015,Violent Crime,,Asian - Bangladeshi,,,,,,,,0.22502379674400003
-2015,Violent Crime,Violence with injury,Asian - Bangladeshi,,,,,,,,0.22502379674400003
-2015,Violent Crime,Wounding,Asian - Bangladeshi,,,,,,,,0.0
-2015,Violent Crime,Assault with minor injury,Asian - Bangladeshi,,,,,,,,0.22502379674400003
-2015,Violent Crime,Violence without injury,Asian - Bangladeshi,,,,,,,,0.0
-2015,Violent Crime,,Asian - Chinese,,,,,,,,0.429878634069
-2015,Violent Crime,Violence with injury,Asian - Chinese,,,,,,,,0.0
-2015,Violent Crime,Wounding,Asian - Chinese,,,,,,,,0.0
-2015,Violent Crime,Assault with minor injury,Asian - Chinese,,,,,,,,0.0
-2015,Violent Crime,Violence without injury,Asian - Chinese,,,,,,,,0.429878634069
-2015,Violent Crime,,Asian - Any other Asian background,,,,,,,,0.7401343033769999
-2015,Violent Crime,Violence with injury,Asian - Any other Asian background,,,,,,,,0.0707642464041
-2015,Violent Crime,Wounding,Asian - Any other Asian background,,,,,,,,0.0707642464041
-2015,Violent Crime,Assault with minor injury,Asian - Any other Asian background,,,,,,,,0.0
-2015,Violent Crime,Violence without injury,Asian - Any other Asian background,,,,,,,,0.669370056973
-2015,Violent Crime,,BlackAfricanCaribbeanBlack British,,,,,,,,2.23541988285
-2015,Violent Crime,Violence with injury,BlackAfricanCaribbeanBlack British,,,,,,,,1.1307888822499998
-2015,Violent Crime,Wounding,BlackAfricanCaribbeanBlack British,,,,,,,,0.661756854966
-2015,Violent Crime,Assault with minor injury,BlackAfricanCaribbeanBlack British,,,,,,,,0.469032027279
-2015,Violent Crime,Violence without injury,BlackAfricanCaribbeanBlack British,,,,,,,,1.3546042614700002
-2015,Violent Crime,,Black - African,,,,,,,,0.705601524638
-2015,Violent Crime,Violence with injury,Black - African,,,,,,,,0.46132287698700003
-2015,Violent Crime,Wounding,Black - African,,,,,,,,0.0899713179568
-2015,Violent Crime,Assault with minor injury,Black - African,,,,,,,,0.37135155903000006
-2015,Violent Crime,Violence without injury,Black - African,,,,,,,,0.244278647651
-2015,Violent Crime,,Black - Caribbean,,,,,,,,5.099722433399999
-2015,Violent Crime,Violence with injury,Black - Caribbean,,,,,,,,2.79371391309
-2015,Violent Crime,Wounding,Black - Caribbean,,,,,,,,2.00655417249
-2015,Violent Crime,Assault with minor injury,Black - Caribbean,,,,,,,,0.787159740598
-2015,Violent Crime,Violence without injury,Black - Caribbean,,,,,,,,3.1341338303799997
-2015,Violent Crime,,Black - Any other BlackAfricanCaribbean background,,,,,,,,3.41983481806
-2015,Violent Crime,Violence with injury,Black - Any other BlackAfricanCaribbean background,,,,,,,,0.0
-2015,Violent Crime,Wounding,Black - Any other BlackAfricanCaribbean background,,,,,,,,0.0
-2015,Violent Crime,Assault with minor injury,Black - Any other BlackAfricanCaribbean background,,,,,,,,0.0
-2015,Violent Crime,Violence without injury,Black - Any other BlackAfricanCaribbean background,,,,,,,,3.41983481806
-2015,Violent Crime,,Other ethnic group,,,,,,,,2.01898845554
-2015,Violent Crime,Violence with injury,Other ethnic group,,,,,,,,1.17530863003
-2015,Violent Crime,Wounding,Other ethnic group,,,,,,,,0.812459361743
-2015,Violent Crime,Assault with minor injury,Other ethnic group,,,,,,,,0.36284926829
-2015,Violent Crime,Violence without injury,Other ethnic group,,,,,,,,1.2065290938
-2015,Violent Crime,,Other ethnic group - Arab,,,,,,,,3.66131849602
-2015,Violent Crime,Violence with injury,Other ethnic group - Arab,,,,,,,,3.11131323509
-2015,Violent Crime,Wounding,Other ethnic group - Arab,,,,,,,,2.150767467
-2015,Violent Crime,Assault with minor injury,Other ethnic group - Arab,,,,,,,,0.960545768085
-2015,Violent Crime,Violence without injury,Other ethnic group - Arab,,,,,,,,1.51055102901
-2015,Violent Crime,,Other ethnic group - Any other ethnic group,,,,,,,,1.02196362157
-2015,Violent Crime,Violence with injury,Other ethnic group - Any other ethnic group,,,,,,,,0.0
-2015,Violent Crime,Wounding,Other ethnic group - Any other ethnic group,,,,,,,,0.0
-2015,Violent Crime,Assault with minor injury,Other ethnic group - Any other ethnic group,,,,,,,,0.0
-2015,Violent Crime,Violence without injury,Other ethnic group - Any other ethnic group,,,,,,,,1.02196362157
-2015,Violent Crime,,,,,Long-standing illness or disability,,,,,2.30166302191
-2015,Violent Crime,Violence with injury,,,,Long-standing illness or disability,,,,,1.18242192574
-2015,Violent Crime,Wounding,,,,Long-standing illness or disability,,,,,0.8195362213070001
-2015,Violent Crime,Assault with minor injury,,,,Long-standing illness or disability,,,,,0.385979691101
-2015,Violent Crime,Violence without injury,,,,Long-standing illness or disability,,,,,1.14461727119
-2015,Violent Crime,,,,,Long-standing illness or disability,Limits activities,,,,2.26704463768
-2015,Violent Crime,Violence with injury,,,,Long-standing illness or disability,Limits activities,,,,1.2006516967
-2015,Violent Crime,Wounding,,,,Long-standing illness or disability,Limits activities,,,,0.8266397592910001
-2015,Violent Crime,Assault with minor injury,,,,Long-standing illness or disability,Limits activities,,,,0.40399306966700005
-2015,Violent Crime,Violence without injury,,,,Long-standing illness or disability,Limits activities,,,,1.0859779957100002
-2015,Violent Crime,,,,,Long-standing illness or disability,Does not limit activities,,,,2.4292408272599997
-2015,Violent Crime,Violence with injury,,,,Long-standing illness or disability,Does not limit activities,,,,1.12662512362
-2015,Violent Crime,Wounding,,,,Long-standing illness or disability,Does not limit activities,,,,0.799499933761
-2015,Violent Crime,Assault with minor injury,,,,Long-standing illness or disability,Does not limit activities,,,,0.327125189861
-2015,Violent Crime,Violence without injury,,,,Long-standing illness or disability,Does not limit activities,,,,1.3476236534000001
-2015,Violent Crime,,,,,No long-standing illness or disability,,,,,1.66090139482
-2015,Violent Crime,Violence with injury,,,,No long-standing illness or disability,,,,,0.8357785342180001
-2015,Violent Crime,Wounding,,,,No long-standing illness or disability,,,,,0.401424306399
-2015,Violent Crime,Assault with minor injury,,,,No long-standing illness or disability,,,,,0.445636372525
-2015,Violent Crime,Violence without injury,,,,No long-standing illness or disability,,,,,0.8816427927420001
-2014,Violent Crime,,,,,,,"20,000 less than 30,000",,,1.76710076622
-2014,Violent Crime,Violence with injury,,,,,,"20,000 less than 30,000",,,0.865176324801
-2014,Violent Crime,Wounding,,,,,,"20,000 less than 30,000",,,0.332928236202
-2014,Violent Crime,Assault with minor injury,,,,,,"20,000 less than 30,000",,,0.532248088599
-2014,Violent Crime,Violence without injury,,,,,,"20,000 less than 30,000",,,0.965984013925
-2016,Sexual Assault,,,Male,,,,"20,000 less than 30,000",,,0.895806517012
-2016,Sexual Assault,,,Female,,,,"20,000 less than 30,000",,,3.2943984121099996
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,,,,"20,000 less than 30,000",,,0.826560681667
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,,,,"20,000 less than 30,000",,,2.78228619842
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,,,,"20,000 less than 30,000",,,0.06913474654299999
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,,,,"20,000 less than 30,000",,,0.9711524244059999
-2015,Sexual Assault,,,Male,,,,"20,000 less than 30,000",,,0.453090694199
-2015,Sexual Assault,,,Female,,,,"20,000 less than 30,000",,,2.52603551797
-2014,Sexual Assault,,,Male,,,,"20,000 less than 30,000",,,0.370362665141
-2014,Sexual Assault,,,Female,,,,"20,000 less than 30,000",,,2.68843406913
-2016,Violent Crime,,,,,,,"30,000 less than 40,000",,,1.7662204420900003
-2016,Violent Crime,Violence with injury,,,,,,"30,000 less than 40,000",,,1.0121198547
-2016,Violent Crime,Wounding,,,,,,"30,000 less than 40,000",,,0.48954567445
-2016,Violent Crime,Assault with minor injury,,,,,,"30,000 less than 40,000",,,0.5225741802539999
-2016,Violent Crime,Violence without injury,,,,,,"30,000 less than 40,000",,,0.877876008943
-2015,Violent Crime,,,,,,,"30,000 less than 40,000",,,1.7664578617500002
-2015,Violent Crime,Violence with injury,,,,,,"30,000 less than 40,000",,,0.941157334876
-2015,Violent Crime,Wounding,,,,,,"30,000 less than 40,000",,,0.408341805761
-2015,Violent Crime,Assault with minor injury,,,,,,"30,000 less than 40,000",,,0.532815529116
-2015,Violent Crime,Violence without injury,,,,,,"30,000 less than 40,000",,,0.950949249358
-2014,Violent Crime,,,,,,,"30,000 less than 40,000",,,1.6765763722
-2014,Violent Crime,Violence with injury,,,,,,"30,000 less than 40,000",,,0.9653700485690001
-2014,Violent Crime,Wounding,,,,,,"30,000 less than 40,000",,,0.420454040408
-2014,Violent Crime,Assault with minor injury,,,,,,"30,000 less than 40,000",,,0.544916008161
-2014,Violent Crime,Violence without injury,,,,,,"30,000 less than 40,000",,,0.7112063236339999
-2016,Sexual Assault,,,Male,,,,"30,000 less than 40,000",,,0.808392077339
-2016,Sexual Assault,,,Female,,,,"30,000 less than 40,000",,,2.4443679151
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,,,,"30,000 less than 40,000",,,0.806068759336
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,,,,"30,000 less than 40,000",,,2.14093070762
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,,,,"30,000 less than 40,000",,,0.091165405923
-2014,Violent Crime,,,,,,,,,,1.8080541271000001
-2014,Violent Crime,Violence with injury,,,,,,,,,0.9464811036499999
-2014,Violent Crime,Wounding,,,,,,,,,0.45460429987400003
-2014,Violent Crime,Assault with minor injury,,,,,,,,,0.503974030943
-2014,Violent Crime,Violence without injury,,,,,,,,,0.9155887446430001
-2014,Violent Crime,,,,16 to 24,,,,,,4.17589495468
-2014,Violent Crime,Violence with injury,,,16 to 24,,,,,,2.4650380553
-2014,Violent Crime,Wounding,,,16 to 24,,,,,,1.05481956283
-2014,Violent Crime,Assault with minor injury,,,16 to 24,,,,,,1.4421592587099998
-2014,Violent Crime,Violence without injury,,,16 to 24,,,,,,1.7670432002400003
-2014,Violent Crime,,,,25 to 34,,,,,,2.51591280718
-2014,Violent Crime,Violence with injury,,,25 to 34,,,,,,1.2949529720200001
-2014,Violent Crime,Wounding,,,25 to 34,,,,,,0.63343930069
-2014,Violent Crime,Assault with minor injury,,,25 to 34,,,,,,0.674487616894
-2014,Violent Crime,Violence without injury,,,25 to 34,,,,,,1.2699798205
-2014,Violent Crime,,,,35 to 44,,,,,,2.01938519478
-2014,Violent Crime,Violence with injury,,,35 to 44,,,,,,0.9642561897220001
-2014,Violent Crime,Wounding,,,35 to 44,,,,,,0.386396464525
-2014,Violent Crime,Assault with minor injury,,,35 to 44,,,,,,0.5885318813329999
-2014,Violent Crime,Violence without injury,,,35 to 44,,,,,,1.1911544812600001
-2014,Violent Crime,,,,45 to 54,,,,,,1.7231589954299997
-2014,Violent Crime,Violence with injury,,,45 to 54,,,,,,0.916402132993
-2014,Violent Crime,Wounding,,,45 to 54,,,,,,0.632324296057
-2014,Violent Crime,Assault with minor injury,,,45 to 54,,,,,,0.30548642355300004
-2014,Violent Crime,Violence without injury,,,45 to 54,,,,,,0.896789989401
-2014,Violent Crime,,,,55 to 64,,,,,,0.790925720126
-2014,Violent Crime,Violence with injury,,,55 to 64,,,,,,0.297116786869
-2014,Violent Crime,Wounding,,,55 to 64,,,,,,0.157640495537
-2014,Violent Crime,Assault with minor injury,,,55 to 64,,,,,,0.13947629133300002
-2014,Violent Crime,Violence without injury,,,55 to 64,,,,,,0.493808933257
-2014,Violent Crime,,,,65 to 74,,,,,,0.40426004216899997
-2014,Violent Crime,Violence with injury,,,65 to 74,,,,,,0.153227828466
-2014,Violent Crime,Wounding,,,65 to 74,,,,,,0.0
-2014,Violent Crime,Assault with minor injury,,,65 to 74,,,,,,0.153227828466
-2014,Violent Crime,Violence without injury,,,65 to 74,,,,,,0.251032213702
-2014,Violent Crime,,,,75 and over,,,,,,0.142307033441
-2014,Violent Crime,Violence with injury,,,75 and over,,,,,,0.0881062231554
-2014,Violent Crime,Wounding,,,75 and over,,,,,,0.056284517638600005
-2014,Violent Crime,Assault with minor injury,,,75 and over,,,,,,0.0318217055168
-2014,Violent Crime,Violence without injury,,,75 and over,,,,,,0.054200810285400004
-2014,Violent Crime,,,Male,,,,,,,2.36704179154
-2014,Violent Crime,Violence with injury,,Male,,,,,,,1.2071511247799998
-2014,Violent Crime,Wounding,,Male,,,,,,,0.584510535801
-2014,Violent Crime,Assault with minor injury,,Male,,,,,,,0.636182497203
-2014,Violent Crime,Violence without injury,,Male,,,,,,,1.22445532157
-2014,Violent Crime,,,Male,16 to 24,,,,,,5.92474380089
-2014,Violent Crime,Violence with injury,,Male,16 to 24,,,,,,3.37054613067
-2014,Violent Crime,Wounding,,Male,16 to 24,,,,,,1.3524558742299997
-2014,Violent Crime,Assault with minor injury,,Male,16 to 24,,,,,,2.08084842206
-2014,Violent Crime,Violence without injury,,Male,16 to 24,,,,,,2.66459418194
-2014,Violent Crime,,,Male,25 to 34,,,,,,3.17026897845
-2014,Violent Crime,Violence with injury,,Male,25 to 34,,,,,,1.61032514805
-2014,Violent Crime,Wounding,,Male,25 to 34,,,,,,0.792405217566
-2014,Violent Crime,Assault with minor injury,,Male,25 to 34,,,,,,0.843936880161
-2014,Violent Crime,Violence without injury,,Male,25 to 34,,,,,,1.6474884070299998
-2014,Violent Crime,,,Male,35 to 44,,,,,,2.4363960970900003
-2014,Violent Crime,Violence with injury,,Male,35 to 44,,,,,,1.0027362946
-2014,Violent Crime,Wounding,,Male,35 to 44,,,,,,0.505105801577
-2014,Violent Crime,Assault with minor injury,,Male,35 to 44,,,,,,0.497630493026
-2014,Violent Crime,Violence without injury,,Male,35 to 44,,,,,,1.58942972789
-2014,Violent Crime,,,Male,45 to 54,,,,,,1.8429175309
-2014,Violent Crime,Violence with injury,,Male,45 to 54,,,,,,1.04690205765
-2014,Violent Crime,Wounding,,Male,45 to 54,,,,,,0.767621505205
-2014,Violent Crime,Assault with minor injury,,Male,45 to 54,,,,,,0.279280552443
-2014,Violent Crime,Violence without injury,,Male,45 to 54,,,,,,0.839729996665
-2014,Violent Crime,,,Male,55 to 64,,,,,,1.15645409332
-2014,Violent Crime,Violence with injury,,Male,55 to 64,,,,,,0.433812736501
-2014,Violent Crime,Wounding,,Male,55 to 64,,,,,,0.216288018551
-2014,Violent Crime,Assault with minor injury,,Male,55 to 64,,,,,,0.21752471795000003
-2014,Violent Crime,Violence without injury,,Male,55 to 64,,,,,,0.722641356819
-2014,Violent Crime,,,Male,65 to 74,,,,,,0.49355100018
-2014,Violent Crime,Violence with injury,,Male,65 to 74,,,,,,0.19131723060699998
-2014,Violent Crime,Wounding,,Male,65 to 74,,,,,,0.0
-2014,Violent Crime,Assault with minor injury,,Male,65 to 74,,,,,,0.19131723060699998
-2014,Violent Crime,Violence without injury,,Male,65 to 74,,,,,,0.302233769573
-2014,Violent Crime,,,Male,75 and over,,,,,,0.196887031364
-2014,Violent Crime,Violence with injury,,Male,75 and over,,,,,,0.11100614202299999
-2014,Violent Crime,Wounding,,Male,75 and over,,,,,,0.0366630878054
-2014,Violent Crime,Assault with minor injury,,Male,75 and over,,,,,,0.0743430542181
-2014,Violent Crime,Violence without injury,,Male,75 and over,,,,,,0.08588088934080002
-2014,Violent Crime,,,Female,,,,,,,1.2734395222
-2014,Violent Crime,Violence with injury,,Female,,,,,,,0.6971768537999999
-2014,Violent Crime,Wounding,,Female,,,,,,,0.330362254097
-2014,Violent Crime,Assault with minor injury,,Female,,,,,,,0.377530137007
-2014,Violent Crime,Violence without injury,,Female,,,,,,,0.620189412074
-2014,Violent Crime,,,Female,16 to 24,,,,,,2.3632964448400005
-2014,Violent Crime,Violence with injury,,Female,16 to 24,,,,,,1.5265220757
-2014,Violent Crime,Wounding,,Female,16 to 24,,,,,,0.746333706147
-2014,Violent Crime,Assault with minor injury,,Female,16 to 24,,,,,,0.7801883695540001
-2014,Violent Crime,Violence without injury,,Female,16 to 24,,,,,,0.836774369141
-2014,Violent Crime,,,Female,25 to 34,,,,,,1.86502124343
-2014,Violent Crime,Violence with injury,,Female,25 to 34,,,,,,0.981250591224
-2014,Violent Crime,Wounding,,Female,25 to 34,,,,,,0.475315057715
-2014,Violent Crime,Assault with minor injury,,Female,25 to 34,,,,,,0.5059355335100001
-2014,Violent Crime,Violence without injury,,Female,25 to 34,,,,,,0.8944700217139999
-2014,Violent Crime,,,Female,35 to 44,,,,,,1.6090807357499999
-2014,Violent Crime,Violence with injury,,Female,35 to 44,,,,,,0.926394928713
-2014,Violent Crime,Wounding,,Female,35 to 44,,,,,,0.269596232085
-2014,Violent Crime,Assault with minor injury,,Female,35 to 44,,,,,,0.677971377391
-2014,Violent Crime,Violence without injury,,Female,35 to 44,,,,,,0.799284367783
-2014,Violent Crime,,,Female,45 to 54,,,,,,1.6067702296000002
-2014,Violent Crime,Violence with injury,,Female,45 to 54,,,,,,0.789574219549
-2014,Violent Crime,Wounding,,Female,45 to 54,,,,,,0.5008340842710001
-2014,Violent Crime,Assault with minor injury,,Female,45 to 54,,,,,,0.330954912991
-2014,Violent Crime,Violence without injury,,Female,45 to 54,,,,,,0.9522444261669999
-2014,Violent Crime,,,Female,55 to 64,,,,,,0.438161859859
-2014,Violent Crime,Violence with injury,,Female,55 to 64,,,,,,0.165194357829
-2014,Violent Crime,Wounding,,Female,55 to 64,,,,,,0.101040986084
-2014,Violent Crime,Assault with minor injury,,Female,55 to 64,,,,,,0.0641533717451
-2014,Violent Crime,Violence without injury,,Female,55 to 64,,,,,,0.27296750203000003
-2014,Violent Crime,,,Female,65 to 74,,,,,,0.32124327122499996
-2014,Violent Crime,Violence with injury,,Female,65 to 74,,,,,,0.117814845525
-2014,Violent Crime,Wounding,,Female,65 to 74,,,,,,0.0
-2014,Violent Crime,Assault with minor injury,,Female,65 to 74,,,,,,0.117814845525
-2014,Violent Crime,Violence without injury,,Female,65 to 74,,,,,,0.2034284257
-2014,Violent Crime,,,Female,75 and over,,,,,,0.10146099553099999
-2014,Violent Crime,Violence with injury,,Female,75 and over,,,,,,0.07096860883139999
-2014,Violent Crime,Wounding,,Female,75 and over,,,,,,0.07096860883139999
-2014,Violent Crime,Assault with minor injury,,Female,75 and over,,,,,,0.0
-2014,Violent Crime,Violence without injury,,Female,75 and over,,,,,,0.030492386699700003
-2014,Violent Crime,,White,,,,,,,,1.78583730469
-2014,Violent Crime,Violence with injury,White,,,,,,,,0.946614104799
-2014,Violent Crime,Wounding,White,,,,,,,,0.423697484706
-2014,Violent Crime,Assault with minor injury,White,,,,,,,,0.536828888308
-2014,Violent Crime,Violence without injury,White,,,,,,,,0.899130293766
-2014,Violent Crime,,White - EnglishWelshScottishNorthern IrishBritish,,,,,,,,1.80463273572
-2014,Violent Crime,Violence with injury,White - EnglishWelshScottishNorthern IrishBritish,,,,,,,,0.9854850876100001
-2014,Violent Crime,Wounding,White - EnglishWelshScottishNorthern IrishBritish,,,,,,,,0.450645719782
-2014,Violent Crime,Assault with minor injury,White - EnglishWelshScottishNorthern IrishBritish,,,,,,,,0.549859794685
-2014,Violent Crime,Violence without injury,White - EnglishWelshScottishNorthern IrishBritish,,,,,,,,0.883826542155
-2014,Violent Crime,,White - Irish,,,,,,,,1.3359583464799998
-2014,Violent Crime,Violence with injury,White - Irish,,,,,,,,0.7913531567300001
-2014,Violent Crime,Wounding,White - Irish,,,,,,,,0.203509230296
-2014,Violent Crime,Assault with minor injury,White - Irish,,,,,,,,0.587843926434
-2014,Violent Crime,Violence without injury,White - Irish,,,,,,,,0.544605189746
-2014,Violent Crime,,White - any other white background,,,,,,,,1.59391668956
-2014,Violent Crime,Violence with injury,White - any other white background,,,,,,,,0.40619430778099996
-2014,Violent Crime,Wounding,White - any other white background,,,,,,,,0.06633464936490001
-2014,Violent Crime,Assault with minor injury,White - any other white background,,,,,,,,0.339859658417
-2014,Violent Crime,Violence without injury,White - any other white background,,,,,,,,1.1877223817799998
-2014,Violent Crime,,Mixedmultiple ethnic groups,,,,,,,,5.792957331719999
-2014,Violent Crime,Violence with injury,Mixedmultiple ethnic groups,,,,,,,,3.7107469168500002
-2014,Violent Crime,Wounding,Mixedmultiple ethnic groups,,,,,,,,3.0864123006099997
-2014,Violent Crime,Assault with minor injury,Mixedmultiple ethnic groups,,,,,,,,0.624334616236
-2014,Violent Crime,Violence without injury,Mixedmultiple ethnic groups,,,,,,,,2.08221041487
-2014,Violent Crime,,Mixed - White and Black Caribbean,,,,,,,,7.282570690389999
-2014,Violent Crime,Violence with injury,Mixed - White and Black Caribbean,,,,,,,,3.83047465732
-2014,Violent Crime,Wounding,Mixed - White and Black Caribbean,,,,,,,,3.83047465732
-2014,Violent Crime,Assault with minor injury,Mixed - White and Black Caribbean,,,,,,,,0.0
-2014,Violent Crime,Violence without injury,Mixed - White and Black Caribbean,,,,,,,,3.45209603306
-2014,Violent Crime,,Mixed - White and Asian,,,,,,,,9.458545571739998
-2014,Violent Crime,Violence with injury,Mixed - White and Asian,,,,,,,,8.775647758849999
-2014,Violent Crime,Wounding,Mixed - White and Asian,,,,,,,,6.52962757538
-2014,Violent Crime,Assault with minor injury,Mixed - White and Asian,,,,,,,,2.24602018347
-2014,Violent Crime,Violence without injury,Mixed - White and Asian,,,,,,,,0.682897812888
-2014,Violent Crime,,Mixed - Any other MixedMultiple ethnic background,,,,,,,,3.6458644409699996
-2014,Violent Crime,Violence with injury,Mixed - Any other MixedMultiple ethnic background,,,,,,,,0.455893972178
-2014,Violent Crime,Wounding,Mixed - Any other MixedMultiple ethnic background,,,,,,,,0.455893972178
-2014,Violent Crime,Assault with minor injury,Mixed - Any other MixedMultiple ethnic background,,,,,,,,0.0
-2014,Violent Crime,Violence without injury,Mixed - Any other MixedMultiple ethnic background,,,,,,,,3.18997046879
-2014,Violent Crime,,AsianAsian British,,,,,,,,1.2342229864399998
-2014,Violent Crime,Violence with injury,AsianAsian British,,,,,,,,0.560633007622
-2014,Violent Crime,Wounding,AsianAsian British,,,,,,,,0.37465152017
-2014,Violent Crime,Assault with minor injury,AsianAsian British,,,,,,,,0.185981487452
-2014,Violent Crime,Violence without injury,AsianAsian British,,,,,,,,0.6997718665870001
-2014,Violent Crime,,Asian - Indian,,,,,,,,0.8782902516429999
-2014,Violent Crime,Violence with injury,Asian - Indian,,,,,,,,0.40251985858
-2014,Violent Crime,Wounding,Asian - Indian,,,,,,,,0.25731975815499997
-2014,Violent Crime,Assault with minor injury,Asian - Indian,,,,,,,,0.145200100425
-2014,Violent Crime,Violence without injury,Asian - Indian,,,,,,,,0.475770393063
-2014,Violent Crime,,Asian - Pakistani,,,,,,,,0.944436962118
-2014,Violent Crime,Violence with injury,Asian - Pakistani,,,,,,,,0.534295328384
-2014,Violent Crime,Wounding,Asian - Pakistani,,,,,,,,0.534295328384
-2014,Violent Crime,Assault with minor injury,Asian - Pakistani,,,,,,,,0.0
-2014,Violent Crime,Violence without injury,Asian - Pakistani,,,,,,,,0.512239800907
-2014,Violent Crime,,Asian - Bangladeshi,,,,,,,,2.28604970403
-2014,Violent Crime,Violence with injury,Asian - Bangladeshi,,,,,,,,0.487273972078
-2014,Violent Crime,Wounding,Asian - Bangladeshi,,,,,,,,0.487273972078
-2014,Violent Crime,Assault with minor injury,Asian - Bangladeshi,,,,,,,,0.0
-2014,Violent Crime,Violence without injury,Asian - Bangladeshi,,,,,,,,1.79877573195
-2014,Violent Crime,,Asian - Chinese,,,,,,,,1.88451247416
-2014,Violent Crime,Violence with injury,Asian - Chinese,,,,,,,,0.260645577847
-2014,Violent Crime,Wounding,Asian - Chinese,,,,,,,,0.0
-2014,Violent Crime,Assault with minor injury,Asian - Chinese,,,,,,,,0.260645577847
-2014,Violent Crime,Violence without injury,Asian - Chinese,,,,,,,,1.62386689631
-2014,Violent Crime,,Asian - Any other Asian background,,,,,,,,1.64005517942
-2014,Violent Crime,Violence with injury,Asian - Any other Asian background,,,,,,,,1.0895496844700001
-2014,Violent Crime,Wounding,Asian - Any other Asian background,,,,,,,,0.513510039138
-2014,Violent Crime,Assault with minor injury,Asian - Any other Asian background,,,,,,,,0.576039645332
-2014,Violent Crime,Violence without injury,Asian - Any other Asian background,,,,,,,,0.5505054949539999
-2014,Violent Crime,,BlackAfricanCaribbeanBlack British,,,,,,,,2.4498623498299996
-2014,Violent Crime,Violence with injury,BlackAfricanCaribbeanBlack British,,,,,,,,1.05589656983
-2014,Violent Crime,Wounding,BlackAfricanCaribbeanBlack British,,,,,,,,0.5742868287030001
-2014,Violent Crime,Assault with minor injury,BlackAfricanCaribbeanBlack British,,,,,,,,0.48160974112899996
-2014,Violent Crime,Violence without injury,BlackAfricanCaribbeanBlack British,,,,,,,,1.39396578
-2014,Violent Crime,,Black - African,,,,,,,,2.70553276567
-2014,Violent Crime,Violence with injury,Black - African,,,,,,,,1.07351010035
-2014,Violent Crime,Wounding,Black - African,,,,,,,,0.340525382621
-2014,Violent Crime,Assault with minor injury,Black - African,,,,,,,,0.732984717732
-2014,Violent Crime,Violence without injury,Black - African,,,,,,,,1.6320226653100003
-2014,Violent Crime,,Black - Caribbean,,,,,,,,0.702700043969
-2014,Violent Crime,Violence with injury,Black - Caribbean,,,,,,,,0.17543065998
-2014,Violent Crime,Wounding,Black - Caribbean,,,,,,,,0.17543065998
-2014,Violent Crime,Assault with minor injury,Black - Caribbean,,,,,,,,0.0
-2014,Violent Crime,Violence without injury,Black - Caribbean,,,,,,,,0.527269383989
-2014,Violent Crime,,Black - Any other BlackAfricanCaribbean background,,,,,,,,8.39091825845
-2014,Violent Crime,Violence with injury,Black - Any other BlackAfricanCaribbean background,,,,,,,,5.009780163349999
-2014,Violent Crime,Wounding,Black - Any other BlackAfricanCaribbean background,,,,,,,,4.451719950069999
-2014,Violent Crime,Assault with minor injury,Black - Any other BlackAfricanCaribbean background,,,,,,,,0.558060213286
-2014,Violent Crime,Violence without injury,Black - Any other BlackAfricanCaribbean background,,,,,,,,3.3811380951
-2014,Violent Crime,,Other ethnic group,,,,,,,,1.15439172111
-2014,Violent Crime,Violence with injury,Other ethnic group,,,,,,,,0.253115745157
-2014,Violent Crime,Wounding,Other ethnic group,,,,,,,,0.253115745157
-2014,Violent Crime,Assault with minor injury,Other ethnic group,,,,,,,,0.0
-2014,Violent Crime,Violence without injury,Other ethnic group,,,,,,,,0.901275975953
-2014,Violent Crime,,Other ethnic group - Arab,,,,,,,,1.0191392997600002
-2014,Violent Crime,Violence with injury,Other ethnic group - Arab,,,,,,,,0.0
-2014,Violent Crime,Wounding,Other ethnic group - Arab,,,,,,,,0.0
-2014,Violent Crime,Assault with minor injury,Other ethnic group - Arab,,,,,,,,0.0
-2014,Violent Crime,Violence without injury,Other ethnic group - Arab,,,,,,,,1.0191392997600002
-2014,Violent Crime,,Other ethnic group - Any other ethnic group,,,,,,,,1.0191392997600002
-2014,Violent Crime,Violence with injury,Other ethnic group - Any other ethnic group,,,,,,,,0.40691425012599997
-2014,Violent Crime,Wounding,Other ethnic group - Any other ethnic group,,,,,,,,0.40691425012599997
-2014,Violent Crime,Assault with minor injury,Other ethnic group - Any other ethnic group,,,,,,,,0.0
-2014,Violent Crime,Violence without injury,Other ethnic group - Any other ethnic group,,,,,,,,0.82965971604
-2014,Violent Crime,,,,,Long-standing illness or disability,,,,,2.34068248157
-2014,Violent Crime,Violence with injury,,,,Long-standing illness or disability,,,,,1.3685434565299999
-2014,Violent Crime,Wounding,,,,Long-standing illness or disability,,,,,0.673358036819
-2014,Violent Crime,Assault with minor injury,,,,Long-standing illness or disability,,,,,0.7033608000399999
-2014,Violent Crime,Violence without injury,,,,Long-standing illness or disability,,,,,1.00535798623
-2014,Violent Crime,,,,,Long-standing illness or disability,Limits activities,,,,2.48936327816
-2014,Violent Crime,Violence with injury,,,,Long-standing illness or disability,Limits activities,,,,1.5357941543
-2014,Violent Crime,Wounding,,,,Long-standing illness or disability,Limits activities,,,,0.8264362963799999
-2014,Violent Crime,Assault with minor injury,,,,Long-standing illness or disability,Limits activities,,,,0.720027911487
-2014,Violent Crime,Violence without injury,,,,Long-standing illness or disability,Limits activities,,,,0.996924671964
-2014,Violent Crime,,,,,Long-standing illness or disability,Does not limit activities,,,,1.86100363417
-2014,Violent Crime,Violence with injury,,,,Long-standing illness or disability,Does not limit activities,,,,0.823790498426
-2014,Violent Crime,Wounding,,,,Long-standing illness or disability,Does not limit activities,,,,0.17240105818799997
-2014,Violent Crime,Assault with minor injury,,,,Long-standing illness or disability,Does not limit activities,,,,0.651389440238
-2014,Violent Crime,Violence without injury,,,,Long-standing illness or disability,Does not limit activities,,,,1.03721313574
-2014,Violent Crime,,,,,No long-standing illness or disability,,,,,1.66654191605
-2014,Violent Crime,Violence with injury,,,,No long-standing illness or disability,,,,,0.834734796109
-2014,Violent Crime,Wounding,,,,No long-standing illness or disability,,,,,0.396592930906
-2014,Violent Crime,Assault with minor injury,,,,No long-standing illness or disability,,,,,0.451331821778
-2014,Violent Crime,Violence without injury,,,,No long-standing illness or disability,,,,,0.89159099192
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,,,,"30,000 less than 40,000",,,0.5070361432020001
-2015,Sexual Assault,,,Male,,,,"30,000 less than 40,000",,,0.12299295530099999
-2015,Sexual Assault,,,Female,,,,"30,000 less than 40,000",,,2.88963320231
-2014,Sexual Assault,,,Male,,,,"30,000 less than 40,000",,,0.5965558545740001
-2014,Sexual Assault,,,Female,,,,"30,000 less than 40,000",,,1.4838827688
-2016,Violent Crime,,,,,,,"40,000 less than 50,000",,,1.95007392623
-2016,Violent Crime,Violence with injury,,,,,,"40,000 less than 50,000",,,0.964670045256
-2016,Violent Crime,Wounding,,,,,,"40,000 less than 50,000",,,0.44509343879600005
-2016,Violent Crime,Assault with minor injury,,,,,,"40,000 less than 50,000",,,0.51957660646
-2016,Violent Crime,Violence without injury,,,,,,"40,000 less than 50,000",,,0.985403880979
-2015,Violent Crime,,,,,,,"40,000 less than 50,000",,,1.7912299906400002
-2015,Violent Crime,Violence with injury,,,,,,"40,000 less than 50,000",,,0.961894468471
-2015,Violent Crime,Wounding,,,,,,"40,000 less than 50,000",,,0.334882636084
-2015,Violent Crime,Assault with minor injury,,,,,,"40,000 less than 50,000",,,0.627011832387
-2015,Violent Crime,Violence without injury,,,,,,"40,000 less than 50,000",,,0.8952162306170001
-2014,Violent Crime,,,,,,,"40,000 less than 50,000",,,1.6596443423500002
-2014,Violent Crime,Violence with injury,,,,,,"40,000 less than 50,000",,,0.8351515691339999
-2014,Violent Crime,Wounding,,,,,,"40,000 less than 50,000",,,0.409037000696
-2014,Violent Crime,Assault with minor injury,,,,,,"40,000 less than 50,000",,,0.47513936424900005
-2014,Violent Crime,Violence without injury,,,,,,"40,000 less than 50,000",,,0.8543238116480001
-2016,Sexual Assault,,,Male,,,,"40,000 less than 50,000",,,0.308498420689
-2016,Sexual Assault,,,Female,,,,"40,000 less than 50,000",,,2.50841237344
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,,,,"40,000 less than 50,000",,,0.30791134068500003
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,,,,"40,000 less than 50,000",,,2.1751929740700002
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,,,,"40,000 less than 50,000",,,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,,,,"40,000 less than 50,000",,,0.538556148588
-2015,Sexual Assault,,,Male,,,,"40,000 less than 50,000",,,0.621340549512
-2015,Sexual Assault,,,Female,,,,"40,000 less than 50,000",,,2.79954654949
-2014,Sexual Assault,,,Male,,,,"40,000 less than 50,000",,,0.47369824216399997
-2014,Sexual Assault,,,Female,,,,"40,000 less than 50,000",,,2.10720792372
-2016,Violent Crime,,,,,,,"50,000 or more",,,1.3893413048199998
-2016,Violent Crime,Violence with injury,,,,,,"50,000 or more",,,0.5190582439620001
-2016,Violent Crime,Wounding,,,,,,"50,000 or more",,,0.21479749982500002
-2016,Violent Crime,Assault with minor injury,,,,,,"50,000 or more",,,0.304260744137
-2016,Violent Crime,Violence without injury,,,,,,"50,000 or more",,,0.8747724949690001
-2016,Sexual Assault,,,Male,,,,,,,0.835818025874
-2016,Sexual Assault,,,Female,,,,,,,3.0794190287800003
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,,,,,,,0.801849277624
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,,,,,,,2.6734939733000003
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,,,,,,,0.0463375664544
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,,,,,,,0.868450676632
-2016,Sexual Assault,,,Male,16 to 19,,,,,,3.03751384009
-2016,Sexual Assault,,,Female,16 to 19,,,,,,8.763125514630001
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,16 to 19,,,,,,3.03751384009
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,16 to 19,,,,,,8.36287961448
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,16 to 19,,,,,,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,16 to 19,,,,,,2.85281610059
-2016,Sexual Assault,,,Male,20 to 24,,,,,,1.66984683315
-2016,Sexual Assault,,,Female,20 to 24,,,,,,7.20293266112
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,20 to 24,,,,,,1.66599561227
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,20 to 24,,,,,,6.18642478467
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,20 to 24,,,,,,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,20 to 24,,,,,,2.255568809
-2016,Sexual Assault,,,Male,25 to 34,,,,,,1.08633902394
-2016,Sexual Assault,,,Female,25 to 34,,,,,,3.2431032491500003
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,25 to 34,,,,,,1.0360621397799998
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,25 to 34,,,,,,2.8751542899099998
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,25 to 34,,,,,,0.10725130562799999
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,25 to 34,,,,,,0.7753697771629999
-2016,Sexual Assault,,,Male,35 to 44,,,,,,0.392781449392
-2016,Sexual Assault,,,Female,35 to 44,,,,,,1.73740430129
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,35 to 44,,,,,,0.321343718
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,35 to 44,,,,,,1.36310802511
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,35 to 44,,,,,,0.0699747988066
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,35 to 44,,,,,,0.456870705883
-2016,Sexual Assault,,,Male,45 to 54,,,,,,0.176792239548
-2016,Sexual Assault,,,Female,45 to 54,,,,,,1.32670004684
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,45 to 54,,,,,,0.15369073868
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,45 to 54,,,,,,1.0430017049200002
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,45 to 54,,,,,,0.0228199008615
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,45 to 54,,,,,,0.386926735089
-2016,Sexual Assault,,,Male,55 to 59,,,,,,0.08217767304069999
-2016,Sexual Assault,,,Female,55 to 59,,,,,,1.1808262038700001
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,55 to 59,,,,,,0.08205190753569999
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,55 to 59,,,,,,0.994803654983
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,55 to 59,,,,,,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,55 to 59,,,,,,0.17227520792800002
-2016,Sexual Assault,,White,Male,,,,,,,0.869568150261
-2016,Sexual Assault,,White,Female,,,,,,,3.09793565278
-2016,Sexual Assault,Indecent exposure or unwanted touching,White,Male,,,,,,,0.8495725219499999
-2016,Sexual Assault,Indecent exposure or unwanted touching,White,Female,,,,,,,2.6554706205
-2016,Sexual Assault,Rape or assault by penetration (including attempts),White,Male,,,,,,,0.035693570022
-2016,Sexual Assault,Rape or assault by penetration (including attempts),White,Female,,,,,,,0.835468251401
-2016,Sexual Assault,,White - EnglishWelshScottishNorthern IrishBritish,Male,,,,,,,0.886655028492
-2016,Sexual Assault,,White - EnglishWelshScottishNorthern IrishBritish,Female,,,,,,,3.06049764181
-2016,Sexual Assault,Indecent exposure or unwanted touching,White - EnglishWelshScottishNorthern IrishBritish,Male,,,,,,,0.864625987032
-2016,Sexual Assault,Indecent exposure or unwanted touching,White - EnglishWelshScottishNorthern IrishBritish,Female,,,,,,,2.6417223438799997
-2016,Sexual Assault,Rape or assault by penetration (including attempts),White - EnglishWelshScottishNorthern IrishBritish,Male,,,,,,,0.0398843153613
-2016,Sexual Assault,Rape or assault by penetration (including attempts),White - EnglishWelshScottishNorthern IrishBritish,Female,,,,,,,0.8185582871279999
-2016,Sexual Assault,,White - Irish,Male,,,,,,,1.28476416736
-2016,Sexual Assault,,White - Irish,Female,,,,,,,0.0
-2016,Sexual Assault,Indecent exposure or unwanted touching,White - Irish,Male,,,,,,,1.28476416736
-2016,Sexual Assault,Indecent exposure or unwanted touching,White - Irish,Female,,,,,,,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),White - Irish,Male,,,,,,,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),White - Irish,Female,,,,,,,0.0
-2016,Sexual Assault,,White - any other white background,Male,,,,,,,0.689906514912
-2016,Sexual Assault,,White - any other white background,Female,,,,,,,3.70442742421
-2016,Sexual Assault,Indecent exposure or unwanted touching,White - any other white background,Male,,,,,,,0.687434221591
-2016,Sexual Assault,Indecent exposure or unwanted touching,White - any other white background,Female,,,,,,,3.00097551652
-2016,Sexual Assault,Rape or assault by penetration (including attempts),White - any other white background,Male,,,,,,,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),White - any other white background,Female,,,,,,,1.0634980970399999
-2016,Sexual Assault,,Mixedmultiple ethnic groups,Male,,,,,,,1.40810194995
-2016,Sexual Assault,,Mixedmultiple ethnic groups,Female,,,,,,,8.62659119415
-2016,Sexual Assault,Indecent exposure or unwanted touching,Mixedmultiple ethnic groups,Male,,,,,,,1.4038935771
-2016,Sexual Assault,Indecent exposure or unwanted touching,Mixedmultiple ethnic groups,Female,,,,,,,7.91537088382
-2016,Sexual Assault,Rape or assault by penetration (including attempts),Mixedmultiple ethnic groups,Male,,,,,,,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),Mixedmultiple ethnic groups,Female,,,,,,,3.36774442727
-2016,Sexual Assault,,Mixed - White and Black Caribbean,Female,,,,,,,1.51918784273
-2016,Sexual Assault,Indecent exposure or unwanted touching,Mixed - White and Black Caribbean,Female,,,,,,,1.51918784273
-2016,Sexual Assault,Rape or assault by penetration (including attempts),Mixed - White and Black Caribbean,Female,,,,,,,0.0
-2016,Sexual Assault,,AsianAsian British,Male,,,,,,,0.533872134296
-2016,Sexual Assault,,AsianAsian British,Female,,,,,,,1.4711986132
-2016,Sexual Assault,Indecent exposure or unwanted touching,AsianAsian British,Male,,,,,,,0.47265015630699997
-2016,Sexual Assault,Indecent exposure or unwanted touching,AsianAsian British,Female,,,,,,,1.3837783121
-2016,Sexual Assault,Rape or assault by penetration (including attempts),AsianAsian British,Male,,,,,,,0.057148437399399996
-2016,Sexual Assault,Rape or assault by penetration (including attempts),AsianAsian British,Female,,,,,,,0.282161662119
-2016,Sexual Assault,,Asian - Indian,Male,,,,,,,0.571009641159
-2016,Sexual Assault,,Asian - Indian,Female,,,,,,,1.38629727986
-2016,Sexual Assault,Indecent exposure or unwanted touching,Asian - Indian,Male,,,,,,,0.41336306902599995
-2016,Sexual Assault,Indecent exposure or unwanted touching,Asian - Indian,Female,,,,,,,1.38054051933
-2016,Sexual Assault,Rape or assault by penetration (including attempts),Asian - Indian,Male,,,,,,,0.15439018325200002
-2016,Sexual Assault,Rape or assault by penetration (including attempts),Asian - Indian,Female,,,,,,,0.543431003024
-2016,Sexual Assault,,Asian - Pakistani,Male,,,,,,,0.0
-2016,Sexual Assault,,Asian - Pakistani,Female,,,,,,,2.66233454228
-2016,Sexual Assault,Indecent exposure or unwanted touching,Asian - Pakistani,Male,,,,,,,0.0
-2016,Sexual Assault,Indecent exposure or unwanted touching,Asian - Pakistani,Female,,,,,,,2.6145386025999997
-2016,Sexual Assault,Rape or assault by penetration (including attempts),Asian - Pakistani,Male,,,,,,,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),Asian - Pakistani,Female,,,,,,,0.0
-2016,Sexual Assault,,Asian - Bangladeshi,Male,,,,,,,0.0
-2016,Sexual Assault,,Asian - Bangladeshi,Female,,,,,,,0.0
-2016,Sexual Assault,Indecent exposure or unwanted touching,Asian - Bangladeshi,Male,,,,,,,0.0
-2016,Sexual Assault,Indecent exposure or unwanted touching,Asian - Bangladeshi,Female,,,,,,,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),Asian - Bangladeshi,Male,,,,,,,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),Asian - Bangladeshi,Female,,,,,,,0.0
-2016,Sexual Assault,,Asian - Chinese,Male,,,,,,,3.17794062011
-2016,Sexual Assault,,Asian - Chinese,Female,,,,,,,1.58401205212
-2016,Sexual Assault,Indecent exposure or unwanted touching,Asian - Chinese,Male,,,,,,,3.17794062011
-2016,Sexual Assault,Indecent exposure or unwanted touching,Asian - Chinese,Female,,,,,,,0.75217954273
-2016,Sexual Assault,Rape or assault by penetration (including attempts),Asian - Chinese,Male,,,,,,,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),Asian - Chinese,Female,,,,,,,0.831832509387
-2016,Sexual Assault,,Asian - Any other Asian background,Male,,,,,,,0.0
-2016,Sexual Assault,,Asian - Any other Asian background,Female,,,,,,,0.731222505009
-2016,Sexual Assault,Indecent exposure or unwanted touching,Asian - Any other Asian background,Male,,,,,,,0.0
-2016,Sexual Assault,Indecent exposure or unwanted touching,Asian - Any other Asian background,Female,,,,,,,0.723013246942
-2016,Sexual Assault,Rape or assault by penetration (including attempts),Asian - Any other Asian background,Male,,,,,,,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),Asian - Any other Asian background,Female,,,,,,,0.0
-2016,Sexual Assault,,BlackAfricanCaribbeanBlack British,Male,,,,,,,0.0
-2016,Sexual Assault,,BlackAfricanCaribbeanBlack British,Female,,,,,,,3.77739492578
-2016,Sexual Assault,Indecent exposure or unwanted touching,BlackAfricanCaribbeanBlack British,Male,,,,,,,0.0
-2016,Sexual Assault,Indecent exposure or unwanted touching,BlackAfricanCaribbeanBlack British,Female,,,,,,,3.48475450554
-2016,Sexual Assault,Rape or assault by penetration (including attempts),BlackAfricanCaribbeanBlack British,Male,,,,,,,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),BlackAfricanCaribbeanBlack British,Female,,,,,,,1.56015505741
-2016,Sexual Assault,,Black - African,Male,,,,,,,0.0
-2016,Sexual Assault,,Black - African,Female,,,,,,,2.9299987368700005
-2016,Sexual Assault,Indecent exposure or unwanted touching,Black - African,Male,,,,,,,0.0
-2016,Sexual Assault,Indecent exposure or unwanted touching,Black - African,Female,,,,,,,2.9163864046
-2016,Sexual Assault,Rape or assault by penetration (including attempts),Black - African,Male,,,,,,,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),Black - African,Female,,,,,,,1.42074815621
-2016,Sexual Assault,,Black - Caribbean,Male,,,,,,,0.0
-2016,Sexual Assault,,Black - Caribbean,Female,,,,,,,7.49803377913
-2016,Sexual Assault,Indecent exposure or unwanted touching,Black - Caribbean,Male,,,,,,,0.0
-2016,Sexual Assault,Indecent exposure or unwanted touching,Black - Caribbean,Female,,,,,,,6.27665552231
-2016,Sexual Assault,Rape or assault by penetration (including attempts),Black - Caribbean,Male,,,,,,,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),Black - Caribbean,Female,,,,,,,2.44107753322
-2016,Sexual Assault,,Other ethnic group,Male,,,,,,,2.14902331028
-2016,Sexual Assault,,Other ethnic group,Female,,,,,,,3.3187627725
-2016,Sexual Assault,Indecent exposure or unwanted touching,Other ethnic group,Male,,,,,,,1.34717744958
-2016,Sexual Assault,Indecent exposure or unwanted touching,Other ethnic group,Female,,,,,,,3.26708558565
-2016,Sexual Assault,Rape or assault by penetration (including attempts),Other ethnic group,Male,,,,,,,0.789485262994
-2016,Sexual Assault,Rape or assault by penetration (including attempts),Other ethnic group,Female,,,,,,,1.67992731084
-2016,Sexual Assault,,Other ethnic group - Arab,Male,,,,,,,1.7021275284000001
-2016,Sexual Assault,Indecent exposure or unwanted touching,Other ethnic group - Arab,Male,,,,,,,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),Other ethnic group - Arab,Male,,,,,,,1.7021275284000001
-2016,Sexual Assault,,Other ethnic group - Any other ethnic group,Male,,,,,,,2.5356125
-2016,Sexual Assault,,Other ethnic group - Any other ethnic group,Female,,,,,,,2.4827133453799997
-2016,Sexual Assault,Indecent exposure or unwanted touching,Other ethnic group - Any other ethnic group,Male,,,,,,,2.5356125
-2016,Sexual Assault,Indecent exposure or unwanted touching,Other ethnic group - Any other ethnic group,Female,,,,,,,2.45605859526
-2016,Sexual Assault,Rape or assault by penetration (including attempts),Other ethnic group - Any other ethnic group,Male,,,,,,,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),Other ethnic group - Any other ethnic group,Female,,,,,,,0.0
-2016,Sexual Assault,,,Male,,Long-standing illness or disability,,,,,1.01837012031
-2016,Sexual Assault,,,Female,,Long-standing illness or disability,,,,,5.32042585023
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,,Long-standing illness or disability,,,,,0.929267807853
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,,Long-standing illness or disability,,,,,4.38352005612
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,,Long-standing illness or disability,,,,,0.155056471187
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,,Long-standing illness or disability,,,,,1.8204858546200002
-2016,Sexual Assault,,,Male,,Long-standing illness or disability,Limits activities,,,,1.1344176055
-2016,Sexual Assault,,,Female,,Long-standing illness or disability,Limits activities,,,,5.0468688128300006
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,,Long-standing illness or disability,Limits activities,,,,1.0051063468299999
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,,Long-standing illness or disability,Limits activities,,,,3.99830518768
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,,Long-standing illness or disability,Limits activities,,,,0.224334989261
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,,Long-standing illness or disability,Limits activities,,,,2.00572145541
-2016,Sexual Assault,,,Male,,Long-standing illness or disability,Does not limit activities,,,,0.763158437365
-2016,Sexual Assault,,,Female,,Long-standing illness or disability,Does not limit activities,,,,6.26475594197
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,,Long-standing illness or disability,Does not limit activities,,,,0.763158437365
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,,Long-standing illness or disability,Does not limit activities,,,,5.7024058829
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,,Long-standing illness or disability,Does not limit activities,,,,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,,Long-standing illness or disability,Does not limit activities,,,,1.20924241939
-2016,Sexual Assault,,,Male,,No long-standing illness or disability,,,,,0.8103432551880001
-2016,Sexual Assault,,,Female,,No long-standing illness or disability,,,,,2.66982555144
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,,No long-standing illness or disability,,,,,0.784392057792
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,,No long-standing illness or disability,,,,,2.3577913752
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,,No long-standing illness or disability,,,,,0.0307076492456
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,,No long-standing illness or disability,,,,,0.696982464393
-2015,Violent Crime,,,,,,,"50,000 or more",,,1.7009912116299999
-2015,Violent Crime,Violence with injury,,,,,,"50,000 or more",,,0.72711036564
-2015,Violent Crime,Wounding,,,,,,"50,000 or more",,,0.319029643017
-2015,Violent Crime,Assault with minor injury,,,,,,"50,000 or more",,,0.408080722623
-2015,Violent Crime,Violence without injury,,,,,,"50,000 or more",,,1.00902512015
-2014,Violent Crime,,,,,,,"50,000 or more",,,1.7702847698
-2014,Violent Crime,Violence with injury,,,,,,"50,000 or more",,,0.783579958363
-2014,Violent Crime,Wounding,,,,,,"50,000 or more",,,0.41102986437399996
-2014,Violent Crime,Assault with minor injury,,,,,,"50,000 or more",,,0.383543203367
-2014,Violent Crime,Violence without injury,,,,,,"50,000 or more",,,1.07729554191
-2016,Sexual Assault,,,Male,,,,"50,000 or more",,,0.722945855537
-2016,Sexual Assault,,,Female,,,,"50,000 or more",,,2.48406166875
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,,,,"50,000 or more",,,0.600698601571
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,,,,"50,000 or more",,,2.2380781404
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,,,,"50,000 or more",,,0.122130405725
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,,,,"50,000 or more",,,0.530498347751
-2015,Sexual Assault,,,Male,,,,"50,000 or more",,,0.9014370862450001
-2015,Sexual Assault,,,Female,,,,"50,000 or more",,,2.41242439597
-2014,Sexual Assault,,,Male,,,,"50,000 or more",,,0.586182091664
-2014,Sexual Assault,,,Female,,,,"50,000 or more",,,1.7340600329299998
-2016,Violent Crime,,,,,,,"Less than 10,000",,,2.58105979367
-2016,Violent Crime,Violence with injury,,,,,,"Less than 10,000",,,1.4528682890200002
-2016,Violent Crime,Wounding,,,,,,"Less than 10,000",,,0.501489146587
-2016,Violent Crime,Assault with minor injury,,,,,,"Less than 10,000",,,0.973844133909
-2016,Violent Crime,Violence without injury,,,,,,"Less than 10,000",,,1.18189416976
-2015,Violent Crime,,,,,,,"Less than 10,000",,,1.96784762235
-2015,Violent Crime,Violence with injury,,,,,,"Less than 10,000",,,1.1948420405
-2015,Violent Crime,Wounding,,,,,,"Less than 10,000",,,0.6961198010490001
-2015,Violent Crime,Assault with minor injury,,,,,,"Less than 10,000",,,0.526149879611
-2015,Violent Crime,Violence without injury,,,,,,"Less than 10,000",,,0.81633766549
-2014,Violent Crime,,,,,,,"Less than 10,000",,,3.2637877774699997
-2014,Violent Crime,Violence with injury,,,,,,"Less than 10,000",,,2.14299465759
-2014,Violent Crime,Wounding,,,,,,"Less than 10,000",,,1.12301148339
-2014,Violent Crime,Assault with minor injury,,,,,,"Less than 10,000",,,1.04059549506
-2014,Violent Crime,Violence without injury,,,,,,"Less than 10,000",,,1.16706018794
-2016,Sexual Assault,,,Male,,,,"Less than 10,000",,,1.09847671669
-2016,Sexual Assault,,,Female,,,,"Less than 10,000",,,3.1144112255699996
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,,,,"Less than 10,000",,,1.0913599543899999
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,,,,"Less than 10,000",,,2.14587006378
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,,,,"Less than 10,000",,,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,,,,"Less than 10,000",,,1.4594820908500001
-2015,Sexual Assault,,,Male,,,,"Less than 10,000",,,0.632736049905
-2016,Sexual Assault,,,Male,,,,,North East,E12000001,0.0
-2016,Sexual Assault,,,Female,,,,,North East,E12000001,4.00371412474
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,,,,,North East,E12000001,0.0
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,,,,,North East,E12000001,3.2882549176399998
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,,,,,North East,E12000001,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,,,,,North East,E12000001,1.10885147421
-2016,Sexual Assault,,,Male,,,,,North West,E12000002,0.609100972512
-2016,Sexual Assault,,,Female,,,,,North West,E12000002,2.2558492181200003
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,,,,,North West,E12000002,0.6067583150110001
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,,,,,North West,E12000002,1.8472812734900002
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,,,,,North West,E12000002,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,,,,,North West,E12000002,0.635110584741
-2016,Sexual Assault,,,Male,,,,,Yorkshire and the Humber,,0.567989093221
-2016,Sexual Assault,,,Female,,,,,Yorkshire and the Humber,,2.2377495290200002
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,,,,,Yorkshire and the Humber,,0.451470437864
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,,,,,Yorkshire and the Humber,,1.36941340326
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,,,,,Yorkshire and the Humber,,0.116003759568
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,,,,,Yorkshire and the Humber,,1.20594918606
-2016,Sexual Assault,,,Male,,,,,East Midlands,E12000004,0.629789688367
-2016,Sexual Assault,,,Female,,,,,East Midlands,E12000004,2.94332036601
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,,,,,East Midlands,E12000004,0.505455445917
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,,,,,East Midlands,E12000004,2.46918025384
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,,,,,East Midlands,E12000004,0.124011581165
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,,,,,East Midlands,E12000004,0.777668061092
-2016,Sexual Assault,,,Male,,,,,West Midlands,E12000005,1.0541126971700001
-2016,Sexual Assault,,,Female,,,,,West Midlands,E12000005,2.52254986511
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,,,,,West Midlands,E12000005,1.04757633806
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,,,,,West Midlands,E12000005,2.0910089079099996
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,,,,,West Midlands,E12000005,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,,,,,West Midlands,E12000005,0.7490757761669999
-2016,Sexual Assault,,,Male,,,,,East,E12000007,0.902889167422
-2016,Sexual Assault,,,Female,,,,,East,E12000007,2.44514659725
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,,,,,East,E12000007,0.9019223818459999
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,,,,,East,E12000007,2.26066872583
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,,,,,East,E12000007,0.12161458400999998
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,,,,,East,E12000007,0.5578250139500001
-2016,Sexual Assault,,,Male,,,,,London,E12000007,1.1155054635700001
-2016,Sexual Assault,,,Female,,,,,London,E12000007,3.0492373758899998
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,,,,,London,E12000007,1.0407653372399999
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,,,,,London,E12000007,2.7658245023
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,,,,,London,E12000007,0.06998228325789999
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,,,,,London,E12000007,0.709974064227
-2016,Sexual Assault,,,Male,,,,,South East,E12000008,0.56706141282
-2016,Sexual Assault,,,Female,,,,,South East,E12000008,2.73018476714
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,,,,,South East,E12000008,0.486664949849
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,,,,,South East,E12000008,2.19908635347
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,,,,,South East,E12000008,0.07871506704549999
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,,,,,South East,E12000008,1.12173790648
-2016,Sexual Assault,,,Male,,,,,South West,E12000009,1.12400785021
-2016,Sexual Assault,,,Female,,,,,South West,E12000009,3.9343426133099997
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,,,,,South West,E12000009,1.12239981595
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,,,,,South West,E12000009,3.19767827829
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,,,,,South West,E12000009,0.188920276885
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,,,,,South West,E12000009,1.14034967523
-2016,Sexual Assault,,,Male,,,,,Wales,,0.267486938085
-2016,Sexual Assault,,,Female,,,,,Wales,,3.5827748204400005
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,,,,,Wales,,0.267227385996
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,,,,,Wales,,3.372824866
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,,,,,Wales,,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,,,,,Wales,,0.420402447465
-2015,Sexual Assault,,,Male,,,,,,,0.6795844867990001
-2015,Sexual Assault,,,Female,,,,,,,3.22986503084
-2015,Sexual Assault,,,Male,16 to 19,,,,,,2.47931209812
-2015,Sexual Assault,,,Female,16 to 19,,,,,,11.040013265599999
-2015,Sexual Assault,,,Male,20 to 24,,,,,,1.6367459853100002
-2015,Sexual Assault,,,Female,20 to 24,,,,,,7.6023595962399995
-2015,Sexual Assault,,,Male,25 to 34,,,,,,0.7892554460600001
-2015,Sexual Assault,,,Female,25 to 34,,,,,,2.83322415296
-2015,Sexual Assault,,,Male,35 to 44,,,,,,0.237884131682
-2015,Sexual Assault,,,Female,35 to 44,,,,,,1.64094420059
-2015,Sexual Assault,,,Male,45 to 54,,,,,,0.0469687453983
-2015,Sexual Assault,,,Female,45 to 54,,,,,,1.61208689109
-2015,Sexual Assault,,,Male,55 to 59,,,,,,0.33026378727600003
-2015,Sexual Assault,,,Female,55 to 59,,,,,,0.8275763519220001
-2015,Sexual Assault,,White,Male,,,,,,,0.6807606523119999
-2015,Sexual Assault,,White,Female,,,,,,,3.26724309005
-2015,Sexual Assault,,White - EnglishWelshScottishNorthern IrishBritish,Male,,,,,,,0.744115061356
-2015,Sexual Assault,,White - EnglishWelshScottishNorthern IrishBritish,Female,,,,,,,3.32966536023
-2015,Sexual Assault,,White - Irish,Male,,,,,,,1.1366170629899999
-2015,Sexual Assault,,White - Irish,Female,,,,,,,0.5380088514810001
-2015,Sexual Assault,,White - Any other white background,Male,,,,,,,0.604883936268
-2015,Sexual Assault,,White - Any other white background,Female,,,,,,,2.8547853862199997
-2015,Sexual Assault,,Mixedmultiple ethnic groups,Male,,,,,,,0.0
-2015,Sexual Assault,,Mixedmultiple ethnic groups,Female,,,,,,,2.81572779078
-2015,Sexual Assault,,Mixed - White and Black Caribbean,Female,,,,,,,5.09505114857
-2015,Sexual Assault,,AsianAsian British,Male,,,,,,,0.25469245514899996
-2015,Sexual Assault,,AsianAsian British,Female,,,,,,,3.01016818338
-2015,Sexual Assault,,Asian - Indian,Male,,,,,,,0.19909074450199998
-2015,Sexual Assault,,Asian - Indian,Female,,,,,,,4.679799244680001
-2015,Sexual Assault,,Asian - Pakistani,Male,,,,,,,0.490612130596
-2015,Sexual Assault,,Asian - Pakistani,Female,,,,,,,2.01029495068
-2015,Sexual Assault,,Asian - Bangladeshi,Female,,,,,,,0.0
-2015,Sexual Assault,,Asian - Chinese,Male,,,,,,,0.338677763266
-2015,Sexual Assault,,Asian - Chinese,Female,,,,,,,2.7312511012900003
-2015,Sexual Assault,,Asian - Any other Asian background,Male,,,,,,,0.0
-2015,Sexual Assault,,Asian - Any other Asian background,Female,,,,,,,2.69346030884
-2015,Sexual Assault,,BlackAfricanCaribbeanBlack British,Male,,,,,,,0.682319068072
-2015,Sexual Assault,,BlackAfricanCaribbeanBlack British,Female,,,,,,,2.22790780914
-2015,Sexual Assault,,Black - African,Male,,,,,,,0.616198226966
-2015,Sexual Assault,,Black - African,Female,,,,,,,1.95606785425
-2015,Sexual Assault,,Black - Caribbean,Male,,,,,,,1.20844335074
-2015,Sexual Assault,,Black - Caribbean,Female,,,,,,,1.5408172700799998
-2015,Sexual Assault,,Other ethnic group,Male,,,,,,,0.9912360792880001
-2015,Sexual Assault,,Other ethnic group,Female,,,,,,,7.11534461795
-2015,Sexual Assault,,Other ethnic group - Any other ethnic group,Female,,,,,,,4.88272356125
-2015,Sexual Assault,,,Male,,Long-standing illness or disability,,,,,1.0397459858700002
-2015,Sexual Assault,,,Female,,Long-standing illness or disability,,,,,5.28559491678
-2015,Sexual Assault,,,Male,,Long-standing illness or disability,Limits activities,,,,1.04120205709
-2015,Sexual Assault,,,Female,,Long-standing illness or disability,Limits activities,,,,5.44222800401
-2015,Sexual Assault,,,Male,,Long-standing illness or disability,Does not limit activities,,,,1.0364067397399999
-2015,Sexual Assault,,,Female,,Long-standing illness or disability,Does not limit activities,,,,4.08970518398
-2015,Sexual Assault,,,Male,,No long-standing illness or disability,,,,,0.6275720050720001
-2015,Sexual Assault,,,Female,,No long-standing illness or disability,,,,,2.8401614112
-2015,Sexual Assault,,,Female,,,,"Less than 10,000",,,4.0780425647800005
-2014,Sexual Assault,,,Male,,,,"Less than 10,000",,,0.566732808759
-2014,Sexual Assault,,,Female,,,,"Less than 10,000",,,4.0597744136800005
-2016,Sexual Assault,,,Male,,,,No income stated or not enough information provided,,,0.962291349544
-2016,Sexual Assault,,,Female,,,,No income stated or not enough information provided,,,3.8161294063699995
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Male,,,,No income stated or not enough information provided,,,0.955054573604
-2016,Sexual Assault,Indecent exposure or unwanted touching,,Female,,,,No income stated or not enough information provided,,,3.2952261783599996
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Male,,,,No income stated or not enough information provided,,,0.0
-2016,Sexual Assault,Rape or assault by penetration (including attempts),,Female,,,,No income stated or not enough information provided,,,1.50051349236
-2015,Sexual Assault,,,Male,,,,No income stated or not enough information provided,,,0.9230934801139999
-2015,Sexual Assault,,,Female,,,,No income stated or not enough information provided,,,4.928566621619999
-2014,Sexual Assault,,,Male,,,,No income stated or not enough information provided,,,0.898759349787
-2014,Sexual Assault,,,Female,,,,No income stated or not enough information provided,,,5.04423708464
-2016,Violent Crime,,,,,,,No income stated or not enough information provided,,,1.45163009848
-2015,Sexual Assault,,,Male,,,,,North East,E12000001,0.07061656431369999
-2015,Sexual Assault,,,Female,,,,,North East,E12000001,1.7951156839400002
-2015,Sexual Assault,,,Male,,,,,North West,E12000002,0.109534140595
-2015,Sexual Assault,,,Female,,,,,North West,E12000002,3.24034847037
-2015,Sexual Assault,,,Male,,,,,Yorkshire and the Humber,,0.9670573621259999
-2015,Sexual Assault,,,Female,,,,,Yorkshire and the Humber,,4.06591783911
-2015,Sexual Assault,,,Male,,,,,East Midlands,E12000004,0.687725657774
-2015,Sexual Assault,,,Female,,,,,East Midlands,E12000004,3.4167819814700002
-2015,Sexual Assault,,,Male,,,,,West Midlands,E12000005,0.951384008406
-2015,Sexual Assault,,,Female,,,,,West Midlands,E12000005,2.24402675279
-2015,Sexual Assault,,,Male,,,,,East of England,E12000006,0.7774114713150001
-2015,Sexual Assault,,,Female,,,,,East of England,E12000006,2.9112805941000004
-2015,Sexual Assault,,,Male,,,,,London,E12000007,0.862954753035
-2015,Sexual Assault,,,Female,,,,,London,E12000007,4.14803694814
-2015,Sexual Assault,,,Male,,,,,South East,E12000008,0.652528436082
-2015,Sexual Assault,,,Female,,,,,South East,E12000008,2.30626219088
-2015,Sexual Assault,,,Male,,,,,South West,E12000009,0.830368764639
-2015,Sexual Assault,,,Female,,,,,South West,E12000009,4.3781791635100005
-2015,Sexual Assault,,,Male,,,,,Wales,,0.504408385996
-2015,Sexual Assault,,,Female,,,,,Wales,,2.9997534741500003
-2014,Sexual Assault,,,Male,,,,,,,0.700000640759
-2014,Sexual Assault,,,Female,,,,,,,2.71769174479
-2014,Sexual Assault,,,Male,16 to 19,,,,,,1.4379062127700002
-2014,Sexual Assault,,,Female,16 to 19,,,,,,8.98329380418
-2014,Sexual Assault,,,Male,20 to 24,,,,,,2.1749701091299998
-2014,Sexual Assault,,,Female,20 to 24,,,,,,5.779305665240001
-2014,Sexual Assault,,,Male,25 to 34,,,,,,0.692986272951
-2014,Sexual Assault,,,Female,25 to 34,,,,,,2.2057295076599996
-2014,Sexual Assault,,,Male,35 to 44,,,,,,0.545277948978
-2014,Sexual Assault,,,Female,35 to 44,,,,,,1.5635060523299997
-2014,Sexual Assault,,,Male,45 to 54,,,,,,0.129318571298
-2014,Sexual Assault,,,Female,45 to 54,,,,,,1.7122274310499999
-2014,Sexual Assault,,,Male,55 to 59,,,,,,0.101041343388
-2014,Sexual Assault,,,Female,55 to 59,,,,,,0.6247394583079999
-2014,Sexual Assault,,White,Male,,,,,,,0.626942769295
-2014,Sexual Assault,,White,Female,,,,,,,2.8271347584400006
-2014,Sexual Assault,,White - EnglishWelshScottishNorthern IrishBritish,Male,,,,,,,0.634409629195
-2014,Sexual Assault,,White - EnglishWelshScottishNorthern IrishBritish,Female,,,,,,,2.8579378855799997
-2014,Sexual Assault,,White - Irish,Male,,,,,,,0.0
-2014,Sexual Assault,,White - Irish,Female,,,,,,,7.76953645384
-2014,Sexual Assault,,White - Any other white background,Male,,,,,,,0.619772885991
-2014,Sexual Assault,,White - Any other white background,Female,,,,,,,1.95969118814
-2014,Sexual Assault,,Mixedmultiple ethnic groups,Male,,,,,,,5.641287169219999
-2014,Sexual Assault,,Mixedmultiple ethnic groups,Female,,,,,,,9.27520773643
-2014,Sexual Assault,,Mixed - White and Black Caribbean,Female,,,,,,,5.6394916004699995
-2014,Sexual Assault,,AsianAsian British,Male,,,,,,,0.601402125936
-2014,Sexual Assault,,AsianAsian British,Female,,,,,,,0.7753636411679999
-2014,Sexual Assault,,Asian - Indian,Male,,,,,,,1.5365963129
-2014,Sexual Assault,,Asian - Indian,Female,,,,,,,1.3126422274299998
-2014,Sexual Assault,,Asian - Pakistani,Male,,,,,,,0.0
-2014,Sexual Assault,,Asian - Pakistani,Female,,,,,,,1.14198625428
-2014,Sexual Assault,,Asian - Chinese,Female,,,,,,,0.0
-2014,Sexual Assault,,Asian - Any other Asian background,Male,,,,,,,0.0
-2014,Sexual Assault,,Asian - Any other Asian background,Female,,,,,,,0.0
-2014,Sexual Assault,,BlackAfricanCaribbeanBlack British,Male,,,,,,,0.601402125936
-2014,Sexual Assault,,BlackAfricanCaribbeanBlack British,Female,,,,,,,1.69038357146
-2014,Sexual Assault,,Black - African,Male,,,,,,,0.583623561307
-2014,Sexual Assault,,Black - African,Female,,,,,,,2.1973834614900003
-2014,Sexual Assault,,Black - Caribbean,Male,,,,,,,0.0
-2014,Sexual Assault,,Black - Caribbean,Female,,,,,,,1.07485805046
-2014,Sexual Assault,,Other ethnic group,Male,,,,,,,0.0
-2014,Sexual Assault,,Other ethnic group,Female,,,,,,,0.0
-2014,Sexual Assault,,,Male,,Long-standing illness or disability,,,,,1.27826038536
-2014,Sexual Assault,,,Female,,Long-standing illness or disability,,,,,4.3295117551499995
-2014,Sexual Assault,,,Male,,Long-standing illness or disability,Limits activities,,,,0.992636689617
-2014,Sexual Assault,,,Female,,Long-standing illness or disability,Limits activities,,,,3.97898921616
-2014,Sexual Assault,,,Male,,Long-standing illness or disability,Does not limit activities,,,,1.8703692481799998
-2014,Sexual Assault,,,Female,,Long-standing illness or disability,Does not limit activities,,,,5.47182546857
-2014,Sexual Assault,,,Male,,No long-standing illness or disability,,,,,0.616012166196
-2014,Sexual Assault,,,Female,,No long-standing illness or disability,,,,,2.43444814462
-2016,Violent Crime,Violence with injury,,,,,,No income stated or not enough information provided,,,0.7042185647570001
-2016,Violent Crime,Wounding,,,,,,No income stated or not enough information provided,,,0.5595467987439999
-2016,Violent Crime,Assault with minor injury,,,,,,No income stated or not enough information provided,,,0.15476961566
-2016,Violent Crime,Violence without injury,,,,,,No income stated or not enough information provided,,,0.8092969147050001
-2015,Violent Crime,,,,,,,No income stated or not enough information provided,,,1.7093991433000002
-2015,Violent Crime,Violence with injury,,,,,,No income stated or not enough information provided,,,0.998866289908
-2015,Violent Crime,Wounding,,,,,,No income stated or not enough information provided,,,0.596852995932
-2015,Violent Crime,Assault with minor injury,,,,,,No income stated or not enough information provided,,,0.40201329397600005
-2015,Violent Crime,Violence without injury,,,,,,No income stated or not enough information provided,,,0.763143486587
-2014,Violent Crime,,,,,,,No income stated or not enough information provided,,,1.59463045222
-2014,Violent Crime,Violence with injury,,,,,,No income stated or not enough information provided,,,0.772047144669
-2014,Violent Crime,Wounding,,,,,,No income stated or not enough information provided,,,0.34312860984399995
-2014,Violent Crime,Assault with minor injury,,,,,,No income stated or not enough information provided,,,0.42891853482500003
-2014,Violent Crime,Violence without injury,,,,,,No income stated or not enough information provided,,,0.8727308614270001
-2014,Sexual Assault,,,Male,,,,,North East,E12000001,0.79394799618
-2014,Sexual Assault,,,Female,,,,,North East,E12000001,2.81819831459
-2014,Sexual Assault,,,Male,,,,,North West,E12000002,0.523636270762
-2014,Sexual Assault,,,Female,,,,,North West,E12000002,1.60368177462
-2014,Sexual Assault,,,Male,,,,,Yorkshire and the Humber,,1.14034324359
-2014,Sexual Assault,,,Female,,,,,Yorkshire and the Humber,,3.15075442569
-2014,Sexual Assault,,,Male,,,,,East Midlands,E12000004,0.684876109077
-2014,Sexual Assault,,,Female,,,,,East Midlands,E12000004,3.7851703774199996
-2014,Sexual Assault,,,Male,,,,,West Midlands,E12000005,0.141427090295
-2014,Sexual Assault,,,Female,,,,,West Midlands,E12000005,2.44669783389
-2014,Sexual Assault,,,Male,,,,,East of England,E12000006,0.443943303706
-2014,Sexual Assault,,,Female,,,,,East of England,E12000006,2.8760774478099997
-2014,Sexual Assault,,,Male,,,,,London,E12000007,0.668379009257
-2014,Sexual Assault,,,Female,,,,,London,E12000007,2.3931518217099996
-2014,Sexual Assault,,,Male,,,,,South East,E12000008,0.869082960948
-2014,Sexual Assault,,,Female,,,,,South East,E12000008,3.2939882474699997
-2014,Sexual Assault,,,Male,,,,,South West,E12000009,1.1138790275
-2014,Sexual Assault,,,Female,,,,,South West,E12000009,2.9384917615400004
-2014,Sexual Assault,,,Male,,,,,Wales,,0.6955513705130001
-2014,Sexual Assault,,,Female,,,,,Wales,,1.9611834166099997
+Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Household income,Area type,Region,Highest qualification,Observation status,Unit multiplier,Unit measure,GeoCode,Value
+2014/15,Physical violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,1.8080541271000001
+2015/16,Physical violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,1.7969733332441653
+2016/17,Physical violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,1.6663071735395631
+2017/18,Physical violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,1.7499497701555906
+2014/15,Physical violence (%),Violence with injury,,,,,,,,,,Undefined,Units,Percentage (%),,0.9464811036496404
+2014/15,Physical violence (%),Wounding,,,,,,,,,,Undefined,Units,Percentage (%),,0.4546042998741819
+2014/15,Physical violence (%),Assault with minor injury,,,,,,,,,,Undefined,Units,Percentage (%),,0.503974030942816
+2014/15,Physical violence (%),Violence without injury,,,,,,,,,,Undefined,Units,Percentage (%),,0.9155887446433972
+2014/15,Physical violence (%),,Male,,,,,,,,,Undefined,Units,Percentage (%),,2.3670417915407413
+2014/15,Physical violence (%),,Female,,,,,,,,,Undefined,Units,Percentage (%),,1.273439522203381
+2014/15,Physical violence (%),,,16 to 24,,,,,,,,Undefined,Units,Percentage (%),,4.175894954679529
+2014/15,Physical violence (%),,,25 to 34,,,,,,,,Undefined,Units,Percentage (%),,2.5159128071761647
+2014/15,Physical violence (%),,,35 to 44,,,,,,,,Undefined,Units,Percentage (%),,2.0193851947759325
+2014/15,Physical violence (%),,,45 to 54,,,,,,,,Undefined,Units,Percentage (%),,1.7231589954258064
+2014/15,Physical violence (%),,,55 to 64,,,,,,,,Undefined,Units,Percentage (%),,0.7909257201260474
+2014/15,Physical violence (%),,,65 to 74,,,,,,,,Undefined,Units,Percentage (%),,0.4042600421685891
+2014/15,Physical violence (%),,,75 and over,,,,,,,,Undefined,Units,Percentage (%),,0.14230703344074885
+2014/15,Physical violence (%),,,,White,,,,,,,Undefined,Units,Percentage (%),,1.7858373046945302
+2014/15,Physical violence (%),,,,White,English/Welsh/Scottish/Northern Irish/British,,,,,,Undefined,Units,Percentage (%),,1.8046327357244505
+2014/15,Physical violence (%),,,,White,Irish,,,,,,Undefined,Units,Percentage (%),,1.3359583464756133
+2014/15,Physical violence (%),,,,White,Any other white background,,,,,,Undefined,Units,Percentage (%),,1.5939166895599364
+2014/15,Physical violence (%),,,,Mixed/multiple ethnic groups,,,,,,,Undefined,Units,Percentage (%),,5.792957331720818
+2014/15,Physical violence (%),,,,Mixed/multiple ethnic groups,White and Black Caribbean,,,,,,Undefined,Units,Percentage (%),,7.282570690386362
+2014/15,Physical violence (%),,,,Mixed/multiple ethnic groups,White and Asian,,,,,,Undefined,Units,Percentage (%),,9.458545571742636
+2014/15,Physical violence (%),,,,Mixed/multiple ethnic groups,Any other Mixed/Multiple ethnic background,,,,,,Undefined,Units,Percentage (%),,3.645864440965201
+2014/15,Physical violence (%),,,,Asian/Asian British,,,,,,,Undefined,Units,Percentage (%),,1.2342229864424619
+2014/15,Physical violence (%),,,,Asian/Asian British,Indian,,,,,,Undefined,Units,Percentage (%),,0.8782902516433493
+2014/15,Physical violence (%),,,,Asian/Asian British,Pakistani,,,,,,Undefined,Units,Percentage (%),,0.944436962117952
+2014/15,Physical violence (%),,,,Asian/Asian British,Bangladeshi,,,,,,Undefined,Units,Percentage (%),,2.2860497040258934
+2014/15,Physical violence (%),,,,Asian/Asian British,Chinese,,,,,,Undefined,Units,Percentage (%),,1.8845124741563823
+2014/15,Physical violence (%),,,,Asian/Asian British,Any other Asian background,,,,,,Undefined,Units,Percentage (%),,1.6400551794241816
+2014/15,Physical violence (%),,,,Black/African/Caribbean/Black British,,,,,,,Undefined,Units,Percentage (%),,2.4498623498349206
+2014/15,Physical violence (%),,,,Black/African/Caribbean/Black British,African,,,,,,Undefined,Units,Percentage (%),,2.7055327656662027
+2014/15,Physical violence (%),,,,Black/African/Caribbean/Black British,Caribbean,,,,,,Undefined,Units,Percentage (%),,0.7027000439685391
+2014/15,Physical violence (%),,,,Black/African/Caribbean/Black British,Any other Black/African/Caribbean background,,,,,,Undefined,Units,Percentage (%),,8.390918258454287
+2014/15,Physical violence (%),,,,Other ethnic group,,,,,,,Undefined,Units,Percentage (%),,1.1543917211091934
+2014/15,Physical violence (%),,,,Other ethnic group,Arab,,,,,,Undefined,Units,Percentage (%),,1.019139299764383
+2014/15,Physical violence (%),,,,Other ethnic group,Any other ethnic group,,,,,,Undefined,Units,Percentage (%),,1.019139299764383
+2014/15,Physical violence (%),,,,,,Long-standing illness or disability,,,,,Undefined,Units,Percentage (%),,2.340682481565435
+2014/15,Physical violence (%),,,,,,Long-standing illness or disability: Limits activities,,,,,Undefined,Units,Percentage (%),,2.4893632781566257
+2014/15,Physical violence (%),,,,,,Long-standing illness or disability: Does not limit activities,,,,,Undefined,Units,Percentage (%),,1.8610036341696083
+2014/15,Physical violence (%),,,,,,No long-standing illness or disability,,,,,Undefined,Units,Percentage (%),,1.6665419160521544
+2014/15,Physical violence (%),,,,,,,"Less than £10,000",,,,Undefined,Units,Percentage (%),,3.2637877774686177
+2014/15,Physical violence (%),,,,,,,"£10,000 less than £20,000",,,,Undefined,Units,Percentage (%),,1.568418591969888
+2014/15,Physical violence (%),,,,,,,"£20,000 less than £30,000",,,,Undefined,Units,Percentage (%),,1.7671007662227143
+2014/15,Physical violence (%),,,,,,,"£30,000 less than £40,000",,,,Undefined,Units,Percentage (%),,1.676576372202487
+2014/15,Physical violence (%),,,,,,,"£40,000 less than £50,000",,,,Undefined,Units,Percentage (%),,1.6596443423453178
+2014/15,Physical violence (%),,,,,,,"£50,000 or more",,,,Undefined,Units,Percentage (%),,1.7702847698011888
+2014/15,Physical violence (%),,,,,,,No income stated or not enough information provided,,,,Undefined,Units,Percentage (%),,1.5946304522159391
+2014/15,Physical violence (%),,,,,,,,Urban,,,Undefined,Units,Percentage (%),,1.9225259861487443
+2014/15,Physical violence (%),,,,,,,,Rural,,,Undefined,Units,Percentage (%),,1.3178899894079583
+2014/15,Physical violence (%),,,,,,,,,,Degree or diploma,Undefined,Units,Percentage (%),,2.098140653679858
+2014/15,Physical violence (%),,,,,,,,,,Apprenticeship or A/AS level,Undefined,Units,Percentage (%),,2.155675098212748
+2014/15,Physical violence (%),,,,,,,,,,O level/GCSE,Undefined,Units,Percentage (%),,1.7613990405214914
+2014/15,Physical violence (%),,,,,,,,,,Other,Undefined,Units,Percentage (%),,0.8865674349977063
+2014/15,Physical violence (%),,,,,,,,,,None,Undefined,Units,Percentage (%),,1.0579634759834329
+2015/16,Physical violence (%),Violence with injury,,,,,,,,,,Undefined,Units,Percentage (%),,0.9094217533205358
+2015/16,Physical violence (%),Wounding,,,,,,,,,,Undefined,Units,Percentage (%),,0.4883650682677401
+2015/16,Physical violence (%),Assault with minor injury,,,,,,,,,,Undefined,Units,Percentage (%),,0.434795124199953
+2015/16,Physical violence (%),Violence without injury,,,,,,,,,,Undefined,Units,Percentage (%),,0.9373279920290638
+2015/16,Physical violence (%),,Male,,,,,,,,,Undefined,Units,Percentage (%),,2.2174384589104394
+2015/16,Physical violence (%),,Female,,,,,,,,,Undefined,Units,Percentage (%),,1.3947515471493714
+2015/16,Physical violence (%),,,16 to 24,,,,,,,,Undefined,Units,Percentage (%),,3.744081680500931
+2015/16,Physical violence (%),,,25 to 34,,,,,,,,Undefined,Units,Percentage (%),,2.4238077986345368
+2015/16,Physical violence (%),,,35 to 44,,,,,,,,Undefined,Units,Percentage (%),,1.870449082064096
+2015/16,Physical violence (%),,,45 to 54,,,,,,,,Undefined,Units,Percentage (%),,2.035212195780001
+2015/16,Physical violence (%),,,55 to 64,,,,,,,,Undefined,Units,Percentage (%),,1.1255162490818555
+2015/16,Physical violence (%),,,65 to 74,,,,,,,,Undefined,Units,Percentage (%),,0.4548772857758748
+2015/16,Physical violence (%),,,75 and over,,,,,,,,Undefined,Units,Percentage (%),,0.0658112426903471
+2015/16,Physical violence (%),,,,White,,,,,,,Undefined,Units,Percentage (%),,1.8466528844472123
+2015/16,Physical violence (%),,,,White,English/Welsh/Scottish/Northern Irish/British,,,,,,Undefined,Units,Percentage (%),,1.8507597460523233
+2015/16,Physical violence (%),,,,White,Irish,,,,,,Undefined,Units,Percentage (%),,1.8215606046684696
+2015/16,Physical violence (%),,,,White,Any other white background,,,,,,Undefined,Units,Percentage (%),,1.7466246940784622
+2015/16,Physical violence (%),,,,Mixed/multiple ethnic groups,,,,,,,Undefined,Units,Percentage (%),,1.3935263668240994
+2015/16,Physical violence (%),,,,Mixed/multiple ethnic groups,White and Black Caribbean,,,,,,Undefined,Units,Percentage (%),,2.028139073372186
+2015/16,Physical violence (%),,,,Mixed/multiple ethnic groups,White and Asian,,,,,,Undefined,Units,Percentage (%),,2.379890328403052
+2015/16,Physical violence (%),,,,Mixed/multiple ethnic groups,Any other Mixed/Multiple ethnic background,,,,,,Undefined,Units,Percentage (%),,0.0
+2015/16,Physical violence (%),,,,Asian/Asian British,,,,,,,Undefined,Units,Percentage (%),,1.1001187540827748
+2015/16,Physical violence (%),,,,Asian/Asian British,Indian,,,,,,Undefined,Units,Percentage (%),,0.7836073355827883
+2015/16,Physical violence (%),,,,Asian/Asian British,Pakistani,,,,,,Undefined,Units,Percentage (%),,2.353246079050248
+2015/16,Physical violence (%),,,,Asian/Asian British,Bangladeshi,,,,,,Undefined,Units,Percentage (%),,0.22502379674419984
+2015/16,Physical violence (%),,,,Asian/Asian British,Chinese,,,,,,Undefined,Units,Percentage (%),,0.4298786340688291
+2015/16,Physical violence (%),,,,Asian/Asian British,Any other Asian background,,,,,,Undefined,Units,Percentage (%),,0.7401343033773803
+2015/16,Physical violence (%),,,,Black/African/Caribbean/Black British,,,,,,,Undefined,Units,Percentage (%),,2.23541988284578
+2015/16,Physical violence (%),,,,Black/African/Caribbean/Black British,African,,,,,,Undefined,Units,Percentage (%),,0.7056015246379719
+2015/16,Physical violence (%),,,,Black/African/Caribbean/Black British,Caribbean,,,,,,Undefined,Units,Percentage (%),,5.0997224333980355
+2015/16,Physical violence (%),,,,Black/African/Caribbean/Black British,Any other Black/African/Caribbean background,,,,,,Undefined,Units,Percentage (%),,3.419834818057776
+2015/16,Physical violence (%),,,,Other ethnic group,,,,,,,Undefined,Units,Percentage (%),,2.0189884555440245
+2015/16,Physical violence (%),,,,Other ethnic group,Arab,,,,,,Undefined,Units,Percentage (%),,3.661318496015748
+2015/16,Physical violence (%),,,,Other ethnic group,Any other ethnic group,,,,,,Undefined,Units,Percentage (%),,1.021963621570494
+2015/16,Physical violence (%),,,,,,Long-standing illness or disability,,,,,Undefined,Units,Percentage (%),,2.3016630219111627
+2015/16,Physical violence (%),,,,,,Long-standing illness or disability: Limits activities,,,,,Undefined,Units,Percentage (%),,2.2670446376815994
+2015/16,Physical violence (%),,,,,,Long-standing illness or disability: Does not limit activities,,,,,Undefined,Units,Percentage (%),,2.4292408272593806
+2015/16,Physical violence (%),,,,,,No long-standing illness or disability,,,,,Undefined,Units,Percentage (%),,1.6609013948222682
+2015/16,Physical violence (%),,,,,,,"Less than £10,000",,,,Undefined,Units,Percentage (%),,1.9678476223537609
+2015/16,Physical violence (%),,,,,,,"£10,000 less than £20,000",,,,Undefined,Units,Percentage (%),,1.8545759184735544
+2015/16,Physical violence (%),,,,,,,"£20,000 less than £30,000",,,,Undefined,Units,Percentage (%),,1.9560188567783736
+2015/16,Physical violence (%),,,,,,,"£30,000 less than £40,000",,,,Undefined,Units,Percentage (%),,1.7664578617503874
+2015/16,Physical violence (%),,,,,,,"£40,000 less than £50,000",,,,Undefined,Units,Percentage (%),,1.791229990637596
+2015/16,Physical violence (%),,,,,,,"£50,000 or more",,,,Undefined,Units,Percentage (%),,1.7009912116330201
+2015/16,Physical violence (%),,,,,,,No income stated or not enough information provided,,,,Undefined,Units,Percentage (%),,1.7093991433039166
+2015/16,Physical violence (%),,,,,,,,Urban,,,Undefined,Units,Percentage (%),,1.9036623886963893
+2015/16,Physical violence (%),,,,,,,,Rural,,,Undefined,Units,Percentage (%),,1.3401999773196962
+2015/16,Physical violence (%),,,,,,,,,,Degree or diploma,Undefined,Units,Percentage (%),,1.9873825378855436
+2015/16,Physical violence (%),,,,,,,,,,Apprenticeship or A/AS level,Undefined,Units,Percentage (%),,1.9376133163608649
+2015/16,Physical violence (%),,,,,,,,,,O level/GCSE,Undefined,Units,Percentage (%),,2.259016235477848
+2015/16,Physical violence (%),,,,,,,,,,Other,Undefined,Units,Percentage (%),,1.02087764843964
+2015/16,Physical violence (%),,,,,,,,,,None,Undefined,Units,Percentage (%),,0.9046098214112116
+2016/17,Physical violence (%),Violence with injury,,,,,,,,,,Undefined,Units,Percentage (%),,0.7987133819513081
+2016/17,Physical violence (%),Wounding,,,,,,,,,,Undefined,Units,Percentage (%),,0.4090630886960472
+2016/17,Physical violence (%),Assault with minor injury,,,,,,,,,,Undefined,Units,Percentage (%),,0.4002998343320044
+2016/17,Physical violence (%),Violence without injury,,,,,,,,,,Undefined,Units,Percentage (%),,0.9254598413043446
+2016/17,Physical violence (%),,Male,,,,,,,,,Undefined,Units,Percentage (%),,2.0793872596580143
+2016/17,Physical violence (%),,Female,,,,,,,,,Undefined,Units,Percentage (%),,1.2703092910118379
+2016/17,Physical violence (%),,,16 to 24,,,,,,,,Undefined,Units,Percentage (%),,4.078078622762168
+2016/17,Physical violence (%),,,25 to 34,,,,,,,,Undefined,Units,Percentage (%),,2.0415480081841704
+2016/17,Physical violence (%),,,35 to 44,,,,,,,,Undefined,Units,Percentage (%),,1.5809224649307638
+2016/17,Physical violence (%),,,45 to 54,,,,,,,,Undefined,Units,Percentage (%),,1.898452446791652
+2016/17,Physical violence (%),,,55 to 64,,,,,,,,Undefined,Units,Percentage (%),,0.8165588017222697
+2016/17,Physical violence (%),,,65 to 74,,,,,,,,Undefined,Units,Percentage (%),,0.4740063873211351
+2016/17,Physical violence (%),,,75 and over,,,,,,,,Undefined,Units,Percentage (%),,0.1721554804545651
+2016/17,Physical violence (%),,,,White,,,,,,,Undefined,Units,Percentage (%),,1.7410259650096158
+2016/17,Physical violence (%),,,,White,English/Welsh/Scottish/Northern Irish/British,,,,,,Undefined,Units,Percentage (%),,1.767074163529622
+2016/17,Physical violence (%),,,,White,Irish,,,,,,Undefined,Units,Percentage (%),,1.0994169058688412
+2016/17,Physical violence (%),,,,White,Any other white background,,,,,,Undefined,Units,Percentage (%),,1.4957276004141251
+2016/17,Physical violence (%),,,,Mixed/multiple ethnic groups,,,,,,,Undefined,Units,Percentage (%),,1.9186214559887769
+2016/17,Physical violence (%),,,,Mixed/multiple ethnic groups,White and Black Caribbean,,,,,,Undefined,Units,Percentage (%),,3.1264618194715728
+2016/17,Physical violence (%),,,,Mixed/multiple ethnic groups,White and Black African,,,,,,Undefined,Units,Percentage (%),,3.1781135066874797
+2016/17,Physical violence (%),,,,Mixed/multiple ethnic groups,White and Asian,,,,,,Undefined,Units,Percentage (%),,0.4848120750605977
+2016/17,Physical violence (%),,,,Mixed/multiple ethnic groups,Any other Mixed/Multiple ethnic background,,,,,,Undefined,Units,Percentage (%),,1.2538492392330909
+2016/17,Physical violence (%),,,,Asian/Asian British,,,,,,,Undefined,Units,Percentage (%),,0.7839314564559086
+2016/17,Physical violence (%),,,,Asian/Asian British,Indian,,,,,,Undefined,Units,Percentage (%),,0.4499597583548557
+2016/17,Physical violence (%),,,,Asian/Asian British,Pakistani,,,,,,Undefined,Units,Percentage (%),,0.9102810598553652
+2016/17,Physical violence (%),,,,Asian/Asian British,Bangladeshi,,,,,,Undefined,Units,Percentage (%),,1.8299233252511544
+2016/17,Physical violence (%),,,,Asian/Asian British,Chinese,,,,,,Undefined,Units,Percentage (%),,0.6814787577408387
+2016/17,Physical violence (%),,,,Asian/Asian British,Any other Asian background,,,,,,Undefined,Units,Percentage (%),,0.7493072581199591
+2016/17,Physical violence (%),,,,Black/African/Caribbean/Black British,,,,,,,Undefined,Units,Percentage (%),,1.7854446291012478
+2016/17,Physical violence (%),,,,Black/African/Caribbean/Black British,African,,,,,,Undefined,Units,Percentage (%),,1.3093402654964719
+2016/17,Physical violence (%),,,,Black/African/Caribbean/Black British,Caribbean,,,,,,Undefined,Units,Percentage (%),,1.6280247235360872
+2016/17,Physical violence (%),,,,Black/African/Caribbean/Black British,Any other Black/African/Caribbean background,,,,,,Undefined,Units,Percentage (%),,7.041004436451693
+2016/17,Physical violence (%),,,,Other ethnic group,,,,,,,Undefined,Units,Percentage (%),,1.1510772916328835
+2016/17,Physical violence (%),,,,Other ethnic group,Arab,,,,,,Undefined,Units,Percentage (%),,1.1599672312482432
+2016/17,Physical violence (%),,,,Other ethnic group,Any other ethnic group,,,,,,Undefined,Units,Percentage (%),,1.1446862891023066
+2016/17,Physical violence (%),,,,,,Long-standing illness or disability,,,,,Undefined,Units,Percentage (%),,2.1819399558903223
+2016/17,Physical violence (%),,,,,,Long-standing illness or disability: Limits activities,,,,,Undefined,Units,Percentage (%),,2.3028690817050674
+2016/17,Physical violence (%),,,,,,Long-standing illness or disability: Does not limit activities,,,,,Undefined,Units,Percentage (%),,1.7757806060509738
+2016/17,Physical violence (%),,,,,,No long-standing illness or disability,,,,,Undefined,Units,Percentage (%),,1.5227118651166411
+2016/17,Physical violence (%),,,,,,,"Less than £10,000",,,,Undefined,Units,Percentage (%),,2.581059793673996
+2016/17,Physical violence (%),,,,,,,"£10,000 less than £20,000",,,,Undefined,Units,Percentage (%),,1.6396543710859648
+2016/17,Physical violence (%),,,,,,,"£20,000 less than £30,000",,,,Undefined,Units,Percentage (%),,1.7448742149830938
+2016/17,Physical violence (%),,,,,,,"£30,000 less than £40,000",,,,Undefined,Units,Percentage (%),,1.7662204420872418
+2016/17,Physical violence (%),,,,,,,"£40,000 less than £50,000",,,,Undefined,Units,Percentage (%),,1.9500739262340472
+2016/17,Physical violence (%),,,,,,,"£50,000 or more",,,,Undefined,Units,Percentage (%),,1.3893413048155845
+2016/17,Physical violence (%),,,,,,,No income stated or not enough information provided,,,,Undefined,Units,Percentage (%),,1.4516300984759585
+2016/17,Physical violence (%),,,,,,,,Urban,,,Undefined,Units,Percentage (%),,1.7623084320057525
+2016/17,Physical violence (%),,,,,,,,Rural,,,Undefined,Units,Percentage (%),,1.2240891974918826
+2016/17,Physical violence (%),,,,,,,,,,Degree or diploma,Undefined,Units,Percentage (%),,1.4168069171489197
+2016/17,Physical violence (%),,,,,,,,,,Apprenticeship or A/AS level,Undefined,Units,Percentage (%),,2.4034162022980685
+2016/17,Physical violence (%),,,,,,,,,,O level/GCSE,Undefined,Units,Percentage (%),,1.9851728278627612
+2016/17,Physical violence (%),,,,,,,,,,Other,Undefined,Units,Percentage (%),,1.9622366241407052
+2016/17,Physical violence (%),,,,,,,,,,None,Undefined,Units,Percentage (%),,1.114881798402254
+2017/18,Physical violence (%),Violence with injury,,,,,,,,,,Undefined,Units,Percentage (%),,0.9028645285514686
+2017/18,Physical violence (%),Wounding,,,,,,,,,,Undefined,Units,Percentage (%),,0.3812243635055946
+2017/18,Physical violence (%),Assault with minor injury,,,,,,,,,,Undefined,Units,Percentage (%),,0.5422915854859338
+2017/18,Physical violence (%),Violence without injury,,,,,,,,,,Undefined,Units,Percentage (%),,0.9102459469632921
+2017/18,Physical violence (%),,Male,,,,,,,,,Undefined,Units,Percentage (%),,2.327567479331208
+2017/18,Physical violence (%),,Female,,,,,,,,,Undefined,Units,Percentage (%),,1.1952467350826903
+2017/18,Physical violence (%),,,16 to 24,,,,,,,,Undefined,Units,Percentage (%),,4.006611129846034
+2017/18,Physical violence (%),,,25 to 34,,,,,,,,Undefined,Units,Percentage (%),,2.3851668760777702
+2017/18,Physical violence (%),,,35 to 44,,,,,,,,Undefined,Units,Percentage (%),,1.9518006343345744
+2017/18,Physical violence (%),,,45 to 54,,,,,,,,Undefined,Units,Percentage (%),,1.6343801206237456
+2017/18,Physical violence (%),,,55 to 64,,,,,,,,Undefined,Units,Percentage (%),,1.0266134637678328
+2017/18,Physical violence (%),,,65 to 74,,,,,,,,Undefined,Units,Percentage (%),,0.3958726168487912
+2017/18,Physical violence (%),,,75 and over,,,,,,,,Undefined,Units,Percentage (%),,0.2936316295170394
+2017/18,Physical violence (%),,,,White,,,,,,,Undefined,Units,Percentage (%),,1.7975357151835611
+2017/18,Physical violence (%),,,,White,English/Welsh/Scottish/Northern Irish/British,,,,,,Undefined,Units,Percentage (%),,1.8600818131845969
+2017/18,Physical violence (%),,,,White,Irish,,,,,,Undefined,Units,Percentage (%),,2.272178777028793
+2017/18,Physical violence (%),,,,White,Any other white background,,,,,,Undefined,Units,Percentage (%),,1.005185142693686
+2017/18,Physical violence (%),,,,Mixed/multiple ethnic groups,,,,,,,Undefined,Units,Percentage (%),,3.726234374999141
+2017/18,Physical violence (%),,,,Mixed/multiple ethnic groups,White and Black Caribbean,,,,,,Undefined,Units,Percentage (%),,5.337650539975536
+2017/18,Physical violence (%),,,,Mixed/multiple ethnic groups,White and Black African,,,,,,Undefined,Units,Percentage (%),,3.31342953181112
+2017/18,Physical violence (%),,,,Mixed/multiple ethnic groups,White and Asian,,,,,,Undefined,Units,Percentage (%),,4.575755118252693
+2017/18,Physical violence (%),,,,Mixed/multiple ethnic groups,Any other Mixed/Multiple ethnic background,,,,,,Undefined,Units,Percentage (%),,1.57788868204351
+2017/18,Physical violence (%),,,,Asian/Asian British,,,,,,,Undefined,Units,Percentage (%),,1.1391411978880412
+2017/18,Physical violence (%),,,,Asian/Asian British,Indian,,,,,,Undefined,Units,Percentage (%),,1.283010347879843
+2017/18,Physical violence (%),,,,Asian/Asian British,Pakistani,,,,,,Undefined,Units,Percentage (%),,1.050213607174003
+2017/18,Physical violence (%),,,,Asian/Asian British,Bangladeshi,,,,,,Undefined,Units,Percentage (%),,2.024234920086744
+2017/18,Physical violence (%),,,,Asian/Asian British,Chinese,,,,,,Undefined,Units,Percentage (%),,0.0
+2017/18,Physical violence (%),,,,Asian/Asian British,Any other Asian background,,,,,,Undefined,Units,Percentage (%),,0.9301895056678612
+2017/18,Physical violence (%),,,,Black/African/Caribbean/Black British,,,,,,,Undefined,Units,Percentage (%),,1.4689040211085267
+2017/18,Physical violence (%),,,,Black/African/Caribbean/Black British,African,,,,,,Undefined,Units,Percentage (%),,0.8184810333125934
+2017/18,Physical violence (%),,,,Black/African/Caribbean/Black British,Caribbean,,,,,,Undefined,Units,Percentage (%),,2.875349977299545
+2017/18,Physical violence (%),,,,Black/African/Caribbean/Black British,Any other Black/African/Caribbean background,,,,,,Undefined,Units,Percentage (%),,1.0136649971583012
+2017/18,Physical violence (%),,,,Other ethnic group,,,,,,,Undefined,Units,Percentage (%),,1.2474233516085491
+2017/18,Physical violence (%),,,,Other ethnic group,Arab,,,,,,Undefined,Units,Percentage (%),,1.7892217911134212
+2017/18,Physical violence (%),,,,Other ethnic group,Any other ethnic group,,,,,,Undefined,Units,Percentage (%),,0.9631994989737568
+2017/18,Physical violence (%),,,,,,Long-standing illness or disability,,,,,Undefined,Units,Percentage (%),,2.1451130947630834
+2017/18,Physical violence (%),,,,,,Long-standing illness or disability: Limits activities,,,,,Undefined,Units,Percentage (%),,1.977454488038637
+2017/18,Physical violence (%),,,,,,Long-standing illness or disability: Does not limit activities,,,,,Undefined,Units,Percentage (%),,2.7990491334930248
+2017/18,Physical violence (%),,,,,,No long-standing illness or disability,,,,,Undefined,Units,Percentage (%),,1.6571842839039237
+2017/18,Physical violence (%),,,,,,,"Less than £10,000",,,,Undefined,Units,Percentage (%),,2.383295984615867
+2017/18,Physical violence (%),,,,,,,"£10,000 less than £20,000",,,,Undefined,Units,Percentage (%),,1.7447716352108784
+2017/18,Physical violence (%),,,,,,,"£20,000 less than £30,000",,,,Undefined,Units,Percentage (%),,1.3706947784739274
+2017/18,Physical violence (%),,,,,,,"£30,000 less than £40,000",,,,Undefined,Units,Percentage (%),,1.2196140908502455
+2017/18,Physical violence (%),,,,,,,"£40,000 less than £50,000",,,,Undefined,Units,Percentage (%),,2.033641609765823
+2017/18,Physical violence (%),,,,,,,"£50,000 or more",,,,Undefined,Units,Percentage (%),,1.9112337698212452
+2017/18,Physical violence (%),,,,,,,No income stated or not enough information provided,,,,Undefined,Units,Percentage (%),,1.813178527332195
+2017/18,Physical violence (%),,,,,,,,Urban,,,Undefined,Units,Percentage (%),,1.8426168666078184
+2017/18,Physical violence (%),,,,,,,,Rural,,,Undefined,Units,Percentage (%),,1.3600245778952975
+2017/18,Physical violence (%),,,,,,,,,,Degree or diploma,Undefined,Units,Percentage (%),,1.8244344504113172
+2017/18,Physical violence (%),,,,,,,,,,Apprenticeship or A/AS level,Undefined,Units,Percentage (%),,2.409912092608572
+2017/18,Physical violence (%),,,,,,,,,,O level/GCSE,Undefined,Units,Percentage (%),,1.6408814357056225
+2017/18,Physical violence (%),,,,,,,,,,Other,Undefined,Units,Percentage (%),,1.2109316956096776
+2017/18,Physical violence (%),,,,,,,,,,None,Undefined,Units,Percentage (%),,1.121675276471234
+2004/05,Sexual violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,2.6050799941591
+2005/06,Sexual violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,2.9771460328175317
+2006/07,Sexual violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,2.9029316670167846
+2007/08,Sexual violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,2.564376169051692
+2008/09,Sexual violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,2.1557597418413317
+2009/10,Sexual violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,2.0818715682243445
+2010/11,Sexual violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,2.3234354469975718
+2011/12,Sexual violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,2.4087235437524934
+2012/13,Sexual violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,1.9138697969641625
+2013/14,Sexual violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,1.4746422648221806
+2014/15,Sexual violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,1.7090108873577323
+2015/16,Sexual violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,1.961200960790143
+2016/17,Sexual violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,1.9569091464327533
+2004/05,Sexual violence (%),Rape or assault by penetration (including attempts),,,,,,,,,,Undefined,Units,Percentage (%),,0.5807690786841865
+2005/06,Sexual violence (%),Rape or assault by penetration (including attempts),,,,,,,,,,Undefined,Units,Percentage (%),,0.6947167972427217
+2006/07,Sexual violence (%),Rape or assault by penetration (including attempts),,,,,,,,,,Undefined,Units,Percentage (%),,0.5796652578237933
+2007/08,Sexual violence (%),Rape or assault by penetration (including attempts),,,,,,,,,,Undefined,Units,Percentage (%),,0.6768291231869491
+2008/09,Sexual violence (%),Rape or assault by penetration (including attempts),,,,,,,,,,Undefined,Units,Percentage (%),,0.5136816027453395
+2009/10,Sexual violence (%),Rape or assault by penetration (including attempts),,,,,,,,,,Undefined,Units,Percentage (%),,0.436443050631336
+2010/11,Sexual violence (%),Rape or assault by penetration (including attempts),,,,,,,,,,Undefined,Units,Percentage (%),,0.6823323944697013
+2011/12,Sexual violence (%),Rape or assault by penetration (including attempts),,,,,,,,,,Undefined,Units,Percentage (%),,0.6178146206628041
+2012/13,Sexual violence (%),Rape or assault by penetration (including attempts),,,,,,,,,,Undefined,Units,Percentage (%),,0.5732873735485514
+2013/14,Sexual violence (%),Rape or assault by penetration (including attempts),,,,,,,,,,Undefined,Units,Percentage (%),,0.37809534271516415
+2014/15,Sexual violence (%),Rape or assault by penetration (including attempts),,,,,,,,,,Undefined,Units,Percentage (%),,0.3867421472956802
+2015/16,Sexual violence (%),Rape or assault by penetration (including attempts),,,,,,,,,,Undefined,Units,Percentage (%),,0.4320465820105955
+2016/17,Sexual violence (%),Rape or assault by penetration (including attempts),,,,,,,,,,Undefined,Units,Percentage (%),,0.4572409331564854
+2004/05,Sexual violence (%),Indecent exposure or unwanted touching,,,,,,,,,,Undefined,Units,Percentage (%),,2.3037422586292795
+2005/06,Sexual violence (%),Indecent exposure or unwanted touching,,,,,,,,,,Undefined,Units,Percentage (%),,2.518203361812256
+2006/07,Sexual violence (%),Indecent exposure or unwanted touching,,,,,,,,,,Undefined,Units,Percentage (%),,2.615723951008618
+2007/08,Sexual violence (%),Indecent exposure or unwanted touching,,,,,,,,,,Undefined,Units,Percentage (%),,2.220040955473805
+2008/09,Sexual violence (%),Indecent exposure or unwanted touching,,,,,,,,,,Undefined,Units,Percentage (%),,1.887869890969026
+2009/10,Sexual violence (%),Indecent exposure or unwanted touching,,,,,,,,,,Undefined,Units,Percentage (%),,1.8663253703843976
+2010/11,Sexual violence (%),Indecent exposure or unwanted touching,,,,,,,,,,Undefined,Units,Percentage (%),,1.9124697866567124
+2011/12,Sexual violence (%),Indecent exposure or unwanted touching,,,,,,,,,,Undefined,Units,Percentage (%),,2.1201791277459545
+2012/13,Sexual violence (%),Indecent exposure or unwanted touching,,,,,,,,,,Undefined,Units,Percentage (%),,1.5687532752688806
+2013/14,Sexual violence (%),Indecent exposure or unwanted touching,,,,,,,,,,Undefined,Units,Percentage (%),,1.2473063626980463
+2014/15,Sexual violence (%),Indecent exposure or unwanted touching,,,,,,,,,,Undefined,Units,Percentage (%),,1.5052141786840456
+2015/16,Sexual violence (%),Indecent exposure or unwanted touching,,,,,,,,,,Undefined,Units,Percentage (%),,1.715373385729858
+2016/17,Sexual violence (%),Indecent exposure or unwanted touching,,,,,,,,,,Undefined,Units,Percentage (%),,1.7389021559517732
+2014/15,Sexual violence (%),,Male,,,,,,,,,Undefined,Units,Percentage (%),,0.7000006407588747
+2014/15,Sexual violence (%),,Female,,,,,,,,,Undefined,Units,Percentage (%),,2.717691744792222
+2014/15,Sexual violence (%),,Male,16 to 19,,,,,,,,Undefined,Units,Percentage (%),,1.4379062127722069
+2014/15,Sexual violence (%),,Male,20 to 24,,,,,,,,Undefined,Units,Percentage (%),,2.1749701091268427
+2014/15,Sexual violence (%),,Male,25 to 34,,,,,,,,Undefined,Units,Percentage (%),,0.6929862729505183
+2014/15,Sexual violence (%),,Male,35 to 44,,,,,,,,Undefined,Units,Percentage (%),,0.545277948977815
+2014/15,Sexual violence (%),,Male,45 to 54,,,,,,,,Undefined,Units,Percentage (%),,0.1293185712975088
+2014/15,Sexual violence (%),,Male,55 to 59,,,,,,,,Undefined,Units,Percentage (%),,0.10104134338844607
+2014/15,Sexual violence (%),,Male,,White,,,,,,,Undefined,Units,Percentage (%),,0.6269427692952273
+2014/15,Sexual violence (%),,Male,,White,English/Welsh/Scottish/Northern Irish/British,,,,,,Undefined,Units,Percentage (%),,0.6344096291953092
+2014/15,Sexual violence (%),,Male,,White,Irish,,,,,,Undefined,Units,Percentage (%),,0.0
+2014/15,Sexual violence (%),,Male,,White,Any other white background,,,,,,Undefined,Units,Percentage (%),,0.6197728859907754
+2014/15,Sexual violence (%),,Male,,Mixed/multiple ethnic groups,,,,,,,Undefined,Units,Percentage (%),,5.641287169215883
+2014/15,Sexual violence (%),,Male,,Asian/Asian British,,,,,,,Undefined,Units,Percentage (%),,0.6014021259362842
+2014/15,Sexual violence (%),,Male,,Asian/Asian British,Indian,,,,,,Undefined,Units,Percentage (%),,1.5365963128958704
+2014/15,Sexual violence (%),,Male,,Asian/Asian British,Pakistani,,,,,,Undefined,Units,Percentage (%),,0.0
+2014/15,Sexual violence (%),,Male,,Asian/Asian British,Any other Asian background,,,,,,Undefined,Units,Percentage (%),,0.0
+2014/15,Sexual violence (%),,Male,,Black/African/Caribbean/Black British,,,,,,,Undefined,Units,Percentage (%),,0.6014021259362842
+2014/15,Sexual violence (%),,Male,,Black/African/Caribbean/Black British,African,,,,,,Undefined,Units,Percentage (%),,0.583623561307217
+2014/15,Sexual violence (%),,Male,,Black/African/Caribbean/Black British,Caribbean,,,,,,Undefined,Units,Percentage (%),,0.0
+2014/15,Sexual violence (%),,Male,,Other ethnic group,,,,,,,Undefined,Units,Percentage (%),,0.0
+2014/15,Sexual violence (%),,Male,,,,,,,,Degree or diploma,Undefined,Units,Percentage (%),,0.8769756067715431
+2014/15,Sexual violence (%),,Male,,,,,,,,Apprenticeship or A/AS level,Undefined,Units,Percentage (%),,0.7753283308537937
+2014/15,Sexual violence (%),,Male,,,,,,,,O level/GCSE,Undefined,Units,Percentage (%),,0.4410171489929698
+2014/15,Sexual violence (%),,Male,,,,,,,,Other,Undefined,Units,Percentage (%),,0.3520093541526359
+2014/15,Sexual violence (%),,Male,,,,,,,,None,Undefined,Units,Percentage (%),,0.3148755803533453
+2014/15,Sexual violence (%),,Male,,,,Long-standing illness or disability,,,,,Undefined,Units,Percentage (%),,1.2782603853553325
+2014/15,Sexual violence (%),,Male,,,,Long-standing illness or disability: Limits activities,,,,,Undefined,Units,Percentage (%),,0.9926366896171888
+2014/15,Sexual violence (%),,Male,,,,Long-standing illness or disability: Does not limit activities,,,,,Undefined,Units,Percentage (%),,1.8703692481754728
+2014/15,Sexual violence (%),,Male,,,,No long-standing illness or disability,,,,,Undefined,Units,Percentage (%),,0.6160121661956368
+2014/15,Sexual violence (%),,Male,,,,,"Less than £10,000",,,,Undefined,Units,Percentage (%),,0.5667328087591713
+2014/15,Sexual violence (%),,Male,,,,,"£10,000 less than £20,000",,,,Undefined,Units,Percentage (%),,1.5212242495114987
+2014/15,Sexual violence (%),,Male,,,,,"£20,000 less than £30,000",,,,Undefined,Units,Percentage (%),,0.3703626651406731
+2014/15,Sexual violence (%),,Male,,,,,"£30,000 less than £40,000",,,,Undefined,Units,Percentage (%),,0.5965558545737247
+2014/15,Sexual violence (%),,Male,,,,,"£40,000 less than £50,000",,,,Undefined,Units,Percentage (%),,0.4736982421639853
+2014/15,Sexual violence (%),,Male,,,,,"£50,000 or more",,,,Undefined,Units,Percentage (%),,0.5861820916644019
+2014/15,Sexual violence (%),,Male,,,,,No income stated or not enough information provided,,,,Undefined,Units,Percentage (%),,0.8987593497869275
+2014/15,Sexual violence (%),,Male,,,,,,Urban,,,Undefined,Units,Percentage (%),,0.7560488779256103
+2014/15,Sexual violence (%),,Male,,,,,,Rural,,,Undefined,Units,Percentage (%),,0.4273838095946351
+2014/15,Sexual violence (%),,Male,,,,,,,North East,,Undefined,Units,Percentage (%),E12000001,0.7939479961795478
+2014/15,Sexual violence (%),,Male,,,,,,,North West,,Undefined,Units,Percentage (%),E12000002,0.5236362707618469
+2014/15,Sexual violence (%),,Male,,,,,,,Yorkshire and The Humber,,Undefined,Units,Percentage (%),E12000003,1.1403432435862069
+2014/15,Sexual violence (%),,Male,,,,,,,East Midlands,,Undefined,Units,Percentage (%),E12000004,0.6848761090773736
+2014/15,Sexual violence (%),,Male,,,,,,,West Midlands,,Undefined,Units,Percentage (%),E12000005,0.14142709029542194
+2014/15,Sexual violence (%),,Male,,,,,,,East of England,,Undefined,Units,Percentage (%),E12000006,0.4439433037063089
+2014/15,Sexual violence (%),,Male,,,,,,,London,,Undefined,Units,Percentage (%),E12000007,0.6683790092574939
+2014/15,Sexual violence (%),,Male,,,,,,,South East,,Undefined,Units,Percentage (%),E12000008,0.8690829609481817
+2014/15,Sexual violence (%),,Male,,,,,,,South West,,Undefined,Units,Percentage (%),E12000009,1.113879027500323
+2014/15,Sexual violence (%),,Male,,,,,,,Wales,,Undefined,Units,Percentage (%),W92000004,0.6955513705128323
+2014/15,Sexual violence (%),,Female,16 to 19,,,,,,,,Undefined,Units,Percentage (%),,8.983293804181884
+2014/15,Sexual violence (%),,Female,20 to 24,,,,,,,,Undefined,Units,Percentage (%),,5.779305665241697
+2014/15,Sexual violence (%),,Female,25 to 34,,,,,,,,Undefined,Units,Percentage (%),,2.205729507657993
+2014/15,Sexual violence (%),,Female,35 to 44,,,,,,,,Undefined,Units,Percentage (%),,1.5635060523258848
+2014/15,Sexual violence (%),,Female,45 to 54,,,,,,,,Undefined,Units,Percentage (%),,1.7122274310456083
+2014/15,Sexual violence (%),,Female,55 to 59,,,,,,,,Undefined,Units,Percentage (%),,0.6247394583082226
+2014/15,Sexual violence (%),,Female,,White,,,,,,,Undefined,Units,Percentage (%),,2.827134758436308
+2014/15,Sexual violence (%),,Female,,White,English/Welsh/Scottish/Northern Irish/British,,,,,,Undefined,Units,Percentage (%),,2.8579378855776763
+2014/15,Sexual violence (%),,Female,,White,Irish,,,,,,Undefined,Units,Percentage (%),,7.769536453841789
+2014/15,Sexual violence (%),,Female,,White,Any other white background,,,,,,Undefined,Units,Percentage (%),,1.9596911881407733
+2014/15,Sexual violence (%),,Female,,Mixed/multiple ethnic groups,,,,,,,Undefined,Units,Percentage (%),,9.275207736429364
+2014/15,Sexual violence (%),,Female,,Mixed/multiple ethnic groups,White and Black Caribbean,,,,,,Undefined,Units,Percentage (%),,5.639491600472749
+2014/15,Sexual violence (%),,Female,,Asian/Asian British,,,,,,,Undefined,Units,Percentage (%),,0.7753636411680028
+2014/15,Sexual violence (%),,Female,,Asian/Asian British,Indian,,,,,,Undefined,Units,Percentage (%),,1.3126422274256728
+2014/15,Sexual violence (%),,Female,,Asian/Asian British,Pakistani,,,,,,Undefined,Units,Percentage (%),,1.1419862542820225
+2014/15,Sexual violence (%),,Female,,Asian/Asian British,Chinese,,,,,,Undefined,Units,Percentage (%),,0.0
+2014/15,Sexual violence (%),,Female,,Asian/Asian British,Any other Asian background,,,,,,Undefined,Units,Percentage (%),,0.0
+2014/15,Sexual violence (%),,Female,,Black/African/Caribbean/Black British,,,,,,,Undefined,Units,Percentage (%),,1.6903835714567657
+2014/15,Sexual violence (%),,Female,,Black/African/Caribbean/Black British,African,,,,,,Undefined,Units,Percentage (%),,2.1973834614882426
+2014/15,Sexual violence (%),,Female,,Black/African/Caribbean/Black British,Caribbean,,,,,,Undefined,Units,Percentage (%),,1.0748580504581629
+2014/15,Sexual violence (%),,Female,,Other ethnic group,,,,,,,Undefined,Units,Percentage (%),,0.0
+2014/15,Sexual violence (%),,Female,,,,,,,,Degree or diploma,Undefined,Units,Percentage (%),,2.3473118522655163
+2014/15,Sexual violence (%),,Female,,,,,,,,Apprenticeship or A/AS level,Undefined,Units,Percentage (%),,4.536187025376377
+2014/15,Sexual violence (%),,Female,,,,,,,,O level/GCSE,Undefined,Units,Percentage (%),,2.3847709921388187
+2014/15,Sexual violence (%),,Female,,,,,,,,Other,Undefined,Units,Percentage (%),,3.2017796038990736
+2014/15,Sexual violence (%),,Female,,,,,,,,None,Undefined,Units,Percentage (%),,1.3445096400781715
+2014/15,Sexual violence (%),,Female,,,,Long-standing illness or disability,,,,,Undefined,Units,Percentage (%),,4.329511755153842
+2014/15,Sexual violence (%),,Female,,,,Long-standing illness or disability: Limits activities,,,,,Undefined,Units,Percentage (%),,3.978989216156188
+2014/15,Sexual violence (%),,Female,,,,Long-standing illness or disability: Does not limit activities,,,,,Undefined,Units,Percentage (%),,5.471825468566298
+2014/15,Sexual violence (%),,Female,,,,No long-standing illness or disability,,,,,Undefined,Units,Percentage (%),,2.4344481446232216
+2014/15,Sexual violence (%),,Female,,,,,"Less than £10,000",,,,Undefined,Units,Percentage (%),,4.059774413682447
+2014/15,Sexual violence (%),,Female,,,,,"£10,000 less than £20,000",,,,Undefined,Units,Percentage (%),,2.2486302345207028
+2014/15,Sexual violence (%),,Female,,,,,"£20,000 less than £30,000",,,,Undefined,Units,Percentage (%),,2.688434069133513
+2014/15,Sexual violence (%),,Female,,,,,"£30,000 less than £40,000",,,,Undefined,Units,Percentage (%),,1.4838827687963194
+2014/15,Sexual violence (%),,Female,,,,,"£40,000 less than £50,000",,,,Undefined,Units,Percentage (%),,2.1072079237225343
+2014/15,Sexual violence (%),,Female,,,,,"£50,000 or more",,,,Undefined,Units,Percentage (%),,1.7340600329253109
+2014/15,Sexual violence (%),,Female,,,,,No income stated or not enough information provided,,,,Undefined,Units,Percentage (%),,5.044237084643429
+2014/15,Sexual violence (%),,Female,,,,,,Urban,,,Undefined,Units,Percentage (%),,2.852089470195497
+2014/15,Sexual violence (%),,Female,,,,,,Rural,,,Undefined,Units,Percentage (%),,2.0752563722789827
+2014/15,Sexual violence (%),,Female,,,,,,,North East,,Undefined,Units,Percentage (%),E12000001,2.8181983145928835
+2014/15,Sexual violence (%),,Female,,,,,,,North West,,Undefined,Units,Percentage (%),E12000002,1.603681774616208
+2014/15,Sexual violence (%),,Female,,,,,,,Yorkshire and The Humber,,Undefined,Units,Percentage (%),E12000003,3.1507544256926527
+2014/15,Sexual violence (%),,Female,,,,,,,East Midlands,,Undefined,Units,Percentage (%),E12000004,3.7851703774241865
+2014/15,Sexual violence (%),,Female,,,,,,,West Midlands,,Undefined,Units,Percentage (%),E12000005,2.4466978338874803
+2014/15,Sexual violence (%),,Female,,,,,,,East of England,,Undefined,Units,Percentage (%),E12000006,2.8760774478125968
+2014/15,Sexual violence (%),,Female,,,,,,,London,,Undefined,Units,Percentage (%),E12000007,2.393151821712589
+2014/15,Sexual violence (%),,Female,,,,,,,South East,,Undefined,Units,Percentage (%),E12000008,3.2939882474653417
+2014/15,Sexual violence (%),,Female,,,,,,,South West,,Undefined,Units,Percentage (%),E12000009,2.9384917615416977
+2014/15,Sexual violence (%),,Female,,,,,,,Wales,,Undefined,Units,Percentage (%),W92000004,1.9611834166080109
+2015/16,Sexual violence (%),,Male,,,,,,,,,Undefined,Units,Percentage (%),,0.6795844867985218
+2015/16,Sexual violence (%),,Female,,,,,,,,,Undefined,Units,Percentage (%),,3.229865030839238
+2015/16,Sexual violence (%),,Male,16 to 19,,,,,,,,Undefined,Units,Percentage (%),,2.4793120981177896
+2015/16,Sexual violence (%),,Male,20 to 24,,,,,,,,Undefined,Units,Percentage (%),,1.6367459853058142
+2015/16,Sexual violence (%),,Male,25 to 34,,,,,,,,Undefined,Units,Percentage (%),,0.7892554460601695
+2015/16,Sexual violence (%),,Male,35 to 44,,,,,,,,Undefined,Units,Percentage (%),,0.23788413168231376
+2015/16,Sexual violence (%),,Male,45 to 54,,,,,,,,Undefined,Units,Percentage (%),,0.04696874539834375
+2015/16,Sexual violence (%),,Male,55 to 59,,,,,,,,Undefined,Units,Percentage (%),,0.33026378727551303
+2015/16,Sexual violence (%),,Male,,White,,,,,,,Undefined,Units,Percentage (%),,0.6807606523121937
+2015/16,Sexual violence (%),,Male,,White,English/Welsh/Scottish/Northern Irish/British,,,,,,Undefined,Units,Percentage (%),,0.7441150613560985
+2015/16,Sexual violence (%),,Male,,White,Irish,,,,,,Undefined,Units,Percentage (%),,1.1366170629927657
+2015/16,Sexual violence (%),,Male,,White,Any other white background,,,,,,Undefined,Units,Percentage (%),,0.6048839362682673
+2015/16,Sexual violence (%),,Male,,Mixed/multiple ethnic groups,,,,,,,Undefined,Units,Percentage (%),,0.0
+2015/16,Sexual violence (%),,Male,,Asian/Asian British,,,,,,,Undefined,Units,Percentage (%),,0.25469245514852323
+2015/16,Sexual violence (%),,Male,,Asian/Asian British,Indian,,,,,,Undefined,Units,Percentage (%),,0.19909074450166767
+2015/16,Sexual violence (%),,Male,,Asian/Asian British,Pakistani,,,,,,Undefined,Units,Percentage (%),,0.4906121305963292
+2015/16,Sexual violence (%),,Male,,Asian/Asian British,Chinese,,,,,,Undefined,Units,Percentage (%),,0.33867776326566396
+2015/16,Sexual violence (%),,Male,,Asian/Asian British,Any other Asian background,,,,,,Undefined,Units,Percentage (%),,0.0
+2015/16,Sexual violence (%),,Male,,Black/African/Caribbean/Black British,,,,,,,Undefined,Units,Percentage (%),,0.6823190680716334
+2015/16,Sexual violence (%),,Male,,Black/African/Caribbean/Black British,African,,,,,,Undefined,Units,Percentage (%),,0.6161982269659959
+2015/16,Sexual violence (%),,Male,,Black/African/Caribbean/Black British,Caribbean,,,,,,Undefined,Units,Percentage (%),,1.2084433507362278
+2015/16,Sexual violence (%),,Male,,Other ethnic group,,,,,,,Undefined,Units,Percentage (%),,0.9912360792879852
+2015/16,Sexual violence (%),,Male,,,,,,,,Degree or diploma,Undefined,Units,Percentage (%),,0.8190917242380287
+2015/16,Sexual violence (%),,Male,,,,,,,,Apprenticeship or A/AS level,Undefined,Units,Percentage (%),,0.5543421020183014
+2015/16,Sexual violence (%),,Male,,,,,,,,O level/GCSE,Undefined,Units,Percentage (%),,0.796926734226097
+2015/16,Sexual violence (%),,Male,,,,,,,,Other,Undefined,Units,Percentage (%),,0.6414204238310718
+2015/16,Sexual violence (%),,Male,,,,,,,,None,Undefined,Units,Percentage (%),,0.06612789988528983
+2015/16,Sexual violence (%),,Male,,,,Long-standing illness or disability,,,,,Undefined,Units,Percentage (%),,1.039745985867729
+2015/16,Sexual violence (%),,Male,,,,Long-standing illness or disability: Limits activities,,,,,Undefined,Units,Percentage (%),,1.0412020570891205
+2015/16,Sexual violence (%),,Male,,,,Long-standing illness or disability: Does not limit activities,,,,,Undefined,Units,Percentage (%),,1.0364067397447727
+2015/16,Sexual violence (%),,Male,,,,No long-standing illness or disability,,,,,Undefined,Units,Percentage (%),,0.6275720050719663
+2015/16,Sexual violence (%),,Male,,,,,"Less than £10,000",,,,Undefined,Units,Percentage (%),,0.6327360499045759
+2015/16,Sexual violence (%),,Male,,,,,"£10,000 less than £20,000",,,,Undefined,Units,Percentage (%),,0.6720092839010389
+2015/16,Sexual violence (%),,Male,,,,,"£20,000 less than £30,000",,,,Undefined,Units,Percentage (%),,0.4530906941991041
+2015/16,Sexual violence (%),,Male,,,,,"£30,000 less than £40,000",,,,Undefined,Units,Percentage (%),,0.12299295530065925
+2015/16,Sexual violence (%),,Male,,,,,"£40,000 less than £50,000",,,,Undefined,Units,Percentage (%),,0.6213405495122029
+2015/16,Sexual violence (%),,Male,,,,,"£50,000 or more",,,,Undefined,Units,Percentage (%),,0.9014370862448058
+2015/16,Sexual violence (%),,Male,,,,,No income stated or not enough information provided,,,,Undefined,Units,Percentage (%),,0.9230934801141758
+2015/16,Sexual violence (%),,Male,,,,,,Urban,,,Undefined,Units,Percentage (%),,0.6979850766656963
+2015/16,Sexual violence (%),,Male,,,,,,Rural,,,Undefined,Units,Percentage (%),,0.5869155778194245
+2015/16,Sexual violence (%),,Male,,,,,,,North East,,Undefined,Units,Percentage (%),E12000001,0.07061656431367304
+2015/16,Sexual violence (%),,Male,,,,,,,North West,,Undefined,Units,Percentage (%),E12000002,0.10953414059483983
+2015/16,Sexual violence (%),,Male,,,,,,,Yorkshire and The Humber,,Undefined,Units,Percentage (%),E12000003,0.9670573621260288
+2015/16,Sexual violence (%),,Male,,,,,,,East Midlands,,Undefined,Units,Percentage (%),E12000004,0.6877256577737173
+2015/16,Sexual violence (%),,Male,,,,,,,West Midlands,,Undefined,Units,Percentage (%),E12000005,0.951384008405714
+2015/16,Sexual violence (%),,Male,,,,,,,East of England,,Undefined,Units,Percentage (%),E12000006,0.7774114713150461
+2015/16,Sexual violence (%),,Male,,,,,,,London,,Undefined,Units,Percentage (%),E12000007,0.8629547530351058
+2015/16,Sexual violence (%),,Male,,,,,,,South East,,Undefined,Units,Percentage (%),E12000008,0.6525284360815578
+2015/16,Sexual violence (%),,Male,,,,,,,South West,,Undefined,Units,Percentage (%),E12000009,0.8303687646386153
+2015/16,Sexual violence (%),,Male,,,,,,,Wales,,Undefined,Units,Percentage (%),W92000004,0.5044083859956259
+2015/16,Sexual violence (%),,Female,16 to 19,,,,,,,,Undefined,Units,Percentage (%),,11.040013265596983
+2015/16,Sexual violence (%),,Female,20 to 24,,,,,,,,Undefined,Units,Percentage (%),,7.602359596240214
+2015/16,Sexual violence (%),,Female,25 to 34,,,,,,,,Undefined,Units,Percentage (%),,2.8332241529587896
+2015/16,Sexual violence (%),,Female,35 to 44,,,,,,,,Undefined,Units,Percentage (%),,1.6409442005931552
+2015/16,Sexual violence (%),,Female,45 to 54,,,,,,,,Undefined,Units,Percentage (%),,1.6120868910870123
+2015/16,Sexual violence (%),,Female,55 to 59,,,,,,,,Undefined,Units,Percentage (%),,0.8275763519215612
+2015/16,Sexual violence (%),,Female,,White,,,,,,,Undefined,Units,Percentage (%),,3.2672430900541474
+2015/16,Sexual violence (%),,Female,,White,English/Welsh/Scottish/Northern Irish/British,,,,,,Undefined,Units,Percentage (%),,3.3296653602283484
+2015/16,Sexual violence (%),,Female,,White,Irish,,,,,,Undefined,Units,Percentage (%),,0.5380088514806708
+2015/16,Sexual violence (%),,Female,,White,Any other white background,,,,,,Undefined,Units,Percentage (%),,2.8547853862151125
+2015/16,Sexual violence (%),,Female,,Mixed/multiple ethnic groups,,,,,,,Undefined,Units,Percentage (%),,2.8157277907781184
+2015/16,Sexual violence (%),,Female,,Mixed/multiple ethnic groups,White and Black Caribbean,,,,,,Undefined,Units,Percentage (%),,5.095051148574765
+2015/16,Sexual violence (%),,Female,,Asian/Asian British,,,,,,,Undefined,Units,Percentage (%),,3.0101681833768774
+2015/16,Sexual violence (%),,Female,,Asian/Asian British,Indian,,,,,,Undefined,Units,Percentage (%),,4.679799244675472
+2015/16,Sexual violence (%),,Female,,Asian/Asian British,Pakistani,,,,,,Undefined,Units,Percentage (%),,2.0102949506817933
+2015/16,Sexual violence (%),,Female,,Asian/Asian British,Bangladeshi,,,,,,Undefined,Units,Percentage (%),,0.0
+2015/16,Sexual violence (%),,Female,,Asian/Asian British,Chinese,,,,,,Undefined,Units,Percentage (%),,2.7312511012861918
+2015/16,Sexual violence (%),,Female,,Asian/Asian British,Any other Asian background,,,,,,Undefined,Units,Percentage (%),,2.6934603088436178
+2015/16,Sexual violence (%),,Female,,Black/African/Caribbean/Black British,,,,,,,Undefined,Units,Percentage (%),,2.2279078091389515
+2015/16,Sexual violence (%),,Female,,Black/African/Caribbean/Black British,African,,,,,,Undefined,Units,Percentage (%),,1.9560678542499048
+2015/16,Sexual violence (%),,Female,,Black/African/Caribbean/Black British,Caribbean,,,,,,Undefined,Units,Percentage (%),,1.5408172700818414
+2015/16,Sexual violence (%),,Female,,Other ethnic group,,,,,,,Undefined,Units,Percentage (%),,7.115344617950457
+2015/16,Sexual violence (%),,Female,,Other ethnic group,Any other ethnic group,,,,,,Undefined,Units,Percentage (%),,4.8827235612532425
+2015/16,Sexual violence (%),,Female,,,,,,,,Degree or diploma,Undefined,Units,Percentage (%),,3.2855729686273887
+2015/16,Sexual violence (%),,Female,,,,,,,,Apprenticeship or A/AS level,Undefined,Units,Percentage (%),,5.5080692181083455
+2015/16,Sexual violence (%),,Female,,,,,,,,O level/GCSE,Undefined,Units,Percentage (%),,1.8879123661933528
+2015/16,Sexual violence (%),,Female,,,,,,,,Other,Undefined,Units,Percentage (%),,2.0913652831798006
+2015/16,Sexual violence (%),,Female,,,,,,,,None,Undefined,Units,Percentage (%),,1.5967777478026133
+2015/16,Sexual violence (%),,Female,,,,Long-standing illness or disability,,,,,Undefined,Units,Percentage (%),,5.2855949167763985
+2015/16,Sexual violence (%),,Female,,,,Long-standing illness or disability: Limits activities,,,,,Undefined,Units,Percentage (%),,5.4422280040129065
+2015/16,Sexual violence (%),,Female,,,,Long-standing illness or disability: Does not limit activities,,,,,Undefined,Units,Percentage (%),,4.0897051839799605
+2015/16,Sexual violence (%),,Female,,,,No long-standing illness or disability,,,,,Undefined,Units,Percentage (%),,2.8401614112045057
+2015/16,Sexual violence (%),,Female,,,,,"Less than £10,000",,,,Undefined,Units,Percentage (%),,4.078042564780488
+2015/16,Sexual violence (%),,Female,,,,,"£10,000 less than £20,000",,,,Undefined,Units,Percentage (%),,3.5314758519884344
+2015/16,Sexual violence (%),,Female,,,,,"£20,000 less than £30,000",,,,Undefined,Units,Percentage (%),,2.5260355179717178
+2015/16,Sexual violence (%),,Female,,,,,"£30,000 less than £40,000",,,,Undefined,Units,Percentage (%),,2.8896332023051814
+2015/16,Sexual violence (%),,Female,,,,,"£40,000 less than £50,000",,,,Undefined,Units,Percentage (%),,2.7995465494896887
+2015/16,Sexual violence (%),,Female,,,,,"£50,000 or more",,,,Undefined,Units,Percentage (%),,2.4124243959663145
+2015/16,Sexual violence (%),,Female,,,,,No income stated or not enough information provided,,,,Undefined,Units,Percentage (%),,4.928566621619481
+2015/16,Sexual violence (%),,Female,,,,,,Urban,,,Undefined,Units,Percentage (%),,3.2529425512768166
+2015/16,Sexual violence (%),,Female,,,,,,Rural,,,Undefined,Units,Percentage (%),,3.1205715207139657
+2015/16,Sexual violence (%),,Female,,,,,,,North East,,Undefined,Units,Percentage (%),E12000001,1.7951156839413904
+2015/16,Sexual violence (%),,Female,,,,,,,North West,,Undefined,Units,Percentage (%),E12000002,3.2403484703668184
+2015/16,Sexual violence (%),,Female,,,,,,,Yorkshire and The Humber,,Undefined,Units,Percentage (%),E12000003,4.065917839105063
+2015/16,Sexual violence (%),,Female,,,,,,,East Midlands,,Undefined,Units,Percentage (%),E12000004,3.4167819814660945
+2015/16,Sexual violence (%),,Female,,,,,,,West Midlands,,Undefined,Units,Percentage (%),E12000005,2.24402675278821
+2015/16,Sexual violence (%),,Female,,,,,,,East of England,,Undefined,Units,Percentage (%),E12000006,2.9112805940986566
+2015/16,Sexual violence (%),,Female,,,,,,,London,,Undefined,Units,Percentage (%),E12000007,4.148036948143512
+2015/16,Sexual violence (%),,Female,,,,,,,South East,,Undefined,Units,Percentage (%),E12000008,2.306262190875796
+2015/16,Sexual violence (%),,Female,,,,,,,South West,,Undefined,Units,Percentage (%),E12000009,4.378179163511174
+2015/16,Sexual violence (%),,Female,,,,,,,Wales,,Undefined,Units,Percentage (%),W92000004,2.9997534741504785
+2016/17,Sexual violence (%),,Male,,,,,,,,,Undefined,Units,Percentage (%),,0.8358180258744489
+2016/17,Sexual violence (%),,Female,,,,,,,,,Undefined,Units,Percentage (%),,3.079419028781737
+2016/17,Sexual violence (%),,Male,16 to 19,,,,,,,,Undefined,Units,Percentage (%),,3.0375138400878634
+2016/17,Sexual violence (%),,Male,20 to 24,,,,,,,,Undefined,Units,Percentage (%),,1.6698468331481469
+2016/17,Sexual violence (%),,Male,25 to 34,,,,,,,,Undefined,Units,Percentage (%),,1.086339023937119
+2016/17,Sexual violence (%),,Male,35 to 44,,,,,,,,Undefined,Units,Percentage (%),,0.3927814493915459
+2016/17,Sexual violence (%),,Male,45 to 54,,,,,,,,Undefined,Units,Percentage (%),,0.1767922395477045
+2016/17,Sexual violence (%),,Male,55 to 59,,,,,,,,Undefined,Units,Percentage (%),,0.08217767304070482
+2016/17,Sexual violence (%),,Male,,White,,,,,,,Undefined,Units,Percentage (%),,0.8695681502611421
+2016/17,Sexual violence (%),,Male,,White,English/Welsh/Scottish/Northern Irish/British,,,,,,Undefined,Units,Percentage (%),,0.886655028492391
+2016/17,Sexual violence (%),,Male,,White,Irish,,,,,,Undefined,Units,Percentage (%),,1.2847641673582533
+2016/17,Sexual violence (%),,Male,,White,Any other white background,,,,,,Undefined,Units,Percentage (%),,0.6899065149118697
+2016/17,Sexual violence (%),,Male,,Mixed/multiple ethnic groups,,,,,,,Undefined,Units,Percentage (%),,1.4081019499540797
+2016/17,Sexual violence (%),,Male,,Asian/Asian British,,,,,,,Undefined,Units,Percentage (%),,0.5338721342956249
+2016/17,Sexual violence (%),,Male,,Asian/Asian British,Indian,,,,,,Undefined,Units,Percentage (%),,0.5710096411586738
+2016/17,Sexual violence (%),,Male,,Asian/Asian British,Pakistani,,,,,,Undefined,Units,Percentage (%),,0.0
+2016/17,Sexual violence (%),,Male,,Asian/Asian British,Bangladeshi,,,,,,Undefined,Units,Percentage (%),,0.0
+2016/17,Sexual violence (%),,Male,,Asian/Asian British,Chinese,,,,,,Undefined,Units,Percentage (%),,3.177940620109154
+2016/17,Sexual violence (%),,Male,,Asian/Asian British,Any other Asian background,,,,,,Undefined,Units,Percentage (%),,0.0
+2016/17,Sexual violence (%),,Male,,Black/African/Caribbean/Black British,,,,,,,Undefined,Units,Percentage (%),,0.0
+2016/17,Sexual violence (%),,Male,,Black/African/Caribbean/Black British,African,,,,,,Undefined,Units,Percentage (%),,0.0
+2016/17,Sexual violence (%),,Male,,Black/African/Caribbean/Black British,Caribbean,,,,,,Undefined,Units,Percentage (%),,0.0
+2016/17,Sexual violence (%),,Male,,Other ethnic group,,,,,,,Undefined,Units,Percentage (%),,2.1490233102800733
+2016/17,Sexual violence (%),,Male,,Other ethnic group,Arab,,,,,,Undefined,Units,Percentage (%),,1.7021275284018025
+2016/17,Sexual violence (%),,Male,,Other ethnic group,Any other ethnic group,,,,,,Undefined,Units,Percentage (%),,2.535612499998891
+2016/17,Sexual violence (%),,Male,,,,,,,,Degree or diploma,Undefined,Units,Percentage (%),,0.6843883632187503
+2016/17,Sexual violence (%),,Male,,,,,,,,Apprenticeship or A/AS level,Undefined,Units,Percentage (%),,1.2404514373270574
+2016/17,Sexual violence (%),,Male,,,,,,,,O level/GCSE,Undefined,Units,Percentage (%),,0.7629239079802351
+2016/17,Sexual violence (%),,Male,,,,,,,,Other,Undefined,Units,Percentage (%),,2.124872124454749
+2016/17,Sexual violence (%),,Male,,,,,,,,None,Undefined,Units,Percentage (%),,0.3538160435546229
+2016/17,Sexual violence (%),,Male,,,,Long-standing illness or disability,,,,,Undefined,Units,Percentage (%),,1.0183701203149604
+2016/17,Sexual violence (%),,Male,,,,Long-standing illness or disability: Limits activities,,,,,Undefined,Units,Percentage (%),,1.1344176055003978
+2016/17,Sexual violence (%),,Male,,,,Long-standing illness or disability: Does not limit activities,,,,,Undefined,Units,Percentage (%),,0.7631584373651058
+2016/17,Sexual violence (%),,Male,,,,No long-standing illness or disability,,,,,Undefined,Units,Percentage (%),,0.8103432551884531
+2016/17,Sexual violence (%),,Male,,,,,"Less than £10,000",,,,Undefined,Units,Percentage (%),,1.673311396857077
+2016/17,Sexual violence (%),,Male,,,,,"£10,000 less than £20,000",,,,Undefined,Units,Percentage (%),,0.5752668265214363
+2016/17,Sexual violence (%),,Male,,,,,"£20,000 less than £30,000",,,,Undefined,Units,Percentage (%),,1.0538644379888529
+2016/17,Sexual violence (%),,Male,,,,,"£30,000 less than £40,000",,,,Undefined,Units,Percentage (%),,1.021424973013327
+2016/17,Sexual violence (%),,Male,,,,,"£40,000 less than £50,000",,,,Undefined,Units,Percentage (%),,0.2496036815796725
+2016/17,Sexual violence (%),,Male,,,,,"£50,000 or more",,,,Undefined,Units,Percentage (%),,0.7500876165172664
+2016/17,Sexual violence (%),,Male,,,,,No income stated or not enough information provided,,,,Undefined,Units,Percentage (%),,1.0281293287860265
+2016/17,Sexual violence (%),,Male,,,,,,Urban,,,Undefined,Units,Percentage (%),,0.8317418059682121
+2016/17,Sexual violence (%),,Male,,,,,,Rural,,,Undefined,Units,Percentage (%),,0.8585922263449105
+2016/17,Sexual violence (%),,Male,,,,,,,North East,,Undefined,Units,Percentage (%),E12000001,0.0
+2016/17,Sexual violence (%),,Male,,,,,,,North West,,Undefined,Units,Percentage (%),E12000002,0.6156039233210487
+2016/17,Sexual violence (%),,Male,,,,,,,Yorkshire and The Humber,,Undefined,Units,Percentage (%),E12000003,0.670202444507012
+2016/17,Sexual violence (%),,Male,,,,,,,East Midlands,,Undefined,Units,Percentage (%),E12000004,0.7184395630267684
+2016/17,Sexual violence (%),,Male,,,,,,,West Midlands,,Undefined,Units,Percentage (%),E12000005,1.3943602393885417
+2016/17,Sexual violence (%),,Male,,,,,,,East of England,,Undefined,Units,Percentage (%),E12000006,0.9235551846460478
+2016/17,Sexual violence (%),,Male,,,,,,,London,,Undefined,Units,Percentage (%),E12000007,1.059307248927159
+2016/17,Sexual violence (%),,Male,,,,,,,South East,,Undefined,Units,Percentage (%),E12000008,0.6609049254331126
+2016/17,Sexual violence (%),,Male,,,,,,,South West,,Undefined,Units,Percentage (%),E12000009,1.174321304933706
+2016/17,Sexual violence (%),,Male,,,,,,,Wales,,Undefined,Units,Percentage (%),W92000004,0.4220215907292268
+2016/17,Sexual violence (%),,Female,16 to 19,,,,,,,,Undefined,Units,Percentage (%),,8.763125514630216
+2016/17,Sexual violence (%),,Female,20 to 24,,,,,,,,Undefined,Units,Percentage (%),,7.2029326611197755
+2016/17,Sexual violence (%),,Female,25 to 34,,,,,,,,Undefined,Units,Percentage (%),,3.2431032491484393
+2016/17,Sexual violence (%),,Female,35 to 44,,,,,,,,Undefined,Units,Percentage (%),,1.7374043012850489
+2016/17,Sexual violence (%),,Female,45 to 54,,,,,,,,Undefined,Units,Percentage (%),,1.3267000468391372
+2016/17,Sexual violence (%),,Female,55 to 59,,,,,,,,Undefined,Units,Percentage (%),,1.1808262038730466
+2016/17,Sexual violence (%),,Female,,White,,,,,,,Undefined,Units,Percentage (%),,3.0979356527840887
+2016/17,Sexual violence (%),,Female,,White,English/Welsh/Scottish/Northern Irish/British,,,,,,Undefined,Units,Percentage (%),,3.0604976418115086
+2016/17,Sexual violence (%),,Female,,White,Irish,,,,,,Undefined,Units,Percentage (%),,0.0
+2016/17,Sexual violence (%),,Female,,White,Any other white background,,,,,,Undefined,Units,Percentage (%),,3.70442742420944
+2016/17,Sexual violence (%),,Female,,Mixed/multiple ethnic groups,,,,,,,Undefined,Units,Percentage (%),,8.62659119414787
+2016/17,Sexual violence (%),,Female,,Mixed/multiple ethnic groups,White and Black Caribbean,,,,,,Undefined,Units,Percentage (%),,1.5191878427335144
+2016/17,Sexual violence (%),,Female,,Asian/Asian British,,,,,,,Undefined,Units,Percentage (%),,1.4711986131992654
+2016/17,Sexual violence (%),,Female,,Asian/Asian British,Indian,,,,,,Undefined,Units,Percentage (%),,1.386297279855199
+2016/17,Sexual violence (%),,Female,,Asian/Asian British,Pakistani,,,,,,Undefined,Units,Percentage (%),,2.66233454227889
+2016/17,Sexual violence (%),,Female,,Asian/Asian British,Bangladeshi,,,,,,Undefined,Units,Percentage (%),,0.0
+2016/17,Sexual violence (%),,Female,,Asian/Asian British,Chinese,,,,,,Undefined,Units,Percentage (%),,1.5840120521168324
+2016/17,Sexual violence (%),,Female,,Asian/Asian British,Any other Asian background,,,,,,Undefined,Units,Percentage (%),,0.7312225050093266
+2016/17,Sexual violence (%),,Female,,Black/African/Caribbean/Black British,,,,,,,Undefined,Units,Percentage (%),,3.777394925781948
+2016/17,Sexual violence (%),,Female,,Black/African/Caribbean/Black British,African,,,,,,Undefined,Units,Percentage (%),,2.9299987368723825
+2016/17,Sexual violence (%),,Female,,Black/African/Caribbean/Black British,Caribbean,,,,,,Undefined,Units,Percentage (%),,7.4980337791290586
+2016/17,Sexual violence (%),,Female,,Other ethnic group,,,,,,,Undefined,Units,Percentage (%),,3.3187627724955417
+2016/17,Sexual violence (%),,Female,,Other ethnic group,Any other ethnic group,,,,,,Undefined,Units,Percentage (%),,2.482713345377939
+2016/17,Sexual violence (%),,Female,,,,,,,,Degree or diploma,Undefined,Units,Percentage (%),,3.056469354313062
+2016/17,Sexual violence (%),,Female,,,,,,,,Apprenticeship or A/AS level,Undefined,Units,Percentage (%),,5.3642447347956965
+2016/17,Sexual violence (%),,Female,,,,,,,,O level/GCSE,Undefined,Units,Percentage (%),,1.9942106881988408
+2016/17,Sexual violence (%),,Female,,,,,,,,Other,Undefined,Units,Percentage (%),,2.429078685789946
+2016/17,Sexual violence (%),,Female,,,,,,,,None,Undefined,Units,Percentage (%),,1.5068704429008046
+2016/17,Sexual violence (%),,Female,,,,Long-standing illness or disability,,,,,Undefined,Units,Percentage (%),,5.3204258502347805
+2016/17,Sexual violence (%),,Female,,,,Long-standing illness or disability: Limits activities,,,,,Undefined,Units,Percentage (%),,5.0468688128344645
+2016/17,Sexual violence (%),,Female,,,,Long-standing illness or disability: Does not limit activities,,,,,Undefined,Units,Percentage (%),,6.264755941965401
+2016/17,Sexual violence (%),,Female,,,,No long-standing illness or disability,,,,,Undefined,Units,Percentage (%),,2.66982555143505
+2016/17,Sexual violence (%),,Female,,,,,"Less than £10,000",,,,Undefined,Units,Percentage (%),,2.7808374133122804
+2016/17,Sexual violence (%),,Female,,,,,"£10,000 less than £20,000",,,,Undefined,Units,Percentage (%),,2.6529838999248208
+2016/17,Sexual violence (%),,Female,,,,,"£20,000 less than £30,000",,,,Undefined,Units,Percentage (%),,3.276899678516392
+2016/17,Sexual violence (%),,Female,,,,,"£30,000 less than £40,000",,,,Undefined,Units,Percentage (%),,2.3270991563346084
+2016/17,Sexual violence (%),,Female,,,,,"£40,000 less than £50,000",,,,Undefined,Units,Percentage (%),,2.559636817653625
+2016/17,Sexual violence (%),,Female,,,,,"£50,000 or more",,,,Undefined,Units,Percentage (%),,2.8584687515369285
+2016/17,Sexual violence (%),,Female,,,,,No income stated or not enough information provided,,,,Undefined,Units,Percentage (%),,4.564791238639083
+2016/17,Sexual violence (%),,Female,,,,,,Urban,,,Undefined,Units,Percentage (%),,3.1417945545007617
+2016/17,Sexual violence (%),,Female,,,,,,Rural,,,Undefined,Units,Percentage (%),,2.766585596635293
+2016/17,Sexual violence (%),,Female,,,,,,,North East,,Undefined,Units,Percentage (%),E12000001,5.474557499415625
+2016/17,Sexual violence (%),,Female,,,,,,,North West,,Undefined,Units,Percentage (%),E12000002,2.202929705018061
+2016/17,Sexual violence (%),,Female,,,,,,,Yorkshire and The Humber,,Undefined,Units,Percentage (%),E12000003,2.1277345439076787
+2016/17,Sexual violence (%),,Female,,,,,,,East Midlands,,Undefined,Units,Percentage (%),E12000004,2.8148262712533763
+2016/17,Sexual violence (%),,Female,,,,,,,West Midlands,,Undefined,Units,Percentage (%),E12000005,2.765471188927442
+2016/17,Sexual violence (%),,Female,,,,,,,East of England,,Undefined,Units,Percentage (%),E12000006,2.518408041538136
+2016/17,Sexual violence (%),,Female,,,,,,,London,,Undefined,Units,Percentage (%),E12000007,3.4231515132196173
+2016/17,Sexual violence (%),,Female,,,,,,,South East,,Undefined,Units,Percentage (%),E12000008,3.3245251946800516
+2016/17,Sexual violence (%),,Female,,,,,,,South West,,Undefined,Units,Percentage (%),E12000009,3.912180932975781
+2016/17,Sexual violence (%),,Female,,,,,,,Wales,,Undefined,Units,Percentage (%),W92000004,3.3866776831105625
