@@ -1,25 +1,25 @@
-Year,Income/expenditure,Income distribution,Observation status,Unit multiplier,Unit measure,Value
+Year,Income/expenditure,Income group,Observation status,Unit multiplier,Unit measure,Value
 2001 - 2006,Expenditure,Bottom 40%,Undefined,Units,Percentage (%),1.64359483943
 2002 - 2007,Expenditure,Bottom 40%,Undefined,Units,Percentage (%),0.860345418008856
 2003 - 2008,Expenditure,Bottom 40%,Undefined,Units,Percentage (%),0.778446708522717
-2004 - 2009,Expenditure,Bottom 40%,Undefined,Units,Percentage (%),-0.477106820213224
-2005 - 2010,Expenditure,Bottom 40%,Undefined,Units,Percentage (%),-0.206243940224026
-2006 - 2011,Expenditure,Bottom 40%,Undefined,Units,Percentage (%),-1.4723224304624098
-2007 - 2012,Expenditure,Bottom 40%,Undefined,Units,Percentage (%),-0.6063439749256601
-2008 - 2013,Expenditure,Bottom 40%,Undefined,Units,Percentage (%),-0.118911887566208
-2009 - 2014,Expenditure,Bottom 40%,Undefined,Units,Percentage (%),-0.37605439461438894
-2010 - 2015,Expenditure,Bottom 40%,Undefined,Units,Percentage (%),-0.405085769373181
+2004 - 2009,Expenditure,Bottom 40%,Undefined,Units,Percentage (%),0.477106820213224
+2005 - 2010,Expenditure,Bottom 40%,Undefined,Units,Percentage (%),0.206243940224026
+2006 - 2011,Expenditure,Bottom 40%,Undefined,Units,Percentage (%),1.4723224304624098
+2007 - 2012,Expenditure,Bottom 40%,Undefined,Units,Percentage (%),0.6063439749256601
+2008 - 2013,Expenditure,Bottom 40%,Undefined,Units,Percentage (%),0.118911887566208
+2009 - 2014,Expenditure,Bottom 40%,Undefined,Units,Percentage (%),0.37605439461438894
+2010 - 2015,Expenditure,Bottom 40%,Undefined,Units,Percentage (%),0.405085769373181
 2011  - 2016,Expenditure,Bottom 40%,Undefined,Units,Percentage (%),1.7841008708983002
 2001 - 2006,Expenditure,,Undefined,Units,Percentage (%),1.53580076003461
 2002 - 2007,Expenditure,,Undefined,Units,Percentage (%),0.48373561344605603
-2003 - 2008,Expenditure,,Undefined,Units,Percentage (%),-0.032381925558711
-2004 - 2009,Expenditure,,Undefined,Units,Percentage (%),-0.87118657047297
-2005 - 2010,Expenditure,,Undefined,Units,Percentage (%),-0.5455707400173979
-2006 - 2011,Expenditure,,Undefined,Units,Percentage (%),-2.18924468292585
-2007 - 2012,Expenditure,,Undefined,Units,Percentage (%),-0.714310672886509
-2008 - 2013,Expenditure,,Undefined,Units,Percentage (%),-0.565571622958904
+2003 - 2008,Expenditure,,Undefined,Units,Percentage (%),0.032381925558711
+2004 - 2009,Expenditure,,Undefined,Units,Percentage (%),0.87118657047297
+2005 - 2010,Expenditure,,Undefined,Units,Percentage (%),0.5455707400173979
+2006 - 2011,Expenditure,,Undefined,Units,Percentage (%),2.18924468292585
+2007 - 2012,Expenditure,,Undefined,Units,Percentage (%),0.714310672886509
+2008 - 2013,Expenditure,,Undefined,Units,Percentage (%),0.565571622958904
 2009 - 2014,Expenditure,,Undefined,Units,Percentage (%),0.40011416261045396
-2010 - 2015,Expenditure,,Undefined,Units,Percentage (%),-0.335306318761086
+2010 - 2015,Expenditure,,Undefined,Units,Percentage (%),0.335306318761086
 2011  - 2016,Expenditure,,Undefined,Units,Percentage (%),1.6924438375820903
 2001 - 2006,Income,Bottom 40%,Undefined,Units,Percentage (%),0.180881443920877
 2002 - 2007,Income,Bottom 40%,Undefined,Units,Percentage (%),1.00799938387006
@@ -27,8 +27,8 @@ Year,Income/expenditure,Income distribution,Observation status,Unit multiplier,U
 2004 - 2009,Income,Bottom 40%,Undefined,Units,Percentage (%),0.147574936722771
 2005 - 2010,Income,Bottom 40%,Undefined,Units,Percentage (%),0.7420576955373679
 2006 - 2011,Income,Bottom 40%,Undefined,Units,Percentage (%),0.10799903298908099
-2007 - 2012,Income,Bottom 40%,Undefined,Units,Percentage (%),-0.36446277904161795
-2008 - 2013,Income,Bottom 40%,Undefined,Units,Percentage (%),-0.20434576555357
+2007 - 2012,Income,Bottom 40%,Undefined,Units,Percentage (%),0.36446277904161795
+2008 - 2013,Income,Bottom 40%,Undefined,Units,Percentage (%),0.20434576555357
 2009 - 2014,Income,Bottom 40%,Undefined,Units,Percentage (%),0.0421865933093901
 2010 - 2015,Income,Bottom 40%,Undefined,Units,Percentage (%),1.6409353831528202
 2011  - 2016,Income,Bottom 40%,Undefined,Units,Percentage (%),2.54078364821213
@@ -37,9 +37,9 @@ Year,Income/expenditure,Income distribution,Observation status,Unit multiplier,U
 2003 - 2008,Income,,Undefined,Units,Percentage (%),1.6390072110665102
 2004 - 2009,Income,,Undefined,Units,Percentage (%),1.48602612498145
 2005 - 2010,Income,,Undefined,Units,Percentage (%),1.0638081812011
-2006 - 2011,Income,,Undefined,Units,Percentage (%),-0.8627924196369592
-2007 - 2012,Income,,Undefined,Units,Percentage (%),-1.15839224430033
-2008 - 2013,Income,,Undefined,Units,Percentage (%),-0.682166128392525
-2009 - 2014,Income,,Undefined,Units,Percentage (%),-0.18988902973526803
+2006 - 2011,Income,,Undefined,Units,Percentage (%),0.8627924196369592
+2007 - 2012,Income,,Undefined,Units,Percentage (%),1.15839224430033
+2008 - 2013,Income,,Undefined,Units,Percentage (%),0.682166128392525
+2009 - 2014,Income,,Undefined,Units,Percentage (%),0.18988902973526803
 2010 - 2015,Income,,Undefined,Units,Percentage (%),0.197149809848018
 2011  - 2016,Income,,Undefined,Units,Percentage (%),1.86512768753159
