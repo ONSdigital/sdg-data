@@ -1,21 +1,21 @@
-Year,Unit,Type of documentation,Tenure category,Geography,Sex,Value
-2018,Percentage in tenure percieved secure (%),,,,,87
-2018,Percentage with formal documentation (%),Formal,,,,79
-2018,Percentage with formal documentation (%),Informal Documentation,,,,1
-2018,Percentage with formal documentation (%),No Documentation,,,,20
-2018,Percentage with formal documentation (%),Formal,Owners,,,97
-2018,Percentage with formal documentation (%),Informal Documentation,Owners,,,0
-2018,Percentage with formal documentation (%),No Documentation,Owners,,,3
-2018,Percentage with formal documentation (%),Formal,Renters,,,97
-2018,Percentage with formal documentation (%),Informal Documentation,Renters,,,2
-2018,Percentage with formal documentation (%),No Documentation,Renters,,,1
-2018,Percentage with formal documentation (%),Formal,Stay with Permission,,,95
-2018,Percentage with formal documentation (%),Informal Documentation,Stay with Permission,,,0
-2018,Percentage with formal documentation (%),No Documentation,Stay with Permission,,,5
-2018,Percentage in tenure percieved secure (%),,Owners,,,95
-2018,Percentage in tenure percieved secure (%),,Renters,,,74
-2018,Percentage in tenure percieved secure (%),,Stay with Permission,,,78
-2018,Percentage in tenure percieved secure (%),,,Urban,,88
-2018,Percentage in tenure percieved secure (%),,,Rural,,88
-2018,Percentage in tenure percieved secure (%),,,,Men,90
-2018,Percentage in tenure percieved secure (%),,,,Women,85.0
+Year,Security,Type of Documentation,Type of Tenure,Urbanisation,Sex,Unit measure,Observation status,Unit multiplier,Value
+2018,Perceived,,,,,Percentage (%),Undefined,Units,87.0
+2018,Documented,Formal,,,,Percentage (%),Undefined,Units,79.0
+2018,Documented,Informal Documentation,,,,Percentage (%),Undefined,Units,1.0
+2018,Documented,No Documentation,,,,Percentage (%),Undefined,Units,20.0
+2018,Documented,Formal,Owners,,,Percentage (%),Undefined,Units,97.0
+2018,Documented,Informal Documentation,Owners,,,Percentage (%),Undefined,Units,0.0
+2018,Documented,No Documentation,Owners,,,Percentage (%),Undefined,Units,3.0
+2018,Documented,Formal,Renters,,,Percentage (%),Undefined,Units,97.0
+2018,Documented,Informal Documentation,Renters,,,Percentage (%),Undefined,Units,2.0
+2018,Documented,No Documentation,Renters,,,Percentage (%),Undefined,Units,1.0
+2018,Documented,Formal,Stay with Permission,,,Percentage (%),Undefined,Units,5.0
+2018,Documented,Informal Documentation,Stay with Permission,,,Percentage (%),Undefined,Units,0.0
+2018,Documented,No Documentation,Stay with Permission,,,Percentage (%),Undefined,Units,95.0
+2018,Perceived,,Owners,,,Percentage (%),Undefined,Units,95.0
+2018,Perceived,,Renters,,,Percentage (%),Undefined,Units,74.0
+2018,Perceived,,Stay with Permission,,,Percentage (%),Undefined,Units,78.0
+2018,Perceived,,,Urban,,Percentage (%),Undefined,Units,88.0
+2018,Perceived,,,Rural,,Percentage (%),Undefined,Units,88.0
+2018,Perceived,,,,Male,Percentage (%),Undefined,Units,90.0
+2018,Perceived,,,,Female,Percentage (%),Undefined,Units,85.0
