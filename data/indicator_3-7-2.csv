@@ -1,35 +1,217 @@
-Year,Units,Value
-2000,"Live births per 1,000 to mothers aged 15-19",29.0
-2001,"Live births per 1,000 to mothers aged 15-19",27.7
-2002,"Live births per 1,000 to mothers aged 15-19",26.8
-2003,"Live births per 1,000 to mothers aged 15-19",26.6
-2004,"Live births per 1,000 to mothers aged 15-19",26.6
-2005,"Live births per 1,000 to mothers aged 15-19",26.1
-2006,"Live births per 1,000 to mothers aged 15-19",26.2
-2007,"Live births per 1,000 to mothers aged 15-19",25.7
-2008,"Live births per 1,000 to mothers aged 15-19",25.6
-2009,"Live births per 1,000 to mothers aged 15-19",24.6
-2010,"Live births per 1,000 to mothers aged 15-19",23.2
-2011,"Live births per 1,000 to mothers aged 15-19",21.0
-2012,"Live births per 1,000 to mothers aged 15-19",19.8
-2013,"Live births per 1,000 to mothers aged 15-19",17.3
-2014,"Live births per 1,000 to mothers aged 15-19",15.5
-2015,"Live births per 1,000 to mothers aged 15-19",14.4
-2016,"Live births per 1,000 to mothers aged 15-19",13.7
-2000,"Live births per 1,000 to mothers aged 10-14",0.2
-2001,"Live births per 1,000 to mothers aged 10-14",0.2
-2002,"Live births per 1,000 to mothers aged 10-14",0.2
-2003,"Live births per 1,000 to mothers aged 10-14",0.1
-2004,"Live births per 1,000 to mothers aged 10-14",0.1
-2005,"Live births per 1,000 to mothers aged 10-14",0.1
-2006,"Live births per 1,000 to mothers aged 10-14",0.1
-2007,"Live births per 1,000 to mothers aged 10-14",0.1
-2008,"Live births per 1,000 to mothers aged 10-14",0.1
-2009,"Live births per 1,000 to mothers aged 10-14",0.1
-2010,"Live births per 1,000 to mothers aged 10-14",0.1
-2011,"Live births per 1,000 to mothers aged 10-14",0.1
-2012,"Live births per 1,000 to mothers aged 10-14",0.1
-2013,"Live births per 1,000 to mothers aged 10-14",0.1
-2014,"Live births per 1,000 to mothers aged 10-14",0.1
-2015,"Live births per 1,000 to mothers aged 10-14",0.1
-2016,"Live births per 1,000 to mothers aged 10-14",0.1
+Year,Country,Age,Observation status,Unit multiplier,Unit measure,GeoCode,Value
+2000,,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,29.01424155
+2001,,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,27.71141343720828
+2002,,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,26.774975685264582
+2003,,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,26.56156848809966
+2004,,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,26.592477622497977
+2005,,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,26.08763489793265
+2006,,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,26.231786564844036
+2007,,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,25.676263666225427
+2008,,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,25.577531254317684
+2009,,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,24.55192184315031
+2010,,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,23.18534690162241
+2011,,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,21.02255079866017
+2012,,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,19.758314316857614
+2013,,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,17.297202340228402
+2014,,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,15.547150792413504
+2015,,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,14.368650529897764
+2016,,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,13.657445539569949
+2017,,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,12.6506087592318
+2000,,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",,0.17464309978723358
+2001,,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",,0.1666023455079579
+2002,,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",,0.15662691625698338
+2003,,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",,0.12717163967334755
+2004,,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",,0.11934150945887075
+2005,,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",,0.1256078140834036
+2006,,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",,0.13778107878279028
+2007,,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",,0.12831521580237076
+2008,,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",,0.1241799629094058
+2009,,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",,0.10712943653212674
+2010,,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",,0.12237075903647146
+2011,,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",,0.09987823832743228
+2012,,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",,0.11174573775968706
+2013,,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",,0.08470996699792518
+2014,,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",,0.08260607026635222
+2015,,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",,0.0657929288761125
+2016,,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",,0.06163613981338387
+2017,,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",,0.046149865094055074
+2000,,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,14.219621159727161
+2001,,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,13.573169197129872
+2002,,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,13.166506874628416
+2003,,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,13.224034095338194
+2004,,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,13.377841789729175
+2005,,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,13.25647474993516
+2006,,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,13.456186760256898
+2007,,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,13.27525028080542
+2008,,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,13.270996831034687
+2009,,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,12.813091952870657
+2010,,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,12.118695248199307
+2011,,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,11.008674648707744
+2012,,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,10.385614711163505
+2013,,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,9.08721328134578
+2014,,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,8.146404774591636
+2015,,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,7.46983907025919
+2016,,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,6.993169810128372
+2017,,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",,6.317838508672122
+2000,England and Wales,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,29.1484742005607
+2001,England and Wales,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,27.808856716028327
+2002,England and Wales,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,26.942529423946862
+2003,England and Wales,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,26.745457859877256
+2004,England and Wales,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,26.781937094519325
+2005,England and Wales,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,26.261762995505517
+2006,England and Wales,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,26.441541334286242
+2007,England and Wales,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,25.743902607988844
+2008,England and Wales,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,25.625514901167783
+2009,England and Wales,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,24.69817672935414
+2010,England and Wales,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,23.31634632258541
+2011,England and Wales,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,21.089141438369108
+2012,England and Wales,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,19.83024377475022
+2013,England and Wales,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,17.29535843092082
+2014,England and Wales,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,15.542147743878871
+2015,England and Wales,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,14.42901920783777
+2016,England and Wales,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,13.672018270110081
+2017,England and Wales,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,12.64000837433267
+2000,England and Wales,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,0.17876403992235843
+2001,England and Wales,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,0.17613149559521998
+2002,England and Wales,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,0.16297812596490457
+2003,England and Wales,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,0.13129253640545988
+2004,England and Wales,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,0.12477016023115314
+2005,England and Wales,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,0.12748865982357252
+2006,England and Wales,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,0.13612114295576125
+2007,England and Wales,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,0.12889455509081568
+2008,England and Wales,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,0.1295869002997695
+2009,England and Wales,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,0.11147050026102676
+2010,England and Wales,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,0.12470911598696041
+2011,England and Wales,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,0.10485934634726257
+2012,England and Wales,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,0.11538806165461324
+2013,England and Wales,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,0.08344785682433965
+2014,England and Wales,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,0.07964923001391902
+2015,England and Wales,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,0.06341991229932127
+2016,England and Wales,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,0.062686238281156
+2017,England and Wales,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,0.04425102376587275
+2000,England and Wales,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,14.244510569044055
+2001,England and Wales,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,13.58281106924255
+2002,England and Wales,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,13.21001112610733
+2003,England and Wales,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,13.288218196411856
+2004,England and Wales,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,13.456786181413854
+2005,England and Wales,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,13.334860263573939
+2006,England and Wales,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,13.551447648603926
+2007,England and Wales,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,13.298357806407608
+2008,England and Wales,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,13.284994356456158
+2009,England and Wales,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,12.876275143694203
+2010,England and Wales,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,12.167434643990653
+2011,England and Wales,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,11.031321869357177
+2012,England and Wales,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,10.412676398097728
+2013,England and Wales,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,9.07351207761814
+2014,England and Wales,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,8.129862480545382
+2015,England and Wales,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,7.488020511698077
+2016,England and Wales,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,6.987145394206874
+2017,England and Wales,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",K04000001,6.298915372441394
+2000,Scotland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,29.134554803892243
+2001,Scotland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,28.292601871261315
+2002,Scotland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,26.618902225253535
+2003,Scotland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,26.228905660855624
+2004,Scotland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,26.16990618098073
+2005,Scotland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,26.11407695258217
+2006,Scotland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,25.635741406874498
+2007,Scotland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,26.391353642906438
+2008,Scotland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,26.217826647828492
+2009,Scotland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,24.24744579355554
+2010,Scotland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,22.8575619415482
+2011,Scotland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,21.045743487473516
+2012,Scotland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,19.669733246083375
+2013,Scotland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,17.975278266730356
+2014,Scotland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,16.183901312154237
+2015,Scotland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,14.262967560857128
+2016,Scotland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,13.468359284061187
+2017,Scotland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,12.88743422259216
+2000,Scotland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,0.13358098824487305
+2001,Scotland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,0.1081535016286645
+2002,Scotland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,0.12045443018714815
+2003,Scotland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,0.10200178503123804
+2004,Scotland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,0.08306178518944476
+2005,Scotland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,0.11635874694558289
+2006,Scotland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,0.16441311095912034
+2007,Scotland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,0.14023840528899129
+2008,Scotland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,0.07439721348618579
+2009,Scotland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,0.06851708473507868
+2010,Scotland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,0.10443137118390365
+2011,Scotland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,0.0706713780918728
+2012,Scotland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,0.05817758708457566
+2013,Scotland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,0.11895910780669146
+2014,Scotland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,0.11290079783230468
+2015,Scotland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,0.09023709797492913
+2016,Scotland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,0.052239975521840044
+2017,Scotland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,0.08051706595811647
+2000,Scotland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,14.630608161200735
+2001,Scotland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,14.16838829800801
+2002,Scotland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,13.333672369897368
+2003,Scotland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,13.204603019738578
+2004,Scotland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,13.226263580538498
+2005,Scotland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,13.294998517819634
+2006,Scotland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,13.229377546575096
+2007,Scotland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,13.793412876202197
+2008,Scotland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,13.77456582272369
+2009,Scotland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,12.867232093908221
+2010,Scotland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,12.221039715938124
+2011,Scotland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,11.21671744601934
+2012,Scotland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,10.477735663839882
+2013,Scotland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,9.616422050598459
+2014,Scotland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,8.640941671877375
+2015,Scotland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,7.560482078528017
+2016,Scotland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,7.048917487671536
+2017,Scotland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",S92000003,6.602414658941099
+2000,Northern Ireland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,25.392048154601618
+2001,Northern Ireland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,23.86822228852284
+2002,Northern Ireland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,23.02085255582211
+2003,Northern Ireland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,22.719242999124408
+2004,Northern Ireland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,22.74925166935298
+2005,Northern Ireland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,21.453394084485286
+2006,Northern Ireland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,22.12217046534453
+2007,Northern Ireland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,22.00981008678154
+2008,Northern Ireland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,22.593836019666185
+2009,Northern Ireland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,21.270466221731407
+2010,Northern Ireland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,20.380082880082877
+2011,Northern Ireland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,19.089958158995817
+2012,Northern Ireland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,17.9770841564599
+2013,Northern Ireland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,15.617953129436918
+2014,Northern Ireland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,14.073574080323995
+2015,Northern Ireland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,12.929928680155296
+2016,Northern Ireland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,13.723202312742725
+2017,Northern Ireland,15 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,12.354508233358962
+2000,Northern Ireland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,0.16898638891449289
+2001,Northern Ireland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,0.06185917758223404
+2002,Northern Ireland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,0.07822767382189123
+2003,Northern Ireland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,0.07959755476311768
+2004,Northern Ireland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,0.06437595558059066
+2005,Northern Ireland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,0.09791602069291903
+2006,Northern Ireland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,0.11594971095393485
+2007,Northern Ireland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,0.08295726041943191
+2008,Northern Ireland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,0.10010177013296852
+2009,Northern Ireland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,0.08403078888104601
+2010,Northern Ireland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,0.10235414534288638
+2011,Northern Ireland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,0.03472403076549126
+2012,Northern Ireland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,0.14225762856533183
+2013,Northern Ireland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,0.03627394080092861
+2014,Northern Ireland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,0.09186785727409695
+2015,Northern Ireland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,0.0734349183036534
+2016,Northern Ireland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,0.054395126196692775
+2017,Northern Ireland,10 to 14,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,0.017711967976761896
+2000,Northern Ireland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,12.587347142500624
+2001,Northern Ireland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,11.874152681034081
+2002,Northern Ireland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,11.648467551805435
+2003,Northern Ireland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,11.601454090607044
+2004,Northern Ireland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,11.67504714016342
+2005,Northern Ireland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,11.06949580232023
+2006,Northern Ireland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,11.456326268464997
+2007,Northern Ireland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,11.34162092347433
+2008,Northern Ireland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,11.613512721112812
+2009,Northern Ireland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,10.935950091406179
+2010,Northern Ireland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,10.50699358782684
+2011,Northern Ireland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,9.850060194812302
+2012,Northern Ireland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,9.403316806291674
+2013,Northern Ireland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,8.147613540516334
+2014,Northern Ireland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,7.379976426296993
+2015,Northern Ireland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,6.729296345814998
+2016,Northern Ireland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,7.026551659811855
+2017,Northern Ireland,10 to 19,Undefined,Units,"Birth rate per 1,000 women in age group",N92000002,6.157131417385888
