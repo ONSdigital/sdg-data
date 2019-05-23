@@ -1,21 +1,133 @@
-Year,Banking service,Observation status,Unit multiplier,Unit measure,Value
-2005,Automated teller machines (ATMs),Undefined,Units,"Number per 100,000 adults",117.650845649658
-2006,Automated teller machines (ATMs),Undefined,Units,"Number per 100,000 adults",120.940640267733
-2007,Automated teller machines (ATMs),Undefined,Units,"Number per 100,000 adults",125.816614017479
-2008,Automated teller machines (ATMs),Undefined,Units,"Number per 100,000 adults",125.593503249422
-2009,Automated teller machines (ATMs),Undefined,Units,"Number per 100,000 adults",121.192666906688
-2010,Automated teller machines (ATMs),Undefined,Units,"Number per 100,000 adults",121.96071607591401
-2011,Automated teller machines (ATMs),Undefined,Units,"Number per 100,000 adults",123.45697722124399
-2012,Automated teller machines (ATMs),Undefined,Units,"Number per 100,000 adults",125.94970918678301
-2013,Automated teller machines (ATMs),Undefined,Units,"Number per 100,000 adults",128.519408780396
-2014,Automated teller machines (ATMs),Undefined,Units,"Number per 100,000 adults",129.498950975324
-2015,Automated teller machines (ATMs),Undefined,Units,"Number per 100,000 adults",131.305956851378
-2016,Automated teller machines (ATMs),Undefined,Units,"Number per 100,000 adults",129.492222872419
-2010,Commerical bank branches and building societies,Undefined,Units,"Number per 100,000 adults",32.7910075240615
-2011,Commerical bank branches and building societies,Undefined,Units,"Number per 100,000 adults",30.880442237068895
-2012,Commerical bank branches and building societies,Undefined,Units,"Number per 100,000 adults",25.4232557731937
-2013,Commerical bank branches and building societies,Undefined,Units,"Number per 100,000 adults",24.7355793087826
-2014,Commerical bank branches and building societies,Undefined,Units,"Number per 100,000 adults",23.773610701775898
-2015,Commerical bank branches and building societies,Undefined,Units,"Number per 100,000 adults",23.6565483518851
-2016,Commerical bank branches and building societies,Undefined,Units,"Number per 100,000 adults",22.8177157078266
-2017,Commerical bank branches and building societies,Undefined,Units,"Number per 100,000 adults",21.527619816370397
+Year,Banking service,Country,Region,Observation status,Unit multiplier,Unit measure,GeoCode,Value
+2010,Commerical bank branches and building societies,,,Undefined,Units,"Number per 100,000 adults",,32.791007524099996
+2011,Commerical bank branches and building societies,,,Undefined,Units,"Number per 100,000 adults",,30.880442237068895
+2012,Commerical bank branches and building societies,,,Undefined,Units,"Number per 100,000 adults",,25.4232557731937
+2013,Commerical bank branches and building societies,,,Undefined,Units,"Number per 100,000 adults",,24.7355793087826
+2014,Commerical bank branches and building societies,,,Undefined,Units,"Number per 100,000 adults",,23.773610701775898
+2015,Commerical bank branches and building societies,,,Undefined,Units,"Number per 100,000 adults",,23.6565483518851
+2016,Commerical bank branches and building societies,,,Undefined,Units,"Number per 100,000 adults",,22.8177157078266
+2017,Commerical bank branches and building societies,,,Undefined,Units,"Number per 100,000 adults",,21.527619816370397
+2010,Commerical bank branches and building societies,England,,Undefined,Units,"Number per 100,000 adults",E92000001,32.53816025571416
+2011,Commerical bank branches and building societies,England,,Undefined,Units,"Number per 100,000 adults",E92000001,30.75189914420061
+2012,Commerical bank branches and building societies,England,,Undefined,Units,"Number per 100,000 adults",E92000001,25.17671417521721
+2013,Commerical bank branches and building societies,England,,Undefined,Units,"Number per 100,000 adults",E92000001,24.476501486032987
+2014,Commerical bank branches and building societies,England,,Undefined,Units,"Number per 100,000 adults",E92000001,23.44297379577319
+2015,Commerical bank branches and building societies,England,,Undefined,Units,"Number per 100,000 adults",E92000001,23.103137406059748
+2016,Commerical bank branches and building societies,England,,Undefined,Units,"Number per 100,000 adults",E92000001,22.176640703639336
+2017,Commerical bank branches and building societies,England,,Undefined,Units,"Number per 100,000 adults",E92000001,20.813645676264095
+2010,Commerical bank branches and building societies,Wales,,Undefined,Units,"Number per 100,000 adults",W92000004,32.97510912391651
+2011,Commerical bank branches and building societies,Wales,,Undefined,Units,"Number per 100,000 adults",W92000004,32.025312178027725
+2012,Commerical bank branches and building societies,Wales,,Undefined,Units,"Number per 100,000 adults",W92000004,27.00137941829637
+2013,Commerical bank branches and building societies,Wales,,Undefined,Units,"Number per 100,000 adults",W92000004,26.32947258750844
+2014,Commerical bank branches and building societies,Wales,,Undefined,Units,"Number per 100,000 adults",W92000004,25.845859182431344
+2015,Commerical bank branches and building societies,Wales,,Undefined,Units,"Number per 100,000 adults",W92000004,26.37286263461795
+2016,Commerical bank branches and building societies,Wales,,Undefined,Units,"Number per 100,000 adults",W92000004,25.289897516068734
+2017,Commerical bank branches and building societies,Wales,,Undefined,Units,"Number per 100,000 adults",W92000004,23.28238531693484
+2010,Commerical bank branches and building societies,Scotland,,Undefined,Units,"Number per 100,000 adults",S92000003,36.881684237857584
+2011,Commerical bank branches and building societies,Scotland,,Undefined,Units,"Number per 100,000 adults",S92000003,33.18224725026029
+2012,Commerical bank branches and building societies,Scotland,,Undefined,Units,"Number per 100,000 adults",S92000003,26.67781605085375
+2013,Commerical bank branches and building societies,Scotland,,Undefined,Units,"Number per 100,000 adults",S92000003,25.916992341975607
+2014,Commerical bank branches and building societies,Scotland,,Undefined,Units,"Number per 100,000 adults",S92000003,26.13944045580065
+2015,Commerical bank branches and building societies,Scotland,,Undefined,Units,"Number per 100,000 adults",S92000003,26.343006308153853
+2016,Commerical bank branches and building societies,Scotland,,Undefined,Units,"Number per 100,000 adults",S92000003,25.967041222898
+2017,Commerical bank branches and building societies,Scotland,,Undefined,Units,"Number per 100,000 adults",S92000003,25.10609242637995
+2010,Commerical bank branches and building societies,Northern Ireland,,Undefined,Units,"Number per 100,000 adults",N92000002,27.592162997943692
+2011,Commerical bank branches and building societies,Northern Ireland,,Undefined,Units,"Number per 100,000 adults",N92000002,26.405039590413256
+2012,Commerical bank branches and building societies,Northern Ireland,,Undefined,Units,"Number per 100,000 adults",N92000002,25.57405222562452
+2013,Commerical bank branches and building societies,Northern Ireland,,Undefined,Units,"Number per 100,000 adults",N92000002,25.482987557506608
+2014,Commerical bank branches and building societies,Northern Ireland,,Undefined,Units,"Number per 100,000 adults",N92000002,22.621103936882392
+2015,Commerical bank branches and building societies,Northern Ireland,,Undefined,Units,"Number per 100,000 adults",N92000002,27.859454088962288
+2016,Commerical bank branches and building societies,Northern Ireland,,Undefined,Units,"Number per 100,000 adults",N92000002,28.398991802380444
+2017,Commerical bank branches and building societies,Northern Ireland,,Undefined,Units,"Number per 100,000 adults",N92000002,28.620606570492555
+2010,Commerical bank branches and building societies,England,North East,Undefined,Units,"Number per 100,000 adults",E12000001,24.813976344627637
+2011,Commerical bank branches and building societies,England,North East,Undefined,Units,"Number per 100,000 adults",E12000001,23.093002912489535
+2012,Commerical bank branches and building societies,England,North East,Undefined,Units,"Number per 100,000 adults",E12000001,20.732731592674615
+2013,Commerical bank branches and building societies,England,North East,Undefined,Units,"Number per 100,000 adults",E12000001,20.436514770548452
+2014,Commerical bank branches and building societies,England,North East,Undefined,Units,"Number per 100,000 adults",E12000001,19.91851267778989
+2015,Commerical bank branches and building societies,England,North East,Undefined,Units,"Number per 100,000 adults",E12000001,20.111757379072348
+2016,Commerical bank branches and building societies,England,North East,Undefined,Units,"Number per 100,000 adults",E12000001,19.80774195839828
+2017,Commerical bank branches and building societies,England,North East,Undefined,Units,"Number per 100,000 adults",E12000001,19.089676939033932
+2010,Commerical bank branches and building societies,England,North West,Undefined,Units,"Number per 100,000 adults",E12000002,31.025583056263642
+2011,Commerical bank branches and building societies,England,North West,Undefined,Units,"Number per 100,000 adults",E12000002,28.270273437990056
+2012,Commerical bank branches and building societies,England,North West,Undefined,Units,"Number per 100,000 adults",E12000002,24.99528342425796
+2013,Commerical bank branches and building societies,England,North West,Undefined,Units,"Number per 100,000 adults",E12000002,24.434127812701306
+2014,Commerical bank branches and building societies,England,North West,Undefined,Units,"Number per 100,000 adults",E12000002,23.57991855819609
+2015,Commerical bank branches and building societies,England,North West,Undefined,Units,"Number per 100,000 adults",E12000002,23.54925971462025
+2016,Commerical bank branches and building societies,England,North West,Undefined,Units,"Number per 100,000 adults",E12000002,23.08261791258326
+2017,Commerical bank branches and building societies,England,North West,Undefined,Units,"Number per 100,000 adults",E12000002,21.245528781897267
+2010,Commerical bank branches and building societies,England,Yorkshire and The Humber,Undefined,Units,"Number per 100,000 adults",E12000003,30.05159164787672
+2011,Commerical bank branches and building societies,England,Yorkshire and The Humber,Undefined,Units,"Number per 100,000 adults",E12000003,25.943511562196587
+2012,Commerical bank branches and building societies,England,Yorkshire and The Humber,Undefined,Units,"Number per 100,000 adults",E12000003,23.298863198212107
+2013,Commerical bank branches and building societies,England,Yorkshire and The Humber,Undefined,Units,"Number per 100,000 adults",E12000003,22.87621124416998
+2014,Commerical bank branches and building societies,England,Yorkshire and The Humber,Undefined,Units,"Number per 100,000 adults",E12000003,22.225694672024726
+2015,Commerical bank branches and building societies,England,Yorkshire and The Humber,Undefined,Units,"Number per 100,000 adults",E12000003,22.227918988374686
+2016,Commerical bank branches and building societies,England,Yorkshire and The Humber,Undefined,Units,"Number per 100,000 adults",E12000003,20.98466324104196
+2017,Commerical bank branches and building societies,England,Yorkshire and The Humber,Undefined,Units,"Number per 100,000 adults",E12000003,19.907895784626085
+2010,Commerical bank branches and building societies,England,East Midlands,Undefined,Units,"Number per 100,000 adults",E12000004,29.51040362452143
+2011,Commerical bank branches and building societies,England,East Midlands,Undefined,Units,"Number per 100,000 adults",E12000004,23.43852793259932
+2012,Commerical bank branches and building societies,England,East Midlands,Undefined,Units,"Number per 100,000 adults",E12000004,21.964127551775142
+2013,Commerical bank branches and building societies,England,East Midlands,Undefined,Units,"Number per 100,000 adults",E12000004,21.42752540476333
+2014,Commerical bank branches and building societies,England,East Midlands,Undefined,Units,"Number per 100,000 adults",E12000004,20.458824985828677
+2015,Commerical bank branches and building societies,England,East Midlands,Undefined,Units,"Number per 100,000 adults",E12000004,20.293729108446072
+2016,Commerical bank branches and building societies,England,East Midlands,Undefined,Units,"Number per 100,000 adults",E12000004,19.20905806975091
+2017,Commerical bank branches and building societies,England,East Midlands,Undefined,Units,"Number per 100,000 adults",E12000004,18.156521403491485
+2010,Commerical bank branches and building societies,England,West Midlands,Undefined,Units,"Number per 100,000 adults",E12000005,28.80568760605605
+2011,Commerical bank branches and building societies,England,West Midlands,Undefined,Units,"Number per 100,000 adults",E12000005,27.914941428782658
+2012,Commerical bank branches and building societies,England,West Midlands,Undefined,Units,"Number per 100,000 adults",E12000005,23.518619593589587
+2013,Commerical bank branches and building societies,England,West Midlands,Undefined,Units,"Number per 100,000 adults",E12000005,22.963880080677608
+2014,Commerical bank branches and building societies,England,West Midlands,Undefined,Units,"Number per 100,000 adults",E12000005,21.960067812689406
+2015,Commerical bank branches and building societies,England,West Midlands,Undefined,Units,"Number per 100,000 adults",E12000005,21.70399327942232
+2016,Commerical bank branches and building societies,England,West Midlands,Undefined,Units,"Number per 100,000 adults",E12000005,21.301244519938493
+2017,Commerical bank branches and building societies,England,West Midlands,Undefined,Units,"Number per 100,000 adults",E12000005,19.885971744755388
+2010,Commerical bank branches and building societies,England,East,Undefined,Units,"Number per 100,000 adults",E12000007,26.588088745597002
+2011,Commerical bank branches and building societies,England,East,Undefined,Units,"Number per 100,000 adults",E12000007,25.800611629920997
+2012,Commerical bank branches and building societies,England,East,Undefined,Units,"Number per 100,000 adults",E12000007,22.95092022898225
+2013,Commerical bank branches and building societies,England,East,Undefined,Units,"Number per 100,000 adults",E12000007,22.27080481376295
+2014,Commerical bank branches and building societies,England,East,Undefined,Units,"Number per 100,000 adults",E12000007,21.434692737723886
+2015,Commerical bank branches and building societies,England,East,Undefined,Units,"Number per 100,000 adults",E12000007,20.8526863974518
+2016,Commerical bank branches and building societies,England,East,Undefined,Units,"Number per 100,000 adults",E12000007,20.404872484477366
+2017,Commerical bank branches and building societies,England,East,Undefined,Units,"Number per 100,000 adults",E12000007,19.01841596802053
+2010,Commerical bank branches and building societies,England,London,Undefined,Units,"Number per 100,000 adults",E12000007,45.143140419609686
+2011,Commerical bank branches and building societies,England,London,Undefined,Units,"Number per 100,000 adults",E12000007,45.2214840296167
+2012,Commerical bank branches and building societies,England,London,Undefined,Units,"Number per 100,000 adults",E12000007,32.51990990648521
+2013,Commerical bank branches and building societies,England,London,Undefined,Units,"Number per 100,000 adults",E12000007,31.134379654094108
+2014,Commerical bank branches and building societies,England,London,Undefined,Units,"Number per 100,000 adults",E12000007,29.35105470297385
+2015,Commerical bank branches and building societies,England,London,Undefined,Units,"Number per 100,000 adults",E12000007,28.229973513852702
+2016,Commerical bank branches and building societies,England,London,Undefined,Units,"Number per 100,000 adults",E12000007,26.38122324569109
+2017,Commerical bank branches and building societies,England,London,Undefined,Units,"Number per 100,000 adults",E12000007,25.34045606626585
+2010,Commerical bank branches and building societies,England,South East,Undefined,Units,"Number per 100,000 adults",E12000008,29.90849842186603
+2011,Commerical bank branches and building societies,England,South East,Undefined,Units,"Number per 100,000 adults",E12000008,28.46175793872219
+2012,Commerical bank branches and building societies,England,South East,Undefined,Units,"Number per 100,000 adults",E12000008,24.27087637113016
+2013,Commerical bank branches and building societies,England,South East,Undefined,Units,"Number per 100,000 adults",E12000008,23.537768079601964
+2014,Commerical bank branches and building societies,England,South East,Undefined,Units,"Number per 100,000 adults",E12000008,22.42901730450128
+2015,Commerical bank branches and building societies,England,South East,Undefined,Units,"Number per 100,000 adults",E12000008,22.11738355571852
+2016,Commerical bank branches and building societies,England,South East,Undefined,Units,"Number per 100,000 adults",E12000008,21.259958265689548
+2017,Commerical bank branches and building societies,England,South East,Undefined,Units,"Number per 100,000 adults",E12000008,20.156091459743113
+2010,Commerical bank branches and building societies,England,South West,Undefined,Units,"Number per 100,000 adults",E12000009,39.10512913786832
+2011,Commerical bank branches and building societies,England,South West,Undefined,Units,"Number per 100,000 adults",E12000009,38.904389249578315
+2012,Commerical bank branches and building societies,England,South West,Undefined,Units,"Number per 100,000 adults",E12000009,26.6483278398216
+2013,Commerical bank branches and building societies,England,South West,Undefined,Units,"Number per 100,000 adults",E12000009,26.01702669858385
+2014,Commerical bank branches and building societies,England,South West,Undefined,Units,"Number per 100,000 adults",E12000009,25.02925776893827
+2015,Commerical bank branches and building societies,England,South West,Undefined,Units,"Number per 100,000 adults",E12000009,24.815230385910727
+2016,Commerical bank branches and building societies,England,South West,Undefined,Units,"Number per 100,000 adults",E12000009,23.66163600024573
+2017,Commerical bank branches and building societies,England,South West,Undefined,Units,"Number per 100,000 adults",E12000009,21.237597835791753
+1998,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,52.136462145569276
+1999,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,58.43920939302485
+2000,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,66.06206940376151
+2001,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,75.61495738847184
+2002,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,87.110335399207
+2003,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,97.61555410760292
+2004,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,112.01347817988666
+2005,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,116.95350540661512
+2006,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,121.90242729551079
+2007,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,126.89804026002916
+2008,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,125.57325468111155
+2009,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,123.0541213867478
+2010,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,122.42234009278064
+2011,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,124.78688948685213
+2012,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,125.73509786667546
+2013,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,127.84468632027766
+2014,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,129.7255150986587
+2015,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,131.76744091858706
+2016,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,129.69874945577482
+2017,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,126.49205305379104
