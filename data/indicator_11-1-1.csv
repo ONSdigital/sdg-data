@@ -90,8 +90,9 @@ Year,Units,Urbanisation,Urbanisation sub-category,Household composition,Age of o
 2015,Dwelling (%),Rural,Rural residential,,,,,,,,,,,,Percentage (%),Undefined,Units,20.1990316310637
 2015,Dwelling (%),Rural,Village centre,,,,,,,,,,,,Percentage (%),Undefined,Units,31.0314586607088
 2015,Dwelling (%),Rural,Other rural area,,,,,,,,,,,,Percentage (%),Undefined,Units,42.624444843786
-2015,Dwelling (%),Urban,,,,,,,,,,,,,Percentage (%),Undefined,Units,26.1144305255438
-2015,Dwelling (%),Rural,,,,,,,,,,,North,,Percentage (%),Undefined,Units,20.0371376834
+2015,Dwelling (%),Urban,,,,,,,,,,,,,Percentage (%),Undefined,Units,23.004483997476964
+2014,Dwelling (%),Rural,,,,,,,,,,,,,Percentage (%),Undefined,Units,26.1144305255438
+2015,Dwelling (%),,,,,,,,,,,,North,,Percentage (%),Undefined,Units,20.0371376834
 2015,Dwelling (%),,,,,,,,,,,,South East,,Percentage (%),Undefined,Units,16.7934079568
 2015,Dwelling (%),,,,,,,,,,,,Rest of England,,Percentage (%),Undefined,Units,20.9416922656
 2008,Dwelling (%),,,,,,,,,,,,,Minimum standard,Percentage (%),Undefined,Units,21.771587522288
@@ -219,12 +220,13 @@ Year,Units,Urbanisation,Urbanisation sub-category,Household composition,Age of o
 2010,Dwelling (%),Urban,Other urban centre,,,,,,,,,,,Repair,Percentage (%),Undefined,Units,8.496
 2010,Dwelling (%),Suburban,,,,,,,,,,,,Repair,Percentage (%),Undefined,Units,4.627
 2010,Dwelling (%),Rural,Rural residential,,,,,,,,,,,Repair,Percentage (%),Undefined,Units,4.593
-2010,Dwelling (%),Rural,Village centre,,,,,,,,,,,Repair,Percentage (%),Undefined,Units,8.948
-2010,Dwelling (%),Rural,Other rural area,,,,,,,,,,,Repair,Percentage (%),Undefined,Units,8.693
-2010,Dwelling (%),Urban,,,,,,,,,,,,Repair,Percentage (%),Undefined,Units,5.192
-2010,Dwelling (%),Rural,,,,,,,,,,,North,Repair,Percentage (%),Undefined,Units,6.174
+2010,Dwelling (%),Rural,Village centre,,,,,,,,,,,Repair,Percentage (%),Undefined,Units,
+2010,Dwelling (%),Rural,Other rural area,,,,,,,,,,,Repair,Percentage (%),Undefined,Units,8.948
+2010,Dwelling (%),Urban,,,,,,,,,,,,Repair,Percentage (%),Undefined,Units,8.693
+2010,Dwelling (%),Rural,,,,,,,,,,,,Repair,Percentage (%),Undefined,Units,5.192
+2010,Dwelling (%),,,,,,,,,,,,North,Repair,Percentage (%),Undefined,Units,6.174
 2010,Dwelling (%),,,,,,,,,,,,South East,Repair,Percentage (%),Undefined,Units,5.294
-2010,Dwelling (%),,,,,,,,,,,,Rest of England,Repair,Percentage (%),Undefined,Units,5.374
+2011,Dwelling (%),,,,,,,,,,,,Rest of England,,Percentage (%),Undefined,Units,5.374
 2011,Dwelling (%),,,,,,,,,,,,,Repair,Percentage (%),Undefined,Units,5.233
 2011,Dwelling (%),Urban,City centre,,,,,,,,,,,Repair,Percentage (%),Undefined,Units,8.641
 2011,Dwelling (%),Urban,Other urban centre,,,,,,,,,,,Repair,Percentage (%),Undefined,Units,8.034
@@ -529,7 +531,6 @@ Year,Units,Urbanisation,Urbanisation sub-category,Household composition,Age of o
 2016,Dwelling (%),,,,,,,,,,,,North,Thermal comfort,Percentage (%),Undefined,Units,4.27026022794265
 2016,Dwelling (%),,,,,,,,,,,,South East,Thermal comfort,Percentage (%),Undefined,Units,7.23662800285854
 2016,Dwelling (%),,,,,,,,,,,,Rest of England,Thermal comfort,Percentage (%),Undefined,Units,7.57335656198009
-2008,Household (%),,,Couple under 60,,,,,,,,,,,Percentage (%),Undefined,Units,32.0785913458
 2008,Household (%),,,Couple 60 or over,,,,,,,,,,,Percentage (%),Undefined,Units,30.1277921025
 2008,Household (%),,,Couple with children,,,,,,,,,,,Percentage (%),Undefined,Units,30.1891902782
 2008,Household (%),,,Lone parent,,,,,,,,,,,Percentage (%),Undefined,Units,31.1315986189
