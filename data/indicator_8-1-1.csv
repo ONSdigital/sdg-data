@@ -1,18 +1,267 @@
-Year,Value
-2000,3.3
-2001,2.1
-2002,2
-2003,2.9
-2004,1.8
-2005,2.3
-2006,1.8
-2007,1.5
-2008,-1.3
-2009,-4.9
-2010,0.9
-2011,0.6
-2012,0.8
-2013,1.4
-2014,2.3
-2015,1.5
-2016,1
+Year,Units,Unit measure,Unit multiplier,Geography,Observation status,Value
+2000.0,GDP Growth,Percentage change (%),Units,,Undefined,3.1
+2001.0,GDP Growth,Percentage change (%),Units,,Undefined,2.4
+2002.0,GDP Growth,Percentage change (%),Units,,Undefined,2.1
+2003.0,GDP Growth,Percentage change (%),Units,,Undefined,2.9
+2004.0,GDP Growth,Percentage change (%),Units,,Undefined,1.8
+2005.0,GDP Growth,Percentage change (%),Units,,Undefined,2.4
+2006.0,GDP Growth,Percentage change (%),Units,,Undefined,1.8
+2007.0,GDP Growth,Percentage change (%),Units,,Undefined,1.7
+2008.0,GDP Growth,Percentage change (%),Units,,Undefined,-1.2
+2009.0,GDP Growth,Percentage change (%),Units,,Undefined,-4.9
+2010.0,GDP Growth,Percentage change (%),Units,,Undefined,0.9
+2011.0,GDP Growth,Percentage change (%),Units,,Undefined,0.8
+2012.0,GDP Growth,Percentage change (%),Units,,Undefined,0.8
+2013.0,GDP Growth,Percentage change (%),Units,,Undefined,1.4
+2014.0,GDP Growth,Percentage change (%),Units,,Undefined,2.2
+2015.0,GDP Growth,Percentage change (%),Units,,Undefined,1.5
+2016.0,GDP Growth,Percentage change (%),Units,,Undefined,1.0
+2017.0,GDP Growth,Percentage change (%),Units,,Undefined,1.2
+2018.0,GDP Growth,Percentage change (%),Units,,Undefined,0.7
+1999.0,GVA per Head,Percentage change (%),Units,,Undefined,3.175538532050023
+2000.0,GVA per Head,Percentage change (%),Units,,Undefined,5.267165883995431
+2001.0,GVA per Head,Percentage change (%),Units,,Undefined,3.538702676633711
+2002.0,GVA per Head,Percentage change (%),Units,,Undefined,4.419213973799127
+2003.0,GVA per Head,Percentage change (%),Units,,Undefined,5.414296866287499
+2004.0,GVA per Head,Percentage change (%),Units,,Undefined,4.18407828616768
+2005.0,GVA per Head,Percentage change (%),Units,,Undefined,5.143176279447603
+2006.0,GVA per Head,Percentage change (%),Units,,Undefined,4.872277753633686
+2007.0,GVA per Head,Percentage change (%),Units,,Undefined,4.245326457316511
+2008.0,GVA per Head,Percentage change (%),Units,,Undefined,2.137809187279152
+2009.0,GVA per Head,Percentage change (%),Units,,Undefined,-2.759038228680159
+2010.0,GVA per Head,Percentage change (%),Units,,Undefined,1.3030329983100597
+2011.0,GVA per Head,Percentage change (%),Units,,Undefined,1.8569735282497037
+2012.0,GVA per Head,Percentage change (%),Units,,Undefined,2.4911645547797603
+2013.0,GVA per Head,Percentage change (%),Units,,Undefined,3.2001682085786376
+2014.0,GVA per Head,Percentage change (%),Units,,Undefined,3.82624994906483
+2015.0,GVA per Head,Percentage change (%),Units,,Undefined,1.989795918367347
+2016.0,GVA per Head,Percentage change (%),Units,,Undefined,2.9322353484434527
+2017.0,GVA per Head,Percentage change (%),Units,,Undefined,3.013196755018879
+1999.0,GVA per Head,Percentage change (%),Units,North East,Undefined,1.8594306049822065
+2000.0,GVA per Head,Percentage change (%),Units,North East,Undefined,3.458817363961918
+2001.0,GVA per Head,Percentage change (%),Units,North East,Undefined,4.263402279442803
+2002.0,GVA per Head,Percentage change (%),Units,North East,Undefined,7.489878542510121
+2003.0,GVA per Head,Percentage change (%),Units,North East,Undefined,5.52165725047081
+2004.0,GVA per Head,Percentage change (%),Units,North East,Undefined,7.381496287835523
+2005.0,GVA per Head,Percentage change (%),Units,North East,Undefined,5.065815715995213
+2006.0,GVA per Head,Percentage change (%),Units,North East,Undefined,4.67603138445963
+2007.0,GVA per Head,Percentage change (%),Units,North East,Undefined,2.2184609804751254
+2008.0,GVA per Head,Percentage change (%),Units,North East,Undefined,1.9751626256652868
+2009.0,GVA per Head,Percentage change (%),Units,North East,Undefined,-1.049640454650893
+2010.0,GVA per Head,Percentage change (%),Units,North East,Undefined,0.46299009552833614
+2011.0,GVA per Head,Percentage change (%),Units,North East,Undefined,1.960098004900245
+2012.0,GVA per Head,Percentage change (%),Units,North East,Undefined,2.1341114543998168
+2013.0,GVA per Head,Percentage change (%),Units,North East,Undefined,1.590947285866338
+2014.0,GVA per Head,Percentage change (%),Units,North East,Undefined,3.3746898263027294
+2015.0,GVA per Head,Percentage change (%),Units,North East,Undefined,2.9604736757881263
+2016.0,GVA per Head,Percentage change (%),Units,North East,Undefined,1.4402652574862709
+2017.0,GVA per Head,Percentage change (%),Units,North East,Undefined,2.80388151174668
+1999.0,GVA per Head,Percentage change (%),Units,North West,Undefined,4.632426988922457
+2000.0,GVA per Head,Percentage change (%),Units,North West,Undefined,2.0804027541274897
+2001.0,GVA per Head,Percentage change (%),Units,North West,Undefined,6.114012184508268
+2002.0,GVA per Head,Percentage change (%),Units,North West,Undefined,5.7138951541248035
+2003.0,GVA per Head,Percentage change (%),Units,North West,Undefined,5.767117087993793
+2004.0,GVA per Head,Percentage change (%),Units,North West,Undefined,4.29732868757259
+2005.0,GVA per Head,Percentage change (%),Units,North West,Undefined,4.354706365021686
+2006.0,GVA per Head,Percentage change (%),Units,North West,Undefined,5.689413086211738
+2007.0,GVA per Head,Percentage change (%),Units,North West,Undefined,3.7251567647996597
+2008.0,GVA per Head,Percentage change (%),Units,North West,Undefined,1.168092627696091
+2009.0,GVA per Head,Percentage change (%),Units,North West,Undefined,-0.36461234617916644
+2010.0,GVA per Head,Percentage change (%),Units,North West,Undefined,1.1639135959339264
+2011.0,GVA per Head,Percentage change (%),Units,North West,Undefined,0.09545819935691319
+2012.0,GVA per Head,Percentage change (%),Units,North West,Undefined,2.9714400441700546
+2013.0,GVA per Head,Percentage change (%),Units,North West,Undefined,2.8174506458688766
+2014.0,GVA per Head,Percentage change (%),Units,North West,Undefined,3.166927416678519
+2015.0,GVA per Head,Percentage change (%),Units,North West,Undefined,3.5246541978769357
+2016.0,GVA per Head,Percentage change (%),Units,North West,Undefined,2.7521306818181817
+2017.0,GVA per Head,Percentage change (%),Units,North West,Undefined,3.3264212890962503
+1999.0,GVA per Head,Percentage change (%),Units,Yorkshire and The Humber,Undefined,1.9276346974245537
+2000.0,GVA per Head,Percentage change (%),Units,Yorkshire and The Humber,Undefined,3.782359324135793
+2001.0,GVA per Head,Percentage change (%),Units,Yorkshire and The Humber,Undefined,4.309185959671397
+2002.0,GVA per Head,Percentage change (%),Units,Yorkshire and The Humber,Undefined,6.092933342879645
+2003.0,GVA per Head,Percentage change (%),Units,Yorkshire and The Humber,Undefined,6.019705763260899
+2004.0,GVA per Head,Percentage change (%),Units,Yorkshire and The Humber,Undefined,4.952259707192871
+2005.0,GVA per Head,Percentage change (%),Units,Yorkshire and The Humber,Undefined,4.093886462882096
+2006.0,GVA per Head,Percentage change (%),Units,Yorkshire and The Humber,Undefined,4.48056866515178
+2007.0,GVA per Head,Percentage change (%),Units,Yorkshire and The Humber,Undefined,5.336828016952933
+2008.0,GVA per Head,Percentage change (%),Units,Yorkshire and The Humber,Undefined,-1.0376409550532055
+2009.0,GVA per Head,Percentage change (%),Units,Yorkshire and The Humber,Undefined,-1.214358315947146
+2010.0,GVA per Head,Percentage change (%),Units,Yorkshire and The Humber,Undefined,-0.563197227336727
+2011.0,GVA per Head,Percentage change (%),Units,Yorkshire and The Humber,Undefined,1.3887376102821043
+2012.0,GVA per Head,Percentage change (%),Units,Yorkshire and The Humber,Undefined,1.546973196540796
+2013.0,GVA per Head,Percentage change (%),Units,Yorkshire and The Humber,Undefined,2.1687384289870404
+2014.0,GVA per Head,Percentage change (%),Units,Yorkshire and The Humber,Undefined,2.4644059021485893
+2015.0,GVA per Head,Percentage change (%),Units,Yorkshire and The Humber,Undefined,4.01697741397605
+2016.0,GVA per Head,Percentage change (%),Units,Yorkshire and The Humber,Undefined,2.0256484989798893
+2017.0,GVA per Head,Percentage change (%),Units,Yorkshire and The Humber,Undefined,2.0139980002856737
+1999.0,GVA per Head,Percentage change (%),Units,East Midlands,Undefined,1.4623000761614624
+2000.0,GVA per Head,Percentage change (%),Units,East Midlands,Undefined,3.422909473052094
+2001.0,GVA per Head,Percentage change (%),Units,East Midlands,Undefined,3.09914356220061
+2002.0,GVA per Head,Percentage change (%),Units,East Midlands,Undefined,3.5339669130587823
+2003.0,GVA per Head,Percentage change (%),Units,East Midlands,Undefined,4.691643435098933
+2004.0,GVA per Head,Percentage change (%),Units,East Midlands,Undefined,3.3837760602714813
+2005.0,GVA per Head,Percentage change (%),Units,East Midlands,Undefined,4.636260836788542
+2006.0,GVA per Head,Percentage change (%),Units,East Midlands,Undefined,4.875120076849184
+2007.0,GVA per Head,Percentage change (%),Units,East Midlands,Undefined,3.27455919395466
+2008.0,GVA per Head,Percentage change (%),Units,East Midlands,Undefined,1.7073170731707317
+2009.0,GVA per Head,Percentage change (%),Units,East Midlands,Undefined,-3.2919119250054503
+2010.0,GVA per Head,Percentage change (%),Units,East Midlands,Undefined,2.81785392245266
+2011.0,GVA per Head,Percentage change (%),Units,East Midlands,Undefined,2.0719140539355405
+2012.0,GVA per Head,Percentage change (%),Units,East Midlands,Undefined,2.309096767264526
+2013.0,GVA per Head,Percentage change (%),Units,East Midlands,Undefined,3.663657358807474
+2014.0,GVA per Head,Percentage change (%),Units,East Midlands,Undefined,3.4177215189873418
+2015.0,GVA per Head,Percentage change (%),Units,East Midlands,Undefined,1.7282741738066096
+2016.0,GVA per Head,Percentage change (%),Units,East Midlands,Undefined,2.6807199922995477
+2017.0,GVA per Head,Percentage change (%),Units,East Midlands,Undefined,2.3904382470119523
+1999.0,GVA per Head,Percentage change (%),Units,West Midlands,Undefined,2.220736779560309
+2000.0,GVA per Head,Percentage change (%),Units,West Midlands,Undefined,3.044394390757829
+2001.0,GVA per Head,Percentage change (%),Units,West Midlands,Undefined,2.8063742772528557
+2002.0,GVA per Head,Percentage change (%),Units,West Midlands,Undefined,3.820301783264746
+2003.0,GVA per Head,Percentage change (%),Units,West Midlands,Undefined,4.432846667107088
+2004.0,GVA per Head,Percentage change (%),Units,West Midlands,Undefined,4.251012145748988
+2005.0,GVA per Head,Percentage change (%),Units,West Midlands,Undefined,3.9016990291262137
+2006.0,GVA per Head,Percentage change (%),Units,West Midlands,Undefined,3.416457396484261
+2007.0,GVA per Head,Percentage change (%),Units,West Midlands,Undefined,2.202394398012198
+2008.0,GVA per Head,Percentage change (%),Units,West Midlands,Undefined,1.2763841308431871
+2009.0,GVA per Head,Percentage change (%),Units,West Midlands,Undefined,-4.01003873642861
+2010.0,GVA per Head,Percentage change (%),Units,West Midlands,Undefined,2.6599977264976697
+2011.0,GVA per Head,Percentage change (%),Units,West Midlands,Undefined,2.7848521758387776
+2012.0,GVA per Head,Percentage change (%),Units,West Midlands,Undefined,2.6286022084567735
+2013.0,GVA per Head,Percentage change (%),Units,West Midlands,Undefined,4.083346454626568
+2014.0,GVA per Head,Percentage change (%),Units,West Midlands,Undefined,4.417326408148858
+2015.0,GVA per Head,Percentage change (%),Units,West Midlands,Undefined,2.907229439320037
+2016.0,GVA per Head,Percentage change (%),Units,West Midlands,Undefined,3.665118025247548
+2017.0,GVA per Head,Percentage change (%),Units,West Midlands,Undefined,2.820280669986419
+1999.0,GVA per Head,Percentage change (%),Units,East of England,Undefined,2.536824877250409
+2000.0,GVA per Head,Percentage change (%),Units,East of England,Undefined,4.8483639265762175
+2001.0,GVA per Head,Percentage change (%),Units,East of England,Undefined,4.097684744687599
+2002.0,GVA per Head,Percentage change (%),Units,East of England,Undefined,3.7840472853573823
+2003.0,GVA per Head,Percentage change (%),Units,East of England,Undefined,5.554250821982151
+2004.0,GVA per Head,Percentage change (%),Units,East of England,Undefined,2.5586828345755923
+2005.0,GVA per Head,Percentage change (%),Units,East of England,Undefined,4.425642694435405
+2006.0,GVA per Head,Percentage change (%),Units,East of England,Undefined,4.196530591046017
+2007.0,GVA per Head,Percentage change (%),Units,East of England,Undefined,2.9658060013956735
+2008.0,GVA per Head,Percentage change (%),Units,East of England,Undefined,2.6964225202110663
+2009.0,GVA per Head,Percentage change (%),Units,East of England,Undefined,-3.4552653907796738
+2010.0,GVA per Head,Percentage change (%),Units,East of England,Undefined,0.283189297397588
+2011.0,GVA per Head,Percentage change (%),Units,East of England,Undefined,0.5355664832757193
+2012.0,GVA per Head,Percentage change (%),Units,East of England,Undefined,2.36331057194053
+2013.0,GVA per Head,Percentage change (%),Units,East of England,Undefined,3.448928419359417
+2014.0,GVA per Head,Percentage change (%),Units,East of England,Undefined,4.180005487972195
+2015.0,GVA per Head,Percentage change (%),Units,East of England,Undefined,2.6470588235294117
+2016.0,GVA per Head,Percentage change (%),Units,East of England,Undefined,2.497540948552367
+2017.0,GVA per Head,Percentage change (%),Units,East of England,Undefined,3.3587849960362166
+1999.0,GVA per Head,Percentage change (%),Units,London,Undefined,3.8938340852741535
+2000.0,GVA per Head,Percentage change (%),Units,London,Undefined,6.556863972458042
+2001.0,GVA per Head,Percentage change (%),Units,London,Undefined,2.4598891214157215
+2002.0,GVA per Head,Percentage change (%),Units,London,Undefined,3.7839968466692944
+2003.0,GVA per Head,Percentage change (%),Units,London,Undefined,6.529019783862169
+2004.0,GVA per Head,Percentage change (%),Units,London,Undefined,4.66390095287483
+2005.0,GVA per Head,Percentage change (%),Units,London,Undefined,6.636113089524046
+2006.0,GVA per Head,Percentage change (%),Units,London,Undefined,4.869903589267046
+2007.0,GVA per Head,Percentage change (%),Units,London,Undefined,7.642677152272035
+2008.0,GVA per Head,Percentage change (%),Units,London,Undefined,1.288812286162632
+2009.0,GVA per Head,Percentage change (%),Units,London,Undefined,-3.090872149133946
+2010.0,GVA per Head,Percentage change (%),Units,London,Undefined,1.016851429619729
+2011.0,GVA per Head,Percentage change (%),Units,London,Undefined,2.628097029446102
+2012.0,GVA per Head,Percentage change (%),Units,London,Undefined,3.4582132564841497
+2013.0,GVA per Head,Percentage change (%),Units,London,Undefined,3.1129355421981137
+2014.0,GVA per Head,Percentage change (%),Units,London,Undefined,5.521327014218009
+2015.0,GVA per Head,Percentage change (%),Units,London,Undefined,0.9521670783741298
+2016.0,GVA per Head,Percentage change (%),Units,London,Undefined,4.936156960448458
+2017.0,GVA per Head,Percentage change (%),Units,London,Undefined,3.569838678905306
+1999.0,GVA per Head,Percentage change (%),Units,South East,Undefined,3.6409474671669795
+2000.0,GVA per Head,Percentage change (%),Units,South East,Undefined,4.395542230016406
+2001.0,GVA per Head,Percentage change (%),Units,South East,Undefined,3.0616668472959794
+2002.0,GVA per Head,Percentage change (%),Units,South East,Undefined,5.2578999947421
+2003.0,GVA per Head,Percentage change (%),Units,South East,Undefined,4.3508666766571755
+2004.0,GVA per Head,Percentage change (%),Units,South East,Undefined,2.565820966969842
+2005.0,GVA per Head,Percentage change (%),Units,South East,Undefined,4.088490618874265
+2006.0,GVA per Head,Percentage change (%),Units,South East,Undefined,4.035512510088782
+2007.0,GVA per Head,Percentage change (%),Units,South East,Undefined,3.7496767520041376
+2008.0,GVA per Head,Percentage change (%),Units,South East,Undefined,3.9755732801595216
+2009.0,GVA per Head,Percentage change (%),Units,South East,Undefined,-3.0364776858843743
+2010.0,GVA per Head,Percentage change (%),Units,South East,Undefined,1.5863859244303433
+2011.0,GVA per Head,Percentage change (%),Units,South East,Undefined,1.5251074876287825
+2012.0,GVA per Head,Percentage change (%),Units,South East,Undefined,2.7886536156612065
+2013.0,GVA per Head,Percentage change (%),Units,South East,Undefined,3.264925373134328
+2014.0,GVA per Head,Percentage change (%),Units,South East,Undefined,3.316019271303824
+2015.0,GVA per Head,Percentage change (%),Units,South East,Undefined,3.111224452621225
+2016.0,GVA per Head,Percentage change (%),Units,South East,Undefined,1.515740380878352
+2017.0,GVA per Head,Percentage change (%),Units,South East,Undefined,2.3771404705554784
+1999.0,GVA per Head,Percentage change (%),Units,South West,Undefined,3.696654710489715
+2000.0,GVA per Head,Percentage change (%),Units,South West,Undefined,4.2001976563603
+2001.0,GVA per Head,Percentage change (%),Units,South West,Undefined,4.369622654291715
+2002.0,GVA per Head,Percentage change (%),Units,South West,Undefined,4.082824873425938
+2003.0,GVA per Head,Percentage change (%),Units,South West,Undefined,4.945431867789211
+2004.0,GVA per Head,Percentage change (%),Units,South West,Undefined,4.439030187782268
+2005.0,GVA per Head,Percentage change (%),Units,South West,Undefined,3.806543385490754
+2006.0,GVA per Head,Percentage change (%),Units,South West,Undefined,3.798509098881824
+2007.0,GVA per Head,Percentage change (%),Units,South West,Undefined,3.4113111897343824
+2008.0,GVA per Head,Percentage change (%),Units,South West,Undefined,3.0843078180054126
+2009.0,GVA per Head,Percentage change (%),Units,South West,Undefined,-1.585178580274434
+2010.0,GVA per Head,Percentage change (%),Units,South West,Undefined,1.7264810993104143
+2011.0,GVA per Head,Percentage change (%),Units,South West,Undefined,0.44532409698169223
+2012.0,GVA per Head,Percentage change (%),Units,South West,Undefined,2.41871921182266
+2013.0,GVA per Head,Percentage change (%),Units,South West,Undefined,2.7800490596892886
+2014.0,GVA per Head,Percentage change (%),Units,South West,Undefined,4.38017689175909
+2015.0,GVA per Head,Percentage change (%),Units,South West,Undefined,1.0849585294776956
+2016.0,GVA per Head,Percentage change (%),Units,South West,Undefined,2.332904599281501
+2017.0,GVA per Head,Percentage change (%),Units,South West,Undefined,1.846313873358471
+1999.0,GVA per Head,Percentage change (%),Units,Wales,Undefined,1.2850053172633817
+2000.0,GVA per Head,Percentage change (%),Units,Wales,Undefined,4.891066585003062
+2001.0,GVA per Head,Percentage change (%),Units,Wales,Undefined,2.3857190523857192
+2002.0,GVA per Head,Percentage change (%),Units,Wales,Undefined,4.7091412742382275
+2003.0,GVA per Head,Percentage change (%),Units,Wales,Undefined,5.93681917211329
+2004.0,GVA per Head,Percentage change (%),Units,Wales,Undefined,5.031215571061329
+2005.0,GVA per Head,Percentage change (%),Units,Wales,Undefined,4.419580419580419
+2006.0,GVA per Head,Percentage change (%),Units,Wales,Undefined,4.93570854540584
+2007.0,GVA per Head,Percentage change (%),Units,Wales,Undefined,2.9804071733997066
+2008.0,GVA per Head,Percentage change (%),Units,Wales,Undefined,-0.9667823500247893
+2009.0,GVA per Head,Percentage change (%),Units,Wales,Undefined,-1.6082603254067585
+2010.0,GVA per Head,Percentage change (%),Units,Wales,Undefined,1.9589136933155251
+2011.0,GVA per Head,Percentage change (%),Units,Wales,Undefined,3.9111721040484064
+2012.0,GVA per Head,Percentage change (%),Units,Wales,Undefined,3.2777044062912712
+2013.0,GVA per Head,Percentage change (%),Units,Wales,Undefined,3.17949314112997
+2014.0,GVA per Head,Percentage change (%),Units,Wales,Undefined,2.118190524477494
+2015.0,GVA per Head,Percentage change (%),Units,Wales,Undefined,3.116897445799084
+2016.0,GVA per Head,Percentage change (%),Units,Wales,Undefined,3.616520436550396
+2017.0,GVA per Head,Percentage change (%),Units,Wales,Undefined,2.741635687732342
+1999.0,GVA per Head,Percentage change (%),Units,Scotland,Undefined,0.5220796171416141
+2000.0,GVA per Head,Percentage change (%),Units,Scotland,Undefined,5.071052441751425
+2001.0,GVA per Head,Percentage change (%),Units,Scotland,Undefined,5.293148427845668
+2002.0,GVA per Head,Percentage change (%),Units,Scotland,Undefined,4.368520571167764
+2003.0,GVA per Head,Percentage change (%),Units,Scotland,Undefined,6.016117948397576
+2004.0,GVA per Head,Percentage change (%),Units,Scotland,Undefined,5.880966411314084
+2005.0,GVA per Head,Percentage change (%),Units,Scotland,Undefined,6.09973285841496
+2006.0,GVA per Head,Percentage change (%),Units,Scotland,Undefined,5.06189676877885
+2007.0,GVA per Head,Percentage change (%),Units,Scotland,Undefined,3.924309750861251
+2008.0,GVA per Head,Percentage change (%),Units,Scotland,Undefined,3.0170550084073984
+2009.0,GVA per Head,Percentage change (%),Units,Scotland,Undefined,-0.33577391223243014
+2010.0,GVA per Head,Percentage change (%),Units,Scotland,Undefined,-1.4646015628655655
+2011.0,GVA per Head,Percentage change (%),Units,Scotland,Undefined,1.8710228891632634
+2012.0,GVA per Head,Percentage change (%),Units,Scotland,Undefined,2.9927279507738205
+2013.0,GVA per Head,Percentage change (%),Units,Scotland,Undefined,4.566850728704626
+2014.0,GVA per Head,Percentage change (%),Units,Scotland,Undefined,4.427996364108557
+2015.0,GVA per Head,Percentage change (%),Units,Scotland,Undefined,0.2611290723700572
+2016.0,GVA per Head,Percentage change (%),Units,Scotland,Undefined,2.480466327669602
+2017.0,GVA per Head,Percentage change (%),Units,Scotland,Undefined,2.8076969623623382
+1999.0,GVA per Head,Percentage change (%),Units,Northern Ireland,Undefined,4.14512093411176
+2000.0,GVA per Head,Percentage change (%),Units,Northern Ireland,Undefined,6.887162649155122
+2001.0,GVA per Head,Percentage change (%),Units,Northern Ireland,Undefined,3.1467745560800178
+2002.0,GVA per Head,Percentage change (%),Units,Northern Ireland,Undefined,2.723904990193942
+2003.0,GVA per Head,Percentage change (%),Units,Northern Ireland,Undefined,7.912600763682647
+2004.0,GVA per Head,Percentage change (%),Units,Northern Ireland,Undefined,4.305091409475133
+2005.0,GVA per Head,Percentage change (%),Units,Northern Ireland,Undefined,5.283327051137078
+2006.0,GVA per Head,Percentage change (%),Units,Northern Ireland,Undefined,4.642281759054836
+2007.0,GVA per Head,Percentage change (%),Units,Northern Ireland,Undefined,2.8568170154530423
+2008.0,GVA per Head,Percentage change (%),Units,Northern Ireland,Undefined,-0.3548065195697971
+2009.0,GVA per Head,Percentage change (%),Units,Northern Ireland,Undefined,-2.4257260487370647
+2010.0,GVA per Head,Percentage change (%),Units,Northern Ireland,Undefined,-1.1517846960884937
+2011.0,GVA per Head,Percentage change (%),Units,Northern Ireland,Undefined,1.972773419473927
+2012.0,GVA per Head,Percentage change (%),Units,Northern Ireland,Undefined,3.3261681185654486
+2013.0,GVA per Head,Percentage change (%),Units,Northern Ireland,Undefined,2.058469287200263
+2014.0,GVA per Head,Percentage change (%),Units,Northern Ireland,Undefined,2.574831026713872
+2015.0,GVA per Head,Percentage change (%),Units,Northern Ireland,Undefined,2.4056061081476834
+2016.0,GVA per Head,Percentage change (%),Units,Northern Ireland,Undefined,4.836073945460116
+2017.0,GVA per Head,Percentage change (%),Units,Northern Ireland,Undefined,3.1321545131277704
