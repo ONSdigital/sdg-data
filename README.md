@@ -60,6 +60,7 @@ Statistics generated from the data and metadata. Currently just the reporting st
 /stats/reporting.json
 ```
 
+
 ## Build time routes
 
 At build time you'll need everything. Rather than making you download each indicator separately we have an ID of `all` which you can use.
