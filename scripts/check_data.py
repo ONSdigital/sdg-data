@@ -7,6 +7,11 @@ Created on 2017-10-04
 
 # %% setup
 
-import output
+from sdg.build import build_data
 
-output.opensdg_output.validate()
+if __name__ == '__main__':
+    status = build_data()
+    if(not status):
+        raise RuntimeError("Failed data build")
+    else:
+        print("Success")
