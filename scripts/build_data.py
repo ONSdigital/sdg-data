@@ -9,11 +9,6 @@ output the main data, edges, and headline in csv and json format.
 
 """
 
-from sdg.build import build_data
+import output
 
-if __name__ == '__main__':
-    status = build_data()
-    if(not status):
-        raise RuntimeError("Failed data build")
-    else:
-        print("Success")
+output.opensdg_output.execute()
