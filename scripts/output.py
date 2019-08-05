@@ -24,7 +24,7 @@ sdmx_files = glob.glob(os.path.join('data/', '*.xml'))
 inputs = []
 for sdmx_file in sdmx_files:
     # Create the input object.
-    data_input = sdg.inputs.InputSdmxMl_Structure(
+    data_input = sdg.inputs.InputSdmxMl_StructureSpecific(
         source=sdmx_file,
         dimension_map=dimension_map,
         dsd=dsd,
