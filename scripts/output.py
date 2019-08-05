@@ -18,6 +18,10 @@ dsd = os.path.join('SDG_DSD.KG.xml')
 # series code. This is used to map series codes to indicator ids.
 indicator_id_xpath = ".//Name"
 indicator_name_xpath = ".//Name"
+indicator_id_map = {
+    'SI_POV_DAY1': '1-1-1'
+}
+
 
 # Read all the files.
 sdmx_files = glob.glob(os.path.join('data/', '*.xml'))
