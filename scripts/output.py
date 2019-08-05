@@ -32,6 +32,7 @@ for sdmx_file in sdmx_files:
         source=sdmx_file,
         dimension_map=dimension_map,
         dsd=dsd,
+        indicator_id_map=indicator_id_map,
         indicator_id_xpath=indicator_id_xpath,
         indicator_name_xpath=indicator_name_xpath
     )
