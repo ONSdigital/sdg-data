@@ -34,7 +34,7 @@ for sdmx_file in sdmx_files:
     inputs.append(data_input)
 
 # Use the Prose.io file for the metadata schema.
-schema_path = os.path.join('tests', '_prose.yml')
+schema_path = os.path.join('_prose.yml')
 schema = sdg.schemas.SchemaInputOpenSdg(schema_path=schema_path)
 
 # Create an "output" from these inputs and schema, for JSON for Open SDG.
