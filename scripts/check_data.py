@@ -7,11 +7,20 @@ Created on 2017-10-04
 
 # %% setup
 
-from sdg.build import build_data
+import sdg
+
+def main():
+    """Run csv checks on all indicator csvs in the data directory"""
+    status = True
+
+    status = status & sdg.check_all_csv()
+    status = status & sdg.check_all_meta()
+
+    return status
 
 if __name__ == '__main__':
-    status = build_data()
+    status = main()
     if(not status):
-        raise RuntimeError("Failed data build")
+        raise RuntimeError("Failed checks")
     else:
         print("Success")
