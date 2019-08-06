@@ -1,6 +1,21 @@
 import os
 import sdg
 import glob
+import pandas as pd
+
+def csv2mapping(csv):
+    df = pd.read_csv(csv)
+    for index, row in df.iterrows():
+        if "," in row["Indicator Code"]:
+            codes=row["Indicator Code"].split(", ")
+            for code in codes:
+                df =df.append(pd.DataFrame([[row["DSD Code"],code]], columns=["DSD Code", "Indicator Code"]))
+            df=df.drop(index)
+    for index, row in df.iterrows():
+        row["Indicator Code"]=row["Indicator Code"].replace(" ", "")
+    dict=df.set_index('DSD Code').to_dict()['Indicator Code']
+    return dict
+
 
 # Control how the SDMX dimensions are mapped to Open SDG output. Because the
 # Open SDG platform relies on a particular "Units" column, we control that here.
@@ -18,9 +33,7 @@ dsd = os.path.join('SDG_DSD.KG.xml')
 # series code. This is used to map series codes to indicator ids.
 indicator_id_xpath = ".//Name"
 indicator_name_xpath = ".//Name"
-indicator_id_map = {
-    'SI_POV_DAY1': '1-1-1'
-}
+indicator_id_map = csv2mapping('code_mapping.csv')
 
 
 # Read all the files.
