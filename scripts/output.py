@@ -12,7 +12,7 @@ def csv2mapping(csv):
                 df =df.append(pd.DataFrame([[row["DSD Code"],code]], columns=["DSD Code", "Indicator Code"]))
             df=df.drop(index)
     for index, row in df.iterrows():
-        row["Indicator Code"]=row["Indicator Code"].replace(" ", "")
+        row["Indicator Code"]=row["Indicator Code"].replace(" ", "").replace(".","-")
     dict=df.set_index('DSD Code').to_dict()['Indicator Code']
     return dict
 
