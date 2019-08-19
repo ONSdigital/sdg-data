@@ -597,3 +597,204 @@ prose:
             element: textarea
             label: "Other information"
             scope: source_6
+## Source 7
+      - name: source_active_7
+        field:
+            element: checkbox
+            label: Source 7 active
+            help: Whether or not to display this source
+            value: true
+      - name: source_organisation_7
+        field:
+            element: text
+            label: "Organisation"
+            scope: source_7
+      - name: "source_periodicity_7"
+        field:
+            element: text
+            label: "Periodicity"
+            scope: source_7
+      - name: "source_earliest_available_7"
+        field:
+            element: text
+            label: "Earliest available data"
+            scope: source_7
+      - name: "source_geographical_coverage_7"
+        field:
+            element: text
+            label: "Geographical coverage"
+            scope: source_7
+      - name: "source_url_7"
+        field:
+            element: text
+            label: "Link to data source"
+            scope: source_7
+      - name: "source_url_text_7"
+        field:
+            element: text
+            label: "Link to data source text"
+            value: "Link to source"
+            scope: source_7
+      - name: "source_release_date_7"
+        field:
+            element: text
+            label: "Release date"
+            help: "A date in YYYY-MM-DD format"
+            placeholder: "YYYY-MM-DD"
+            scope: source_7
+      - name: "source_next_release_7"
+        field:
+            element: text
+            label: "Next release"
+            help: "A date in YYYY-MM-DD format"
+            placeholder: "YYYY-MM-DD"
+            scope: source_7
+      - name: "source_statistical_classification_7"
+        field:
+            element: text
+            label: "Statistical classification"
+            scope: source_7
+      - name: "source_contact_7"
+        field:
+            element: text
+            label: "Contact details"
+            scope: source_7
+      - name: "source_other_info_7"
+        field:
+            element: textarea
+            label: "Other information"
+            scope: source_7
+## Source 8
+      - name: source_active_8
+        field:
+            element: checkbox
+            label: Source 8 active
+            help: Whether or not to display this source
+            value: true
+      - name: source_organisation_8
+        field:
+            element: text
+            label: "Organisation"
+            scope: source_8
+      - name: "source_periodicity_8"
+        field:
+            element: text
+            label: "Periodicity"
+            scope: source_8
+      - name: "source_earliest_available_8"
+        field:
+            element: text
+            label: "Earliest available data"
+            scope: source_8
+      - name: "source_geographical_coverage_8"
+        field:
+            element: text
+            label: "Geographical coverage"
+            scope: source_8
+      - name: "source_url_8"
+        field:
+            element: text
+            label: "Link to data source"
+            scope: source_8
+      - name: "source_url_text_8"
+        field:
+            element: text
+            label: "Link to data source text"
+            value: "Link to source"
+            scope: source_8
+      - name: "source_release_date_8"
+        field:
+            element: text
+            label: "Release date"
+            help: "A date in YYYY-MM-DD format"
+            placeholder: "YYYY-MM-DD"
+            scope: source_8
+      - name: "source_next_release_8"
+        field:
+            element: text
+            label: "Next release"
+            help: "A date in YYYY-MM-DD format"
+            placeholder: "YYYY-MM-DD"
+            scope: source_8
+      - name: "source_statistical_classification_8"
+        field:
+            element: text
+            label: "Statistical classification"
+            scope: source_8
+      - name: "source_contact_8"
+        field:
+            element: text
+            label: "Contact details"
+            scope: source_8
+      - name: "source_other_info_8"
+        field:
+            element: textarea
+            label: "Other information"
+            scope: source_8
+## Source 9
+      - name: source_active_9
+        field:
+            element: checkbox
+            label: Source 9 active
+            help: Whether or not to display this source
+            value: true
+      - name: source_organisation_9
+        field:
+            element: text
+            label: "Organisation"
+            scope: source_9
+      - name: "source_periodicity_9"
+        field:
+            element: text
+            label: "Periodicity"
+            scope: source_9
+      - name: "source_earliest_available_9"
+        field:
+            element: text
+            label: "Earliest available data"
+            scope: source_9
+      - name: "source_geographical_coverage_9"
+        field:
+            element: text
+            label: "Geographical coverage"
+            scope: source_9
+      - name: "source_url_9"
+        field:
+            element: text
+            label: "Link to data source"
+            scope: source_9
+      - name: "source_url_text_9"
+        field:
+            element: text
+            label: "Link to data source text"
+            value: "Link to source"
+            scope: source_9
+      - name: "source_release_date_9"
+        field:
+            element: text
+            label: "Release date"
+            help: "A date in YYYY-MM-DD format"
+            placeholder: "YYYY-MM-DD"
+            scope: source_9
+      - name: "source_next_release_9"
+        field:
+            element: text
+            label: "Next release"
+            help: "A date in YYYY-MM-DD format"
+            placeholder: "YYYY-MM-DD"
+            scope: source_9
+      - name: "source_statistical_classification_9"
+        field:
+            element: text
+            label: "Statistical classification"
+            scope: source_9
+      - name: "source_contact_9"
+        field:
+            element: text
+            label: "Contact details"
+            scope: source_9
+      - name: "source_other_info_9"
+        field:
+            element: textarea
+            label: "Other information"
+            scope: source_9
