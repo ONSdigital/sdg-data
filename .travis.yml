@@ -4,6 +4,7 @@ python:
 sudo: false
 git:
   depth: false
+  
 branches:
   except:
   - gh-pages
