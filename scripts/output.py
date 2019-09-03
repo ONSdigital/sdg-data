@@ -62,7 +62,7 @@ for sdmx_file in sdmx_files:
     inputs.append(data_input)
     
 # Use .md files for metadata
-meta_pattern = os.path.join('meta/', '*-*.md')
+meta_pattern = os.path.join('meta', '*-*.md')
 meta_input = sdg.inputs.InputYamlMdMeta(path_pattern=meta_pattern)
 
 # add metadata to inputs
