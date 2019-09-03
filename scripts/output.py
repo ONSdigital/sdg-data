@@ -1,21 +1,17 @@
 import os
 import sdg
 import glob
-import pandas as pd
+import json
+import lxml.etree as ET
 
-def csv2mapping(csv):
-    df = pd.read_csv(csv)
-    for index, row in df.iterrows():
-        if "," in row["Indicator Code"]:
-            codes=row["Indicator Code"].split(", ")
-            for code in codes:
-                df =df.append(pd.DataFrame([[row["DSD Code"],code]], columns=["DSD Code", "Indicator Code"]))
-            df=df.drop(index)
-    for index, row in df.iterrows():
-        row["Indicator Code"]=row["Indicator Code"].replace(" ", "").replace(".","-")
-    dict=df.set_index('DSD Code').to_dict()['Indicator Code']
-    return dict
+def json2mapping(file):
+    with open(file, 'r') as fp:
+        mapping = json.load(fp)
+    return mapping
 
+def get_file_type(file):
+    file_type=ET.parse(file).getroot().tag.split('}')[1]
+    return file_type
 
 # Control how the SDMX dimensions are mapped to Open SDG output. Because the
 # Open SDG platform relies on a particular "Units" column, we control that here.
@@ -23,6 +19,9 @@ dimension_map = {
     # Open SDG needs the unit column to be named specifically "Units".
     'UNIT_MEASURE': 'Units',
 }
+
+# Some dimensions we may want to drop.
+drop_dimensions = ['SOURCE_DETAIL']
 
 # Each SDMX source should have a DSD (data structure definition).
 dsd = os.path.join('SDG_DSD.KG.xml')
@@ -33,23 +32,41 @@ dsd = os.path.join('SDG_DSD.KG.xml')
 # series code. This is used to map series codes to indicator ids.
 indicator_id_xpath = ".//Name"
 indicator_name_xpath = ".//Name"
-indicator_id_map = csv2mapping('code_mapping.csv')
+indicator_id_map = json2mapping('code_mapping.json')
 
 
 # Read all the files.
 sdmx_files = glob.glob(os.path.join('data/', '*.xml'))
 inputs = []
 for sdmx_file in sdmx_files:
-    # Create the input object.
-    data_input = sdg.inputs.InputSdmxMl_StructureSpecific(
-        source=sdmx_file,
-        dimension_map=dimension_map,
-        dsd=dsd,
-        indicator_id_map=indicator_id_map,
-        indicator_id_xpath=indicator_id_xpath,
-        indicator_name_xpath=indicator_name_xpath
-    )
+    # Create the input object depending on sdmx file type
+    if get_file_type(sdmx_file) == 'StructureSpecificData':
+        data_input = sdg.inputs.InputSdmxMl_StructureSpecific(
+            source=sdmx_file,
+            dimension_map=dimension_map,
+            dsd=dsd,
+            indicator_id_map=indicator_id_map,
+            indicator_id_xpath=indicator_id_xpath,
+            indicator_name_xpath=indicator_name_xpath
+        )
+    elif get_file_type(sdmx_file) == 'GenericData':
+        data_input = sdg.inputs.InputSdmxMl_Structure(
+            source=sdmx_file,
+            dimension_map=dimension_map,
+            dsd=dsd,
+            drop_dimensions=drop_dimensions,
+            indicator_id_map=indicator_id_map,
+            indicator_id_xpath=indicator_id_xpath,
+            indicator_name_xpath=indicator_name_xpath
+        )
     inputs.append(data_input)
+    
+# Use .md files for metadata
+meta_pattern = os.path.join('meta', '*-*.md')
+meta_input = sdg.inputs.InputYamlMdMeta(path_pattern=meta_pattern)
+
+# add metadata to inputs
+inputs.append(meta_input)
 
 # Use the Prose.io file for the metadata schema.
 schema_path = os.path.join('_prose.yml')
