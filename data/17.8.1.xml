@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<!--Created with SDMX Converter v7.5.3-->
+<message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.0):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <message:Header>
+    <message:ID>JD014</message:ID>
+    <message:Test>false</message:Test>
+    <message:Prepared>2019-05-27T16:35:15Z</message:Prepared>
+    <message:Sender id="BIS">
+      <message:Contact></message:Contact>
+    </message:Sender>
+    <message:Structure structureID="KG_NSC_SDG_1_0" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.0):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
+      <common:Structure>
+        <Ref agencyID="KG_NSC" id="SDG" version="1.0"></Ref>
+      </common:Structure>
+    </message:Structure>
+    <message:DataSetAction>Information</message:DataSetAction>
+    <message:DataSetID>SDG</message:DataSetID>
+  </message:Header>
+  <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="KG_NSC_SDG_1_0" ss:action="Information">
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_ii99" REF_AREA="KG" SEX="F" AGE="Y15T49" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="77.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="According to Multiple Indicator Cluster Survey, 2018."></Obs>
+  </Series>
+</message:DataSet>
+</message:StructureSpecificData>
