@@ -66,7 +66,7 @@ meta_pattern = os.path.join('meta', '*-*.md')
 meta_input = sdg.inputs.InputYamlMdMeta(path_pattern=meta_pattern)
 
 # add metadata to inputs
-inputs.append(meta_input)
+#inputs.append(meta_input)
 
 # Use the Prose.io file for the metadata schema.
 schema_path = os.path.join('_prose.yml')
