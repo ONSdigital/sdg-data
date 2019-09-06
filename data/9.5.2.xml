@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<!--Created with SDMX Converter v7.5.8-->
+<message:GenericData xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:generic="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/generic" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <message:Header>
+    <message:ID>JD014</message:ID>
+    <message:Test>false</message:Test>
+    <message:Prepared>2019-07-03T11:20:54Z</message:Prepared>
+    <message:Sender id="BIS">
+      <message:Contact></message:Contact>
+    </message:Sender>
+    <message:Structure structureID="IAEG-SDGs_SDG_1_0" dimensionAtObservation="TIME_PERIOD">
+      <common:Structure>
+        <Ref agencyID="IAEG-SDGs" id="SDG" version="1.0"></Ref>
+      </common:Structure>
+    </message:Structure>
+    <message:DataSetAction>Information</message:DataSetAction>
+    <message:DataSetID>SDG</message:DataSetID>
+  </message:Header>
+  <message:DataSet structureRef="IAEG-SDGs_SDG_1_0" action="Information">
+  <generic:Series>
+    <generic:SeriesKey>
+      <generic:Value id="FREQ" value="A"></generic:Value>
+      <generic:Value id="REPORTING_TYPE" value="N"></generic:Value>
+      <generic:Value id="SERIES" value="GB_POP_SCIERD"></generic:Value>
+      <generic:Value id="REF_AREA" value="KG"></generic:Value>
+      <generic:Value id="SEX" value="_T"></generic:Value>
+      <generic:Value id="AGE" value="_T"></generic:Value>
+      <generic:Value id="URBANISATION" value="_T"></generic:Value>
+      <generic:Value id="INCOME_WEALTH_QUANTILE" value="_T"></generic:Value>
+      <generic:Value id="EDUCATION_LEV" value="_T"></generic:Value>
+      <generic:Value id="OCCUPATION" value="_T"></generic:Value>
+      <generic:Value id="CUST_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value id="COMPOSITE_BREAKDOWN" value="_T"></generic:Value>
+      <generic:Value id="DISABILITY_STATUS" value="_T"></generic:Value>
+      <generic:Value id="ACTIVITY" value="_T"></generic:Value>
+      <generic:Value id="PRODUCT" value="_T"></generic:Value>
+    </generic:SeriesKey>
+    <generic:Attributes>
+      <generic:Value id="UNIT_MEASURE" value="PER_1000000_POP"></generic:Value>
+    </generic:Attributes>
+    <generic:Obs>
+      <generic:ObsDimension id="TIME_PERIOD" value="2010"></generic:ObsDimension>
+      <generic:ObsValue value="360"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value id="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value id="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value id="NATURE" value="C"></generic:Value>
+        <generic:Value id="TIME_DETAIL" value="2010"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:ObsDimension id="TIME_PERIOD" value="2011"></generic:ObsDimension>
+      <generic:ObsValue value="401"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value id="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value id="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value id="NATURE" value="C"></generic:Value>
+        <generic:Value id="TIME_DETAIL" value="2011"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:ObsDimension id="TIME_PERIOD" value="2012"></generic:ObsDimension>
+      <generic:ObsValue value="415"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value id="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value id="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value id="NATURE" value="C"></generic:Value>
+        <generic:Value id="TIME_DETAIL" value="2012"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:ObsDimension id="TIME_PERIOD" value="2013"></generic:ObsDimension>
+      <generic:ObsValue value="530"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value id="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value id="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value id="NATURE" value="C"></generic:Value>
+        <generic:Value id="TIME_DETAIL" value="2013"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:ObsDimension id="TIME_PERIOD" value="2014"></generic:ObsDimension>
+      <generic:ObsValue value="511"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value id="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value id="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value id="NATURE" value="C"></generic:Value>
+        <generic:Value id="TIME_DETAIL" value="2014"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:ObsDimension id="TIME_PERIOD" value="2015"></generic:ObsDimension>
+      <generic:ObsValue value="572"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value id="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value id="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value id="NATURE" value="C"></generic:Value>
+        <generic:Value id="TIME_DETAIL" value="2015"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:ObsDimension id="TIME_PERIOD" value="2016"></generic:ObsDimension>
+      <generic:ObsValue value="563"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value id="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value id="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value id="NATURE" value="C"></generic:Value>
+        <generic:Value id="TIME_DETAIL" value="2016"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+    <generic:Obs>
+      <generic:ObsDimension id="TIME_PERIOD" value="2017"></generic:ObsDimension>
+      <generic:ObsValue value="524"></generic:ObsValue>
+      <generic:Attributes>
+        <generic:Value id="OBS_STATUS" value="A"></generic:Value>
+        <generic:Value id="UNIT_MULT" value="0"></generic:Value>
+        <generic:Value id="NATURE" value="C"></generic:Value>
+        <generic:Value id="TIME_DETAIL" value="2017"></generic:Value>
+      </generic:Attributes>
+    </generic:Obs>
+  </generic:Series>
+</message:DataSet>
+</message:GenericData>
