@@ -39,7 +39,7 @@
       <generic:Value id="UNIT_MEASURE" value="PT"></generic:Value>
     </generic:Attributes>
     <generic:Obs>
-      <generic:ObsDimension value="2018"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2018"></generic:ObsDimension>
       <generic:ObsValue value="57.9"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -71,7 +71,7 @@
       <generic:Value id="UNIT_MEASURE" value="PT"></generic:Value>
     </generic:Attributes>
     <generic:Obs>
-      <generic:ObsDimension value="2018"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2018"></generic:ObsDimension>
       <generic:ObsValue value="47.4"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -103,7 +103,7 @@
       <generic:Value id="UNIT_MEASURE" value="PT"></generic:Value>
     </generic:Attributes>
     <generic:Obs>
-      <generic:ObsDimension value="2018"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2018"></generic:ObsDimension>
       <generic:ObsValue value="38.7"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -135,7 +135,7 @@
       <generic:Value id="UNIT_MEASURE" value="PT"></generic:Value>
     </generic:Attributes>
     <generic:Obs>
-      <generic:ObsDimension value="2018"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2018"></generic:ObsDimension>
       <generic:ObsValue value="51.3"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -167,7 +167,7 @@
       <generic:Value id="UNIT_MEASURE" value="PT"></generic:Value>
     </generic:Attributes>
     <generic:Obs>
-      <generic:ObsDimension value="2018"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2018"></generic:ObsDimension>
       <generic:ObsValue value="41.8"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -196,7 +196,7 @@
       <generic:Value id="PRODUCT" value="_T"></generic:Value>
     </generic:SeriesKey>
     <generic:Attributes>
-      <generic:Value id="UNIT_MEASURE" value="PT"></generic:Value>
+      <generic:Value id="TIME_PERIOD" id="UNIT_MEASURE" value="PT"></generic:Value>
     </generic:Attributes>
     <generic:Obs>
       <generic:ObsDimension value="2018"></generic:ObsDimension>
