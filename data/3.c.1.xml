@@ -1117,7 +1117,7 @@
       <generic:Value id="UNIT_MEASURE" value="PER_1000_POP"></generic:Value>
     </generic:Attributes>
     <generic:Obs>
-      <generic:ObsDimension value="2007"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2007"></generic:ObsDimension>
       <generic:ObsValue value="1.805387"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
