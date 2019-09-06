@@ -398,7 +398,7 @@
   "VC_ARM_SZTRACE": "16-4-2",
   "IU_COR_BRIB": "16-5-1",
   "IC_FRM_BRIB": "16-5-2",
-  "GF_XPD_GBPC": ["16-6-1", "11-4-1"]
+  "GF_XPD_GBPC": ["16-6-1", "11-4-1"],
   "SP_PSR_SATIS": "16-6-2",
   "IU_DMK_ICRS": "16-7-2",
   "SG_REG_BRTH": "16-9-1",
@@ -477,3 +477,4 @@
   "PROP_PUB_INS": "16-7-1",
   "COV_INT_SUB": "3-5-1",
   "PROP_HF_SUS": "3-b-3"
+}
