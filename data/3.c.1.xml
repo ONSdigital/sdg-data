@@ -39,7 +39,7 @@
       <generic:Value id="UNIT_MEASURE" value="PER_1000_POP"></generic:Value>
     </generic:Attributes>
     <generic:Obs>
-      <generic:ObsDimension value="2007"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2007"></generic:ObsDimension>
       <generic:ObsValue value="2.470972"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -50,7 +50,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2008"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2008"></generic:ObsDimension>
       <generic:ObsValue value="2.475696"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -61,7 +61,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2009"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2009"></generic:ObsDimension>
       <generic:ObsValue value="2.424193"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -72,7 +72,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2010"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2010"></generic:ObsDimension>
       <generic:ObsValue value="2.437007"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -83,7 +83,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2011"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2011"></generic:ObsDimension>
       <generic:ObsValue value="2.397923"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -94,7 +94,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2012"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2012"></generic:ObsDimension>
       <generic:ObsValue value="2.364769"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -105,7 +105,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2013"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2013"></generic:ObsDimension>
       <generic:ObsValue value="2.347241"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -116,7 +116,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2014"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2014"></generic:ObsDimension>
       <generic:ObsValue value="2.296668"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -127,7 +127,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2015"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2015"></generic:ObsDimension>
       <generic:ObsValue value="2.259497"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -138,7 +138,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2016"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2016"></generic:ObsDimension>
       <generic:ObsValue value="2.269959"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -149,7 +149,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2017"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2017"></generic:ObsDimension>
       <generic:ObsValue value="2.228321"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -160,7 +160,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2018"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2018"></generic:ObsDimension>
       <generic:ObsValue value="2.214101"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -193,7 +193,7 @@
       <generic:Value id="UNIT_MEASURE" value="PER_1000_POP"></generic:Value>
     </generic:Attributes>
     <generic:Obs>
-      <generic:ObsDimension value="2007"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2007"></generic:ObsDimension>
       <generic:ObsValue value="1.399238"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -204,7 +204,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2008"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2008"></generic:ObsDimension>
       <generic:ObsValue value="1.435972"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -215,7 +215,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2009"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2009"></generic:ObsDimension>
       <generic:ObsValue value="1.498379"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -226,7 +226,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2010"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2010"></generic:ObsDimension>
       <generic:ObsValue value="1.512125"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -237,7 +237,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2011"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2011"></generic:ObsDimension>
       <generic:ObsValue value="1.532809"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -248,7 +248,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2012"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2012"></generic:ObsDimension>
       <generic:ObsValue value="1.582078"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -259,7 +259,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2013"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2013"></generic:ObsDimension>
       <generic:ObsValue value="1.6203"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -270,7 +270,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2014"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2014"></generic:ObsDimension>
       <generic:ObsValue value="1.618517"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -281,7 +281,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2015"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2015"></generic:ObsDimension>
       <generic:ObsValue value="1.591574"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -292,7 +292,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2016"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2016"></generic:ObsDimension>
       <generic:ObsValue value="1.666289"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -303,7 +303,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2017"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2017"></generic:ObsDimension>
       <generic:ObsValue value="1.666693"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -314,7 +314,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2018"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2018"></generic:ObsDimension>
       <generic:ObsValue value="1.65294"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -347,7 +347,7 @@
       <generic:Value id="UNIT_MEASURE" value="PER_1000_POP"></generic:Value>
     </generic:Attributes>
     <generic:Obs>
-      <generic:ObsDimension value="2007"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2007"></generic:ObsDimension>
       <generic:ObsValue value="1.430964"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -358,7 +358,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2008"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2008"></generic:ObsDimension>
       <generic:ObsValue value="1.383632"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -369,7 +369,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2009"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2009"></generic:ObsDimension>
       <generic:ObsValue value="1.361506"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -380,7 +380,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2010"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2010"></generic:ObsDimension>
       <generic:ObsValue value="1.374628"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -391,7 +391,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2011"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2011"></generic:ObsDimension>
       <generic:ObsValue value="1.422845"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -402,7 +402,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2012"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2012"></generic:ObsDimension>
       <generic:ObsValue value="1.421945"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -413,7 +413,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2013"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2013"></generic:ObsDimension>
       <generic:ObsValue value="1.43014"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -424,7 +424,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2014"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2014"></generic:ObsDimension>
       <generic:ObsValue value="1.387208"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -435,7 +435,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2015"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2015"></generic:ObsDimension>
       <generic:ObsValue value="1.356278"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -446,7 +446,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2016"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2016"></generic:ObsDimension>
       <generic:ObsValue value="1.372429"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -457,7 +457,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2017"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2017"></generic:ObsDimension>
       <generic:ObsValue value="1.357323"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -468,7 +468,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2018"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2018"></generic:ObsDimension>
       <generic:ObsValue value="1.390772"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -501,7 +501,7 @@
       <generic:Value id="UNIT_MEASURE" value="PER_1000_POP"></generic:Value>
     </generic:Attributes>
     <generic:Obs>
-      <generic:ObsDimension value="2007"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2007"></generic:ObsDimension>
       <generic:ObsValue value="1.687643"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -512,7 +512,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2008"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2008"></generic:ObsDimension>
       <generic:ObsValue value="1.651023"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -523,7 +523,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2009"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2009"></generic:ObsDimension>
       <generic:ObsValue value="1.581608"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -534,7 +534,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2010"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2010"></generic:ObsDimension>
       <generic:ObsValue value="1.545487"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -545,7 +545,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2011"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2011"></generic:ObsDimension>
       <generic:ObsValue value="1.611596"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -556,7 +556,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2012"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2012"></generic:ObsDimension>
       <generic:ObsValue value="1.568207"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -567,7 +567,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2013"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2013"></generic:ObsDimension>
       <generic:ObsValue value="1.559351"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -578,7 +578,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2014"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2014"></generic:ObsDimension>
       <generic:ObsValue value="1.519744"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -589,7 +589,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2015"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2015"></generic:ObsDimension>
       <generic:ObsValue value="1.49335"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -600,7 +600,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2016"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2016"></generic:ObsDimension>
       <generic:ObsValue value="1.514389"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -611,7 +611,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2017"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2017"></generic:ObsDimension>
       <generic:ObsValue value="1.474172"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -622,7 +622,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2018"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2018"></generic:ObsDimension>
       <generic:ObsValue value="1.486427"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -655,7 +655,7 @@
       <generic:Value id="UNIT_MEASURE" value="PER_1000_POP"></generic:Value>
     </generic:Attributes>
     <generic:Obs>
-      <generic:ObsDimension value="2007"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2007"></generic:ObsDimension>
       <generic:ObsValue value="1.656611"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -666,7 +666,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2008"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2008"></generic:ObsDimension>
       <generic:ObsValue value="1.561809"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -677,7 +677,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2009"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2009"></generic:ObsDimension>
       <generic:ObsValue value="1.592271"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -688,7 +688,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2010"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2010"></generic:ObsDimension>
       <generic:ObsValue value="1.483957"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -699,7 +699,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2011"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2011"></generic:ObsDimension>
       <generic:ObsValue value="1.468218"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -710,7 +710,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2012"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2012"></generic:ObsDimension>
       <generic:ObsValue value="1.439767"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -721,7 +721,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2013"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2013"></generic:ObsDimension>
       <generic:ObsValue value="1.393107"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -732,7 +732,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2014"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2014"></generic:ObsDimension>
       <generic:ObsValue value="1.427822"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -743,7 +743,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2015"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2015"></generic:ObsDimension>
       <generic:ObsValue value="1.419027"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -754,7 +754,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2016"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2016"></generic:ObsDimension>
       <generic:ObsValue value="1.391246"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -765,7 +765,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2017"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2017"></generic:ObsDimension>
       <generic:ObsValue value="1.363257"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -776,7 +776,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2018"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2018"></generic:ObsDimension>
       <generic:ObsValue value="1.358658"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -809,7 +809,7 @@
       <generic:Value id="UNIT_MEASURE" value="PER_1000_POP"></generic:Value>
     </generic:Attributes>
     <generic:Obs>
-      <generic:ObsDimension value="2007"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2007"></generic:ObsDimension>
       <generic:ObsValue value="1.505136"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -820,7 +820,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2008"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2008"></generic:ObsDimension>
       <generic:ObsValue value="1.493253"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -831,7 +831,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2009"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2009"></generic:ObsDimension>
       <generic:ObsValue value="1.52167"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -842,7 +842,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2010"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2010"></generic:ObsDimension>
       <generic:ObsValue value="1.552763"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -853,7 +853,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2011"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2011"></generic:ObsDimension>
       <generic:ObsValue value="1.593553"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -864,7 +864,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2012"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2012"></generic:ObsDimension>
       <generic:ObsValue value="1.600734"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -875,7 +875,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2013"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2013"></generic:ObsDimension>
       <generic:ObsValue value="1.624263"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -886,7 +886,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2014"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2014"></generic:ObsDimension>
       <generic:ObsValue value="1.651815"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -897,7 +897,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2015"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2015"></generic:ObsDimension>
       <generic:ObsValue value="1.677442"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -908,7 +908,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2016"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2016"></generic:ObsDimension>
       <generic:ObsValue value="1.721132"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -919,7 +919,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2017"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2017"></generic:ObsDimension>
       <generic:ObsValue value="1.703163"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -930,7 +930,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2018"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2018"></generic:ObsDimension>
       <generic:ObsValue value="1.68348"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -963,7 +963,7 @@
       <generic:Value id="UNIT_MEASURE" value="PER_1000_POP"></generic:Value>
     </generic:Attributes>
     <generic:Obs>
-      <generic:ObsDimension value="2007"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2007"></generic:ObsDimension>
       <generic:ObsValue value="1.576424"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -974,7 +974,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2008"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2008"></generic:ObsDimension>
       <generic:ObsValue value="1.567841"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -985,7 +985,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2009"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2009"></generic:ObsDimension>
       <generic:ObsValue value="1.449813"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -996,7 +996,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2010"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2010"></generic:ObsDimension>
       <generic:ObsValue value="1.367446"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1007,7 +1007,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2011"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2011"></generic:ObsDimension>
       <generic:ObsValue value="1.402304"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1018,7 +1018,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2012"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2012"></generic:ObsDimension>
       <generic:ObsValue value="1.361135"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1029,7 +1029,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2013"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2013"></generic:ObsDimension>
       <generic:ObsValue value="1.376759"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1040,7 +1040,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2014"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2014"></generic:ObsDimension>
       <generic:ObsValue value="1.35908"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1051,7 +1051,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2015"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2015"></generic:ObsDimension>
       <generic:ObsValue value="1.337154"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1062,7 +1062,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2016"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2016"></generic:ObsDimension>
       <generic:ObsValue value="1.293357"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1073,7 +1073,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2017"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2017"></generic:ObsDimension>
       <generic:ObsValue value="1.266512"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1084,7 +1084,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2018"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2018"></generic:ObsDimension>
       <generic:ObsValue value="1.260287"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1128,7 +1128,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2008"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2008"></generic:ObsDimension>
       <generic:ObsValue value="1.762641"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1139,7 +1139,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2009"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2009"></generic:ObsDimension>
       <generic:ObsValue value="1.622033"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1150,7 +1150,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2010"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2010"></generic:ObsDimension>
       <generic:ObsValue value="1.584302"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1161,7 +1161,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2011"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2011"></generic:ObsDimension>
       <generic:ObsValue value="1.643607"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1172,7 +1172,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2012"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2012"></generic:ObsDimension>
       <generic:ObsValue value="1.578117"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1183,7 +1183,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2013"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2013"></generic:ObsDimension>
       <generic:ObsValue value="1.520396"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1194,7 +1194,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2014"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2014"></generic:ObsDimension>
       <generic:ObsValue value="1.501748"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1205,7 +1205,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2015"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2015"></generic:ObsDimension>
       <generic:ObsValue value="1.500884"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1216,7 +1216,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2016"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2016"></generic:ObsDimension>
       <generic:ObsValue value="1.50467"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1227,7 +1227,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2017"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2017"></generic:ObsDimension>
       <generic:ObsValue value="1.470065"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1238,7 +1238,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2018"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2018"></generic:ObsDimension>
       <generic:ObsValue value="1.481193"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1271,7 +1271,7 @@
       <generic:Value id="UNIT_MEASURE" value="PER_1000_POP"></generic:Value>
     </generic:Attributes>
     <generic:Obs>
-      <generic:ObsDimension value="2007"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2007"></generic:ObsDimension>
       <generic:ObsValue value="3.191977"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1282,7 +1282,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2008"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2008"></generic:ObsDimension>
       <generic:ObsValue value="3.272659"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1293,7 +1293,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2009"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2009"></generic:ObsDimension>
       <generic:ObsValue value="3.228714"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1304,7 +1304,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2010"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2010"></generic:ObsDimension>
       <generic:ObsValue value="3.247286"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1315,7 +1315,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2011"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2011"></generic:ObsDimension>
       <generic:ObsValue value="3.24467"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1326,7 +1326,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2012"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2012"></generic:ObsDimension>
       <generic:ObsValue value="3.123337"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1337,7 +1337,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2013"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2013"></generic:ObsDimension>
       <generic:ObsValue value="3.017469"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1348,7 +1348,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2014"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2014"></generic:ObsDimension>
       <generic:ObsValue value="2.833502"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1359,7 +1359,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2015"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2015"></generic:ObsDimension>
       <generic:ObsValue value="2.782586"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1370,7 +1370,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2016"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2016"></generic:ObsDimension>
       <generic:ObsValue value="2.721424"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1381,7 +1381,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2017"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2017"></generic:ObsDimension>
       <generic:ObsValue value="2.67925"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1392,7 +1392,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2018"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2018"></generic:ObsDimension>
       <generic:ObsValue value="2.63131"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1425,7 +1425,7 @@
       <generic:Value id="UNIT_MEASURE" value="PER_1000_POP"></generic:Value>
     </generic:Attributes>
     <generic:Obs>
-      <generic:ObsDimension value="2007"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2007"></generic:ObsDimension>
       <generic:ObsValue value="2.683388"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1436,7 +1436,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2008"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2008"></generic:ObsDimension>
       <generic:ObsValue value="2.816541"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1447,7 +1447,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2009"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2009"></generic:ObsDimension>
       <generic:ObsValue value="2.697738"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1458,7 +1458,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2010"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2010"></generic:ObsDimension>
       <generic:ObsValue value="2.693016"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1469,7 +1469,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2011"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2011"></generic:ObsDimension>
       <generic:ObsValue value="2.821988"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1480,7 +1480,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2012"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2012"></generic:ObsDimension>
       <generic:ObsValue value="2.929534"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1491,7 +1491,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2013"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2013"></generic:ObsDimension>
       <generic:ObsValue value="2.918508"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1502,7 +1502,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2014"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2014"></generic:ObsDimension>
       <generic:ObsValue value="3.063354"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1513,7 +1513,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2015"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2015"></generic:ObsDimension>
       <generic:ObsValue value="3.057084"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1524,7 +1524,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2016"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2016"></generic:ObsDimension>
       <generic:ObsValue value="2.929847"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1535,7 +1535,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2017"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2017"></generic:ObsDimension>
       <generic:ObsValue value="2.939567"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
@@ -1546,7 +1546,7 @@
       </generic:Attributes>
     </generic:Obs>
     <generic:Obs>
-      <generic:ObsDimension value="2018"></generic:ObsDimension>
+      <generic:ObsDimension id="TIME_PERIOD" value="2018"></generic:ObsDimension>
       <generic:ObsValue value="2.908608"></generic:ObsValue>
       <generic:Attributes>
         <generic:Value id="OBS_STATUS" value="A"></generic:Value>
