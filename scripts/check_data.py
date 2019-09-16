@@ -12,7 +12,7 @@ import sdg
 def main():
     """Run csv checks on all indicator csvs in the data directory"""
     status = True
-    
+
     status = status & sdg.check_all_csv()
     status = status & sdg.check_all_meta()
 
