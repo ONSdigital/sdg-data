@@ -1,197 +1,484 @@
-Year,Country,Region,Sex,Age,Observation status,Unit multiplier,Unit measure,GeoCode,Value
-2010,,,,,Undefined,Units,"Rate per 100,000 population",,3.03539915961
-2011,,,,,Undefined,Units,"Rate per 100,000 population",,3.0970933226114914
-2012,,,,,Undefined,Units,"Rate per 100,000 population",,2.8286620381467524
-2013,,,,,Undefined,Units,"Rate per 100,000 population",,2.7610669099483798
-2014,,,,,Undefined,Units,"Rate per 100,000 population",,2.8701133456369448
-2015,,,,,Undefined,Units,"Rate per 100,000 population",,2.7706942988234347
-2016,,,,,Undefined,Units,"Rate per 100,000 population",,2.833290382072864
-2017,,,,,Undefined,Units,"Rate per 100,000 population",,2.810408183169686
-2010,Great Britain,,,,Undefined,Units,"Rate per 100,000 population",K03000001,3.0350446101520467
-2011,Great Britain,,,,Undefined,Units,"Rate per 100,000 population",K03000001,3.092523873153683
-2012,Great Britain,,,,Undefined,Units,"Rate per 100,000 population",K03000001,2.8344544780470047
-2013,Great Britain,,,,Undefined,Units,"Rate per 100,000 population",K03000001,2.750661495551516
-2014,Great Britain,,,,Undefined,Units,"Rate per 100,000 population",K03000001,2.8284033651849265
-2015,Great Britain,,,,Undefined,Units,"Rate per 100,000 population",K03000001,2.7348141029083357
-2016,Great Britain,,,,Undefined,Units,"Rate per 100,000 population",K03000001,2.809397566550623
-2017,Great Britain,,,,Undefined,Units,"Rate per 100,000 population",K03000001,2.7941669077603115
-2010,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.9500905466941396
-2011,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,3.0014780113773343
-2012,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.7872425943609205
-2013,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.6547448449542688
-2014,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.710036180824071
-2015,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.67037430707848
-2016,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.710425895662318
-2017,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.776008312203128
-2010,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,2.9180605323788327
-2011,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.9493980921469642
-2012,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.02530816667301
-2013,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.601076040451439
-2014,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.331138447288453
-2015,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.3880957159627063
-2016,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.308546006456483
-2017,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.2958259803882353
-2010,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,3.952719394929877
-2011,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,3.5095001792486653
-2012,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,3.1993375489310454
-2013,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,3.228410008071025
-2014,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,3.739995512005385
-2015,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,3.0150753768844223
-2016,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,3.5339611819342425
-2017,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,2.6913434596667156
-2010,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,3.0473733580890863
-2011,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,3.251910635291057
-2012,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,2.632107100437917
-2013,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,3.1152222328491983
-2014,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,4.292316536067956
-2015,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,3.996498203466044
-2016,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,3.651718428880367
-2017,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,3.367482096220188
-2010,England,North East,,,Undefined,Units,"Rate per 100,000 population",E12000001,1.9714960330407272
-2011,England,North East,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.233826996261421
-2012,England,North East,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.958822035308353
-2013,England,North East,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.9112494124830546
-2014,England,North East,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.1766226148798506
-2015,England,North East,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.3622836272026864
-2016,England,North East,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.123956369384838
-2017,England,North East,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.193042987045544
-2010,England,North West,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.7635638634679793
-2011,England,North West,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.976206926313793
-2012,England,North West,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.3290380226043728
-2013,England,North West,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.0975610854836386
-2014,England,North West,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.565531094377057
-2015,England,North West,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.466837756498863
-2016,England,North West,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.5747647308727166
-2017,England,North West,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.300710588930937
-2010,England,Yorkshire and The Humber,,,Undefined,Units,"Rate per 100,000 population",E12000003,3.2351447860503604
-2011,England,Yorkshire and The Humber,,,Undefined,Units,"Rate per 100,000 population",E12000003,3.2714270910470304
-2012,England,Yorkshire and The Humber,,,Undefined,Units,"Rate per 100,000 population",E12000003,2.7083466164569296
-2013,England,Yorkshire and The Humber,,,Undefined,Units,"Rate per 100,000 population",E12000003,3.091080079581262
-2014,England,Yorkshire and The Humber,,,Undefined,Units,"Rate per 100,000 population",E12000003,2.9476968506471035
-2015,England,Yorkshire and The Humber,,,Undefined,Units,"Rate per 100,000 population",E12000003,2.764270266970996
-2016,England,Yorkshire and The Humber,,,Undefined,Units,"Rate per 100,000 population",E12000003,2.543605320927421
-2017,England,Yorkshire and The Humber,,,Undefined,Units,"Rate per 100,000 population",E12000003,2.935709790408669
-2010,England,East Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000004,4.06028660298451
-2011,England,East Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000004,4.121259351071351
-2012,England,East Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000004,3.7217057321711686
-2013,England,East Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000004,3.2184072015775413
-2014,England,East Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000004,3.644307796080062
-2015,England,East Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000004,3.719995510350246
-2016,England,East Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000004,4.0419944173920035
-2017,England,East Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000004,3.814181461988329
-2010,England,West Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.8027983426119136
-2011,England,West Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000005,3.387614204943884
-2012,England,West Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000005,3.119039378403807
-2013,England,West Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.748884146867946
-2014,England,West Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.7304045776983004
-2015,England,West Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.8323039732880724
-2016,England,West Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.6674592175602108
-2017,England,West Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000005,3.258993029167476
-2010,England,East of England,,,Undefined,Units,"Rate per 100,000 population",E12000006,3.392222546329667
-2011,England,East of England,,,Undefined,Units,"Rate per 100,000 population",E12000006,3.3945037696049654
-2012,England,East of England,,,Undefined,Units,"Rate per 100,000 population",E12000006,3.1663176944330713
-2013,England,East of England,,,Undefined,Units,"Rate per 100,000 population",E12000006,2.9906245600169625
-2014,England,East of England,,,Undefined,Units,"Rate per 100,000 population",E12000006,3.1243508247122853
-2015,England,East of England,,,Undefined,Units,"Rate per 100,000 population",E12000006,3.1929058240906394
-2016,England,East of England,,,Undefined,Units,"Rate per 100,000 population",E12000006,3.475278613739098
-2017,England,East of England,,,Undefined,Units,"Rate per 100,000 population",E12000006,3.2423150648333317
-2010,England,London,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.5629855256376142
-2011,England,London,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.9379828426356713
-2012,England,London,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.6247769091038415
-2013,England,London,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.5800494638642688
-2014,England,London,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.5106451297854955
-2015,England,London,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.5691830902061052
-2016,England,London,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.3227424236221728
-2017,England,London,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.4844190952499607
-2010,England,South East,,,Undefined,Units,"Rate per 100,000 population",E12000008,3.3108834451281104
-2011,England,South East,,,Undefined,Units,"Rate per 100,000 population",E12000008,2.981699300479476
-2012,England,South East,,,Undefined,Units,"Rate per 100,000 population",E12000008,2.6705091434565422
-2013,England,South East,,,Undefined,Units,"Rate per 100,000 population",E12000008,2.672533655159457
-2014,England,South East,,,Undefined,Units,"Rate per 100,000 population",E12000008,2.783410647165513
-2015,England,South East,,,Undefined,Units,"Rate per 100,000 population",E12000008,2.625876707602036
-2016,England,South East,,,Undefined,Units,"Rate per 100,000 population",E12000008,3.100656043449936
-2017,England,South East,,,Undefined,Units,"Rate per 100,000 population",E12000008,2.9402614850522943
-2010,England,South West,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.6493090071408614
-2011,England,South West,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.0183946630254765
-2012,England,South West,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.8204114470763457
-2013,England,South West,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.533107635938176
-2014,England,South West,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.411221036428522
-2015,England,South West,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.161775053412067
-2016,England,South West,,,Undefined,Units,"Rate per 100,000 population",E12000009,2.954518718869931
-2017,England,South West,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.381710987466804
-2010,Great Britain,,Male,,Undefined,Units,"Rate per 100,000 population",K03000001,4.565362302105664
-2011,Great Britain,,Male,,Undefined,Units,"Rate per 100,000 population",K03000001,4.710682493809491
-2012,Great Britain,,Male,,Undefined,Units,"Rate per 100,000 population",K03000001,4.39832463935546
-2013,Great Britain,,Male,,Undefined,Units,"Rate per 100,000 population",K03000001,4.148730723417212
-2014,Great Britain,,Male,,Undefined,Units,"Rate per 100,000 population",K03000001,4.240711732569971
-2015,Great Britain,,Male,,Undefined,Units,"Rate per 100,000 population",K03000001,4.2258515844986135
-2016,Great Britain,,Male,,Undefined,Units,"Rate per 100,000 population",K03000001,4.20183278097667
-2017,Great Britain,,Male,,Undefined,Units,"Rate per 100,000 population",K03000001,4.229103986150016
-2010,Great Britain,,Female,,Undefined,Units,"Rate per 100,000 population",K03000001,1.5595965001623397
-2011,Great Britain,,Female,,Undefined,Units,"Rate per 100,000 population",K03000001,1.5289693307304602
-2012,Great Britain,,Female,,Undefined,Units,"Rate per 100,000 population",K03000001,1.3222837034699966
-2013,Great Britain,,Female,,Undefined,Units,"Rate per 100,000 population",K03000001,1.396963525946053
-2014,Great Britain,,Female,,Undefined,Units,"Rate per 100,000 population",K03000001,1.459271588738478
-2015,Great Britain,,Female,,Undefined,Units,"Rate per 100,000 population",K03000001,1.28688110094205
-2016,Great Britain,,Female,,Undefined,Units,"Rate per 100,000 population",K03000001,1.4540524379571294
-2017,Great Britain,,Female,,Undefined,Units,"Rate per 100,000 population",K03000001,1.3965860914421817
-2013,Great Britain,,,4 and under,Undefined,Units,"Rate per 100,000 population",K03000001,0.25727112517526596
-2014,Great Britain,,,4 and under,Undefined,Units,"Rate per 100,000 population",K03000001,0.23074029948552605
-2015,Great Britain,,,4 and under,Undefined,Units,"Rate per 100,000 population",K03000001,0.28192289870048926
-2016,Great Britain,,,4 and under,Undefined,Units,"Rate per 100,000 population",K03000001,0.4113591692601577
-2017,Great Britain,,,4 and under,Undefined,Units,"Rate per 100,000 population",K03000001,0.31268402757873126
-2013,Great Britain,,,5 to 7,Undefined,Units,"Rate per 100,000 population",K03000001,0.26661772750157414
-2014,Great Britain,,,5 to 7,Undefined,Units,"Rate per 100,000 population",K03000001,0.4355425357373539
-2015,Great Britain,,,5 to 7,Undefined,Units,"Rate per 100,000 population",K03000001,0.47078903814803574
-2016,Great Britain,,,5 to 7,Undefined,Units,"Rate per 100,000 population",K03000001,0.337860095513049
-2017,Great Britain,,,5 to 7,Undefined,Units,"Rate per 100,000 population",K03000001,0.3312024595094643
-2013,Great Britain,,,8 to 11,Undefined,Units,"Rate per 100,000 population",K03000001,0.367399874349243
-2014,Great Britain,,,8 to 11,Undefined,Units,"Rate per 100,000 population",K03000001,0.3560762815096352
-2015,Great Britain,,,8 to 11,Undefined,Units,"Rate per 100,000 population",K03000001,0.41372719242658584
-2016,Great Britain,,,8 to 11,Undefined,Units,"Rate per 100,000 population",K03000001,0.6668760657513126
-2017,Great Britain,,,8 to 11,Undefined,Units,"Rate per 100,000 population",K03000001,0.32499652253720884
-2013,Great Britain,,,12 to 15,Undefined,Units,"Rate per 100,000 population",K03000001,0.7810311670487211
-2014,Great Britain,,,12 to 15,Undefined,Units,"Rate per 100,000 population",K03000001,0.8681262038468842
-2015,Great Britain,,,12 to 15,Undefined,Units,"Rate per 100,000 population",K03000001,0.7315492310686033
-2016,Great Britain,,,12 to 15,Undefined,Units,"Rate per 100,000 population",K03000001,0.910531535531308
-2017,Great Britain,,,12 to 15,Undefined,Units,"Rate per 100,000 population",K03000001,0.6464272683132846
-2013,Great Britain,,,16 to 19,Undefined,Units,"Rate per 100,000 population",K03000001,4.846256629398844
-2014,Great Britain,,,16 to 19,Undefined,Units,"Rate per 100,000 population",K03000001,4.257898234901592
-2015,Great Britain,,,16 to 19,Undefined,Units,"Rate per 100,000 population",K03000001,3.9341385203504986
-2016,Great Britain,,,16 to 19,Undefined,Units,"Rate per 100,000 population",K03000001,3.569402141978021
-2017,Great Britain,,,16 to 19,Undefined,Units,"Rate per 100,000 population",K03000001,3.7760500251107327
-2013,Great Britain,,,20 to 29,Undefined,Units,"Rate per 100,000 population",K03000001,4.632807810581356
-2014,Great Britain,,,20 to 29,Undefined,Units,"Rate per 100,000 population",K03000001,4.621434211874675
-2015,Great Britain,,,20 to 29,Undefined,Units,"Rate per 100,000 population",K03000001,4.616625741221639
-2016,Great Britain,,,20 to 29,Undefined,Units,"Rate per 100,000 population",K03000001,4.2832286719562
-2017,Great Britain,,,20 to 29,Undefined,Units,"Rate per 100,000 population",K03000001,4.3131122019119426
-2013,Great Britain,,,30 to 39,Undefined,Units,"Rate per 100,000 population",K03000001,2.507664515206378
-2014,Great Britain,,,30 to 39,Undefined,Units,"Rate per 100,000 population",K03000001,2.823092800484635
-2015,Great Britain,,,30 to 39,Undefined,Units,"Rate per 100,000 population",K03000001,2.396703595773188
-2016,Great Britain,,,30 to 39,Undefined,Units,"Rate per 100,000 population",K03000001,3.067958884557261
-2017,Great Britain,,,30 to 39,Undefined,Units,"Rate per 100,000 population",K03000001,3.2157598716438907
-2013,Great Britain,,,40 to 49,Undefined,Units,"Rate per 100,000 population",K03000001,2.8470038087082448
-2014,Great Britain,,,40 to 49,Undefined,Units,"Rate per 100,000 population",K03000001,2.680386002842572
-2015,Great Britain,,,40 to 49,Undefined,Units,"Rate per 100,000 population",K03000001,2.9739132479535906
-2016,Great Britain,,,40 to 49,Undefined,Units,"Rate per 100,000 population",K03000001,2.821184874234856
-2017,Great Britain,,,40 to 49,Undefined,Units,"Rate per 100,000 population",K03000001,2.6230077362036353
-2013,Great Britain,,,50 to 59,Undefined,Units,"Rate per 100,000 population",K03000001,2.7059181478816026
-2014,Great Britain,,,50 to 59,Undefined,Units,"Rate per 100,000 population",K03000001,2.5168901305546867
-2015,Great Britain,,,50 to 59,Undefined,Units,"Rate per 100,000 population",K03000001,2.6467601299305423
-2016,Great Britain,,,50 to 59,Undefined,Units,"Rate per 100,000 population",K03000001,2.614745936613826
-2017,Great Britain,,,50 to 59,Undefined,Units,"Rate per 100,000 population",K03000001,2.5227295608334726
-2013,Great Britain,,,60 to 69,Undefined,Units,"Rate per 100,000 population",K03000001,1.9120377958787267
-2014,Great Britain,,,60 to 69,Undefined,Units,"Rate per 100,000 population",K03000001,2.7426501691663723
-2015,Great Britain,,,60 to 69,Undefined,Units,"Rate per 100,000 population",K03000001,1.9906477062761805
-2016,Great Britain,,,60 to 69,Undefined,Units,"Rate per 100,000 population",K03000001,2.1906159453646064
-2017,Great Britain,,,60 to 69,Undefined,Units,"Rate per 100,000 population",K03000001,2.644003777148253
-2013,Great Britain,,,70 to 79,Undefined,Units,"Rate per 100,000 population",K03000001,3.4363430747378017
-2014,Great Britain,,,70 to 79,Undefined,Units,"Rate per 100,000 population",K03000001,3.1622131447822515
-2015,Great Britain,,,70 to 79,Undefined,Units,"Rate per 100,000 population",K03000001,3.5724830543469235
-2016,Great Britain,,,70 to 79,Undefined,Units,"Rate per 100,000 population",K03000001,3.446485415725123
-2017,Great Britain,,,70 to 79,Undefined,Units,"Rate per 100,000 population",K03000001,3.338558565693128
-2013,Great Britain,,,80 and over,Undefined,Units,"Rate per 100,000 population",K03000001,5.888519769088335
-2014,Great Britain,,,80 and over,Undefined,Units,"Rate per 100,000 population",K03000001,6.63689292023622
-2015,Great Britain,,,80 and over,Undefined,Units,"Rate per 100,000 population",K03000001,6.062658897676815
-2016,Great Britain,,,80 and over,Undefined,Units,"Rate per 100,000 population",K03000001,6.850255672867979
-2017,Great Britain,,,80 and over,Undefined,Units,"Rate per 100,000 population",K03000001,6.508331140078652
+Year,Country,Region,Sex,Age,Police Force Area,Observation status,Unit multiplier,Unit measure,GeoCode,Value
+2010,,,,,,Undefined,Units,"Rate per 100,000 population",,3.03539915961
+2011,,,,,,Undefined,Units,"Rate per 100,000 population",,3.0970933226114914
+2012,,,,,,Undefined,Units,"Rate per 100,000 population",,2.8286620381467524
+2013,,,,,,Undefined,Units,"Rate per 100,000 population",,2.7610669099483798
+2014,,,,,,Undefined,Units,"Rate per 100,000 population",,2.8701133456369448
+2015,,,,,,Undefined,Units,"Rate per 100,000 population",,2.7706942988234347
+2016,,,,,,Undefined,Units,"Rate per 100,000 population",,2.833290382072864
+2017,,,,,,Undefined,Units,"Rate per 100,000 population",,2.810408183169686
+2018,,,,,,Undefined,Units,"Rate per 100,000 population",,2.768096297840539
+2010,Great Britain,,,,,Undefined,Units,"Rate per 100,000 population",K03000001,3.0350446101520467
+2011,Great Britain,,,,,Undefined,Units,"Rate per 100,000 population",K03000001,3.092523873153683
+2012,Great Britain,,,,,Undefined,Units,"Rate per 100,000 population",K03000001,2.8344544780470047
+2013,Great Britain,,,,,Undefined,Units,"Rate per 100,000 population",K03000001,2.750661495551516
+2014,Great Britain,,,,,Undefined,Units,"Rate per 100,000 population",K03000001,2.8284033651849265
+2015,Great Britain,,,,,Undefined,Units,"Rate per 100,000 population",K03000001,2.7348141029083357
+2016,Great Britain,,,,,Undefined,Units,"Rate per 100,000 population",K03000001,2.809397566550623
+2017,Great Britain,,,,,Undefined,Units,"Rate per 100,000 population",K03000001,2.7941669077603115
+2018,Great Britain,,,,,Undefined,Units,"Rate per 100,000 population",K03000001,2.7635816755883833
+2010,England,,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.9500905466941396
+2011,England,,,,,Undefined,Units,"Rate per 100,000 population",E92000001,3.0014780113773343
+2012,England,,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.7872425943609205
+2013,England,,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.6547448449542688
+2014,England,,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.710036180824071
+2015,England,,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.67037430707848
+2016,England,,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.710425895662318
+2017,England,,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.776008312203128
+2018,England,,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.7171787759647335
+2010,Wales,,,,,Undefined,Units,"Rate per 100,000 population",W92000004,2.9180605323788327
+2011,Wales,,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.9493980921469642
+2012,Wales,,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.02530816667301
+2013,Wales,,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.601076040451439
+2014,Wales,,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.331138447288453
+2015,Wales,,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.3880957159627063
+2016,Wales,,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.308546006456483
+2017,Wales,,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.2958259803882353
+2018,Wales,,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.281685550165024
+2010,Scotland,,,,,Undefined,Units,"Rate per 100,000 population",S92000003,3.952719394929877
+2011,Scotland,,,,,Undefined,Units,"Rate per 100,000 population",S92000003,3.5095001792486653
+2012,Scotland,,,,,Undefined,Units,"Rate per 100,000 population",S92000003,3.1993375489310454
+2013,Scotland,,,,,Undefined,Units,"Rate per 100,000 population",S92000003,3.228410008071025
+2014,Scotland,,,,,Undefined,Units,"Rate per 100,000 population",S92000003,3.739995512005385
+2015,Scotland,,,,,Undefined,Units,"Rate per 100,000 population",S92000003,3.0150753768844223
+2016,Scotland,,,,,Undefined,Units,"Rate per 100,000 population",S92000003,3.5339611819342425
+2017,Scotland,,,,,Undefined,Units,"Rate per 100,000 population",S92000003,2.6913434596667156
+2018,Scotland,,,,,Undefined,Units,"Rate per 100,000 population",S92000003,2.942204078630404
+2010,Northern Ireland,,,,,Undefined,Units,"Rate per 100,000 population",N92000002,3.0473733580890863
+2011,Northern Ireland,,,,,Undefined,Units,"Rate per 100,000 population",N92000002,3.251910635291057
+2012,Northern Ireland,,,,,Undefined,Units,"Rate per 100,000 population",N92000002,2.632107100437917
+2013,Northern Ireland,,,,,Undefined,Units,"Rate per 100,000 population",N92000002,3.1152222328491983
+2014,Northern Ireland,,,,,Undefined,Units,"Rate per 100,000 population",N92000002,4.292316536067956
+2015,Northern Ireland,,,,,Undefined,Units,"Rate per 100,000 population",N92000002,3.996498203466044
+2016,Northern Ireland,,,,,Undefined,Units,"Rate per 100,000 population",N92000002,3.651718428880367
+2017,Northern Ireland,,,,,Undefined,Units,"Rate per 100,000 population",N92000002,3.367482096220188
+2018,Northern Ireland,,,,,Undefined,Units,"Rate per 100,000 population",N92000002,2.9229805260408335
+2010,England,North East,,,,Undefined,Units,"Rate per 100,000 population",E12000001,1.9714960330407272
+2011,England,North East,,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.233826996261421
+2012,England,North East,,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.958822035308353
+2013,England,North East,,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.9112494124830546
+2014,England,North East,,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.1766226148798506
+2015,England,North East,,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.3622836272026864
+2016,England,North East,,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.123956369384838
+2017,England,North East,,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.193042987045544
+2018,England,North East,,,,Undefined,Units,"Rate per 100,000 population",E12000001,1.9564251447284313
+2010,England,North West,,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.7635638634679793
+2011,England,North West,,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.976206926313793
+2012,England,North West,,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.3290380226043728
+2013,England,North West,,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.0975610854836386
+2014,England,North West,,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.565531094377057
+2015,England,North West,,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.466837756498863
+2016,England,North West,,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.5747647308727166
+2017,England,North West,,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.300710588930937
+2018,England,North West,,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.6604158778556446
+2010,England,Yorkshire and The Humber,,,,Undefined,Units,"Rate per 100,000 population",E12000003,3.2351447860503604
+2011,England,Yorkshire and The Humber,,,,Undefined,Units,"Rate per 100,000 population",E12000003,3.2714270910470304
+2012,England,Yorkshire and The Humber,,,,Undefined,Units,"Rate per 100,000 population",E12000003,2.7083466164569296
+2013,England,Yorkshire and The Humber,,,,Undefined,Units,"Rate per 100,000 population",E12000003,3.091080079581262
+2014,England,Yorkshire and The Humber,,,,Undefined,Units,"Rate per 100,000 population",E12000003,2.9476968506471035
+2015,England,Yorkshire and The Humber,,,,Undefined,Units,"Rate per 100,000 population",E12000003,2.764270266970996
+2016,England,Yorkshire and The Humber,,,,Undefined,Units,"Rate per 100,000 population",E12000003,2.543605320927421
+2017,England,Yorkshire and The Humber,,,,Undefined,Units,"Rate per 100,000 population",E12000003,2.935709790408669
+2018,England,Yorkshire and The Humber,,,,Undefined,Units,"Rate per 100,000 population",E12000003,3.321401229830928
+2010,England,East Midlands,,,,Undefined,Units,"Rate per 100,000 population",E12000004,4.06028660298451
+2011,England,East Midlands,,,,Undefined,Units,"Rate per 100,000 population",E12000004,4.121259351071351
+2012,England,East Midlands,,,,Undefined,Units,"Rate per 100,000 population",E12000004,3.7217057321711686
+2013,England,East Midlands,,,,Undefined,Units,"Rate per 100,000 population",E12000004,3.2184072015775413
+2014,England,East Midlands,,,,Undefined,Units,"Rate per 100,000 population",E12000004,3.644307796080062
+2015,England,East Midlands,,,,Undefined,Units,"Rate per 100,000 population",E12000004,3.719995510350246
+2016,England,East Midlands,,,,Undefined,Units,"Rate per 100,000 population",E12000004,4.0419944173920035
+2017,England,East Midlands,,,,Undefined,Units,"Rate per 100,000 population",E12000004,3.814181461988329
+2018,England,East Midlands,,,,Undefined,Units,"Rate per 100,000 population",E12000004,4.079806850287117
+2010,England,West Midlands,,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.8027983426119136
+2011,England,West Midlands,,,,Undefined,Units,"Rate per 100,000 population",E12000005,3.387614204943884
+2012,England,West Midlands,,,,Undefined,Units,"Rate per 100,000 population",E12000005,3.119039378403807
+2013,England,West Midlands,,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.748884146867946
+2014,England,West Midlands,,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.7304045776983004
+2015,England,West Midlands,,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.8323039732880724
+2016,England,West Midlands,,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.6674592175602108
+2017,England,West Midlands,,,,Undefined,Units,"Rate per 100,000 population",E12000005,3.258993029167476
+2018,England,West Midlands,,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.931827221490395
+2010,England,East of England,,,,Undefined,Units,"Rate per 100,000 population",E12000006,3.392222546329667
+2011,England,East of England,,,,Undefined,Units,"Rate per 100,000 population",E12000006,3.3945037696049654
+2012,England,East of England,,,,Undefined,Units,"Rate per 100,000 population",E12000006,3.1663176944330713
+2013,England,East of England,,,,Undefined,Units,"Rate per 100,000 population",E12000006,2.9906245600169625
+2014,England,East of England,,,,Undefined,Units,"Rate per 100,000 population",E12000006,3.1243508247122853
+2015,England,East of England,,,,Undefined,Units,"Rate per 100,000 population",E12000006,3.1929058240906394
+2016,England,East of England,,,,Undefined,Units,"Rate per 100,000 population",E12000006,3.475278613739098
+2017,England,East of England,,,,Undefined,Units,"Rate per 100,000 population",E12000006,3.2423150648333317
+2018,England,East of England,,,,Undefined,Units,"Rate per 100,000 population",E12000006,2.741398700319002
+2010,England,London,,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.5629855256376142
+2011,England,London,,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.9379828426356713
+2012,England,London,,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.6247769091038415
+2013,England,London,,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.5800494638642688
+2014,England,London,,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.5106451297854955
+2015,England,London,,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.5691830902061052
+2016,England,London,,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.3227424236221728
+2017,England,London,,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.4844190952499607
+2018,England,London,,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.2572853794212244
+2010,England,South East,,,,Undefined,Units,"Rate per 100,000 population",E12000008,3.3108834451281104
+2011,England,South East,,,,Undefined,Units,"Rate per 100,000 population",E12000008,2.981699300479476
+2012,England,South East,,,,Undefined,Units,"Rate per 100,000 population",E12000008,2.6705091434565422
+2013,England,South East,,,,Undefined,Units,"Rate per 100,000 population",E12000008,2.672533655159457
+2014,England,South East,,,,Undefined,Units,"Rate per 100,000 population",E12000008,2.783410647165513
+2015,England,South East,,,,Undefined,Units,"Rate per 100,000 population",E12000008,2.625876707602036
+2016,England,South East,,,,Undefined,Units,"Rate per 100,000 population",E12000008,3.100656043449936
+2017,England,South East,,,,Undefined,Units,"Rate per 100,000 population",E12000008,2.9402614850522943
+2018,England,South East,,,,Undefined,Units,"Rate per 100,000 population",E12000008,2.824727312540202
+2010,England,South West,,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.6493090071408614
+2011,England,South West,,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.0183946630254765
+2012,England,South West,,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.8204114470763457
+2013,England,South West,,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.533107635938176
+2014,England,South West,,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.411221036428522
+2015,England,South West,,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.161775053412067
+2016,England,South West,,,,Undefined,Units,"Rate per 100,000 population",E12000009,2.954518718869931
+2017,England,South West,,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.381710987466804
+2018,England,South West,,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.2858697777662695
+2010,Great Britain,,Male,,,Undefined,Units,"Rate per 100,000 population",K03000001,4.565362302105664
+2011,Great Britain,,Male,,,Undefined,Units,"Rate per 100,000 population",K03000001,4.710682493809491
+2012,Great Britain,,Male,,,Undefined,Units,"Rate per 100,000 population",K03000001,4.39832463935546
+2013,Great Britain,,Male,,,Undefined,Units,"Rate per 100,000 population",K03000001,4.148730723417212
+2014,Great Britain,,Male,,,Undefined,Units,"Rate per 100,000 population",K03000001,4.240711732569971
+2015,Great Britain,,Male,,,Undefined,Units,"Rate per 100,000 population",K03000001,4.2258515844986135
+2016,Great Britain,,Male,,,Undefined,Units,"Rate per 100,000 population",K03000001,4.20183278097667
+2017,Great Britain,,Male,,,Undefined,Units,"Rate per 100,000 population",K03000001,4.229103986150016
+2018,Great Britain,,Male,,,Undefined,Units,"Rate per 100,000 population",K03000001,4.152020829022042
+2010,Great Britain,,Female,,,Undefined,Units,"Rate per 100,000 population",K03000001,1.5595965001623397
+2011,Great Britain,,Female,,,Undefined,Units,"Rate per 100,000 population",K03000001,1.5289693307304602
+2012,Great Britain,,Female,,,Undefined,Units,"Rate per 100,000 population",K03000001,1.3222837034699966
+2013,Great Britain,,Female,,,Undefined,Units,"Rate per 100,000 population",K03000001,1.396963525946053
+2014,Great Britain,,Female,,,Undefined,Units,"Rate per 100,000 population",K03000001,1.459271588738478
+2015,Great Britain,,Female,,,Undefined,Units,"Rate per 100,000 population",K03000001,1.28688110094205
+2016,Great Britain,,Female,,,Undefined,Units,"Rate per 100,000 population",K03000001,1.4540524379571294
+2017,Great Britain,,Female,,,Undefined,Units,"Rate per 100,000 population",K03000001,1.3965860914421817
+2018,Great Britain,,Female,,,Undefined,Units,"Rate per 100,000 population",K03000001,1.4102212037495243
+2013,Great Britain,,,4 and under,,Undefined,Units,"Rate per 100,000 population",K03000001,0.25727112517526596
+2014,Great Britain,,,4 and under,,Undefined,Units,"Rate per 100,000 population",K03000001,0.23074029948552605
+2015,Great Britain,,,4 and under,,Undefined,Units,"Rate per 100,000 population",K03000001,0.28192289870048926
+2016,Great Britain,,,4 and under,,Undefined,Units,"Rate per 100,000 population",K03000001,0.4113591692601577
+2017,Great Britain,,,4 and under,,Undefined,Units,"Rate per 100,000 population",K03000001,0.31268402757873126
+2018,Great Britain,,,4 and under,,Undefined,Units,"Rate per 100,000 population",K03000001,0.3428006071262445
+2013,Great Britain,,,5 to 7,,Undefined,Units,"Rate per 100,000 population",K03000001,0.26661772750157414
+2014,Great Britain,,,5 to 7,,Undefined,Units,"Rate per 100,000 population",K03000001,0.4355425357373539
+2015,Great Britain,,,5 to 7,,Undefined,Units,"Rate per 100,000 population",K03000001,0.47078903814803574
+2016,Great Britain,,,5 to 7,,Undefined,Units,"Rate per 100,000 population",K03000001,0.337860095513049
+2017,Great Britain,,,5 to 7,,Undefined,Units,"Rate per 100,000 population",K03000001,0.3312024595094643
+2018,Great Britain,,,5 to 7,,Undefined,Units,"Rate per 100,000 population",K03000001,0.2468645121154931
+2013,Great Britain,,,8 to 11,,Undefined,Units,"Rate per 100,000 population",K03000001,0.367399874349243
+2014,Great Britain,,,8 to 11,,Undefined,Units,"Rate per 100,000 population",K03000001,0.3560762815096352
+2015,Great Britain,,,8 to 11,,Undefined,Units,"Rate per 100,000 population",K03000001,0.41372719242658584
+2016,Great Britain,,,8 to 11,,Undefined,Units,"Rate per 100,000 population",K03000001,0.6668760657513126
+2017,Great Britain,,,8 to 11,,Undefined,Units,"Rate per 100,000 population",K03000001,0.32499652253720884
+2018,Great Britain,,,8 to 11,,Undefined,Units,"Rate per 100,000 population",K03000001,0.2232694623192913
+2013,Great Britain,,,12 to 15,,Undefined,Units,"Rate per 100,000 population",K03000001,0.7810311670487211
+2014,Great Britain,,,12 to 15,,Undefined,Units,"Rate per 100,000 population",K03000001,0.8681262038468842
+2015,Great Britain,,,12 to 15,,Undefined,Units,"Rate per 100,000 population",K03000001,0.7315492310686033
+2016,Great Britain,,,12 to 15,,Undefined,Units,"Rate per 100,000 population",K03000001,0.910531535531308
+2017,Great Britain,,,12 to 15,,Undefined,Units,"Rate per 100,000 population",K03000001,0.6464272683132846
+2018,Great Britain,,,12 to 15,,Undefined,Units,"Rate per 100,000 population",K03000001,0.7658383196950292
+2013,Great Britain,,,16 to 19,,Undefined,Units,"Rate per 100,000 population",K03000001,4.846256629398844
+2014,Great Britain,,,16 to 19,,Undefined,Units,"Rate per 100,000 population",K03000001,4.257898234901592
+2015,Great Britain,,,16 to 19,,Undefined,Units,"Rate per 100,000 population",K03000001,3.9341385203504986
+2016,Great Britain,,,16 to 19,,Undefined,Units,"Rate per 100,000 population",K03000001,3.569402141978021
+2017,Great Britain,,,16 to 19,,Undefined,Units,"Rate per 100,000 population",K03000001,3.7760500251107327
+2018,Great Britain,,,16 to 19,,Undefined,Units,"Rate per 100,000 population",K03000001,3.699873261888548
+2013,Great Britain,,,20 to 29,,Undefined,Units,"Rate per 100,000 population",K03000001,4.632807810581356
+2014,Great Britain,,,20 to 29,,Undefined,Units,"Rate per 100,000 population",K03000001,4.621434211874675
+2015,Great Britain,,,20 to 29,,Undefined,Units,"Rate per 100,000 population",K03000001,4.616625741221639
+2016,Great Britain,,,20 to 29,,Undefined,Units,"Rate per 100,000 population",K03000001,4.2832286719562
+2017,Great Britain,,,20 to 29,,Undefined,Units,"Rate per 100,000 population",K03000001,4.3131122019119426
+2018,Great Britain,,,20 to 29,,Undefined,Units,"Rate per 100,000 population",K03000001,3.9300400934901067
+2013,Great Britain,,,30 to 39,,Undefined,Units,"Rate per 100,000 population",K03000001,2.507664515206378
+2014,Great Britain,,,30 to 39,,Undefined,Units,"Rate per 100,000 population",K03000001,2.823092800484635
+2015,Great Britain,,,30 to 39,,Undefined,Units,"Rate per 100,000 population",K03000001,2.396703595773188
+2016,Great Britain,,,30 to 39,,Undefined,Units,"Rate per 100,000 population",K03000001,3.067958884557261
+2017,Great Britain,,,30 to 39,,Undefined,Units,"Rate per 100,000 population",K03000001,3.2157598716438907
+2018,Great Britain,,,30 to 39,,Undefined,Units,"Rate per 100,000 population",K03000001,3.1096461222712857
+2013,Great Britain,,,40 to 49,,Undefined,Units,"Rate per 100,000 population",K03000001,2.8470038087082448
+2014,Great Britain,,,40 to 49,,Undefined,Units,"Rate per 100,000 population",K03000001,2.680386002842572
+2015,Great Britain,,,40 to 49,,Undefined,Units,"Rate per 100,000 population",K03000001,2.9739132479535906
+2016,Great Britain,,,40 to 49,,Undefined,Units,"Rate per 100,000 population",K03000001,2.821184874234856
+2017,Great Britain,,,40 to 49,,Undefined,Units,"Rate per 100,000 population",K03000001,2.6230077362036353
+2018,Great Britain,,,40 to 49,,Undefined,Units,"Rate per 100,000 population",K03000001,2.519025606985258
+2013,Great Britain,,,50 to 59,,Undefined,Units,"Rate per 100,000 population",K03000001,2.7059181478816026
+2014,Great Britain,,,50 to 59,,Undefined,Units,"Rate per 100,000 population",K03000001,2.5168901305546867
+2015,Great Britain,,,50 to 59,,Undefined,Units,"Rate per 100,000 population",K03000001,2.6467601299305423
+2016,Great Britain,,,50 to 59,,Undefined,Units,"Rate per 100,000 population",K03000001,2.614745936613826
+2017,Great Britain,,,50 to 59,,Undefined,Units,"Rate per 100,000 population",K03000001,2.5227295608334726
+2018,Great Britain,,,50 to 59,,Undefined,Units,"Rate per 100,000 population",K03000001,2.685321002584105
+2013,Great Britain,,,60 to 69,,Undefined,Units,"Rate per 100,000 population",K03000001,1.9120377958787267
+2014,Great Britain,,,60 to 69,,Undefined,Units,"Rate per 100,000 population",K03000001,2.7426501691663723
+2015,Great Britain,,,60 to 69,,Undefined,Units,"Rate per 100,000 population",K03000001,1.9906477062761805
+2016,Great Britain,,,60 to 69,,Undefined,Units,"Rate per 100,000 population",K03000001,2.1906159453646064
+2017,Great Britain,,,60 to 69,,Undefined,Units,"Rate per 100,000 population",K03000001,2.644003777148253
+2018,Great Britain,,,60 to 69,,Undefined,Units,"Rate per 100,000 population",K03000001,2.7626233347742595
+2013,Great Britain,,,70 to 79,,Undefined,Units,"Rate per 100,000 population",K03000001,3.4363430747378017
+2014,Great Britain,,,70 to 79,,Undefined,Units,"Rate per 100,000 population",K03000001,3.1622131447822515
+2015,Great Britain,,,70 to 79,,Undefined,Units,"Rate per 100,000 population",K03000001,3.5724830543469235
+2016,Great Britain,,,70 to 79,,Undefined,Units,"Rate per 100,000 population",K03000001,3.446485415725123
+2017,Great Britain,,,70 to 79,,Undefined,Units,"Rate per 100,000 population",K03000001,3.338558565693128
+2018,Great Britain,,,70 to 79,,Undefined,Units,"Rate per 100,000 population",K03000001,3.852379798269945
+2013,Great Britain,,,80 and over,,Undefined,Units,"Rate per 100,000 population",K03000001,5.888519769088335
+2014,Great Britain,,,80 and over,,Undefined,Units,"Rate per 100,000 population",K03000001,6.63689292023622
+2015,Great Britain,,,80 and over,,Undefined,Units,"Rate per 100,000 population",K03000001,6.062658897676815
+2016,Great Britain,,,80 and over,,Undefined,Units,"Rate per 100,000 population",K03000001,6.850255672867979
+2017,Great Britain,,,80 and over,,Undefined,Units,"Rate per 100,000 population",K03000001,6.508331140078652
+2018,Great Britain,,,80 and over,,Undefined,Units,"Rate per 100,000 population",K03000001,5.994704053637614
+2013,England,,,,Avon and Somerset,Undefined,Units,"Rate per 100,000 population",E23000036,4.7717525191213825
+2013,England,,,,Bedfordshire,Undefined,Units,"Rate per 100,000 population",E23000026,1.7384433030422757
+2013,England,,,,Cambridgeshire,Undefined,Units,"Rate per 100,000 population",E23000023,4.404806622871469
+2013,England,,,,Cheshire,Undefined,Units,"Rate per 100,000 population",E23000006,2.7044935159767958
+2013,England,,,,City of London,Undefined,Units,"Rate per 100,000 population",E23000034,16.5809981760902
+2013,England,,,,Cleveland,Undefined,Units,"Rate per 100,000 population",E23000013,2.1429872527974916
+2013,England,,,,Cumbria,Undefined,Units,"Rate per 100,000 population",E23000002,5.416259611353283
+2013,England,,,,Derbyshire,Undefined,Units,"Rate per 100,000 population",E23000018,2.432022538039264
+2013,England,,,,Devon and Cornwall,Undefined,Units,"Rate per 100,000 population",E23000035,2.717516520728153
+2013,England,,,,Dorset,Undefined,Units,"Rate per 100,000 population",E23000039,3.7148433198493365
+2013,England,,,,Durham,Undefined,Units,"Rate per 100,000 population",E23000008,5.630186809598342
+2013,England,,,,Essex,Undefined,Units,"Rate per 100,000 population",E23000028,2.222048763144985
+2013,England,,,,Gloucestershire,Undefined,Units,"Rate per 100,000 population",E23000037,5.280885340427322
+2013,England,,,,Greater Manchester,Undefined,Units,"Rate per 100,000 population",E23000005,1.2898128371017978
+2013,England,,,,Hampshire,Undefined,Units,"Rate per 100,000 population",E23000030,2.856752557962211
+2013,England,,,,Hertfordshire,Undefined,Units,"Rate per 100,000 population",E23000027,2.3671378147635753
+2013,England,,,,Humberside,Undefined,Units,"Rate per 100,000 population",E23000012,2.9286102442786346
+2013,England,,,,Kent,Undefined,Units,"Rate per 100,000 population",E23000032,3.118262073485531
+2013,England,,,,Lancashire,Undefined,Units,"Rate per 100,000 population",E23000003,2.452382898716586
+2013,England,,,,Leicestershire,Undefined,Units,"Rate per 100,000 population",E23000021,2.9032098856232076
+2013,England,,,,Lincolnshire,Undefined,Units,"Rate per 100,000 population",E23000020,4.968786360129354
+2013,England,,,,Merseyside,Undefined,Units,"Rate per 100,000 population",E23000004,1.656889816106842
+2013,England,,,,Metropolitan Police,Undefined,Units,"Rate per 100,000 population",E23000001,1.5692937714373556
+2013,England,,,,Norfolk,Undefined,Units,"Rate per 100,000 population",E23000024,4.596137406123893
+2013,England,,,,North Yorkshire,Undefined,Units,"Rate per 100,000 population",E23000009,6.32097933039759
+2013,England,,,,Northamptonshire,Undefined,Units,"Rate per 100,000 population",E23000022,3.68452005583465
+2013,England,,,,Northumbria,Undefined,Units,"Rate per 100,000 population",E23000007,2.0294650330172965
+2013,England,,,,Nottinghamshire,Undefined,Units,"Rate per 100,000 population",E23000019,2.8001589767677135
+2013,England,,,,South Yorkshire,Undefined,Units,"Rate per 100,000 population",E23000011,2.3555045196242967
+2013,England,,,,Staffordshire,Undefined,Units,"Rate per 100,000 population",E23000015,2.529287797722015
+2013,England,,,,Suffolk,Undefined,Units,"Rate per 100,000 population",E23000025,3.3974592440789078
+2013,England,,,,Surrey,Undefined,Units,"Rate per 100,000 population",E23000031,1.559608226413525
+2013,England,,,,Sussex,Undefined,Units,"Rate per 100,000 population",E23000033,3.0565429887488653
+2013,England,,,,Thames Valley,Undefined,Units,"Rate per 100,000 population",E23000029,2.4631425290942506
+2013,England,,,,Warwickshire,Undefined,Units,"Rate per 100,000 population",E23000017,4.185493806379057
+2013,England,,,,West Mercia,Undefined,Units,"Rate per 100,000 population",E23000016,3.4769136973419403
+2013,England,,,,West Midlands,Undefined,Units,"Rate per 100,000 population",E23000014,2.2288103940213237
+2013,England,,,,West Yorkshire,Undefined,Units,"Rate per 100,000 population",E23000010,2.44374499032277
+2013,England,,,,Wiltshire,Undefined,Units,"Rate per 100,000 population",E23000038,3.6026221324929137
+2013,Wales,,,,Dyfed-Powys,Undefined,Units,"Rate per 100,000 population",W15000004,5.032722373741578
+2013,Wales,,,,Gwent,Undefined,Units,"Rate per 100,000 population",W15000002,4.142602175556576
+2013,Wales,,,,North Wales,Undefined,Units,"Rate per 100,000 population",W15000001,4.195723255881246
+2013,Wales,,,,South Wales,Undefined,Units,"Rate per 100,000 population",W15000003,2.470533102441427
+2014,England,,,,Avon and Somerset,Undefined,Units,"Rate per 100,000 population",E23000036,4.340811587073063
+2014,England,,,,Bedfordshire,Undefined,Units,"Rate per 100,000 population",E23000026,2.647900837671218
+2014,England,,,,Cambridgeshire,Undefined,Units,"Rate per 100,000 population",E23000023,3.6333732600683804
+2014,England,,,,Cheshire,Undefined,Units,"Rate per 100,000 population",E23000006,3.2690421706440014
+2014,England,,,,City of London,Undefined,Units,"Rate per 100,000 population",E23000034,65.15719172503664
+2014,England,,,,Cleveland,Undefined,Units,"Rate per 100,000 population",E23000013,1.2475005435538082
+2014,England,,,,Cumbria,Undefined,Units,"Rate per 100,000 population",E23000002,5.016292919402218
+2014,England,,,,Derbyshire,Undefined,Units,"Rate per 100,000 population",E23000018,3.486024431221222
+2014,England,,,,Devon and Cornwall,Undefined,Units,"Rate per 100,000 population",E23000035,3.0467601514239795
+2014,England,,,,Dorset,Undefined,Units,"Rate per 100,000 population",E23000039,2.5071155899045054
+2014,England,,,,Durham,Undefined,Units,"Rate per 100,000 population",E23000008,3.207955730210923
+2014,England,,,,Essex,Undefined,Units,"Rate per 100,000 population",E23000028,2.140277143360832
+2014,England,,,,Gloucestershire,Undefined,Units,"Rate per 100,000 population",E23000037,4.740583811069754
+2014,England,,,,Greater Manchester,Undefined,Units,"Rate per 100,000 population",E23000005,1.9779328623655417
+2014,England,,,,Hampshire,Undefined,Units,"Rate per 100,000 population",E23000030,2.217521306254132
+2014,England,,,,Hertfordshire,Undefined,Units,"Rate per 100,000 population",E23000027,2.9457760603710814
+2014,England,,,,Humberside,Undefined,Units,"Rate per 100,000 population",E23000012,3.1389086122993266
+2014,England,,,,Kent,Undefined,Units,"Rate per 100,000 population",E23000032,2.805028630927236
+2014,England,,,,Lancashire,Undefined,Units,"Rate per 100,000 population",E23000003,2.9233424818089917
+2014,England,,,,Leicestershire,Undefined,Units,"Rate per 100,000 population",E23000021,3.4501397306590915
+2014,England,,,,Lincolnshire,Undefined,Units,"Rate per 100,000 population",E23000020,5.738598634213525
+2014,England,,,,Merseyside,Undefined,Units,"Rate per 100,000 population",E23000004,1.937500538194594
+2014,England,,,,Metropolitan Police,Undefined,Units,"Rate per 100,000 population",E23000001,1.4648565102735074
+2014,England,,,,Norfolk,Undefined,Units,"Rate per 100,000 population",E23000024,4.445011784979963
+2014,England,,,,North Yorkshire,Undefined,Units,"Rate per 100,000 population",E23000009,5.566661388646979
+2014,England,,,,Northamptonshire,Undefined,Units,"Rate per 100,000 population",E23000022,2.9438523251526947
+2014,England,,,,Northumbria,Undefined,Units,"Rate per 100,000 population",E23000007,2.091810978381831
+2014,England,,,,Nottinghamshire,Undefined,Units,"Rate per 100,000 population",E23000019,3.04659225215748
+2014,England,,,,South Yorkshire,Undefined,Units,"Rate per 100,000 population",E23000011,1.9032448861273945
+2014,England,,,,Staffordshire,Undefined,Units,"Rate per 100,000 population",E23000015,2.6106698978958
+2014,England,,,,Suffolk,Undefined,Units,"Rate per 100,000 population",E23000025,4.040409482032972
+2014,England,,,,Surrey,Undefined,Units,"Rate per 100,000 population",E23000031,3.2643383916261133
+2014,England,,,,Sussex,Undefined,Units,"Rate per 100,000 population",E23000033,2.3612536440500946
+2014,England,,,,Thames Valley,Undefined,Units,"Rate per 100,000 population",E23000029,3.295344149480234
+2014,England,,,,Warwickshire,Undefined,Units,"Rate per 100,000 population",E23000017,5.068331975744411
+2014,England,,,,West Mercia,Undefined,Units,"Rate per 100,000 population",E23000016,3.4558360229917575
+2014,England,,,,West Midlands,Undefined,Units,"Rate per 100,000 population",E23000014,1.9958009773009713
+2014,England,,,,West Yorkshire,Undefined,Units,"Rate per 100,000 population",E23000010,2.564378047685936
+2014,England,,,,Wiltshire,Undefined,Units,"Rate per 100,000 population",E23000038,4.42508825196167
+2014,Wales,,,,Dyfed-Powys,Undefined,Units,"Rate per 100,000 population",W15000004,7.160772898990524
+2014,Wales,,,,Gwent,Undefined,Units,"Rate per 100,000 population",W15000002,2.5826713085878987
+2014,Wales,,,,North Wales,Undefined,Units,"Rate per 100,000 population",W15000001,3.607154863815475
+2014,Wales,,,,South Wales,Undefined,Units,"Rate per 100,000 population",W15000003,1.9977394809411813
+2015,England,,,,Avon and Somerset,Undefined,Units,"Rate per 100,000 population",E23000036,3.9969271623975486
+2015,England,,,,Bedfordshire,Undefined,Units,"Rate per 100,000 population",E23000026,3.9854194960590332
+2015,England,,,,Cambridgeshire,Undefined,Units,"Rate per 100,000 population",E23000023,4.070973836809027
+2015,England,,,,Cheshire,Undefined,Units,"Rate per 100,000 population",E23000006,3.639250659135333
+2015,England,,,,City of London,Undefined,Units,"Rate per 100,000 population",E23000034,14.954389113204725
+2015,England,,,,Cleveland,Undefined,Units,"Rate per 100,000 population",E23000013,1.0671219720414042
+2015,England,,,,Cumbria,Undefined,Units,"Rate per 100,000 population",E23000002,5.8165072475686
+2015,England,,,,Derbyshire,Undefined,Units,"Rate per 100,000 population",E23000018,2.4109003555595843
+2015,England,,,,Devon and Cornwall,Undefined,Units,"Rate per 100,000 population",E23000035,2.0927786927225367
+2015,England,,,,Dorset,Undefined,Units,"Rate per 100,000 population",E23000039,3.672010753745779
+2015,England,,,,Durham,Undefined,Units,"Rate per 100,000 population",E23000008,4.157704946869328
+2015,England,,,,Essex,Undefined,Units,"Rate per 100,000 population",E23000028,2.4572810073958573
+2015,England,,,,Gloucestershire,Undefined,Units,"Rate per 100,000 population",E23000037,4.210342219854355
+2015,England,,,,Greater Manchester,Undefined,Units,"Rate per 100,000 population",E23000005,1.7792192277680203
+2015,England,,,,Hampshire,Undefined,Units,"Rate per 100,000 population",E23000030,2.150153403206493
+2015,England,,,,Hertfordshire,Undefined,Units,"Rate per 100,000 population",E23000027,2.059498923911812
+2015,England,,,,Humberside,Undefined,Units,"Rate per 100,000 population",E23000012,2.0537054791781286
+2015,England,,,,Kent,Undefined,Units,"Rate per 100,000 population",E23000032,3.0584849044306885
+2015,England,,,,Lancashire,Undefined,Units,"Rate per 100,000 population",E23000003,2.4375496396827665
+2015,England,,,,Leicestershire,Undefined,Units,"Rate per 100,000 population",E23000021,4.830469464802926
+2015,England,,,,Lincolnshire,Undefined,Units,"Rate per 100,000 population",E23000020,5.2892113650233945
+2015,England,,,,Merseyside,Undefined,Units,"Rate per 100,000 population",E23000004,1.7837827038720926
+2015,England,,,,Metropolitan Police,Undefined,Units,"Rate per 100,000 population",E23000001,1.5588477136265113
+2015,England,,,,Norfolk,Undefined,Units,"Rate per 100,000 population",E23000024,3.7298756256018666
+2015,England,,,,North Yorkshire,Undefined,Units,"Rate per 100,000 population",E23000009,4.0650356429716155
+2015,England,,,,Northamptonshire,Undefined,Units,"Rate per 100,000 population",E23000022,4.431108040107066
+2015,England,,,,Northumbria,Undefined,Units,"Rate per 100,000 population",E23000007,2.087720445881415
+2015,England,,,,Nottinghamshire,Undefined,Units,"Rate per 100,000 population",E23000019,2.3996736443843636
+2015,England,,,,South Yorkshire,Undefined,Units,"Rate per 100,000 population",E23000011,3.562452334024255
+2015,England,,,,Staffordshire,Undefined,Units,"Rate per 100,000 population",E23000015,3.1420794461321897
+2015,England,,,,Suffolk,Undefined,Units,"Rate per 100,000 population",E23000025,4.413334153589378
+2015,England,,,,Surrey,Undefined,Units,"Rate per 100,000 population",E23000031,2.388300059195723
+2015,England,,,,Sussex,Undefined,Units,"Rate per 100,000 population",E23000033,2.5185608943049944
+2015,England,,,,Thames Valley,Undefined,Units,"Rate per 100,000 population",E23000029,2.8840860373760586
+2015,England,,,,Warwickshire,Undefined,Units,"Rate per 100,000 population",E23000017,5.7641663394301395
+2015,England,,,,West Mercia,Undefined,Units,"Rate per 100,000 population",E23000016,3.116320249049922
+2015,England,,,,West Midlands,Undefined,Units,"Rate per 100,000 population",E23000014,2.0109437676619075
+2015,England,,,,West Yorkshire,Undefined,Units,"Rate per 100,000 population",E23000010,2.1073002147690136
+2015,England,,,,Wiltshire,Undefined,Units,"Rate per 100,000 population",E23000038,4.673750940061269
+2015,Wales,,,,Dyfed-Powys,Undefined,Units,"Rate per 100,000 population",W15000004,6.784799722404766
+2015,Wales,,,,Gwent,Undefined,Units,"Rate per 100,000 population",W15000002,2.4044860840367885
+2015,Wales,,,,North Wales,Undefined,Units,"Rate per 100,000 population",W15000001,3.8940809968847354
+2015,Wales,,,,South Wales,Undefined,Units,"Rate per 100,000 population",W15000003,2.21776629637617
+2016,England,,,,Avon and Somerset,Undefined,Units,"Rate per 100,000 population",E23000036,3.6514456946676987
+2016,England,,,,Bedfordshire,Undefined,Units,"Rate per 100,000 population",E23000026,2.721257099835364
+2016,England,,,,Cambridgeshire,Undefined,Units,"Rate per 100,000 population",E23000023,5.348801274203326
+2016,England,,,,Cheshire,Undefined,Units,"Rate per 100,000 population",E23000006,3.430839049810065
+2016,England,,,,City of London,Undefined,Units,"Rate per 100,000 population",E23000034,27.60143527463428
+2016,England,,,,Cleveland,Undefined,Units,"Rate per 100,000 population",E23000013,1.062652202789462
+2016,England,,,,Cumbria,Undefined,Units,"Rate per 100,000 population",E23000002,5.814035080684773
+2016,England,,,,Derbyshire,Undefined,Units,"Rate per 100,000 population",E23000018,3.355907403802914
+2016,England,,,,Devon and Cornwall,Undefined,Units,"Rate per 100,000 population",E23000035,2.942907592701589
+2016,England,,,,Dorset,Undefined,Units,"Rate per 100,000 population",E23000039,2.085242090090278
+2016,England,,,,Durham,Undefined,Units,"Rate per 100,000 population",E23000008,3.9802389098603252
+2016,England,,,,Essex,Undefined,Units,"Rate per 100,000 population",E23000028,3.486549666176705
+2016,England,,,,Gloucestershire,Undefined,Units,"Rate per 100,000 population",E23000037,4.1727251425948575
+2016,England,,,,Greater Manchester,Undefined,Units,"Rate per 100,000 population",E23000005,1.941856501119804
+2016,England,,,,Hampshire,Undefined,Units,"Rate per 100,000 population",E23000030,2.74239885753695
+2016,England,,,,Hertfordshire,Undefined,Units,"Rate per 100,000 population",E23000027,1.7001222387889687
+2016,England,,,,Humberside,Undefined,Units,"Rate per 100,000 population",E23000012,3.338811856874829
+2016,England,,,,Kent,Undefined,Units,"Rate per 100,000 population",E23000032,2.641142954613609
+2016,England,,,,Lancashire,Undefined,Units,"Rate per 100,000 population",E23000003,3.3021916443768733
+2016,England,,,,Leicestershire,Undefined,Units,"Rate per 100,000 population",E23000021,4.022721829720992
+2016,England,,,,Lincolnshire,Undefined,Units,"Rate per 100,000 population",E23000020,7.921472695757716
+2016,England,,,,Merseyside,Undefined,Units,"Rate per 100,000 population",E23000004,1.2755508785356675
+2016,England,,,,Metropolitan Police,Undefined,Units,"Rate per 100,000 population",E23000001,1.3010114907845591
+2016,England,,,,Norfolk,Undefined,Units,"Rate per 100,000 population",E23000024,3.9249504615181037
+2016,England,,,,North Yorkshire,Undefined,Units,"Rate per 100,000 population",E23000009,4.041849060208853
+2016,England,,,,Northamptonshire,Undefined,Units,"Rate per 100,000 population",E23000022,3.549720664289264
+2016,England,,,,Northumbria,Undefined,Units,"Rate per 100,000 population",E23000007,1.7314686108981405
+2016,England,,,,Nottinghamshire,Undefined,Units,"Rate per 100,000 population",E23000019,2.4642203998725645
+2016,England,,,,South Yorkshire,Undefined,Units,"Rate per 100,000 population",E23000011,2.670683760005139
+2016,England,,,,Staffordshire,Undefined,Units,"Rate per 100,000 population",E23000015,2.6783585947188127
+2016,England,,,,Suffolk,Undefined,Units,"Rate per 100,000 population",E23000025,4.259992678137584
+2016,England,,,,Surrey,Undefined,Units,"Rate per 100,000 population",E23000031,2.624991955669813
+2016,England,,,,Sussex,Undefined,Units,"Rate per 100,000 population",E23000033,3.207378395811877
+2016,England,,,,Thames Valley,Undefined,Units,"Rate per 100,000 population",E23000029,3.908714289376829
+2016,England,,,,Warwickshire,Undefined,Units,"Rate per 100,000 population",E23000017,4.472343919669548
+2016,England,,,,West Mercia,Undefined,Units,"Rate per 100,000 population",E23000016,3.1717284810116544
+2016,England,,,,West Midlands,Undefined,Units,"Rate per 100,000 population",E23000014,2.0901910469453426
+2016,England,,,,West Yorkshire,Undefined,Units,"Rate per 100,000 population",E23000010,1.612182873824904
+2016,England,,,,Wiltshire,Undefined,Units,"Rate per 100,000 population",E23000038,3.376382206465772
+2016,Wales,,,,Dyfed-Powys,Undefined,Units,"Rate per 100,000 population",W15000004,5.620231282207317
+2016,Wales,,,,Gwent,Undefined,Units,"Rate per 100,000 population",W15000002,3.0778122226762945
+2016,Wales,,,,North Wales,Undefined,Units,"Rate per 100,000 population",W15000001,4.749390494886489
+2016,Wales,,,,South Wales,Undefined,Units,"Rate per 100,000 population",W15000003,1.74573055028463
+2017,England,,,,Avon and Somerset,Undefined,Units,"Rate per 100,000 population",E23000036,4.184153269481576
+2017,England,,,,Bedfordshire,Undefined,Units,"Rate per 100,000 population",E23000026,2.858862473668372
+2017,England,,,,Cambridgeshire,Undefined,Units,"Rate per 100,000 population",E23000023,5.666050090243652
+2017,England,,,,Cheshire,Undefined,Units,"Rate per 100,000 population",E23000006,2.087027134198691
+2017,England,,,,City of London,Undefined,Units,"Rate per 100,000 population",E23000034,26.130128037627383
+2017,England,,,,Cleveland,Undefined,Units,"Rate per 100,000 population",E23000013,1.2364214430804559
+2017,England,,,,Cumbria,Undefined,Units,"Rate per 100,000 population",E23000002,5.618259342864309
+2017,England,,,,Derbyshire,Undefined,Units,"Rate per 100,000 population",E23000018,3.4318398474737846
+2017,England,,,,Devon and Cornwall,Undefined,Units,"Rate per 100,000 population",E23000035,3.6018606182851025
+2017,England,,,,Dorset,Undefined,Units,"Rate per 100,000 population",E23000039,3.5033586829447416
+2017,England,,,,Durham,Undefined,Units,"Rate per 100,000 population",E23000008,3.0158299325882645
+2017,England,,,,Essex,Undefined,Units,"Rate per 100,000 population",E23000028,2.5269463117295903
+2017,England,,,,Gloucestershire,Undefined,Units,"Rate per 100,000 population",E23000037,3.184008635031418
+2017,England,,,,Greater Manchester,Undefined,Units,"Rate per 100,000 population",E23000005,1.7864805582680285
+2017,England,,,,Hampshire,Undefined,Units,"Rate per 100,000 population",E23000030,2.1730462419186685
+2017,England,,,,Hertfordshire,Undefined,Units,"Rate per 100,000 population",E23000027,2.032289696121883
+2017,England,,,,Humberside,Undefined,Units,"Rate per 100,000 population",E23000012,3.2263129480542103
+2017,England,,,,Kent,Undefined,Units,"Rate per 100,000 population",E23000032,3.3838140168492106
+2017,England,,,,Lancashire,Undefined,Units,"Rate per 100,000 population",E23000003,2.750760316860752
+2017,England,,,,Leicestershire,Undefined,Units,"Rate per 100,000 population",E23000021,1.8463367755205284
+2017,England,,,,Lincolnshire,Undefined,Units,"Rate per 100,000 population",E23000020,6.523148524104365
+2017,England,,,,Merseyside,Undefined,Units,"Rate per 100,000 population",E23000004,1.835089019462531
+2017,England,,,,Metropolitan Police,Undefined,Units,"Rate per 100,000 population",E23000001,1.463025102675442
+2017,England,,,,Norfolk,Undefined,Units,"Rate per 100,000 population",E23000024,3.3393069824909003
+2017,England,,,,North Yorkshire,Undefined,Units,"Rate per 100,000 population",E23000009,5.245207344266134
+2017,England,,,,Northamptonshire,Undefined,Units,"Rate per 100,000 population",E23000022,5.936247401205328
+2017,England,,,,Northumbria,Undefined,Units,"Rate per 100,000 population",E23000007,2.2090782068912196
+2017,England,,,,Nottinghamshire,Undefined,Units,"Rate per 100,000 population",E23000019,2.8769201262357678
+2017,England,,,,South Yorkshire,Undefined,Units,"Rate per 100,000 population",E23000011,3.1576416722583236
+2017,England,,,,Staffordshire,Undefined,Units,"Rate per 100,000 population",E23000015,3.1077878499702094
+2017,England,,,,Suffolk,Undefined,Units,"Rate per 100,000 population",E23000025,4.359439772357981
+2017,England,,,,Surrey,Undefined,Units,"Rate per 100,000 population",E23000031,3.037151961367427
+2017,England,,,,Sussex,Undefined,Units,"Rate per 100,000 population",E23000033,3.3081930354266125
+2017,England,,,,Thames Valley,Undefined,Units,"Rate per 100,000 population",E23000029,2.9267933717328622
+2017,England,,,,Warwickshire,Undefined,Units,"Rate per 100,000 population",E23000017,6.7308816392176585
+2017,England,,,,West Mercia,Undefined,Units,"Rate per 100,000 population",E23000016,4.636039470768592
+2017,England,,,,West Midlands,Undefined,Units,"Rate per 100,000 population",E23000014,2.0363765888483187
+2017,England,,,,West Yorkshire,Undefined,Units,"Rate per 100,000 population",E23000010,1.8638642239931342
+2017,England,,,,Wiltshire,Undefined,Units,"Rate per 100,000 population",E23000038,3.489641348620754
+2017,Wales,,,,Dyfed-Powys,Undefined,Units,"Rate per 100,000 population",W15000004,5.224923271034187
+2017,Wales,,,,Gwent,Undefined,Units,"Rate per 100,000 population",W15000002,3.232705451192103
+2017,Wales,,,,North Wales,Undefined,Units,"Rate per 100,000 population",W15000001,3.303249823347944
+2017,Wales,,,,South Wales,Undefined,Units,"Rate per 100,000 population",W15000003,2.567231256191558
+2018,England,,,,Avon and Somerset,Undefined,Units,"Rate per 100,000 population",E23000036,2.746172449112548
+2018,England,,,,Bedfordshire,Undefined,Units,"Rate per 100,000 population",E23000026,2.9880269759075384
+2018,England,,,,Cambridgeshire,Undefined,Units,"Rate per 100,000 population",E23000023,3.401667755591345
+2018,England,,,,Cheshire,Undefined,Units,"Rate per 100,000 population",E23000006,4.342609209541279
+2018,England,,,,City of London,Undefined,Units,"Rate per 100,000 population",E23000034,11.486331265793705
+2018,England,,,,Cleveland,Undefined,Units,"Rate per 100,000 population",E23000013,1.761437896984066
+2018,England,,,,Cumbria,Undefined,Units,"Rate per 100,000 population",E23000002,5.011144786004073
+2018,England,,,,Derbyshire,Undefined,Units,"Rate per 100,000 population",E23000018,4.841851827941472
+2018,England,,,,Devon and Cornwall,Undefined,Units,"Rate per 100,000 population",E23000035,3.3477532603712263
+2018,England,,,,Dorset,Undefined,Units,"Rate per 100,000 population",E23000039,2.07181962738324
+2018,England,,,,Durham,Undefined,Units,"Rate per 100,000 population",E23000008,1.736259087737907
+2018,England,,,,Essex,Undefined,Units,"Rate per 100,000 population",E23000028,2.6735750390669333
+2018,England,,,,Gloucestershire,Undefined,Units,"Rate per 100,000 population",E23000037,4.577323623093703
+2018,England,,,,Greater Manchester,Undefined,Units,"Rate per 100,000 population",E23000005,1.7777341640329534
+2018,England,,,,Hampshire,Undefined,Units,"Rate per 100,000 population",E23000030,2.9207622383714633
+2018,England,,,,Hertfordshire,Undefined,Units,"Rate per 100,000 population",E23000027,2.195269194885023
+2018,England,,,,Humberside,Undefined,Units,"Rate per 100,000 population",E23000012,3.2185905791853746
+2018,England,,,,Kent,Undefined,Units,"Rate per 100,000 population",E23000032,2.7620150361932283
+2018,England,,,,Lancashire,Undefined,Units,"Rate per 100,000 population",E23000003,3.337115397450444
+2018,England,,,,Leicestershire,Undefined,Units,"Rate per 100,000 population",E23000021,3.2016597404094287
+2018,England,,,,Lincolnshire,Undefined,Units,"Rate per 100,000 population",E23000020,7.409044061320424
+2018,England,,,,Merseyside,Undefined,Units,"Rate per 100,000 population",E23000004,1.616229757600672
+2018,England,,,,Metropolitan Police,Undefined,Units,"Rate per 100,000 population",E23000001,1.247278601025353
+2018,England,,,,Norfolk,Undefined,Units,"Rate per 100,000 population",E23000024,3.0984419263456093
+2018,England,,,,North Yorkshire,Undefined,Units,"Rate per 100,000 population",E23000009,4.488123454933175
+2018,England,,,,Northamptonshire,Undefined,Units,"Rate per 100,000 population",E23000022,4.146480440650489
+2018,England,,,,Northumbria,Undefined,Units,"Rate per 100,000 population",E23000007,2.12817810791236
+2018,England,,,,Nottinghamshire,Undefined,Units,"Rate per 100,000 population",E23000019,1.9927308643686727
+2018,England,,,,South Yorkshire,Undefined,Units,"Rate per 100,000 population",E23000011,3.2076001590969683
+2018,England,,,,Staffordshire,Undefined,Units,"Rate per 100,000 population",E23000015,2.3871581501115777
+2018,England,,,,Suffolk,Undefined,Units,"Rate per 100,000 population",E23000025,2.372929618907503
+2018,England,,,,Surrey,Undefined,Units,"Rate per 100,000 population",E23000031,2.2690334085756017
+2018,England,,,,Sussex,Undefined,Units,"Rate per 100,000 population",E23000033,2.523715590165022
+2018,England,,,,Thames Valley,Undefined,Units,"Rate per 100,000 population",E23000029,3.281285499667095
+2018,England,,,,Warwickshire,Undefined,Units,"Rate per 100,000 population",E23000017,6.129489851316089
+2018,England,,,,West Mercia,Undefined,Units,"Rate per 100,000 population",E23000016,4.211389938053573
+2018,England,,,,West Midlands,Undefined,Units,"Rate per 100,000 population",E23000014,1.9544255394728811
+2018,England,,,,West Yorkshire,Undefined,Units,"Rate per 100,000 population",E23000010,3.016963090473551
+2018,England,,,,Wiltshire,Undefined,Units,"Rate per 100,000 population",E23000038,4.582951420714941
+2018,Wales,,,,Dyfed-Powys,Undefined,Units,"Rate per 100,000 population",W15000004,4.246595967278048
+2018,Wales,,,,Gwent,Undefined,Units,"Rate per 100,000 population",W15000002,2.5371051630090067
+2018,Wales,,,,North Wales,Undefined,Units,"Rate per 100,000 population",W15000001,5.441249539999627
+2018,Wales,,,,South Wales,Undefined,Units,"Rate per 100,000 population",W15000003,2.1037209564417063
