@@ -34,7 +34,7 @@ prose:
         field:
             element: hidden
             label: "Indicator number"
-            scope: global
+            scope: data
       - name: "indicator_sort_order"
         field:
             element: hidden
@@ -47,9 +47,9 @@ prose:
             scope: global
       - name: "target_id"
         field:
-            element: text
+            element: hidden
             label: "Target number"
-            scope: global
+            scope: data
       - name: "indicator_definition"
         field:
             element: textarea
