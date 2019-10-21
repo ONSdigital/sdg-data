@@ -1,21 +1,54 @@
-Year,Security,Type of Documentation,Type of Tenure,Urbanisation,Sex,Unit measure,Observation status,Unit multiplier,Value
-2018,Perceived,,,,,Percentage (%),Undefined,Units,87.0
-2018,Documented,Formal,,,,Percentage (%),Undefined,Units,79.0
-2018,Documented,Informal Documentation,,,,Percentage (%),Undefined,Units,1.0
-2018,Documented,No Documentation,,,,Percentage (%),Undefined,Units,20.0
-2018,Documented,Formal,Owners,,,Percentage (%),Undefined,Units,97.0
-2018,Documented,Informal Documentation,Owners,,,Percentage (%),Undefined,Units,0.0
-2018,Documented,No Documentation,Owners,,,Percentage (%),Undefined,Units,3.0
-2018,Documented,Formal,Renters,,,Percentage (%),Undefined,Units,97.0
-2018,Documented,Informal Documentation,Renters,,,Percentage (%),Undefined,Units,2.0
-2018,Documented,No Documentation,Renters,,,Percentage (%),Undefined,Units,1.0
-2018,Documented,Formal,Stay with Permission,,,Percentage (%),Undefined,Units,5.0
-2018,Documented,Informal Documentation,Stay with Permission,,,Percentage (%),Undefined,Units,0.0
-2018,Documented,No Documentation,Stay with Permission,,,Percentage (%),Undefined,Units,95.0
-2018,Perceived,,Owners,,,Percentage (%),Undefined,Units,95.0
-2018,Perceived,,Renters,,,Percentage (%),Undefined,Units,74.0
-2018,Perceived,,Stay with Permission,,,Percentage (%),Undefined,Units,78.0
-2018,Perceived,,,Urban,,Percentage (%),Undefined,Units,88.0
-2018,Perceived,,,Rural,,Percentage (%),Undefined,Units,88.0
-2018,Perceived,,,,Male,Percentage (%),Undefined,Units,90.0
-2018,Perceived,,,,Female,Percentage (%),Undefined,Units,85.0
+Year,Security,Type of Documentation,Type of Tenure,Urbanisation,Reason for insecurity,Sex,Unit measure,Observation status,Unit multiplier,Value
+2018,Perceived,,,,,,Percentage (%),Undefined,Units,87.0
+2018,Documented,Formal,,,,,Percentage (%),Undefined,Units,79.0
+2018,Documented,Informal Documentation,,,,,Percentage (%),Undefined,Units,1.0
+2018,Documented,No Documentation,,,,,Percentage (%),Undefined,Units,20.0
+2018,Documented,Formal,Owners,,,,Percentage (%),Undefined,Units,97.0
+2018,Documented,Informal Documentation,Owners,,,,Percentage (%),Undefined,Units,0.0
+2018,Documented,No Documentation,Owners,,,,Percentage (%),Undefined,Units,3.0
+2018,Documented,Formal,Renters,,,,Percentage (%),Undefined,Units,97.0
+2018,Documented,Informal Documentation,Renters,,,,Percentage (%),Undefined,Units,2.0
+2018,Documented,No Documentation,Renters,,,,Percentage (%),Undefined,Units,1.0
+2018,Documented,Formal,Stay with Permission,,,,Percentage (%),Undefined,Units,5.0
+2018,Documented,Informal Documentation,Stay with Permission,,,,Percentage (%),Undefined,Units,0.0
+2018,Documented,No Documentation,Stay with Permission,,,,Percentage (%),Undefined,Units,95.0
+2018,Perceived,,Owners,,,,Percentage (%),Undefined,Units,95.0
+2018,Perceived,,Renters,,,,Percentage (%),Undefined,Units,74.0
+2018,Perceived,,Stay with Permission,,,,Percentage (%),Undefined,Units,78.0
+2018,Perceived,,,Urban,,,Percentage (%),Undefined,Units,88.0
+2018,Perceived,,,Rural,,,Percentage (%),Undefined,Units,88.0
+2018,Perceived,,,,,Male,Percentage (%),Undefined,Units,90.0
+2018,Perceived,,,,,Female,Percentage (%),Undefined,Units,85.0
+2018,Perceived,,Owners,,Lack of money or other resources,,Percentage (%),Undefined,Units,37.0
+2018,Perceived,,Owners,,The owner/renter may ask me to leave,,Percentage (%),Undefined,Units,
+2018,Perceived,,Owners,,Disagreements with family or relatives,,Percentage (%),Undefined,Units,20.0
+2018,Perceived,,Owners,,Government may seize this property,,Percentage (%),Undefined,Units,10.0
+2018,Perceived,,Owners,,Death of a household member,,Percentage (%),Undefined,Units,6.0
+2018,Perceived,,Owners,,Issues with local/customary authorities,,Percentage (%),Undefined,Units,6.0
+2018,Perceived,,Owners,,Other people or groups may seize this property,,Percentage (%),Undefined,Units,4.0
+2018,Perceived,,Owners,,Companies may seize this property,,Percentage (%),Undefined,Units,4.0
+2018,Perceived,,Owners,,Natural disaster,,Percentage (%),Undefined,Units,3.0
+2018,Perceived,,Owners,,Missing or inaccurate land records,,Percentage (%),Undefined,Units,0.0
+2018,Perceived,,Owners,,Conflict or terrorism,,Percentage (%),Undefined,Units,0.0
+2018,Perceived,,Renters,,Lack of money or other resources,,Percentage (%),Undefined,Units,31.0
+2018,Perceived,,Renters,,The owner/renter may ask me to leave,,Percentage (%),Undefined,Units,40.0
+2018,Perceived,,Renters,,Disagreements with family or relatives,,Percentage (%),Undefined,Units,13.0
+2018,Perceived,,Renters,,Government may seize this property,,Percentage (%),Undefined,Units,12.0
+2018,Perceived,,Renters,,Death of a household member,,Percentage (%),Undefined,Units,2.0
+2018,Perceived,,Renters,,Issues with local/customary authorities,,Percentage (%),Undefined,Units,5.0
+2018,Perceived,,Renters,,Other people or groups may seize this property,,Percentage (%),Undefined,Units,4.0
+2018,Perceived,,Renters,,Companies may seize this property,,Percentage (%),Undefined,Units,3.0
+2018,Perceived,,Renters,,Natural disaster,,Percentage (%),Undefined,Units,0.0
+2018,Perceived,,Renters,,Missing or inaccurate land records,,Percentage (%),Undefined,Units,0.0
+2018,Perceived,,Renters,,Conflict or terrorism,,Percentage (%),Undefined,Units,0.0
+2018,Perceived,,Stay with permission,,Lack of money or other resources,,Percentage (%),Undefined,Units,29.0
+2018,Perceived,,Stay with permission,,The owner/renter may ask me to leave,,Percentage (%),Undefined,Units,42.0
+2018,Perceived,,Stay with permission,,Disagreements with family or relatives,,Percentage (%),Undefined,Units,15.0
+2018,Perceived,,Stay with permission,,Government may seize this property,,Percentage (%),Undefined,Units,10.0
+2018,Perceived,,Stay with permission,,Death of a household member,,Percentage (%),Undefined,Units,8.0
+2018,Perceived,,Stay with permission,,Issues with local/customary authorities,,Percentage (%),Undefined,Units,0.0
+2018,Perceived,,Stay with permission,,Other people or groups may seize this property,,Percentage (%),Undefined,Units,3.0
+2018,Perceived,,Stay with permission,,Companies may seize this property,,Percentage (%),Undefined,Units,3.0
+2018,Perceived,,Stay with permission,,Natural disaster,,Percentage (%),Undefined,Units,0.0
+2018,Perceived,,Stay with permission,,Missing or inaccurate land records,,Percentage (%),Undefined,Units,0.0
+2018,Perceived,,Stay with permission,,Conflict or terrorism,,Percentage (%),Undefined,Units,0.0
