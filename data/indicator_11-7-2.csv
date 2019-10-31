@@ -1,109 +1,279 @@
-Year,Sex,Relationship to perpetrator,Value
-2004,Male,,1.16
-2004,Female,,3.43
-2004,,,2.3
-2004,Male,Partner,0.22
-2004,Female,Partner,0.46
-2004,,Partner,0.34
-2004,Male,Family member,0.01
-2004,Female,Family member,0.05
-2004,,Family member,0.03
-2005,Male,,1.05
-2005,Female,,3.89
-2005,,,2.52
-2005,Male,Partner,0
-2005,Female,Partner,0.62
-2005,,Partner,0.33
-2005,Male,Family member,0.03
-2005,Female,Family member,0.04
-2005,,Family member,0.04
-2006,Male,,1.22
-2006,Female,,3.97
-2006,,,2.62
-2006,Male,Partner,0.13
-2006,Female,Partner,0.54
-2006,,Partner,0.35
-2006,Male,Family member,0.01
-2006,Female,Family member,0.06
-2006,,Family member,0.03
-2007,Male,,0.74
-2007,Female,,3.54
-2007,,,2.22
-2007,Male,Partner,0.14
-2007,Female,Partner,0.49
-2007,,Partner,0.32
-2007,Male,Family member,0.01
-2007,Female,Family member,0.08
-2007,,Family member,0.04
-2008,Male,,0.69
-2008,Female,,2.98
-2008,,,1.89
-2008,Male,Partner,0.18
-2008,Female,Partner,0.27
-2008,,Partner,0.22
-2008,Male,Family member,0.01
-2008,Female,Family member,0.04
-2008,,Family member,0.02
-2009,Male,,1.02
-2009,Female,,2.75
-2009,,,1.87
-2009,Male,Partner,0.2
-2009,Female,Partner,0.44
-2009,,Partner,0.32
-2009,Male,Family member,0
-2009,Female,Family member,0.03
-2009,,Family member,0.02
-2010,Male,,0.85
-2010,Female,,2.92
-2010,,,1.91
-2010,Male,Partner,0.15
-2010,Female,Partner,0.45
-2010,,Partner,0.3
-2010,Male,Family member,0
-2010,Female,Family member,0.09
-2010,,Family member,0.04
-2011,Male,,0.8
-2011,Female,,3.35
-2011,,,2.12
-2011,Male,Partner,0
-2011,Female,Partner,0.4
-2011,,Partner,0.21
-2011,Male,Family member,0
-2011,Female,Family member,0.02
-2011,,Family member,0.01
-2012,Male,,0.79
-2012,Female,,2.35
-2012,,,1.57
-2012,Male,Partner,0.12
-2012,Female,Partner,0.24
-2012,,Partner,0.18
-2012,Male,Family member,0.01
-2012,Female,Family member,0.03
-2012,,Family member,0.02
-2013,Male,,0.67
-2013,Female,,1.81
-2013,,,1.25
-2013,Male,Partner,0.08
-2013,Female,Partner,0.21
-2013,,Partner,0.15
-2013,Male,Family member,0.03
-2013,Female,Family member,0.04
-2013,,Family member,0.04
-2014,Male,,0.62
-2014,Female,,2.37
-2014,,,1.51
-2014,Male,Partner,0.04
-2014,Female,Partner,0.33
-2014,,Partner,0.19
-2014,Male,Family member,0
-2014,Female,Family member,0.04
-2014,,Family member,0.02
-2015,Male,,0.59
-2015,Female,,2.82
-2015,,,1.72
-2015,Male,Partner,0.07
-2015,Female,Partner,0.38
-2015,,Partner,0.23
-2015,Male,Family member,0
-2015,Female,Family member,0.02
-2015,,Family member,0.01
+Year,Sex,Relationship to perpetrator,Ethnicity,Disability status,Country of birth,Age,Income,Region,Observation status,Unit multiplier,Unit measure,GeoCode,Value
+2004/05,Men,,,,,,,,Undefined,Units,Percentage (%),,1.2
+2005/06,Men,,,,,,,,Undefined,Units,Percentage (%),,1.1
+2006/07,Men,,,,,,,,Undefined,Units,Percentage (%),,1.2
+2007/08,Men,,,,,,,,Undefined,Units,Percentage (%),,0.7
+2008/09,Men,,,,,,,,Undefined,Units,Percentage (%),,0.7
+2009/10,Men,,,,,,,,Undefined,Units,Percentage (%),,1.0
+2010/11,Men,,,,,,,,Undefined,Units,Percentage (%),,0.9
+2011/12,Men,,,,,,,,Undefined,Units,Percentage (%),,0.8
+2012/13,Men,,,,,,,,Undefined,Units,Percentage (%),,0.8
+2013/14,Men,,,,,,,,Undefined,Units,Percentage (%),,0.7
+2014/15,Men,,,,,,,,Undefined,Units,Percentage (%),,0.6
+2015/16,Men,,,,,,,,Undefined,Units,Percentage (%),,0.6
+2016/17,Men,,,,,,,,Undefined,Units,Percentage (%),,0.8
+2017/18,Men,,,,,,,,Undefined,Units,Percentage (%),,1.2
+2004/05,Women,,,,,,,,Undefined,Units,Percentage (%),,3.4
+2005/06,Women,,,,,,,,Undefined,Units,Percentage (%),,3.9
+2006/07,Women,,,,,,,,Undefined,Units,Percentage (%),,4.0
+2007/08,Women,,,,,,,,Undefined,Units,Percentage (%),,3.5
+2008/09,Women,,,,,,,,Undefined,Units,Percentage (%),,3.0
+2009/10,Women,,,,,,,,Undefined,Units,Percentage (%),,2.8
+2010/11,Women,,,,,,,,Undefined,Units,Percentage (%),,2.9
+2011/12,Women,,,,,,,,Undefined,Units,Percentage (%),,3.3
+2012/13,Women,,,,,,,,Undefined,Units,Percentage (%),,2.3
+2013/14,Women,,,,,,,,Undefined,Units,Percentage (%),,1.8
+2014/15,Women,,,,,,,,Undefined,Units,Percentage (%),,2.4
+2015/16,Women,,,,,,,,Undefined,Units,Percentage (%),,2.8
+2016/17,Women,,,,,,,,Undefined,Units,Percentage (%),,2.7
+2017/18,Women,,,,,,,,Undefined,Units,Percentage (%),,3.8
+2004/05,,,,,,,,,Undefined,Units,Percentage (%),,2.3
+2005/06,,,,,,,,,Undefined,Units,Percentage (%),,2.5
+2006/07,,,,,,,,,Undefined,Units,Percentage (%),,2.6
+2007/08,,,,,,,,,Undefined,Units,Percentage (%),,2.2
+2008/09,,,,,,,,,Undefined,Units,Percentage (%),,1.9
+2009/10,,,,,,,,,Undefined,Units,Percentage (%),,1.9
+2010/11,,,,,,,,,Undefined,Units,Percentage (%),,1.9
+2011/12,,,,,,,,,Undefined,Units,Percentage (%),,2.1
+2012/13,,,,,,,,,Undefined,Units,Percentage (%),,1.6
+2013/14,,,,,,,,,Undefined,Units,Percentage (%),,1.2
+2014/15,,,,,,,,,Undefined,Units,Percentage (%),,1.5
+2015/16,,,,,,,,,Undefined,Units,Percentage (%),,1.7
+2016/17,,,,,,,,,Undefined,Units,Percentage (%),,1.7
+2017/18,,,,,,,,,Undefined,Units,Percentage (%),,2.5
+2004/05,Men,Partner,,,,,,,Undefined,Units,Percentage (%),,0.2
+2005/06,Men,Partner,,,,,,,Undefined,Units,Percentage (%),,0.0
+2006/07,Men,Partner,,,,,,,Undefined,Units,Percentage (%),,0.1
+2007/08,Men,Partner,,,,,,,Undefined,Units,Percentage (%),,0.1
+2008/09,Men,Partner,,,,,,,Undefined,Units,Percentage (%),,0.2
+2009/10,Men,Partner,,,,,,,Undefined,Units,Percentage (%),,0.2
+2010/11,Men,Partner,,,,,,,Undefined,Units,Percentage (%),,0.2
+2011/12,Men,Partner,,,,,,,Undefined,Units,Percentage (%),,0.0
+2012/13,Men,Partner,,,,,,,Undefined,Units,Percentage (%),,0.1
+2013/14,Men,Partner,,,,,,,Undefined,Units,Percentage (%),,0.1
+2014/15,Men,Partner,,,,,,,Undefined,Units,Percentage (%),,0.0
+2015/16,Men,Partner,,,,,,,Undefined,Units,Percentage (%),,0.1
+2016/17,Men,Partner,,,,,,,Undefined,Units,Percentage (%),,0.1
+2017/18,Men,Partner,,,,,,,Undefined,Units,Percentage (%),,0.1
+2004/05,Women,Partner,,,,,,,Undefined,Units,Percentage (%),,0.5
+2005/06,Women,Partner,,,,,,,Undefined,Units,Percentage (%),,0.6
+2006/07,Women,Partner,,,,,,,Undefined,Units,Percentage (%),,0.5
+2007/08,Women,Partner,,,,,,,Undefined,Units,Percentage (%),,0.5
+2008/09,Women,Partner,,,,,,,Undefined,Units,Percentage (%),,0.3
+2009/10,Women,Partner,,,,,,,Undefined,Units,Percentage (%),,0.4
+2010/11,Women,Partner,,,,,,,Undefined,Units,Percentage (%),,0.4
+2011/12,Women,Partner,,,,,,,Undefined,Units,Percentage (%),,0.4
+2012/13,Women,Partner,,,,,,,Undefined,Units,Percentage (%),,0.2
+2013/14,Women,Partner,,,,,,,Undefined,Units,Percentage (%),,0.2
+2014/15,Women,Partner,,,,,,,Undefined,Units,Percentage (%),,0.3
+2015/16,Women,Partner,,,,,,,Undefined,Units,Percentage (%),,0.4
+2016/17,Women,Partner,,,,,,,Undefined,Units,Percentage (%),,0.3
+2017/18,Women,Partner,,,,,,,Undefined,Units,Percentage (%),,0.3
+2004/05,,Partner,,,,,,,Undefined,Units,Percentage (%),,0.3
+2005/06,,Partner,,,,,,,Undefined,Units,Percentage (%),,0.3
+2006/07,,Partner,,,,,,,Undefined,Units,Percentage (%),,0.3
+2007/08,,Partner,,,,,,,Undefined,Units,Percentage (%),,0.3
+2008/09,,Partner,,,,,,,Undefined,Units,Percentage (%),,0.2
+2009/10,,Partner,,,,,,,Undefined,Units,Percentage (%),,0.3
+2010/11,,Partner,,,,,,,Undefined,Units,Percentage (%),,0.3
+2011/12,,Partner,,,,,,,Undefined,Units,Percentage (%),,0.2
+2012/13,,Partner,,,,,,,Undefined,Units,Percentage (%),,0.2
+2013/14,,Partner,,,,,,,Undefined,Units,Percentage (%),,0.1
+2014/15,,Partner,,,,,,,Undefined,Units,Percentage (%),,0.2
+2015/16,,Partner,,,,,,,Undefined,Units,Percentage (%),,0.2
+2016/17,,Partner,,,,,,,Undefined,Units,Percentage (%),,0.2
+2017/18,,Partner,,,,,,,Undefined,Units,Percentage (%),,0.2
+2004/05,Men,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2005/06,Men,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2006/07,Men,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2007/08,Men,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2008/09,Men,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2009/10,Men,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2010/11,Men,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2011/12,Men,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2012/13,Men,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2013/14,Men,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2014/15,Men,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2015/16,Men,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2016/17,Men,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2017/18,Men,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2004/05,Women,Family member,,,,,,,Undefined,Units,Percentage (%),,0.1
+2005/06,Women,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2006/07,Women,Family member,,,,,,,Undefined,Units,Percentage (%),,0.1
+2007/08,Women,Family member,,,,,,,Undefined,Units,Percentage (%),,0.1
+2008/09,Women,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2009/10,Women,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2010/11,Women,Family member,,,,,,,Undefined,Units,Percentage (%),,0.1
+2011/12,Women,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2012/13,Women,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2013/14,Women,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2014/15,Women,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2015/16,Women,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2016/17,Women,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2017/18,Women,Family member,,,,,,,Undefined,Units,Percentage (%),,0.1
+2004/05,,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2005/06,,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2006/07,,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2007/08,,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2008/09,,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2009/10,,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2010/11,,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2011/12,,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2012/13,,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2013/14,,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2014/15,,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2015/16,,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2016/17,,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2017/18,,Family member,,,,,,,Undefined,Units,Percentage (%),,0.0
+2017/18,Men,,,,,16 to 19,,,Undefined,Units,Percentage (%),,2.2
+2017/18,Women,,,,,16 to 19,,,Undefined,Units,Percentage (%),,15.8
+2017/18,,,,,,16 to 19,,,Undefined,Units,Percentage (%),,8.4
+2016/17,Men,,,,,16 to 19,,,Undefined,Units,Percentage (%),,3.0
+2016/17,Women,,,,,16 to 19,,,Undefined,Units,Percentage (%),,8.4
+2017/18,Men,,,,,20 to 24,,,Undefined,Units,Percentage (%),,3.6
+2017/18,Women,,,,,20 to 24,,,Undefined,Units,Percentage (%),,10.1
+2017/18,,,,,,20 to 24,,,Undefined,Units,Percentage (%),,6.6
+2016/17,Men,,,,,20 to 24,,,Undefined,Units,Percentage (%),,1.7
+2016/17,Women,,,,,20 to 24,,,Undefined,Units,Percentage (%),,6.2
+2017/18,Men,,,,,25 to 34,,,Undefined,Units,Percentage (%),,2.0
+2017/18,Women,,,,,25 to 34,,,Undefined,Units,Percentage (%),,2.8
+2017/18,,,,,,25 to 34,,,Undefined,Units,Percentage (%),,2.4
+2016/17,Men,,,,,25 to 34,,,Undefined,Units,Percentage (%),,1.0
+2016/17,Women,,,,,25 to 34,,,Undefined,Units,Percentage (%),,2.9
+2017/18,Men,,,,,35 to 44,,,Undefined,Units,Percentage (%),,0.2
+2017/18,Women,,,,,35 to 44,,,Undefined,Units,Percentage (%),,1.6
+2017/18,,,,,,35 to 44,,,Undefined,Units,Percentage (%),,0.9
+2016/17,Men,,,,,35 to 44,,,Undefined,Units,Percentage (%),,0.3
+2016/17,Women,,,,,35 to 44,,,Undefined,Units,Percentage (%),,1.4
+2017/18,Men,,,,,45 to 54,,,Undefined,Units,Percentage (%),,0.2
+2017/18,Women,,,,,45 to 54,,,Undefined,Units,Percentage (%),,1.7
+2017/18,,,,,,45 to 54,,,Undefined,Units,Percentage (%),,1.0
+2016/17,Men,,,,,45 to 54,,,Undefined,Units,Percentage (%),,0.2
+2016/17,Women,,,,,45 to 54,,,Undefined,Units,Percentage (%),,1.0
+2017/18,Men,,,,,55 to 59,,,Undefined,Units,Percentage (%),,0.1
+2017/18,Women,,,,,55 to 59,,,Undefined,Units,Percentage (%),,2.0
+2017/18,,,,,,55 to 59,,,Undefined,Units,Percentage (%),,1.1
+2016/17,Men,,,,,55 to 59,,,Undefined,Units,Percentage (%),,0.1
+2016/17,Women,,,,,55 to 59,,,Undefined,Units,Percentage (%),,1.0
+2017/18,Men,,White,,,,,,Undefined,Units,Percentage (%),,1.3
+2017/18,Women,,White,,,,,,Undefined,Units,Percentage (%),,3.6
+2017/18,,,White,,,,,,Undefined,Units,Percentage (%),,2.4
+2016/17,Men,,White,,,,,,Undefined,Units,Percentage (%),,0.8
+2016/17,Women,,White,,,,,,Undefined,Units,Percentage (%),,2.7
+2017/18,Men,,Mixed/multiple,,,,,,Undefined,Units,Percentage (%),,0.0
+2017/18,Women,,Mixed/multiple,,,,,,Undefined,Units,Percentage (%),,6.7
+2017/18,,,Mixed/multiple,,,,,,Undefined,Units,Percentage (%),,3.6
+2016/17,Men,,Mixed/multiple,,,,,,Undefined,Units,Percentage (%),,1.4
+2016/17,Women,,Mixed/multiple,,,,,,Undefined,Units,Percentage (%),,7.9
+2017/18,Men,,Asian/Asian British,,,,,,Undefined,Units,Percentage (%),,0.5
+2017/18,Women,,Asian/Asian British,,,,,,Undefined,Units,Percentage (%),,3.5
+2017/18,,,Asian/Asian British,,,,,,Undefined,Units,Percentage (%),,1.8
+2016/17,Men,,Asian/Asian British,,,,,,Undefined,Units,Percentage (%),,0.5
+2016/17,Women,,Asian/Asian British,,,,,,Undefined,Units,Percentage (%),,1.4
+2017/18,Men,,Black/African/Caribbean/Black British,,,,,,Undefined,Units,Percentage (%),,1.4
+2017/18,Women,,Black/African/Caribbean/Black British,,,,,,Undefined,Units,Percentage (%),,9.0
+2017/18,,,Black/African/Caribbean/Black British,,,,,,Undefined,Units,Percentage (%),,5.7
+2016/17,Men,,Black/African/Caribbean/Black British,,,,,,Undefined,Units,Percentage (%),,0.0
+2016/17,Women,,Black/African/Caribbean/Black British,,,,,,Undefined,Units,Percentage (%),,3.5
+2017/18,Men,,Other ethnic group,,,,,,Undefined,Units,Percentage (%),,0.9
+2017/18,Women,,Other ethnic group,,,,,,Undefined,Units,Percentage (%),,0.9
+2017/18,,,Other ethnic group,,,,,,Undefined,Units,Percentage (%),,0.9
+2016/17,Men,,Other ethnic group,,,,,,Undefined,Units,Percentage (%),,1.3
+2016/17,Women,,Other ethnic group,,,,,,Undefined,Units,Percentage (%),,3.3
+2017/18,Men,,,Disabled,,,,,Undefined,Units,Percentage (%),,1.1
+2017/18,Women,,,Disabled,,,,,Undefined,Units,Percentage (%),,6.3
+2017/18,,,,Disabled,,,,,Undefined,Units,Percentage (%),,4.1
+2017/18,Men,,,Not Disabled,,,,,Undefined,Units,Percentage (%),,1.2
+2017/18,Women,,,Not Disabled,,,,,Undefined,Units,Percentage (%),,3.5
+2017/18,,,,Not Disabled,,,,,Undefined,Units,Percentage (%),,2.3
+2017/18,Men,,,,UK-born,,,,Undefined,Units,Percentage (%),,1.3
+2017/18,Women,,,,UK-born,,,,Undefined,Units,Percentage (%),,4.0
+2017/18,,,,,UK-born,,,,Undefined,Units,Percentage (%),,2.6
+2017/18,Men,,,,Non-UK born,,,,Undefined,Units,Percentage (%),,0.6
+2017/18,Women,,,,Non-UK born,,,,Undefined,Units,Percentage (%),,3.2
+2017/18,,,,,Non-UK born,,,,Undefined,Units,Percentage (%),,1.9
+2017/18,Men,,,,,,"Less than £10,000",,Undefined,Units,Percentage (%),,0.0
+2017/18,Women,,,,,,"Less than £10,000",,Undefined,Units,Percentage (%),,6.0
+2017/18,,,,,,,"Less than £10,000",,Undefined,Units,Percentage (%),,3.7
+2016/17,Men,,,,,,"Less than £10,000",,Undefined,Units,Percentage (%),,1.7
+2016/17,Women,,,,,,"Less than £10,000",,Undefined,Units,Percentage (%),,2.0
+2017/18,Men,,,,,,"£10,000 to less than £20,000",,Undefined,Units,Percentage (%),,2.0
+2017/18,Women,,,,,,"£10,000 to less than £20,000",,Undefined,Units,Percentage (%),,4.8
+2017/18,,,,,,,"£10,000 to less than £20,000",,Undefined,Units,Percentage (%),,3.6
+2016/17,Men,,,,,,"£10,000 to less than £20,000",,Undefined,Units,Percentage (%),,0.6
+2016/17,Women,,,,,,"£10,000 to less than £20,000",,Undefined,Units,Percentage (%),,2.1
+2017/18,Men,,,,,,"£20,000 to less than £30,000",,Undefined,Units,Percentage (%),,0.4
+2017/18,Women,,,,,,"£20,000 to less than £30,000",,Undefined,Units,Percentage (%),,3.8
+2017/18,,,,,,,"£20,000 to less than £30,000",,Undefined,Units,Percentage (%),,2.2
+2016/17,Men,,,,,,"£20,000 to less than £30,000",,Undefined,Units,Percentage (%),,1.0
+2016/17,Women,,,,,,"£20,000 to less than £30,000",,Undefined,Units,Percentage (%),,2.8
+2017/18,Men,,,,,,"£30,000 to less than £40,000",,Undefined,Units,Percentage (%),,0.6
+2017/18,Women,,,,,,"£30,000 to less than £40,000",,Undefined,Units,Percentage (%),,3.7
+2017/18,,,,,,,"£30,000 to less than £40,000",,Undefined,Units,Percentage (%),,2.0
+2016/17,Men,,,,,,"£30,000 to less than £40,000",,Undefined,Units,Percentage (%),,1.0
+2016/17,Women,,,,,,"£30,000 to less than £40,000",,Undefined,Units,Percentage (%),,2.0
+2017/18,Men,,,,,,"£40,000 to less than £50,000",,Undefined,Units,Percentage (%),,0.6
+2017/18,Women,,,,,,"£40,000 to less than £50,000",,Undefined,Units,Percentage (%),,2.9
+2017/18,,,,,,,"£40,000 to less than £50,000",,Undefined,Units,Percentage (%),,1.7
+2016/17,Men,,,,,,"£40,000 to less than £50,000",,Undefined,Units,Percentage (%),,0.2
+2016/17,Women,,,,,,"£40,000 to less than £50,000",,Undefined,Units,Percentage (%),,2.3
+2017/18,Men,,,,,,"£50,000 or more",,Undefined,Units,Percentage (%),,1.7
+2017/18,Women,,,,,,"£50,000 or more",,Undefined,Units,Percentage (%),,3.3
+2017/18,,,,,,,"£50,000 or more",,Undefined,Units,Percentage (%),,2.5
+2016/17,Men,,,,,,"£50,000 or more",,Undefined,Units,Percentage (%),,0.7
+2016/17,Women,,,,,,"£50,000 or more",,Undefined,Units,Percentage (%),,2.6
+2017/18,Men,,,,,,No income stated or not enough information provided,,Undefined,Units,Percentage (%),,1.3
+2017/18,Women,,,,,,No income stated or not enough information provided,,Undefined,Units,Percentage (%),,3.9
+2017/18,,,,,,,No income stated or not enough information provided,,Undefined,Units,Percentage (%),,2.5
+2016/17,Men,,,,,,No income stated or not enough information provided,,Undefined,Units,Percentage (%),,1.0
+2016/17,Women,,,,,,No income stated or not enough information provided,,Undefined,Units,Percentage (%),,4.0
+2017/18,Men,,,,,,,North East,Undefined,Units,Percentage (%),E12000001,0.6
+2017/18,Women,,,,,,,North East,Undefined,Units,Percentage (%),E12000001,1.0
+2017/18,,,,,,,,North East,Undefined,Units,Percentage (%),E12000001,0.8
+2016/17,Men,,,,,,,North East,Undefined,Units,Percentage (%),E12000001,0.0
+2016/17,Women,,,,,,,North East,Undefined,Units,Percentage (%),E12000001,4.4
+2017/18,Men,,,,,,,North West,Undefined,Units,Percentage (%),E12000002,1.2
+2017/18,Women,,,,,,,North West,Undefined,Units,Percentage (%),E12000002,4.0
+2017/18,,,,,,,,North West,Undefined,Units,Percentage (%),E12000002,2.5
+2016/17,Men,,,,,,,North West,Undefined,Units,Percentage (%),E12000002,0.6
+2016/17,Women,,,,,,,North West,Undefined,Units,Percentage (%),E12000002,1.9
+2017/18,Men,,,,,,,Yorkshire and The Humber,Undefined,Units,Percentage (%),E12000003,2.6
+2017/18,Women,,,,,,,Yorkshire and The Humber,Undefined,Units,Percentage (%),E12000003,4.9
+2017/18,,,,,,,,Yorkshire and The Humber,Undefined,Units,Percentage (%),E12000003,3.8
+2016/17,Men,,,,,,,Yorkshire and The Humber,Undefined,Units,Percentage (%),E12000003,0.6
+2016/17,Women,,,,,,,Yorkshire and The Humber,Undefined,Units,Percentage (%),E12000003,1.6
+2017/18,Men,,,,,,,East Midlands,Undefined,Units,Percentage (%),E12000004,0.9
+2017/18,Women,,,,,,,East Midlands,Undefined,Units,Percentage (%),E12000004,3.4
+2017/18,,,,,,,,East Midlands,Undefined,Units,Percentage (%),E12000004,2.2
+2016/17,Men,,,,,,,East Midlands,Undefined,Units,Percentage (%),E12000004,0.6
+2016/17,Women,,,,,,,East Midlands,Undefined,Units,Percentage (%),E12000004,2.5
+2017/18,Men,,,,,,,West Midlands,Undefined,Units,Percentage (%),E12000005,0.2
+2017/18,Women,,,,,,,West Midlands,Undefined,Units,Percentage (%),E12000005,4.1
+2017/18,,,,,,,,West Midlands,Undefined,Units,Percentage (%),E12000005,2.2
+2016/17,Men,,,,,,,West Midlands,Undefined,Units,Percentage (%),E12000005,1.4
+2016/17,Women,,,,,,,West Midlands,Undefined,Units,Percentage (%),E12000005,2.5
+2017/18,Men,,,,,,,East,Undefined,Units,Percentage (%),E12000007,0.6
+2017/18,Women,,,,,,,East,Undefined,Units,Percentage (%),E12000007,2.9
+2017/18,,,,,,,,East,Undefined,Units,Percentage (%),E12000007,1.8
+2016/17,Men,,,,,,,East,Undefined,Units,Percentage (%),E12000007,0.9
+2016/17,Women,,,,,,,East,Undefined,Units,Percentage (%),E12000007,2.4
+2017/18,Men,,,,,,,London,Undefined,Units,Percentage (%),E12000007,2.4
+2017/18,Women,,,,,,,London,Undefined,Units,Percentage (%),E12000007,4.9
+2017/18,,,,,,,,London,Undefined,Units,Percentage (%),E12000007,3.7
+2016/17,Men,,,,,,,London,Undefined,Units,Percentage (%),E12000007,1.0
+2016/17,Women,,,,,,,London,Undefined,Units,Percentage (%),E12000007,3.0
+2017/18,Men,,,,,,,South East,Undefined,Units,Percentage (%),E12000008,1.3
+2017/18,Women,,,,,,,South East,Undefined,Units,Percentage (%),E12000008,3.5
+2017/18,,,,,,,,South East,Undefined,Units,Percentage (%),E12000008,2.3
+2016/17,Men,,,,,,,South East,Undefined,Units,Percentage (%),E12000008,0.6
+2016/17,Women,,,,,,,South East,Undefined,Units,Percentage (%),E12000008,2.9
+2017/18,Men,,,,,,,South West,Undefined,Units,Percentage (%),E12000009,0.4
+2017/18,Women,,,,,,,South West,Undefined,Units,Percentage (%),E12000009,3.6
+2017/18,,,,,,,,South West,Undefined,Units,Percentage (%),E12000009,1.9
+2016/17,Men,,,,,,,South West,Undefined,Units,Percentage (%),E12000009,1.2
+2016/17,Women,,,,,,,South West,Undefined,Units,Percentage (%),E12000009,3.3
+2017/18,Men,,,,,,,Wales,Undefined,Units,Percentage (%),W92000004,0.2
+2017/18,Women,,,,,,,Wales,Undefined,Units,Percentage (%),W92000004,4.3
+2017/18,,,,,,,,Wales,Undefined,Units,Percentage (%),W92000004,2.2
+2016/17,Men,,,,,,,Wales,Undefined,Units,Percentage (%),W92000004,0.4
+2016/17,Women,,,,,,,Wales,Undefined,Units,Percentage (%),W92000004,3.2
