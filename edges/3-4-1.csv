@@ -1,6 +1,6 @@
 From,To
-Age,Type of disease
-Type of disease,Chronic respiratory disease type
-Type of disease,Country
-Type of disease,Sex
-Country,Region
+Country,Type of disease
+Age,Region
+Type of disease,Age
+Age,Chronic respiratory disease type
+Age,Sex
