@@ -64,7 +64,7 @@ Year,Units,Sex,Age,Country,Region,Industry sector,Occupation,Unit measure,Unit m
 2014/15,"Fatal injury (rate per 100,000 workers)",,55 to 59 *,,,,,"Rate per 100,000 workers",Units,Undefined,,0.46
 2014/15,"Fatal injury (rate per 100,000 workers)",,60 to 64 *,,,,,"Rate per 100,000 workers",Units,Undefined,,0.83
 2014/15,"Fatal injury (rate per 100,000 workers)",,65 and over *,,,,,"Rate per 100,000 workers",Units,Undefined,,2.23
-2018/19,"Fatal injury (rate per 100,000 workers)",,,England and Wales,,,,"Rate per 100,000 workers",Units,Undefined,K04000001,0.4
+2018/19,"Fatal injury (rate per 100,000 workers)",,,England and Wales *,,,,"Rate per 100,000 workers",Units,Undefined,,0.4
 2018/19,"Fatal injury (rate per 100,000 workers)",,,England,,,,"Rate per 100,000 workers",Units,Undefined,E92000001,0.4
 2018/19,"Fatal injury (rate per 100,000 workers)",,,England,North East,,,"Rate per 100,000 workers",Units,Undefined,E12000001,0.42
 2018/19,"Fatal injury (rate per 100,000 workers)",,,England,North West,,,"Rate per 100,000 workers",Units,Undefined,E12000002,0.28
@@ -77,7 +77,7 @@ Year,Units,Sex,Age,Country,Region,Industry sector,Occupation,Unit measure,Unit m
 2018/19,"Fatal injury (rate per 100,000 workers)",,,England,South West,,,"Rate per 100,000 workers",Units,Undefined,E12000009,0.38
 2018/19,"Fatal injury (rate per 100,000 workers)",,,Wales,,,,"Rate per 100,000 workers",Units,Undefined,W92000004,0.48
 2018/19,"Fatal injury (rate per 100,000 workers)",,,Scotland,,,,"Rate per 100,000 workers",Units,Undefined,S92000003,1.07
-2017/18,"Fatal injury (rate per 100,000 workers)",,,England and Wales,,,,"Rate per 100,000 workers",Units,Undefined,K04000001,0.42
+2017/18,"Fatal injury (rate per 100,000 workers)",,,England and Wales *,,,,"Rate per 100,000 workers",Units,Undefined,,0.42
 2017/18,"Fatal injury (rate per 100,000 workers)",,,England,,,,"Rate per 100,000 workers",Units,Undefined,E92000001,0.4
 2017/18,"Fatal injury (rate per 100,000 workers)",,,England,North East,,,"Rate per 100,000 workers",Units,Undefined,E12000001,0.17
 2017/18,"Fatal injury (rate per 100,000 workers)",,,England,North West,,,"Rate per 100,000 workers",Units,Undefined,E12000002,0.46
@@ -90,7 +90,7 @@ Year,Units,Sex,Age,Country,Region,Industry sector,Occupation,Unit measure,Unit m
 2017/18,"Fatal injury (rate per 100,000 workers)",,,England,South West,,,"Rate per 100,000 workers",Units,Undefined,E12000009,0.41
 2017/18,"Fatal injury (rate per 100,000 workers)",,,Wales,,,,"Rate per 100,000 workers",Units,Undefined,W92000004,0.91
 2017/18,"Fatal injury (rate per 100,000 workers)",,,Scotland,,,,"Rate per 100,000 workers",Units,Undefined,S92000003,0.63
-2016/17,"Fatal injury (rate per 100,000 workers)",,,England and Wales,,,,"Rate per 100,000 workers",Units,Undefined,K04000001,0.41
+2016/17,"Fatal injury (rate per 100,000 workers)",,,England and Wales *,,,,"Rate per 100,000 workers",Units,Undefined,,0.41
 2016/17,"Fatal injury (rate per 100,000 workers)",,,England,,,,"Rate per 100,000 workers",Units,Undefined,E92000001,0.39
 2016/17,"Fatal injury (rate per 100,000 workers)",,,England,North East,,,"Rate per 100,000 workers",Units,Undefined,E12000001,0.51
 2016/17,"Fatal injury (rate per 100,000 workers)",,,England,North West,,,"Rate per 100,000 workers",Units,Undefined,E12000002,0.32
@@ -103,7 +103,7 @@ Year,Units,Sex,Age,Country,Region,Industry sector,Occupation,Unit measure,Unit m
 2016/17,"Fatal injury (rate per 100,000 workers)",,,England,South West,,,"Rate per 100,000 workers",Units,Undefined,E12000009,0.36
 2016/17,"Fatal injury (rate per 100,000 workers)",,,Wales,,,,"Rate per 100,000 workers",Units,Undefined,W92000004,0.78
 2016/17,"Fatal injury (rate per 100,000 workers)",,,Scotland,,,,"Rate per 100,000 workers",Units,Undefined,S92000003,0.67
-2015/16,"Fatal injury (rate per 100,000 workers)",,,England and Wales,,,,"Rate per 100,000 workers",Units,Undefined,K04000001,0.46
+2015/16,"Fatal injury (rate per 100,000 workers)",,,England and Wales *,,,,"Rate per 100,000 workers",Units,Undefined,,0.46
 2015/16,"Fatal injury (rate per 100,000 workers)",,,England,,,,"Rate per 100,000 workers",Units,Undefined,E92000001,0.44
 2015/16,"Fatal injury (rate per 100,000 workers)",,,England,North East,,,"Rate per 100,000 workers",Units,Undefined,E12000001,0.52
 2015/16,"Fatal injury (rate per 100,000 workers)",,,England,North West,,,"Rate per 100,000 workers",Units,Undefined,E12000002,0.5
@@ -116,7 +116,7 @@ Year,Units,Sex,Age,Country,Region,Industry sector,Occupation,Unit measure,Unit m
 2015/16,"Fatal injury (rate per 100,000 workers)",,,England,South West,,,"Rate per 100,000 workers",Units,Undefined,E12000009,0.43
 2015/16,"Fatal injury (rate per 100,000 workers)",,,Wales,,,,"Rate per 100,000 workers",Units,Undefined,W92000004,0.93
 2015/16,"Fatal injury (rate per 100,000 workers)",,,Scotland,,,,"Rate per 100,000 workers",Units,Undefined,S92000003,0.56
-2014/15,"Fatal injury (rate per 100,000 workers)",,,England and Wales,,,,"Rate per 100,000 workers",Units,Undefined,K04000001,0.44
+2014/15,"Fatal injury (rate per 100,000 workers)",,,England and Wales *,,,,"Rate per 100,000 workers",Units,Undefined,,0.44
 2014/15,"Fatal injury (rate per 100,000 workers)",,,England,,,,"Rate per 100,000 workers",Units,Undefined,E92000001,0.43
 2014/15,"Fatal injury (rate per 100,000 workers)",,,England,North East,,,"Rate per 100,000 workers",Units,Undefined,E12000001,0.09
 2014/15,"Fatal injury (rate per 100,000 workers)",,,England,North West,,,"Rate per 100,000 workers",Units,Undefined,E12000002,0.57
