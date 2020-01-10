@@ -1,87 +1,331 @@
-Year,Sex,Age,Occupation major group,Country,Region,Observation status,Unit multiplier,Unit measure,GeoCode,Value
-2000.0,,,,,,Undefined,Units,Percentage (%),,0.813175828198992
-2001.0,,,,,,Undefined,Units,Percentage (%),,0.631252841772565
-2002.0,,,,,,Undefined,Units,Percentage (%),,0.553371561300069
-2003.0,,,,,,Undefined,Units,Percentage (%),,0.438680061460324
-2004.0,,,,,,Undefined,Units,Percentage (%),,0.377518031800974
-2005.0,,,,,,Undefined,Units,Percentage (%),,0.413049205602688
-2006.0,,,,,,Undefined,Units,Percentage (%),,0.503068549671212
-2007.0,,,,,,Undefined,Units,Percentage (%),,0.558501890972248
-2008.0,,,,,,Undefined,Units,Percentage (%),,0.485649340569823
-2009.0,,,,,,Undefined,Units,Percentage (%),,0.654763367397314
-2010.0,,,,,,Undefined,Units,Percentage (%),,0.574164857386415
-2011.0,,,,,,Undefined,Units,Percentage (%),,0.64547081165774
-2012.0,,,,,,Undefined,Units,Percentage (%),,0.841788317174764
-2013.0,,,,,,Undefined,Units,Percentage (%),,1.92838135558935
-2014.0,,,,,,Undefined,Units,Percentage (%),,2.25267157893669
-2015.0,,,,,,Undefined,Units,Percentage (%),,2.54450711227502
-2016.0,,,,,,Undefined,Units,Percentage (%),,2.83644040401781
-2017.0,,,,,,Undefined,Units,Percentage (%),,2.79548027085114
-2013.0,Male,,,,,Undefined,Units,Percentage (%),,1.62132519057777
-2014.0,Male,,,,,Undefined,Units,Percentage (%),,1.89940372166646
-2015.0,Male,,,,,Undefined,Units,Percentage (%),,2.22315605838853
-2016.0,Male,,,,,Undefined,Units,Percentage (%),,2.56600273942205
-2017.0,Male,,,,,Undefined,Units,Percentage (%),,2.39073551075099
-2013.0,Female,,,,,Undefined,Units,Percentage (%),,2.2783842422408
-2014.0,Female,,,,,Undefined,Units,Percentage (%),,2.65323050202033
-2015.0,Female,,,,,Undefined,Units,Percentage (%),,2.91237893618361
-2016.0,Female,,,,,Undefined,Units,Percentage (%),,3.14238041846002
-2017.0,Female,,,,,Undefined,Units,Percentage (%),,3.25190203677003
-2013.0,,16 to 24,,,,Undefined,Units,Percentage (%),,5.71564408722696
-2014.0,,16 to 24,,,,Undefined,Units,Percentage (%),,6.11081194700855
-2015.0,,16 to 24,,,,Undefined,Units,Percentage (%),,7.58070572562438
-2016.0,,16 to 24,,,,Undefined,Units,Percentage (%),,7.51404226701206
-2017.0,,16 to 24,,,,Undefined,Units,Percentage (%),,8.35651158332328
-2013.0,,25 to 34,,,,Undefined,Units,Percentage (%),,1.49796595623877
-2014.0,,25 to 34,,,,Undefined,Units,Percentage (%),,1.78431410678858
-2015.0,,25 to 34,,,,Undefined,Units,Percentage (%),,2.00118348464157
-2016.0,,25 to 34,,,,Undefined,Units,Percentage (%),,2.48147584335126
-2017.0,,25 to 34,,,,Undefined,Units,Percentage (%),,2.19357836673122
-2013.0,,35 to 49,,,,Undefined,Units,Percentage (%),,0.964079301680948
-2014.0,,35 to 49,,,,Undefined,Units,Percentage (%),,1.35557233436767
-2015.0,,35 to 49,,,,Undefined,Units,Percentage (%),,1.55741337442408
-2016.0,,35 to 49,,,,Undefined,Units,Percentage (%),,1.58090557207715
-2017.0,,35 to 49,,,,Undefined,Units,Percentage (%),,1.65165097283984
-2013.0,,50 to 64,,,,Undefined,Units,Percentage (%),,1.35002131343864
-2014.0,,50 to 64,,,,Undefined,Units,Percentage (%),,1.79995530370932
-2015.0,,50 to 64,,,,Undefined,Units,Percentage (%),,1.79195997906195
-2016.0,,50 to 64,,,,Undefined,Units,Percentage (%),,2.55656303695093
-2017.0,,50 to 64,,,,Undefined,Units,Percentage (%),,2.12563249020329
-2013.0,,65 and over,,,,Undefined,Units,Percentage (%),,3.86360791345217
-2014.0,,65 and over,,,,Undefined,Units,Percentage (%),,3.78742203216865
-2015.0,,65 and over,,,,Undefined,Units,Percentage (%),,3.02796077802723
-2016.0,,65 and over,,,,Undefined,Units,Percentage (%),,2.68490022876379
-2017.0,,65 and over,,,,Undefined,Units,Percentage (%),,3.81539063203206
-2016.0,,,,England,,Undefined,Units,Percentage (%),E92000001,2.96707587480777
-2016.0,,,,England,North East,Undefined,Units,Percentage (%),E12000001,4.77308876335781
-2016.0,,,,England,North West,Undefined,Units,Percentage (%),E12000002,3.0301608609743
-2016.0,,,,England,Yorkshire and The Humber,Undefined,Units,Percentage (%),E12000003,3.09739539943517
-2016.0,,,,England,East Midlands,Undefined,Units,Percentage (%),E12000004,3.00739639203055
-2016.0,,,,England,West Midlands,Undefined,Units,Percentage (%),E12000005,2.84353158420274
-2016.0,,,,England,East of England,Undefined,Units,Percentage (%),E12000006,2.43326556108104
-2016.0,,,,England,London,Undefined,Units,Percentage (%),E12000007,2.60904884961531
-2016.0,,,,England,South East,Undefined,Units,Percentage (%),E12000008,3.01430775112781
-2016.0,,,,England,South West,Undefined,Units,Percentage (%),E12000009,3.16025713237334
-2016.0,,,,Wales,,Undefined,Units,Percentage (%),W92000004,2.5496214346157
-2016.0,,,,Scotland,,Undefined,Units,Percentage (%),S92000003,2.17033300611015
-2015.0,,,,England,,Undefined,Units,Percentage (%),E92000001,2.59071419510766
-2015.0,,,,England,North East,Undefined,Units,Percentage (%),E12000001,2.65713905407192
-2015.0,,,,England,North West,Undefined,Units,Percentage (%),E12000002,2.84792034156948
-2015.0,,,,England,Yorkshire and The Humber,Undefined,Units,Percentage (%),E12000003,2.69792798882287
-2015.0,,,,England,East Midlands,Undefined,Units,Percentage (%),E12000004,2.36549638039628
-2015.0,,,,England,West Midlands,Undefined,Units,Percentage (%),E12000005,2.62980082068745
-2015.0,,,,England,East of England,Undefined,Units,Percentage (%),E12000006,2.19587686507896
-2015.0,,,,England,London,Undefined,Units,Percentage (%),E12000007,2.1482189049401
-2015.0,,,,England,South East,Undefined,Units,Percentage (%),E12000008,2.47302884716672
-2015.0,,,,England,South West,Undefined,Units,Percentage (%),E12000009,3.64854575581931
-2015.0,,,,Wales,,Undefined,Units,Percentage (%),W92000004,3.35192019199571
-2015.0,,,,Scotland,,Undefined,Units,Percentage (%),S92000003,2.2477548510543
-2016.0,,,"Managers, directors and senior officials",,,Undefined,Units,Percentage (%),,0.481773500110816
-2016.0,,,Professional occupations,,,Undefined,Units,Percentage (%),,1.16700386343171
-2016.0,,,Associate professional and technical occupations,,,Undefined,Units,Percentage (%),,1.43590159125511
-2016.0,,,Administrative and secretarial occupations,,,Undefined,Units,Percentage (%),,1.27790104123333
-2016.0,,,Skilled trades occupations,,,Undefined,Units,Percentage (%),,1.68846320669765
-2016.0,,,"Caring, leisure and other service occupations",,,Undefined,Units,Percentage (%),,6.68202555074868
-2016.0,,,Sales and customer service occupations,,,Undefined,Units,Percentage (%),,2.77345944041022
-2016.0,,,"Process, plant and machine operatives",,,Undefined,Units,Percentage (%),,3.62058062779864
-2016.0,,,Elementary occupations,,,Undefined,Units,Percentage (%),,8.95748108788234
+Year,Observation status,Unit multiplier,Unit measure,Value
+1992-04,Undefined,Units,Units,179000.0
+1992-05,Undefined,Units,Units,175000.0
+1992-06,Undefined,Units,Units,172000.0
+1992-07,Undefined,Units,Units,176000.0
+1992-08,Undefined,Units,Units,178000.0
+1992-09,Undefined,Units,Units,177000.0
+1992-10,Undefined,Units,Units,177000.0
+1992-11,Undefined,Units,Units,171000.0
+1992-12,Undefined,Units,Units,169000.0
+1993-01,Undefined,Units,Units,164000.0
+1993-02,Undefined,Units,Units,161000.0
+1993-03,Undefined,Units,Units,159000.0
+1993-04,Undefined,Units,Units,149000.0
+1993-05,Undefined,Units,Units,152000.0
+1993-06,Undefined,Units,Units,151000.0
+1993-07,Undefined,Units,Units,153000.0
+1993-08,Undefined,Units,Units,150000.0
+1993-09,Undefined,Units,Units,149000.0
+1993-10,Undefined,Units,Units,141000.0
+1993-11,Undefined,Units,Units,139000.0
+1993-12,Undefined,Units,Units,140000.0
+1994-01,Undefined,Units,Units,147000.0
+1994-02,Undefined,Units,Units,143000.0
+1994-03,Undefined,Units,Units,141000.0
+1994-04,Undefined,Units,Units,145000.0
+1994-05,Undefined,Units,Units,146000.0
+1994-06,Undefined,Units,Units,147000.0
+1994-07,Undefined,Units,Units,140000.0
+1994-08,Undefined,Units,Units,142000.0
+1994-09,Undefined,Units,Units,137000.0
+1994-10,Undefined,Units,Units,144000.0
+1994-11,Undefined,Units,Units,144000.0
+1994-12,Undefined,Units,Units,141000.0
+1995-01,Undefined,Units,Units,140000.0
+1995-02,Undefined,Units,Units,136000.0
+1995-03,Undefined,Units,Units,138000.0
+1995-04,Undefined,Units,Units,139000.0
+1995-05,Undefined,Units,Units,142000.0
+1995-06,Undefined,Units,Units,136000.0
+1995-07,Undefined,Units,Units,128000.0
+1995-08,Undefined,Units,Units,125000.0
+1995-09,Undefined,Units,Units,129000.0
+1995-10,Undefined,Units,Units,131000.0
+1995-11,Undefined,Units,Units,130000.0
+1995-12,Undefined,Units,Units,129000.0
+1996-01,Undefined,Units,Units,129000.0
+1996-02,Undefined,Units,Units,130000.0
+1996-03,Undefined,Units,Units,128000.0
+1996-04,Undefined,Units,Units,127000.0
+1996-05,Undefined,Units,Units,121000.0
+1996-06,Undefined,Units,Units,115000.0
+1996-07,Undefined,Units,Units,116000.0
+1996-08,Undefined,Units,Units,115000.0
+1996-09,Undefined,Units,Units,116000.0
+1996-10,Undefined,Units,Units,119000.0
+1996-11,Undefined,Units,Units,120000.0
+1996-12,Undefined,Units,Units,121000.0
+1997-01,Undefined,Units,Units,121000.0
+1997-02,Undefined,Units,Units,119000.0
+1997-03,Undefined,Units,Units,119000.0
+1997-04,Undefined,Units,Units,118000.0
+1997-05,Undefined,Units,Units,116000.0
+1997-06,Undefined,Units,Units,120000.0
+1997-07,Undefined,Units,Units,122000.0
+1997-08,Undefined,Units,Units,121000.0
+1997-09,Undefined,Units,Units,119000.0
+1997-10,Undefined,Units,Units,113000.0
+1997-11,Undefined,Units,Units,110000.0
+1997-12,Undefined,Units,Units,101000.0
+1998-01,Undefined,Units,Units,100000.0
+1998-02,Undefined,Units,Units,99000.0
+1998-03,Undefined,Units,Units,99000.0
+1998-04,Undefined,Units,Units,102000.0
+1998-05,Undefined,Units,Units,100000.0
+1998-06,Undefined,Units,Units,105000.0
+1998-07,Undefined,Units,Units,104000.0
+1998-08,Undefined,Units,Units,105000.0
+1998-09,Undefined,Units,Units,99000.0
+1998-10,Undefined,Units,Units,100000.0
+1998-11,Undefined,Units,Units,96000.0
+1998-12,Undefined,Units,Units,104000.0
+1999-01,Undefined,Units,Units,102000.0
+1999-02,Undefined,Units,Units,105000.0
+1999-03,Undefined,Units,Units,103000.0
+1999-04,Undefined,Units,Units,101000.0
+1999-05,Undefined,Units,Units,100000.0
+1999-06,Undefined,Units,Units,93000.0
+1999-07,Undefined,Units,Units,95000.0
+1999-08,Undefined,Units,Units,95000.0
+1999-09,Undefined,Units,Units,102000.0
+1999-10,Undefined,Units,Units,107000.0
+1999-11,Undefined,Units,Units,103000.0
+1999-12,Undefined,Units,Units,101000.0
+2000-01,Undefined,Units,Units,110000.0
+2000-02,Undefined,Units,Units,109000.0
+2000-03,Undefined,Units,Units,111000.0
+2000-04,Undefined,Units,Units,110000.0
+2000-05,Undefined,Units,Units,112000.0
+2000-06,Undefined,Units,Units,117000.0
+2000-07,Undefined,Units,Units,116000.0
+2000-08,Undefined,Units,Units,114000.0
+2000-09,Undefined,Units,Units,111000.0
+2000-10,Undefined,Units,Units,104000.0
+2000-11,Undefined,Units,Units,100000.0
+2000-12,Undefined,Units,Units,98000.0
+2001-01,Undefined,Units,Units,96000.0
+2001-02,Undefined,Units,Units,98000.0
+2001-03,Undefined,Units,Units,95000.0
+2001-04,Undefined,Units,Units,98000.0
+2001-05,Undefined,Units,Units,95000.0
+2001-06,Undefined,Units,Units,98000.0
+2001-07,Undefined,Units,Units,96000.0
+2001-08,Undefined,Units,Units,97000.0
+2001-09,Undefined,Units,Units,96000.0
+2001-10,Undefined,Units,Units,103000.0
+2001-11,Undefined,Units,Units,104000.0
+2001-12,Undefined,Units,Units,106000.0
+2002-01,Undefined,Units,Units,99000.0
+2002-02,Undefined,Units,Units,97000.0
+2002-03,Undefined,Units,Units,94000.0
+2002-04,Undefined,Units,Units,96000.0
+2002-05,Undefined,Units,Units,97000.0
+2002-06,Undefined,Units,Units,92000.0
+2002-07,Undefined,Units,Units,93000.0
+2002-08,Undefined,Units,Units,94000.0
+2002-09,Undefined,Units,Units,98000.0
+2002-10,Undefined,Units,Units,94000.0
+2002-11,Undefined,Units,Units,94000.0
+2002-12,Undefined,Units,Units,91000.0
+2003-01,Undefined,Units,Units,88000.0
+2003-02,Undefined,Units,Units,84000.0
+2003-03,Undefined,Units,Units,87000.0
+2003-04,Undefined,Units,Units,86000.0
+2003-05,Undefined,Units,Units,88000.0
+2003-06,Undefined,Units,Units,99000.0
+2003-07,Undefined,Units,Units,101000.0
+2003-08,Undefined,Units,Units,108000.0
+2003-09,Undefined,Units,Units,101000.0
+2003-10,Undefined,Units,Units,101000.0
+2003-11,Undefined,Units,Units,99000.0
+2003-12,Undefined,Units,Units,101000.0
+2004-01,Undefined,Units,Units,106000.0
+2004-02,Undefined,Units,Units,104000.0
+2004-03,Undefined,Units,Units,108000.0
+2004-04,Undefined,Units,Units,101000.0
+2004-05,Undefined,Units,Units,97000.0
+2004-06,Undefined,Units,Units,89000.0
+2004-07,Undefined,Units,Units,87000.0
+2004-08,Undefined,Units,Units,89000.0
+2004-09,Undefined,Units,Units,94000.0
+2004-10,Undefined,Units,Units,94000.0
+2004-11,Undefined,Units,Units,97000.0
+2004-12,Undefined,Units,Units,98000.0
+2005-01,Undefined,Units,Units,105000.0
+2005-02,Undefined,Units,Units,105000.0
+2005-03,Undefined,Units,Units,103000.0
+2005-04,Undefined,Units,Units,102000.0
+2005-05,Undefined,Units,Units,99000.0
+2005-06,Undefined,Units,Units,95000.0
+2005-07,Undefined,Units,Units,85000.0
+2005-08,Undefined,Units,Units,90000.0
+2005-09,Undefined,Units,Units,92000.0
+2005-10,Undefined,Units,Units,92000.0
+2005-11,Undefined,Units,Units,90000.0
+2005-12,Undefined,Units,Units,92000.0
+2006-01,Undefined,Units,Units,88000.0
+2006-02,Undefined,Units,Units,89000.0
+2006-03,Undefined,Units,Units,85000.0
+2006-04,Undefined,Units,Units,86000.0
+2006-05,Undefined,Units,Units,91000.0
+2006-06,Undefined,Units,Units,99000.0
+2006-07,Undefined,Units,Units,105000.0
+2006-08,Undefined,Units,Units,104000.0
+2006-09,Undefined,Units,Units,98000.0
+2006-10,Undefined,Units,Units,101000.0
+2006-11,Undefined,Units,Units,102000.0
+2006-12,Undefined,Units,Units,100000.0
+2007-01,Undefined,Units,Units,99000.0
+2007-02,Undefined,Units,Units,103000.0
+2007-03,Undefined,Units,Units,101000.0
+2007-04,Undefined,Units,Units,99000.0
+2007-05,Undefined,Units,Units,98000.0
+2007-06,Undefined,Units,Units,104000.0
+2007-07,Undefined,Units,Units,102000.0
+2007-08,Undefined,Units,Units,97000.0
+2007-09,Undefined,Units,Units,97000.0
+2007-10,Undefined,Units,Units,103000.0
+2007-11,Undefined,Units,Units,106000.0
+2007-12,Undefined,Units,Units,109000.0
+2008-01,Undefined,Units,Units,110000.0
+2008-02,Undefined,Units,Units,109000.0
+2008-03,Undefined,Units,Units,115000.0
+2008-04,Undefined,Units,Units,116000.0
+2008-05,Undefined,Units,Units,111000.0
+2008-06,Undefined,Units,Units,101000.0
+2008-07,Undefined,Units,Units,90000.0
+2008-08,Undefined,Units,Units,90000.0
+2008-09,Undefined,Units,Units,91000.0
+2008-10,Undefined,Units,Units,91000.0
+2008-11,Undefined,Units,Units,94000.0
+2008-12,Undefined,Units,Units,88000.0
+2009-01,Undefined,Units,Units,85000.0
+2009-02,Undefined,Units,Units,87000.0
+2009-03,Undefined,Units,Units,88000.0
+2009-04,Undefined,Units,Units,101000.0
+2009-05,Undefined,Units,Units,98000.0
+2009-06,Undefined,Units,Units,91000.0
+2009-07,Undefined,Units,Units,84000.0
+2009-08,Undefined,Units,Units,78000.0
+2009-09,Undefined,Units,Units,83000.0
+2009-10,Undefined,Units,Units,76000.0
+2009-11,Undefined,Units,Units,87000.0
+2009-12,Undefined,Units,Units,86000.0
+2010-01,Undefined,Units,Units,92000.0
+2010-02,Undefined,Units,Units,90000.0
+2010-03,Undefined,Units,Units,91000.0
+2010-04,Undefined,Units,Units,93000.0
+2010-05,Undefined,Units,Units,90000.0
+2010-06,Undefined,Units,Units,103000.0
+2010-07,Undefined,Units,Units,109000.0
+2010-08,Undefined,Units,Units,105000.0
+2010-09,Undefined,Units,Units,99000.0
+2010-10,Undefined,Units,Units,94000.0
+2010-11,Undefined,Units,Units,93000.0
+2010-12,Undefined,Units,Units,100000.0
+2011-01,Undefined,Units,Units,98000.0
+2011-02,Undefined,Units,Units,98000.0
+2011-03,Undefined,Units,Units,93000.0
+2011-04,Undefined,Units,Units,91000.0
+2011-05,Undefined,Units,Units,96000.0
+2011-06,Undefined,Units,Units,94000.0
+2011-07,Undefined,Units,Units,100000.0
+2011-08,Undefined,Units,Units,105000.0
+2011-09,Undefined,Units,Units,110000.0
+2011-10,Undefined,Units,Units,114000.0
+2011-11,Undefined,Units,Units,112000.0
+2011-12,Undefined,Units,Units,111000.0
+2012-01,Undefined,Units,Units,99000.0
+2012-02,Undefined,Units,Units,96000.0
+2012-03,Undefined,Units,Units,98000.0
+2012-04,Undefined,Units,Units,111000.0
+2012-05,Undefined,Units,Units,112000.0
+2012-06,Undefined,Units,Units,117000.0
+2012-07,Undefined,Units,Units,112000.0
+2012-08,Undefined,Units,Units,110000.0
+2012-09,Undefined,Units,Units,109000.0
+2012-10,Undefined,Units,Units,113000.0
+2012-11,Undefined,Units,Units,115000.0
+2012-12,Undefined,Units,Units,107000.0
+2013-01,Undefined,Units,Units,102000.0
+2013-02,Undefined,Units,Units,102000.0
+2013-03,Undefined,Units,Units,105000.0
+2013-04,Undefined,Units,Units,103000.0
+2013-05,Undefined,Units,Units,115000.0
+2013-06,Undefined,Units,Units,108000.0
+2013-07,Undefined,Units,Units,117000.0
+2013-08,Undefined,Units,Units,113000.0
+2013-09,Undefined,Units,Units,119000.0
+2013-10,Undefined,Units,Units,115000.0
+2013-11,Undefined,Units,Units,111000.0
+2013-12,Undefined,Units,Units,110000.0
+2014-01,Undefined,Units,Units,115000.0
+2014-02,Undefined,Units,Units,123000.0
+2014-03,Undefined,Units,Units,124000.0
+2014-04,Undefined,Units,Units,118000.0
+2014-05,Undefined,Units,Units,114000.0
+2014-06,Undefined,Units,Units,118000.0
+2014-07,Undefined,Units,Units,128000.0
+2014-08,Undefined,Units,Units,122000.0
+2014-09,Undefined,Units,Units,118000.0
+2014-10,Undefined,Units,Units,103000.0
+2014-11,Undefined,Units,Units,103000.0
+2014-12,Undefined,Units,Units,113000.0
+2015-01,Undefined,Units,Units,113000.0
+2015-02,Undefined,Units,Units,119000.0
+2015-03,Undefined,Units,Units,110000.0
+2015-04,Undefined,Units,Units,103000.0
+2015-05,Undefined,Units,Units,101000.0
+2015-06,Undefined,Units,Units,100000.0
+2015-07,Undefined,Units,Units,93000.0
+2015-08,Undefined,Units,Units,94000.0
+2015-09,Undefined,Units,Units,88000.0
+2015-10,Undefined,Units,Units,95000.0
+2015-11,Undefined,Units,Units,95000.0
+2015-12,Undefined,Units,Units,96000.0
+2016-01,Undefined,Units,Units,103000.0
+2016-02,Undefined,Units,Units,100000.0
+2016-03,Undefined,Units,Units,110000.0
+2016-04,Undefined,Units,Units,118000.0
+2016-05,Undefined,Units,Units,120000.0
+2016-06,Undefined,Units,Units,110000.0
+2016-07,Undefined,Units,Units,124000.0
+2016-08,Undefined,Units,Units,128000.0
+2016-09,Undefined,Units,Units,128000.0
+2016-10,Undefined,Units,Units,128000.0
+2016-11,Undefined,Units,Units,123000.0
+2016-12,Undefined,Units,Units,123000.0
+2017-01,Undefined,Units,Units,116000.0
+2017-02,Undefined,Units,Units,117000.0
+2017-03,Undefined,Units,Units,114000.0
+2017-04,Undefined,Units,Units,109000.0
+2017-05,Undefined,Units,Units,113000.0
+2017-06,Undefined,Units,Units,111000.0
+2017-07,Undefined,Units,Units,109000.0
+2017-08,Undefined,Units,Units,104000.0
+2017-09,Undefined,Units,Units,113000.0
+2017-10,Undefined,Units,Units,123000.0
+2017-11,Undefined,Units,Units,131000.0
+2017-12,Undefined,Units,Units,122000.0
+2018-01,Undefined,Units,Units,108000.0
+2018-02,Undefined,Units,Units,112000.0
+2018-03,Undefined,Units,Units,108000.0
+2018-04,Undefined,Units,Units,119000.0
+2018-05,Undefined,Units,Units,114000.0
+2018-06,Undefined,Units,Units,123000.0
+2018-07,Undefined,Units,Units,118000.0
+2018-08,Undefined,Units,Units,114000.0
+2018-09,Undefined,Units,Units,110000.0
+2018-10,Undefined,Units,Units,106000.0
+2018-11,Undefined,Units,Units,121000.0
+2018-12,Undefined,Units,Units,127000.0
+2019-01,Undefined,Units,Units,134000.0
+2019-02,Undefined,Units,Units,131000.0
+2019-03,Undefined,Units,Units,132000.0
+2019-04,Undefined,Units,Units,127000.0
+2019-05,Undefined,Units,Units,135000.0
+2019-06,Undefined,Units,Units,126000.0
+2019-07,Undefined,Units,Units,129000.0
+2019-08,Undefined,Units,Units,121000.0
+2019-09,Undefined,Units,Units,126000.0
