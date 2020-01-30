@@ -36,6 +36,7 @@ e.g. https://ONSdigital.github.io/sdg-data/data/1-2-1.json
 
 ```
 /edges/1-2-1.csv
+
 /edges/1-2-1.json
 ```
 
@@ -101,4 +102,4 @@ Code (`scripts/` and top level) is MIT © Office for National Statistics
 
 
 
-Last updated Thu Jan 30 11:52:49 UTC 2020
+Last updated Thu Jan 30 16:13:50 UTC 2020
