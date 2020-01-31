@@ -36,6 +36,7 @@ e.g. https://ONSdigital.github.io/sdg-data/data/1-2-1.json
 
 ```
 /edges/1-2-1.csv
+
 /edges/1-2-1.json
 ```
 
