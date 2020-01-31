@@ -1,55 +1,58 @@
-Year,Type of government,Value
-2000,Central government,78.3
-2001,Central government,77.8
-2002,Central government,78.2
-2003,Central government,77.0
-2004,Central government,76.8
-2005,Central government,77.1
-2006,Central government,77.3
-2007,Central government,77.5
-2008,Central government,76.2
-2009,Central government,75.5
-2010,Central government,76.7
-2011,Central government,76.9
-2012,Central government,75.8
-2013,Central government,74.2
-2014,Central government,75.4
-2015,Central government,75.5
-2016,Central government,75.5
-2017,Central government,75.2
-2000,Local government,68.2
-2001,Local government,77.3
-2002,Local government,79.6
-2003,Local government,90.5
-2004,Local government,84.9
-2005,Local government,80.1
-2006,Local government,92.3
-2007,Local government,83.0
-2008,Local government,77.1
-2009,Local government,74.3
-2010,Local government,90.0
-2011,Local government,83.2
-2012,Local government,98.4
-2013,Local government,82.8
-2014,Local government,92.8
-2015,Local government,85.2
-2016,Local government,73.2
-2017,Local government,76.9
-2000,,77.8
-2001,,77.8
-2002,,78.2
-2003,,77.6
-2004,,77.2
-2005,,77.3
-2006,,78.0
-2007,,77.8
-2008,,76.2
-2009,,75.4
-2010,,77.3
-2011,,77.2
-2012,,76.8
-2013,,74.6
-2014,,76.3
-2015,,76.0
-2016,,75.4
-2017,,75.3
+Year,Type of government,Unit measure,Unit multiplier,Observation status,Value
+2000,Central government,Percentage (%),Units,Undefined,77.6159485419
+2001,Central government,Percentage (%),Units,Undefined,77.12392274343097
+2002,Central government,Percentage (%),Units,Undefined,77.43339608797487
+2003,Central government,Percentage (%),Units,Undefined,76.36127895640641
+2004,Central government,Percentage (%),Units,Undefined,76.26363736546303
+2005,Central government,Percentage (%),Units,Undefined,76.49147528940195
+2006,Central government,Percentage (%),Units,Undefined,76.69725179369519
+2007,Central government,Percentage (%),Units,Undefined,76.77198942490745
+2008,Central government,Percentage (%),Units,Undefined,75.45725907656664
+2009,Central government,Percentage (%),Units,Undefined,74.60765428180596
+2010,Central government,Percentage (%),Units,Undefined,75.73514986986926
+2011,Central government,Percentage (%),Units,Undefined,76.01000951934415
+2012,Central government,Percentage (%),Units,Undefined,74.90415260059825
+2013,Central government,Percentage (%),Units,Undefined,73.37551992254265
+2014,Central government,Percentage (%),Units,Undefined,74.62936123923913
+2015,Central government,Percentage (%),Units,Undefined,74.65201031265295
+2000,Local government,Percentage (%),Units,Undefined,66.8741216623168
+2001,Local government,Percentage (%),Units,Undefined,75.83311466806613
+2002,Local government,Percentage (%),Units,Undefined,78.05359522281992
+2003,Local government,Percentage (%),Units,Undefined,87.79667721518987
+2004,Local government,Percentage (%),Units,Undefined,82.7095937770095
+2005,Local government,Percentage (%),Units,Undefined,77.76240439678696
+2006,Local government,Percentage (%),Units,Undefined,88.80149812734082
+2007,Local government,Percentage (%),Units,Undefined,79.63756061303225
+2008,Local government,Percentage (%),Units,Undefined,73.7198158413981
+2009,Local government,Percentage (%),Units,Undefined,71.24340884319675
+2010,Local government,Percentage (%),Units,Undefined,87.4116032790346
+2011,Local government,Percentage (%),Units,Undefined,81.4128565402213
+2012,Local government,Percentage (%),Units,Undefined,95.41528987683989
+2013,Local government,Percentage (%),Units,Undefined,80.75055726892424
+2014,Local government,Percentage (%),Units,Undefined,90.40472342250223
+2015,Local government,Percentage (%),Units,Undefined,83.73976530401112
+2000,,Percentage (%),Units,Undefined,77.06620910734834
+2001,,Percentage (%),Units,Undefined,77.06216306473928
+2002,,Percentage (%),Units,Undefined,77.46456169588033
+2003,,Percentage (%),Units,Undefined,76.90625544930555
+2004,,Percentage (%),Units,Undefined,76.58881031069875
+2005,,Percentage (%),Units,Undefined,76.55874909469675
+2006,,Percentage (%),Units,Undefined,77.25893755443252
+2007,,Percentage (%),Units,Undefined,76.91922976197404
+2008,,Percentage (%),Units,Undefined,75.35823932600314
+2009,,Percentage (%),Units,Undefined,74.39289488628884
+2010,,Percentage (%),Units,Undefined,76.32395050864538
+2011,,Percentage (%),Units,Undefined,76.29036793566388
+2012,,Percentage (%),Units,Undefined,75.81664954438013
+2013,,Percentage (%),Units,Undefined,73.75287281794732
+2014,,Percentage (%),Units,Undefined,75.3652355740603
+2015,,Percentage (%),Units,Undefined,75.1072370379035
+2016,Central government,Percentage (%),Units,Undefined,74.67831560796726
+2017,Central government,Percentage (%),Units,Undefined,74.23167484016453
+2018,Central government,Percentage (%),Units,Undefined,74.59968560093094
+2016,Local government,Percentage (%),Units,Undefined,71.98963655294317
+2017,Local government,Percentage (%),Units,Undefined,76.59300004867838
+2018,Local government,Percentage (%),Units,Undefined,80.449454166568
+2016,,Percentage (%),Units,Undefined,74.52380852991146
+2017,,Percentage (%),Units,Undefined,74.36031733192956
+2018,,Percentage (%),Units,Undefined,74.91762810117328
