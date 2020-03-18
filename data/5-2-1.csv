@@ -1,4 +1,4 @@
-Year,Type of partner abuse,Abuse sub-category,Age,Ethnicity,Ethnic group,Disability status,Household income,Region,Highest qualification,Units,Unit multiplier,Observation status,GeoCode,Value
+Year,Type of partner abuse,Abuse sub-category,Age,Ethnicity,Ethnic group,Disability status,Country of birth,Region,Highest qualification,Units,Unit multiplier,Observation status,GeoCode,Value
 2004/05,,,,,,,,,,Percentage (%),Units,Undefined,,8.650739326
 2005/06,,,,,,,,,,Percentage (%),Units,Undefined,,9.225465239
 2006/07,,,,,,,,,,Percentage (%),Units,Undefined,,8.697371257
@@ -137,96 +137,47 @@ Year,Type of partner abuse,Abuse sub-category,Age,Ethnicity,Ethnic group,Disabil
 2015/16,Sexual (including attempts),Indecent exposure or unwanted sexual touching by a partner,,,,,,,,Percentage (%),Units,Undefined,,0.37816581299999996
 2016/17,Sexual (including attempts),Indecent exposure or unwanted sexual touching by a partner,,,,,,,,Percentage (%),Units,Undefined,,0.256627318
 2017/18,Sexual (including attempts),Indecent exposure or unwanted sexual touching by a partner,,,,,,,,Percentage (%),Units,Undefined,,0.25918699100000003
-2016/17,Non-sexual,,16 to 19,,,,,,,Percentage (%),Units,Undefined,,5.723083268
-2016/17,Non-sexual,,20 to 24,,,,,,,Percentage (%),Units,Undefined,,7.349318413
-2016/17,Non-sexual,,25 to 34,,,,,,,Percentage (%),Units,Undefined,,5.1766751189999995
-2016/17,Non-sexual,,35 to 44,,,,,,,Percentage (%),Units,Undefined,,5.104475088
-2016/17,Non-sexual,,45 to 54,,,,,,,Percentage (%),Units,Undefined,,4.790018887
-2016/17,Non-sexual,,55 to 59,,,,,,,Percentage (%),Units,Undefined,,3.8455545439999996
-2016/17,Non-sexual,,,White,,,,,,Percentage (%),Units,Undefined,,5.45729882
-2016/17,Non-sexual,,,White,English/Welsh/Scottish/Northern Irish/British,,,,,Percentage (%),Units,Undefined,,5.814625199
-2016/17,Non-sexual,,,White,Irish,,,,,Percentage (%),Units,Undefined,,1.7837983130000001
-2016/17,Non-sexual,,,White,Any other white background,,,,,Percentage (%),Units,Undefined,,2.288264459
-2016/17,Non-sexual,,,Mixed/multiple ethnic groups,,,,,,Percentage (%),Units,Undefined,,8.489867958
-2016/17,Non-sexual,,,Mixed/multiple ethnic groups,White and Black Caribbean,,,,,Percentage (%),Units,Undefined,,3.024956387
-2016/17,Non-sexual,,,Asian/Asian British,,,,,,Percentage (%),Units,Undefined,,2.3982040319999998
-2016/17,Non-sexual,,,Asian/Asian British,Indian,,,,,Percentage (%),Units,Undefined,,2.930152508
-2016/17,Non-sexual,,,Asian/Asian British,Pakistani,,,,,Percentage (%),Units,Undefined,,2.943624022
-2016/17,Non-sexual,,,Asian/Asian British,Bangladeshi,,,,,Percentage (%),Units,Undefined,,2.7167085980000003
-2016/17,Non-sexual,,,Asian/Asian British,Chinese,,,,,Percentage (%),Units,Undefined,,1.2452291709999999
-2016/17,Non-sexual,,,Asian/Asian British,Any other Asian background,,,,,Percentage (%),Units,Undefined,,0.671531021
-2016/17,Non-sexual,,,Black/African/Caribbean/Black British,,,,,,Percentage (%),Units,Undefined,,4.35563724
-2016/17,Non-sexual,,,Black/African/Caribbean/Black British,African,,,,,Percentage (%),Units,Undefined,,2.449723772
-2016/17,Non-sexual,,,Black/African/Caribbean/Black British,Caribbean,,,,,Percentage (%),Units,Undefined,,6.866498651000001
-2016/17,Non-sexual,,,Other ethnic group,Arab,,,,,Percentage (%),Units,Undefined,,5.225803149
-2016/17,Non-sexual,,,Other ethnic group,Any other ethnic group,,,,,Percentage (%),Units,Undefined,,11.60430242
-2016/17,Non-sexual,,,,,,,,Degree or diploma,Percentage (%),Units,Undefined,,4.290670647
-2016/17,Non-sexual,,,,,,,,Apprenticeship or A/AS level,Percentage (%),Units,Undefined,,6.443553799
-2016/17,Non-sexual,,,,,,,,O level/GCSE,Percentage (%),Units,Undefined,,5.96822551
-2016/17,Non-sexual,,,,,,,,Other,Percentage (%),Units,Undefined,,4.518946125
-2016/17,Non-sexual,,,,,,,,No qualifications,Percentage (%),Units,Undefined,,5.77209052
-2016/17,Non-sexual,,,,,Long-standing illness or disability,,,,Percentage (%),Units,Undefined,,11.19542603
-2016/17,Non-sexual,,,,,Limits activities,,,,Percentage (%),Units,Undefined,,11.36695241
-2016/17,Non-sexual,,,,,Does not limit activities,,,,Percentage (%),Units,Undefined,,10.68507957
-2016/17,Non-sexual,,,,,No long-standing illness or disability,,,,Percentage (%),Units,Undefined,,4.110021953
-2016/17,Non-sexual,,,,,,"Less than £10,000",,,Percentage (%),Units,Undefined,,13.52375847
-2016/17,Non-sexual,,,,,,"£10,000 to less than £20,000",,,Percentage (%),Units,Undefined,,7.504174784
-2016/17,Non-sexual,,,,,,"£20,000 to less than £30,000",,,Percentage (%),Units,Undefined,,5.79704718
-2016/17,Non-sexual,,,,,,"£30,000 to less than £40,000",,,Percentage (%),Units,Undefined,,5.045140302
-2016/17,Non-sexual,,,,,,"£40,000 to less than £50,000",,,Percentage (%),Units,Undefined,,4.228430222
-2016/17,Non-sexual,,,,,,"£50,000 or more",,,Percentage (%),Units,Undefined,,2.703346198
-2016/17,Non-sexual,,,,,,No income stated or not enough information provided,,,Percentage (%),Units,Undefined,,4.806620608999999
-2016/17,Non-sexual,,,,,,,North East,,Percentage (%),Units,Undefined,E12000001,5.516951787999999
-2016/17,Non-sexual,,,,,,,North West,,Percentage (%),Units,Undefined,E12000002,5.475292554
-2016/17,Non-sexual,,,,,,,Yorkshire and The Humber,,Percentage (%),Units,Undefined,E12000003,6.10836438
-2016/17,Non-sexual,,,,,,,East Midlands,,Percentage (%),Units,Undefined,E12000004,5.646428346
-2016/17,Non-sexual,,,,,,,West Midlands,,Percentage (%),Units,Undefined,E12000005,4.255535828
-2016/17,Non-sexual,,,,,,,East of England,,Percentage (%),Units,Undefined,E12000006,5.5589884739999995
-2016/17,Non-sexual,,,,,,,London,,Percentage (%),Units,Undefined,E12000007,2.4991138459999998
-2016/17,Non-sexual,,,,,,,South East,,Percentage (%),Units,Undefined,E12000008,5.749182056
-2016/17,Non-sexual,,,,,,,South West,,Percentage (%),Units,Undefined,E12000009,6.898349109
-2016/17,Non-sexual,,,,,,,Wales,,Percentage (%),Units,Undefined,W92000004,6.754652027000001
-2017/18,Non-sexual,,16 to 19,,,,,,,Percentage (%),Units,Undefined,,5.471395958
-2017/18,Non-sexual,,20 to 24,,,,,,,Percentage (%),Units,Undefined,,9.064948824
-2017/18,Non-sexual,,25 to 34,,,,,,,Percentage (%),Units,Undefined,,6.047448971000001
-2017/18,Non-sexual,,35 to 44,,,,,,,Percentage (%),Units,Undefined,,5.053276104
-2017/18,Non-sexual,,45 to 54,,,,,,,Percentage (%),Units,Undefined,,4.383144953
-2017/18,Non-sexual,,55 to 59,,,,,,,Percentage (%),Units,Undefined,,5.579890312000001
-2017/18,Non-sexual,,,White,,,,,,Percentage (%),Units,Undefined,,5.6367493820000005
-2017/18,Non-sexual,,,White,English/Welsh/Scottish/Northern Irish/British,,,,,Percentage (%),Units,Undefined,,5.885506474
-2017/18,Non-sexual,,,White,Any other white background,,,,,Percentage (%),Units,Undefined,,2.899386948
-2017/18,Non-sexual,,,Mixed/multiple ethnic groups,,,,,,Percentage (%),Units,Undefined,,10.275943400000001
-2017/18,Non-sexual,,,Asian/Asian British,,,,,,Percentage (%),Units,Undefined,,5.283691718
-2017/18,Non-sexual,,,Asian/Asian British,Indian,,,,,Percentage (%),Units,Undefined,,4.966931276
-2017/18,Non-sexual,,,Asian/Asian British,Pakistani,,,,,Percentage (%),Units,Undefined,,7.052328575
-2017/18,Non-sexual,,,Asian/Asian British,Any other Asian background,,,,,Percentage (%),Units,Undefined,,3.620884993
-2017/18,Non-sexual,,,Black/African/Caribbean/Black British,,,,,,Percentage (%),Units,Undefined,,5.71245917
-2017/18,Non-sexual,,,Black/African/Caribbean/Black British,African,,,,,Percentage (%),Units,Undefined,,3.7060980310000002
-2017/18,Non-sexual,,,Black/African/Caribbean/Black British,Caribbean,,,,,Percentage (%),Units,Undefined,,10.08318705
-2017/18,Non-sexual,,,Other ethnic group,,,,,,Percentage (%),Units,Undefined,,1.9892842419999999
-2017/18,Non-sexual,,,,,,,,Degree or diploma,Percentage (%),Units,Undefined,,5.379362498
-2017/18,Non-sexual,,,,,,,,Apprenticeship or A/AS level,Percentage (%),Units,Undefined,,6.199618874
-2017/18,Non-sexual,,,,,,,,O level/GCSE,Percentage (%),Units,Undefined,,5.838586782
-2017/18,Non-sexual,,,,,,,,Other,Percentage (%),Units,Undefined,,3.329286887
-2017/18,Non-sexual,,,,,,,,No qualifications,Percentage (%),Units,Undefined,,6.379520224
-2017/18,Non-sexual,,,,,Long-standing illness or disability,,,,Percentage (%),Units,Undefined,,11.77064464
-2017/18,Non-sexual,,,,,Limits activities,,,,Percentage (%),Units,Undefined,,12.00040055
-2017/18,Non-sexual,,,,,Does not limit activities,,,,Percentage (%),Units,Undefined,,10.99132535
-2017/18,Non-sexual,,,,,No long-standing illness or disability,,,,Percentage (%),Units,Undefined,,4.473946700000001
-2017/18,Non-sexual,,,,,,"Less than £10,000",,,Percentage (%),Units,Undefined,,14.2292516
-2017/18,Non-sexual,,,,,,"£10,000 to less than £20,000",,,Percentage (%),Units,Undefined,,8.985600955
-2017/18,Non-sexual,,,,,,"£20,000 to less than £30,000",,,Percentage (%),Units,Undefined,,6.033042447000001
-2017/18,Non-sexual,,,,,,"£30,000 to less than £40,000",,,Percentage (%),Units,Undefined,,5.041400969
-2017/18,Non-sexual,,,,,,"£40,000 to less than £50,000",,,Percentage (%),Units,Undefined,,5.165222041
-2017/18,Non-sexual,,,,,,"£50,000 or more",,,Percentage (%),Units,Undefined,,3.1364053289999996
-2017/18,Non-sexual,,,,,,No income stated or not enough information provided,,,Percentage (%),Units,Undefined,,4.845777698
-2017/18,Non-sexual,,,,,,,North East,,Percentage (%),Units,Undefined,E12000001,4.414707152
-2017/18,Non-sexual,,,,,,,North West,,Percentage (%),Units,Undefined,E12000002,6.6767917070000005
-2017/18,Non-sexual,,,,,,,Yorkshire and The Humber,,Percentage (%),Units,Undefined,E12000003,8.033109049
-2017/18,Non-sexual,,,,,,,East Midlands,,Percentage (%),Units,Undefined,E12000004,5.564456244
-2017/18,Non-sexual,,,,,,,West Midlands,,Percentage (%),Units,Undefined,E12000005,6.12563719
-2017/18,Non-sexual,,,,,,,East of England,,Percentage (%),Units,Undefined,E12000006,5.4129033070000006
-2017/18,Non-sexual,,,,,,,London,,Percentage (%),Units,Undefined,E12000007,4.853604016
-2017/18,Non-sexual,,,,,,,South East,,Percentage (%),Units,Undefined,E12000008,4.744744788
-2017/18,Non-sexual,,,,,,,South West,,Percentage (%),Units,Undefined,E12000009,4.777591144
-2017/18,Non-sexual,,,,,,,Wales,,Percentage (%),Units,Undefined,W92000004,6.2092453370000005
+2018/19,,,,,,,,,,Percentage (%),Units,Undefined,,6.375420398669647
+2018/19,Non-sexual,,,,,,,,,Percentage (%),Units,Undefined,,5.386574496652863
+2018/19,Sexual (including attempts),,,,,,,,,Percentage (%),Units,Undefined,,0.7156394256004414
+2018/19,Stalking by a partner/ex-partner,,,,,,,,,Percentage (%),Units,Undefined,,1.5868831784630997
+2018/19,Non-sexual,"Non-physical abuse (emotional, financial)",,,,,,,,Percentage (%),Units,Undefined,,4.312473389560704
+2018/19,Non-sexual,Threats or force,,,,,,,,Percentage (%),Units,Undefined,,2.7198523606895333
+2018/19,Non-sexual,Threats,,,,,,,,Percentage (%),Units,Undefined,,2.2012362268129553
+2018/19,Non-sexual,Force,,,,,,,,Percentage (%),Units,Undefined,,1.5549911139474588
+2018/19,Sexual (including attempts),Sexual assault by rape or penetration (including attempts),,,,,,,,Percentage (%),Units,Undefined,,0.3071479617474434
+2018/19,Sexual (including attempts),Indecent exposure or unwanted sexual touching by a partner,,,,,,,,Percentage (%),Units,Undefined,,0.518446833404983
+2018/19,,,16 to 19,,,,,,,Percentage (%),Units,Undefined,,6.398095313844577
+2018/19,,,20 to 24,,,,,,,Percentage (%),Units,Undefined,,9.930108160995674
+2018/19,,,25 to 34,,,,,,,Percentage (%),Units,Undefined,,6.332597458337928
+2018/19,,,35 to 44,,,,,,,Percentage (%),Units,Undefined,,5.70113500747042
+2018/19,,,45 to 54,,,,,,,Percentage (%),Units,Undefined,,6.618011802127921
+2018/19,,,55 to 59,,,,,,,Percentage (%),Units,Undefined,,3.9507204967890144
+2018/19,,,,White,,,,,,Percentage (%),Units,Undefined,,6.353924225017511
+2018/19,,,,White,English/Welsh/Scottish/Northern Irish/British,,,,,Percentage (%),Units,Undefined,,6.673899900744562
+2018/19,,,,White,Any other white background,,,,,Percentage (%),Units,Undefined,,3.68867968607566
+2018/19,,,,Asian/Asian British,,,,,,Percentage (%),Units,Undefined,,3.9610347751276804
+2018/19,,,,Asian/Asian British,Indian,,,,,Percentage (%),Units,Undefined,,4.928686745896759
+2018/19,,,,Asian/Asian British,Any other Asian background,,,,,Percentage (%),Units,Undefined,,3.6705545399037742
+2018/19,,,,Black/African/Caribbean/Black British,,,,,,Percentage (%),Units,Undefined,,5.984063581150902
+2018/19,,,,Black/African/Caribbean/Black British,African,,,,,Percentage (%),Units,Undefined,,3.6705545399037742
+2018/19,,,,Other ethnic group,,,,,,Percentage (%),Units,Undefined,,6.0802435450330234
+2018/19,,,,,,,,,Degree or diploma,Percentage (%),Units,Undefined,,5.862546261571944
+2018/19,,,,,,,,,Apprenticeship or A/AS level,Percentage (%),Units,Undefined,,7.377468349205325
+2018/19,,,,,,,,,O level/GCSE,Percentage (%),Units,Undefined,,7.8096968457861475
+2018/19,,,,,,,,,Other,Percentage (%),Units,Undefined,,4.092801401139943
+2018/19,,,,,,,,,No qualifications,Percentage (%),Units,Undefined,,4.30894024024491
+2018/19,,,,,,Disabled,,,,Percentage (%),Units,Undefined,,12.874502258303108
+2018/19,,,,,,Not disabled,,,,Percentage (%),Units,Undefined,,5.408475819471454
+2018/19,,,,,,,Born in the UK,,,Percentage (%),Units,Undefined,,6.994836460742056
+2018/19,,,,,,,Not born in the UK,,,Percentage (%),Units,Undefined,,3.751814790000308
+2018/19,,,,,,,,North East,,Percentage (%),Units,Undefined,E12000001,5.561740809721061
+2018/19,,,,,,,,North West,,Percentage (%),Units,Undefined,E12000002,5.371183451154077
+2018/19,,,,,,,,Yorkshire and The Humber,,Percentage (%),Units,Undefined,E12000003,6.698017196980207
+2018/19,,,,,,,,East Midlands,,Percentage (%),Units,Undefined,E12000004,6.502998473294327
+2018/19,,,,,,,,West Midlands,,Percentage (%),Units,Undefined,E12000005,7.622626516801965
+2018/19,,,,,,,,East of England,,Percentage (%),Units,Undefined,E12000006,9.073847818367609
+2018/19,,,,,,,,London,,Percentage (%),Units,Undefined,E12000007,4.296935465500357
+2018/19,,,,,,,,South East,,Percentage (%),Units,Undefined,E12000008,7.390511338227942
+2018/19,,,,,,,,South West,,Percentage (%),Units,Undefined,E12000009,5.728663959123086
+2018/19,,,,,,,,Wales,,Percentage (%),Units,Undefined,W92000004,5.624540167097664
