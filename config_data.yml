@@ -1,0 +1,86 @@
+# This config file is for use with the `build_data` and `check_data` functions,
+# which are helpers for implementations of Open SDG. This file allows easy use
+# of those functions without altering Python code.
+
+# Languages
+# ---------
+# This tells sdg-build to perform "translated builds" for each of the specified
+# languages. Each build is in its own subfolder - one for each language.
+languages:
+  - en
+
+# Destination directory
+# ---------------------
+# This identifies a directory to hold the "built" files. The default is '_site'.
+site_dir: _site
+
+# Schema file
+# -----------
+# This identifies a file containing the schema (possible fields) for metadata.
+# Currently this needs to be a prose.io config, and defaults to '_prose.yml'.
+schema_file: _prose.yml
+
+# Source directory
+# ----------------
+# This identifies the directory that holds the 'data' and 'meta' folders.
+# The default, '', points to the root of this repository.
+src_dir: ''
+
+# Translation repositories
+# ------------------------
+# This tells sdg-build to import translations from Git repositories. Specific
+# tags or branches should be indicated after an "@" symbol. The default is the
+# GitHub repository 'sdg-translations'.
+translations:
+  - class: TranslationInputSdgTranslations
+    source: https://github.com/open-sdg/sdg-translations.git
+    tag: master
+
+# Reporting status extra fields
+# -----------------------------
+# This allows the build to generate stats for reporting status by additional
+# fields, beyond the default "status by goal" report.
+reporting_status_extra_fields: []
+
+# Map layers
+# ----------
+# This allows the build to generate one or more GeoJSON files to be used by
+# Open SDG maps. The parameters available correspond to the OutputGeoJson class.
+# See sdg/outputs/OutputGeoJson.py for more information. Uncomment the map_layers
+# below and adjust if you would like to use the Open SDG mapping functionality.
+# Note that the GeoJSON files can either be remote (as in the example below) or
+# local, relative to the src_dir specified above.
+map_layers:
+#Country (https://hub.arcgis.com/datasets/c362832ce5d14728a6fb2b079525be0b_4/data)
+  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/c362832ce5d14728a6fb2b079525be0b_4.geojson
+    name_property: ctry17nm
+    id_property: ctry17cd
+    output_subfolder: country
+    filename_prefix: indicator_
+#Region (link: https://hub.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4)
+  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4.geojson
+    name_property: rgn17nm
+    id_property: rgn17cd
+    output_subfolder: regions
+    filename_prefix: indicator_
+#Local Authority (link: https://hub.arcgis.com/datasets/686603e943f948acaa13fb5d2b0f1275_4)
+  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/686603e943f948acaa13fb5d2b0f1275_4.geojson
+    name_property: lad16nm
+    id_property: lad16cd
+    output_subfolder: local_authorities
+    filename_prefix: indicator_
+
+# Git
+# ---
+# This specifies whether or not to use Git dates to calculate the "last updated"
+# date for data files.
+git: true
+
+# Git Data Director
+# -----------------
+# This specifies an alternate folder to look in for Git-versioned data files,
+# when calculating the "last updated" dates for data files. This defaults to
+# "data" (the folder where the data files actually exist.) Most sites will not
+# need to change this setting. It is intended for sites where the data needs
+# to be converted/processed/etc in some way before being processed by sdg-build.
+git_data_dir: data
