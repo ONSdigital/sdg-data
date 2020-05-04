@@ -473,7 +473,7 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2009/10,Incineration with EfW,South East,,Undefined,Units,E12000008,21.5
 2009/10,Incineration without EfW,South East,,Undefined,Units,E12000008,0.0
 2009/10,Recycled-composted,South East,,Undefined,Units,E12000008,40.6
-2009/10,Other,South East,,Undefined,Units,E12000008,0.0
+2009/10,Other,South East,,Undefined,Units,E12000008,-0.1
 2009/10,Landfill,North East,,Undefined,Units,E12000001,44.0
 2009/10,Incineration with EfW,North East,,Undefined,Units,E12000001,18.6
 2009/10,Incineration without EfW,North East,,Undefined,Units,E12000001,0.0
@@ -523,7 +523,7 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2010/11,Incineration with EfW,South East,,Undefined,Units,E12000008,25.6
 2010/11,Incineration without EfW,South East,,Undefined,Units,E12000008,0.0
 2010/11,Recycled-composted,South East,,Undefined,Units,E12000008,41.9
-2010/11,Other,South East,,Undefined,Units,E12000008,0.0
+2010/11,Other,South East,,Undefined,Units,E12000008,-0.1
 2010/11,Landfill,North East,,Undefined,Units,E12000001,41.5
 2010/11,Incineration with EfW,North East,,Undefined,Units,E12000001,18.9
 2010/11,Incineration without EfW,North East,,Undefined,Units,E12000001,0.0
@@ -1247,10 +1247,10 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2014/15,Other,North East,Hartlepool Borough Council,Undefined,Units,,0.0
 2014/15,Other,North East,Darlington Borough Council,Undefined,Units,,17.642613584001474
 2014/15,Other,North East,County Durham,Undefined,Units,E06000047,0.047563767695333915
-2014/15,Other,North East,Northumberland,Undefined,Units,E06000057,0.0
+2014/15,Other,North East,Northumberland,Undefined,Units,E06000057,-0.11464796331265173
 2014/15,Other,North East,Sunderland City Council,Undefined,Units,,0.21891777180428454
 2014/15,Other,North East,South Tyneside MBC,Undefined,Units,,0.21067689706742965
-2014/15,Other,North East,North Tyneside Council,Undefined,Units,,0.0
+2014/15,Other,North East,North Tyneside Council,Undefined,Units,,-0.0009647946434601394
 2014/15,Other,North East,Newcastle-upon-Tyne City Council MBC,Undefined,Units,,2.1238284997417165
 2014/15,Other,North East,Gateshead MBC,Undefined,Units,,0.03654617178850516
 2014/15,Other,North West,Warrington Borough Council,Undefined,Units,,3.8516586622562894
@@ -1267,17 +1267,17 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2014/15,Other,Yorkshire and the Humber,East Riding of Yorkshire Council,Undefined,Units,,1.972778633795583
 2014/15,Other,Yorkshire and the Humber,Kingston-upon-Hull City Council,Undefined,Units,,0.0
 2014/15,Other,Yorkshire and the Humber,North East Lincolnshire Council,Undefined,Units,,0.0
-2014/15,Other,Yorkshire and the Humber,North Lincolnshire Council,Undefined,Units,,0.0
+2014/15,Other,Yorkshire and the Humber,North Lincolnshire Council,Undefined,Units,,-1.361064220573091
 2014/15,Other,Yorkshire and the Humber,York City Council,Undefined,Units,,1.293461123558211
 2014/15,Other,Yorkshire and the Humber,North Yorkshire County Council,Undefined,Units,,1.19953519155049
-2014/15,Other,Yorkshire and the Humber,Sheffield City Council,Undefined,Units,,0.0
+2014/15,Other,Yorkshire and the Humber,Sheffield City Council,Undefined,Units,,-0.0005073643941815451
 2014/15,Other,Yorkshire and the Humber,Rotherham MBC,Undefined,Units,,2.9374320234050266
-2014/15,Other,Yorkshire and the Humber,Doncaster MBC,Undefined,Units,,0.0
+2014/15,Other,Yorkshire and the Humber,Doncaster MBC,Undefined,Units,,-0.04296014046098098
 2014/15,Other,Yorkshire and the Humber,Barnsley MBC,Undefined,Units,,3.830841691947489
 2014/15,Other,Yorkshire and the Humber,Leeds City Council MBC,Undefined,Units,,0.0
 2014/15,Other,Yorkshire and the Humber,Kirklees MBC,Undefined,Units,,0.0005016781132889515
 2014/15,Other,Yorkshire and the Humber,Wakefield City MDC,Undefined,Units,,0.022434497172072593
-2014/15,Other,Yorkshire and the Humber,Bradford City MDC (MBC),Undefined,Units,,0.0
+2014/15,Other,Yorkshire and the Humber,Bradford City MDC (MBC),Undefined,Units,,-0.00044240740413031555
 2014/15,Other,Yorkshire and the Humber,Calderdale MBC,Undefined,Units,,0.0
 2014/15,Other,East Midlands,Derby City Council,Undefined,Units,,0.9372822299651569
 2014/15,Other,East Midlands,Derbyshire County Council,Undefined,Units,,0.3897293044969758
@@ -1352,7 +1352,7 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2014/15,Other,South West,Bath and North East Somerset Council,Undefined,Units,,9.055351153100663
 2014/15,Other,South West,Bristol City Council,Undefined,Units,,2.626624730855513
 2014/15,Other,South West,Cornwall,Undefined,Units,E06000052,0.0
-2014/15,Other,South West,Torbay Council,Undefined,Units,,0.0
+2014/15,Other,South West,Torbay Council,Undefined,Units,,-0.0015572200507653737
 2014/15,Other,South West,Plymouth City Council,Undefined,Units,,0.06201353167062864
 2014/15,Other,South West,Devon County Council,Undefined,Units,,1.5296882630636497
 2014/15,Other,South West,Poole Borough Council,Undefined,Units,,2.0642370022732273
@@ -1912,16 +1912,16 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2015/16,Other,North East,Hartlepool Borough Council,Undefined,Units,,0.0
 2015/16,Other,North East,Darlington Borough Council,Undefined,Units,,13.72776938277345
 2015/16,Other,North East,County Durham,Undefined,Units,E06000047,2.9251084944924397
-2015/16,Other,North East,Northumberland,Undefined,Units,E06000057,0.0
+2015/16,Other,North East,Northumberland,Undefined,Units,E06000057,-0.6077614933568123
 2015/16,Other,North East,Sunderland City Council,Undefined,Units,,0.23383217530732225
 2015/16,Other,North East,South Tyneside MBC,Undefined,Units,,0.16179809103337556
-2015/16,Other,North East,North Tyneside Council,Undefined,Units,,0.0
+2015/16,Other,North East,North Tyneside Council,Undefined,Units,,-0.0009498119372364273
 2015/16,Other,North East,Newcastle-upon-Tyne City Council MBC,Undefined,Units,,4.941999943552256
 2015/16,Other,North East,Gateshead MBC,Undefined,Units,,0.042958927074601846
 2015/16,Other,North West,Warrington Borough Council,Undefined,Units,,2.0082826320364027
-2015/16,Other,North West,Cheshire East,Undefined,Units,E06000049,0.0
+2015/16,Other,North West,Cheshire East,Undefined,Units,E06000049,-0.1561881966348543
 2015/16,Other,North West,Cheshire West and Chester,Undefined,Units,E06000050,0.03880953208447735
-2015/16,Other,North West,Halton Borough Council,Undefined,Units,,0.0
+2015/16,Other,North West,Halton Borough Council,Undefined,Units,,-0.20866720085470086
 2015/16,Other,North West,Cumbria County Council,Undefined,Units,,12.790091743119266
 2015/16,Other,North West,Wigan MBC,Undefined,Units,,0.0
 2015/16,Other,North West,Greater Manchester WDA (MBC),Undefined,Units,,1.7566870372119723
@@ -1940,13 +1940,13 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2015/16,Other,Yorkshire and the Humber,Doncaster MBC,Undefined,Units,,14.703451582579948
 2015/16,Other,Yorkshire and the Humber,Barnsley MBC,Undefined,Units,,11.7852859757802
 2015/16,Other,Yorkshire and the Humber,Leeds City Council MBC,Undefined,Units,,0.0
-2015/16,Other,Yorkshire and the Humber,Kirklees MBC,Undefined,Units,,0.0
+2015/16,Other,Yorkshire and the Humber,Kirklees MBC,Undefined,Units,,-0.3440058423338586
 2015/16,Other,Yorkshire and the Humber,Wakefield City MDC,Undefined,Units,,3.5003127913976466
 2015/16,Other,Yorkshire and the Humber,Bradford City MDC (MBC),Undefined,Units,,4.599549004981522
 2015/16,Other,Yorkshire and the Humber,Calderdale MBC,Undefined,Units,,0.9817239529229119
 2015/16,Other,East Midlands,Derby City Council,Undefined,Units,,1.7922648721215593
 2015/16,Other,East Midlands,Derbyshire County Council,Undefined,Units,,1.6374772537839442
-2015/16,Other,East Midlands,Rutland County Council,Undefined,Units,,0.0
+2015/16,Other,East Midlands,Rutland County Council,Undefined,Units,,-0.5795141739508379
 2015/16,Other,East Midlands,Leicester City Council,Undefined,Units,,1.0314892028128695
 2015/16,Other,East Midlands,Leicestershire County Council,Undefined,Units,,5.218941430157144
 2015/16,Other,East Midlands,Lincolnshire County Council,Undefined,Units,,1.4878191060862802
@@ -1956,11 +1956,11 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2015/16,Other,West Midlands,Herefordshire Council,Undefined,Units,,0.0
 2015/16,Other,West Midlands,Worcestershire County Council,Undefined,Units,,2.2569716946580862
 2015/16,Other,West Midlands,Telford and Wrekin Council,Undefined,Units,,0.20552034536603286
-2015/16,Other,West Midlands,Shropshire,Undefined,Units,E06000051,0.0
+2015/16,Other,West Midlands,Shropshire,Undefined,Units,E06000051,-3.0160762555128753
 2015/16,Other,West Midlands,Stoke-on-Trent City Council,Undefined,Units,,0.0
 2015/16,Other,West Midlands,Staffordshire County Council,Undefined,Units,,2.18645543411087
 2015/16,Other,West Midlands,Warwickshire County Council,Undefined,Units,,2.6688707102389126
-2015/16,Other,West Midlands,Wolverhampton MBC,Undefined,Units,,0.0
+2015/16,Other,West Midlands,Wolverhampton MBC,Undefined,Units,,-0.010337150127226464
 2015/16,Other,West Midlands,Walsall MBC,Undefined,Units,,0.06992029086841
 2015/16,Other,West Midlands,Solihull MBC,Undefined,Units,,0.0
 2015/16,Other,West Midlands,Sandwell MBC,Undefined,Units,,0.0
@@ -1973,9 +1973,9 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2015/16,Other,East of England,Peterborough City Council,Undefined,Units,,0.17199782982603978
 2015/16,Other,East of England,Cambridgeshire County Council,Undefined,Units,,11.510872137833097
 2015/16,Other,East of England,Thurrock Council,Undefined,Units,,0.001269647799700363
-2015/16,Other,East of England,Southend-on-Sea Borough Council,Undefined,Units,,0.0
+2015/16,Other,East of England,Southend-on-Sea Borough Council,Undefined,Units,,-0.07870053800203848
 2015/16,Other,East of England,Essex County Council,Undefined,Units,,5.912844712173019
-2015/16,Other,East of England,Hertfordshire County Council,Undefined,Units,,0.0
+2015/16,Other,East of England,Hertfordshire County Council,Undefined,Units,,-0.11725296289942826
 2015/16,Other,East of England,Norfolk County Council,Undefined,Units,,1.1626119374303392
 2015/16,Other,East of England,Suffolk County Council,Undefined,Units,,1.5789752022825887
 2015/16,Other,London,Bexley LB,Undefined,Units,,0.09975350167767254
@@ -1987,26 +1987,26 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2015/16,Other,London,Southwark LB,Undefined,Units,,14.29579101108677
 2015/16,Other,London,Lewisham LB,Undefined,Units,,0.02691313976377953
 2015/16,Other,London,Greenwich LB,Undefined,Units,,0.0
-2015/16,Other,London,Sutton LB,Undefined,Units,,0.0
+2015/16,Other,London,Sutton LB,Undefined,Units,,-0.001189046503608756
 2015/16,Other,London,Merton LB,Undefined,Units,,0.0
-2015/16,Other,London,Royal Borough of Kingston upon Thames,Undefined,Units,,0.0
+2015/16,Other,London,Royal Borough of Kingston upon Thames,Undefined,Units,,-0.08812179039168616
 2015/16,Other,London,Croydon LB,Undefined,Units,,0.00357325773908072
 2015/16,Other,London,Bromley LB,Undefined,Units,,0.4937190998174197
 2015/16,Other,London,West London Waste Authority,Undefined,Units,,0.5984499915926565
 2015/16,Other,London,Western Riverside Waste Authority,Undefined,Units,,0.650299466894072
 2015/16,Other,South East,Wokingham Council,Undefined,Units,,0.1072582273369675
-2015/16,Other,South East,Windsor and Maidenhead Borough Council,Undefined,Units,,0.0
+2015/16,Other,South East,Windsor and Maidenhead Borough Council,Undefined,Units,,-0.5746055855675126
 2015/16,Other,South East,Slough Borough Council,Undefined,Units,,0.0
 2015/16,Other,South East,Reading Borough Council,Undefined,Units,,0.08259427256109945
 2015/16,Other,South East,West Berkshire District Council,Undefined,Units,,1.3039105757782428
-2015/16,Other,South East,Bracknell Forest Borough Council,Undefined,Units,,0.0
-2015/16,Other,South East,Milton Keynes Council,Undefined,Units,,0.0
+2015/16,Other,South East,Bracknell Forest Borough Council,Undefined,Units,,-0.9278769731248382
+2015/16,Other,South East,Milton Keynes Council,Undefined,Units,,-1.2245111288648631
 2015/16,Other,South East,Buckinghamshire County Council,Undefined,Units,,0.047434401234800284
 2015/16,Other,South East,Brighton and Hove Council,Undefined,Units,,0.0009197347484985331
 2015/16,Other,South East,East Sussex County Council,Undefined,Units,,0.08075742776055807
 2015/16,Other,South East,Southampton City Council,Undefined,Units,,0.0
 2015/16,Other,South East,Portsmouth City Council,Undefined,Units,,0.003630686562829031
-2015/16,Other,South East,Hampshire County Council,Undefined,Units,,0.0
+2015/16,Other,South East,Hampshire County Council,Undefined,Units,,-0.15054612848831025
 2015/16,Other,South East,Isle of Wight Council,Undefined,Units,,0.18492769744160178
 2015/16,Other,South East,Medway Borough Council,Undefined,Units,,2.9312349794557715
 2015/16,Other,South East,Kent County Council,Undefined,Units,,0.23210006649353257
@@ -2023,7 +2023,7 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2015/16,Other,South West,Poole Borough Council,Undefined,Units,,4.270859433725883
 2015/16,Other,South West,Bournemouth Borough Council,Undefined,Units,,6.356485558963769
 2015/16,Other,South West,Dorset Waste Partnership,Undefined,Units,,2.010578143983338
-2015/16,Other,South West,Gloucestershire County Council,Undefined,Units,,0.0
+2015/16,Other,South West,Gloucestershire County Council,Undefined,Units,,-0.0019927199298562584
 2015/16,Other,South West,North Somerset Council,Undefined,Units,,1.623555054630811
 2015/16,Other,South West,Somerset County Council,Undefined,Units,,2.9854643892248163
 2015/16,Other,South West,South Gloucestershire Council,Undefined,Units,,1.8535236923470244
@@ -2596,11 +2596,11 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2016/17,Other,London,City of London,Undefined,Units,E09000001,0.0
 2016/17,Other,London,Croydon LB,Undefined,Units,,0.22781318070890466
 2016/17,Other,London,East London Waste Authority,Undefined,Units,,22.77020634855938
-2016/17,Other,London,Greenwich LB,Undefined,Units,,0.0
-2016/17,Other,London,Lewisham LB,Undefined,Units,,0.0
+2016/17,Other,London,Greenwich LB,Undefined,Units,,-0.30191458026509577
+2016/17,Other,London,Lewisham LB,Undefined,Units,,-0.001606593459558026
 2016/17,Other,London,Merton LB,Undefined,Units,,0.0
 2016/17,Other,London,North London Waste Authority,Undefined,Units,,1.4846415176963337
-2016/17,Other,London,Royal Borough of Kingston upon Thames,Undefined,Units,,0.0
+2016/17,Other,London,Royal Borough of Kingston upon Thames,Undefined,Units,,-0.1260880793595333
 2016/17,Other,London,Southwark LB,Undefined,Units,,15.901782608326759
 2016/17,Other,London,Sutton LB,Undefined,Units,,0.0023383881490488608
 2016/17,Other,London,Tower Hamlets LB,Undefined,Units,,2.4678240304364962
@@ -2619,10 +2619,10 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2016/17,Other,North East,South Tyneside MBC,Undefined,Units,,0.1857033514435926
 2016/17,Other,North East,Stockton-on-Tees Borough Council,Undefined,Units,,1.2434241989478718
 2016/17,Other,North East,Sunderland City Council,Undefined,Units,,0.18444628472483626
-2016/17,Other,North West,Blackburn with Darwen Borough Council,Undefined,Units,,0.0
+2016/17,Other,North West,Blackburn with Darwen Borough Council,Undefined,Units,,-0.04834859335811199
 2016/17,Other,North West,Blackpool Borough Council,Undefined,Units,,0.5822064056939502
 2016/17,Other,North West,Cheshire East,Undefined,Units,E06000049,0.0
-2016/17,Other,North West,Cheshire West and Chester,Undefined,Units,E06000050,0.0
+2016/17,Other,North West,Cheshire West and Chester,Undefined,Units,E06000050,-0.0011223974409338346
 2016/17,Other,North West,Cumbria County Council,Undefined,Units,,15.082104767302356
 2016/17,Other,North West,Greater Manchester WDA (MBC),Undefined,Units,,3.7712328427290025
 2016/17,Other,North West,Halton Borough Council,Undefined,Units,,0.2742794079459881
@@ -2630,9 +2630,9 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2016/17,Other,North West,Merseyside WDA (MBC),Undefined,Units,,2.16209120655683
 2016/17,Other,North West,Warrington Borough Council,Undefined,Units,,0.0
 2016/17,Other,North West,Wigan MBC,Undefined,Units,,0.0
-2016/17,Other,South East,Bracknell Forest Borough Council,Undefined,Units,,0.0
+2016/17,Other,South East,Bracknell Forest Borough Council,Undefined,Units,,-3.2664003939377357
 2016/17,Other,South East,Brighton and Hove Council,Undefined,Units,,0.0027206195757647207
-2016/17,Other,South East,Buckinghamshire County Council,Undefined,Units,,0.0
+2016/17,Other,South East,Buckinghamshire County Council,Undefined,Units,,-0.38988428175833045
 2016/17,Other,South East,East Sussex County Council,Undefined,Units,,1.0878904936601985
 2016/17,Other,South East,Hampshire County Council,Undefined,Units,,0.0
 2016/17,Other,South East,Isle of Wight Council,Undefined,Units,,2.7735918796735946
@@ -2670,7 +2670,7 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2016/17,Other,West Midlands,Dudley MBC,Undefined,Units,,0.0
 2016/17,Other,West Midlands,Herefordshire Council,Undefined,Units,,0.0944790867762624
 2016/17,Other,West Midlands,Sandwell MBC,Undefined,Units,,0.0
-2016/17,Other,West Midlands,Shropshire,Undefined,Units,E06000051,0.0
+2016/17,Other,West Midlands,Shropshire,Undefined,Units,E06000051,-1.2523332160513336
 2016/17,Other,West Midlands,Solihull MBC,Undefined,Units,,0.00906992915377561
 2016/17,Other,West Midlands,Staffordshire County Council,Undefined,Units,,2.5999071303041816
 2016/17,Other,West Midlands,Stoke-on-Trent City Council,Undefined,Units,,1.783309528667619
@@ -2691,7 +2691,7 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2016/17,Other,Yorkshire and the Humber,North Lincolnshire Council,Undefined,Units,,0.020755715605184778
 2016/17,Other,Yorkshire and the Humber,North Yorkshire County Council,Undefined,Units,,5.953183849321101
 2016/17,Other,Yorkshire and the Humber,Rotherham MBC,Undefined,Units,,15.10843274709958
-2016/17,Other,Yorkshire and the Humber,Sheffield City Council,Undefined,Units,,0.0
+2016/17,Other,Yorkshire and the Humber,Sheffield City Council,Undefined,Units,,-0.4507510857871459
 2016/17,Other,Yorkshire and the Humber,Wakefield City MDC,Undefined,Units,,4.769482509460805
 2016/17,Other,Yorkshire and the Humber,York City Council,Undefined,Units,,0.0
 2017/18,Landfill,,,Undefined,Units,,12.5
@@ -3244,7 +3244,7 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2017/18,Other,East Midlands,Northamptonshire County Council,Undefined,Units,,0.2311403190863917
 2017/18,Other,East Midlands,Nottingham City Council,Undefined,Units,,0.0
 2017/18,Other,East Midlands,Nottinghamshire County Council,Undefined,Units,,7.740413719252633
-2017/18,Other,East Midlands,Rutland County Council,Undefined,Units,,0.0
+2017/18,Other,East Midlands,Rutland County Council,Undefined,Units,,-0.603870259389725
 2017/18,Other,East of England,Bedford,Undefined,Units,E06000055,16.74925070095717
 2017/18,Other,East of England,Cambridgeshire County Council,Undefined,Units,,9.514088250930357
 2017/18,Other,East of England,Central Bedfordshire,Undefined,Units,E06000056,3.786177295724665
@@ -3252,7 +3252,7 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2017/18,Other,East of England,Hertfordshire County Council,Undefined,Units,,1.3032121452602006
 2017/18,Other,East of England,Luton Borough Council,Undefined,Units,,0.0
 2017/18,Other,East of England,Norfolk County Council,Undefined,Units,,0.9986249288453385
-2017/18,Other,East of England,Peterborough City Council,Undefined,Units,,0.0
+2017/18,Other,East of England,Peterborough City Council,Undefined,Units,,-0.0645072109846565
 2017/18,Other,East of England,Southend-on-Sea Borough Council,Undefined,Units,,1.8304393319293784
 2017/18,Other,East of England,Suffolk County Council,Undefined,Units,,0.9160317286480905
 2017/18,Other,East of England,Thurrock Council,Undefined,Units,,0.20272580723950956
@@ -3261,7 +3261,7 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2017/18,Other,London,City of London,Undefined,Units,E09000001,0.3374870197300104
 2017/18,Other,London,Croydon LB,Undefined,Units,,0.3684496962948598
 2017/18,Other,London,East London Waste Authority,Undefined,Units,,24.714405369244325
-2017/18,Other,London,Greenwich LB,Undefined,Units,,0.0
+2017/18,Other,London,Greenwich LB,Undefined,Units,,-0.45153394944507746
 2017/18,Other,London,Lewisham LB,Undefined,Units,,0.0
 2017/18,Other,London,Merton LB,Undefined,Units,,0.0
 2017/18,Other,London,North London Waste Authority,Undefined,Units,,1.0342417219297373
@@ -3290,13 +3290,13 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2017/18,Other,North West,Cheshire West and Chester,Undefined,Units,E06000050,0.0
 2017/18,Other,North West,Cumbria County Council,Undefined,Units,,16.171852052689847
 2017/18,Other,North West,Greater Manchester WDA (MBC),Undefined,Units,,2.5092088364781877
-2017/18,Other,North West,Halton Borough Council,Undefined,Units,,0.0
+2017/18,Other,North West,Halton Borough Council,Undefined,Units,,-0.008439245868989148
 2017/18,Other,North West,Lancashire County Council,Undefined,Units,,2.6001812747862942
-2017/18,Other,North West,Merseyside WDA (MBC),Undefined,Units,,0.0
+2017/18,Other,North West,Merseyside WDA (MBC),Undefined,Units,,-0.16699879503735932
 2017/18,Other,North West,Warrington Borough Council,Undefined,Units,,1.4061784647583335
-2017/18,Other,North West,Wigan MBC,Undefined,Units,,0.0
+2017/18,Other,North West,Wigan MBC,Undefined,Units,,-0.0007270770774409795
 2017/18,Other,South East,Bracknell Forest Borough Council,Undefined,Units,,0.046615322253749494
-2017/18,Other,South East,Brighton and Hove Council,Undefined,Units,,0.0
+2017/18,Other,South East,Brighton and Hove Council,Undefined,Units,,-0.0008939506360458776
 2017/18,Other,South East,Buckinghamshire County Council,Undefined,Units,,0.10972410569058576
 2017/18,Other,South East,East Sussex County Council,Undefined,Units,,1.4551738678634358
 2017/18,Other,South East,Hampshire County Council,Undefined,Units,,1.534175650578134
@@ -3323,7 +3323,7 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2017/18,Other,South West,Dorset Waste Partnership,Undefined,Units,,2.2693801983253152
 2017/18,Other,South West,Gloucestershire County Council,Undefined,Units,,0.049059312379409574
 2017/18,Other,South West,North Somerset Council,Undefined,Units,,2.682146898214198
-2017/18,Other,South West,Plymouth City Council,Undefined,Units,,0.0
+2017/18,Other,South West,Plymouth City Council,Undefined,Units,,-0.40543743920481945
 2017/18,Other,South West,Poole Borough Council,Undefined,Units,,2.3062252926986373
 2017/18,Other,South West,Somerset Waste Partnership,Undefined,Units,,0.0007703092021137285
 2017/18,Other,South West,South Gloucestershire Council,Undefined,Units,,5.985809431373205
@@ -3350,7 +3350,7 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2017/18,Other,Yorkshire and the Humber,Doncaster MBC,Undefined,Units,,16.47130024845512
 2017/18,Other,Yorkshire and the Humber,East Riding of Yorkshire Council,Undefined,Units,,0.23380503627303517
 2017/18,Other,Yorkshire and the Humber,Kingston-upon-Hull City Council,Undefined,Units,,0.0
-2017/18,Other,Yorkshire and the Humber,Kirklees MBC,Undefined,Units,,0.0
+2017/18,Other,Yorkshire and the Humber,Kirklees MBC,Undefined,Units,,-0.49509397274605427
 2017/18,Other,Yorkshire and the Humber,Leeds City Council MBC,Undefined,Units,,0.0005989907006693721
 2017/18,Other,Yorkshire and the Humber,North East Lincolnshire Council,Undefined,Units,,0.39598171574359525
 2017/18,Other,Yorkshire and the Humber,North Lincolnshire Council,Undefined,Units,,0.10309831928260753
@@ -3909,7 +3909,7 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2018/19,Other,East Midlands,Derby City Council,Undefined,Units,,12.205569415908425
 2018/19,Other,East Midlands,Leicester City Council,Undefined,Units,,2.08905755669223
 2018/19,Other,East Midlands,Nottingham City Council,Undefined,Units,,0.034806822137138885
-2018/19,Other,East Midlands,Rutland County Council,Undefined,Units,,0.0
+2018/19,Other,East Midlands,Rutland County Council,Undefined,Units,,-0.5625413633355394
 2018/19,Other,East of England,Cambridgeshire County Council,Undefined,Units,,9.196209744142118
 2018/19,Other,East of England,Essex County Council,Undefined,Units,,10.695160049917883
 2018/19,Other,East of England,Hertfordshire County Council,Undefined,Units,,1.3436684568165542
@@ -3923,20 +3923,20 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2018/19,Other,East of England,Thurrock Council,Undefined,Units,,0.035492240661869096
 2018/19,Other,London,East London Waste Authority,Undefined,Units,,22.144164710443004
 2018/19,Other,London,North London Waste Authority,Undefined,Units,,0.6155897400897485
-2018/19,Other,London,West London Waste Authority,Undefined,Units,,0.0
+2018/19,Other,London,West London Waste Authority,Undefined,Units,,-0.4260312999436385
 2018/19,Other,London,Western Riverside Waste Authority,Undefined,Units,,0.7903246968749759
 2018/19,Other,London,Bexley LB,Undefined,Units,,0.038253956373857576
 2018/19,Other,London,Bromley LB,Undefined,Units,,0.0
 2018/19,Other,London,City of London,Undefined,Units,E09000001,0.17574692442882248
 2018/19,Other,London,Croydon LB,Undefined,Units,,0.46502828616937525
 2018/19,Other,London,Greenwich LB,Undefined,Units,,0.006764870029934551
-2018/19,Other,London,Lewisham LB,Undefined,Units,,0.0
+2018/19,Other,London,Lewisham LB,Undefined,Units,,-0.0025514977291670213
 2018/19,Other,London,Merton LB,Undefined,Units,,0.0
 2018/19,Other,London,Royal Borough of Kingston upon Thames,Undefined,Units,,0.0
 2018/19,Other,London,Southwark LB,Undefined,Units,,16.387887024550032
 2018/19,Other,London,Sutton LB,Undefined,Units,,0.12712973464783817
 2018/19,Other,London,Tower Hamlets LB,Undefined,Units,,0.16290772182601454
-2018/19,Other,London,Westminster City Council,Undefined,Units,,0.0
+2018/19,Other,London,Westminster City Council,Undefined,Units,,-0.00669144216020342
 2018/19,Other,North East,County Durham,Undefined,Units,E06000047,2.9766921648125586
 2018/19,Other,North East,Darlington Borough Council,Undefined,Units,,15.970991427641334
 2018/19,Other,North East,Gateshead MBC,Undefined,Units,,0.22688953185820443
@@ -3955,11 +3955,11 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2018/19,Other,North West,Merseyside WDA (MBC),Undefined,Units,,2.2733207801311215
 2018/19,Other,North West,Blackburn with Darwen Borough Council,Undefined,Units,,1.728375733855186
 2018/19,Other,North West,Blackpool Borough Council,Undefined,Units,,21.94621433901613
-2018/19,Other,North West,Cheshire East,Undefined,Units,E06000049,0.0
+2018/19,Other,North West,Cheshire East,Undefined,Units,E06000049,-0.19582101407704866
 2018/19,Other,North West,Cheshire West and Chester,Undefined,Units,E06000050,0.0
 2018/19,Other,North West,Halton Borough Council,Undefined,Units,,0.0016751541141785044
 2018/19,Other,North West,Warrington Borough Council,Undefined,Units,,0.739130914426291
-2018/19,Other,North West,Wigan MBC,Undefined,Units,,0.0
+2018/19,Other,North West,Wigan MBC,Undefined,Units,,-0.03792547643879776
 2018/19,Other,South East,Buckinghamshire County Council,Undefined,Units,,0.009824741722655099
 2018/19,Other,South East,East Sussex County Council,Undefined,Units,,1.096517466701146
 2018/19,Other,South East,Hampshire County Council,Undefined,Units,,1.8696327082446607
@@ -3968,7 +3968,7 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2018/19,Other,South East,Surrey County Council,Undefined,Units,,2.3291110010316842
 2018/19,Other,South East,West Sussex County Council,Undefined,Units,,4.943922057324119
 2018/19,Other,South East,Bracknell Forest Borough Council,Undefined,Units,,0.32017075773745995
-2018/19,Other,South East,Brighton and Hove Council,Undefined,Units,,0.0
+2018/19,Other,South East,Brighton and Hove Council,Undefined,Units,,-0.003588280675314423
 2018/19,Other,South East,Isle of Wight Council,Undefined,Units,,1.1398293336619327
 2018/19,Other,South East,Medway Borough Council,Undefined,Units,,0.048247144140198775
 2018/19,Other,South East,Milton Keynes Council,Undefined,Units,,4.833070866141733
@@ -3976,7 +3976,7 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2018/19,Other,South East,Reading Borough Council,Undefined,Units,,0.4249804087045632
 2018/19,Other,South East,Slough Borough Council,Undefined,Units,,0.0
 2018/19,Other,South East,Southampton City Council,Undefined,Units,,0.0
-2018/19,Other,South East,West Berkshire District Council,Undefined,Units,,0.0
+2018/19,Other,South East,West Berkshire District Council,Undefined,Units,,-0.11919749283475746
 2018/19,Other,South East,Windsor and Maidenhead Borough Council,Undefined,Units,,0.004478480899278965
 2018/19,Other,South East,Wokingham Council,Undefined,Units,,0.6149816359650372
 2018/19,Other,South West,Devon County Council,Undefined,Units,,1.5541154349938735
@@ -3984,16 +3984,16 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2018/19,Other,South West,Bath and North East Somerset Council,Undefined,Units,,3.083422356026027
 2018/19,Other,South West,Bournemouth Borough Council,Undefined,Units,,6.918977296738901
 2018/19,Other,South West,Bristol City Council,Undefined,Units,,5.091052571008949
-2018/19,Other,South West,Cornwall,Undefined,Units,E06000052,0.0
-2018/19,Other,South West,Council of the Isles of Scilly,Undefined,Units,,0.0
+2018/19,Other,South West,Cornwall,Undefined,Units,E06000052,-0.0007480326740672032
+2018/19,Other,South West,Council of the Isles of Scilly,Undefined,Units,,-0.061124694376528114
 2018/19,Other,South West,Dorset Waste Partnership,Undefined,Units,,2.6938929819546513
 2018/19,Other,South West,North Somerset Council,Undefined,Units,,2.2690804563755744
-2018/19,Other,South West,Plymouth City Council,Undefined,Units,,0.0
+2018/19,Other,South West,Plymouth City Council,Undefined,Units,,-0.914910176787331
 2018/19,Other,South West,Poole Borough Council,Undefined,Units,,4.313745515823875
 2018/19,Other,South West,Somerset Waste Partnership,Undefined,Units,,0.0
 2018/19,Other,South West,South Gloucestershire Council,Undefined,Units,,4.367066692565599
 2018/19,Other,South West,Swindon Borough Council,Undefined,Units,,15.145641295759809
-2018/19,Other,South West,Torbay Council,Undefined,Units,,0.0
+2018/19,Other,South West,Torbay Council,Undefined,Units,,-1.2607191214081541
 2018/19,Other,South West,Wiltshire,Undefined,Units,E06000054,4.18322799244152
 2018/19,Other,West Midlands,Staffordshire County Council,Undefined,Units,,3.3830968420952825
 2018/19,Other,West Midlands,Warwickshire County Council,Undefined,Units,,3.3416044016467894
@@ -4002,7 +4002,7 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2018/19,Other,West Midlands,Coventry City Council,Undefined,Units,,0.0
 2018/19,Other,West Midlands,Dudley MBC,Undefined,Units,,0.32779021426287175
 2018/19,Other,West Midlands,Herefordshire Council,Undefined,Units,,0.02280423702723966
-2018/19,Other,West Midlands,Sandwell MBC,Undefined,Units,,0.0
+2018/19,Other,West Midlands,Sandwell MBC,Undefined,Units,,-0.002821909303834975
 2018/19,Other,West Midlands,Shropshire,Undefined,Units,E06000051,0.0
 2018/19,Other,West Midlands,Solihull MBC,Undefined,Units,,2.7339553889251635
 2018/19,Other,West Midlands,Stoke-on-Trent City Council,Undefined,Units,,1.1902952945347718
@@ -4011,12 +4011,12 @@ Year,Disposal Method,Region,Local Authority,Observation status,Unit multiplier,G
 2018/19,Other,West Midlands,Wolverhampton MBC,Undefined,Units,,0.23891081981219395
 2018/19,Other,Yorkshire and the Humber,North Yorkshire County Council,Undefined,Units,,3.499305430869109
 2018/19,Other,Yorkshire and the Humber,Barnsley MBC,Undefined,Units,,15.513834900155304
-2018/19,Other,Yorkshire and the Humber,Bradford City MDC (MBC),Undefined,Units,,0.0
+2018/19,Other,Yorkshire and the Humber,Bradford City MDC (MBC),Undefined,Units,,-0.0004398485161710307
 2018/19,Other,Yorkshire and the Humber,Calderdale MBC,Undefined,Units,,0.0
 2018/19,Other,Yorkshire and the Humber,Doncaster MBC,Undefined,Units,,15.076893191310258
 2018/19,Other,Yorkshire and the Humber,East Riding of Yorkshire Council,Undefined,Units,,0.18826514690308951
 2018/19,Other,Yorkshire and the Humber,Kingston-upon-Hull City Council,Undefined,Units,,2.034351740154443
-2018/19,Other,Yorkshire and the Humber,Kirklees MBC,Undefined,Units,,0.0
+2018/19,Other,Yorkshire and the Humber,Kirklees MBC,Undefined,Units,,-1.65258376347128
 2018/19,Other,Yorkshire and the Humber,Leeds City Council MBC,Undefined,Units,,0.05199913019636762
 2018/19,Other,Yorkshire and the Humber,North East Lincolnshire Council,Undefined,Units,,0.36832666574699957
 2018/19,Other,Yorkshire and the Humber,North Lincolnshire Council,Undefined,Units,,0.9775600540403985
