@@ -77,7 +77,7 @@ prose:
             value: "UN metadata"
             scope: global
       ######### National Metadata #########
-      - name: "national_indicator_available"
+      - name: "indicator_available"
         field:
             element: text
             label: "Indicator available"
