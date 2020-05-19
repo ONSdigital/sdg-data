@@ -36,6 +36,7 @@ e.g. https://ONSdigital.github.io/sdg-data/data/1-2-1.json
 
 ```
 /edges/1-2-1.csv
+
 /edges/1-2-1.json
 ```
 
@@ -97,4 +98,3 @@ This uses the `sdg` package from the `sdg-build` repository during the build.
 Data (`data/` and `meta/`) is under [open government license v3](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
 Code (`scripts/` and top level) is MIT © Office for National Statistics
-
