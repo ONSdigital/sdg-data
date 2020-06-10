@@ -1,4 +1,4 @@
-Year,Age (years),Vaccine,Age (By birthday),Country,Region,Unit measure,Unit multiplier,Observation status,GeoCode,Value
+Year,Age,Vaccine,Age (by birthday),Country,Region,Unit measure,Unit multiplier,Observation status,GeoCode,Value
 2009/10,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,,,Percentage (%),Units,Undefined,,94.1
 2010/11,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,,,Percentage (%),Units,Undefined,,94.5
 2011/12,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,,,Percentage (%),Units,Undefined,,95.0
@@ -376,16 +376,16 @@ Year,Age (years),Vaccine,Age (By birthday),Country,Region,Unit measure,Unit mult
 2016/17,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,,,Percentage (%),Units,Undefined,,95.8
 2017/18,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,,,Percentage (%),Units,Undefined,,95.7
 2018/19,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,,,Percentage (%),Units,Undefined,,95.4
-2009/10,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,,,Percentage (%),Units,Undefined,,85.8
-2010/11,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,,,Percentage (%),Units,Undefined,,86.8
-2011/12,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,,,Percentage (%),Units,Undefined,,88.0
-2012/13,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,,,Percentage (%),Units,Undefined,,89.5
-2013/14,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,,,Percentage (%),Units,Undefined,,89.5
-2014/15,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,,,Percentage (%),Units,Undefined,,89.4
-2015/16,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,,,Percentage (%),Units,Undefined,,87.3
-2016/17,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,,,Percentage (%),Units,Undefined,,87.3
-2017/18,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,,,Percentage (%),Units,Undefined,,86.6
-2018/19,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,,,Percentage (%),Units,Undefined,,85.9
+2009/10,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,,,Percentage (%),Units,Undefined,,85.8
+2010/11,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,,,Percentage (%),Units,Undefined,,86.8
+2011/12,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,,,Percentage (%),Units,Undefined,,88.0
+2012/13,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,,,Percentage (%),Units,Undefined,,89.5
+2013/14,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,,,Percentage (%),Units,Undefined,,89.5
+2014/15,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,,,Percentage (%),Units,Undefined,,89.4
+2015/16,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,,,Percentage (%),Units,Undefined,,87.3
+2016/17,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,,,Percentage (%),Units,Undefined,,87.3
+2017/18,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,,,Percentage (%),Units,Undefined,,86.6
+2018/19,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,,,Percentage (%),Units,Undefined,,85.9
 2009/10,,Measles mumps rubella (first dose),By 5th birthday,,,Percentage (%),Units,Undefined,,91.7
 2010/11,,Measles mumps rubella (first dose),By 5th birthday,,,Percentage (%),Units,Undefined,,92.5
 2011/12,,Measles mumps rubella (first dose),By 5th birthday,,,Percentage (%),Units,Undefined,,93.4
@@ -420,16 +420,16 @@ Year,Age (years),Vaccine,Age (By birthday),Country,Region,Unit measure,Unit mult
 2015/16,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,95.6
 2014/15,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,95.6
 2013/14,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,95.6
-2018/19,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,84.8
-2017/18,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,85.6
-2016/17,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,86.2
-2015/16,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,86.3
-2014/15,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,88.5
-2013/14,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,88.8
-2012/13,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,88.9
-2011/12,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,87.4
-2010/11,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,85.9
-2009/10,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,84.8
+2018/19,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,84.8
+2017/18,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,85.6
+2016/17,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,86.2
+2015/16,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,86.3
+2014/15,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,88.5
+2013/14,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,88.8
+2012/13,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,88.9
+2011/12,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,87.4
+2010/11,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,85.9
+2009/10,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,84.8
 2018/19,,Measles mumps rubella (first dose),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,94.5
 2017/18,,Measles mumps rubella (first dose),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,94.9
 2016/17,,Measles mumps rubella (first dose),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,95.0
@@ -464,16 +464,16 @@ Year,Age (years),Vaccine,Age (By birthday),Country,Region,Unit measure,Unit mult
 2016/17,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,94.8
 2017/18,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,93.5
 2018/19,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,97.3
-2009/10,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,90.1
-2010/11,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,90.1
-2011/12,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,89.7
-2012/13,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,91.3
-2013/14,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,93.2
-2014/15,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,93.4
-2015/16,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,92.1
-2016/17,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,92.5
-2017/18,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,92.3
-2018/19,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,92.6
+2009/10,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,90.1
+2010/11,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,90.1
+2011/12,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,89.7
+2012/13,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,91.3
+2013/14,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,93.2
+2014/15,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,93.4
+2015/16,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,92.1
+2016/17,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,92.5
+2017/18,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,92.3
+2018/19,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,92.6
 2009/10,,Measles mumps rubella (first dose),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,93.4
 2010/11,,Measles mumps rubella (first dose),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,94.4
 2011/12,,Measles mumps rubella (first dose),By 5th birthday,Wales,,Percentage (%),Units,Undefined,W92000004,94.6
@@ -508,16 +508,16 @@ Year,Age (years),Vaccine,Age (By birthday),Country,Region,Unit measure,Unit mult
 2016/17,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,98.0
 2017/18,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,98.0
 2018/19,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,97.8
-2009/10,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,91.9
-2010/11,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,92.0
-2011/12,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,91.9
-2012/13,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,93.3
-2013/14,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,94.0
-2014/15,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,94.1
-2015/16,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,93.7
-2016/17,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,93.4
-2017/18,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,92.7
-2018/19,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,91.9
+2009/10,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,91.9
+2010/11,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,92.0
+2011/12,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,91.9
+2012/13,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,93.3
+2013/14,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,94.0
+2014/15,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,94.1
+2015/16,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,93.7
+2016/17,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,93.4
+2017/18,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,92.7
+2018/19,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,91.9
 2009/10,,Measles mumps rubella (first dose),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,96.2
 2010/11,,Measles mumps rubella (first dose),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,96.1
 2011/12,,Measles mumps rubella (first dose),By 5th birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,96.6
@@ -552,16 +552,16 @@ Year,Age (years),Vaccine,Age (By birthday),Country,Region,Unit measure,Unit mult
 2016/17,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,97.7
 2017/18,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,97.4
 2018/19,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,97.3
-2009/10,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,91.9
-2010/11,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,92.9
-2011/12,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,92.9
-2012/13,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,92.2
-2013/14,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,93.4
-2014/15,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,93.8
-2015/16,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,93.6
-2016/17,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,93.3
-2017/18,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,92.9
-2018/19,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,93.1
+2009/10,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,91.9
+2010/11,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,92.9
+2011/12,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,92.9
+2012/13,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,92.2
+2013/14,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,93.4
+2014/15,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,93.8
+2015/16,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,93.6
+2016/17,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,93.3
+2017/18,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,92.9
+2018/19,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,93.1
 2009/10,,Measles mumps rubella (first dose),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,96.0
 2010/11,,Measles mumps rubella (first dose),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,96.7
 2011/12,,Measles mumps rubella (first dose),By 5th birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,96.7
@@ -605,8 +605,8 @@ Year,Age (years),Vaccine,Age (By birthday),Country,Region,Unit measure,Unit mult
 2018/19,,Rotavirus (primary),By 1st birthday,England,North East,Percentage (%),Units,Undefined,E12000001,94.0
 2017/18,,Rotavirus (primary),By 1st birthday,England,North East,Percentage (%),Units,Undefined,E12000001,93.8
 2016/17,,Rotavirus (primary),By 1st birthday,England,North East,Percentage (%),Units,Undefined,E12000001,93.3
-2018/19,,Meningococcal group B (primary),By 1st birthday,England,North East,Percentage (%),Units,Undefined,E12000001,92.0
-2017/18,,Meningococcal group B (primary),By 1st birthday,England,North East,Percentage (%),Units,Undefined,E12000001,92.5
+2018/19,,Meningococcal group B (primary),By 1st birthday,England,North East,Percentage (%),Units,Undefined,E12000001,95.4
+2017/18,,Meningococcal group B (primary),By 1st birthday,England,North East,Percentage (%),Units,Undefined,E12000001,94.8
 2018/19,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,England,North West,Percentage (%),Units,Undefined,E12000002,92.6
 2017/18,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,England,North West,Percentage (%),Units,Undefined,E12000002,93.5
 2016/17,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,England,North West,Percentage (%),Units,Undefined,E12000002,94.7
@@ -965,12 +965,12 @@ Year,Age (years),Vaccine,Age (By birthday),Country,Region,Unit measure,Unit mult
 2016/17,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,North East,Percentage (%),Units,Undefined,E12000001,97.7
 2017/18,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,North East,Percentage (%),Units,Undefined,E12000001,97.6
 2018/19,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,North East,Percentage (%),Units,Undefined,E12000001,97.1
-2013/14,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,North East,Percentage (%),Units,Undefined,E12000001,93.6
-2014/15,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,North East,Percentage (%),Units,Undefined,E12000001,94.4
-2015/16,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,North East,Percentage (%),Units,Undefined,E12000001,92.7
-2016/17,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,North East,Percentage (%),Units,Undefined,E12000001,92.1
-2017/18,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,North East,Percentage (%),Units,Undefined,E12000001,91.1
-2018/19,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,North East,Percentage (%),Units,Undefined,E12000001,89.9
+2013/14,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,North East,Percentage (%),Units,Undefined,E12000001,93.6
+2014/15,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,North East,Percentage (%),Units,Undefined,E12000001,94.4
+2015/16,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,North East,Percentage (%),Units,Undefined,E12000001,92.7
+2016/17,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,North East,Percentage (%),Units,Undefined,E12000001,92.1
+2017/18,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,North East,Percentage (%),Units,Undefined,E12000001,91.1
+2018/19,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,North East,Percentage (%),Units,Undefined,E12000001,89.9
 2013/14,,Measles mumps rubella (first dose),By 5th birthday,England,North East,Percentage (%),Units,Undefined,E12000001,96.7
 2014/15,,Measles mumps rubella (first dose),By 5th birthday,England,North East,Percentage (%),Units,Undefined,E12000001,96.6
 2015/16,,Measles mumps rubella (first dose),By 5th birthday,England,North East,Percentage (%),Units,Undefined,E12000001,97.3
@@ -995,12 +995,12 @@ Year,Age (years),Vaccine,Age (By birthday),Country,Region,Unit measure,Unit mult
 2016/17,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,North West,Percentage (%),Units,Undefined,E12000002,96.5
 2017/18,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,North West,Percentage (%),Units,Undefined,E12000002,95.9
 2018/19,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,North West,Percentage (%),Units,Undefined,E12000002,95.1
-2013/14,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,North West,Percentage (%),Units,Undefined,E12000002,91.5
-2014/15,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,North West,Percentage (%),Units,Undefined,E12000002,90.2
-2015/16,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,North West,Percentage (%),Units,Undefined,E12000002,88.2
-2016/17,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,North West,Percentage (%),Units,Undefined,E12000002,89.4
-2017/18,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,North West,Percentage (%),Units,Undefined,E12000002,88.8
-2018/19,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,North West,Percentage (%),Units,Undefined,E12000002,88.3
+2013/14,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,North West,Percentage (%),Units,Undefined,E12000002,91.5
+2014/15,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,North West,Percentage (%),Units,Undefined,E12000002,90.2
+2015/16,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,North West,Percentage (%),Units,Undefined,E12000002,88.2
+2016/17,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,North West,Percentage (%),Units,Undefined,E12000002,89.4
+2017/18,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,North West,Percentage (%),Units,Undefined,E12000002,88.8
+2018/19,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,North West,Percentage (%),Units,Undefined,E12000002,88.3
 2013/14,,Measles mumps rubella (first dose),By 5th birthday,England,North West,Percentage (%),Units,Undefined,E12000002,96.0
 2014/15,,Measles mumps rubella (first dose),By 5th birthday,England,North West,Percentage (%),Units,Undefined,E12000002,96.2
 2015/16,,Measles mumps rubella (first dose),By 5th birthday,England,North West,Percentage (%),Units,Undefined,E12000002,96.3
@@ -1025,12 +1025,12 @@ Year,Age (years),Vaccine,Age (By birthday),Country,Region,Unit measure,Unit mult
 2016/17,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,97.1
 2017/18,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,96.6
 2018/19,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,96.2
-2013/14,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,92.2
-2014/15,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,92.5
-2015/16,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,90.1
-2016/17,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,90.1
-2017/18,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,89.9
-2018/19,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,88.9
+2013/14,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,92.2
+2014/15,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,92.5
+2015/16,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,90.1
+2016/17,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,90.1
+2017/18,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,89.9
+2018/19,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,88.9
 2013/14,,Measles mumps rubella (first dose),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,96.0
 2014/15,,Measles mumps rubella (first dose),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,96.2
 2015/16,,Measles mumps rubella (first dose),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,96.8
@@ -1055,12 +1055,12 @@ Year,Age (years),Vaccine,Age (By birthday),Country,Region,Unit measure,Unit mult
 2016/17,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,96.7
 2017/18,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,96.8
 2018/19,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,96.6
-2013/14,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,92.3
-2014/15,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,92.0
-2015/16,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,89.2
-2016/17,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,88.4
-2017/18,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,88.4
-2018/19,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,87.5
+2013/14,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,92.3
+2014/15,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,92.0
+2015/16,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,89.2
+2016/17,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,88.4
+2017/18,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,88.4
+2018/19,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,87.5
 2013/14,,Measles mumps rubella (first dose),By 5th birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,95.6
 2014/15,,Measles mumps rubella (first dose),By 5th birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,96.0
 2015/16,,Measles mumps rubella (first dose),By 5th birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,96.5
@@ -1085,12 +1085,12 @@ Year,Age (years),Vaccine,Age (By birthday),Country,Region,Unit measure,Unit mult
 2016/17,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,West Midlands,Percentage (%),Units,Undefined,E12000005,96.9
 2017/18,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,West Midlands,Percentage (%),Units,Undefined,E12000005,96.3
 2018/19,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,West Midlands,Percentage (%),Units,Undefined,E12000005,95.8
-2013/14,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,West Midlands,Percentage (%),Units,Undefined,E12000005,90.8
-2014/15,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,West Midlands,Percentage (%),Units,Undefined,E12000005,91.2
-2015/16,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,West Midlands,Percentage (%),Units,Undefined,E12000005,87.5
-2016/17,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,West Midlands,Percentage (%),Units,Undefined,E12000005,88.4
-2017/18,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,West Midlands,Percentage (%),Units,Undefined,E12000005,85.6
-2018/19,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,West Midlands,Percentage (%),Units,Undefined,E12000005,85.7
+2013/14,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,West Midlands,Percentage (%),Units,Undefined,E12000005,90.8
+2014/15,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,West Midlands,Percentage (%),Units,Undefined,E12000005,91.2
+2015/16,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,West Midlands,Percentage (%),Units,Undefined,E12000005,87.5
+2016/17,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,West Midlands,Percentage (%),Units,Undefined,E12000005,88.4
+2017/18,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,West Midlands,Percentage (%),Units,Undefined,E12000005,85.6
+2018/19,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,West Midlands,Percentage (%),Units,Undefined,E12000005,85.7
 2013/14,,Measles mumps rubella (first dose),By 5th birthday,England,West Midlands,Percentage (%),Units,Undefined,E12000005,95.5
 2014/15,,Measles mumps rubella (first dose),By 5th birthday,England,West Midlands,Percentage (%),Units,Undefined,E12000005,95.6
 2015/16,,Measles mumps rubella (first dose),By 5th birthday,England,West Midlands,Percentage (%),Units,Undefined,E12000005,95.6
@@ -1115,12 +1115,12 @@ Year,Age (years),Vaccine,Age (By birthday),Country,Region,Unit measure,Unit mult
 2016/17,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,East of England,Percentage (%),Units,Undefined,E12000006,96.4
 2017/18,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,East of England,Percentage (%),Units,Undefined,E12000006,96.6
 2018/19,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,East of England,Percentage (%),Units,Undefined,E12000006,96.1
-2013/14,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,East of England,Percentage (%),Units,Undefined,E12000006,91.3
-2014/15,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,East of England,Percentage (%),Units,Undefined,E12000006,91.9
-2015/16,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,East of England,Percentage (%),Units,Undefined,E12000006,90.0
-2016/17,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,East of England,Percentage (%),Units,Undefined,E12000006,88.7
-2017/18,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,East of England,Percentage (%),Units,Undefined,E12000006,88.2
-2018/19,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,East of England,Percentage (%),Units,Undefined,E12000006,87.2
+2013/14,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,East of England,Percentage (%),Units,Undefined,E12000006,91.3
+2014/15,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,East of England,Percentage (%),Units,Undefined,E12000006,91.9
+2015/16,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,East of England,Percentage (%),Units,Undefined,E12000006,90.0
+2016/17,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,East of England,Percentage (%),Units,Undefined,E12000006,88.7
+2017/18,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,East of England,Percentage (%),Units,Undefined,E12000006,88.2
+2018/19,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,East of England,Percentage (%),Units,Undefined,E12000006,87.2
 2013/14,,Measles mumps rubella (first dose),By 5th birthday,England,East of England,Percentage (%),Units,Undefined,E12000006,94.0
 2014/15,,Measles mumps rubella (first dose),By 5th birthday,England,East of England,Percentage (%),Units,Undefined,E12000006,94.4
 2015/16,,Measles mumps rubella (first dose),By 5th birthday,England,East of England,Percentage (%),Units,Undefined,E12000006,95.5
@@ -1145,12 +1145,12 @@ Year,Age (years),Vaccine,Age (By birthday),Country,Region,Unit measure,Unit mult
 2016/17,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,London,Percentage (%),Units,Undefined,E12000007,92.3
 2017/18,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,London,Percentage (%),Units,Undefined,E12000007,92.8
 2018/19,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,London,Percentage (%),Units,Undefined,E12000007,92.0
-2013/14,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,London,Percentage (%),Units,Undefined,E12000007,79.3
-2014/15,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,London,Percentage (%),Units,Undefined,E12000007,79.5
-2015/16,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,London,Percentage (%),Units,Undefined,E12000007,78.3
-2016/17,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,London,Percentage (%),Units,Undefined,E12000007,76.9
-2017/18,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,London,Percentage (%),Units,Undefined,E12000007,75.9
-2018/19,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,London,Percentage (%),Units,Undefined,E12000007,73.9
+2013/14,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,London,Percentage (%),Units,Undefined,E12000007,79.3
+2014/15,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,London,Percentage (%),Units,Undefined,E12000007,79.5
+2015/16,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,London,Percentage (%),Units,Undefined,E12000007,78.3
+2016/17,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,London,Percentage (%),Units,Undefined,E12000007,76.9
+2017/18,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,London,Percentage (%),Units,Undefined,E12000007,75.9
+2018/19,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,London,Percentage (%),Units,Undefined,E12000007,73.9
 2013/14,,Measles mumps rubella (first dose),By 5th birthday,England,London,Percentage (%),Units,Undefined,E12000007,90.6
 2014/15,,Measles mumps rubella (first dose),By 5th birthday,England,London,Percentage (%),Units,Undefined,E12000007,90.7
 2015/16,,Measles mumps rubella (first dose),By 5th birthday,England,London,Percentage (%),Units,Undefined,E12000007,91.1
@@ -1175,12 +1175,12 @@ Year,Age (years),Vaccine,Age (By birthday),Country,Region,Unit measure,Unit mult
 2016/17,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,South East,Percentage (%),Units,Undefined,E12000008,94.3
 2017/18,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,South East,Percentage (%),Units,Undefined,E12000008,94.4
 2018/19,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,South East,Percentage (%),Units,Undefined,E12000008,94.1
-2013/14,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,South East,Percentage (%),Units,Undefined,E12000008,87.4
-2014/15,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,South East,Percentage (%),Units,Undefined,E12000008,86.9
-2015/16,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,South East,Percentage (%),Units,Undefined,E12000008,83.7
-2016/17,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,South East,Percentage (%),Units,Undefined,E12000008,84.4
-2017/18,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,South East,Percentage (%),Units,Undefined,E12000008,84.1
-2018/19,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,South East,Percentage (%),Units,Undefined,E12000008,84.3
+2013/14,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,South East,Percentage (%),Units,Undefined,E12000008,87.4
+2014/15,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,South East,Percentage (%),Units,Undefined,E12000008,86.9
+2015/16,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,South East,Percentage (%),Units,Undefined,E12000008,83.7
+2016/17,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,South East,Percentage (%),Units,Undefined,E12000008,84.4
+2017/18,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,South East,Percentage (%),Units,Undefined,E12000008,84.1
+2018/19,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,South East,Percentage (%),Units,Undefined,E12000008,84.3
 2013/14,,Measles mumps rubella (first dose),By 5th birthday,England,South East,Percentage (%),Units,Undefined,E12000008,92.6
 2014/15,,Measles mumps rubella (first dose),By 5th birthday,England,South East,Percentage (%),Units,Undefined,E12000008,93.2
 2015/16,,Measles mumps rubella (first dose),By 5th birthday,England,South East,Percentage (%),Units,Undefined,E12000008,93.5
@@ -1205,12 +1205,12 @@ Year,Age (years),Vaccine,Age (By birthday),Country,Region,Unit measure,Unit mult
 2016/17,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,South West,Percentage (%),Units,Undefined,E12000009,96.9
 2017/18,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,South West,Percentage (%),Units,Undefined,E12000009,97.1
 2018/19,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,South West,Percentage (%),Units,Undefined,E12000009,96.8
-2013/14,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,South West,Percentage (%),Units,Undefined,E12000009,91.7
-2014/15,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,South West,Percentage (%),Units,Undefined,E12000009,90.6
-2015/16,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,South West,Percentage (%),Units,Undefined,E12000009,88.4
-2016/17,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,South West,Percentage (%),Units,Undefined,E12000009,88.9
-2017/18,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,South West,Percentage (%),Units,Undefined,E12000009,89.9
-2018/19,,Diphtheria Tetanus Polio Pertussis Hib (booster),By 5th birthday,England,South West,Percentage (%),Units,Undefined,E12000009,89.4
+2013/14,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,South West,Percentage (%),Units,Undefined,E12000009,91.7
+2014/15,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,South West,Percentage (%),Units,Undefined,E12000009,90.6
+2015/16,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,South West,Percentage (%),Units,Undefined,E12000009,88.4
+2016/17,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,South West,Percentage (%),Units,Undefined,E12000009,88.9
+2017/18,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,South West,Percentage (%),Units,Undefined,E12000009,89.9
+2018/19,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,South West,Percentage (%),Units,Undefined,E12000009,89.4
 2013/14,,Measles mumps rubella (first dose),By 5th birthday,England,South West,Percentage (%),Units,Undefined,E12000009,95.3
 2014/15,,Measles mumps rubella (first dose),By 5th birthday,England,South West,Percentage (%),Units,Undefined,E12000009,95.5
 2015/16,,Measles mumps rubella (first dose),By 5th birthday,England,South West,Percentage (%),Units,Undefined,E12000009,96.0
@@ -1244,18 +1244,12 @@ Year,Age (years),Vaccine,Age (By birthday),Country,Region,Unit measure,Unit mult
 2008/09,,Hib Meningococcal group C (booster),By 2nd birthday,England,,Percentage (%),Units,Undefined,E92000001,85.4
 2008/09,,Pneumococcal disease (booster),By 2nd birthday,England,,Percentage (%),Units,Undefined,E92000001,81.5
 2018/19,,Meningococcal group B (booster),By 2nd birthday,England,,Percentage (%),Units,Undefined,E92000001,87.8
-2007/08,,Diptheria Tetanus Polio (primary),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,92.6
-2008/09,,Diptheria Tetanus Polio (primary),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,92.5
-2009/10,,Diptheria Tetanus Polio (primary),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,94.0
-2010/11,,Diptheria Tetanus Polio (primary),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,94.7
-2011/12,,Diptheria Tetanus Polio (primary),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,95.4
-2012/13,,Diptheria Tetanus Polio (primary),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,95.8
-2013/14,,Diptheria Tetanus Polio (primary),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,95.6
-2014/15,,Diptheria Tetanus Polio (primary),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,95.6
-2015/16,,Diptheria Tetanus Polio (primary),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,95.6
-2016/17,,Diptheria Tetanus Polio (primary),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,95.6
-2017/18,,Diptheria Tetanus Polio (primary),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,95.6
-2018/19,,Diptheria Tetanus Polio (primary),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,95.0
+2007/08,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,92.6
+2008/09,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,92.5
+2009/10,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,94.0
+2010/11,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,94.7
+2011/12,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,95.4
+2012/13,,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,95.8
 2007/08,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,78.6
 2008/09,,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,80.1
 2007/08,,Hib (primary),By 5th birthday,England,,Percentage (%),Units,Undefined,E92000001,92.2
@@ -1326,7 +1320,7 @@ Year,Age (years),Vaccine,Age (By birthday),Country,Region,Unit measure,Unit mult
 2011/12,12 to 13,Human papillomavirus (At least 2 doses),,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,89.5
 2011/12,12 to 13,Human papillomavirus (3 doses),,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,88.1
 2011/12,12 to 13,Human papillomavirus (At least 1 dose),,,,Percentage (%),Units,Undefined,,90.8
-2011/12,12 to 13,Human papillomavirus (At least 2 doses),,,,Percentage (%),Units,Undefined,,
+2011/12,12 to 13,Human papillomavirus (At least 2 doses),,,,Percentage (%),Units,Undefined,,89.7
 2011/12,12 to 13,Human papillomavirus (3 doses),,,,Percentage (%),Units,Undefined,,87.0
 2012/13,12 to 13,Human papillomavirus (At least 1 dose),,England,,Percentage (%),Units,Undefined,E92000001,90.9
 2012/13,12 to 13,Human papillomavirus (At least 2 doses),,England,,Percentage (%),Units,Undefined,E92000001,89.6
@@ -1388,3 +1382,16 @@ Year,Age (years),Vaccine,Age (By birthday),Country,Region,Unit measure,Unit mult
 2017/18,13 to 14,Human papillomavirus (2 doses),,Wales,,Percentage (%),Units,Undefined,W92000004,80.3
 2017/18,13 to 14,Human papillomavirus (2 doses),,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,84.7
 2017/18,13 to 14,Human papillomavirus (2 doses),,,,Percentage (%),Units,Undefined,,83.9
+2018/19,,Meningococcal group B (booster),By 2nd birthday,,,Percentage (%),Units,Undefined,,88.6
+2018/19,,Meningococcal group B (booster),By 2nd birthday,Wales,,Percentage (%),Units,Undefined,W92000004,93.8
+2018/19,,Meningococcal group B (booster),By 2nd birthday,Scotland,,Percentage (%),Units,Undefined,S92000003,93.6
+2018/19,,Meningococcal group B (booster),By 2nd birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,92.4
+2018/19,,Meningococcal group B (booster),By 2nd birthday,England,North East,Percentage (%),Units,Undefined,E12000001,92.3
+2018/19,,Meningococcal group B (booster),By 2nd birthday,England,North West,Percentage (%),Units,Undefined,E12000002,87.99192385347563
+2018/19,,Meningococcal group B (booster),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,91.4
+2018/19,,Meningococcal group B (booster),By 2nd birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,89.7
+2018/19,,Meningococcal group B (booster),By 2nd birthday,England,West Midlands,Percentage (%),Units,Undefined,E12000005,88.8
+2018/19,,Meningococcal group B (booster),By 2nd birthday,England,East of England,Percentage (%),Units,Undefined,E12000006,89.4
+2018/19,,Meningococcal group B (booster),By 2nd birthday,England,London,Percentage (%),Units,Undefined,E12000007,79.5
+2018/19,,Meningococcal group B (booster),By 2nd birthday,England,South East,Percentage (%),Units,Undefined,E12000008,89.08642443790913
+2018/19,,Meningococcal group B (booster),By 2nd birthday,England,South West,Percentage (%),Units,Undefined,E12000009,91.8
