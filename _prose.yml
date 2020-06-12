@@ -40,7 +40,7 @@ prose:
             element: hidden
             label: "Indicator display order (within Goal page)"
             scope: data
-      - name: "target"
+      - name: "target_name"
         field:
             element: text
             label: "Target name"
