@@ -1,456 +1,1782 @@
-Year,Sex,Country,Region,Health Board,Birth weight,Age,Unit measure,Unit multiplier,Observation status,GeoCode,Value
-2009,,Wales,,Powys Teaching,,,"Rate per 1,000 live births",Units,Undefined,W11000024,2.4
-2010,,Wales,,Powys Teaching,,,"Rate per 1,000 live births",Units,Undefined,W11000024,4.1
-2012,,Wales,,Powys Teaching,,,"Rate per 1,000 live births",Units,Undefined,W11000024,2.5
-2013,,Wales,,Powys Teaching,,,"Rate per 1,000 live births",Units,Undefined,W11000024,4.1
-2009,,Wales,,Hywel Dda University,,,"Rate per 1,000 live births",Units,Undefined,W11000025,2.6
-2010,,Wales,,Hywel Dda University,,,"Rate per 1,000 live births",Units,Undefined,W11000025,2.5
-2011,,Wales,,Hywel Dda University,,,"Rate per 1,000 live births",Units,Undefined,W11000025,0.8
-2012,,Wales,,Hywel Dda University,,,"Rate per 1,000 live births",Units,Undefined,W11000025,2.5
-2013,,Wales,,Hywel Dda University,,,"Rate per 1,000 live births",Units,Undefined,W11000025,2.8
-2014,,Wales,,Hywel Dda University,,,"Rate per 1,000 live births",Units,Undefined,W11000025,2.5
-2015,,Wales,,Hywel Dda University,,,"Rate per 1,000 live births",Units,Undefined,W11000025,1.1
-2016,,Wales,,Hywel Dda University,,,"Rate per 1,000 live births",Units,Undefined,W11000025,0.8
-2009,,Wales,,Cwm Taf University,,,"Rate per 1,000 live births",Units,Undefined,W11000027,3.3
-2010,,Wales,,Cwm Taf University,,,"Rate per 1,000 live births",Units,Undefined,W11000027,1.6
-2011,,Wales,,Cwm Taf University,,,"Rate per 1,000 live births",Units,Undefined,W11000027,2.4
-2012,,Wales,,Cwm Taf University,,,"Rate per 1,000 live births",Units,Undefined,W11000027,3.1
-2013,,Wales,,Cwm Taf University,,,"Rate per 1,000 live births",Units,Undefined,W11000027,2.3
-2014,,Wales,,Cwm Taf University,,,"Rate per 1,000 live births",Units,Undefined,W11000027,2.3
-2015,,Wales,,Cwm Taf University,,,"Rate per 1,000 live births",Units,Undefined,W11000027,3.8
-2016,,Wales,,Cwm Taf University,,,"Rate per 1,000 live births",Units,Undefined,W11000027,1.4
-2009,,Wales,,Cardiff and Vale University,,,"Rate per 1,000 live births",Units,Undefined,W11000029,3.1
-2010,,Wales,,Cardiff and Vale University,,,"Rate per 1,000 live births",Units,Undefined,W11000029,3.7
-2011,,Wales,,Cardiff and Vale University,,,"Rate per 1,000 live births",Units,Undefined,W11000029,3.5
-2012,,Wales,,Cardiff and Vale University,,,"Rate per 1,000 live births",Units,Undefined,W11000029,2.0
-2013,,Wales,,Cardiff and Vale University,,,"Rate per 1,000 live births",Units,Undefined,W11000029,3.2
-2014,,Wales,,Cardiff and Vale University,,,"Rate per 1,000 live births",Units,Undefined,W11000029,2.6
-2015,,Wales,,Cardiff and Vale University,,,"Rate per 1,000 live births",Units,Undefined,W11000029,2.4
-2016,,Wales,,Cardiff and Vale University,,,"Rate per 1,000 live births",Units,Undefined,W11000029,1.2
-2009,,Wales,,Betsi Cadwaladr University,,,"Rate per 1,000 live births",Units,Undefined,W11000023,4.0
-2010,,Wales,,Betsi Cadwaladr University,,,"Rate per 1,000 live births",Units,Undefined,W11000023,3.5
-2011,,Wales,,Betsi Cadwaladr University,,,"Rate per 1,000 live births",Units,Undefined,W11000023,3.2
-2012,,Wales,,Betsi Cadwaladr University,,,"Rate per 1,000 live births",Units,Undefined,W11000023,3.5
-2013,,Wales,,Betsi Cadwaladr University,,,"Rate per 1,000 live births",Units,Undefined,W11000023,1.9
-2014,,Wales,,Betsi Cadwaladr University,,,"Rate per 1,000 live births",Units,Undefined,W11000023,2.3
-2015,,Wales,,Betsi Cadwaladr University,,,"Rate per 1,000 live births",Units,Undefined,W11000023,2.7
-2016,,Wales,,Betsi Cadwaladr University,,,"Rate per 1,000 live births",Units,Undefined,W11000023,3.6
-2009,,Wales,,Aneurin Bevan University,,,"Rate per 1,000 live births",Units,Undefined,W11000028,2.7
-2010,,Wales,,Aneurin Bevan University,,,"Rate per 1,000 live births",Units,Undefined,W11000028,1.3
-2011,,Wales,,Aneurin Bevan University,,,"Rate per 1,000 live births",Units,Undefined,W11000028,2.9
-2012,,Wales,,Aneurin Bevan University,,,"Rate per 1,000 live births",Units,Undefined,W11000028,2.7
-2013,,Wales,,Aneurin Bevan University,,,"Rate per 1,000 live births",Units,Undefined,W11000028,2.1
-2014,,Wales,,Aneurin Bevan University,,,"Rate per 1,000 live births",Units,Undefined,W11000028,1.7
-2015,,Wales,,Aneurin Bevan University,,,"Rate per 1,000 live births",Units,Undefined,W11000028,3.2
-2016,,Wales,,Aneurin Bevan University,,,"Rate per 1,000 live births",Units,Undefined,W11000028,1.6
-2009,,Wales,,Abertawe Bro Morgannwg University,,,"Rate per 1,000 live births",Units,Undefined,W11000026,2.6
-2010,,Wales,,Abertawe Bro Morgannwg University,,,"Rate per 1,000 live births",Units,Undefined,W11000026,3.0
-2011,,Wales,,Abertawe Bro Morgannwg University,,,"Rate per 1,000 live births",Units,Undefined,W11000026,3.0
-2012,,Wales,,Abertawe Bro Morgannwg University,,,"Rate per 1,000 live births",Units,Undefined,W11000026,2.7
-2013,,Wales,,Abertawe Bro Morgannwg University,,,"Rate per 1,000 live births",Units,Undefined,W11000026,2.0
-2014,,Wales,,Abertawe Bro Morgannwg University,,,"Rate per 1,000 live births",Units,Undefined,W11000026,2.0
-2015,,Wales,,Abertawe Bro Morgannwg University,,,"Rate per 1,000 live births",Units,Undefined,W11000026,2.2
-2016,,Wales,,Abertawe Bro Morgannwg University,,,"Rate per 1,000 live births",Units,Undefined,W11000026,2.2
-2008,,England,East Midlands,,,,"Rate per 1,000 live births",Units,Undefined,E12000004,3.6
-2009,,England,East Midlands,,,,"Rate per 1,000 live births",Units,Undefined,E12000004,3.3
-2010,,England,East Midlands,,,,"Rate per 1,000 live births",Units,Undefined,E12000004,2.8
-2011,,England,East Midlands,,,,"Rate per 1,000 live births",Units,Undefined,E12000004,3.1
-2012,,England,East Midlands,,,,"Rate per 1,000 live births",Units,Undefined,E12000004,3.1
-2013,,England,East Midlands,,,,"Rate per 1,000 live births",Units,Undefined,E12000004,2.7
-2014,,England,East Midlands,,,,"Rate per 1,000 live births",Units,Undefined,E12000004,3.0
-2015,,England,East Midlands,,,,"Rate per 1,000 live births",Units,Undefined,E12000004,3.1
-2016,,England,East Midlands,,,,"Rate per 1,000 live births",Units,Undefined,E12000004,3.0
-2008,,England,East of England,,,,"Rate per 1,000 live births",Units,Undefined,E12000006,2.9
-2009,,England,East of England,,,,"Rate per 1,000 live births",Units,Undefined,E12000006,3.0
-2010,,England,East of England,,,,"Rate per 1,000 live births",Units,Undefined,E12000006,2.5
-2011,,England,East of England,,,,"Rate per 1,000 live births",Units,Undefined,E12000006,2.7
-2012,,England,East of England,,,,"Rate per 1,000 live births",Units,Undefined,E12000006,2.8
-2013,,England,East of England,,,,"Rate per 1,000 live births",Units,Undefined,E12000006,2.2
-2014,,England,East of England,,,,"Rate per 1,000 live births",Units,Undefined,E12000006,2.5
-2015,,England,East of England,,,,"Rate per 1,000 live births",Units,Undefined,E12000006,2.2
-2016,,England,East of England,,,,"Rate per 1,000 live births",Units,Undefined,E12000006,2.2
-2008,,England,London,,,,"Rate per 1,000 live births",Units,Undefined,E12000007,2.8
-2009,,England,London,,,,"Rate per 1,000 live births",Units,Undefined,E12000007,3.0
-2010,,England,London,,,,"Rate per 1,000 live births",Units,Undefined,E12000007,3.2
-2011,,England,London,,,,"Rate per 1,000 live births",Units,Undefined,E12000007,2.8
-2012,,England,London,,,,"Rate per 1,000 live births",Units,Undefined,E12000007,2.6
-2013,,England,London,,,,"Rate per 1,000 live births",Units,Undefined,E12000007,2.6
-2014,,England,London,,,,"Rate per 1,000 live births",Units,Undefined,E12000007,2.0
-2015,,England,London,,,,"Rate per 1,000 live births",Units,Undefined,E12000007,2.2
-2016,,England,London,,,,"Rate per 1,000 live births",Units,Undefined,E12000007,2.2
-2008,,England,North East,,,,"Rate per 1,000 live births",Units,Undefined,E12000001,3.1
-2009,,England,North East,,,,"Rate per 1,000 live births",Units,Undefined,E12000001,2.9
-2010,,England,North East,,,,"Rate per 1,000 live births",Units,Undefined,E12000001,2.8
-2011,,England,North East,,,,"Rate per 1,000 live births",Units,Undefined,E12000001,2.4
-2012,,England,North East,,,,"Rate per 1,000 live births",Units,Undefined,E12000001,2.4
-2013,,England,North East,,,,"Rate per 1,000 live births",Units,Undefined,E12000001,2.1
-2014,,England,North East,,,,"Rate per 1,000 live births",Units,Undefined,E12000001,2.6
-2015,,England,North East,,,,"Rate per 1,000 live births",Units,Undefined,E12000001,2.0
-2016,,England,North East,,,,"Rate per 1,000 live births",Units,Undefined,E12000001,2.3
-2008,,England,North West,,,,"Rate per 1,000 live births",Units,Undefined,E12000002,3.4
-2009,,England,North West,,,,"Rate per 1,000 live births",Units,Undefined,E12000002,3.2
-2010,,England,North West,,,,"Rate per 1,000 live births",Units,Undefined,E12000002,3.1
-2011,,England,North West,,,,"Rate per 1,000 live births",Units,Undefined,E12000002,3.0
-2012,,England,North West,,,,"Rate per 1,000 live births",Units,Undefined,E12000002,2.8
-2013,,England,North West,,,,"Rate per 1,000 live births",Units,Undefined,E12000002,2.8
-2014,,England,North West,,,,"Rate per 1,000 live births",Units,Undefined,E12000002,2.7
-2015,,England,North West,,,,"Rate per 1,000 live births",Units,Undefined,E12000002,2.6
-2016,,England,North West,,,,"Rate per 1,000 live births",Units,Undefined,E12000002,3.4
-2009,,England,South East,,,,"Rate per 1,000 live births",Units,Undefined,E12000008,2.5
-2010,,England,South East,,,,"Rate per 1,000 live births",Units,Undefined,E12000008,2.4
-2011,,England,South East,,,,"Rate per 1,000 live births",Units,Undefined,E12000008,2.4
-2012,,England,South East,,,,"Rate per 1,000 live births",Units,Undefined,E12000008,2.3
-2013,,England,South East,,,,"Rate per 1,000 live births",Units,Undefined,E12000008,2.4
-2014,,England,South East,,,,"Rate per 1,000 live births",Units,Undefined,E12000008,2.2
-2015,,England,South East,,,,"Rate per 1,000 live births",Units,Undefined,E12000008,2.2
-2016,,England,South East,,,,"Rate per 1,000 live births",Units,Undefined,E12000008,2.6
-2008,,England,South West,,,,"Rate per 1,000 live births",Units,Undefined,E12000009,2.7
-2009,,England,South West,,,,"Rate per 1,000 live births",Units,Undefined,E12000009,2.4
-2010,,England,South West,,,,"Rate per 1,000 live births",Units,Undefined,E12000009,2.2
-2011,,England,South West,,,,"Rate per 1,000 live births",Units,Undefined,E12000009,2.6
-2012,,England,South West,,,,"Rate per 1,000 live births",Units,Undefined,E12000009,2.6
-2013,,England,South West,,,,"Rate per 1,000 live births",Units,Undefined,E12000009,2.5
-2014,,England,South West,,,,"Rate per 1,000 live births",Units,Undefined,E12000009,2.0
-2015,,England,South West,,,,"Rate per 1,000 live births",Units,Undefined,E12000009,2.6
-2016,,England,South West,,,,"Rate per 1,000 live births",Units,Undefined,E12000009,2.4
-2008,,England,West Midlands,,,,"Rate per 1,000 live births",Units,Undefined,E12000005,4.4
-2009,,England,West Midlands,,,,"Rate per 1,000 live births",Units,Undefined,E12000005,4.4
-2010,,England,West Midlands,,,,"Rate per 1,000 live births",Units,Undefined,E12000005,3.6
-2011,,England,West Midlands,,,,"Rate per 1,000 live births",Units,Undefined,E12000005,4.3
-2012,,England,West Midlands,,,,"Rate per 1,000 live births",Units,Undefined,E12000005,3.9
-2013,,England,West Midlands,,,,"Rate per 1,000 live births",Units,Undefined,E12000005,3.7
-2014,,England,West Midlands,,,,"Rate per 1,000 live births",Units,Undefined,E12000005,3.9
-2015,,England,West Midlands,,,,"Rate per 1,000 live births",Units,Undefined,E12000005,4.6
-2016,,England,West Midlands,,,,"Rate per 1,000 live births",Units,Undefined,E12000005,4.5
-2008,,England,Yorkshire and The Humber,,,,"Rate per 1,000 live births",Units,Undefined,E12000003,3.4
-2009,,England,Yorkshire and The Humber,,,,"Rate per 1,000 live births",Units,Undefined,E12000003,3.4
-2010,,England,Yorkshire and The Humber,,,,"Rate per 1,000 live births",Units,Undefined,E12000003,3.6
-2011,,England,Yorkshire and The Humber,,,,"Rate per 1,000 live births",Units,Undefined,E12000003,3.3
-2012,,England,Yorkshire and The Humber,,,,"Rate per 1,000 live births",Units,Undefined,E12000003,2.6
-2013,,England,Yorkshire and The Humber,,,,"Rate per 1,000 live births",Units,Undefined,E12000003,2.9
-2014,,England,Yorkshire and The Humber,,,,"Rate per 1,000 live births",Units,Undefined,E12000003,2.6
-2015,,England,Yorkshire and The Humber,,,,"Rate per 1,000 live births",Units,Undefined,E12000003,2.6
-2016,,England,Yorkshire and The Humber,,,,"Rate per 1,000 live births",Units,Undefined,E12000003,2.4
-2008,Female,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.8
-2009,Female,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.9
-2010,Female,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.7
-2011,Female,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.5
-2012,Female,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.5
-2013,Female,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.4
-2014,Female,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.4
-2015,Female,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.3
-2016,Female,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.6
-2008,Male,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.5
-2009,Male,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.3
-2010,Male,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.2
-2011,Male,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.3
-2012,Male,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.1
-2013,Male,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.0
-2014,Male,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.7
-2015,Male,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.0
-2016,Male,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.9
-2008,,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.2
-2009,,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.1
-2010,,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.9
-2011,,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.9
-2012,,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.8
-2013,,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.7
-2014,,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.5
-2015,,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.6
-2016,,England,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.8
-2008,,England and Wales,,,,20 to 24,"Rate per 1,000 live births",Units,Undefined,K04000001,3.41984687911
-2009,,England and Wales,,,,20 to 24,"Rate per 1,000 live births",Units,Undefined,K04000001,3.32323618504
-2010,,England and Wales,,,,20 to 24,"Rate per 1,000 live births",Units,Undefined,K04000001,2.95676998369
-2011,,England and Wales,,,,20 to 24,"Rate per 1,000 live births",Units,Undefined,K04000001,3.17904939754
-2012,,England and Wales,,,,20 to 24,"Rate per 1,000 live births",Units,Undefined,K04000001,2.82357915081
-2013,,England and Wales,,,,20 to 24,"Rate per 1,000 live births",Units,Undefined,K04000001,2.61445551667
-2014,,England and Wales,,,,20 to 24,"Rate per 1,000 live births",Units,Undefined,K04000001,2.57514540692
-2015,,England and Wales,,,,20 to 24,"Rate per 1,000 live births",Units,Undefined,K04000001,2.84892379129
-2016,,England and Wales,,,,20 to 24,"Rate per 1,000 live births",Units,Undefined,K04000001,2.80682604501
-2008,,England and Wales,,,,25 to 29,"Rate per 1,000 live births",Units,Undefined,K04000001,3.09390547264
-2009,,England and Wales,,,,25 to 29,"Rate per 1,000 live births",Units,Undefined,K04000001,3.04436740518
-2010,,England and Wales,,,,25 to 29,"Rate per 1,000 live births",Units,Undefined,K04000001,2.7405098553
-2011,,England and Wales,,,,25 to 29,"Rate per 1,000 live births",Units,Undefined,K04000001,2.71702553007
-2012,,England and Wales,,,,25 to 29,"Rate per 1,000 live births",Units,Undefined,K04000001,2.72767702723
-2013,,England and Wales,,,,25 to 29,"Rate per 1,000 live births",Units,Undefined,K04000001,2.42001494715
-2014,,England and Wales,,,,25 to 29,"Rate per 1,000 live births",Units,Undefined,K04000001,2.24064872115
-2015,,England and Wales,,,,25 to 29,"Rate per 1,000 live births",Units,Undefined,K04000001,2.3513621249
-2016,,England and Wales,,,,25 to 29,"Rate per 1,000 live births",Units,Undefined,K04000001,2.53910631615
-2008,,England and Wales,,,,30 to 34,"Rate per 1,000 live births",Units,Undefined,K04000001,2.80072746168
-2009,,England and Wales,,,,30 to 34,"Rate per 1,000 live births",Units,Undefined,K04000001,2.75574112735
-2010,,England and Wales,,,,30 to 34,"Rate per 1,000 live births",Units,Undefined,K04000001,2.78577673284
-2011,,England and Wales,,,,30 to 34,"Rate per 1,000 live births",Units,Undefined,K04000001,2.67920502435
-2012,,England and Wales,,,,30 to 34,"Rate per 1,000 live births",Units,Undefined,K04000001,2.40008878941
-2013,,England and Wales,,,,30 to 34,"Rate per 1,000 live births",Units,Undefined,K04000001,2.58117999491
-2014,,England and Wales,,,,30 to 34,"Rate per 1,000 live births",Units,Undefined,K04000001,2.30010851318
-2015,,England and Wales,,,,30 to 34,"Rate per 1,000 live births",Units,Undefined,K04000001,2.26860462446
-2016,,England and Wales,,,,30 to 34,"Rate per 1,000 live births",Units,Undefined,K04000001,2.52124890405
-2008,,England and Wales,,,,35 to 39,"Rate per 1,000 live births",Units,Undefined,K04000001,2.942694889
-2009,,England and Wales,,,,35 to 39,"Rate per 1,000 live births",Units,Undefined,K04000001,3.01868962621
-2010,,England and Wales,,,,35 to 39,"Rate per 1,000 live births",Units,Undefined,K04000001,2.90915996927
-2011,,England and Wales,,,,35 to 39,"Rate per 1,000 live births",Units,Undefined,K04000001,2.80655555941
-2012,,England and Wales,,,,35 to 39,"Rate per 1,000 live births",Units,Undefined,K04000001,2.76139620373
-2013,,England and Wales,,,,35 to 39,"Rate per 1,000 live births",Units,Undefined,K04000001,2.61883408072
-2014,,England and Wales,,,,35 to 39,"Rate per 1,000 live births",Units,Undefined,K04000001,3.03027671897
-2015,,England and Wales,,,,35 to 39,"Rate per 1,000 live births",Units,Undefined,K04000001,2.87694629148
-2016,,England and Wales,,,,35 to 39,"Rate per 1,000 live births",Units,Undefined,K04000001,2.57178227707
-2008,,England and Wales,,,,40 and over,"Rate per 1,000 live births",Units,Undefined,K04000001,3.55804534615
-2009,,England and Wales,,,,40 and over,"Rate per 1,000 live births",Units,Undefined,K04000001,3.85527876631
-2010,,England and Wales,,,,40 and over,"Rate per 1,000 live births",Units,Undefined,K04000001,3.75031553135
-2011,,England and Wales,,,,40 and over,"Rate per 1,000 live births",Units,Undefined,K04000001,4.19080068143
-2012,,England and Wales,,,,40 and over,"Rate per 1,000 live births",Units,Undefined,K04000001,3.63406014536
-2013,,England and Wales,,,,40 and over,"Rate per 1,000 live births",Units,Undefined,K04000001,3.84114136772
-2014,,England and Wales,,,,40 and over,"Rate per 1,000 live births",Units,Undefined,K04000001,2.82661151327
-2015,,England and Wales,,,,40 and over,"Rate per 1,000 live births",Units,Undefined,K04000001,3.21466434116
-2016,,England and Wales,,,,40 and over,"Rate per 1,000 live births",Units,Undefined,K04000001,3.86775636498
-2008,,England and Wales,,,,19 and under,"Rate per 1,000 live births",Units,Undefined,K04000001,3.98290483543
-2009,,England and Wales,,,,19 and under,"Rate per 1,000 live births",Units,Undefined,K04000001,3.63064542238
-2010,,England and Wales,,,,19 and under,"Rate per 1,000 live births",Units,Undefined,K04000001,3.30122440935
-2011,,England and Wales,,,,19 and under,"Rate per 1,000 live births",Units,Undefined,K04000001,3.26609029779
-2012,,England and Wales,,,,19 and under,"Rate per 1,000 live births",Units,Undefined,K04000001,3.99231110454
-2013,,England and Wales,,,,19 and under,"Rate per 1,000 live births",Units,Undefined,K04000001,3.74107633169
-2014,,England and Wales,,,,19 and under,"Rate per 1,000 live births",Units,Undefined,K04000001,3.42610771067
-2015,,England and Wales,,,,19 and under,"Rate per 1,000 live births",Units,Undefined,K04000001,4.1757140471
-2016,,England and Wales,,,,19 and under,"Rate per 1,000 live births",Units,Undefined,K04000001,4.31782773203
-2008,,England and Wales,,,1000 to 1499,,"Rate per 1,000 live births",Units,Undefined,K04000001,45.2
-2009,,England and Wales,,,1000 to 1499,,"Rate per 1,000 live births",Units,Undefined,K04000001,38.3
-2010,,England and Wales,,,1000 to 1499,,"Rate per 1,000 live births",Units,Undefined,K04000001,33.1
-2011,,England and Wales,,,1000 to 1499,,"Rate per 1,000 live births",Units,Undefined,K04000001,37.7
-2012,,England and Wales,,,1000 to 1499,,"Rate per 1,000 live births",Units,Undefined,K04000001,39.5
-2013,,England and Wales,,,1000 to 1499,,"Rate per 1,000 live births",Units,Undefined,K04000001,31.7
-2014,,England and Wales,,,1000 to 1499,,"Rate per 1,000 live births",Units,Undefined,K04000001,29.8
-2015,,England and Wales,,,1000 to 1499,,"Rate per 1,000 live births",Units,Undefined,K04000001,29.3
-2016,,England and Wales,,,1000 to 1499,,"Rate per 1,000 live births",Units,Undefined,K04000001,26.6
-2008,,England and Wales,,,1500 to 1999,,"Rate per 1,000 live births",Units,Undefined,K04000001,12.9
-2009,,England and Wales,,,1500 to 1999,,"Rate per 1,000 live births",Units,Undefined,K04000001,14.0
-2010,,England and Wales,,,1500 to 1999,,"Rate per 1,000 live births",Units,Undefined,K04000001,11.6
-2011,,England and Wales,,,1500 to 1999,,"Rate per 1,000 live births",Units,Undefined,K04000001,12.4
-2012,,England and Wales,,,1500 to 1999,,"Rate per 1,000 live births",Units,Undefined,K04000001,11.0
-2013,,England and Wales,,,1500 to 1999,,"Rate per 1,000 live births",Units,Undefined,K04000001,10.7
-2014,,England and Wales,,,1500 to 1999,,"Rate per 1,000 live births",Units,Undefined,K04000001,11.4
-2015,,England and Wales,,,1500 to 1999,,"Rate per 1,000 live births",Units,Undefined,K04000001,11.9
-2016,,England and Wales,,,1500 to 1999,,"Rate per 1,000 live births",Units,Undefined,K04000001,12.6
-2008,,England and Wales,,,2000 to 2499,,"Rate per 1,000 live births",Units,Undefined,K04000001,4.3
-2009,,England and Wales,,,2000 to 2499,,"Rate per 1,000 live births",Units,Undefined,K04000001,4.7
-2010,,England and Wales,,,2000 to 2499,,"Rate per 1,000 live births",Units,Undefined,K04000001,4.3
-2011,,England and Wales,,,2000 to 2499,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.7
-2012,,England and Wales,,,2000 to 2499,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.9
-2013,,England and Wales,,,2000 to 2499,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.9
-2014,,England and Wales,,,2000 to 2499,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.6
-2015,,England and Wales,,,2000 to 2499,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.6
-2016,,England and Wales,,,2000 to 2499,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.8
-2008,,England and Wales,,,2500 to 2999,,"Rate per 1,000 live births",Units,Undefined,K04000001,1.5
-2009,,England and Wales,,,2500 to 2999,,"Rate per 1,000 live births",Units,Undefined,K04000001,1.7
-2010,,England and Wales,,,2500 to 2999,,"Rate per 1,000 live births",Units,Undefined,K04000001,1.5
-2011,,England and Wales,,,2500 to 2999,,"Rate per 1,000 live births",Units,Undefined,K04000001,1.3
-2012,,England and Wales,,,2500 to 2999,,"Rate per 1,000 live births",Units,Undefined,K04000001,1.4
-2013,,England and Wales,,,2500 to 2999,,"Rate per 1,000 live births",Units,Undefined,K04000001,1.3
-2014,,England and Wales,,,2500 to 2999,,"Rate per 1,000 live births",Units,Undefined,K04000001,1.1
-2015,,England and Wales,,,2500 to 2999,,"Rate per 1,000 live births",Units,Undefined,K04000001,1.1
-2016,,England and Wales,,,2500 to 2999,,"Rate per 1,000 live births",Units,Undefined,K04000001,1.1
-2008,,England and Wales,,,3000 to 3499,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.8
-2009,,England and Wales,,,3000 to 3499,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.6
-2010,,England and Wales,,,3000 to 3499,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.6
-2011,,England and Wales,,,3000 to 3499,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.7
-2012,,England and Wales,,,3000 to 3499,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.6
-2013,,England and Wales,,,3000 to 3499,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.6
-2014,,England and Wales,,,3000 to 3499,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.6
-2015,,England and Wales,,,3000 to 3499,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.6
-2016,,England and Wales,,,3000 to 3499,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.4
-2008,,England and Wales,,,3500 to 3999,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.5
-2009,,England and Wales,,,3500 to 3999,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.5
-2010,,England and Wales,,,3500 to 3999,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.4
-2011,,England and Wales,,,3500 to 3999,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.4
-2012,,England and Wales,,,3500 to 3999,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.3
-2013,,England and Wales,,,3500 to 3999,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.4
-2014,,England and Wales,,,3500 to 3999,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.4
-2015,,England and Wales,,,3500 to 3999,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.3
-2016,,England and Wales,,,3500 to 3999,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.3
-2008,,England and Wales,,,4000 and over,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.7
-2009,,England and Wales,,,4000 and over,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.6
-2010,,England and Wales,,,4000 and over,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.5
-2011,,England and Wales,,,4000 and over,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.5
-2012,,England and Wales,,,4000 and over,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.5
-2013,,England and Wales,,,4000 and over,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.4
-2014,,England and Wales,,,4000 and over,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.4
-2015,,England and Wales,,,4000 and over,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.4
-2016,,England and Wales,,,4000 and over,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.4
-2008,,England and Wales,,,Not stated,,"Rate per 1,000 live births",Units,Undefined,K04000001,24.2
-2009,,England and Wales,,,Not stated,,"Rate per 1,000 live births",Units,Undefined,K04000001,37.6
-2010,,England and Wales,,,Not stated,,"Rate per 1,000 live births",Units,Undefined,K04000001,24.8
-2011,,England and Wales,,,Not stated,,"Rate per 1,000 live births",Units,Undefined,K04000001,25.7
-2012,,England and Wales,,,Not stated,,"Rate per 1,000 live births",Units,Undefined,K04000001,29.1
-2013,,England and Wales,,,Not stated,,"Rate per 1,000 live births",Units,Undefined,K04000001,26.9
-2014,,England and Wales,,,Not stated,,"Rate per 1,000 live births",Units,Undefined,K04000001,18.7
-2015,,England and Wales,,,Not stated,,"Rate per 1,000 live births",Units,Undefined,K04000001,21.6
-2016,,England and Wales,,,Not stated,,"Rate per 1,000 live births",Units,Undefined,K04000001,24.0
-2008,,England and Wales,,,Under 1000,,"Rate per 1,000 live births",Units,Undefined,K04000001,279.5
-2009,,England and Wales,,,Under 1000,,"Rate per 1,000 live births",Units,Undefined,K04000001,274.3
-2010,,England and Wales,,,Under 1000,,"Rate per 1,000 live births",Units,Undefined,K04000001,256.3
-2011,,England and Wales,,,Under 1000,,"Rate per 1,000 live births",Units,Undefined,K04000001,274.6
-2012,,England and Wales,,,Under 1000,,"Rate per 1,000 live births",Units,Undefined,K04000001,275.1
-2013,,England and Wales,,,Under 1000,,"Rate per 1,000 live births",Units,Undefined,K04000001,270.3
-2014,,England and Wales,,,Under 1000,,"Rate per 1,000 live births",Units,Undefined,K04000001,254.0
-2015,,England and Wales,,,Under 1000,,"Rate per 1,000 live births",Units,Undefined,K04000001,273.0
-2016,,England and Wales,,,Under 1000,,"Rate per 1,000 live births",Units,Undefined,K04000001,308.3
-2008,,England and Wales,,,Under 1500,,"Rate per 1,000 live births",Units,Undefined,K04000001,151.4
-2009,,England and Wales,,,Under 1500,,"Rate per 1,000 live births",Units,Undefined,K04000001,141.5
-2010,,England and Wales,,,Under 1500,,"Rate per 1,000 live births",Units,Undefined,K04000001,137.4
-2011,,England and Wales,,,Under 1500,,"Rate per 1,000 live births",Units,Undefined,K04000001,145.4
-2012,,England and Wales,,,Under 1500,,"Rate per 1,000 live births",Units,Undefined,K04000001,144.7
-2013,,England and Wales,,,Under 1500,,"Rate per 1,000 live births",Units,Undefined,K04000001,140.7
-2014,,England and Wales,,,Under 1500,,"Rate per 1,000 live births",Units,Undefined,K04000001,131.9
-2015,,England and Wales,,,Under 1500,,"Rate per 1,000 live births",Units,Undefined,K04000001,136.0
-2016,,England and Wales,,,Under 1500,,"Rate per 1,000 live births",Units,Undefined,K04000001,151.5
-2008,,England and Wales,,,Under 2500,,"Rate per 1,000 live births",Units,Undefined,K04000001,30.8
-2009,,England and Wales,,,Under 2500,,"Rate per 1,000 live births",Units,Undefined,K04000001,29.3
-2010,,England and Wales,,,Under 2500,,"Rate per 1,000 live births",Units,Undefined,K04000001,28.6
-2011,,England and Wales,,,Under 2500,,"Rate per 1,000 live births",Units,Undefined,K04000001,28.9
-2012,,England and Wales,,,Under 2500,,"Rate per 1,000 live births",Units,Undefined,K04000001,27.5
-2013,,England and Wales,,,Under 2500,,"Rate per 1,000 live births",Units,Undefined,K04000001,25.6
-2014,,England and Wales,,,Under 2500,,"Rate per 1,000 live births",Units,Undefined,K04000001,24.4
-2015,,England and Wales,,,Under 2500,,"Rate per 1,000 live births",Units,Undefined,K04000001,25.0
-2016,,England and Wales,,,Under 2500,,"Rate per 1,000 live births",Units,Undefined,K04000001,26.1
-2008,Female,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.8
-2009,Female,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.9
-2010,Female,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.7
-2011,Female,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.5
-2012,Female,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.5
-2013,Female,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.4
-2014,Female,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.4
-2015,Female,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.3
-2016,Female,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.5
-2008,Male,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.5
-2009,Male,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.4
-2010,Male,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.2
-2011,Male,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.3
-2012,Male,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.1
-2013,Male,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.0
-2014,Male,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.7
-2015,Male,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.0
-2016,Male,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.9
-2000,,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.9
-2001,,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.6
-2002,,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.6
-2003,,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.6
-2004,,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.5
-2005,,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.4
-2006,,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.5
-2007,,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.3
-2008,,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.2
-2009,,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.1
-2010,,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.9
-2011,,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.9
-2012,,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.8
-2013,,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.7
-2014,,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.5
-2015,,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.6
-2016,,England and Wales,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.7
-2008,Female,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.5
-2009,Female,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.5
-2010,Female,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,4.4
-2011,Female,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.1
-2012,Female,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,2.5
-2013,Female,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,2.9
-2014,Female,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,2.7
-2015,Female,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.7
-2016,Female,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.8
-2008,Male,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.7
-2009,Male,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,4.0
-2010,Male,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,4.6
-2011,Male,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.8
-2012,Male,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.0
-2013,Male,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.8
-2014,Male,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,5.1
-2015,Male,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,4.6
-2016,Male,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.3
-2008,,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.6
-2009,,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.8
-2010,,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,4.5
-2011,,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.4
-2012,,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,2.7
-2013,,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.3
-2014,,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.9
-2015,,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,4.2
-2016,,Northern Ireland,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.5
-2008,Female,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.6
-2009,Female,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.3
-2010,Female,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.3
-2011,Female,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.4
-2012,Female,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.1
-2013,Female,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.4
-2014,Female,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.3
-2015,Female,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,1.8
-2016,Female,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.1
-2008,Male,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.0
-2009,Male,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.3
-2010,Male,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.8
-2011,Male,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.0
-2012,Male,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.0
-2013,Male,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.3
-2014,Male,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.5
-2015,Male,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.2
-2016,Male,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.3
-2008,,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.8
-2009,,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.8
-2010,,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.6
-2011,,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.7
-2012,,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.6
-2013,,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.3
-2014,,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.4
-2015,,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.0
-2016,,Scotland,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.2
-2008,Female,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.5
-2009,Female,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.9
-2010,Female,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.2
-2011,Female,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.2
-2012,Female,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.2
-2013,Female,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.4
-2014,Female,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,1.8
-2015,Female,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,1.8
-2016,Female,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,1.5
-2008,Male,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.4
-2009,Male,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.3
-2010,Male,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.2
-2011,Male,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.3
-2012,Male,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.3
-2013,Male,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.4
-2014,Male,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.5
-2015,Male,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.2
-2016,Male,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.3
-2008,,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.9
-2009,,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.1
-2010,,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.7
-2011,,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.8
-2012,,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.8
-2013,,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.4
-2014,,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.1
-2015,,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.5
-2016,,Wales,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,1.9
-2008,Female,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.8
-2009,Female,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.9
-2010,Female,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.7
-2011,Female,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.5
-2012,Female,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.4
-2013,Female,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.4
-2014,Female,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.4
-2015,Female,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.3
-2016,Female,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.5
-2008,Male,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.5
-2009,Male,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.4
-2010,Male,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.2
-2011,Male,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.3
-2012,Male,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.1
-2013,Male,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.9
-2014,Male,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.7
-2015,Male,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.0
-2016,Male,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.9
-2008,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.2
-2009,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.1
-2010,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.0
-2011,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.9
-2012,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.8
-2013,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.7
-2014,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.6
-2015,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.6
-2016,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.7
+Year,Sex,Country,Region,Local Authority,Health Board,Birth weight,Age,Mother's country of birth,Unit measure,Unit multiplier,Observation status,GeoCode,Value
+2000,,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.9
+2000,,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.9
+2000,Male,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,4.2
+2000,Female,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.5
+2000,Male,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,4.2
+2000,Female,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.5
+2000,,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.9
+2000,Male,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,4.2
+2000,Female,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.5
+2000,,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.5
+2000,Male,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,4.9
+2000,Female,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.9
+2000,,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,4.0
+2000,Male,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,4.5
+2000,Female,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.5
+2000,,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.8
+2000,Male,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,4.2
+2000,Female,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.4
+2001,,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.6
+2001,,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.6
+2001,Male,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,4.0
+2001,Female,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.3
+2001,Male,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.9
+2001,Female,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.2
+2001,,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.6
+2001,Male,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.9
+2001,Female,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.2
+2001,,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.5
+2001,Male,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.9
+2001,Female,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.0
+2001,,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.8
+2001,Male,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,4.0
+2001,Female,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.5
+2001,,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,4.5
+2001,Male,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,5.3
+2001,Female,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.6
+2002,,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.5
+2002,Male,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,4.0
+2002,Female,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.1
+2002,,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.6
+2002,Male,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,4.0
+2002,Female,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.1
+2002,,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.6
+2002,Male,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,4.0
+2002,Female,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.1
+2002,,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.2
+2002,Male,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.2
+2002,Female,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.1
+2002,,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.2
+2002,Male,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.7
+2002,Female,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.6
+2002,,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.4
+2002,Male,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.8
+2002,Female,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.0
+2003,,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.6
+2003,,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.6
+2003,Male,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.9
+2003,Female,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.4
+2003,Male,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.8
+2003,Female,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.4
+2003,,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.7
+2003,Male,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.9
+2003,Female,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.4
+2003,,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.1
+2003,Male,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.3
+2003,Female,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.8
+2003,,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.4
+2003,Male,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.8
+2003,Female,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.1
+2003,,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.9
+2003,Male,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,4.6
+2003,Female,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.2
+2004,,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.5
+2004,,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.4
+2004,Male,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.8
+2004,Female,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.1
+2004,Male,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.8
+2004,Female,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.1
+2004,,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.4
+2004,Male,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.8
+2004,Female,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.1
+2004,,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.1
+2004,Male,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.5
+2004,Female,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.6
+2004,,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.1
+2004,Male,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.6
+2004,Female,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.5
+2004,,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.6
+2004,Male,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.7
+2004,Female,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.5
+2005,,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.4
+2005,,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.5
+2005,Male,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.9
+2005,Female,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.1
+2005,Male,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.8
+2005,Female,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.0
+2005,,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.5
+2005,Male,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.8
+2005,Female,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.1
+2005,,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.9
+2005,Male,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.4
+2005,Female,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.3
+2005,,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.5
+2005,Male,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.8
+2005,Female,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.2
+2005,,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,4.9
+2005,Male,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,5.7
+2005,Female,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,4.2
+2006,,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.5
+2006,,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.5
+2006,Male,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.8
+2006,Female,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.1
+2006,Male,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.8
+2006,Female,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.2
+2006,,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.5
+2006,Male,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.8
+2006,Female,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.2
+2006,,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.7
+2006,Male,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.1
+2006,Female,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.3
+2006,,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.1
+2006,Male,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.4
+2006,Female,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.8
+2006,,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.8
+2006,Male,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,4.6
+2006,Female,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,2.9
+2007,,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.3
+2007,,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.3
+2007,Male,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.6
+2007,Female,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.9
+2007,Male,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.6
+2007,Female,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.9
+2007,,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.2
+2007,Male,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.5
+2007,Female,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.0
+2007,,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.3
+2007,Male,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,4.1
+2007,Female,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.4
+2007,,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.3
+2007,Male,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.5
+2007,Female,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.0
+2007,,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.2
+2007,Male,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.4
+2007,Female,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.0
+2008,,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.2
+2008,Male,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.5
+2008,Female,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.8
+2008,,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.2
+2008,Male,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.5
+2008,Female,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.8
+2008,,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.2
+2008,Male,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.5
+2008,Female,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.8
+2008,,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.9
+2008,Male,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.4
+2008,Female,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.5
+2008,,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.8
+2008,Male,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.0
+2008,Female,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.6
+2008,,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.6
+2008,Male,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.7
+2008,Female,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.5
+2008,,England,North East,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000001,3.1
+2008,,England,North West,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000002,3.4
+2008,,England,Yorkshire and The Humber,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000003,3.4
+2008,,England,East Midlands,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000004,3.6
+2008,,England,West Midlands,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000005,4.4
+2008,,England,East of England,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000006,2.9
+2008,,England,London,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000007,2.8
+2008,,England,South East,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000008,2.6
+2008,,England,South West,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000009,2.7
+2008,,England and Wales,,,,Under 2500,,,"Rate per 1,000 live births",Units,Undefined,K04000001,30.8
+2008,,England and Wales,,,,Under 1500,,,"Rate per 1,000 live births",Units,Undefined,K04000001,151.4
+2008,,England and Wales,,,,Under 1000,,,"Rate per 1,000 live births",Units,Undefined,K04000001,279.5
+2008,,England and Wales,,,,1000 to 1499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,45.2
+2008,,England and Wales,,,,1500 to 1999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,12.9
+2008,,England and Wales,,,,2000 to 2499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,4.3
+2008,,England and Wales,,,,2500 to 2999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,1.5
+2008,,England and Wales,,,,3000 to 3499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.8
+2008,,England and Wales,,,,3500 to 3999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.5
+2008,,England and Wales,,,,4000 and over,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.7
+2008,,England and Wales,,,,Not stated,,,"Rate per 1,000 live births",Units,Undefined,K04000001,24.2
+2008,,England and Wales,,,,,19 and under,,"Rate per 1,000 live births",Units,Undefined,K04000001,4.0
+2008,,England and Wales,,,,,20 to 24,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.4
+2008,,England and Wales,,,,,25 to 29,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.1
+2008,,England and Wales,,,,,30 to 34,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.8
+2008,,England and Wales,,,,,35 to 39,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.9
+2008,,England and Wales,,,,,40 and over,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.6
+2009,,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.1
+2009,Male,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.4
+2009,Female,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.9
+2009,Male,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.4
+2009,Female,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.9
+2009,,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.1
+2009,Male,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.3
+2009,Female,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.9
+2009,,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.1
+2009,Male,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.3
+2009,Female,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.9
+2009,,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.8
+2009,Male,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.3
+2009,Female,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.3
+2009,,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.8
+2009,Male,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,4.0
+2009,Female,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.5
+2009,,England,North East,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000001,2.9
+2009,,England,North West,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000002,3.2
+2009,,England,Yorkshire and The Humber,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000003,3.4
+2009,,England,East Midlands,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000004,3.3
+2009,,England,West Midlands,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000005,4.4
+2009,,England,East of England,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000006,3.0
+2009,,England,London,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000007,3.0
+2009,,England,South East,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000008,2.5
+2009,,England,South West,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000009,2.4
+2009,,Wales,,,Betsi Cadwaladr University,,,,"Rate per 1,000 live births",Units,Undefined,W11000023,4.0
+2009,,Wales,,,Hywel Dda University,,,,"Rate per 1,000 live births",Units,Undefined,W11000025,2.6
+2009,,Wales,,,Abertawe Bro Morgannwg University,,,,"Rate per 1,000 live births",Units,Undefined,W11000026,2.6
+2009,,Wales,,,Cwm Taf University,,,,"Rate per 1,000 live births",Units,Undefined,W11000027,3.3
+2009,,Wales,,,Aneurin Bevan University,,,,"Rate per 1,000 live births",Units,Undefined,W11000028,2.7
+2009,,Wales,,,Cardiff and Vale University,,,,"Rate per 1,000 live births",Units,Undefined,W11000029,3.1
+2009,,Wales,,,Powys Teaching,,,,"Rate per 1,000 live births",Units,Undefined,W11000024,2.4
+2009,,England and Wales,,,,Under 2500,,,"Rate per 1,000 live births",Units,Undefined,K04000001,29.3
+2009,,England and Wales,,,,Under 1500,,,"Rate per 1,000 live births",Units,Undefined,K04000001,141.5
+2009,,England and Wales,,,,Under 1000,,,"Rate per 1,000 live births",Units,Undefined,K04000001,274.3
+2009,,England and Wales,,,,1000 to 1499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,38.3
+2009,,England and Wales,,,,1500 to 1999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,14.0
+2009,,England and Wales,,,,2000 to 2499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,4.7
+2009,,England and Wales,,,,2500 to 2999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,1.7
+2009,,England and Wales,,,,3000 to 3499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.6
+2009,,England and Wales,,,,3500 to 3999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.5
+2009,,England and Wales,,,,4000 and over,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.6
+2009,,England and Wales,,,,Not stated,,,"Rate per 1,000 live births",Units,Undefined,K04000001,37.6
+2009,,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.1
+2009,,England and Wales,,,,,19 and under,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.6
+2009,,England and Wales,,,,,20 to 24,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.3
+2009,,England and Wales,,,,,25 to 29,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.0
+2009,,England and Wales,,,,,30 to 34,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.8
+2009,,England and Wales,,,,,35 to 39,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.0
+2009,,England and Wales,,,,,40 and over,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.9
+2010,,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.0
+2010,Male,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.2
+2010,Female,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.7
+2010,Male,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.2
+2010,Female,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.7
+2010,,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.9
+2010,Male,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.2
+2010,Female,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.7
+2010,,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.7
+2010,Male,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.2
+2010,Female,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.2
+2010,,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.6
+2010,Male,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.8
+2010,Female,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.3
+2010,,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,4.5
+2010,Male,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,4.6
+2010,Female,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,4.4
+2010,,England,North East,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000001,2.8
+2010,,England,North West,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000002,3.1
+2010,,England,Yorkshire and The Humber,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000003,3.6
+2010,,England,East Midlands,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000004,2.8
+2010,,England,West Midlands,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000005,3.6
+2010,,England,East of England,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000006,2.5
+2010,,England,London,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000007,3.2
+2010,,England,South East,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000008,2.4
+2010,,England,South West,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000009,2.2
+2010,,Wales,,,Betsi Cadwaladr University,,,,"Rate per 1,000 live births",Units,Undefined,W11000023,3.5
+2010,,Wales,,,Hywel Dda University,,,,"Rate per 1,000 live births",Units,Undefined,W11000025,3.0
+2010,,Wales,,,Abertawe Bro Morgannwg University,,,,"Rate per 1,000 live births",Units,Undefined,W11000026,3.7
+2010,,Wales,,,Cwm Taf University,,,,"Rate per 1,000 live births",Units,Undefined,W11000027,1.6
+2010,,Wales,,,Aneurin Bevan University,,,,"Rate per 1,000 live births",Units,Undefined,W11000028,1.3
+2010,,Wales,,,Cardiff and Vale University,,,,"Rate per 1,000 live births",Units,Undefined,W11000029,4.1
+2010,,Wales,,,Powys Teaching,,,,"Rate per 1,000 live births",Units,Undefined,W11000024,2.5
+2010,,England and Wales,,,,Under 2500,,,"Rate per 1,000 live births",Units,Undefined,K04000001,28.6
+2010,,England and Wales,,,,Under 1500,,,"Rate per 1,000 live births",Units,Undefined,K04000001,137.4
+2010,,England and Wales,,,,Under 1000,,,"Rate per 1,000 live births",Units,Undefined,K04000001,256.3
+2010,,England and Wales,,,,1000 to 1499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,33.1
+2010,,England and Wales,,,,1500 to 1999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,11.6
+2010,,England and Wales,,,,2000 to 2499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,4.3
+2010,,England and Wales,,,,2500 to 2999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,1.5
+2010,,England and Wales,,,,3000 to 3499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.6
+2010,,England and Wales,,,,3500 to 3999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.4
+2010,,England and Wales,,,,4000 and over,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.5
+2010,,England and Wales,,,,Not stated,,,"Rate per 1,000 live births",Units,Undefined,K04000001,24.8
+2010,,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.9
+2010,,England and Wales,,,,,19 and under,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.3
+2010,,England and Wales,,,,,20 to 24,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.0
+2010,,England and Wales,,,,,25 to 29,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.7
+2010,,England and Wales,,,,,30 to 34,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.8
+2010,,England and Wales,,,,,35 to 39,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.9
+2010,,England and Wales,,,,,40 and over,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.8
+2010,,England and Wales,,,,,,United Kingdom‚ Isle of Man and Channel Islands,"Rate per 1,000 live births",Units,Undefined,K04000001,2.8
+2010,,England and Wales,,,,,,Total outside the United Kingdom,"Rate per 1,000 live births",Units,Undefined,K04000001,3.2
+2010,,England and Wales,,,,,,EU,"Rate per 1,000 live births",Units,Undefined,K04000001,2.7
+2010,,England and Wales,,,,,,Rest of Europe (non EU),"Rate per 1,000 live births",Units,Undefined,K04000001,2.1
+2010,,England and Wales,,,,,,Africa,"Rate per 1,000 live births",Units,Undefined,K04000001,4.2
+2010,,England and Wales,,,,,,The Americas and the Caribbean,"Rate per 1,000 live births",Units,Undefined,K04000001,3.0
+2010,,England and Wales,,,,,,Middle East and Asia,"Rate per 1,000 live births",Units,Undefined,K04000001,3.4
+2010,,England and Wales,,,,,,Antarctica and Oceania,"Rate per 1,000 live births",Units,Undefined,K04000001,1.5
+2011,,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.9
+2011,Male,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.3
+2011,Female,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.5
+2011,Male,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.3
+2011,Female,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.5
+2011,,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.9
+2011,Male,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.3
+2011,Female,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.5
+2011,,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.8
+2011,Male,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.3
+2011,Female,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.2
+2011,,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.7
+2011,Male,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.0
+2011,Female,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.4
+2011,,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.4
+2011,Male,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.8
+2011,Female,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.1
+2011,,England,North East,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000001,2.4
+2011,,England,North West,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000002,3.0
+2011,,England,Yorkshire and The Humber,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000003,3.3
+2011,,England,East Midlands,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000004,3.1
+2011,,England,West Midlands,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000005,4.3
+2011,,England,East of England,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000006,2.7
+2011,,England,London,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000007,2.8
+2011,,England,South East,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000008,2.4
+2011,,England,South West,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000009,2.6
+2011,,Wales,,,Betsi Cadwaladr University,,,,"Rate per 1,000 live births",Units,Undefined,W11000023,3.2
+2011,,Wales,,,Hywel Dda University,,,,"Rate per 1,000 live births",Units,Undefined,W11000025,0.8
+2011,,Wales,,,Abertawe Bro Morgannwg University,,,,"Rate per 1,000 live births",Units,Undefined,W11000026,3.0
+2011,,Wales,,,Cwm Taf University,,,,"Rate per 1,000 live births",Units,Undefined,W11000027,2.4
+2011,,Wales,,,Aneurin Bevan University,,,,"Rate per 1,000 live births",Units,Undefined,W11000028,2.9
+2011,,Wales,,,Cardiff and Vale University,,,,"Rate per 1,000 live births",Units,Undefined,W11000029,3.5
+2011,,England and Wales,,,,Under 2500,,,"Rate per 1,000 live births",Units,Undefined,K04000001,28.9
+2011,,England and Wales,,,,Under 1500,,,"Rate per 1,000 live births",Units,Undefined,K04000001,145.4
+2011,,England and Wales,,,,Under 1000,,,"Rate per 1,000 live births",Units,Undefined,K04000001,274.6
+2011,,England and Wales,,,,1000 to 1499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,37.7
+2011,,England and Wales,,,,1500 to 1999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,12.4
+2011,,England and Wales,,,,2000 to 2499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.7
+2011,,England and Wales,,,,2500 to 2999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,1.3
+2011,,England and Wales,,,,3000 to 3499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.7
+2011,,England and Wales,,,,3500 to 3999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.4
+2011,,England and Wales,,,,4000 and over,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.5
+2011,,England and Wales,,,,Not stated,,,"Rate per 1,000 live births",Units,Undefined,K04000001,25.7
+2011,,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.9
+2011,,England and Wales,,,,,19 and under,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.3
+2011,,England and Wales,,,,,20 to 24,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.2
+2011,,England and Wales,,,,,25 to 29,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.7
+2011,,England and Wales,,,,,30 to 34,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.7
+2011,,England and Wales,,,,,35 to 39,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.8
+2011,,England and Wales,,,,,40 and over,,"Rate per 1,000 live births",Units,Undefined,K04000001,4.2
+2011,,England and Wales,,,,,,United Kingdom‚ Isle of Man and Channel Islands,"Rate per 1,000 live births",Units,Undefined,K04000001,2.8
+2011,,England and Wales,,,,,,Total outside the United Kingdom,"Rate per 1,000 live births",Units,Undefined,K04000001,3.1
+2011,,England and Wales,,,,,,EU,"Rate per 1,000 live births",Units,Undefined,K04000001,2.4
+2011,,England and Wales,,,,,,Rest of Europe (non EU),"Rate per 1,000 live births",Units,Undefined,K04000001,1.9
+2011,,England and Wales,,,,,,Africa,"Rate per 1,000 live births",Units,Undefined,K04000001,4.0
+2011,,England and Wales,,,,,,The Americas and the Caribbean,"Rate per 1,000 live births",Units,Undefined,K04000001,3.2
+2011,,England and Wales,,,,,,Middle East and Asia,"Rate per 1,000 live births",Units,Undefined,K04000001,3.2
+2011,,England and Wales,,,,,,Antarctica and Oceania,"Rate per 1,000 live births",Units,Undefined,K04000001,1.9
+2012,,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.8
+2012,Male,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.1
+2012,Female,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.4
+2012,,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.8
+2012,Male,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.1
+2012,Female,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.5
+2012,,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.8
+2012,Male,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.1
+2012,Female,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.5
+2012,,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.8
+2012,Male,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.3
+2012,Female,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.2
+2012,,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.6
+2012,Male,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,3.0
+2012,Female,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.1
+2012,,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,2.7
+2012,Male,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.0
+2012,Female,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,2.5
+2012,,England,North East,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000001,2.4
+2012,,England,North West,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000002,2.8
+2012,,England,Yorkshire and The Humber,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000003,2.6
+2012,,England,East Midlands,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000004,3.1
+2012,,England,West Midlands,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000005,3.9
+2012,,England,East of England,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000006,2.8
+2012,,England,London,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000007,2.6
+2012,,England,South East,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000008,2.3
+2012,,England,South West,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000009,2.6
+2012,,Wales,,,Betsi Cadwaladr University,,,,"Rate per 1,000 live births",Units,Undefined,W11000023,3.5
+2012,,Wales,,,Hywel Dda University,,,,"Rate per 1,000 live births",Units,Undefined,W11000025,2.5
+2012,,Wales,,,Abertawe Bro Morgannwg University,,,,"Rate per 1,000 live births",Units,Undefined,W11000026,2.7
+2012,,Wales,,,Cwm Taf University,,,,"Rate per 1,000 live births",Units,Undefined,W11000027,3.1
+2012,,Wales,,,Aneurin Bevan University,,,,"Rate per 1,000 live births",Units,Undefined,W11000028,2.7
+2012,,Wales,,,Cardiff and Vale University,,,,"Rate per 1,000 live births",Units,Undefined,W11000029,2.0
+2012,,Wales,,,Powys Teaching,,,,"Rate per 1,000 live births",Units,Undefined,W11000024,2.5
+2012,,England and Wales,,,,Under 2500,,,"Rate per 1,000 live births",Units,Undefined,K04000001,27.5
+2012,,England and Wales,,,,Under 1500,,,"Rate per 1,000 live births",Units,Undefined,K04000001,144.7
+2012,,England and Wales,,,,Under 1000,,,"Rate per 1,000 live births",Units,Undefined,K04000001,275.1
+2012,,England and Wales,,,,1000 to 1499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,39.5
+2012,,England and Wales,,,,1500 to 1999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,11.0
+2012,,England and Wales,,,,2000 to 2499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.9
+2012,,England and Wales,,,,2500 to 2999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,1.4
+2012,,England and Wales,,,,3000 to 3499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.6
+2012,,England and Wales,,,,3500 to 3999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.3
+2012,,England and Wales,,,,4000 and over,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.5
+2012,,England and Wales,,,,Not stated,,,"Rate per 1,000 live births",Units,Undefined,K04000001,29.1
+2012,,England and Wales,,,,,19 and under,,"Rate per 1,000 live births",Units,Undefined,K04000001,4.0
+2012,,England and Wales,,,,,20 to 24,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.8
+2012,,England and Wales,,,,,25 to 29,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.7
+2012,,England and Wales,,,,,30 to 34,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.4
+2012,,England and Wales,,,,,35 to 39,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.8
+2012,,England and Wales,,,,,40 and over,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.6
+2012,,England and Wales,,,,,,United Kingdom‚ Isle of Man and Channel Islands,"Rate per 1,000 live births",Units,Undefined,K04000001,2.7
+2012,,England and Wales,,,,,,Total outside the United Kingdom,"Rate per 1,000 live births",Units,Undefined,K04000001,3.0
+2012,,England and Wales,,,,,,EU,"Rate per 1,000 live births",Units,Undefined,K04000001,2.5
+2012,,England and Wales,,,,,,Rest of Europe (non EU),"Rate per 1,000 live births",Units,Undefined,K04000001,1.1
+2012,,England and Wales,,,,,,Africa,"Rate per 1,000 live births",Units,Undefined,K04000001,3.4
+2012,,England and Wales,,,,,,The Americas and the Caribbean,"Rate per 1,000 live births",Units,Undefined,K04000001,3.7
+2012,,England and Wales,,,,,,Middle East and Asia,"Rate per 1,000 live births",Units,Undefined,K04000001,3.2
+2012,,England and Wales,,,,,,Antarctica and Oceania,"Rate per 1,000 live births",Units,Undefined,K04000001,2.6
+2013,,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.7
+2013,Male,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.9
+2013,Female,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.4
+2013,,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.7
+2013,Male,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.0
+2013,Female,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.4
+2013,,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.7
+2013,Male,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.0
+2013,Female,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.4
+2013,,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.4
+2013,Male,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.4
+2013,Female,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.4
+2013,,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.3
+2013,Male,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.3
+2013,Female,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.4
+2013,,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.3
+2013,Male,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.8
+2013,Female,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,2.9
+2013,,England,North East,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000001,2.1
+2013,,England,North West,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000002,2.8
+2013,,England,Yorkshire and The Humber,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000003,2.9
+2013,,England,East Midlands,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000004,2.7
+2013,,England,West Midlands,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000005,3.7
+2013,,England,East of England,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000006,2.2
+2013,,England,London,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000007,2.6
+2013,,England,South East,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000008,2.4
+2013,,England,South West,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000009,2.5
+2013,,Wales,,,Betsi Cadwaladr University,,,,"Rate per 1,000 live births",Units,Undefined,W11000023,1.9
+2013,,Wales,,,Hywel Dda University,,,,"Rate per 1,000 live births",Units,Undefined,W11000025,2.8
+2013,,Wales,,,Abertawe Bro Morgannwg University,,,,"Rate per 1,000 live births",Units,Undefined,W11000026,2.0
+2013,,Wales,,,Cwm Taf University,,,,"Rate per 1,000 live births",Units,Undefined,W11000027,2.3
+2013,,Wales,,,Aneurin Bevan University,,,,"Rate per 1,000 live births",Units,Undefined,W11000028,2.1
+2013,,Wales,,,Cardiff and Vale University,,,,"Rate per 1,000 live births",Units,Undefined,W11000029,3.2
+2013,,Wales,,,Powys Teaching,,,,"Rate per 1,000 live births",Units,Undefined,W11000024,4.1
+2013,,England and Wales,,,,Under 2500,,,"Rate per 1,000 live births",Units,Undefined,K04000001,25.6
+2013,,England and Wales,,,,Under 1500,,,"Rate per 1,000 live births",Units,Undefined,K04000001,140.7
+2013,,England and Wales,,,,Under 1000,,,"Rate per 1,000 live births",Units,Undefined,K04000001,270.3
+2013,,England and Wales,,,,1000 to 1499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,31.7
+2013,,England and Wales,,,,1500 to 1999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,10.7
+2013,,England and Wales,,,,2000 to 2499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.9
+2013,,England and Wales,,,,2500 to 2999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,1.3
+2013,,England and Wales,,,,3000 to 3499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.6
+2013,,England and Wales,,,,3500 to 3999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.4
+2013,,England and Wales,,,,4000 and over,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.4
+2013,,England and Wales,,,,Not stated,,,"Rate per 1,000 live births",Units,Undefined,K04000001,26.9
+2013,,England and Wales,,,,,19 and under,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.7
+2013,,England and Wales,,,,,20 to 24,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.6
+2013,,England and Wales,,,,,25 to 29,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.4
+2013,,England and Wales,,,,,30 to 34,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.6
+2013,,England and Wales,,,,,35 to 39,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.6
+2013,,England and Wales,,,,,40 and over,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.8
+2013,,England and Wales,,,,,,United Kingdom‚ Isle of Man and Channel Islands,"Rate per 1,000 live births",Units,Undefined,K04000001,2.5
+2013,,England and Wales,,,,,,Total outside the United Kingdom,"Rate per 1,000 live births",Units,Undefined,K04000001,3.0
+2013,,England and Wales,,,,,,EU,"Rate per 1,000 live births",Units,Undefined,K04000001,2.2
+2013,,England and Wales,,,,,,Rest of Europe (non EU),"Rate per 1,000 live births",Units,Undefined,K04000001,2.4
+2013,,England and Wales,,,,,,Africa,"Rate per 1,000 live births",Units,Undefined,K04000001,4.0
+2013,,England and Wales,,,,,,The Americas and the Caribbean,"Rate per 1,000 live births",Units,Undefined,K04000001,3.5
+2013,,England and Wales,,,,,,Middle East and Asia,"Rate per 1,000 live births",Units,Undefined,K04000001,3.2
+2013,,England and Wales,,,,,,Antarctica and Oceania,"Rate per 1,000 live births",Units,Undefined,K04000001,1.9
+2014,,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.6
+2014,Male,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.7
+2014,Female,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.4
+2014,Male,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.7
+2014,Female,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.4
+2014,,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.5
+2014,Male,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.7
+2014,Female,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.4
+2014,,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.1
+2014,Male,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.5
+2014,Female,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,1.8
+2014,,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.4
+2014,Male,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.5
+2014,Female,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.3
+2014,,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.9
+2014,Male,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,5.1
+2014,Female,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,2.7
+2014,,England,North East,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000001,2.6
+2014,,England,North West,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000002,2.7
+2014,,England,Yorkshire and The Humber,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000003,2.6
+2014,,England,East Midlands,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000004,3.0
+2014,,England,West Midlands,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000005,3.9
+2014,,England,East of England,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000006,2.5
+2014,,England,London,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000007,2.0
+2014,,England,South East,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000008,2.2
+2014,,England,South West,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000009,2.0
+2014,,Wales,,,Betsi Cadwaladr University,,,,"Rate per 1,000 live births",Units,Undefined,W11000023,2.3
+2014,,Wales,,,Hywel Dda University,,,,"Rate per 1,000 live births",Units,Undefined,W11000025,2.5
+2014,,Wales,,,Abertawe Bro Morgannwg University,,,,"Rate per 1,000 live births",Units,Undefined,W11000026,2.0
+2014,,Wales,,,Cwm Taf University,,,,"Rate per 1,000 live births",Units,Undefined,W11000027,2.3
+2014,,Wales,,,Aneurin Bevan University,,,,"Rate per 1,000 live births",Units,Undefined,W11000028,1.7
+2014,,Wales,,,Cardiff and Vale University,,,,"Rate per 1,000 live births",Units,Undefined,W11000029,2.6
+2014,,England and Wales,,,,Under 2500,,,"Rate per 1,000 live births",Units,Undefined,K04000001,24.4
+2014,,England and Wales,,,,Under 1500,,,"Rate per 1,000 live births",Units,Undefined,K04000001,131.9
+2014,,England and Wales,,,,Under 1000,,,"Rate per 1,000 live births",Units,Undefined,K04000001,254.0
+2014,,England and Wales,,,,1000 to 1499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,29.8
+2014,,England and Wales,,,,1500 to 1999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,11.4
+2014,,England and Wales,,,,2000 to 2499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.6
+2014,,England and Wales,,,,2500 to 2999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,1.1
+2014,,England and Wales,,,,3000 to 3499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.6
+2014,,England and Wales,,,,3500 to 3999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.4
+2014,,England and Wales,,,,4000 and over,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.4
+2014,,England and Wales,,,,Not stated,,,"Rate per 1,000 live births",Units,Undefined,K04000001,18.7
+2014,,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.5
+2014,,England and Wales,,,,,19 and under,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.4
+2014,,England and Wales,,,,,20 to 24,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.6
+2014,,England and Wales,,,,,25 to 29,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.2
+2014,,England and Wales,,,,,30 to 34,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.3
+2014,,England and Wales,,,,,35 to 39,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.0
+2014,,England and Wales,,,,,40 and over,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.8
+2014,,England and Wales,,,,,,United Kingdom‚ Isle of Man and Channel Islands,"Rate per 1,000 live births",Units,Undefined,K04000001,2.5
+2014,,England and Wales,,,,,,Total outside the United Kingdom,"Rate per 1,000 live births",Units,Undefined,K04000001,2.7
+2014,,England and Wales,,,,,,EU,"Rate per 1,000 live births",Units,Undefined,K04000001,2.1
+2014,,England and Wales,,,,,,Rest of Europe (non EU),"Rate per 1,000 live births",Units,Undefined,K04000001,1.9
+2014,,England and Wales,,,,,,Africa,"Rate per 1,000 live births",Units,Undefined,K04000001,3.9
+2014,,England and Wales,,,,,,The Americas and the Caribbean,"Rate per 1,000 live births",Units,Undefined,K04000001,1.9
+2014,,England and Wales,,,,,,Middle East and Asia,"Rate per 1,000 live births",Units,Undefined,K04000001,2.9
+2014,,England and Wales,,,,,,Antarctica and Oceania,"Rate per 1,000 live births",Units,Undefined,K04000001,2.0
+2015,,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.6
+2015,Male,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.0
+2015,Female,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.3
+2015,,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.6
+2015,Male,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.0
+2015,Female,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.3
+2015,,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.6
+2015,Male,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.0
+2015,Female,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.3
+2015,,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.5
+2015,Male,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,3.2
+2015,Female,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,1.8
+2015,,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.0
+2015,Male,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.2
+2015,Female,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,1.8
+2015,,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,4.2
+2015,Male,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,4.6
+2015,Female,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.7
+2015,,England,North East,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000001,2.0
+2015,,England,North West,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000002,2.6
+2015,,England,Yorkshire and The Humber,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000003,2.6
+2015,,England,East Midlands,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000004,3.1
+2015,,England,West Midlands,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000005,4.6
+2015,,England,East of England,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000006,2.2
+2015,,England,London,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000007,2.2
+2015,,England,South East,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000008,2.2
+2015,,England,South West,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000009,2.6
+2015,,Wales,,,Betsi Cadwaladr University,,,,"Rate per 1,000 live births",Units,Undefined,W11000023,2.7
+2015,,Wales,,,Hywel Dda University,,,,"Rate per 1,000 live births",Units,Undefined,W11000025,1.1
+2015,,Wales,,,Abertawe Bro Morgannwg University,,,,"Rate per 1,000 live births",Units,Undefined,W11000026,2.2
+2015,,Wales,,,Cwm Taf University,,,,"Rate per 1,000 live births",Units,Undefined,W11000027,3.8
+2015,,Wales,,,Aneurin Bevan University,,,,"Rate per 1,000 live births",Units,Undefined,W11000028,3.2
+2015,,Wales,,,Cardiff and Vale University,,,,"Rate per 1,000 live births",Units,Undefined,W11000029,2.4
+2015,,England and Wales,,,,Under 2500,,,"Rate per 1,000 live births",Units,Undefined,K04000001,25.0
+2015,,England and Wales,,,,Under 1500,,,"Rate per 1,000 live births",Units,Undefined,K04000001,136.0
+2015,,England and Wales,,,,Under 1000,,,"Rate per 1,000 live births",Units,Undefined,K04000001,273.0
+2015,,England and Wales,,,,1000 to 1499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,29.3
+2015,,England and Wales,,,,1500 to 1999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,11.9
+2015,,England and Wales,,,,2000 to 2499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.6
+2015,,England and Wales,,,,2500 to 2999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,1.1
+2015,,England and Wales,,,,3000 to 3499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.6
+2015,,England and Wales,,,,3500 to 3999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.3
+2015,,England and Wales,,,,4000 and over,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.4
+2015,,England and Wales,,,,Not stated,,,"Rate per 1,000 live births",Units,Undefined,K04000001,21.6
+2015,,England and Wales,,,,,19 and under,,"Rate per 1,000 live births",Units,Undefined,K04000001,4.2
+2015,,England and Wales,,,,,20 to 24,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.8
+2015,,England and Wales,,,,,25 to 29,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.4
+2015,,England and Wales,,,,,30 to 34,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.3
+2015,,England and Wales,,,,,35 to 39,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.9
+2015,,England and Wales,,,,,40 and over,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.2
+2015,,England and Wales,,,,,,United Kingdom‚ Isle of Man and Channel Islands,"Rate per 1,000 live births",Units,Undefined,K04000001,2.6
+2015,,England and Wales,,,,,,Total outside the United Kingdom,"Rate per 1,000 live births",Units,Undefined,K04000001,2.7
+2015,,England and Wales,,,,,,EU,"Rate per 1,000 live births",Units,Undefined,K04000001,1.9
+2015,,England and Wales,,,,,,Rest of Europe (non EU),"Rate per 1,000 live births",Units,Undefined,K04000001,1.5
+2015,,England and Wales,,,,,,Africa,"Rate per 1,000 live births",Units,Undefined,K04000001,3.7
+2015,,England and Wales,,,,,,The Americas and the Caribbean,"Rate per 1,000 live births",Units,Undefined,K04000001,2.3
+2015,,England and Wales,,,,,,Middle East and Asia,"Rate per 1,000 live births",Units,Undefined,K04000001,3.2
+2015,,England and Wales,,,,,,Antarctica and Oceania,"Rate per 1,000 live births",Units,Undefined,K04000001,2.4
+2016,,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.7
+2016,Male,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.9
+2016,Female,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.5
+2016,,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.7
+2016,Male,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.9
+2016,Female,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.5
+2016,,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.8
+2016,Male,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.9
+2016,Female,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.6
+2016,,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,1.9
+2016,Male,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.3
+2016,Female,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,1.5
+2016,,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.2
+2016,Male,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.3
+2016,Female,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.1
+2016,,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.5
+2016,Male,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.3
+2016,Female,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,3.8
+2016,,England,North East,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000001,2.3
+2016,,England,North West,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000002,3.4
+2016,,England,Yorkshire and The Humber,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000003,2.4
+2016,,England,East Midlands,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000004,3.0
+2016,,England,West Midlands,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000005,4.5
+2016,,England,East of England,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000006,2.2
+2016,,England,London,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000007,2.2
+2016,,England,South East,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000008,2.6
+2016,,England,South West,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000009,2.4
+2016,,Wales,,,Betsi Cadwaladr University,,,,"Rate per 1,000 live births",Units,Undefined,W11000023,3.6
+2016,,Wales,,,Hywel Dda University,,,,"Rate per 1,000 live births",Units,Undefined,W11000025,0.8
+2016,,Wales,,,Abertawe Bro Morgannwg University,,,,"Rate per 1,000 live births",Units,Undefined,W11000026,2.2
+2016,,Wales,,,Cwm Taf University,,,,"Rate per 1,000 live births",Units,Undefined,W11000027,1.4
+2016,,Wales,,,Aneurin Bevan University,,,,"Rate per 1,000 live births",Units,Undefined,W11000028,1.6
+2016,,Wales,,,Cardiff and Vale University,,,,"Rate per 1,000 live births",Units,Undefined,W11000029,1.2
+2016,,England and Wales,,,,Under 1000,,,"Rate per 1,000 live births",Units,Undefined,K04000001,308.3
+2016,,England and Wales,,,,1000 to 1499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,26.6
+2016,,England and Wales,,,,1500 to 1999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,12.6
+2016,,England and Wales,,,,2000 to 2499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.8
+2016,,England and Wales,,,,2500 to 2999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,1.1
+2016,,England and Wales,,,,3000 to 3499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.4
+2016,,England and Wales,,,,3500 to 3999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.3
+2016,,England and Wales,,,,4000 and over,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.4
+2016,,England and Wales,,,,Not stated,,,"Rate per 1,000 live births",Units,Undefined,K04000001,24.0
+2016,,England and Wales,,,,,19 and under,,"Rate per 1,000 live births",Units,Undefined,K04000001,4.3
+2016,,England and Wales,,,,,20 to 24,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.8
+2016,,England and Wales,,,,,25 to 29,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.5
+2016,,England and Wales,,,,,30 to 34,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.5
+2016,,England and Wales,,,,,35 to 39,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.6
+2016,,England and Wales,,,,,40 and over,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.9
+2016,,England and Wales,,,,,,United Kingdom‚ Isle of Man and Channel Islands,"Rate per 1,000 live births",Units,Undefined,K04000001,2.6
+2016,,England and Wales,,,,,,Total outside the United Kingdom,"Rate per 1,000 live births",Units,Undefined,K04000001,3.0
+2016,,England and Wales,,,,,,EU,"Rate per 1,000 live births",Units,Undefined,K04000001,2.2
+2016,,England and Wales,,,,,,Rest of Europe (non EU),"Rate per 1,000 live births",Units,Undefined,K04000001,2.2
+2016,,England and Wales,,,,,,Africa,"Rate per 1,000 live births",Units,Undefined,K04000001,4.2
+2016,,England and Wales,,,,,,The Americas and the Caribbean,"Rate per 1,000 live births",Units,Undefined,K04000001,3.0
+2016,,England and Wales,,,,,,Middle East and Asia,"Rate per 1,000 live births",Units,Undefined,K04000001,3.5
+2016,,England and Wales,,,,,,Antarctica and Oceania,"Rate per 1,000 live births",Units,Undefined,K04000001,2.5
+2016,,,,County Durham,,,,,,,,E06000047,3.6
+2016,,,,Darlington,,,,,,,,E06000005,3.5
+2016,,,,Hartlepool,,,,,,,,E06000001,
+2016,,,,Middlesbrough,,,,,,,,E06000002,
+2016,,,,Northumberland,,,,,,,,E06000057,1.8
+2016,,,,Redcar and Cleveland,,,,,,,,E06000003,3.5
+2016,,,,Stockton-on-Tees,,,,,,,,E06000004,1.7
+2016,,,,Gateshead,,,,,,,,E08000037,3.9
+2016,,,,Newcastle upon Tyne,,,,,,,,E08000021,1.5
+2016,,,,North Tyneside,,,,,,,,E08000022,1.8
+2016,,,,South Tyneside,,,,,,,,E08000023,3.6
+2016,,,,Sunderland,,,,,,,,E08000024,
+2016,,,,Blackburn with Darwen,,,,,,,,E06000008,1.9
+2016,,,,Blackpool,,,,,,,,E06000009,4.7
+2016,,,,Cheshire East,,,,,,,,E06000049,2.1
+2016,,,,Cheshire West and Chester,,,,,,,,E06000050,1.7
+2016,,,,Halton,,,,,,,,E06000006,2.0
+2016,,,,Warrington,,,,,,,,E06000007,4.4
+2016,,,,Allerdale,,,,,,,,E07000026,4.4
+2016,,,,Barrow-in-Furness,,,,,,,,E07000027,
+2016,,,,Carlisle,,,,,,,,E07000028,3.4
+2016,,,,Copeland,,,,,,,,E07000029,
+2016,,,,Eden,,,,,,,,E07000030,
+2016,,,,South Lakeland,,,,,,,,E07000031,
+2016,,,,Bolton,,,,,,,,E08000001,2.4
+2016,,,,Bury,,,,,,,,E08000002,5.1
+2016,,,,Manchester,,,,,,,,E08000003,6.4
+2016,,,,Oldham,,,,,,,,E08000004,5.4
+2016,,,,Rochdale,,,,,,,,E08000005,1.6
+2016,,,,Salford,,,,,,,,E08000006,3.5
+2016,,,,Stockport,,,,,,,,E08000007,3.8
+2016,,,,Tameside,,,,,,,,E08000008,3.8
+2016,,,,Trafford,,,,,,,,E08000009,2.8
+2016,,,,Wigan,,,,,,,,E08000010,2.0
+2016,,,,Burnley,,,,,,,,E07000117,3.3
+2016,,,,Chorley,,,,,,,,E07000118,
+2016,,,,Fylde,,,,,,,,E07000119,
+2016,,,,Hyndburn,,,,,,,,E07000120,5.7
+2016,,,,Lancaster,,,,,,,,E07000121,
+2016,,,,Pendle,,,,,,,,E07000122,3.3
+2016,,,,Preston,,,,,,,,E07000123,1.6
+2016,,,,Ribble Valley,,,,,,,,E07000124,
+2016,,,,Rossendale,,,,,,,,E07000125,3.7
+2016,,,,South Ribble,,,,,,,,E07000126,3.2
+2016,,,,West Lancashire,,,,,,,,E07000127,3.0
+2016,,,,Wyre,,,,,,,,E07000128,4.2
+2016,,,,Knowsley,,,,,,,,E08000011,1.6
+2016,,,,Liverpool,,,,,,,,E08000012,5.0
+2016,,,,Sefton,,,,,,,,E08000014,2.5
+2016,,,,St. Helens,,,,,,,,E08000013,
+2016,,,,Wirral,,,,,,,,E08000015,4.1
+2016,,,,East Riding of Yorkshire,,,,,,,,E06000011,2.1
+2016,,,,Kingston upon Hull‚ City of,,,,,,,,,1.7
+2016,,,,North East Lincolnshire,,,,,,,,E06000012,3.2
+2016,,,,North Lincolnshire,,,,,,,,E06000013,3.4
+2016,,,,York,,,,,,,,E06000014,
+2016,,,,Craven,,,,,,,,E07000163,
+2016,,,,Hambleton,,,,,,,,E07000164,
+2016,,,,Harrogate,,,,,,,,E07000165,2.0
+2016,,,,Richmondshire,,,,,,,,E07000166,
+2016,,,,Ryedale,,,,,,,,E07000167,
+2016,,,,Scarborough,,,,,,,,E07000168,
+2016,,,,Selby,,,,,,,,E07000169,
+2016,,,,Barnsley,,,,,,,,E08000016,
+2016,,,,Doncaster,,,,,,,,E08000017,2.3
+2016,,,,Rotherham,,,,,,,,E08000018,1.3
+2016,,,,Sheffield,,,,,,,,E08000019,3.4
+2016,,,,Bradford,,,,,,,,E08000032,3.9
+2016,,,,Calderdale,,,,,,,,E08000033,2.0
+2016,,,,Kirklees,,,,,,,,E08000034,2.2
+2016,,,,Leeds,,,,,,,,E08000035,2.3
+2016,,,,Wakefield,,,,,,,,E08000036,3.0
+2016,,,,Derby,,,,,,,,E06000015,4.6
+2016,,,,Leicester,,,,,,,,E06000016,5.4
+2016,,,,Nottingham,,,,,,,,E06000018,2.3
+2016,,,,Rutland,,,,,,,,E06000017,
+2016,,,,Amber Valley,,,,,,,,E07000032,2.5
+2016,,,,Bolsover,,,,,,,,E07000033,3.7
+2016,,,,Chesterfield,,,,,,,,E07000034,
+2016,,,,Derbyshire Dales,,,,,,,,E07000035,
+2016,,,,Erewash,,,,,,,,E07000036,2.5
+2016,,,,High Peak,,,,,,,,E07000037,
+2016,,,,North East Derbyshire,,,,,,,,E07000038,3.1
+2016,,,,South Derbyshire,,,,,,,,E07000039,
+2016,,,,Blaby,,,,,,,,E07000129,
+2016,,,,Charnwood,,,,,,,,E07000130,2.6
+2016,,,,Harborough,,,,,,,,E07000131,
+2016,,,,Hinckley and Bosworth,,,,,,,,E07000132,
+2016,,,,Melton,,,,,,,,E07000133,5.9
+2016,,,,North West Leicestershire,,,,,,,,E07000134,4.9
+2016,,,,Oadby and Wigston,,,,,,,,E07000135,
+2016,,,,Boston,,,,,,,,E07000136,5.0
+2016,,,,East Lindsey,,,,,,,,E07000137,
+2016,,,,Lincoln,,,,,,,,E07000138,
+2016,,,,North Kesteven,,,,,,,,E07000139,
+2016,,,,South Holland,,,,,,,,E07000140,3.1
+2016,,,,South Kesteven,,,,,,,,E07000141,2.2
+2016,,,,West Lindsey,,,,,,,,E07000142,
+2016,,,,Corby,,,,,,,,E07000150,3.0
+2016,,,,Daventry,,,,,,,,E07000151,7.3
+2016,,,,East Northamptonshire,,,,,,,,E07000152,3.0
+2016,,,,Kettering,,,,,,,,E07000153,3.2
+2016,,,,Northampton,,,,,,,,E07000154,3.1
+2016,,,,South Northamptonshire,,,,,,,,E07000155,
+2016,,,,Wellingborough,,,,,,,,E07000156,4.2
+2016,,,,Ashfield,,,,,,,,E07000170,4.2
+2016,,,,Bassetlaw,,,,,,,,E07000171,3.1
+2016,,,,Broxtowe,,,,,,,,E07000172,3.3
+2016,,,,Gedling,,,,,,,,E07000173,2.4
+2016,,,,Mansfield,,,,,,,,E07000174,3.1
+2016,,,,Newark and Sherwood,,,,,,,,E07000175,
+2016,,,,Rushcliffe,,,,,,,,E07000176,
+2016,,,,Herefordshire‚ County of,,,,,,,,,4.0
+2016,,,,Shropshire,,,,,,,,E06000051,2.4
+2016,,,,Stoke-on-Trent,,,,,,,,E06000021,5.4
+2016,,,,Telford and Wrekin,,,,,,,,E06000020,1.9
+2016,,,,Cannock Chase,,,,,,,,E07000192,
+2016,,,,East Staffordshire,,,,,,,,E07000193,5.5
+2016,,,,Lichfield,,,,,,,,E07000194,4.1
+2016,,,,Newcastle-under-Lyme,,,,,,,,E07000195,5.0
+2016,,,,South Staffordshire,,,,,,,,E07000196,
+2016,,,,Stafford,,,,,,,,E07000197,3.9
+2016,,,,Staffordshire Moorlands,,,,,,,,E07000198,
+2016,,,,Tamworth,,,,,,,,E07000199,7.6
+2016,,,,North Warwickshire,,,,,,,,E07000218,
+2016,,,,Nuneaton and Bedworth,,,,,,,,E07000219,3.8
+2016,,,,Rugby,,,,,,,,E07000220,5.7
+2016,,,,Stratford-on-Avon,,,,,,,,E07000221,2.7
+2016,,,,Warwick,,,,,,,,E07000222,4.2
+2016,,,,Birmingham,,,,,,,,E08000025,6.1
+2016,,,,Coventry,,,,,,,,E08000026,3.8
+2016,,,,Dudley,,,,,,,,E08000027,3.7
+2016,,,,Sandwell,,,,,,,,E08000028,6.1
+2016,,,,Solihull,,,,,,,,E08000029,3.5
+2016,,,,Walsall,,,,,,,,E08000030,5.3
+2016,,,,Wolverhampton,,,,,,,,E08000031,3.5
+2016,,,,Bromsgrove,,,,,,,,E07000234,3.2
+2016,,,,Malvern Hills,,,,,,,,E07000235,
+2016,,,,Redditch,,,,,,,,E07000236,2.8
+2016,,,,Worcester,,,,,,,,E07000237,4.2
+2016,,,,Wychavon,,,,,,,,E07000238,2.5
+2016,,,,Wyre Forest,,,,,,,,E07000239,3.6
+2016,,,,Bedford,,,,,,,,E06000055,2.7
+2016,,,,Central Bedfordshire,,,,,,,,E06000056,1.5
+2016,,,,Luton,,,,,,,,E06000032,3.9
+2016,,,,Peterborough,,,,,,,,E06000031,4.6
+2016,,,,Southend-on-Sea,,,,,,,,E06000033,1.8
+2016,,,,Thurrock,,,,,,,,E06000034,1.6
+2016,,,,Cambridge,,,,,,,,E07000008,3.5
+2016,,,,East Cambridgeshire,,,,,,,,E07000009,
+2016,,,,Fenland,,,,,,,,E07000010,2.7
+2016,,,,Huntingdonshire,,,,,,,,E07000011,1.5
+2016,,,,South Cambridgeshire,,,,,,,,E07000012,4.0
+2016,,,,Basildon,,,,,,,,E07000066,
+2016,,,,Braintree,,,,,,,,E07000067,
+2016,,,,Brentwood,,,,,,,,E07000068,
+2016,,,,Castle Point,,,,,,,,E07000069,
+2016,,,,Chelmsford,,,,,,,,E07000070,2.0
+2016,,,,Colchester,,,,,,,,E07000071,2.3
+2016,,,,Epping Forest,,,,,,,,E07000072,
+2016,,,,Harlow,,,,,,,,E07000073,
+2016,,,,Maldon,,,,,,,,E07000074,
+2016,,,,Rochford,,,,,,,,E07000075,
+2016,,,,Tendring,,,,,,,,E07000076,3.9
+2016,,,,Uttlesford,,,,,,,,E07000077,
+2016,,,,Broxbourne,,,,,,,,E07000095,
+2016,,,,Dacorum,,,,,,,,E07000096,1.6
+2016,,,,East Hertfordshire,,,,,,,,E07000242,
+2016,,,,Hertsmere,,,,,,,,E07000098,2.3
+2016,,,,North Hertfordshire,,,,,,,,E07000099,2.0
+2016,,,,St Albans,,,,,,,,,1.6
+2016,,,,Stevenage,,,,,,,,E07000243,
+2016,,,,Three Rivers,,,,,,,,E07000102,2.8
+2016,,,,Watford,,,,,,,,E07000103,4.0
+2016,,,,Welwyn Hatfield,,,,,,,,E07000241,3.6
+2016,,,,Breckland,,,,,,,,E07000143,3.5
+2016,,,,Broadland,,,,,,,,E07000144,
+2016,,,,Great Yarmouth,,,,,,,,E07000145,
+2016,,,,King's Lynn and West Norfolk,,,,,,,,E07000146,1.9
+2016,,,,North Norfolk,,,,,,,,E07000147,
+2016,,,,Norwich,,,,,,,,E07000148,2.3
+2016,,,,South Norfolk,,,,,,,,E07000149,2.2
+2016,,,,Babergh,,,,,,,,E07000200,
+2016,,,,Forest Heath,,,,,,,,E07000201,3.0
+2016,,,,Ipswich,,,,,,,,E07000202,2.5
+2016,,,,Mid Suffolk,,,,,,,,E07000203,
+2016,,,,St Edmundsbury,,,,,,,,,
+2016,,,,Suffolk Coastal,,,,,,,,E07000205,
+2016,,,,Waveney,,,,,,,,E07000206,6.9
+2016,,,,Camden,,,,,,,,E09000007,1.8
+2016,,,,City of London,,,,,,,,E09000001,
+2016,,,,Hackney,,,,,,,,E09000012,3.4
+2016,,,,Hammersmith and Fulham,,,,,,,,E09000013,2.4
+2016,,,,Haringey,,,,,,,,E09000014,1.2
+2016,,,,Islington,,,,,,,,E09000019,1.0
+2016,,,,Kensington and Chelsea,,,,,,,,E09000020,
+2016,,,,Lambeth,,,,,,,,E09000022,2.4
+2016,,,,Lewisham,,,,,,,,E09000023,2.1
+2016,,,,Newham,,,,,,,,E09000025,1.3
+2016,,,,Southwark,,,,,,,,E09000028,2.7
+2016,,,,Tower Hamlets,,,,,,,,E09000030,3.7
+2016,,,,Wandsworth,,,,,,,,E09000032,2.5
+2016,,,,Westminster,,,,,,,,E09000033,2.3
+2016,,,,Barking and Dagenham,,,,,,,,E09000002,2.8
+2016,,,,Barnet,,,,,,,,E09000003,1.1
+2016,,,,Bexley,,,,,,,,E09000004,1.0
+2016,,,,Brent,,,,,,,,E09000005,1.9
+2016,,,,Bromley,,,,,,,,E09000006,2.8
+2016,,,,Croydon,,,,,,,,E09000008,1.2
+2016,,,,Ealing,,,,,,,,E09000009,1.9
+2016,,,,Enfield,,,,,,,,E09000010,1.8
+2016,,,,Greenwich,,,,,,,,E09000011,4.8
+2016,,,,Harrow,,,,,,,,E09000015,5.3
+2016,,,,Havering,,,,,,,,E09000016,2.3
+2016,,,,Hillingdon,,,,,,,,E09000017,0.9
+2016,,,,Hounslow,,,,,,,,E09000018,2.8
+2016,,,,Kingston upon Thames,,,,,,,,E09000021,5.9
+2016,,,,Merton,,,,,,,,E09000024,3.1
+2016,,,,Redbridge,,,,,,,,E09000026,1.7
+2016,,,,Richmond upon Thames,,,,,,,,E09000027,
+2016,,,,Sutton,,,,,,,,E09000029,2.6
+2016,,,,Waltham Forest,,,,,,,,E09000031,1.5
+2016,,,,Bracknell Forest,,,,,,,,E06000036,
+2016,,,,Brighton and Hove,,,,,,,,E06000043,2.8
+2016,,,,Isle of Wight,,,,,,,,E06000046,
+2016,,,,Medway,,,,,,,,E06000035,2.7
+2016,,,,Milton Keynes,,,,,,,,E06000042,3.6
+2016,,,,Portsmouth,,,,,,,,E06000044,1.9
+2016,,,,Reading,,,,,,,,E06000038,2.0
+2016,,,,Slough,,,,,,,,E06000039,5.7
+2016,,,,Southampton,,,,,,,,E06000045,4.4
+2016,,,,West Berkshire,,,,,,,,E06000037,5.1
+2016,,,,Windsor and Maidenhead,,,,,,,,E06000040,6.3
+2016,,,,Wokingham,,,,,,,,E06000041,2.2
+2016,,,,Aylesbury Vale,,,,,,,,E07000004,
+2016,,,,Chiltern,,,,,,,,E07000005,
+2016,,,,South Bucks,,,,,,,,E07000006,5.3
+2016,,,,Wycombe,,,,,,,,E07000007,4.2
+2016,,,,Eastbourne,,,,,,,,E07000061,
+2016,,,,Hastings,,,,,,,,E07000062,2.7
+2016,,,,Lewes,,,,,,,,E07000063,
+2016,,,,Rother,,,,,,,,E07000064,
+2016,,,,Wealden,,,,,,,,E07000065,2.1
+2016,,,,Basingstoke and Deane,,,,,,,,E07000084,3.2
+2016,,,,East Hampshire,,,,,,,,E07000085,3.9
+2016,,,,Eastleigh,,,,,,,,E07000086,3.5
+2016,,,,Fareham,,,,,,,,E07000087,4.8
+2016,,,,Gosport,,,,,,,,E07000088,
+2016,,,,Hart,,,,,,,,E07000089,
+2016,,,,Havant,,,,,,,,E07000090,4.5
+2016,,,,New Forest,,,,,,,,E07000091,2.7
+2016,,,,Rushmoor,,,,,,,,E07000092,2.1
+2016,,,,Test Valley,,,,,,,,E07000093,3.6
+2016,,,,Winchester,,,,,,,,E07000094,2.5
+2016,,,,Ashford,,,,,,,,E07000105,4.5
+2016,,,,Canterbury,,,,,,,,E07000106,5.8
+2016,,,,Dartford,,,,,,,,E07000107,4.6
+2016,,,,Dover,,,,,,,,E07000108,3.4
+2016,,,,Gravesham,,,,,,,,E07000109,2.1
+2016,,,,Maidstone,,,,,,,,E07000110,
+2016,,,,Sevenoaks,,,,,,,,E07000111,
+2016,,,,Shepway,,,,,,,,E07000112,2.8
+2016,,,,Swale,,,,,,,,E07000113,2.2
+2016,,,,Thanet,,,,,,,,E07000114,3.2
+2016,,,,Tonbridge and Malling,,,,,,,,E07000115,3.5
+2016,,,,Tunbridge Wells,,,,,,,,E07000116,
+2016,,,,Cherwell,,,,,,,,E07000177,1.6
+2016,,,,Oxford,,,,,,,,E07000178,2.2
+2016,,,,South Oxfordshire,,,,,,,,E07000179,1.9
+2016,,,,Vale of White Horse,,,,,,,,E07000180,2.1
+2016,,,,West Oxfordshire,,,,,,,,E07000181,
+2016,,,,Elmbridge,,,,,,,,E07000207,4.3
+2016,,,,Epsom and Ewell,,,,,,,,E07000208,3.2
+2016,,,,Guildford,,,,,,,,E07000209,
+2016,,,,Mole Valley,,,,,,,,E07000210,
+2016,,,,Reigate and Banstead,,,,,,,,E07000211,
+2016,,,,Runnymede,,,,,,,,E07000212,
+2016,,,,Spelthorne,,,,,,,,E07000213,3.0
+2016,,,,Surrey Heath,,,,,,,,E07000214,
+2016,,,,Tandridge,,,,,,,,E07000215,
+2016,,,,Waverley,,,,,,,,E07000216,2.4
+2016,,,,Woking,,,,,,,,E07000217,2.2
+2016,,,,Adur,,,,,,,,E07000223,
+2016,,,,Arun,,,,,,,,E07000224,1.9
+2016,,,,Chichester,,,,,,,,E07000225,
+2016,,,,Crawley,,,,,,,,E07000226,1.9
+2016,,,,Horsham,,,,,,,,E07000227,
+2016,,,,Mid Sussex,,,,,,,,E07000228,
+2016,,,,Worthing,,,,,,,,E07000229,2.7
+2016,,,,Bath and North East Somerset,,,,,,,,E06000022,
+2016,,,,Bournemouth,,,,,,,,E06000028,3.2
+2016,,,,Bristol‚ City of,,,,,,,,,2.8
+2016,,,,Cornwall and Isles of Scilly4,,,,,,,,,2.8
+2016,,,,North Somerset,,,,,,,,E06000024,
+2016,,,,Plymouth,,,,,,,,E06000026,1.7
+2016,,,,Poole,,,,,,,,E06000029,
+2016,,,,South Gloucestershire,,,,,,,,E06000025,2.6
+2016,,,,Swindon,,,,,,,,E06000030,2.8
+2016,,,,Torbay,,,,,,,,E06000027,2.3
+2016,,,,Wiltshire,,,,,,,,E06000054,1.4
+2016,,,,East Devon,,,,,,,,E07000040,2.6
+2016,,,,Exeter,,,,,,,,E07000041,3.1
+2016,,,,Mid Devon,,,,,,,,E07000042,
+2016,,,,North Devon,,,,,,,,E07000043,
+2016,,,,South Hams,,,,,,,,E07000044,5.0
+2016,,,,Teignbridge,,,,,,,,E07000045,
+2016,,,,Torridge,,,,,,,,E07000046,6.3
+2016,,,,West Devon,,,,,,,,E07000047,6.5
+2016,,,,Christchurch,,,,,,,,E07000048,
+2016,,,,East Dorset,,,,,,,,E07000049,
+2016,,,,North Dorset,,,,,,,,E07000050,
+2016,,,,Purbeck,,,,,,,,E07000051,
+2016,,,,West Dorset,,,,,,,,E07000052,7.9
+2016,,,,Weymouth and Portland,,,,,,,,E07000053,
+2016,,,,Cheltenham,,,,,,,,E07000078,3.8
+2016,,,,Cotswold,,,,,,,,E07000079,
+2016,,,,Forest of Dean,,,,,,,,E07000080,
+2016,,,,Gloucester,,,,,,,,E07000081,2.8
+2016,,,,Stroud,,,,,,,,E07000082,4.6
+2016,,,,Tewkesbury,,,,,,,,E07000083,
+2016,,,,Mendip,,,,,,,,E07000187,
+2016,,,,Sedgemoor,,,,,,,,E07000188,2.3
+2016,,,,South Somerset,,,,,,,,E07000189,2.4
+2016,,,,Taunton Deane,,,,,,,,E07000190,4.1
+2016,,,,West Somerset,,,,,,,,E07000191,
+2016,,,,Isle of Anglesey,,,,,,,,W06000001,7.0
+2016,,,,Gwynedd,,,,,,,,W06000002,5.2
+2016,,,,Conwy,,,,,,,,W06000003,
+2016,,,,Denbighshire,,,,,,,,W06000004,
+2016,,,,Flintshire,,,,,,,,W06000005,5.7
+2016,,,,Wrexham,,,,,,,,W06000006,
+2016,,,,Powys,,,,,,,,W06000023,
+2016,,,,Ceredigion,,,,,,,,W06000008,
+2016,,,,Pembrokeshire,,,,,,,,W06000009,
+2016,,,,Carmarthenshire,,,,,,,,W06000010,
+2016,,,,Swansea,,,,,,,,W06000011,2.8
+2016,,,,Neath Port Talbot,,,,,,,,W06000012,
+2016,,,,Bridgend,,,,,,,,W06000013,2.7
+2016,,,,Vale of Glamorgan,,,,,,,,W06000014,
+2016,,,,Cardiff,,,,,,,,W06000015,1.1
+2016,,,,Rhondda Cynon Taf,,,,,,,,W06000016,1.4
+2016,,,,Merthyr Tydfil,,,,,,,,W06000024,
+2016,,,,Caerphilly,,,,,,,,W06000018,
+2016,,,,Blaenau Gwent,,,,,,,,W06000019,5.5
+2016,,,,Torfaen,,,,,,,,W06000020,
+2016,,,,Monmouthshire,,,,,,,,W06000021,
+2016,,,,Newport,,,,,,,,W06000022,2.6
+2017,,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.8
+2017,Male,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,3.2
+2017,Female,,,,,,,,"Rate per 1,000 live births",Units,Undefined,,2.3
+2017,Male,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.2
+2017,Female,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.4
+2017,,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.8
+2017,Male,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,3.2
+2017,Female,England,,,,,,,"Rate per 1,000 live births",Units,Undefined,E92000001,2.4
+2017,,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.5
+2017,Male,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.9
+2017,Female,Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,W92000004,2.1
+2017,,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.3
+2017,Male,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,2.6
+2017,Female,Scotland,,,,,,,"Rate per 1,000 live births",Units,Undefined,S92000003,1.8
+2017,,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,2.8
+2017,Male,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,2.8
+2017,Female,Northern Ireland,,,,,,,"Rate per 1,000 live births",Units,Undefined,N92000002,2.7
+2017,,England,North East,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000001,2.2
+2017,,England,North West,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000002,3.2
+2017,,England,Yorkshire and The Humber,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000003,2.7
+2017,,England,East Midlands,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000004,2.7
+2017,,England,West Midlands,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000005,4.2
+2017,,England,East of England,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000006,2.4
+2017,,England,London,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000007,2.4
+2017,,England,South East,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000008,2.9
+2017,,England,South West,,,,,,"Rate per 1,000 live births",Units,Undefined,E12000009,2.1
+2017,,Wales,,,Betsi Cadwaladr University,,,,"Rate per 1,000 live births",Units,Undefined,W11000023,3.4
+2017,,Wales,,,Hywel Dda University,,,,"Rate per 1,000 live births",Units,Undefined,W11000025,1.7
+2017,,Wales,,,Abertawe Bro Morgannwg University,,,,"Rate per 1,000 live births",Units,Undefined,W11000026,2.6
+2017,,Wales,,,Cwm Taf University,,,,"Rate per 1,000 live births",Units,Undefined,W11000027,3.0
+2017,,Wales,,,Aneurin Bevan University,,,,"Rate per 1,000 live births",Units,Undefined,W11000028,1.2
+2017,,Wales,,,Cardiff and Vale University,,,,"Rate per 1,000 live births",Units,Undefined,W11000029,3.3
+2017,,England and Wales,,,,Under 1000,,,"Rate per 1,000 live births",Units,Undefined,K04000001,388.1
+2017,,England and Wales,,,,1000 to 1499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,29.2
+2017,,England and Wales,,,,1500 to 1999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,12.2
+2017,,England and Wales,,,,2000 to 2499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.5
+2017,,England and Wales,,,,2500 to 2999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.9
+2017,,England and Wales,,,,3000 to 3499,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.5
+2017,,England and Wales,,,,3500 to 3999,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.4
+2017,,England and Wales,,,,4000 and over,,,"Rate per 1,000 live births",Units,Undefined,K04000001,0.4
+2017,,England and Wales,,,,Not stated,,,"Rate per 1,000 live births",Units,Undefined,K04000001,19.3
+2017,,England and Wales,,,,,,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.8
+2017,,England and Wales,,,,,19 and under,,"Rate per 1,000 live births",Units,Undefined,K04000001,4.2
+2017,,England and Wales,,,,,20 to 24,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.9
+2017,,England and Wales,,,,,25 to 29,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.5
+2017,,England and Wales,,,,,30 to 34,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.6
+2017,,England and Wales,,,,,35 to 39,,"Rate per 1,000 live births",Units,Undefined,K04000001,2.8
+2017,,England and Wales,,,,,40 and over,,"Rate per 1,000 live births",Units,Undefined,K04000001,3.6
+2017,,England and Wales,,,,,,United Kingdom‚ Isle of Man and Channel Islands,"Rate per 1,000 live births",Units,Undefined,K04000001,2.6
+2017,,England and Wales,,,,,,Total outside the United Kingdom,"Rate per 1,000 live births",Units,Undefined,K04000001,3.0
+2017,,England and Wales,,,,,,EU,"Rate per 1,000 live births",Units,Undefined,K04000001,2.0
+2017,,England and Wales,,,,,,Rest of Europe (non EU),"Rate per 1,000 live births",Units,Undefined,K04000001,1.7
+2017,,England and Wales,,,,,,Africa,"Rate per 1,000 live births",Units,Undefined,K04000001,5.1
+2017,,England and Wales,,,,,,The Americas and the Caribbean,"Rate per 1,000 live births",Units,Undefined,K04000001,2.1
+2017,,England and Wales,,,,,,Middle East and Asia,"Rate per 1,000 live births",Units,Undefined,K04000001,3.6
+2017,,England and Wales,,,,,,Antarctica and Oceania,"Rate per 1,000 live births",Units,Undefined,K04000001,1.1
+2017,,,,County Durham,,,,,,,,E06000047,1.8
+2017,,,,Darlington,,,,,,,,E06000005,
+2017,,,,Hartlepool,,,,,,,,E06000001,4.0
+2017,,,,Middlesbrough,,,,,,,,E06000002,2.6
+2017,,,,Northumberland,,,,,,,,E06000057,1.8
+2017,,,,Redcar and Cleveland,,,,,,,,E06000003,
+2017,,,,Stockton-on-Tees,,,,,,,,E06000004,2.3
+2017,,,,Gateshead,,,,,,,,E08000037,3.9
+2017,,,,Newcastle upon Tyne,,,,,,,,E08000021,2.8
+2017,,,,North Tyneside,,,,,,,,E08000022,3.1
+2017,,,,South Tyneside,,,,,,,,E08000023,
+2017,,,,Sunderland,,,,,,,,E08000024,1.4
+2017,,,,Blackburn with Darwen,,,,,,,,E06000008,3.5
+2017,,,,Blackpool,,,,,,,,E06000009,4.9
+2017,,,,Cheshire East,,,,,,,,E06000049,2.3
+2017,,,,Cheshire West and Chester,,,,,,,,E06000050,2.0
+2017,,,,Halton,,,,,,,,E06000006,2.0
+2017,,,,Warrington,,,,,,,,E06000007,1.9
+2017,,,,Allerdale,,,,,,,,E07000026,3.3
+2017,,,,Barrow-in-Furness,,,,,,,,E07000027,
+2017,,,,Carlisle,,,,,,,,E07000028,
+2017,,,,Copeland,,,,,,,,E07000029,
+2017,,,,Eden,,,,,,,,E07000030,
+2017,,,,South Lakeland,,,,,,,,E07000031,
+2017,,,,Bolton,,,,,,,,E08000001,3.2
+2017,,,,Bury,,,,,,,,E08000002,3.1
+2017,,,,Manchester,,,,,,,,E08000003,4.0
+2017,,,,Oldham,,,,,,,,E08000004,3.3
+2017,,,,Rochdale,,,,,,,,E08000005,5.7
+2017,,,,Salford,,,,,,,,E08000006,3.9
+2017,,,,Stockport,,,,,,,,E08000007,3.3
+2017,,,,Tameside,,,,,,,,E08000008,2.8
+2017,,,,Trafford,,,,,,,,E08000009,4.9
+2017,,,,Wigan,,,,,,,,E08000010,2.2
+2017,,,,Burnley,,,,,,,,E07000117,5.9
+2017,,,,Chorley,,,,,,,,E07000118,
+2017,,,,Fylde,,,,,,,,E07000119,
+2017,,,,Hyndburn,,,,,,,,E07000120,4.7
+2017,,,,Lancaster,,,,,,,,E07000121,
+2017,,,,Pendle,,,,,,,,E07000122,
+2017,,,,Preston,,,,,,,,E07000123,5.5
+2017,,,,Ribble Valley,,,,,,,,E07000124,
+2017,,,,Rossendale,,,,,,,,E07000125,
+2017,,,,South Ribble,,,,,,,,E07000126,
+2017,,,,West Lancashire,,,,,,,,E07000127,2.9
+2017,,,,Wyre,,,,,,,,E07000128,
+2017,,,,Knowsley,,,,,,,,E08000011,3.0
+2017,,,,Liverpool,,,,,,,,E08000012,4.9
+2017,,,,Sefton,,,,,,,,E08000014,1.8
+2017,,,,St. Helens,,,,,,,,E08000013,4.4
+2017,,,,Wirral,,,,,,,,E08000015,3.0
+2017,,,,East Riding of Yorkshire,,,,,,,,E06000011,2.1
+2017,,,,"Kingston upon Hull, City of",,,,,,,,,3.8
+2017,,,,North East Lincolnshire,,,,,,,,E06000012,3.9
+2017,,,,North Lincolnshire,,,,,,,,E06000013,
+2017,,,,York,,,,,,,,E06000014,3.8
+2017,,,,Craven,,,,,,,,E07000163,
+2017,,,,Hambleton,,,,,,,,E07000164,
+2017,,,,Harrogate,,,,,,,,E07000165,
+2017,,,,Richmondshire,,,,,,,,E07000166,
+2017,,,,Ryedale,,,,,,,,E07000167,
+2017,,,,Scarborough,,,,,,,,E07000168,
+2017,,,,Selby,,,,,,,,E07000169,
+2017,,,,Barnsley,,,,,,,,E08000016,1.5
+2017,,,,Doncaster,,,,,,,,E08000017,3.2
+2017,,,,Rotherham,,,,,,,,E08000018,1.3
+2017,,,,Sheffield,,,,,,,,E08000019,2.5
+2017,,,,Bradford,,,,,,,,E08000032,4.1
+2017,,,,Calderdale,,,,,,,,E08000033,4.6
+2017,,,,Kirklees,,,,,,,,E08000034,4.0
+2017,,,,Leeds,,,,,,,,E08000035,1.9
+2017,,,,Wakefield,,,,,,,,E08000036,1.5
+2017,,,,Derby,,,,,,,,E06000015,3.8
+2017,,,,Leicester,,,,,,,,E06000016,3.9
+2017,,,,Nottingham,,,,,,,,E06000018,2.4
+2017,,,,Rutland,,,,,,,,E06000017,
+2017,,,,Amber Valley,,,,,,,,E07000032,5.0
+2017,,,,Bolsover,,,,,,,,E07000033,
+2017,,,,Chesterfield,,,,,,,,E07000034,
+2017,,,,Derbyshire Dales,,,,,,,,E07000035,
+2017,,,,Erewash,,,,,,,,E07000036,2.5
+2017,,,,High Peak,,,,,,,,E07000037,
+2017,,,,North East Derbyshire,,,,,,,,E07000038,
+2017,,,,South Derbyshire,,,,,,,,E07000039,6.6
+2017,,,,Blaby,,,,,,,,E07000129,
+2017,,,,Charnwood,,,,,,,,E07000130,
+2017,,,,Harborough,,,,,,,,E07000131,
+2017,,,,Hinckley and Bosworth,,,,,,,,E07000132,2.6
+2017,,,,Melton,,,,,,,,E07000133,
+2017,,,,North West Leicestershire,,,,,,,,E07000134,
+2017,,,,Oadby and Wigston,,,,,,,,E07000135,5.0
+2017,,,,Boston,,,,,,,,E07000136,
+2017,,,,East Lindsey,,,,,,,,E07000137,4.2
+2017,,,,Lincoln,,,,,,,,E07000138,2.6
+2017,,,,North Kesteven,,,,,,,,E07000139,
+2017,,,,South Holland,,,,,,,,E07000140,
+2017,,,,South Kesteven,,,,,,,,E07000141,
+2017,,,,West Lindsey,,,,,,,,E07000142,
+2017,,,,Corby,,,,,,,,E07000150,
+2017,,,,Daventry,,,,,,,,E07000151,3.6
+2017,,,,East Northamptonshire,,,,,,,,E07000152,7.2
+2017,,,,Kettering,,,,,,,,E07000153,6.1
+2017,,,,Northampton,,,,,,,,E07000154,1.6
+2017,,,,South Northamptonshire,,,,,,,,E07000155,3.5
+2017,,,,Wellingborough,,,,,,,,E07000156,7.4
+2017,,,,Ashfield,,,,,,,,E07000170,
+2017,,,,Bassetlaw,,,,,,,,E07000171,
+2017,,,,Broxtowe,,,,,,,,E07000172,
+2017,,,,Gedling,,,,,,,,E07000173,
+2017,,,,Mansfield,,,,,,,,E07000174,2.3
+2017,,,,Newark and Sherwood,,,,,,,,E07000175,6.7
+2017,,,,Rushcliffe,,,,,,,,E07000176,2.8
+2017,,,,"Herefordshire, County of",,,,,,,,,2.9
+2017,,,,Shropshire,,,,,,,,E06000051,3.9
+2017,,,,Stoke-on-Trent,,,,,,,,E06000021,6.1
+2017,,,,Telford and Wrekin,,,,,,,,E06000020,2.4
+2017,,,,Cannock Chase,,,,,,,,E07000192,4.7
+2017,,,,East Staffordshire,,,,,,,,E07000193,5.2
+2017,,,,Lichfield,,,,,,,,E07000194,3.0
+2017,,,,Newcastle-under-Lyme,,,,,,,,E07000195,4.2
+2017,,,,South Staffordshire,,,,,,,,E07000196,4.2
+2017,,,,Stafford,,,,,,,,E07000197,6.6
+2017,,,,Staffordshire Moorlands,,,,,,,,E07000198,
+2017,,,,Tamworth,,,,,,,,E07000199,5.7
+2017,,,,North Warwickshire,,,,,,,,E07000218,
+2017,,,,Nuneaton and Bedworth,,,,,,,,E07000219,4.6
+2017,,,,Rugby,,,,,,,,E07000220,
+2017,,,,Stratford-on-Avon,,,,,,,,E07000221,
+2017,,,,Warwick,,,,,,,,E07000222,2.7
+2017,,,,Birmingham,,,,,,,,E08000025,5.6
+2017,,,,Coventry,,,,,,,,E08000026,2.9
+2017,,,,Dudley,,,,,,,,E08000027,3.0
+2017,,,,Sandwell,,,,,,,,E08000028,5.5
+2017,,,,Solihull,,,,,,,,E08000029,5.7
+2017,,,,Walsall,,,,,,,,E08000030,3.6
+2017,,,,Wolverhampton,,,,,,,,E08000031,4.5
+2017,,,,Bromsgrove,,,,,,,,E07000234,3.2
+2017,,,,Malvern Hills,,,,,,,,E07000235,
+2017,,,,Redditch,,,,,,,,E07000236,
+2017,,,,Worcester,,,,,,,,E07000237,
+2017,,,,Wychavon,,,,,,,,E07000238,
+2017,,,,Wyre Forest,,,,,,,,E07000239,
+2017,,,,Bedford,,,,,,,,E06000055,3.2
+2017,,,,Central Bedfordshire,,,,,,,,E06000056,3.1
+2017,,,,Luton,,,,,,,,E06000032,2.9
+2017,,,,Peterborough,,,,,,,,E06000031,3.6
+2017,,,,Southend-on-Sea,,,,,,,,E06000033,2.3
+2017,,,,Thurrock,,,,,,,,E06000034,2.8
+2017,,,,Cambridge,,,,,,,,E07000008,5.4
+2017,,,,East Cambridgeshire,,,,,,,,E07000009,
+2017,,,,Fenland,,,,,,,,E07000010,
+2017,,,,Huntingdonshire,,,,,,,,E07000011,3.2
+2017,,,,South Cambridgeshire,,,,,,,,E07000012,1.9
+2017,,,,Basildon,,,,,,,,E07000066,2.4
+2017,,,,Braintree,,,,,,,,E07000067,3.5
+2017,,,,Brentwood,,,,,,,,E07000068,
+2017,,,,Castle Point,,,,,,,,E07000069,
+2017,,,,Chelmsford,,,,,,,,E07000070,2.5
+2017,,,,Colchester,,,,,,,,E07000071,3.6
+2017,,,,Epping Forest,,,,,,,,E07000072,
+2017,,,,Harlow,,,,,,,,E07000073,2.4
+2017,,,,Maldon,,,,,,,,E07000074,
+2017,,,,Rochford,,,,,,,,E07000075,
+2017,,,,Tendring,,,,,,,,E07000076,5.1
+2017,,,,Uttlesford,,,,,,,,E07000077,
+2017,,,,Broxbourne,,,,,,,,E07000095,
+2017,,,,Dacorum,,,,,,,,E07000096,3.1
+2017,,,,East Hertfordshire,,,,,,,,E07000242,2.5
+2017,,,,Hertsmere,,,,,,,,E07000098,
+2017,,,,North Hertfordshire,,,,,,,,E07000099,
+2017,,,,St Albans,,,,,,,,,1.8
+2017,,,,Stevenage,,,,,,,,E07000243,3.5
+2017,,,,Three Rivers,,,,,,,,E07000102,
+2017,,,,Watford,,,,,,,,E07000103,6.3
+2017,,,,Welwyn Hatfield,,,,,,,,E07000241,
+2017,,,,Breckland,,,,,,,,E07000143,
+2017,,,,Broadland,,,,,,,,E07000144,
+2017,,,,Great Yarmouth,,,,,,,,E07000145,2.9
+2017,,,,King’s Lynn and West Norfolk,,,,,,,,,2.0
+2017,,,,North Norfolk,,,,,,,,E07000147,
+2017,,,,Norwich,,,,,,,,E07000148,
+2017,,,,South Norfolk,,,,,,,,E07000149,2.3
+2017,,,,Babergh,,,,,,,,E07000200,
+2017,,,,Forest Heath,,,,,,,,E07000201,
+2017,,,,Ipswich,,,,,,,,E07000202,2.7
+2017,,,,Mid Suffolk,,,,,,,,E07000203,
+2017,,,,St Edmundsbury,,,,,,,,,
+2017,,,,Suffolk Coastal,,,,,,,,E07000205,4.7
+2017,,,,Waveney,,,,,,,,E07000206,
+2017,,,,Camden,,,,,,,,E09000007,1.5
+2017,,,,City of London,,,,,,,,E09000001,
+2017,,,,Hackney,,,,,,,,E09000012,3.2
+2017,,,,Hammersmith and Fulham,,,,,,,,E09000013,1.7
+2017,,,,Haringey,,,,,,,,E09000014,1.8
+2017,,,,Islington,,,,,,,,E09000019,1.0
+2017,,,,Kensington and Chelsea,,,,,,,,E09000020,2.4
+2017,,,,Lambeth,,,,,,,,E09000022,3.5
+2017,,,,Lewisham,,,,,,,,E09000023,2.3
+2017,,,,Newham,,,,,,,,E09000025,2.2
+2017,,,,Southwark,,,,,,,,E09000028,3.0
+2017,,,,Tower Hamlets,,,,,,,,E09000030,3.5
+2017,,,,Wandsworth,,,,,,,,E09000032,1.7
+2017,,,,Westminster,,,,,,,,E09000033,2.4
+2017,,,,Barking and Dagenham,,,,,,,,E09000002,1.8
+2017,,,,Barnet,,,,,,,,E09000003,1.5
+2017,,,,Bexley,,,,,,,,E09000004,2.3
+2017,,,,Brent,,,,,,,,E09000005,2.3
+2017,,,,Bromley,,,,,,,,E09000006,1.7
+2017,,,,Croydon,,,,,,,,E09000008,3.5
+2017,,,,Ealing,,,,,,,,E09000009,1.8
+2017,,,,Enfield,,,,,,,,E09000010,2.1
+2017,,,,Greenwich,,,,,,,,E09000011,4.3
+2017,,,,Harrow,,,,,,,,E09000015,3.0
+2017,,,,Havering,,,,,,,,E09000016,0.9
+2017,,,,Hillingdon,,,,,,,,E09000017,2.7
+2017,,,,Hounslow,,,,,,,,E09000018,3.6
+2017,,,,Kingston upon Thames,,,,,,,,E09000021,2.7
+2017,,,,Merton,,,,,,,,E09000024,1.3
+2017,,,,Redbridge,,,,,,,,E09000026,3.4
+2017,,,,Richmond upon Thames,,,,,,,,E09000027,1.2
+2017,,,,Sutton,,,,,,,,E09000029,3.0
+2017,,,,Waltham Forest,,,,,,,,E09000031,2.1
+2017,,,,Bracknell Forest,,,,,,,,E06000036,4.2
+2017,,,,Brighton and Hove,,,,,,,,E06000043,2.2
+2017,,,,Isle of Wight,,,,,,,,E06000046,2.4
+2017,,,,Medway,,,,,,,,E06000035,2.8
+2017,,,,Milton Keynes,,,,,,,,E06000042,3.4
+2017,,,,Portsmouth,,,,,,,,E06000044,2.9
+2017,,,,Reading,,,,,,,,E06000038,1.7
+2017,,,,Slough,,,,,,,,E06000039,4.3
+2017,,,,Southampton,,,,,,,,E06000045,4.1
+2017,,,,West Berkshire,,,,,,,,E06000037,2.3
+2017,,,,Windsor and Maidenhead,,,,,,,,E06000040,2.4
+2017,,,,Wokingham,,,,,,,,E06000041,3.4
+2017,,,,Aylesbury Vale,,,,,,,,E07000004,3.0
+2017,,,,Chiltern,,,,,,,,E07000005,3.6
+2017,,,,South Bucks,,,,,,,,E07000006,5.9
+2017,,,,Wycombe,,,,,,,,E07000007,2.4
+2017,,,,Eastbourne,,,,,,,,E07000061,
+2017,,,,Hastings,,,,,,,,E07000062,2.9
+2017,,,,Lewes,,,,,,,,E07000063,
+2017,,,,Rother,,,,,,,,E07000064,
+2017,,,,Wealden,,,,,,,,E07000065,4.7
+2017,,,,Basingstoke and Deane,,,,,,,,E07000084,6.9
+2017,,,,East Hampshire,,,,,,,,E07000085,
+2017,,,,Eastleigh,,,,,,,,E07000086,2.8
+2017,,,,Fareham,,,,,,,,E07000087,6.8
+2017,,,,Gosport,,,,,,,,E07000088,5.3
+2017,,,,Hart,,,,,,,,E07000089,3.2
+2017,,,,Havant,,,,,,,,E07000090,5.5
+2017,,,,New Forest,,,,,,,,E07000091,4.2
+2017,,,,Rushmoor,,,,,,,,E07000092,3.2
+2017,,,,Test Valley,,,,,,,,E07000093,
+2017,,,,Winchester,,,,,,,,E07000094,4.4
+2017,,,,Ashford,,,,,,,,E07000105,1.9
+2017,,,,Canterbury,,,,,,,,E07000106,
+2017,,,,Dartford,,,,,,,,E07000107,1.9
+2017,,,,Dover,,,,,,,,E07000108,4.4
+2017,,,,Gravesham,,,,,,,,E07000109,5.1
+2017,,,,Maidstone,,,,,,,,E07000110,2.5
+2017,,,,Sevenoaks,,,,,,,,E07000111,3.3
+2017,,,,Shepway,,,,,,,,E07000112,
+2017,,,,Swale,,,,,,,,E07000113,3.9
+2017,,,,Thanet,,,,,,,,E07000114,3.7
+2017,,,,Tonbridge and Malling,,,,,,,,E07000115,2.7
+2017,,,,Tunbridge Wells,,,,,,,,E07000116,3.3
+2017,,,,Cherwell,,,,,,,,E07000177,3.4
+2017,,,,Oxford,,,,,,,,E07000178,1.8
+2017,,,,South Oxfordshire,,,,,,,,E07000179,3.3
+2017,,,,Vale of White Horse,,,,,,,,E07000180,2.8
+2017,,,,West Oxfordshire,,,,,,,,E07000181,
+2017,,,,Elmbridge,,,,,,,,E07000207,1.8
+2017,,,,Epsom and Ewell,,,,,,,,E07000208,
+2017,,,,Guildford,,,,,,,,E07000209,2.9
+2017,,,,Mole Valley,,,,,,,,E07000210,
+2017,,,,Reigate and Banstead,,,,,,,,E07000211,
+2017,,,,Runnymede,,,,,,,,E07000212,
+2017,,,,Spelthorne,,,,,,,,E07000213,3.3
+2017,,,,Surrey Heath,,,,,,,,E07000214,
+2017,,,,Tandridge,,,,,,,,E07000215,
+2017,,,,Waverley,,,,,,,,E07000216,2.5
+2017,,,,Woking,,,,,,,,E07000217,2.3
+2017,,,,Adur,,,,,,,,E07000223,
+2017,,,,Arun,,,,,,,,E07000224,
+2017,,,,Chichester,,,,,,,,E07000225,2.9
+2017,,,,Crawley,,,,,,,,E07000226,1.9
+2017,,,,Horsham,,,,,,,,E07000227,
+2017,,,,Mid Sussex,,,,,,,,E07000228,3.9
+2017,,,,Worthing,,,,,,,,E07000229,2.7
+2017,,,,Bath and North East Somerset,,,,,,,,E06000022,
+2017,,,,Bournemouth,,,,,,,,E06000028,3.8
+2017,,,,"Bristol, City of",,,,,,,,,1.3
+2017,,,,Cornwall and Isles of Scilly,,,,,,,,,2.9
+2017,,,,North Somerset,,,,,,,,E06000024,
+2017,,,,Plymouth,,,,,,,,E06000026,3.9
+2017,,,,Poole,,,,,,,,E06000029,2.0
+2017,,,,South Gloucestershire,,,,,,,,E06000025,2.5
+2017,,,,Swindon,,,,,,,,E06000030,2.1
+2017,,,,Torbay,,,,,,,,E06000027,
+2017,,,,Wiltshire,,,,,,,,E06000054,2.3
+2017,,,,East Devon,,,,,,,,E07000040,2.6
+2017,,,,Exeter,,,,,,,,E07000041,
+2017,,,,Mid Devon,,,,,,,,E07000042,3.9
+2017,,,,North Devon,,,,,,,,E07000043,
+2017,,,,South Hams,,,,,,,,E07000044,
+2017,,,,Teignbridge,,,,,,,,E07000045,
+2017,,,,Torridge,,,,,,,,E07000046,
+2017,,,,West Devon,,,,,,,,E07000047,
+2017,,,,Christchurch,,,,,,,,E07000048,
+2017,,,,East Dorset,,,,,,,,E07000049,
+2017,,,,North Dorset,,,,,,,,E07000050,6.6
+2017,,,,Purbeck,,,,,,,,E07000051,
+2017,,,,West Dorset,,,,,,,,E07000052,
+2017,,,,Weymouth and Portland,,,,,,,,E07000053,
+2017,,,,Cheltenham,,,,,,,,E07000078,
+2017,,,,Cotswold,,,,,,,,E07000079,
+2017,,,,Forest of Dean,,,,,,,,E07000080,
+2017,,,,Gloucester,,,,,,,,E07000081,2.4
+2017,,,,Stroud,,,,,,,,E07000082,
+2017,,,,Tewkesbury,,,,,,,,E07000083,4.7
+2017,,,,Mendip,,,,,,,,E07000187,
+2017,,,,Sedgemoor,,,,,,,,E07000188,
+2017,,,,South Somerset,,,,,,,,E07000189,
+2017,,,,Taunton Deane,,,,,,,,E07000190,
+2017,,,,West Somerset,,,,,,,,E07000191,
+2017,,,,Isle of Anglesey,,,,,,,,W06000001,
+2017,,,,Gwynedd,,,,,,,,W06000002,4.4
+2017,,,,Conwy,,,,,,,,W06000003,
+2017,,,,Denbighshire,,,,,,,,W06000004,
+2017,,,,Flintshire,,,,,,,,W06000005,3.1
+2017,,,,Wrexham,,,,,,,,W06000006,6.3
+2017,,,,Powys,,,,,,,,W06000023,
+2017,,,,Ceredigion,,,,,,,,W06000008,
+2017,,,,Pembrokeshire,,,,,,,,W06000009,
+2017,,,,Carmarthenshire,,,,,,,,W06000010,
+2017,,,,Swansea,,,,,,,,W06000011,1.3
+2017,,,,Neath Port Talbot,,,,,,,,W06000012,4.1
+2017,,,,Bridgend,,,,,,,,W06000013,3.4
+2017,,,,Vale of Glamorgan,,,,,,,,W06000014,2.2
+2017,,,,Cardiff,,,,,,,,W06000015,3.6
+2017,,,,Rhondda Cynon Taff,,,,,,,,,3.1
+2017,,,,Merthyr Tydfil,,,,,,,,W06000024,
+2017,,,,Caerphilly,,,,,,,,W06000018,1.6
+2017,,,,Blaenau Gwent,,,,,,,,W06000019,
+2017,,,,Torfaen,,,,,,,,W06000020,
+2017,,,,Monmouthshire,,,,,,,,W06000021,5.5
+2017,,,,Newport,,,,,,,,W06000022,
+2018,,,,,,,,,,,,,2.7
+2018,Male,,,,,,,,,,,,2.9
+2018,Female,,,,,,,,,,,,2.5
+2018,,England,,,,,,,,,,E92000001,2.8
+2018,Male,England,,,,,,,,,,E92000001,3.0
+2018,Female,England,,,,,,,,,,E92000001,2.6
+2018,,Wales,,,,,,,,,,W92000004,2.5
+2018,Male,Wales,,,,,,,,,,W92000004,2.8
+2018,Female,Wales,,,,,,,,,,W92000004,2.2
+2018,,Scotland,,,,,,,,,,S92000003,2.0
+2018,Male,Scotland,,,,,,,,,,S92000003,1.9
+2018,Female,Scotland,,,,,,,,,,S92000003,2.1
+2018,,Northern Ireland,,,,,,,,,,N92000002,3.2
+2018,Male,Northern Ireland,,,,,,,,,,N92000002,3.3
+2018,Female,Northern Ireland,,,,,,,,,,N92000002,3.1
+2018,,England,North East,,,,,,,,,E12000001,2.2
+2018,,England,North West,,,,,,,,,E12000002,3.0
+2018,,England,Yorkshire and The Humber,,,,,,,,,E12000003,2.8
+2018,,England,East Midlands,,,,,,,,,E12000004,2.9
+2018,,England,West Midlands,,,,,,,,,E12000005,4.4
+2018,,England,East of England,,,,,,,,,E12000006,2.7
+2018,,England,London,,,,,,,,,E12000007,2.3
+2018,,England,South East,,,,,,,,,E12000008,2.5
+2018,,England,South West,,,,,,,,,E12000009,2.4
+2018,,England and Wales,,,,<1000,,,,,,K04000001,345.7
+2018,,England and Wales,,,,1000-1499,,,,,,K04000001,30.2
+2018,,England and Wales,,,,1500-1999,,,,,,K04000001,9.1
+2018,,England and Wales,,,,2000-2499,,,,,,K04000001,3.5
+2018,,England and Wales,,,,2500-2999,,,,,,K04000001,1.0
+2018,,England and Wales,,,,3000-3499,,,,,,K04000001,0.5
+2018,,England and Wales,,,,3500-3999,,,,,,K04000001,0.2
+2018,,England and Wales,,,,4000 and over,,,,,,K04000001,0.5
+2018,,England and Wales,,,,Not stated,,,,,,K04000001,18.4
+2018,,England and Wales,,,,,Under 20,,,,,K04000001,3.4
+2018,,England and Wales,,,,,20 to 24,,,,,K04000001,3.0
+2018,,England and Wales,,,,,25 to 29,,,,,K04000001,2.6
+2018,,England and Wales,,,,,30 to 34,,,,,K04000001,2.3
+2018,,England and Wales,,,,,35 to 39,,,,,K04000001,3.0
+2018,,England and Wales,,,,,40 and over,,,,,K04000001,3.6
+2018,,England and Wales,,,,,,United Kingdom‚ Isle of Man and Channel Islands,,,,K04000001,2.6
+2018,,England and Wales,,,,,,Total outside the United Kingdom,,,,K04000001,2.9
+2018,,England and Wales,,,,,,EU,,,,K04000001,2.4
+2018,,England and Wales,,,,,,Rest of Europe (non EU),,,,K04000001,1.7
+2018,,England and Wales,,,,,,Africa,,,,K04000001,3.9
+2018,,England and Wales,,,,,,The Americas and the Caribbean,,,,K04000001,2.5
+2018,,England and Wales,,,,,,Middle East and Asia,,,,K04000001,3.3
+2018,,England and Wales,,,,,,Antarctica and Oceania,,,,K04000001,1.6
+2018,,,,County Durham,,,,,,,,E06000047,2.7
+2018,,,,Darlington,,,,,,,,E06000005,
+2018,,,,Hartlepool,,,,,,,,E06000001,
+2018,,,,Middlesbrough,,,,,,,,E06000002,
+2018,,,,Northumberland,,,,,,,,E06000057,1.9
+2018,,,,Redcar and Cleveland,,,,,,,,E06000003,
+2018,,,,Stockton-on-Tees,,,,,,,,E06000004,2.8
+2018,,,,Gateshead,,,,,,,,E08000037,2.5
+2018,,,,Newcastle upon Tyne,,,,,,,,E08000021,1.9
+2018,,,,North Tyneside,,,,,,,,E08000022,2.3
+2018,,,,South Tyneside,,,,,,,,E08000023,2.6
+2018,,,,Sunderland,,,,,,,,E08000024,2.9
+2018,,,,Blackburn with Darwen,,,,,,,,E06000008,3.0
+2018,,,,Blackpool,,,,,,,,E06000009,3.7
+2018,,,,Cheshire East,,,,,,,,E06000049,2.5
+2018,,,,Cheshire West and Chester,,,,,,,,E06000050,2.1
+2018,,,,Halton,,,,,,,,E06000006,2.1
+2018,,,,Warrington,,,,,,,,E06000007,2.3
+2018,,,,Allerdale,,,,,,,,E07000026,3.5
+2018,,,,Barrow-in-Furness,,,,,,,,E07000027,
+2018,,,,Carlisle,,,,,,,,E07000028,
+2018,,,,Copeland,,,,,,,,E07000029,5.0
+2018,,,,Eden,,,,,,,,E07000030,
+2018,,,,South Lakeland,,,,,,,,E07000031,5.3
+2018,,,,Bolton,,,,,,,,E08000001,5.0
+2018,,,,Bury,,,,,,,,E08000002,2.3
+2018,,,,Manchester,,,,,,,,E08000003,3.5
+2018,,,,Oldham,,,,,,,,E08000004,2.2
+2018,,,,Rochdale,,,,,,,,E08000005,2.5
+2018,,,,Salford,,,,,,,,E08000006,3.7
+2018,,,,Stockport,,,,,,,,E08000007,2.4
+2018,,,,Tameside,,,,,,,,E08000008,1.8
+2018,,,,Trafford,,,,,,,,E08000009,1.5
+2018,,,,Wigan,,,,,,,,E08000010,1.8
+2018,,,,Burnley,,,,,,,,E07000117,5.5
+2018,,,,Chorley,,,,,,,,E07000118,3.6
+2018,,,,Fylde,,,,,,,,E07000119,
+2018,,,,Hyndburn,,,,,,,,E07000120,
+2018,,,,Lancaster,,,,,,,,E07000121,2.1
+2018,,,,Pendle,,,,,,,,E07000122,2.6
+2018,,,,Preston,,,,,,,,E07000123,3.5
+2018,,,,Ribble Valley,,,,,,,,E07000124,
+2018,,,,Rossendale,,,,,,,,E07000125,3.9
+2018,,,,South Ribble,,,,,,,,E07000126,
+2018,,,,West Lancashire,,,,,,,,E07000127,3.0
+2018,,,,Wyre,,,,,,,,E07000128,5.6
+2018,,,,Knowsley,,,,,,,,E08000011,3.0
+2018,,,,Liverpool,,,,,,,,E08000012,2.4
+2018,,,,Sefton,,,,,,,,E08000014,5.1
+2018,,,,St. Helens,,,,,,,,E08000013,2.6
+2018,,,,Wirral,,,,,,,,E08000015,4.0
+2018,,,,East Riding of Yorkshire,,,,,,,,E06000011,1.1
+2018,,,,"Kingston upon Hull, City of",,,,,,,,,2.7
+2018,,,,North East Lincolnshire,,,,,,,,E06000012,2.3
+2018,,,,North Lincolnshire,,,,,,,,E06000013,
+2018,,,,York,,,,,,,,E06000014,2.2
+2018,,,,Craven,,,,,,,,E07000163,
+2018,,,,Hambleton,,,,,,,,E07000164,
+2018,,,,Harrogate,,,,,,,,E07000165,
+2018,,,,Richmondshire,,,,,,,,E07000166,
+2018,,,,Ryedale,,,,,,,,E07000167,
+2018,,,,Scarborough,,,,,,,,E07000168,
+2018,,,,Selby,,,,,,,,E07000169,
+2018,,,,Barnsley,,,,,,,,E08000016,2.7
+2018,,,,Doncaster,,,,,,,,E08000017,3.2
+2018,,,,Rotherham,,,,,,,,E08000018,5.1
+2018,,,,Sheffield,,,,,,,,E08000019,1.8
+2018,,,,Bradford,,,,,,,,E08000032,3.7
+2018,,,,Calderdale,,,,,,,,E08000033,2.2
+2018,,,,Kirklees,,,,,,,,E08000034,4.2
+2018,,,,Leeds,,,,,,,,E08000035,3.0
+2018,,,,Wakefield,,,,,,,,E08000036,2.3
+2018,,,,Derby,,,,,,,,E06000015,4.1
+2018,,,,Leicester,,,,,,,,E06000016,4.3
+2018,,,,Nottingham,,,,,,,,E06000018,4.4
+2018,,,,Rutland,,,,,,,,E06000017,
+2018,,,,Amber Valley,,,,,,,,E07000032,3.4
+2018,,,,Bolsover,,,,,,,,E07000033,
+2018,,,,Chesterfield,,,,,,,,E07000034,
+2018,,,,Derbyshire Dales,,,,,,,,E07000035,
+2018,,,,Erewash,,,,,,,,E07000036,3.6
+2018,,,,High Peak,,,,,,,,E07000037,
+2018,,,,North East Derbyshire,,,,,,,,E07000038,
+2018,,,,South Derbyshire,,,,,,,,E07000039,5.3
+2018,,,,Blaby,,,,,,,,E07000129,
+2018,,,,Charnwood,,,,,,,,E07000130,2.8
+2018,,,,Harborough,,,,,,,,E07000131,6.2
+2018,,,,Hinckley and Bosworth,,,,,,,,E07000132,
+2018,,,,Melton,,,,,,,,E07000133,
+2018,,,,North West Leicestershire,,,,,,,,E07000134,
+2018,,,,Oadby and Wigston,,,,,,,,E07000135,
+2018,,,,Boston,,,,,,,,E07000136,
+2018,,,,East Lindsey,,,,,,,,E07000137,
+2018,,,,Lincoln,,,,,,,,E07000138,
+2018,,,,North Kesteven,,,,,,,,E07000139,
+2018,,,,South Holland,,,,,,,,E07000140,
+2018,,,,South Kesteven,,,,,,,,E07000141,
+2018,,,,West Lindsey,,,,,,,,E07000142,
+2018,,,,Corby,,,,,,,,E07000150,
+2018,,,,Daventry,,,,,,,,E07000151,
+2018,,,,East Northamptonshire,,,,,,,,E07000152,
+2018,,,,Kettering,,,,,,,,E07000153,3.4
+2018,,,,Northampton,,,,,,,,E07000154,3.7
+2018,,,,South Northamptonshire,,,,,,,,E07000155,3.3
+2018,,,,Wellingborough,,,,,,,,E07000156,
+2018,,,,Ashfield,,,,,,,,E07000170,5.2
+2018,,,,Bassetlaw,,,,,,,,E07000171,5.4
+2018,,,,Broxtowe,,,,,,,,E07000172,
+2018,,,,Gedling,,,,,,,,E07000173,
+2018,,,,Mansfield,,,,,,,,E07000174,3.5
+2018,,,,Newark and Sherwood,,,,,,,,E07000175,
+2018,,,,Rushcliffe,,,,,,,,E07000176,2.8
+2018,,,,"Herefordshire, County of",,,,,,,,,5.9
+2018,,,,Shropshire,,,,,,,,E06000051,2.6
+2018,,,,Stoke-on-Trent,,,,,,,,E06000021,6.3
+2018,,,,Telford and Wrekin,,,,,,,,E06000020,3.9
+2018,,,,Cannock Chase,,,,,,,,E07000192,4.7
+2018,,,,East Staffordshire,,,,,,,,E07000193,3.8
+2018,,,,Lichfield,,,,,,,,E07000194,6.8
+2018,,,,Newcastle-under-Lyme,,,,,,,,E07000195,4.4
+2018,,,,South Staffordshire,,,,,,,,E07000196,
+2018,,,,Stafford,,,,,,,,E07000197,
+2018,,,,Staffordshire Moorlands,,,,,,,,E07000198,
+2018,,,,Tamworth,,,,,,,,E07000199,6.9
+2018,,,,North Warwickshire,,,,,,,,E07000218,4.7
+2018,,,,Nuneaton and Bedworth,,,,,,,,E07000219,7.1
+2018,,,,Rugby,,,,,,,,E07000220,6.6
+2018,,,,Stratford-on-Avon,,,,,,,,E07000221,
+2018,,,,Warwick,,,,,,,,E07000222,
+2018,,,,Birmingham,,,,,,,,E08000025,5.0
+2018,,,,Coventry,,,,,,,,E08000026,1.4
+2018,,,,Dudley,,,,,,,,E08000027,3.1
+2018,,,,Sandwell,,,,,,,,E08000028,6.8
+2018,,,,Solihull,,,,,,,,E08000029,3.2
+2018,,,,Walsall,,,,,,,,E08000030,7.3
+2018,,,,Wolverhampton,,,,,,,,E08000031,5.1
+2018,,,,Bromsgrove,,,,,,,,E07000234,6.3
+2018,,,,Malvern Hills,,,,,,,,E07000235,
+2018,,,,Redditch,,,,,,,,E07000236,3.1
+2018,,,,Worcester,,,,,,,,E07000237,
+2018,,,,Wychavon,,,,,,,,E07000238,3.6
+2018,,,,Wyre Forest,,,,,,,,E07000239,
+2018,,,,Bedford,,,,,,,,E06000055,2.8
+2018,,,,Central Bedfordshire,,,,,,,,E06000056,2.7
+2018,,,,Luton,,,,,,,,E06000032,4.0
+2018,,,,Peterborough,,,,,,,,E06000031,5.3
+2018,,,,Southend-on-Sea,,,,,,,,E06000033,2.9
+2018,,,,Thurrock,,,,,,,,E06000034,2.9
+2018,,,,Cambridge,,,,,,,,E07000008,3.5
+2018,,,,East Cambridgeshire,,,,,,,,E07000009,4.6
+2018,,,,Fenland,,,,,,,,E07000010,2.9
+2018,,,,Huntingdonshire,,,,,,,,E07000011,2.7
+2018,,,,South Cambridgeshire,,,,,,,,E07000012,
+2018,,,,Basildon,,,,,,,,E07000066,2.0
+2018,,,,Braintree,,,,,,,,E07000067,2.5
+2018,,,,Brentwood,,,,,,,,E07000068,
+2018,,,,Castle Point,,,,,,,,E07000069,
+2018,,,,Chelmsford,,,,,,,,E07000070,1.6
+2018,,,,Colchester,,,,,,,,E07000071,1.9
+2018,,,,Epping Forest,,,,,,,,E07000072,1.9
+2018,,,,Harlow,,,,,,,,E07000073,
+2018,,,,Maldon,,,,,,,,E07000074,
+2018,,,,Rochford,,,,,,,,E07000075,
+2018,,,,Tendring,,,,,,,,E07000076,3.8
+2018,,,,Uttlesford,,,,,,,,E07000077,3.1
+2018,,,,Broxbourne,,,,,,,,E07000095,2.4
+2018,,,,Dacorum,,,,,,,,E07000096,
+2018,,,,East Hertfordshire,,,,,,,,E07000242,2.5
+2018,,,,Hertsmere,,,,,,,,E07000098,2.5
+2018,,,,North Hertfordshire,,,,,,,,E07000099,3.5
+2018,,,,St Albans,,,,,,,,,
+2018,,,,Stevenage,,,,,,,,E07000243,5.1
+2018,,,,Three Rivers,,,,,,,,E07000102,3.1
+2018,,,,Watford,,,,,,,,E07000103,4.3
+2018,,,,Welwyn Hatfield,,,,,,,,E07000241,2.3
+2018,,,,Breckland,,,,,,,,E07000143,3.0
+2018,,,,Broadland,,,,,,,,E07000144,
+2018,,,,Great Yarmouth,,,,,,,,E07000145,5.7
+2018,,,,King's Lynn and West Norfolk,,,,,,,,E07000146,4.2
+2018,,,,North Norfolk,,,,,,,,E07000147,
+2018,,,,Norwich,,,,,,,,E07000148,
+2018,,,,South Norfolk,,,,,,,,E07000149,2.4
+2018,,,,Babergh,,,,,,,,E07000200,
+2018,,,,East Suffolk,,,,,,,,,4.9
+2018,,,,Ipswich,,,,,,,,E07000202,
+2018,,,,Mid Suffolk,,,,,,,,E07000203,
+2018,,,,West Suffolk,,,,,,,,,1.9
+2018,,,,Camden,,,,,,,,E09000007,1.6
+2018,,,,City of London,,,,,,,,E09000001,
+2018,,,,Hackney,,,,,,,,E09000012,1.4
+2018,,,,Hammersmith and Fulham,,,,,,,,E09000013,3.9
+2018,,,,Haringey,,,,,,,,E09000014,3.2
+2018,,,,Islington,,,,,,,,E09000019,2.5
+2018,,,,Kensington and Chelsea,,,,,,,,E09000020,1.8
+2018,,,,Lambeth,,,,,,,,E09000022,3.3
+2018,,,,Lewisham,,,,,,,,E09000023,2.9
+2018,,,,Newham,,,,,,,,E09000025,2.3
+2018,,,,Southwark,,,,,,,,E09000028,1.9
+2018,,,,Tower Hamlets,,,,,,,,E09000030,1.8
+2018,,,,Wandsworth,,,,,,,,E09000032,1.9
+2018,,,,Westminster,,,,,,,,E09000033,
+2018,,,,Barking and Dagenham,,,,,,,,E09000002,2.2
+2018,,,,Barnet,,,,,,,,E09000003,2.2
+2018,,,,Bexley,,,,,,,,E09000004,3.0
+2018,,,,Brent,,,,,,,,E09000005,3.0
+2018,,,,Bromley,,,,,,,,E09000006,1.2
+2018,,,,Croydon,,,,,,,,E09000008,2.9
+2018,,,,Ealing,,,,,,,,E09000009,1.3
+2018,,,,Enfield,,,,,,,,E09000010,2.1
+2018,,,,Greenwich,,,,,,,,E09000011,3.8
+2018,,,,Harrow,,,,,,,,E09000015,2.5
+2018,,,,Havering,,,,,,,,E09000016,1.5
+2018,,,,Hillingdon,,,,,,,,E09000017,2.0
+2018,,,,Hounslow,,,,,,,,E09000018,1.8
+2018,,,,Kingston upon Thames,,,,,,,,E09000021,3.0
+2018,,,,Merton,,,,,,,,E09000024,2.3
+2018,,,,Redbridge,,,,,,,,E09000026,2.4
+2018,,,,Richmond upon Thames,,,,,,,,E09000027,1.3
+2018,,,,Sutton,,,,,,,,E09000029,2.8
+2018,,,,Waltham Forest,,,,,,,,E09000031,3.1
+2018,,,,Bracknell Forest,,,,,,,,E06000036,2.1
+2018,,,,Brighton and Hove,,,,,,,,E06000043,3.2
+2018,,,,Isle of Wight,,,,,,,,E06000046,3.7
+2018,,,,Medway,,,,,,,,E06000035,1.2
+2018,,,,Milton Keynes,,,,,,,,E06000042,4.3
+2018,,,,Portsmouth,,,,,,,,E06000044,1.7
+2018,,,,Reading,,,,,,,,E06000038,4.1
+2018,,,,Slough,,,,,,,,E06000039,3.3
+2018,,,,Southampton,,,,,,,,E06000045,2.3
+2018,,,,West Berkshire,,,,,,,,E06000037,
+2018,,,,Windsor and Maidenhead,,,,,,,,E06000040,
+2018,,,,Wokingham,,,,,,,,E06000041,2.3
+2018,,,,Aylesbury Vale,,,,,,,,E07000004,3.6
+2018,,,,Chiltern,,,,,,,,E07000005,
+2018,,,,South Bucks,,,,,,,,E07000006,
+2018,,,,Wycombe,,,,,,,,E07000007,
+2018,,,,Eastbourne,,,,,,,,E07000061,
+2018,,,,Hastings,,,,,,,,E07000062,3.7
+2018,,,,Lewes,,,,,,,,E07000063,3.4
+2018,,,,Rother,,,,,,,,E07000064,4.3
+2018,,,,Wealden,,,,,,,,E07000065,3.0
+2018,,,,Basingstoke and Deane,,,,,,,,E07000084,2.6
+2018,,,,East Hampshire,,,,,,,,E07000085,4.7
+2018,,,,Eastleigh,,,,,,,,E07000086,2.1
+2018,,,,Fareham,,,,,,,,E07000087,3.1
+2018,,,,Gosport,,,,,,,,E07000088,
+2018,,,,Hart,,,,,,,,E07000089,6.2
+2018,,,,Havant,,,,,,,,E07000090,
+2018,,,,New Forest,,,,,,,,E07000091,
+2018,,,,Rushmoor,,,,,,,,E07000092,
+2018,,,,Test Valley,,,,,,,,E07000093,
+2018,,,,Winchester,,,,,,,,E07000094,3.7
+2018,,,,Ashford,,,,,,,,E07000105,
+2018,,,,Canterbury,,,,,,,,E07000106,3.1
+2018,,,,Dartford,,,,,,,,E07000107,3.0
+2018,,,,Dover,,,,,,,,E07000108,2.9
+2018,,,,Folkestone and Hythe,,,,,,,,,3.0
+2018,,,,Gravesham,,,,,,,,E07000109,3.1
+2018,,,,Maidstone,,,,,,,,E07000110,
+2018,,,,Sevenoaks,,,,,,,,E07000111,
+2018,,,,Swale,,,,,,,,E07000113,3.4
+2018,,,,Thanet,,,,,,,,E07000114,3.3
+2018,,,,Tonbridge and Malling,,,,,,,,E07000115,
+2018,,,,Tunbridge Wells,,,,,,,,E07000116,
+2018,,,,Cherwell,,,,,,,,E07000177,
+2018,,,,Oxford,,,,,,,,E07000178,3.0
+2018,,,,South Oxfordshire,,,,,,,,E07000179,
+2018,,,,Vale of White Horse,,,,,,,,E07000180,
+2018,,,,West Oxfordshire,,,,,,,,E07000181,
+2018,,,,Elmbridge,,,,,,,,E07000207,
+2018,,,,Epsom and Ewell,,,,,,,,E07000208,4.4
+2018,,,,Guildford,,,,,,,,E07000209,2.2
+2018,,,,Mole Valley,,,,,,,,E07000210,
+2018,,,,Reigate and Banstead,,,,,,,,E07000211,3.5
+2018,,,,Runnymede,,,,,,,,E07000212,6.2
+2018,,,,Spelthorne,,,,,,,,E07000213,4.9
+2018,,,,Surrey Heath,,,,,,,,E07000214,
+2018,,,,Tandridge,,,,,,,,E07000215,
+2018,,,,Waverley,,,,,,,,E07000216,4.2
+2018,,,,Woking,,,,,,,,E07000217,
+2018,,,,Adur,,,,,,,,E07000223,
+2018,,,,Arun,,,,,,,,E07000224,2.8
+2018,,,,Chichester,,,,,,,,E07000225,
+2018,,,,Crawley,,,,,,,,E07000226,3.9
+2018,,,,Horsham,,,,,,,,E07000227,2.3
+2018,,,,Mid Sussex,,,,,,,,E07000228,2.7
+2018,,,,Worthing,,,,,,,,E07000229,8.8
+2018,,,,Bath and North East Somerset,,,,,,,,E06000022,1.8
+2018,,,,"Bournemouth, Christchurch and Poole",,,,,,,,,2.6
+2018,,,,"Bristol, City of",,,,,,,,,2.7
+2018,,,,Cornwall and Isles of Scilly5,,,,,,,,,2.2
+2018,,,,Dorset,,,,,,,,,1.4
+2018,,,,North Somerset,,,,,,,,E06000024,1.9
+2018,,,,Plymouth,,,,,,,,E06000026,1.5
+2018,,,,South Gloucestershire,,,,,,,,E06000025,2.2
+2018,,,,Swindon,,,,,,,,E06000030,
+2018,,,,Torbay,,,,,,,,E06000027,4.1
+2018,,,,Wiltshire,,,,,,,,E06000054,3.1
+2018,,,,East Devon,,,,,,,,E07000040,
+2018,,,,Exeter,,,,,,,,E07000041,4.2
+2018,,,,Mid Devon,,,,,,,,E07000042,4.0
+2018,,,,North Devon,,,,,,,,E07000043,
+2018,,,,South Hams,,,,,,,,E07000044,
+2018,,,,Teignbridge,,,,,,,,E07000045,2.5
+2018,,,,Torridge,,,,,,,,E07000046,
+2018,,,,West Devon,,,,,,,,E07000047,
+2018,,,,Cheltenham,,,,,,,,E07000078,
+2018,,,,Cotswold,,,,,,,,E07000079,
+2018,,,,Forest of Dean,,,,,,,,E07000080,
+2018,,,,Gloucester,,,,,,,,E07000081,3.1
+2018,,,,Stroud,,,,,,,,E07000082,6.6
+2018,,,,Tewkesbury,,,,,,,,E07000083,
+2018,,,,Mendip,,,,,,,,E07000187,3.7
+2018,,,,Sedgemoor,,,,,,,,E07000188,2.8
+2018,,,,Somerset West and Taunton,,,,,,,,,4.8
+2018,,,,South Somerset,,,,,,,,E07000189,1.9
+2018,,,,Isle of Anglesey,,,,,,,,W06000001,
+2018,,,,Gwynedd,,,,,,,,W06000002,2.6
+2018,,,,Conwy,,,,,,,,W06000003,8.9
+2018,,,,Denbighshire,,,,,,,,W06000004,
+2018,,,,Flintshire,,,,,,,,W06000005,2.6
+2018,,,,Wrexham,,,,,,,,W06000006,2.8
+2018,,,,Powys,,,,,,,,W06000023,2.7
+2018,,,,Ceredigion,,,,,,,,W06000008,
+2018,,,,Pembrokeshire,,,,,,,,W06000009,
+2018,,,,Carmarthenshire,,,,,,,,W06000010,1.7
+2018,,,,Swansea,,,,,,,,W06000011,3.0
+2018,,,,Neath Port Talbot,,,,,,,,W06000012,
+2018,,,,Bridgend,,,,,,,,W06000013,5.4
+2018,,,,Vale of Glamorgan,,,,,,,,W06000014,
+2018,,,,Cardiff,,,,,,,,W06000015,2.7
+2018,,,,Rhondda Cynon Taf,,,,,,,,W06000016,3.2
+2018,,,,Merthyr Tydfil,,,,,,,,W06000024,
+2018,,,,Caerphilly,,,,,,,,W06000018,2.6
+2018,,,,Blaenau Gwent,,,,,,,,W06000019,
+2018,,,,Torfaen,,,,,,,,W06000020,
+2018,,,,Monmouthshire,,,,,,,,W06000021,
+2018,,,,Newport,,,,,,,,W06000022,2.6
