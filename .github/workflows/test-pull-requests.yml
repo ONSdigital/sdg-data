@@ -1,6 +1,6 @@
-name: Test Push or Pull Request
+name: Test Pull Request
 
-on: [push, pull_request]
+on: [pull_request]
 
 jobs:
   test:
