@@ -51,3 +51,12 @@ jobs:
         BRANCH: gh-pages
         FOLDER: _site
         CLEAN: true
+    - name: Waiting 4 minutes for live data deployment
+      run: |
+        sleep 240
+    - name: Rebuild live site
+      run: |
+        curl -X POST https://api.github.com/repos/sustainabledevelopment-uk/sustainabledevelopment-uk.github.io/dispatches \
+        -H "Accept: application/vnd.github.everest-preview+json" \
+        -H "Authorization: token ${{secrets.token}}" \
+        --data '{"event_type": "rebuild-live"}'
