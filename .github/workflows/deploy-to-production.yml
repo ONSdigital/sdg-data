@@ -46,7 +46,7 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
-        REPOSITORY_NAME: sustainabledevelopment-uk/sustainabledevelopment-uk.github.io
+        REPOSITORY_NAME: sustainabledevelopment-uk/sdg-data
         ACCESS_TOKEN: ${{ secrets.token }}
         BRANCH: gh-pages
         FOLDER: _site
