@@ -3183,21 +3183,63 @@ Year,Units,Subject,Sex,Special Educational Needs,Free School Meals,Ethnicity,Eth
 2018/19,Attainment at age 11,Maths,,,,,,South West,Swindon,Percentage (%),Units,Undefined,E06000030,77.0
 2018/19,Attainment at age 11,Maths,,,,,,South West,Torbay,Percentage (%),Units,Undefined,E06000027,79.0
 2018/19,Attainment at age 11,Maths,,,,,,South West,Wiltshire,Percentage (%),Units,Undefined,E06000054,76.0
-2016/17,Attainment at age 16,English language,,,,,,,,Percentage (%),Units,Undefined,,65.0
-2016/17,Attainment at age 16,English language,Male,,,,,,,Percentage (%),Units,Undefined,,56.0
-2016/17,Attainment at age 16,English language,Female,,,,,,,Percentage (%),Units,Undefined,,74.0
-2016/17,Attainment at age 16,Maths,,,,,,,,Percentage (%),Units,Undefined,,71.0
-2016/17,Attainment at age 16,Maths,Male,,,,,,,Percentage (%),Units,Undefined,,70.0
-2016/17,Attainment at age 16,Maths,Female,,,,,,,Percentage (%),Units,Undefined,,71.0
-2017/18,Attainment at age 16,English language,,,,,,,,Percentage (%),Units,Undefined,,65.0
-2017/18,Attainment at age 16,English language,Male,,,,,,,Percentage (%),Units,Undefined,,57.0
-2017/18,Attainment at age 16,English language,Female,,,,,,,Percentage (%),Units,Undefined,,73.0
-2017/18,Attainment at age 16,Maths,,,,,,,,Percentage (%),Units,Undefined,,71.0
+2009/10,Attainment at age 16,English,,,,,,,,Percentage (%),Units,Undefined,,69.8
+2009/10,Attainment at age 16,English,Male,,,,,,,Percentage (%),Units,Undefined,,63.1
+2009/10,Attainment at age 16,English,Female,,,,,,,Percentage (%),Units,Undefined,,76.5
+2010/11,Attainment at age 16,English,,,,,,,,Percentage (%),Units,Undefined,,72.3
+2010/11,Attainment at age 16,English,Male,,,,,,,Percentage (%),Units,Undefined,,65.8
+2010/11,Attainment at age 16,English,Female,,,,,,,Percentage (%),Units,Undefined,,78.8
+2011/12,Attainment at age 16,English,,,,,,,,Percentage (%),Units,Undefined,,69.3
+2011/12,Attainment at age 16,English,Male,,,,,,,Percentage (%),Units,Undefined,,62.2
+2011/12,Attainment at age 16,English,Female,,,,,,,Percentage (%),Units,Undefined,,76.5
+2012/13,Attainment at age 16,English,,,,,,,,Percentage (%),Units,Undefined,,70.7
+2012/13,Attainment at age 16,English,Male,,,,,,,Percentage (%),Units,Undefined,,63.4
+2012/13,Attainment at age 16,English,Female,,,,,,,Percentage (%),Units,Undefined,,78.0
+2013/14,Attainment at age 16,English,,,,,,,,Percentage (%),Units,Undefined,,72.4
+2013/14,Attainment at age 16,English,Male,,,,,,,Percentage (%),Units,Undefined,,64.7
+2013/14,Attainment at age 16,English,Female,,,,,,,Percentage (%),Units,Undefined,,79.8
+2014/15,Attainment at age 16,English,,,,,,,,Percentage (%),Units,Undefined,,74.8
+2014/15,Attainment at age 16,English,Male,,,,,,,Percentage (%),Units,Undefined,,67.2
+2014/15,Attainment at age 16,English,Female,,,,,,,Percentage (%),Units,Undefined,,82.0
+2015/16,Attainment at age 16,English,,,,,,,,Percentage (%),Units,Undefined,,72.8
+2015/16,Attainment at age 16,English,Male,,,,,,,Percentage (%),Units,Undefined,,65.0
+2015/16,Attainment at age 16,English,Female,,,,,,,Percentage (%),Units,Undefined,,80.2
+2016/17,Attainment at age 16,English,,,,,,,,Percentage (%),Units,Undefined,,70.8
+2016/17,Attainment at age 16,English,Male,,,,,,,Percentage (%),Units,Undefined,,62.7
+2016/17,Attainment at age 16,English,Female,,,,,,,Percentage (%),Units,Undefined,,79.0
+2017/18,Attainment at age 16,English,,,,,,,,Percentage (%),Units,Undefined,,70.1
+2017/18,Attainment at age 16,English,Male,,,,,,,Percentage (%),Units,Undefined,,62.6
+2017/18,Attainment at age 16,English,Female,,,,,,,Percentage (%),Units,Undefined,,77.8
+2018/19,Attainment at age 16,English,,,,,,,,Percentage (%),Units,Undefined,,70.5
+2018/19,Attainment at age 16,English,Male,,,,,,,Percentage (%),Units,Undefined,,63.0
+2018/19,Attainment at age 16,English,Female,,,,,,,Percentage (%),Units,Undefined,,78.2
+2009/10,Attainment at age 16,Maths,,,,,,,,Percentage (%),Units,Undefined,,64.6
+2009/10,Attainment at age 16,Maths,Male,,,,,,,Percentage (%),Units,Undefined,,64.5
+2009/10,Attainment at age 16,Maths,Female,,,,,,,Percentage (%),Units,Undefined,,64.8
+2010/11,Attainment at age 16,Maths,,,,,,,,Percentage (%),Units,Undefined,,67.0
+2010/11,Attainment at age 16,Maths,Male,,,,,,,Percentage (%),Units,Undefined,,66.8
+2010/11,Attainment at age 16,Maths,Female,,,,,,,Percentage (%),Units,Undefined,,67.3
+2011/12,Attainment at age 16,Maths,,,,,,,,Percentage (%),Units,Undefined,,70.9
+2011/12,Attainment at age 16,Maths,Male,,,,,,,Percentage (%),Units,Undefined,,70.6
+2011/12,Attainment at age 16,Maths,Female,,,,,,,Percentage (%),Units,Undefined,,71.2
+2012/13,Attainment at age 16,Maths,,,,,,,,Percentage (%),Units,Undefined,,72.8
+2012/13,Attainment at age 16,Maths,Male,,,,,,,Percentage (%),Units,Undefined,,72.3
+2012/13,Attainment at age 16,Maths,Female,,,,,,,Percentage (%),Units,Undefined,,73.2
+2013/14,Attainment at age 16,Maths,,,,,,,,Percentage (%),Units,Undefined,,68.0
+2013/14,Attainment at age 16,Maths,Male,,,,,,,Percentage (%),Units,Undefined,,67.3
+2013/14,Attainment at age 16,Maths,Female,,,,,,,Percentage (%),Units,Undefined,,68.7
+2014/15,Attainment at age 16,Maths,,,,,,,,Percentage (%),Units,Undefined,,70.2
+2014/15,Attainment at age 16,Maths,Male,,,,,,,Percentage (%),Units,Undefined,,69.8
+2014/15,Attainment at age 16,Maths,Female,,,,,,,Percentage (%),Units,Undefined,,70.7
+2015/16,Attainment at age 16,Maths,,,,,,,,Percentage (%),Units,Undefined,,71.7
+2015/16,Attainment at age 16,Maths,Male,,,,,,,Percentage (%),Units,Undefined,,70.8
+2015/16,Attainment at age 16,Maths,Female,,,,,,,Percentage (%),Units,Undefined,,72.6
+2016/17,Attainment at age 16,Maths,,,,,,,,Percentage (%),Units,Undefined,,70.7
+2016/17,Attainment at age 16,Maths,Male,,,,,,,Percentage (%),Units,Undefined,,70.4
+2016/17,Attainment at age 16,Maths,Female,,,,,,,Percentage (%),Units,Undefined,,71.1
+2017/18,Attainment at age 16,Maths,,,,,,,,Percentage (%),Units,Undefined,,70.8
 2017/18,Attainment at age 16,Maths,Male,,,,,,,Percentage (%),Units,Undefined,,70.0
-2017/18,Attainment at age 16,Maths,Female,,,,,,,Percentage (%),Units,Undefined,,72.0
-2018/19,Attainment at age 16,English language,,,,,,,,Percentage (%),Units,Undefined,,71.0
-2018/19,Attainment at age 16,English language,Male,,,,,,,Percentage (%),Units,Undefined,,63.0
-2018/19,Attainment at age 16,English language,Female,,,,,,,Percentage (%),Units,Undefined,,78.0
-2018/19,Attainment at age 16,Maths,,,,,,,,Percentage (%),Units,Undefined,,71.0
-2018/19,Attainment at age 16,Maths,Male,,,,,,,Percentage (%),Units,Undefined,,71.0
-2018/19,Attainment at age 16,Maths,Female,,,,,,,Percentage (%),Units,Undefined,,72.0
+2017/18,Attainment at age 16,Maths,Female,,,,,,,Percentage (%),Units,Undefined,,71.5
+2018/19,Attainment at age 16,Maths,,,,,,,,Percentage (%),Units,Undefined,,71.3
+2018/19,Attainment at age 16,Maths,Male,,,,,,,Percentage (%),Units,Undefined,,70.7
+2018/19,Attainment at age 16,Maths,Female,,,,,,,Percentage (%),Units,Undefined,,71.9
