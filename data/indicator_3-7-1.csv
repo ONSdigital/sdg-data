@@ -1,393 +1,1710 @@
-Year,Main method of contraception,Age,Observation status,Unit measure,Value
-2014/15,IU device,,Undefined,Percentage (%),5.76049572393
-2014/15,IU system,,Undefined,Percentage (%),7.18956956720844
-2014/15,Implant,,Undefined,Percentage (%),14.7621734247516
-2014/15,Injectable contraceptive,,Undefined,Percentage (%),9.05841565117423
-2014/15,Oral contraceptives,,Undefined,Percentage (%),45.343397413217
-2014/15,Male condom,,Undefined,Percentage (%),14.9979440461809
-2014/15,Female condom,,Undefined,Percentage (%),0.13461981854481
-2014/15,Contraceptive patch,,Undefined,Percentage (%),1.46477412664463
-2014/15,Natural family planning,,Undefined,Percentage (%),0.813031453437162
-2014/15,Other methods,,Undefined,Percentage (%),0.475578774906526
-2015/16,IU device,,Undefined,Percentage (%),5.83547611766122
-2015/16,IU system,,Undefined,Percentage (%),7.79693801731819
-2015/16,Implant,,Undefined,Percentage (%),15.4588502605015
-2015/16,Injectable contraceptive,,Undefined,Percentage (%),9.29381409722076
-2015/16,Oral contraceptives,,Undefined,Percentage (%),44.7619825714074
-2015/16,Male condom,,Undefined,Percentage (%),14.0075716006461
-2015/16,Female condom,,Undefined,Percentage (%),0.11714010331735
-2015/16,Contraceptive patch,,Undefined,Percentage (%),1.54147985157101
-2015/16,Natural family planning,,Undefined,Percentage (%),0.698203594136591
-2015/16,Other methods,,Undefined,Percentage (%),0.488543786219863
-2016/17,IU device,,Undefined,Percentage (%),6.22443237283658
-2016/17,IU system,,Undefined,Percentage (%),8.29522354805738
-2016/17,Implant,,Undefined,Percentage (%),15.4609350774637
-2016/17,Injectable contraceptive,,Undefined,Percentage (%),9.28450840099686
-2016/17,Contraceptive patch,,Undefined,Percentage (%),1.59107875001436
-2017/18,Contraceptive patch,,Undefined,Percentage (%),1.58980585495056
-2018/19,Contraceptive patch,,Undefined,Percentage (%),1.61615529117095
-2014/15,Contraceptive patch,Under 16,Undefined,Percentage (%),1.51109711947112
-2015/16,Contraceptive patch,Under 16,Undefined,Percentage (%),1.57851010800332
-2016/17,Contraceptive patch,Under 16,Undefined,Percentage (%),1.48155513572636
-2017/18,Contraceptive patch,Under 16,Undefined,Percentage (%),1.6246953696182
-2018/19,Contraceptive patch,Under 16,Undefined,Percentage (%),1.39456734808177
-2014/15,Contraceptive patch,16 to 17,Undefined,Percentage (%),1.79583803911483
-2015/16,Contraceptive patch,16 to 17,Undefined,Percentage (%),1.84917463989065
-2016/17,Contraceptive patch,16 to 17,Undefined,Percentage (%),2.03360528949683
-2017/18,Contraceptive patch,16 to 17,Undefined,Percentage (%),1.8419809729438
-2018/19,Contraceptive patch,16 to 17,Undefined,Percentage (%),1.9346785937175
-2014/15,Contraceptive patch,18 to 19,Undefined,Percentage (%),1.89592406096897
-2015/16,Contraceptive patch,18 to 19,Undefined,Percentage (%),2.05421959026298
-2016/17,Contraceptive patch,18 to 19,Undefined,Percentage (%),2.08839483156987
-2017/18,Contraceptive patch,18 to 19,Undefined,Percentage (%),1.98414849670935
-2018/19,Contraceptive patch,18 to 19,Undefined,Percentage (%),1.99216590969168
-2014/15,Contraceptive patch,20 to 24,Undefined,Percentage (%),1.8290069967197
-2015/16,Contraceptive patch,20 to 24,Undefined,Percentage (%),1.94558020471126
-2016/17,Contraceptive patch,20 to 24,Undefined,Percentage (%),2.02709248256265
-2017/18,Contraceptive patch,20 to 24,Undefined,Percentage (%),2.06611570247934
-2018/19,Contraceptive patch,20 to 24,Undefined,Percentage (%),2.12119261330194
-2014/15,Contraceptive patch,25 to 34,Undefined,Percentage (%),1.46486088862502
-2015/16,Contraceptive patch,25 to 34,Undefined,Percentage (%),1.55129044741464
-2016/17,Contraceptive patch,25 to 34,Undefined,Percentage (%),1.60108629153797
-2017/18,Contraceptive patch,25 to 34,Undefined,Percentage (%),1.63805642194342
-2018/19,Contraceptive patch,25 to 34,Undefined,Percentage (%),1.73373229971772
-2014/15,Contraceptive patch,35 to 44,Undefined,Percentage (%),0.55674375639756
-2015/16,Contraceptive patch,35 to 44,Undefined,Percentage (%),0.59991075707746
-2016/17,Contraceptive patch,35 to 44,Undefined,Percentage (%),0.621244181125688
-2017/18,Contraceptive patch,35 to 44,Undefined,Percentage (%),0.67309730761077
-2018/19,Contraceptive patch,35 to 44,Undefined,Percentage (%),0.680025004646134
-2014/15,Contraceptive patch,45 and over,Undefined,Percentage (%),0.11051686368929
-2015/16,Contraceptive patch,45 and over,Undefined,Percentage (%),0.137314135509435
-2016/17,Contraceptive patch,45 and over,Undefined,Percentage (%),0.122544095785287
-2017/18,Contraceptive patch,45 and over,Undefined,Percentage (%),0.110120497236399
-2018/19,Contraceptive patch,45 and over,Undefined,Percentage (%),0.112304488095724
-2016/17,Female condom,,Undefined,Percentage (%),0.126905010738116
-2017/18,Female condom,,Undefined,Percentage (%),0.464249257666294
-2014/15,Female condom,Under 16,Undefined,Percentage (%),0.151109711947112
-2015/16,Female condom,Under 16,Undefined,Percentage (%),0.0949479764212525
-2016/17,Female condom,Under 16,Undefined,Percentage (%),0.149149845878493
-2017/18,Female condom,Under 16,Undefined,Percentage (%),0.314107771459518
-2014/15,Female condom,16 to 17,Undefined,Percentage (%),0.124120810922631
-2015/16,Female condom,16 to 17,Undefined,Percentage (%),0.102512879823362
-2016/17,Female condom,16 to 17,Undefined,Percentage (%),0.157714355039277
-2017/18,Female condom,16 to 17,Undefined,Percentage (%),0.360974293232575
-2014/15,Female condom,18 to 19,Undefined,Percentage (%),0.108873162765378
-2015/16,Female condom,18 to 19,Undefined,Percentage (%),0.107922627777624
-2016/17,Female condom,18 to 19,Undefined,Percentage (%),0.103130608966413
-2017/18,Female condom,18 to 19,Undefined,Percentage (%),0.372976548015309
-2014/15,Female condom,20 to 24,Undefined,Percentage (%),0.109217087923548
-2015/16,Female condom,20 to 24,Undefined,Percentage (%),0.0976122246570831
-2016/17,Female condom,20 to 24,Undefined,Percentage (%),0.102525187290106
-2017/18,Female condom,20 to 24,Undefined,Percentage (%),0.369198312236287
-2014/15,Female condom,25 to 34,Undefined,Percentage (%),0.143386842016826
-2015/16,Female condom,25 to 34,Undefined,Percentage (%),0.119816628464263
-2016/17,Female condom,25 to 34,Undefined,Percentage (%),0.124595251950998
-2017/18,Female condom,25 to 34,Undefined,Percentage (%),0.442959701945289
-2014/15,Female condom,35 to 44,Undefined,Percentage (%),0.151460932233716
-2015/16,Female condom,35 to 44,Undefined,Percentage (%),0.146259234163513
-2016/17,Female condom,35 to 44,Undefined,Percentage (%),0.140499365213711
-2017/18,Female condom,35 to 44,Undefined,Percentage (%),0.673980637410784
-2014/15,Female condom,45 and over,Undefined,Percentage (%),0.246689427877879
-2015/16,Female condom,45 and over,Undefined,Percentage (%),0.182431637176821
-2016/17,Female condom,45 and over,Undefined,Percentage (%),0.224998995540199
-2017/18,Female condom,45 and over,Undefined,Percentage (%),0.9021409965905
-2017/18,Implant,,Undefined,Percentage (%),15.8821470273605
-2018/19,Implant,,Undefined,Percentage (%),17.1050720100188
-2014/15,Implant,Under 16,Undefined,Percentage (%),22.194238942232
-2015/16,Implant,Under 16,Undefined,Percentage (%),23.408632353523
-2016/17,Implant,Under 16,Undefined,Percentage (%),23.2474893109277
-2017/18,Implant,Under 16,Undefined,Percentage (%),24.0021662604928
-2018/19,Implant,Under 16,Undefined,Percentage (%),28.8154578549426
-2014/15,Implant,16 to 17,Undefined,Percentage (%),18.1328204497423
-2015/16,Implant,16 to 17,Undefined,Percentage (%),19.0016822626433
-2016/17,Implant,16 to 17,Undefined,Percentage (%),18.1371508295169
-2017/18,Implant,16 to 17,Undefined,Percentage (%),18.7909047972472
-2018/19,Implant,16 to 17,Undefined,Percentage (%),20.9732019592639
-2014/15,Implant,18 to 19,Undefined,Percentage (%),15.958424060969
-2015/16,Implant,18 to 19,Undefined,Percentage (%),16.3239892630822
-2016/17,Implant,18 to 19,Undefined,Percentage (%),15.61040429182
-2017/18,Implant,18 to 19,Undefined,Percentage (%),15.7691014951589
-2018/19,Implant,18 to 19,Undefined,Percentage (%),17.0824021339485
-2014/15,Implant,20 to 24,Undefined,Percentage (%),15.0761296194467
-2015/16,Implant,20 to 24,Undefined,Percentage (%),15.6105076227699
-2016/17,Implant,20 to 24,Undefined,Percentage (%),15.4441681735986
-2017/18,Implant,20 to 24,Undefined,Percentage (%),15.5590717299578
-2018/19,Implant,20 to 24,Undefined,Percentage (%),16.4342995879929
-2014/15,Implant,25 to 34,Undefined,Percentage (%),14.7568958242316
-2015/16,Implant,25 to 34,Undefined,Percentage (%),15.7863989521626
-2016/17,Implant,25 to 34,Undefined,Percentage (%),16.0847247713267
-2017/18,Implant,25 to 34,Undefined,Percentage (%),16.6640739847706
-2018/19,Implant,25 to 34,Undefined,Percentage (%),17.7312830466244
-2014/15,Implant,35 to 44,Undefined,Percentage (%),11.9504339938251
-2015/16,Implant,35 to 44,Undefined,Percentage (%),13.0079822836272
-2016/17,Implant,35 to 44,Undefined,Percentage (%),13.8831993228946
-2017/18,Implant,35 to 44,Undefined,Percentage (%),14.627941488234
-2018/19,Implant,35 to 44,Undefined,Percentage (%),16.0350740847117
-2014/15,Implant,45 and over,Undefined,Percentage (%),6.44747488701624
-2015/16,Implant,45 and over,Undefined,Percentage (%),7.68370669700655
-2016/17,Implant,45 and over,Undefined,Percentage (%),8.9336654747077
-2017/18,Implant,45 and over,Undefined,Percentage (%),9.60377798013596
-2018/19,Implant,45 and over,Undefined,Percentage (%),10.9445828398742
-2017/18,Injectable contraceptive,,Undefined,Percentage (%),9.14937002611937
-2018/19,Injectable contraceptive,,Undefined,Percentage (%),8.89643080776456
-2014/15,Injectable contraceptive,Under 16,Undefined,Percentage (%),7.27215488745475
-2015/16,Injectable contraceptive,Under 16,Undefined,Percentage (%),7.28330102464691
-2016/17,Injectable contraceptive,Under 16,Undefined,Percentage (%),7.7607636472109
-2017/18,Injectable contraceptive,Under 16,Undefined,Percentage (%),7.71730300568643
-2018/19,Injectable contraceptive,Under 16,Undefined,Percentage (%),7.49929991598992
-2014/15,Injectable contraceptive,16 to 17,Undefined,Percentage (%),9.8234353509488
-2015/16,Injectable contraceptive,16 to 17,Undefined,Percentage (%),9.69535274944801
-2016/17,Injectable contraceptive,16 to 17,Undefined,Percentage (%),9.90567468381305
-2017/18,Injectable contraceptive,16 to 17,Undefined,Percentage (%),9.61304905202078
-2018/19,Injectable contraceptive,16 to 17,Undefined,Percentage (%),9.49562191501031
-2014/15,Injectable contraceptive,18 to 19,Undefined,Percentage (%),10.6227885138813
-2015/16,Injectable contraceptive,18 to 19,Undefined,Percentage (%),10.8310042338877
-2016/17,Injectable contraceptive,18 to 19,Undefined,Percentage (%),10.7424412205111
-2017/18,Injectable contraceptive,18 to 19,Undefined,Percentage (%),10.6742852186358
-2018/19,Injectable contraceptive,18 to 19,Undefined,Percentage (%),10.3441232307212
-2014/15,Injectable contraceptive,20 to 24,Undefined,Percentage (%),10.047213636967
-2015/16,Injectable contraceptive,20 to 24,Undefined,Percentage (%),10.4221630712177
-2016/17,Injectable contraceptive,20 to 24,Undefined,Percentage (%),10.3994445879618
-2017/18,Injectable contraceptive,20 to 24,Undefined,Percentage (%),10.4613453290093
-2018/19,Injectable contraceptive,20 to 24,Undefined,Percentage (%),10.2118893466745
-2014/15,Injectable contraceptive,25 to 34,Undefined,Percentage (%),8.51471395445227
-2015/16,Injectable contraceptive,25 to 34,Undefined,Percentage (%),8.79945226684131
-2016/17,Injectable contraceptive,25 to 34,Undefined,Percentage (%),8.73845442201233
-2017/18,Injectable contraceptive,25 to 34,Undefined,Percentage (%),8.54807221137617
-2018/19,Injectable contraceptive,25 to 34,Undefined,Percentage (%),8.51230980741015
-2014/15,Injectable contraceptive,35 to 44,Undefined,Percentage (%),8.55754267120495
-2015/16,Injectable contraceptive,35 to 44,Undefined,Percentage (%),8.77142243302649
-2016/17,Injectable contraceptive,35 to 44,Undefined,Percentage (%),8.78205670757512
-2017/18,Injectable contraceptive,35 to 44,Undefined,Percentage (%),8.4622994841354
-2018/19,Injectable contraceptive,35 to 44,Undefined,Percentage (%),8.06906688742841
-2014/15,Injectable contraceptive,45 and over,Undefined,Percentage (%),4.12070020327209
-2015/16,Injectable contraceptive,45 and over,Undefined,Percentage (%),4.63533288869708
-2016/17,Injectable contraceptive,45 and over,Undefined,Percentage (%),4.70288079071076
-2017/18,Injectable contraceptive,45 and over,Undefined,Percentage (%),4.69282734376655
-2018/19,Injectable contraceptive,45 and over,Undefined,Percentage (%),4.49422142361253
-2017/18,IU device,,Undefined,Percentage (%),6.92677517508794
-2018/19,IU device,,Undefined,Percentage (%),7.62943018159048
-2014/15,IU device,Under 16,Undefined,Percentage (%),0.346293089878797
-2015/16,IU device,Under 16,Undefined,Percentage (%),0.478696047790481
-2016/17,IU device,Under 16,Undefined,Percentage (%),0.452421199164761
-2017/18,IU device,Under 16,Undefined,Percentage (%),0.687787706471703
-2018/19,IU device,Under 16,Undefined,Percentage (%),1.00252030243629
-2014/15,IU device,16 to 17,Undefined,Percentage (%),0.732424604993906
-2015/16,IU device,16 to 17,Undefined,Percentage (%),0.789874881715908
-2016/17,IU device,16 to 17,Undefined,Percentage (%),0.944769646052592
-2017/18,IU device,16 to 17,Undefined,Percentage (%),1.35449699750354
-2018/19,IU device,16 to 17,Undefined,Percentage (%),1.59048357508936
-2014/15,IU device,18 to 19,Undefined,Percentage (%),1.46213255307567
-2015/16,IU device,18 to 19,Undefined,Percentage (%),1.63083081975076
-2016/17,IU device,18 to 19,Undefined,Percentage (%),1.84742619715796
-2017/18,IU device,18 to 19,Undefined,Percentage (%),2.6748056510284
-2018/19,IU device,18 to 19,Undefined,Percentage (%),3.11681445702064
-2014/15,IU device,20 to 24,Undefined,Percentage (%),3.50821972354425
-2015/16,IU device,20 to 24,Undefined,Percentage (%),3.55990607273483
-2016/17,IU device,20 to 24,Undefined,Percentage (%),4.00009687419271
-2017/18,IU device,20 to 24,Undefined,Percentage (%),4.99965128848903
-2018/19,IU device,20 to 24,Undefined,Percentage (%),5.86236389052384
-2014/15,IU device,25 to 34,Undefined,Percentage (%),9.1065580810061
-2015/16,IU device,25 to 34,Undefined,Percentage (%),8.80056857083321
-2016/17,IU device,25 to 34,Undefined,Percentage (%),9.03576704418282
-2017/18,IU device,25 to 34,Undefined,Percentage (%),9.64438775113365
-2018/19,IU device,25 to 34,Undefined,Percentage (%),10.1439898949055
-2014/15,IU device,35 to 44,Undefined,Percentage (%),11.9695746610854
-2015/16,IU device,35 to 44,Undefined,Percentage (%),11.6288486010346
-2016/17,IU device,35 to 44,Undefined,Percentage (%),11.9356749894202
-2017/18,IU device,35 to 44,Undefined,Percentage (%),12.1104515581938
-2018/19,IU device,35 to 44,Undefined,Percentage (%),12.6070722600483
-2014/15,IU device,45 and over,Undefined,Percentage (%),7.31384815772335
-2015/16,IU device,45 and over,Undefined,Percentage (%),6.96378830083565
-2016/17,IU device,45 and over,Undefined,Percentage (%),6.80019285628189
-2017/18,IU device,45 and over,Undefined,Percentage (%),6.80841151182737
-2018/19,IU device,45 and over,Undefined,Percentage (%),6.72397598725855
-2017/18,IU system,,Undefined,Percentage (%),9.17127896815003
-2018/19,IU system,,Undefined,Percentage (%),10.4407013149656
-2014/15,IU system,Under 16,Undefined,Percentage (%),0.129072878954824
-2015/16,IU system,Under 16,Undefined,Percentage (%),0.265063100842663
-2016/17,IU system,Under 16,Undefined,Percentage (%),0.263498061052004
-2017/18,IU system,Under 16,Undefined,Percentage (%),0.324939073923639
-2018/19,IU system,Under 16,Undefined,Percentage (%),0.537664519742369
-2014/15,IU system,16 to 17,Undefined,Percentage (%),0.571403012445627
-2015/16,IU system,16 to 17,Undefined,Percentage (%),0.709704552623278
-2016/17,IU system,16 to 17,Undefined,Percentage (%),0.843165205786904
-2017/18,IU system,16 to 17,Undefined,Percentage (%),1.05930773901896
-2018/19,IU system,16 to 17,Undefined,Percentage (%),1.51672749966904
-2014/15,IU system,18 to 19,Undefined,Percentage (%),1.30222509526402
-2015/16,IU system,18 to 19,Undefined,Percentage (%),1.44265803285644
-2016/17,IU system,18 to 19,Undefined,Percentage (%),1.64612318157929
-2017/18,IU system,18 to 19,Undefined,Percentage (%),2.09907731673732
-2018/19,IU system,18 to 19,Undefined,Percentage (%),2.7996058923894
-2014/15,IU system,20 to 24,Undefined,Percentage (%),2.92686626595119
-2015/16,IU system,20 to 24,Undefined,Percentage (%),3.25491687280226
-2016/17,IU system,20 to 24,Undefined,Percentage (%),3.70705244122966
-2017/18,IU system,20 to 24,Undefined,Percentage (%),4.55112110750776
-2018/19,IU system,20 to 24,Undefined,Percentage (%),5.64164582107122
-2014/15,IU system,25 to 34,Undefined,Percentage (%),7.2432759412562
-2015/16,IU system,25 to 34,Undefined,Percentage (%),7.59682076623106
-2016/17,IU system,25 to 34,Undefined,Percentage (%),8.03229031439784
-2017/18,IU system,25 to 34,Undefined,Percentage (%),9.0960355301127
-2018/19,IU system,25 to 34,Undefined,Percentage (%),10.1124114745197
-2014/15,IU system,35 to 44,Undefined,Percentage (%),19.1556469129433
-2015/16,IU system,35 to 44,Undefined,Percentage (%),19.4095093291907
-2016/17,IU system,35 to 44,Undefined,Percentage (%),19.4887854422344
-2017/18,IU system,35 to 44,Undefined,Percentage (%),19.939403575719
-2018/19,IU system,35 to 44,Undefined,Percentage (%),20.60349051344
-2014/15,IU system,45 and over,Undefined,Percentage (%),30.4829192240137
-2015/16,IU system,45 and over,Undefined,Percentage (%),31.8294166110871
-2016/17,IU system,45 and over,Undefined,Percentage (%),32.5746313632528
-2017/18,IU system,45 and over,Undefined,Percentage (%),33.6778128375087
-2018/19,IU system,45 and over,Undefined,Percentage (%),35.1574304733124
-2016/17,Male condom,,Undefined,Percentage (%),13.5657436863322
-2017/18,Male condom,,Undefined,Percentage (%),13.5382574190532
-2018/19,Male condom,,Undefined,Percentage (%),13.7271133375078
-2014/15,Male condom,Under 16,Undefined,Percentage (%),23.4345978277979
-2015/16,Male condom,Under 16,Undefined,Percentage (%),20.8212999960438
-2016/17,Male condom,Under 16,Undefined,Percentage (%),18.3553743661132
-2017/18,Male condom,Under 16,Undefined,Percentage (%),16.8535066341728
-2018/19,Male condom,Under 16,Undefined,Percentage (%),15.1442173060767
-2014/15,Male condom,16 to 17,Undefined,Percentage (%),18.0098178443234
-2015/16,Male condom,16 to 17,Undefined,Percentage (%),15.6805278099043
-2016/17,Male condom,16 to 17,Undefined,Percentage (%),14.738709775257
-2017/18,Male condom,16 to 17,Undefined,Percentage (%),14.0695634572566
-2018/19,Male condom,16 to 17,Undefined,Percentage (%),14.1384723036481
-2014/15,Male condom,18 to 19,Undefined,Percentage (%),14.1671203048449
-2015/16,Male condom,18 to 19,Undefined,Percentage (%),12.6684561529734
-2016/17,Male condom,18 to 19,Undefined,Percentage (%),12.6890314647521
-2017/18,Male condom,18 to 19,Undefined,Percentage (%),12.7798679402804
-2018/19,Male condom,18 to 19,Undefined,Percentage (%),13.4128757840098
-2014/15,Male condom,20 to 24,Undefined,Percentage (%),12.2266254574414
-2015/16,Male condom,20 to 24,Undefined,Percentage (%),11.4233744036442
-2016/17,Male condom,20 to 24,Undefined,Percentage (%),11.3500226039783
-2017/18,Male condom,20 to 24,Undefined,Percentage (%),11.7498343620323
-2018/19,Male condom,20 to 24,Undefined,Percentage (%),12.1247792819305
-2014/15,Male condom,25 to 34,Undefined,Percentage (%),14.5026082215924
-2015/16,Male condom,25 to 34,Undefined,Percentage (%),14.0948263030989
-2016/17,Male condom,25 to 34,Undefined,Percentage (%),13.9035617828312
-2017/18,Male condom,25 to 34,Undefined,Percentage (%),13.9351466550515
-2018/19,Male condom,25 to 34,Undefined,Percentage (%),14.0158123163542
-2014/15,Male condom,35 to 44,Undefined,Percentage (%),16.9353295107479
-2015/16,Male condom,35 to 44,Undefined,Percentage (%),16.2165958782991
-2016/17,Male condom,35 to 44,Undefined,Percentage (%),15.4743969530258
-2017/18,Male condom,35 to 44,Undefined,Percentage (%),15.2153558052434
-2018/19,Male condom,35 to 44,Undefined,Percentage (%),14.9622396053321
-2014/15,Male condom,45 and over,Undefined,Percentage (%),18.7503700341418
-2015/16,Male condom,45 and over,Undefined,Percentage (%),18.2078543685511
-2016/17,Male condom,45 and over,Undefined,Percentage (%),16.5153280565712
-2017/18,Male condom,45 and over,Undefined,Percentage (%),15.5312255140721
-2018/19,Male condom,45 and over,Undefined,Percentage (%),15.8778127169519
-2016/17,Natural family planning,,Undefined,Percentage (%),0.746385217001826
-2017/18,Natural family planning,,Undefined,Percentage (%),0.848940904606753
-2018/19,Natural family planning,,Undefined,Percentage (%),0.993738259236068
-2014/15,Natural family planning,Under 16,Undefined,Percentage (%),0.270738233905242
-2015/16,Natural family planning,Under 16,Undefined,Percentage (%),0.213632946947818
-2016/17,Natural family planning,Under 16,Undefined,Percentage (%),0.203838122700607
-2017/18,Natural family planning,Under 16,Undefined,Percentage (%),0.24911995667479
-2018/19,Natural family planning,Under 16,Undefined,Percentage (%),0.330439652758331
-2014/15,Natural family planning,16 to 17,Undefined,Percentage (%),0.338816267653669
-2015/16,Natural family planning,16 to 17,Undefined,Percentage (%),0.201082956576596
-2016/17,Natural family planning,16 to 17,Undefined,Percentage (%),0.204725364714446
-2017/18,Natural family planning,16 to 17,Undefined,Percentage (%),0.276634505094123
-2018/19,Natural family planning,16 to 17,Undefined,Percentage (%),0.29502430168126
-2014/15,Natural family planning,18 to 19,Undefined,Percentage (%),0.426986935220468
-2015/16,Natural family planning,18 to 19,Undefined,Percentage (%),0.32192305208881
-2016/17,Natural family planning,18 to 19,Undefined,Percentage (%),0.281625893715974
-2017/18,Natural family planning,18 to 19,Undefined,Percentage (%),0.357797269898407
-2018/19,Natural family planning,18 to 19,Undefined,Percentage (%),0.398913800975657
-2014/15,Natural family planning,20 to 24,Undefined,Percentage (%),0.600693983579514
-2015/16,Natural family planning,20 to 24,Undefined,Percentage (%),0.477084648223575
-2016/17,Natural family planning,20 to 24,Undefined,Percentage (%),0.459345130457246
-2017/18,Natural family planning,20 to 24,Undefined,Percentage (%),0.509990584789204
-2018/19,Natural family planning,20 to 24,Undefined,Percentage (%),0.584902884049441
-2014/15,Natural family planning,25 to 34,Undefined,Percentage (%),0.994372813257308
-2015/16,Natural family planning,25 to 34,Undefined,Percentage (%),0.899368916143244
-2016/17,Natural family planning,25 to 34,Undefined,Percentage (%),1.01951743587448
-2017/18,Natural family planning,25 to 34,Undefined,Percentage (%),1.10214907402366
-2018/19,Natural family planning,25 to 34,Undefined,Percentage (%),1.30357259763316
-2014/15,Natural family planning,35 to 44,Undefined,Percentage (%),1.15925867363498
-2015/16,Natural family planning,35 to 44,Undefined,Percentage (%),1.02464096250145
-2016/17,Natural family planning,35 to 44,Undefined,Percentage (%),1.06136267456623
-2017/18,Natural family planning,35 to 44,Undefined,Percentage (%),1.23489506041976
-2018/19,Natural family planning,35 to 44,Undefined,Percentage (%),1.36258426396797
-2014/15,Natural family planning,45 and over,Undefined,Percentage (%),2.20836375836277
-2015/16,Natural family planning,45 and over,Undefined,Percentage (%),1.75369767350622
-2016/17,Natural family planning,45 and over,Undefined,Percentage (%),1.83615251717626
-2017/18,Natural family planning,45 and over,Undefined,Percentage (%),2.10287795684124
-2018/19,Natural family planning,45 and over,Undefined,Percentage (%),2.28284395801854
-2016/17,Oral contraceptives,,Undefined,Percentage (%),44.1813191230347
-2017/18,Oral contraceptives,,Undefined,Percentage (%),41.8278422262423
-2018/19,Oral contraceptives,,Undefined,Percentage (%),38.9665623043206
-2014/15,Oral contraceptives,Under 16,Undefined,Percentage (%),44.6466236423737
-2015/16,Oral contraceptives,Under 16,Undefined,Percentage (%),45.8123986232543
-2016/17,Oral contraceptives,Under 16,Undefined,Percentage (%),48.0013920652282
-2017/18,Oral contraceptives,Under 16,Undefined,Percentage (%),48.1343081505551
-2018/19,Oral contraceptives,Under 16,Undefined,Percentage (%),45.1134136096331
-2014/15,Oral contraceptives,16 to 17,Undefined,Percentage (%),50.4031130841226
-2015/16,Oral contraceptives,16 to 17,Undefined,Percentage (%),51.8702029229313
-2016/17,Oral contraceptives,16 to 17,Undefined,Percentage (%),52.946528767705
-2017/18,Oral contraceptives,16 to 17,Undefined,Percentage (%),52.4677822009311
-2018/19,Oral contraceptives,16 to 17,Undefined,Percentage (%),49.8496510770278
-2014/15,Oral contraceptives,18 to 19,Undefined,Percentage (%),53.930491290147
-2015/16,Oral contraceptives,18 to 19,Undefined,Percentage (%),54.4631079871969
-2016/17,Oral contraceptives,18 to 19,Undefined,Percentage (%),54.840692958361
-2017/18,Oral contraceptives,18 to 19,Undefined,Percentage (%),52.9258058570329
-2018/19,Oral contraceptives,18 to 19,Undefined,Percentage (%),50.6260062961094
-2014/15,Oral contraceptives,20 to 24,Undefined,Percentage (%),53.2850452227005
-2015/16,Oral contraceptives,20 to 24,Undefined,Percentage (%),52.8180139636443
-2016/17,Oral contraceptives,20 to 24,Undefined,Percentage (%),52.0880424954792
-2017/18,Oral contraceptives,20 to 24,Undefined,Percentage (%),49.1927328521114
-2018/19,Oral contraceptives,20 to 24,Undefined,Percentage (%),46.485064743967
-2014/15,Oral contraceptives,25 to 34,Undefined,Percentage (%),42.5436975135079
-2015/16,Oral contraceptives,25 to 34,Undefined,Percentage (%),41.5905099276635
-2016/17,Oral contraceptives,25 to 34,Undefined,Percentage (%),40.6296163659967
-2017/18,Oral contraceptives,25 to 34,Undefined,Percentage (%),38.0525329205784
-2018/19,Oral contraceptives,25 to 34,Undefined,Percentage (%),35.5630778947206
-2014/15,Oral contraceptives,35 to 44,Undefined,Percentage (%),28.9614939706898
-2015/16,Oral contraceptives,35 to 44,Undefined,Percentage (%),28.606488290998
-2016/17,Oral contraceptives,35 to 44,Undefined,Percentage (%),28.049090139653
-2017/18,Oral contraceptives,35 to 44,Undefined,Percentage (%),26.4937106918239
-2018/19,Oral contraceptives,35 to 44,Undefined,Percentage (%),25.0316781834462
-2014/15,Oral contraceptives,45 and over,Undefined,Percentage (%),29.2435515383553
-2015/16,Oral contraceptives,45 and over,Undefined,Percentage (%),27.794342657617
-2016/17,Oral contraceptives,45 and over,Undefined,Percentage (%),27.5001004459802
-2017/18,Oral contraceptives,45 and over,Undefined,Percentage (%),25.8825522542936
-2018/19,Oral contraceptives,45 and over,Undefined,Percentage (%),23.5165598072447
-2016/17,Other methods,,Undefined,Percentage (%),0.523468813524284
-2017/18,Other methods,,Undefined,Percentage (%),0.601333140763117
-2018/19,Other methods,,Undefined,Percentage (%),0.624796493425172
-2014/15,Other methods,Under 16,Undefined,Percentage (%),0.0440736659845742
-2015/16,Other methods,Under 16,Undefined,Percentage (%),0.0435178225264074
-2016/17,Other methods,Under 16,Undefined,Percentage (%),0.0845182459978125
-2017/18,Other methods,Under 16,Undefined,Percentage (%),0.0920660709450312
-2018/19,Other methods,Under 16,Undefined,Percentage (%),0.162419490338841
-2014/15,Other methods,16 to 17,Undefined,Percentage (%),0.0682105357322569
-2015/16,Other methods,16 to 17,Undefined,Percentage (%),0.0998843444432762
-2016/17,Other methods,16 to 17,Undefined,Percentage (%),0.0879560826180583
-2017/18,Other methods,16 to 17,Undefined,Percentage (%),0.165305984751366
-2018/19,Other methods,16 to 17,Undefined,Percentage (%),0.206138774892675
-2014/15,Other methods,18 to 19,Undefined,Percentage (%),0.125034022863364
-2015/16,Other methods,18 to 19,Undefined,Percentage (%),0.155888240123235
-2016/17,Other methods,18 to 19,Undefined,Percentage (%),0.150729351566296
-2017/18,Other methods,18 to 19,Undefined,Percentage (%),0.362134206503237
-2018/19,Other methods,18 to 19,Undefined,Percentage (%),0.227092495133732
-2014/15,Other methods,20 to 24,Undefined,Percentage (%),0.390982005726313
-2015/16,Other methods,20 to 24,Undefined,Percentage (%),0.390840915594827
-2016/17,Other methods,20 to 24,Undefined,Percentage (%),0.422210023249806
-2017/18,Other methods,20 to 24,Undefined,Percentage (%),0.540938731387523
-2018/19,Other methods,20 to 24,Undefined,Percentage (%),0.533861830488523
-2014/15,Other methods,25 to 34,Undefined,Percentage (%),0.729629920054367
-2015/16,Other methods,25 to 34,Undefined,Percentage (%),0.760947221147263
-2016/17,Other methods,25 to 34,Undefined,Percentage (%),0.830386319888983
-2017/18,Other methods,25 to 34,Undefined,Percentage (%),0.87658574906469
-2018/19,Other methods,25 to 34,Undefined,Percentage (%),0.883810668114653
-2014/15,Other methods,35 to 44,Undefined,Percentage (%),0.602514917237419
-2015/16,Other methods,35 to 44,Undefined,Percentage (%),0.588342230081475
-2016/17,Other methods,35 to 44,Undefined,Percentage (%),0.563690224291155
-2017/18,Other methods,35 to 44,Undefined,Percentage (%),0.568864391209102
-2018/19,Other methods,35 to 44,Undefined,Percentage (%),0.648769196979168
-2014/15,Other methods,45 and over,Undefined,Percentage (%),1.07556590554755
-2015/16,Other methods,45 and over,Undefined,Percentage (%),0.812115030012947
-2016/17,Other methods,45 and over,Undefined,Percentage (%),0.789505403993732
-2017/18,Other methods,45 and over,Undefined,Percentage (%),0.688253107727494
-2018/19,Other methods,45 and over,Undefined,Percentage (%),0.89026830563156
+Year,Contraceptive method,Types of contraception,Age,Region,Local Authority,Observation status,Unit measure,GeoCode,Value
+2014/15,Long acting reversible contraceptives,,,,,Undefined,Percentage (%),,36.7706543671
+2014/15,Long acting reversible contraceptives,IU device,,,,Undefined,Percentage (%),,5.760495723934809
+2014/15,Long acting reversible contraceptives,IU system,,,,Undefined,Percentage (%),,7.18956956720844
+2014/15,Long acting reversible contraceptives,Implant,,,,Undefined,Percentage (%),,14.762173424751559
+2014/15,Long acting reversible contraceptives,Injectable contraceptive,,,,Undefined,Percentage (%),,9.058415651174231
+2014/15,User dependent,,,,,Undefined,Percentage (%),,63.229345632930965
+2014/15,User dependent,Oral contraceptives,,,,Undefined,Percentage (%),,45.34339741321697
+2014/15,User dependent,Male condom,,,,Undefined,Percentage (%),,14.997944046180866
+2014/15,User dependent,Female condom,,,,Undefined,Percentage (%),,0.13461981854480967
+2014/15,User dependent,Contraceptive patch,,,,Undefined,Percentage (%),,1.4647741266446304
+2014/15,User dependent,Natural family planning,,,,Undefined,Percentage (%),,0.8130314534371618
+2014/15,User dependent,Other methods,,,,Undefined,Percentage (%),,0.475578774906526
+2014/15,Long acting reversible contraceptives,,Under 16,,,Undefined,Percentage (%),,29.94175979852038
+2014/15,Long acting reversible contraceptives,,16 to 17,,,Undefined,Percentage (%),,29.260083418130584
+2014/15,Long acting reversible contraceptives,,18 to 19,,,Undefined,Percentage (%),,29.345570223189988
+2014/15,Long acting reversible contraceptives,,20 to 24,,,Undefined,Percentage (%),,31.558429245909103
+2014/15,Long acting reversible contraceptives,,25 to 34,,,Undefined,Percentage (%),,39.6214438009462
+2014/15,Long acting reversible contraceptives,,35 to 44,,,Undefined,Percentage (%),,51.63319823905861
+2014/15,Long acting reversible contraceptives,,45 and over,,,Undefined,Percentage (%),,48.364942472025426
+2014/15,User dependent,,Under 16,,,Undefined,Percentage (%),,70.0582402014796
+2014/15,User dependent,,16 to 17,,,Undefined,Percentage (%),,70.73991658186941
+2014/15,User dependent,,18 to 19,,,Undefined,Percentage (%),,70.65442977681002
+2014/15,User dependent,,20 to 24,,,Undefined,Percentage (%),,68.4415707540909
+2014/15,User dependent,,25 to 34,,,Undefined,Percentage (%),,60.37855619905379
+2014/15,User dependent,,35 to 44,,,Undefined,Percentage (%),,48.36680176094139
+2014/15,User dependent,,45 and over,,,Undefined,Percentage (%),,51.63505752797458
+2014/15,Long acting reversible contraceptives,,,North East,,Undefined,Percentage (%),E12000001,44.0
+2014/15,Long acting reversible contraceptives,,,North East,County Durham,Undefined,Percentage (%),E06000047,46.0
+2014/15,Long acting reversible contraceptives,,,North East,Darlington,Undefined,Percentage (%),E06000005,39.0
+2014/15,Long acting reversible contraceptives,,,North East,Gateshead,Undefined,Percentage (%),E08000037,39.0
+2014/15,Long acting reversible contraceptives,,,North East,Hartlepool,Undefined,Percentage (%),E06000001,38.0
+2014/15,Long acting reversible contraceptives,,,North East,Middlesbrough,Undefined,Percentage (%),E06000002,43.0
+2014/15,Long acting reversible contraceptives,,,North East,Newcastle upon Tyne,Undefined,Percentage (%),E08000021,40.0
+2014/15,Long acting reversible contraceptives,,,North East,North Tyneside,Undefined,Percentage (%),E08000022,45.0
+2014/15,Long acting reversible contraceptives,,,North East,Northumberland,Undefined,Percentage (%),E06000057,50.0
+2014/15,Long acting reversible contraceptives,,,North East,Redcar and Cleveland,Undefined,Percentage (%),E06000003,46.0
+2014/15,Long acting reversible contraceptives,,,North East,South Tyneside,Undefined,Percentage (%),E08000023,45.0
+2014/15,Long acting reversible contraceptives,,,North East,Stockton-on-Tees,Undefined,Percentage (%),E06000004,36.0
+2014/15,Long acting reversible contraceptives,,,North East,Sunderland,Undefined,Percentage (%),E08000024,54.0
+2014/15,Long acting reversible contraceptives,,,North West,,Undefined,Percentage (%),E12000002,36.0
+2014/15,Long acting reversible contraceptives,,,North West,Blackburn with Darwen,Undefined,Percentage (%),E06000008,39.0
+2014/15,Long acting reversible contraceptives,,,North West,Blackpool,Undefined,Percentage (%),E06000009,48.0
+2014/15,Long acting reversible contraceptives,,,North West,Bolton,Undefined,Percentage (%),E08000001,47.0
+2014/15,Long acting reversible contraceptives,,,North West,Bury,Undefined,Percentage (%),E08000002,37.0
+2014/15,Long acting reversible contraceptives,,,North West,Cheshire East,Undefined,Percentage (%),E06000049,37.0
+2014/15,Long acting reversible contraceptives,,,North West,Cheshire West and Chester,Undefined,Percentage (%),E06000050,37.0
+2014/15,Long acting reversible contraceptives,,,North West,Cumbria,Undefined,Percentage (%),,40.0
+2014/15,Long acting reversible contraceptives,,,North West,Halton,Undefined,Percentage (%),E06000006,33.0
+2014/15,Long acting reversible contraceptives,,,North West,Knowsley,Undefined,Percentage (%),E08000011,33.0
+2014/15,Long acting reversible contraceptives,,,North West,Lancashire,Undefined,Percentage (%),,38.0
+2014/15,Long acting reversible contraceptives,,,North West,Liverpool,Undefined,Percentage (%),E08000012,29.0
+2014/15,Long acting reversible contraceptives,,,North West,Manchester,Undefined,Percentage (%),E08000003,35.0
+2014/15,Long acting reversible contraceptives,,,North West,Oldham,Undefined,Percentage (%),E08000004,38.0
+2014/15,Long acting reversible contraceptives,,,North West,Rochdale,Undefined,Percentage (%),E08000005,44.0
+2014/15,Long acting reversible contraceptives,,,North West,Salford,Undefined,Percentage (%),E08000006,37.0
+2014/15,Long acting reversible contraceptives,,,North West,Sefton,Undefined,Percentage (%),E08000014,36.0
+2014/15,Long acting reversible contraceptives,,,North West,St. Helens,Undefined,Percentage (%),E08000013,30.0
+2014/15,Long acting reversible contraceptives,,,North West,Stockport,Undefined,Percentage (%),E08000007,35.0
+2014/15,Long acting reversible contraceptives,,,North West,Tameside,Undefined,Percentage (%),E08000008,34.0
+2014/15,Long acting reversible contraceptives,,,North West,Trafford,Undefined,Percentage (%),E08000009,40.0
+2014/15,Long acting reversible contraceptives,,,North West,Warrington,Undefined,Percentage (%),E06000007,31.0
+2014/15,Long acting reversible contraceptives,,,North West,Wigan,Undefined,Percentage (%),E08000010,39.0
+2014/15,Long acting reversible contraceptives,,,North West,Wirral,Undefined,Percentage (%),E08000015,37.0
+2014/15,Long acting reversible contraceptives,,,Yorkshire and The Humber,,Undefined,Percentage (%),E12000003,40.0
+2014/15,Long acting reversible contraceptives,,,Yorkshire and The Humber,Barnsley,Undefined,Percentage (%),E08000016,33.0
+2014/15,Long acting reversible contraceptives,,,Yorkshire and The Humber,Bradford,Undefined,Percentage (%),E08000032,39.0
+2014/15,Long acting reversible contraceptives,,,Yorkshire and The Humber,Calderdale,Undefined,Percentage (%),E08000033,34.0
+2014/15,Long acting reversible contraceptives,,,Yorkshire and The Humber,Doncaster,Undefined,Percentage (%),E08000017,42.0
+2014/15,Long acting reversible contraceptives,,,Yorkshire and The Humber,East Riding of Yorkshire,Undefined,Percentage (%),E06000011,45.0
+2014/15,Long acting reversible contraceptives,,,Yorkshire and The Humber,"Kingston upon Hull, City of",Undefined,Percentage (%),,43.0
+2014/15,Long acting reversible contraceptives,,,Yorkshire and The Humber,Kirklees,Undefined,Percentage (%),E08000034,55.0
+2014/15,Long acting reversible contraceptives,,,Yorkshire and The Humber,Leeds,Undefined,Percentage (%),E08000035,33.0
+2014/15,Long acting reversible contraceptives,,,Yorkshire and The Humber,North East Lincolnshire,Undefined,Percentage (%),E06000012,39.0
+2014/15,Long acting reversible contraceptives,,,Yorkshire and The Humber,North Lincolnshire,Undefined,Percentage (%),E06000013,46.0
+2014/15,Long acting reversible contraceptives,,,Yorkshire and The Humber,North Yorkshire,Undefined,Percentage (%),,47.0
+2014/15,Long acting reversible contraceptives,,,Yorkshire and The Humber,Rotherham,Undefined,Percentage (%),E08000018,39.0
+2014/15,Long acting reversible contraceptives,,,Yorkshire and The Humber,Sheffield,Undefined,Percentage (%),E08000019,43.0
+2014/15,Long acting reversible contraceptives,,,Yorkshire and The Humber,Wakefield,Undefined,Percentage (%),E08000036,40.0
+2014/15,Long acting reversible contraceptives,,,Yorkshire and The Humber,York,Undefined,Percentage (%),E06000014,36.0
+2014/15,Long acting reversible contraceptives,,,East Midlands,,Undefined,Percentage (%),E12000004,45.0
+2014/15,Long acting reversible contraceptives,,,East Midlands,Derby,Undefined,Percentage (%),E06000015,49.0
+2014/15,Long acting reversible contraceptives,,,East Midlands,Derbyshire,Undefined,Percentage (%),,49.0
+2014/15,Long acting reversible contraceptives,,,East Midlands,Leicester,Undefined,Percentage (%),E06000016,48.0
+2014/15,Long acting reversible contraceptives,,,East Midlands,Leicestershire 4,Undefined,Percentage (%),,53.0
+2014/15,Long acting reversible contraceptives,,,East Midlands,Lincolnshire,Undefined,Percentage (%),,54.0
+2014/15,Long acting reversible contraceptives,,,East Midlands,Northamptonshire,Undefined,Percentage (%),,39.0
+2014/15,Long acting reversible contraceptives,,,East Midlands,Nottingham,Undefined,Percentage (%),E06000018,39.0
+2014/15,Long acting reversible contraceptives,,,East Midlands,Nottinghamshire,Undefined,Percentage (%),,41.0
+2014/15,Long acting reversible contraceptives,,,West Midlands,,Undefined,Percentage (%),E12000005,34.0
+2014/15,Long acting reversible contraceptives,,,West Midlands,Birmingham,Undefined,Percentage (%),E08000025,26.0
+2014/15,Long acting reversible contraceptives,,,West Midlands,Coventry,Undefined,Percentage (%),E08000026,42.0
+2014/15,Long acting reversible contraceptives,,,West Midlands,Dudley,Undefined,Percentage (%),E08000027,39.0
+2014/15,Long acting reversible contraceptives,,,West Midlands,"Herefordshire, County of",Undefined,Percentage (%),,47.0
+2014/15,Long acting reversible contraceptives,,,West Midlands,Sandwell,Undefined,Percentage (%),E08000028,32.0
+2014/15,Long acting reversible contraceptives,,,West Midlands,Shropshire,Undefined,Percentage (%),E06000051,37.0
+2014/15,Long acting reversible contraceptives,,,West Midlands,Solihull,Undefined,Percentage (%),E08000029,38.0
+2014/15,Long acting reversible contraceptives,,,West Midlands,Staffordshire,Undefined,Percentage (%),,31.0
+2014/15,Long acting reversible contraceptives,,,West Midlands,Stoke-on-Trent,Undefined,Percentage (%),E06000021,42.0
+2014/15,Long acting reversible contraceptives,,,West Midlands,Telford and Wrekin,Undefined,Percentage (%),E06000020,39.0
+2014/15,Long acting reversible contraceptives,,,West Midlands,Walsall,Undefined,Percentage (%),E08000030,35.0
+2014/15,Long acting reversible contraceptives,,,West Midlands,Warwickshire,Undefined,Percentage (%),,40.0
+2014/15,Long acting reversible contraceptives,,,West Midlands,Wolverhampton,Undefined,Percentage (%),E08000031,46.0
+2014/15,Long acting reversible contraceptives,,,West Midlands,Worcestershire,Undefined,Percentage (%),,35.0
+2014/15,Long acting reversible contraceptives,,,East of England,,Undefined,Percentage (%),E12000006,37.0
+2014/15,Long acting reversible contraceptives,,,East of England,Bedford,Undefined,Percentage (%),E06000055,30.0
+2014/15,Long acting reversible contraceptives,,,East of England,Cambridgeshire,Undefined,Percentage (%),,36.0
+2014/15,Long acting reversible contraceptives,,,East of England,Central Bedfordshire,Undefined,Percentage (%),E06000056,33.0
+2014/15,Long acting reversible contraceptives,,,East of England,Essex,Undefined,Percentage (%),,36.0
+2014/15,Long acting reversible contraceptives,,,East of England,Hertfordshire,Undefined,Percentage (%),,36.0
+2014/15,Long acting reversible contraceptives,,,East of England,Luton,Undefined,Percentage (%),E06000032,42.0
+2014/15,Long acting reversible contraceptives,,,East of England,Norfolk,Undefined,Percentage (%),,41.0
+2014/15,Long acting reversible contraceptives,,,East of England,Peterborough,Undefined,Percentage (%),E06000031,40.0
+2014/15,Long acting reversible contraceptives,,,East of England,Southend-on-Sea,Undefined,Percentage (%),E06000033,24.0
+2014/15,Long acting reversible contraceptives,,,East of England,Suffolk,Undefined,Percentage (%),,42.0
+2014/15,Long acting reversible contraceptives,,,East of England,Thurrock,Undefined,Percentage (%),E06000034,49.0
+2014/15,Long acting reversible contraceptives,,,London,,Undefined,Percentage (%),E12000007,32.0
+2014/15,Long acting reversible contraceptives,,,London,Barking and Dagenham,Undefined,Percentage (%),E09000002,51.0
+2014/15,Long acting reversible contraceptives,,,London,Barnet,Undefined,Percentage (%),E09000003,26.0
+2014/15,Long acting reversible contraceptives,,,London,Bexley,Undefined,Percentage (%),E09000004,37.0
+2014/15,Long acting reversible contraceptives,,,London,Brent,Undefined,Percentage (%),E09000005,35.0
+2014/15,Long acting reversible contraceptives,,,London,Bromley,Undefined,Percentage (%),E09000006,26.0
+2014/15,Long acting reversible contraceptives,,,London,Camden,Undefined,Percentage (%),E09000007,29.0
+2014/15,Long acting reversible contraceptives,,,London,Croydon,Undefined,Percentage (%),E09000008,32.0
+2014/15,Long acting reversible contraceptives,,,London,Ealing,Undefined,Percentage (%),E09000009,26.0
+2014/15,Long acting reversible contraceptives,,,London,Enfield,Undefined,Percentage (%),E09000010,40.0
+2014/15,Long acting reversible contraceptives,,,London,Greenwich,Undefined,Percentage (%),E09000011,41.0
+2014/15,Long acting reversible contraceptives,,,London,Hackney 5,Undefined,Percentage (%),,33.0
+2014/15,Long acting reversible contraceptives,,,London,Hammersmith and Fulham,Undefined,Percentage (%),E09000013,24.0
+2014/15,Long acting reversible contraceptives,,,London,Haringey,Undefined,Percentage (%),E09000014,32.0
+2014/15,Long acting reversible contraceptives,,,London,Harrow,Undefined,Percentage (%),E09000015,30.0
+2014/15,Long acting reversible contraceptives,,,London,Havering,Undefined,Percentage (%),E09000016,46.0
+2014/15,Long acting reversible contraceptives,,,London,Hillingdon,Undefined,Percentage (%),E09000017,42.0
+2014/15,Long acting reversible contraceptives,,,London,Hounslow,Undefined,Percentage (%),E09000018,28.0
+2014/15,Long acting reversible contraceptives,,,London,Islington,Undefined,Percentage (%),E09000019,32.0
+2014/15,Long acting reversible contraceptives,,,London,Kensington and Chelsea,Undefined,Percentage (%),E09000020,24.0
+2014/15,Long acting reversible contraceptives,,,London,Kingston upon Thames,Undefined,Percentage (%),E09000021,27.0
+2014/15,Long acting reversible contraceptives,,,London,Lambeth,Undefined,Percentage (%),E09000022,33.0
+2014/15,Long acting reversible contraceptives,,,London,Lewisham,Undefined,Percentage (%),E09000023,33.0
+2014/15,Long acting reversible contraceptives,,,London,Merton,Undefined,Percentage (%),E09000024,33.0
+2014/15,Long acting reversible contraceptives,,,London,Newham,Undefined,Percentage (%),E09000025,32.0
+2014/15,Long acting reversible contraceptives,,,London,Redbridge,Undefined,Percentage (%),E09000026,45.0
+2014/15,Long acting reversible contraceptives,,,London,Richmond upon Thames,Undefined,Percentage (%),E09000027,30.0
+2014/15,Long acting reversible contraceptives,,,London,Southwark,Undefined,Percentage (%),E09000028,34.0
+2014/15,Long acting reversible contraceptives,,,London,Sutton,Undefined,Percentage (%),E09000029,32.0
+2014/15,Long acting reversible contraceptives,,,London,Tower Hamlets,Undefined,Percentage (%),E09000030,31.0
+2014/15,Long acting reversible contraceptives,,,London,Waltham Forest,Undefined,Percentage (%),E09000031,31.0
+2014/15,Long acting reversible contraceptives,,,London,Wandsworth,Undefined,Percentage (%),E09000032,30.0
+2014/15,Long acting reversible contraceptives,,,London,Westminster,Undefined,Percentage (%),E09000033,25.0
+2014/15,Long acting reversible contraceptives,,,South East,,Undefined,Percentage (%),E12000008,35.0
+2014/15,Long acting reversible contraceptives,,,South East,Bracknell Forest,Undefined,Percentage (%),E06000036,40.0
+2014/15,Long acting reversible contraceptives,,,South East,Brighton and Hove,Undefined,Percentage (%),E06000043,27.0
+2014/15,Long acting reversible contraceptives,,,South East,Buckinghamshire,Undefined,Percentage (%),,38.0
+2014/15,Long acting reversible contraceptives,,,South East,East Sussex,Undefined,Percentage (%),,35.0
+2014/15,Long acting reversible contraceptives,,,South East,Hampshire,Undefined,Percentage (%),,37.0
+2014/15,Long acting reversible contraceptives,,,South East,Isle of Wight,Undefined,Percentage (%),E06000046,54.0
+2014/15,Long acting reversible contraceptives,,,South East,Kent,Undefined,Percentage (%),,36.0
+2014/15,Long acting reversible contraceptives,,,South East,Medway,Undefined,Percentage (%),E06000035,39.0
+2014/15,Long acting reversible contraceptives,,,South East,Milton Keynes,Undefined,Percentage (%),E06000042,28.0
+2014/15,Long acting reversible contraceptives,,,South East,Oxfordshire,Undefined,Percentage (%),,33.0
+2014/15,Long acting reversible contraceptives,,,South East,Portsmouth,Undefined,Percentage (%),E06000044,40.0
+2014/15,Long acting reversible contraceptives,,,South East,Reading,Undefined,Percentage (%),E06000038,38.0
+2014/15,Long acting reversible contraceptives,,,South East,Slough,Undefined,Percentage (%),E06000039,34.0
+2014/15,Long acting reversible contraceptives,,,South East,Southampton,Undefined,Percentage (%),E06000045,42.0
+2014/15,Long acting reversible contraceptives,,,South East,Surrey,Undefined,Percentage (%),,32.0
+2014/15,Long acting reversible contraceptives,,,South East,West Berkshire,Undefined,Percentage (%),E06000037,37.0
+2014/15,Long acting reversible contraceptives,,,South East,West Sussex,Undefined,Percentage (%),,28.0
+2014/15,Long acting reversible contraceptives,,,South East,Windsor and Maidenhead,Undefined,Percentage (%),E06000040,32.0
+2014/15,Long acting reversible contraceptives,,,South East,Wokingham,Undefined,Percentage (%),E06000041,29.0
+2014/15,Long acting reversible contraceptives,,,South West,,Undefined,Percentage (%),E12000009,43.0
+2014/15,Long acting reversible contraceptives,,,South West,Bath and North East Somerset,Undefined,Percentage (%),E06000022,31.0
+2014/15,Long acting reversible contraceptives,,,South West,Bournemouth,Undefined,Percentage (%),E06000028,30.0
+2014/15,Long acting reversible contraceptives,,,South West,"Bristol, City of",Undefined,Percentage (%),,39.0
+2014/15,Long acting reversible contraceptives,,,South West,Cornwall 6,Undefined,Percentage (%),,43.0
+2014/15,Long acting reversible contraceptives,,,South West,Devon,Undefined,Percentage (%),,40.0
+2014/15,Long acting reversible contraceptives,,,South West,Dorset,Undefined,Percentage (%),,46.0
+2014/15,Long acting reversible contraceptives,,,South West,Gloucestershire,Undefined,Percentage (%),,53.0
+2014/15,Long acting reversible contraceptives,,,South West,North Somerset,Undefined,Percentage (%),E06000024,39.0
+2014/15,Long acting reversible contraceptives,,,South West,Plymouth,Undefined,Percentage (%),E06000026,51.0
+2014/15,Long acting reversible contraceptives,,,South West,Poole,Undefined,Percentage (%),E06000029,47.0
+2014/15,Long acting reversible contraceptives,,,South West,Somerset,Undefined,Percentage (%),,44.0
+2014/15,Long acting reversible contraceptives,,,South West,South Gloucestershire,Undefined,Percentage (%),E06000025,41.0
+2014/15,Long acting reversible contraceptives,,,South West,Swindon,Undefined,Percentage (%),E06000030,50.0
+2014/15,Long acting reversible contraceptives,,,South West,Torbay,Undefined,Percentage (%),E06000027,41.0
+2014/15,Long acting reversible contraceptives,,,South West,Wiltshire,Undefined,Percentage (%),E06000054,44.0
+2014/15,User dependent,,,North East,,Undefined,Percentage (%),E12000001,56.0
+2014/15,User dependent,,,North East,County Durham,Undefined,Percentage (%),E06000047,54.0
+2014/15,User dependent,,,North East,Darlington,Undefined,Percentage (%),E06000005,61.0
+2014/15,User dependent,,,North East,Gateshead,Undefined,Percentage (%),E08000037,61.0
+2014/15,User dependent,,,North East,Hartlepool,Undefined,Percentage (%),E06000001,62.0
+2014/15,User dependent,,,North East,Middlesbrough,Undefined,Percentage (%),E06000002,57.0
+2014/15,User dependent,,,North East,Newcastle upon Tyne,Undefined,Percentage (%),E08000021,60.0
+2014/15,User dependent,,,North East,North Tyneside,Undefined,Percentage (%),E08000022,55.0
+2014/15,User dependent,,,North East,Northumberland,Undefined,Percentage (%),E06000057,50.0
+2014/15,User dependent,,,North East,Redcar and Cleveland,Undefined,Percentage (%),E06000003,54.0
+2014/15,User dependent,,,North East,South Tyneside,Undefined,Percentage (%),E08000023,55.0
+2014/15,User dependent,,,North East,Stockton-on-Tees,Undefined,Percentage (%),E06000004,64.0
+2014/15,User dependent,,,North East,Sunderland,Undefined,Percentage (%),E08000024,46.0
+2014/15,User dependent,,,North West,,Undefined,Percentage (%),E12000002,64.0
+2014/15,User dependent,,,North West,Blackburn with Darwen,Undefined,Percentage (%),E06000008,61.0
+2014/15,User dependent,,,North West,Blackpool,Undefined,Percentage (%),E06000009,52.0
+2014/15,User dependent,,,North West,Bolton,Undefined,Percentage (%),E08000001,53.0
+2014/15,User dependent,,,North West,Bury,Undefined,Percentage (%),E08000002,63.0
+2014/15,User dependent,,,North West,Cheshire East,Undefined,Percentage (%),E06000049,63.0
+2014/15,User dependent,,,North West,Cheshire West and Chester,Undefined,Percentage (%),E06000050,63.0
+2014/15,User dependent,,,North West,Cumbria,Undefined,Percentage (%),,60.0
+2014/15,User dependent,,,North West,Halton,Undefined,Percentage (%),E06000006,67.0
+2014/15,User dependent,,,North West,Knowsley,Undefined,Percentage (%),E08000011,67.0
+2014/15,User dependent,,,North West,Lancashire,Undefined,Percentage (%),,62.0
+2014/15,User dependent,,,North West,Liverpool,Undefined,Percentage (%),E08000012,71.0
+2014/15,User dependent,,,North West,Manchester,Undefined,Percentage (%),E08000003,65.0
+2014/15,User dependent,,,North West,Oldham,Undefined,Percentage (%),E08000004,62.0
+2014/15,User dependent,,,North West,Rochdale,Undefined,Percentage (%),E08000005,56.0
+2014/15,User dependent,,,North West,Salford,Undefined,Percentage (%),E08000006,63.0
+2014/15,User dependent,,,North West,Sefton,Undefined,Percentage (%),E08000014,64.0
+2014/15,User dependent,,,North West,St. Helens,Undefined,Percentage (%),E08000013,70.0
+2014/15,User dependent,,,North West,Stockport,Undefined,Percentage (%),E08000007,65.0
+2014/15,User dependent,,,North West,Tameside,Undefined,Percentage (%),E08000008,66.0
+2014/15,User dependent,,,North West,Trafford,Undefined,Percentage (%),E08000009,60.0
+2014/15,User dependent,,,North West,Warrington,Undefined,Percentage (%),E06000007,69.0
+2014/15,User dependent,,,North West,Wigan,Undefined,Percentage (%),E08000010,61.0
+2014/15,User dependent,,,North West,Wirral,Undefined,Percentage (%),E08000015,63.0
+2014/15,User dependent,,,Yorkshire and The Humber,,Undefined,Percentage (%),E12000003,60.0
+2014/15,User dependent,,,Yorkshire and The Humber,Barnsley,Undefined,Percentage (%),E08000016,67.0
+2014/15,User dependent,,,Yorkshire and The Humber,Bradford,Undefined,Percentage (%),E08000032,61.0
+2014/15,User dependent,,,Yorkshire and The Humber,Calderdale,Undefined,Percentage (%),E08000033,66.0
+2014/15,User dependent,,,Yorkshire and The Humber,Doncaster,Undefined,Percentage (%),E08000017,58.0
+2014/15,User dependent,,,Yorkshire and The Humber,East Riding of Yorkshire,Undefined,Percentage (%),E06000011,55.0
+2014/15,User dependent,,,Yorkshire and The Humber,"Kingston upon Hull, City of",Undefined,Percentage (%),,57.0
+2014/15,User dependent,,,Yorkshire and The Humber,Kirklees,Undefined,Percentage (%),E08000034,45.0
+2014/15,User dependent,,,Yorkshire and The Humber,Leeds,Undefined,Percentage (%),E08000035,67.0
+2014/15,User dependent,,,Yorkshire and The Humber,North East Lincolnshire,Undefined,Percentage (%),E06000012,61.0
+2014/15,User dependent,,,Yorkshire and The Humber,North Lincolnshire,Undefined,Percentage (%),E06000013,54.0
+2014/15,User dependent,,,Yorkshire and The Humber,North Yorkshire,Undefined,Percentage (%),,53.0
+2014/15,User dependent,,,Yorkshire and The Humber,Rotherham,Undefined,Percentage (%),E08000018,61.0
+2014/15,User dependent,,,Yorkshire and The Humber,Sheffield,Undefined,Percentage (%),E08000019,57.0
+2014/15,User dependent,,,Yorkshire and The Humber,Wakefield,Undefined,Percentage (%),E08000036,60.0
+2014/15,User dependent,,,Yorkshire and The Humber,York,Undefined,Percentage (%),E06000014,64.0
+2014/15,User dependent,,,East Midlands,,Undefined,Percentage (%),E12000004,55.0
+2014/15,User dependent,,,East Midlands,Derby,Undefined,Percentage (%),E06000015,51.0
+2014/15,User dependent,,,East Midlands,Derbyshire,Undefined,Percentage (%),,51.0
+2014/15,User dependent,,,East Midlands,Leicester,Undefined,Percentage (%),E06000016,52.0
+2014/15,User dependent,,,East Midlands,Leicestershire 4,Undefined,Percentage (%),,47.0
+2014/15,User dependent,,,East Midlands,Lincolnshire,Undefined,Percentage (%),,46.0
+2014/15,User dependent,,,East Midlands,Northamptonshire,Undefined,Percentage (%),,61.0
+2014/15,User dependent,,,East Midlands,Nottingham,Undefined,Percentage (%),E06000018,61.0
+2014/15,User dependent,,,East Midlands,Nottinghamshire,Undefined,Percentage (%),,59.0
+2014/15,User dependent,,,West Midlands,,Undefined,Percentage (%),E12000005,66.0
+2014/15,User dependent,,,West Midlands,Birmingham,Undefined,Percentage (%),E08000025,74.0
+2014/15,User dependent,,,West Midlands,Coventry,Undefined,Percentage (%),E08000026,58.0
+2014/15,User dependent,,,West Midlands,Dudley,Undefined,Percentage (%),E08000027,61.0
+2014/15,User dependent,,,West Midlands,"Herefordshire, County of",Undefined,Percentage (%),,53.0
+2014/15,User dependent,,,West Midlands,Sandwell,Undefined,Percentage (%),E08000028,68.0
+2014/15,User dependent,,,West Midlands,Shropshire,Undefined,Percentage (%),E06000051,63.0
+2014/15,User dependent,,,West Midlands,Solihull,Undefined,Percentage (%),E08000029,62.0
+2014/15,User dependent,,,West Midlands,Staffordshire,Undefined,Percentage (%),,69.0
+2014/15,User dependent,,,West Midlands,Stoke-on-Trent,Undefined,Percentage (%),E06000021,58.0
+2014/15,User dependent,,,West Midlands,Telford and Wrekin,Undefined,Percentage (%),E06000020,61.0
+2014/15,User dependent,,,West Midlands,Walsall,Undefined,Percentage (%),E08000030,65.0
+2014/15,User dependent,,,West Midlands,Warwickshire,Undefined,Percentage (%),,60.0
+2014/15,User dependent,,,West Midlands,Wolverhampton,Undefined,Percentage (%),E08000031,54.0
+2014/15,User dependent,,,West Midlands,Worcestershire,Undefined,Percentage (%),,65.0
+2014/15,User dependent,,,East of England,,Undefined,Percentage (%),E12000006,63.0
+2014/15,User dependent,,,East of England,Bedford,Undefined,Percentage (%),E06000055,70.0
+2014/15,User dependent,,,East of England,Cambridgeshire,Undefined,Percentage (%),,64.0
+2014/15,User dependent,,,East of England,Central Bedfordshire,Undefined,Percentage (%),E06000056,67.0
+2014/15,User dependent,,,East of England,Essex,Undefined,Percentage (%),,64.0
+2014/15,User dependent,,,East of England,Hertfordshire,Undefined,Percentage (%),,64.0
+2014/15,User dependent,,,East of England,Luton,Undefined,Percentage (%),E06000032,58.0
+2014/15,User dependent,,,East of England,Norfolk,Undefined,Percentage (%),,59.0
+2014/15,User dependent,,,East of England,Peterborough,Undefined,Percentage (%),E06000031,60.0
+2014/15,User dependent,,,East of England,Southend-on-Sea,Undefined,Percentage (%),E06000033,76.0
+2014/15,User dependent,,,East of England,Suffolk,Undefined,Percentage (%),,58.0
+2014/15,User dependent,,,East of England,Thurrock,Undefined,Percentage (%),E06000034,51.0
+2014/15,User dependent,,,London,,Undefined,Percentage (%),E12000007,68.0
+2014/15,User dependent,,,London,Barking and Dagenham,Undefined,Percentage (%),E09000002,49.0
+2014/15,User dependent,,,London,Barnet,Undefined,Percentage (%),E09000003,74.0
+2014/15,User dependent,,,London,Bexley,Undefined,Percentage (%),E09000004,63.0
+2014/15,User dependent,,,London,Brent,Undefined,Percentage (%),E09000005,65.0
+2014/15,User dependent,,,London,Bromley,Undefined,Percentage (%),E09000006,74.0
+2014/15,User dependent,,,London,Camden,Undefined,Percentage (%),E09000007,71.0
+2014/15,User dependent,,,London,Croydon,Undefined,Percentage (%),E09000008,68.0
+2014/15,User dependent,,,London,Ealing,Undefined,Percentage (%),E09000009,74.0
+2014/15,User dependent,,,London,Enfield,Undefined,Percentage (%),E09000010,60.0
+2014/15,User dependent,,,London,Greenwich,Undefined,Percentage (%),E09000011,59.0
+2014/15,User dependent,,,London,Hackney 5,Undefined,Percentage (%),,67.0
+2014/15,User dependent,,,London,Hammersmith and Fulham,Undefined,Percentage (%),E09000013,76.0
+2014/15,User dependent,,,London,Haringey,Undefined,Percentage (%),E09000014,68.0
+2014/15,User dependent,,,London,Harrow,Undefined,Percentage (%),E09000015,70.0
+2014/15,User dependent,,,London,Havering,Undefined,Percentage (%),E09000016,54.0
+2014/15,User dependent,,,London,Hillingdon,Undefined,Percentage (%),E09000017,58.0
+2014/15,User dependent,,,London,Hounslow,Undefined,Percentage (%),E09000018,72.0
+2014/15,User dependent,,,London,Islington,Undefined,Percentage (%),E09000019,68.0
+2014/15,User dependent,,,London,Kensington and Chelsea,Undefined,Percentage (%),E09000020,76.0
+2014/15,User dependent,,,London,Kingston upon Thames,Undefined,Percentage (%),E09000021,73.0
+2014/15,User dependent,,,London,Lambeth,Undefined,Percentage (%),E09000022,67.0
+2014/15,User dependent,,,London,Lewisham,Undefined,Percentage (%),E09000023,67.0
+2014/15,User dependent,,,London,Merton,Undefined,Percentage (%),E09000024,67.0
+2014/15,User dependent,,,London,Newham,Undefined,Percentage (%),E09000025,68.0
+2014/15,User dependent,,,London,Redbridge,Undefined,Percentage (%),E09000026,55.0
+2014/15,User dependent,,,London,Richmond upon Thames,Undefined,Percentage (%),E09000027,70.0
+2014/15,User dependent,,,London,Southwark,Undefined,Percentage (%),E09000028,66.0
+2014/15,User dependent,,,London,Sutton,Undefined,Percentage (%),E09000029,68.0
+2014/15,User dependent,,,London,Tower Hamlets,Undefined,Percentage (%),E09000030,69.0
+2014/15,User dependent,,,London,Waltham Forest,Undefined,Percentage (%),E09000031,69.0
+2014/15,User dependent,,,London,Wandsworth,Undefined,Percentage (%),E09000032,70.0
+2014/15,User dependent,,,London,Westminster,Undefined,Percentage (%),E09000033,75.0
+2014/15,User dependent,,,South East,,Undefined,Percentage (%),E12000008,65.0
+2014/15,User dependent,,,South East,Bracknell Forest,Undefined,Percentage (%),E06000036,60.0
+2014/15,User dependent,,,South East,Brighton and Hove,Undefined,Percentage (%),E06000043,73.0
+2014/15,User dependent,,,South East,Buckinghamshire,Undefined,Percentage (%),,62.0
+2014/15,User dependent,,,South East,East Sussex,Undefined,Percentage (%),,65.0
+2014/15,User dependent,,,South East,Hampshire,Undefined,Percentage (%),,63.0
+2014/15,User dependent,,,South East,Isle of Wight,Undefined,Percentage (%),E06000046,46.0
+2014/15,User dependent,,,South East,Kent,Undefined,Percentage (%),,64.0
+2014/15,User dependent,,,South East,Medway,Undefined,Percentage (%),E06000035,61.0
+2014/15,User dependent,,,South East,Milton Keynes,Undefined,Percentage (%),E06000042,72.0
+2014/15,User dependent,,,South East,Oxfordshire,Undefined,Percentage (%),,67.0
+2014/15,User dependent,,,South East,Portsmouth,Undefined,Percentage (%),E06000044,60.0
+2014/15,User dependent,,,South East,Reading,Undefined,Percentage (%),E06000038,62.0
+2014/15,User dependent,,,South East,Slough,Undefined,Percentage (%),E06000039,66.0
+2014/15,User dependent,,,South East,Southampton,Undefined,Percentage (%),E06000045,58.0
+2014/15,User dependent,,,South East,Surrey,Undefined,Percentage (%),,68.0
+2014/15,User dependent,,,South East,West Berkshire,Undefined,Percentage (%),E06000037,63.0
+2014/15,User dependent,,,South East,West Sussex,Undefined,Percentage (%),,72.0
+2014/15,User dependent,,,South East,Windsor and Maidenhead,Undefined,Percentage (%),E06000040,68.0
+2014/15,User dependent,,,South East,Wokingham,Undefined,Percentage (%),E06000041,71.0
+2014/15,User dependent,,,South West,,Undefined,Percentage (%),E12000009,57.0
+2014/15,User dependent,,,South West,Bath and North East Somerset,Undefined,Percentage (%),E06000022,69.0
+2014/15,User dependent,,,South West,Bournemouth,Undefined,Percentage (%),E06000028,70.0
+2014/15,User dependent,,,South West,"Bristol, City of",Undefined,Percentage (%),,61.0
+2014/15,User dependent,,,South West,Cornwall 6,Undefined,Percentage (%),,57.0
+2014/15,User dependent,,,South West,Devon,Undefined,Percentage (%),,60.0
+2014/15,User dependent,,,South West,Dorset,Undefined,Percentage (%),,54.0
+2014/15,User dependent,,,South West,Gloucestershire,Undefined,Percentage (%),,47.0
+2014/15,User dependent,,,South West,North Somerset,Undefined,Percentage (%),E06000024,61.0
+2014/15,User dependent,,,South West,Plymouth,Undefined,Percentage (%),E06000026,49.0
+2014/15,User dependent,,,South West,Poole,Undefined,Percentage (%),E06000029,53.0
+2014/15,User dependent,,,South West,Somerset,Undefined,Percentage (%),,56.0
+2014/15,User dependent,,,South West,South Gloucestershire,Undefined,Percentage (%),E06000025,59.0
+2014/15,User dependent,,,South West,Swindon,Undefined,Percentage (%),E06000030,50.0
+2014/15,User dependent,,,South West,Torbay,Undefined,Percentage (%),E06000027,59.0
+2014/15,User dependent,,,South West,Wiltshire,Undefined,Percentage (%),E06000054,56.0
+2015/16,Long acting reversible contraceptives,,,,,Undefined,Percentage (%),,38.38507849270165
+2015/16,Long acting reversible contraceptives,IU device,,,,Undefined,Percentage (%),,5.835476117661216
+2015/16,Long acting reversible contraceptives,IU system,,,,Undefined,Percentage (%),,7.796938017318186
+2015/16,Long acting reversible contraceptives,Implant,,,,Undefined,Percentage (%),,15.458850260501483
+2015/16,Long acting reversible contraceptives,Injectable contraceptive,,,,Undefined,Percentage (%),,9.293814097220764
+2015/16,User dependent,,,,,Undefined,Percentage (%),,61.61492150729834
+2015/16,User dependent,Oral contraceptives,,,,Undefined,Percentage (%),,44.76198257140743
+2015/16,User dependent,Male condom,,,,Undefined,Percentage (%),,14.00757160064609
+2015/16,User dependent,Female condom,,,,Undefined,Percentage (%),,0.11714010331735031
+2015/16,User dependent,Contraceptive patch,,,,Undefined,Percentage (%),,1.541479851571013
+2015/16,User dependent,Natural family planning,,,,Undefined,Percentage (%),,0.6982035941365913
+2015/16,User dependent,Other methods,,,,Undefined,Percentage (%),,0.4885437862198634
+2015/16,Long acting reversible contraceptives,,Under 16,,,Undefined,Percentage (%),,31.43569252680302
+2015/16,Long acting reversible contraceptives,,16 to 17,,,Undefined,Percentage (%),,30.196614446430452
+2015/16,Long acting reversible contraceptives,,18 to 19,,,Undefined,Percentage (%),,30.22848234957707
+2015/16,Long acting reversible contraceptives,,20 to 24,,,Undefined,Percentage (%),,32.847493639524714
+2015/16,Long acting reversible contraceptives,,25 to 34,,,Undefined,Percentage (%),,40.983240556068225
+2015/16,Long acting reversible contraceptives,,35 to 44,,,Undefined,Percentage (%),,52.817762646878975
+2015/16,Long acting reversible contraceptives,,45 and over,,,Undefined,Percentage (%),,51.11224449762642
+2015/16,User dependent,,Under 16,,,Undefined,Percentage (%),,68.56430747319698
+2015/16,User dependent,,16 to 17,,,Undefined,Percentage (%),,69.80338555356956
+2015/16,User dependent,,18 to 19,,,Undefined,Percentage (%),,69.77151765042291
+2015/16,User dependent,,20 to 24,,,Undefined,Percentage (%),,67.15250636047529
+2015/16,User dependent,,25 to 34,,,Undefined,Percentage (%),,59.01675944393176
+2015/16,User dependent,,35 to 44,,,Undefined,Percentage (%),,47.182237353121025
+2015/16,User dependent,,45 and over,,,Undefined,Percentage (%),,48.887755502373565
+2015/16,Long acting reversible contraceptives,,,North East,,Undefined,Percentage (%),E12000001,44.0
+2015/16,Long acting reversible contraceptives,,,North East,County Durham,Undefined,Percentage (%),E06000047,42.0
+2015/16,Long acting reversible contraceptives,,,North East,Darlington,Undefined,Percentage (%),E06000005,33.0
+2015/16,Long acting reversible contraceptives,,,North East,Gateshead,Undefined,Percentage (%),E08000037,41.0
+2015/16,Long acting reversible contraceptives,,,North East,Hartlepool,Undefined,Percentage (%),E06000001,37.0
+2015/16,Long acting reversible contraceptives,,,North East,Middlesbrough,Undefined,Percentage (%),E06000002,42.0
+2015/16,Long acting reversible contraceptives,,,North East,Newcastle upon Tyne,Undefined,Percentage (%),E08000021,42.0
+2015/16,Long acting reversible contraceptives,,,North East,North Tyneside,Undefined,Percentage (%),E08000022,44.0
+2015/16,Long acting reversible contraceptives,,,North East,Northumberland,Undefined,Percentage (%),E06000057,51.0
+2015/16,Long acting reversible contraceptives,,,North East,Redcar and Cleveland,Undefined,Percentage (%),E06000003,46.0
+2015/16,Long acting reversible contraceptives,,,North East,South Tyneside,Undefined,Percentage (%),E08000023,46.0
+2015/16,Long acting reversible contraceptives,,,North East,Stockton-on-Tees,Undefined,Percentage (%),E06000004,37.0
+2015/16,Long acting reversible contraceptives,,,North East,Sunderland,Undefined,Percentage (%),E08000024,53.0
+2015/16,Long acting reversible contraceptives,,,North West,,Undefined,Percentage (%),E12000002,37.0
+2015/16,Long acting reversible contraceptives,,,North West,Blackburn with Darwen,Undefined,Percentage (%),E06000008,36.0
+2015/16,Long acting reversible contraceptives,,,North West,Blackpool,Undefined,Percentage (%),E06000009,49.0
+2015/16,Long acting reversible contraceptives,,,North West,Bolton,Undefined,Percentage (%),E08000001,48.0
+2015/16,Long acting reversible contraceptives,,,North West,Bury,Undefined,Percentage (%),E08000002,34.0
+2015/16,Long acting reversible contraceptives,,,North West,Cheshire East,Undefined,Percentage (%),E06000049,37.0
+2015/16,Long acting reversible contraceptives,,,North West,Cheshire West and Chester,Undefined,Percentage (%),E06000050,38.0
+2015/16,Long acting reversible contraceptives,,,North West,Cumbria,Undefined,Percentage (%),,47.0
+2015/16,Long acting reversible contraceptives,,,North West,Halton,Undefined,Percentage (%),E06000006,32.0
+2015/16,Long acting reversible contraceptives,,,North West,Knowsley,Undefined,Percentage (%),E08000011,32.0
+2015/16,Long acting reversible contraceptives,,,North West,Lancashire,Undefined,Percentage (%),,40.0
+2015/16,Long acting reversible contraceptives,,,North West,Liverpool,Undefined,Percentage (%),E08000012,30.0
+2015/16,Long acting reversible contraceptives,,,North West,Manchester,Undefined,Percentage (%),E08000003,36.0
+2015/16,Long acting reversible contraceptives,,,North West,Oldham,Undefined,Percentage (%),E08000004,40.0
+2015/16,Long acting reversible contraceptives,,,North West,Rochdale,Undefined,Percentage (%),E08000005,32.0
+2015/16,Long acting reversible contraceptives,,,North West,Salford,Undefined,Percentage (%),E08000006,38.0
+2015/16,Long acting reversible contraceptives,,,North West,Sefton,Undefined,Percentage (%),E08000014,38.0
+2015/16,Long acting reversible contraceptives,,,North West,St. Helens,Undefined,Percentage (%),E08000013,31.0
+2015/16,Long acting reversible contraceptives,,,North West,Stockport,Undefined,Percentage (%),E08000007,37.0
+2015/16,Long acting reversible contraceptives,,,North West,Tameside,Undefined,Percentage (%),E08000008,35.0
+2015/16,Long acting reversible contraceptives,,,North West,Trafford,Undefined,Percentage (%),E08000009,43.0
+2015/16,Long acting reversible contraceptives,,,North West,Warrington,Undefined,Percentage (%),E06000007,37.0
+2015/16,Long acting reversible contraceptives,,,North West,Wigan,Undefined,Percentage (%),E08000010,42.0
+2015/16,Long acting reversible contraceptives,,,North West,Wirral,Undefined,Percentage (%),E08000015,35.0
+2015/16,Long acting reversible contraceptives,,,Yorkshire and The Humber,,Undefined,Percentage (%),E12000003,42.0
+2015/16,Long acting reversible contraceptives,,,Yorkshire and The Humber,Barnsley,Undefined,Percentage (%),E08000016,47.0
+2015/16,Long acting reversible contraceptives,,,Yorkshire and The Humber,Bradford,Undefined,Percentage (%),E08000032,44.0
+2015/16,Long acting reversible contraceptives,,,Yorkshire and The Humber,Calderdale,Undefined,Percentage (%),E08000033,36.0
+2015/16,Long acting reversible contraceptives,,,Yorkshire and The Humber,Doncaster,Undefined,Percentage (%),E08000017,50.0
+2015/16,Long acting reversible contraceptives,,,Yorkshire and The Humber,East Riding of Yorkshire,Undefined,Percentage (%),E06000011,48.0
+2015/16,Long acting reversible contraceptives,,,Yorkshire and The Humber,"Kingston upon Hull, City of",Undefined,Percentage (%),,50.0
+2015/16,Long acting reversible contraceptives,,,Yorkshire and The Humber,Kirklees,Undefined,Percentage (%),E08000034,54.0
+2015/16,Long acting reversible contraceptives,,,Yorkshire and The Humber,Leeds,Undefined,Percentage (%),E08000035,34.0
+2015/16,Long acting reversible contraceptives,,,Yorkshire and The Humber,North East Lincolnshire,Undefined,Percentage (%),E06000012,44.0
+2015/16,Long acting reversible contraceptives,,,Yorkshire and The Humber,North Lincolnshire,Undefined,Percentage (%),E06000013,38.0
+2015/16,Long acting reversible contraceptives,,,Yorkshire and The Humber,North Yorkshire,Undefined,Percentage (%),,45.0
+2015/16,Long acting reversible contraceptives,,,Yorkshire and The Humber,Rotherham,Undefined,Percentage (%),E08000018,37.0
+2015/16,Long acting reversible contraceptives,,,Yorkshire and The Humber,Sheffield,Undefined,Percentage (%),E08000019,45.0
+2015/16,Long acting reversible contraceptives,,,Yorkshire and The Humber,Wakefield,Undefined,Percentage (%),E08000036,42.0
+2015/16,Long acting reversible contraceptives,,,Yorkshire and The Humber,York,Undefined,Percentage (%),E06000014,38.0
+2015/16,Long acting reversible contraceptives,,,East Midlands,,Undefined,Percentage (%),E12000004,45.0
+2015/16,Long acting reversible contraceptives,,,East Midlands,Derby,Undefined,Percentage (%),E06000015,49.0
+2015/16,Long acting reversible contraceptives,,,East Midlands,Derbyshire,Undefined,Percentage (%),,49.0
+2015/16,Long acting reversible contraceptives,,,East Midlands,Leicester,Undefined,Percentage (%),E06000016,40.0
+2015/16,Long acting reversible contraceptives,,,East Midlands,Leicestershire 4,Undefined,Percentage (%),,49.0
+2015/16,Long acting reversible contraceptives,,,East Midlands,Lincolnshire,Undefined,Percentage (%),,57.0
+2015/16,Long acting reversible contraceptives,,,East Midlands,Northamptonshire,Undefined,Percentage (%),,41.0
+2015/16,Long acting reversible contraceptives,,,East Midlands,Nottingham,Undefined,Percentage (%),E06000018,40.0
+2015/16,Long acting reversible contraceptives,,,East Midlands,Nottinghamshire,Undefined,Percentage (%),,43.0
+2015/16,Long acting reversible contraceptives,,,West Midlands,,Undefined,Percentage (%),E12000005,36.0
+2015/16,Long acting reversible contraceptives,,,West Midlands,Birmingham,Undefined,Percentage (%),E08000025,26.0
+2015/16,Long acting reversible contraceptives,,,West Midlands,Coventry,Undefined,Percentage (%),E08000026,52.0
+2015/16,Long acting reversible contraceptives,,,West Midlands,Dudley,Undefined,Percentage (%),E08000027,40.0
+2015/16,Long acting reversible contraceptives,,,West Midlands,"Herefordshire, County of",Undefined,Percentage (%),,42.0
+2015/16,Long acting reversible contraceptives,,,West Midlands,Sandwell,Undefined,Percentage (%),E08000028,39.0
+2015/16,Long acting reversible contraceptives,,,West Midlands,Shropshire,Undefined,Percentage (%),E06000051,40.0
+2015/16,Long acting reversible contraceptives,,,West Midlands,Solihull,Undefined,Percentage (%),E08000029,34.0
+2015/16,Long acting reversible contraceptives,,,West Midlands,Staffordshire,Undefined,Percentage (%),,33.0
+2015/16,Long acting reversible contraceptives,,,West Midlands,Stoke-on-Trent,Undefined,Percentage (%),E06000021,42.0
+2015/16,Long acting reversible contraceptives,,,West Midlands,Telford and Wrekin,Undefined,Percentage (%),E06000020,42.0
+2015/16,Long acting reversible contraceptives,,,West Midlands,Walsall,Undefined,Percentage (%),E08000030,37.0
+2015/16,Long acting reversible contraceptives,,,West Midlands,Warwickshire,Undefined,Percentage (%),,42.0
+2015/16,Long acting reversible contraceptives,,,West Midlands,Wolverhampton,Undefined,Percentage (%),E08000031,44.0
+2015/16,Long acting reversible contraceptives,,,West Midlands,Worcestershire,Undefined,Percentage (%),,35.0
+2015/16,Long acting reversible contraceptives,,,East of England,,Undefined,Percentage (%),E12000006,39.0
+2015/16,Long acting reversible contraceptives,,,East of England,Bedford,Undefined,Percentage (%),E06000055,30.0
+2015/16,Long acting reversible contraceptives,,,East of England,Cambridgeshire,Undefined,Percentage (%),,42.0
+2015/16,Long acting reversible contraceptives,,,East of England,Central Bedfordshire,Undefined,Percentage (%),E06000056,33.0
+2015/16,Long acting reversible contraceptives,,,East of England,Essex,Undefined,Percentage (%),,39.0
+2015/16,Long acting reversible contraceptives,,,East of England,Hertfordshire,Undefined,Percentage (%),,36.0
+2015/16,Long acting reversible contraceptives,,,East of England,Luton,Undefined,Percentage (%),E06000032,44.0
+2015/16,Long acting reversible contraceptives,,,East of England,Norfolk,Undefined,Percentage (%),,44.0
+2015/16,Long acting reversible contraceptives,,,East of England,Peterborough,Undefined,Percentage (%),E06000031,40.0
+2015/16,Long acting reversible contraceptives,,,East of England,Southend-on-Sea,Undefined,Percentage (%),E06000033,27.0
+2015/16,Long acting reversible contraceptives,,,East of England,Suffolk,Undefined,Percentage (%),,42.0
+2015/16,Long acting reversible contraceptives,,,East of England,Thurrock,Undefined,Percentage (%),E06000034,48.0
+2015/16,Long acting reversible contraceptives,,,London,,Undefined,Percentage (%),E12000007,35.0
+2015/16,Long acting reversible contraceptives,,,London,Barking and Dagenham,Undefined,Percentage (%),E09000002,50.0
+2015/16,Long acting reversible contraceptives,,,London,Barnet,Undefined,Percentage (%),E09000003,40.0
+2015/16,Long acting reversible contraceptives,,,London,Bexley,Undefined,Percentage (%),E09000004,39.0
+2015/16,Long acting reversible contraceptives,,,London,Brent,Undefined,Percentage (%),E09000005,40.0
+2015/16,Long acting reversible contraceptives,,,London,Bromley,Undefined,Percentage (%),E09000006,29.0
+2015/16,Long acting reversible contraceptives,,,London,Camden,Undefined,Percentage (%),E09000007,32.0
+2015/16,Long acting reversible contraceptives,,,London,Croydon,Undefined,Percentage (%),E09000008,33.0
+2015/16,Long acting reversible contraceptives,,,London,Ealing,Undefined,Percentage (%),E09000009,28.0
+2015/16,Long acting reversible contraceptives,,,London,Enfield,Undefined,Percentage (%),E09000010,41.0
+2015/16,Long acting reversible contraceptives,,,London,Greenwich,Undefined,Percentage (%),E09000011,43.0
+2015/16,Long acting reversible contraceptives,,,London,Hackney 5,Undefined,Percentage (%),,36.0
+2015/16,Long acting reversible contraceptives,,,London,Hammersmith and Fulham,Undefined,Percentage (%),E09000013,33.0
+2015/16,Long acting reversible contraceptives,,,London,Haringey,Undefined,Percentage (%),E09000014,33.0
+2015/16,Long acting reversible contraceptives,,,London,Harrow,Undefined,Percentage (%),E09000015,30.0
+2015/16,Long acting reversible contraceptives,,,London,Havering,Undefined,Percentage (%),E09000016,47.0
+2015/16,Long acting reversible contraceptives,,,London,Hillingdon,Undefined,Percentage (%),E09000017,42.0
+2015/16,Long acting reversible contraceptives,,,London,Hounslow,Undefined,Percentage (%),E09000018,30.0
+2015/16,Long acting reversible contraceptives,,,London,Islington,Undefined,Percentage (%),E09000019,33.0
+2015/16,Long acting reversible contraceptives,,,London,Kensington and Chelsea,Undefined,Percentage (%),E09000020,33.0
+2015/16,Long acting reversible contraceptives,,,London,Kingston upon Thames,Undefined,Percentage (%),E09000021,23.0
+2015/16,Long acting reversible contraceptives,,,London,Lambeth,Undefined,Percentage (%),E09000022,34.0
+2015/16,Long acting reversible contraceptives,,,London,Lewisham,Undefined,Percentage (%),E09000023,33.0
+2015/16,Long acting reversible contraceptives,,,London,Merton,Undefined,Percentage (%),E09000024,33.0
+2015/16,Long acting reversible contraceptives,,,London,Newham,Undefined,Percentage (%),E09000025,33.0
+2015/16,Long acting reversible contraceptives,,,London,Redbridge,Undefined,Percentage (%),E09000026,45.0
+2015/16,Long acting reversible contraceptives,,,London,Richmond upon Thames,Undefined,Percentage (%),E09000027,30.0
+2015/16,Long acting reversible contraceptives,,,London,Southwark,Undefined,Percentage (%),E09000028,36.0
+2015/16,Long acting reversible contraceptives,,,London,Sutton,Undefined,Percentage (%),E09000029,33.0
+2015/16,Long acting reversible contraceptives,,,London,Tower Hamlets,Undefined,Percentage (%),E09000030,30.0
+2015/16,Long acting reversible contraceptives,,,London,Waltham Forest,Undefined,Percentage (%),E09000031,29.0
+2015/16,Long acting reversible contraceptives,,,London,Wandsworth,Undefined,Percentage (%),E09000032,30.0
+2015/16,Long acting reversible contraceptives,,,London,Westminster,Undefined,Percentage (%),E09000033,34.0
+2015/16,Long acting reversible contraceptives,,,South East,,Undefined,Percentage (%),E12000008,37.0
+2015/16,Long acting reversible contraceptives,,,South East,Bracknell Forest,Undefined,Percentage (%),E06000036,42.0
+2015/16,Long acting reversible contraceptives,,,South East,Brighton and Hove,Undefined,Percentage (%),E06000043,32.0
+2015/16,Long acting reversible contraceptives,,,South East,Buckinghamshire,Undefined,Percentage (%),,41.0
+2015/16,Long acting reversible contraceptives,,,South East,East Sussex,Undefined,Percentage (%),,36.0
+2015/16,Long acting reversible contraceptives,,,South East,Hampshire,Undefined,Percentage (%),,41.0
+2015/16,Long acting reversible contraceptives,,,South East,Isle of Wight,Undefined,Percentage (%),E06000046,56.0
+2015/16,Long acting reversible contraceptives,,,South East,Kent,Undefined,Percentage (%),,39.0
+2015/16,Long acting reversible contraceptives,,,South East,Medway,Undefined,Percentage (%),E06000035,42.0
+2015/16,Long acting reversible contraceptives,,,South East,Milton Keynes,Undefined,Percentage (%),E06000042,31.0
+2015/16,Long acting reversible contraceptives,,,South East,Oxfordshire,Undefined,Percentage (%),,35.0
+2015/16,Long acting reversible contraceptives,,,South East,Portsmouth,Undefined,Percentage (%),E06000044,45.0
+2015/16,Long acting reversible contraceptives,,,South East,Reading,Undefined,Percentage (%),E06000038,37.0
+2015/16,Long acting reversible contraceptives,,,South East,Slough,Undefined,Percentage (%),E06000039,33.0
+2015/16,Long acting reversible contraceptives,,,South East,Southampton,Undefined,Percentage (%),E06000045,48.0
+2015/16,Long acting reversible contraceptives,,,South East,Surrey,Undefined,Percentage (%),,32.0
+2015/16,Long acting reversible contraceptives,,,South East,West Berkshire,Undefined,Percentage (%),E06000037,36.0
+2015/16,Long acting reversible contraceptives,,,South East,West Sussex,Undefined,Percentage (%),,29.0
+2015/16,Long acting reversible contraceptives,,,South East,Windsor and Maidenhead,Undefined,Percentage (%),E06000040,32.0
+2015/16,Long acting reversible contraceptives,,,South East,Wokingham,Undefined,Percentage (%),E06000041,33.0
+2015/16,Long acting reversible contraceptives,,,South West,,Undefined,Percentage (%),E12000009,44.0
+2015/16,Long acting reversible contraceptives,,,South West,Bath and North East Somerset,Undefined,Percentage (%),E06000022,28.0
+2015/16,Long acting reversible contraceptives,,,South West,Bournemouth,Undefined,Percentage (%),E06000028,33.0
+2015/16,Long acting reversible contraceptives,,,South West,"Bristol, City of",Undefined,Percentage (%),,40.0
+2015/16,Long acting reversible contraceptives,,,South West,Cornwall 6,Undefined,Percentage (%),,45.0
+2015/16,Long acting reversible contraceptives,,,South West,Devon,Undefined,Percentage (%),,43.0
+2015/16,Long acting reversible contraceptives,,,South West,Dorset,Undefined,Percentage (%),,47.0
+2015/16,Long acting reversible contraceptives,,,South West,Gloucestershire,Undefined,Percentage (%),,52.0
+2015/16,Long acting reversible contraceptives,,,South West,North Somerset,Undefined,Percentage (%),E06000024,39.0
+2015/16,Long acting reversible contraceptives,,,South West,Plymouth,Undefined,Percentage (%),E06000026,53.0
+2015/16,Long acting reversible contraceptives,,,South West,Poole,Undefined,Percentage (%),E06000029,48.0
+2015/16,Long acting reversible contraceptives,,,South West,Somerset,Undefined,Percentage (%),,46.0
+2015/16,Long acting reversible contraceptives,,,South West,South Gloucestershire,Undefined,Percentage (%),E06000025,44.0
+2015/16,Long acting reversible contraceptives,,,South West,Swindon,Undefined,Percentage (%),E06000030,47.0
+2015/16,Long acting reversible contraceptives,,,South West,Torbay,Undefined,Percentage (%),E06000027,42.0
+2015/16,Long acting reversible contraceptives,,,South West,Wiltshire,Undefined,Percentage (%),E06000054,47.0
+2015/16,User dependent,,,North East,,Undefined,Percentage (%),E12000001,56.0
+2015/16,User dependent,,,North East,County Durham,Undefined,Percentage (%),E06000047,58.0
+2015/16,User dependent,,,North East,Darlington,Undefined,Percentage (%),E06000005,67.0
+2015/16,User dependent,,,North East,Gateshead,Undefined,Percentage (%),E08000037,59.0
+2015/16,User dependent,,,North East,Hartlepool,Undefined,Percentage (%),E06000001,63.0
+2015/16,User dependent,,,North East,Middlesbrough,Undefined,Percentage (%),E06000002,58.0
+2015/16,User dependent,,,North East,Newcastle upon Tyne,Undefined,Percentage (%),E08000021,58.0
+2015/16,User dependent,,,North East,North Tyneside,Undefined,Percentage (%),E08000022,56.0
+2015/16,User dependent,,,North East,Northumberland,Undefined,Percentage (%),E06000057,49.0
+2015/16,User dependent,,,North East,Redcar and Cleveland,Undefined,Percentage (%),E06000003,54.0
+2015/16,User dependent,,,North East,South Tyneside,Undefined,Percentage (%),E08000023,54.0
+2015/16,User dependent,,,North East,Stockton-on-Tees,Undefined,Percentage (%),E06000004,63.0
+2015/16,User dependent,,,North East,Sunderland,Undefined,Percentage (%),E08000024,47.0
+2015/16,User dependent,,,North West,,Undefined,Percentage (%),E12000002,63.0
+2015/16,User dependent,,,North West,Blackburn with Darwen,Undefined,Percentage (%),E06000008,64.0
+2015/16,User dependent,,,North West,Blackpool,Undefined,Percentage (%),E06000009,51.0
+2015/16,User dependent,,,North West,Bolton,Undefined,Percentage (%),E08000001,52.0
+2015/16,User dependent,,,North West,Bury,Undefined,Percentage (%),E08000002,66.0
+2015/16,User dependent,,,North West,Cheshire East,Undefined,Percentage (%),E06000049,63.0
+2015/16,User dependent,,,North West,Cheshire West and Chester,Undefined,Percentage (%),E06000050,62.0
+2015/16,User dependent,,,North West,Cumbria,Undefined,Percentage (%),,53.0
+2015/16,User dependent,,,North West,Halton,Undefined,Percentage (%),E06000006,68.0
+2015/16,User dependent,,,North West,Knowsley,Undefined,Percentage (%),E08000011,68.0
+2015/16,User dependent,,,North West,Lancashire,Undefined,Percentage (%),,60.0
+2015/16,User dependent,,,North West,Liverpool,Undefined,Percentage (%),E08000012,70.0
+2015/16,User dependent,,,North West,Manchester,Undefined,Percentage (%),E08000003,64.0
+2015/16,User dependent,,,North West,Oldham,Undefined,Percentage (%),E08000004,60.0
+2015/16,User dependent,,,North West,Rochdale,Undefined,Percentage (%),E08000005,68.0
+2015/16,User dependent,,,North West,Salford,Undefined,Percentage (%),E08000006,62.0
+2015/16,User dependent,,,North West,Sefton,Undefined,Percentage (%),E08000014,62.0
+2015/16,User dependent,,,North West,St. Helens,Undefined,Percentage (%),E08000013,69.0
+2015/16,User dependent,,,North West,Stockport,Undefined,Percentage (%),E08000007,63.0
+2015/16,User dependent,,,North West,Tameside,Undefined,Percentage (%),E08000008,65.0
+2015/16,User dependent,,,North West,Trafford,Undefined,Percentage (%),E08000009,57.0
+2015/16,User dependent,,,North West,Warrington,Undefined,Percentage (%),E06000007,63.0
+2015/16,User dependent,,,North West,Wigan,Undefined,Percentage (%),E08000010,58.0
+2015/16,User dependent,,,North West,Wirral,Undefined,Percentage (%),E08000015,65.0
+2015/16,User dependent,,,Yorkshire and The Humber,,Undefined,Percentage (%),E12000003,58.0
+2015/16,User dependent,,,Yorkshire and The Humber,Barnsley,Undefined,Percentage (%),E08000016,53.0
+2015/16,User dependent,,,Yorkshire and The Humber,Bradford,Undefined,Percentage (%),E08000032,56.0
+2015/16,User dependent,,,Yorkshire and The Humber,Calderdale,Undefined,Percentage (%),E08000033,64.0
+2015/16,User dependent,,,Yorkshire and The Humber,Doncaster,Undefined,Percentage (%),E08000017,50.0
+2015/16,User dependent,,,Yorkshire and The Humber,East Riding of Yorkshire,Undefined,Percentage (%),E06000011,52.0
+2015/16,User dependent,,,Yorkshire and The Humber,"Kingston upon Hull, City of",Undefined,Percentage (%),,50.0
+2015/16,User dependent,,,Yorkshire and The Humber,Kirklees,Undefined,Percentage (%),E08000034,46.0
+2015/16,User dependent,,,Yorkshire and The Humber,Leeds,Undefined,Percentage (%),E08000035,66.0
+2015/16,User dependent,,,Yorkshire and The Humber,North East Lincolnshire,Undefined,Percentage (%),E06000012,56.0
+2015/16,User dependent,,,Yorkshire and The Humber,North Lincolnshire,Undefined,Percentage (%),E06000013,62.0
+2015/16,User dependent,,,Yorkshire and The Humber,North Yorkshire,Undefined,Percentage (%),,55.0
+2015/16,User dependent,,,Yorkshire and The Humber,Rotherham,Undefined,Percentage (%),E08000018,63.0
+2015/16,User dependent,,,Yorkshire and The Humber,Sheffield,Undefined,Percentage (%),E08000019,55.0
+2015/16,User dependent,,,Yorkshire and The Humber,Wakefield,Undefined,Percentage (%),E08000036,58.0
+2015/16,User dependent,,,Yorkshire and The Humber,York,Undefined,Percentage (%),E06000014,62.0
+2015/16,User dependent,,,East Midlands,,Undefined,Percentage (%),E12000004,55.0
+2015/16,User dependent,,,East Midlands,Derby,Undefined,Percentage (%),E06000015,51.0
+2015/16,User dependent,,,East Midlands,Derbyshire,Undefined,Percentage (%),,51.0
+2015/16,User dependent,,,East Midlands,Leicester,Undefined,Percentage (%),E06000016,60.0
+2015/16,User dependent,,,East Midlands,Leicestershire 4,Undefined,Percentage (%),,51.0
+2015/16,User dependent,,,East Midlands,Lincolnshire,Undefined,Percentage (%),,43.0
+2015/16,User dependent,,,East Midlands,Northamptonshire,Undefined,Percentage (%),,59.0
+2015/16,User dependent,,,East Midlands,Nottingham,Undefined,Percentage (%),E06000018,60.0
+2015/16,User dependent,,,East Midlands,Nottinghamshire,Undefined,Percentage (%),,57.0
+2015/16,User dependent,,,West Midlands,,Undefined,Percentage (%),E12000005,64.0
+2015/16,User dependent,,,West Midlands,Birmingham,Undefined,Percentage (%),E08000025,74.0
+2015/16,User dependent,,,West Midlands,Coventry,Undefined,Percentage (%),E08000026,48.0
+2015/16,User dependent,,,West Midlands,Dudley,Undefined,Percentage (%),E08000027,60.0
+2015/16,User dependent,,,West Midlands,"Herefordshire, County of",Undefined,Percentage (%),,58.0
+2015/16,User dependent,,,West Midlands,Sandwell,Undefined,Percentage (%),E08000028,61.0
+2015/16,User dependent,,,West Midlands,Shropshire,Undefined,Percentage (%),E06000051,60.0
+2015/16,User dependent,,,West Midlands,Solihull,Undefined,Percentage (%),E08000029,66.0
+2015/16,User dependent,,,West Midlands,Staffordshire,Undefined,Percentage (%),,67.0
+2015/16,User dependent,,,West Midlands,Stoke-on-Trent,Undefined,Percentage (%),E06000021,58.0
+2015/16,User dependent,,,West Midlands,Telford and Wrekin,Undefined,Percentage (%),E06000020,58.0
+2015/16,User dependent,,,West Midlands,Walsall,Undefined,Percentage (%),E08000030,63.0
+2015/16,User dependent,,,West Midlands,Warwickshire,Undefined,Percentage (%),,58.0
+2015/16,User dependent,,,West Midlands,Wolverhampton,Undefined,Percentage (%),E08000031,56.0
+2015/16,User dependent,,,West Midlands,Worcestershire,Undefined,Percentage (%),,65.0
+2015/16,User dependent,,,East of England,,Undefined,Percentage (%),E12000006,61.0
+2015/16,User dependent,,,East of England,Bedford,Undefined,Percentage (%),E06000055,70.0
+2015/16,User dependent,,,East of England,Cambridgeshire,Undefined,Percentage (%),,58.0
+2015/16,User dependent,,,East of England,Central Bedfordshire,Undefined,Percentage (%),E06000056,67.0
+2015/16,User dependent,,,East of England,Essex,Undefined,Percentage (%),,61.0
+2015/16,User dependent,,,East of England,Hertfordshire,Undefined,Percentage (%),,64.0
+2015/16,User dependent,,,East of England,Luton,Undefined,Percentage (%),E06000032,56.0
+2015/16,User dependent,,,East of England,Norfolk,Undefined,Percentage (%),,56.0
+2015/16,User dependent,,,East of England,Peterborough,Undefined,Percentage (%),E06000031,60.0
+2015/16,User dependent,,,East of England,Southend-on-Sea,Undefined,Percentage (%),E06000033,73.0
+2015/16,User dependent,,,East of England,Suffolk,Undefined,Percentage (%),,58.0
+2015/16,User dependent,,,East of England,Thurrock,Undefined,Percentage (%),E06000034,52.0
+2015/16,User dependent,,,London,,Undefined,Percentage (%),E12000007,65.0
+2015/16,User dependent,,,London,Barking and Dagenham,Undefined,Percentage (%),E09000002,50.0
+2015/16,User dependent,,,London,Barnet,Undefined,Percentage (%),E09000003,60.0
+2015/16,User dependent,,,London,Bexley,Undefined,Percentage (%),E09000004,61.0
+2015/16,User dependent,,,London,Brent,Undefined,Percentage (%),E09000005,60.0
+2015/16,User dependent,,,London,Bromley,Undefined,Percentage (%),E09000006,71.0
+2015/16,User dependent,,,London,Camden,Undefined,Percentage (%),E09000007,68.0
+2015/16,User dependent,,,London,Croydon,Undefined,Percentage (%),E09000008,67.0
+2015/16,User dependent,,,London,Ealing,Undefined,Percentage (%),E09000009,72.0
+2015/16,User dependent,,,London,Enfield,Undefined,Percentage (%),E09000010,59.0
+2015/16,User dependent,,,London,Greenwich,Undefined,Percentage (%),E09000011,57.0
+2015/16,User dependent,,,London,Hackney 5,Undefined,Percentage (%),,64.0
+2015/16,User dependent,,,London,Hammersmith and Fulham,Undefined,Percentage (%),E09000013,67.0
+2015/16,User dependent,,,London,Haringey,Undefined,Percentage (%),E09000014,67.0
+2015/16,User dependent,,,London,Harrow,Undefined,Percentage (%),E09000015,70.0
+2015/16,User dependent,,,London,Havering,Undefined,Percentage (%),E09000016,53.0
+2015/16,User dependent,,,London,Hillingdon,Undefined,Percentage (%),E09000017,58.0
+2015/16,User dependent,,,London,Hounslow,Undefined,Percentage (%),E09000018,70.0
+2015/16,User dependent,,,London,Islington,Undefined,Percentage (%),E09000019,67.0
+2015/16,User dependent,,,London,Kensington and Chelsea,Undefined,Percentage (%),E09000020,67.0
+2015/16,User dependent,,,London,Kingston upon Thames,Undefined,Percentage (%),E09000021,77.0
+2015/16,User dependent,,,London,Lambeth,Undefined,Percentage (%),E09000022,66.0
+2015/16,User dependent,,,London,Lewisham,Undefined,Percentage (%),E09000023,67.0
+2015/16,User dependent,,,London,Merton,Undefined,Percentage (%),E09000024,67.0
+2015/16,User dependent,,,London,Newham,Undefined,Percentage (%),E09000025,67.0
+2015/16,User dependent,,,London,Redbridge,Undefined,Percentage (%),E09000026,55.0
+2015/16,User dependent,,,London,Richmond upon Thames,Undefined,Percentage (%),E09000027,70.0
+2015/16,User dependent,,,London,Southwark,Undefined,Percentage (%),E09000028,64.0
+2015/16,User dependent,,,London,Sutton,Undefined,Percentage (%),E09000029,67.0
+2015/16,User dependent,,,London,Tower Hamlets,Undefined,Percentage (%),E09000030,70.0
+2015/16,User dependent,,,London,Waltham Forest,Undefined,Percentage (%),E09000031,71.0
+2015/16,User dependent,,,London,Wandsworth,Undefined,Percentage (%),E09000032,70.0
+2015/16,User dependent,,,London,Westminster,Undefined,Percentage (%),E09000033,66.0
+2015/16,User dependent,,,South East,,Undefined,Percentage (%),E12000008,63.0
+2015/16,User dependent,,,South East,Bracknell Forest,Undefined,Percentage (%),E06000036,58.0
+2015/16,User dependent,,,South East,Brighton and Hove,Undefined,Percentage (%),E06000043,68.0
+2015/16,User dependent,,,South East,Buckinghamshire,Undefined,Percentage (%),,59.0
+2015/16,User dependent,,,South East,East Sussex,Undefined,Percentage (%),,64.0
+2015/16,User dependent,,,South East,Hampshire,Undefined,Percentage (%),,59.0
+2015/16,User dependent,,,South East,Isle of Wight,Undefined,Percentage (%),E06000046,44.0
+2015/16,User dependent,,,South East,Kent,Undefined,Percentage (%),,61.0
+2015/16,User dependent,,,South East,Medway,Undefined,Percentage (%),E06000035,58.0
+2015/16,User dependent,,,South East,Milton Keynes,Undefined,Percentage (%),E06000042,69.0
+2015/16,User dependent,,,South East,Oxfordshire,Undefined,Percentage (%),,65.0
+2015/16,User dependent,,,South East,Portsmouth,Undefined,Percentage (%),E06000044,55.0
+2015/16,User dependent,,,South East,Reading,Undefined,Percentage (%),E06000038,63.0
+2015/16,User dependent,,,South East,Slough,Undefined,Percentage (%),E06000039,67.0
+2015/16,User dependent,,,South East,Southampton,Undefined,Percentage (%),E06000045,52.0
+2015/16,User dependent,,,South East,Surrey,Undefined,Percentage (%),,68.0
+2015/16,User dependent,,,South East,West Berkshire,Undefined,Percentage (%),E06000037,64.0
+2015/16,User dependent,,,South East,West Sussex,Undefined,Percentage (%),,71.0
+2015/16,User dependent,,,South East,Windsor and Maidenhead,Undefined,Percentage (%),E06000040,68.0
+2015/16,User dependent,,,South East,Wokingham,Undefined,Percentage (%),E06000041,67.0
+2015/16,User dependent,,,South West,,Undefined,Percentage (%),E12000009,56.0
+2015/16,User dependent,,,South West,Bath and North East Somerset,Undefined,Percentage (%),E06000022,72.0
+2015/16,User dependent,,,South West,Bournemouth,Undefined,Percentage (%),E06000028,67.0
+2015/16,User dependent,,,South West,"Bristol, City of",Undefined,Percentage (%),,60.0
+2015/16,User dependent,,,South West,Cornwall 6,Undefined,Percentage (%),,55.0
+2015/16,User dependent,,,South West,Devon,Undefined,Percentage (%),,57.0
+2015/16,User dependent,,,South West,Dorset,Undefined,Percentage (%),,53.0
+2015/16,User dependent,,,South West,Gloucestershire,Undefined,Percentage (%),,48.0
+2015/16,User dependent,,,South West,North Somerset,Undefined,Percentage (%),E06000024,61.0
+2015/16,User dependent,,,South West,Plymouth,Undefined,Percentage (%),E06000026,47.0
+2015/16,User dependent,,,South West,Poole,Undefined,Percentage (%),E06000029,52.0
+2015/16,User dependent,,,South West,Somerset,Undefined,Percentage (%),,54.0
+2015/16,User dependent,,,South West,South Gloucestershire,Undefined,Percentage (%),E06000025,56.0
+2015/16,User dependent,,,South West,Swindon,Undefined,Percentage (%),E06000030,53.0
+2015/16,User dependent,,,South West,Torbay,Undefined,Percentage (%),E06000027,58.0
+2015/16,User dependent,,,South West,Wiltshire,Undefined,Percentage (%),E06000054,53.0
+2016/17,Long acting reversible contraceptives,,,,,Undefined,Percentage (%),,39.26509939935456
+2016/17,Long acting reversible contraceptives,IU device,,,,Undefined,Percentage (%),,6.224432372836585
+2016/17,Long acting reversible contraceptives,IU system,,,,Undefined,Percentage (%),,8.295223548057377
+2016/17,Long acting reversible contraceptives,Implant,,,,Undefined,Percentage (%),,15.460935077463736
+2016/17,Long acting reversible contraceptives,Injectable contraceptive,,,,Undefined,Percentage (%),,9.284508400996865
+2016/17,User dependent,,,,,Undefined,Percentage (%),,60.73490060064542
+2016/17,User dependent,Oral contraceptives,,,,Undefined,Percentage (%),,44.18131912303469
+2016/17,User dependent,Male condom,,,,Undefined,Percentage (%),,13.565743686332157
+2016/17,User dependent,Female condom,,,,Undefined,Percentage (%),,0.12690501073811628
+2016/17,User dependent,Contraceptive patch,,,,Undefined,Percentage (%),,1.5910787500143557
+2016/17,User dependent,Natural family planning,,,,Undefined,Percentage (%),,0.746385217001826
+2016/17,User dependent,Other methods,,,,Undefined,Percentage (%),,0.5234688135242842
+2016/17,Long acting reversible contraceptives,,Under 16,,,Undefined,Percentage (%),,31.724172218355374
+2016/17,Long acting reversible contraceptives,,16 to 17,,,Undefined,Percentage (%),,29.830760365169397
+2016/17,Long acting reversible contraceptives,,18 to 19,,,Undefined,Percentage (%),,29.846394891068293
+2016/17,Long acting reversible contraceptives,,20 to 24,,,Undefined,Percentage (%),,33.55076207698269
+2016/17,Long acting reversible contraceptives,,25 to 34,,,Undefined,Percentage (%),,41.89123655191966
+2016/17,Long acting reversible contraceptives,,35 to 44,,,Undefined,Percentage (%),,54.089716462124414
+2016/17,Long acting reversible contraceptives,,45 and over,,,Undefined,Percentage (%),,53.01137048495319
+2016/17,User dependent,,Under 16,,,Undefined,Percentage (%),,68.27582778164462
+2016/17,User dependent,,16 to 17,,,Undefined,Percentage (%),,70.16923963483063
+2016/17,User dependent,,18 to 19,,,Undefined,Percentage (%),,70.1536051089317
+2016/17,User dependent,,20 to 24,,,Undefined,Percentage (%),,66.44923792301731
+2016/17,User dependent,,25 to 34,,,Undefined,Percentage (%),,58.10876344808034
+2016/17,User dependent,,35 to 44,,,Undefined,Percentage (%),,45.910283537875586
+2016/17,User dependent,,45 and over,,,Undefined,Percentage (%),,46.98862951504681
+2016/17,Long acting reversible contraceptives,,,North East,,Undefined,Percentage (%),E12000001,45.0
+2016/17,Long acting reversible contraceptives,,,North East,County Durham,Undefined,Percentage (%),E06000047,40.0
+2016/17,Long acting reversible contraceptives,,,North East,Darlington,Undefined,Percentage (%),E06000005,37.0
+2016/17,Long acting reversible contraceptives,,,North East,Gateshead,Undefined,Percentage (%),E08000037,44.0
+2016/17,Long acting reversible contraceptives,,,North East,Hartlepool,Undefined,Percentage (%),E06000001,33.0
+2016/17,Long acting reversible contraceptives,,,North East,Middlesbrough,Undefined,Percentage (%),E06000002,42.0
+2016/17,Long acting reversible contraceptives,,,North East,Newcastle upon Tyne,Undefined,Percentage (%),E08000021,42.0
+2016/17,Long acting reversible contraceptives,,,North East,North Tyneside,Undefined,Percentage (%),E08000022,47.0
+2016/17,Long acting reversible contraceptives,,,North East,Northumberland,Undefined,Percentage (%),E06000057,48.0
+2016/17,Long acting reversible contraceptives,,,North East,Redcar and Cleveland,Undefined,Percentage (%),E06000003,52.0
+2016/17,Long acting reversible contraceptives,,,North East,South Tyneside,Undefined,Percentage (%),E08000023,46.0
+2016/17,Long acting reversible contraceptives,,,North East,Stockton-on-Tees,Undefined,Percentage (%),E06000004,33.0
+2016/17,Long acting reversible contraceptives,,,North East,Sunderland,Undefined,Percentage (%),E08000024,56.0
+2016/17,Long acting reversible contraceptives,,,North West,,Undefined,Percentage (%),E12000002,39.0
+2016/17,Long acting reversible contraceptives,,,North West,Blackburn with Darwen,Undefined,Percentage (%),E06000008,36.0
+2016/17,Long acting reversible contraceptives,,,North West,Blackpool,Undefined,Percentage (%),E06000009,49.0
+2016/17,Long acting reversible contraceptives,,,North West,Bolton,Undefined,Percentage (%),E08000001,55.0
+2016/17,Long acting reversible contraceptives,,,North West,Bury,Undefined,Percentage (%),E08000002,36.0
+2016/17,Long acting reversible contraceptives,,,North West,Cheshire East,Undefined,Percentage (%),E06000049,38.0
+2016/17,Long acting reversible contraceptives,,,North West,Cheshire West and Chester,Undefined,Percentage (%),E06000050,38.0
+2016/17,Long acting reversible contraceptives,,,North West,Cumbria,Undefined,Percentage (%),,47.0
+2016/17,Long acting reversible contraceptives,,,North West,Halton,Undefined,Percentage (%),E06000006,31.0
+2016/17,Long acting reversible contraceptives,,,North West,Knowsley,Undefined,Percentage (%),E08000011,34.0
+2016/17,Long acting reversible contraceptives,,,North West,Lancashire,Undefined,Percentage (%),,40.0
+2016/17,Long acting reversible contraceptives,,,North West,Liverpool,Undefined,Percentage (%),E08000012,33.0
+2016/17,Long acting reversible contraceptives,,,North West,Manchester,Undefined,Percentage (%),E08000003,37.0
+2016/17,Long acting reversible contraceptives,,,North West,Oldham,Undefined,Percentage (%),E08000004,45.0
+2016/17,Long acting reversible contraceptives,,,North West,Rochdale,Undefined,Percentage (%),E08000005,44.0
+2016/17,Long acting reversible contraceptives,,,North West,Salford,Undefined,Percentage (%),E08000006,41.0
+2016/17,Long acting reversible contraceptives,,,North West,Sefton,Undefined,Percentage (%),E08000014,36.0
+2016/17,Long acting reversible contraceptives,,,North West,St. Helens,Undefined,Percentage (%),E08000013,30.0
+2016/17,Long acting reversible contraceptives,,,North West,Stockport,Undefined,Percentage (%),E08000007,38.0
+2016/17,Long acting reversible contraceptives,,,North West,Tameside,Undefined,Percentage (%),E08000008,36.0
+2016/17,Long acting reversible contraceptives,,,North West,Trafford,Undefined,Percentage (%),E08000009,41.0
+2016/17,Long acting reversible contraceptives,,,North West,Warrington,Undefined,Percentage (%),E06000007,37.0
+2016/17,Long acting reversible contraceptives,,,North West,Wigan,Undefined,Percentage (%),E08000010,45.0
+2016/17,Long acting reversible contraceptives,,,North West,Wirral,Undefined,Percentage (%),E08000015,34.0
+2016/17,Long acting reversible contraceptives,,,Yorkshire and The Humber,,Undefined,Percentage (%),E12000003,41.0
+2016/17,Long acting reversible contraceptives,,,Yorkshire and The Humber,Barnsley,Undefined,Percentage (%),E08000016,33.0
+2016/17,Long acting reversible contraceptives,,,Yorkshire and The Humber,Bradford,Undefined,Percentage (%),E08000032,47.0
+2016/17,Long acting reversible contraceptives,,,Yorkshire and The Humber,Calderdale,Undefined,Percentage (%),E08000033,36.0
+2016/17,Long acting reversible contraceptives,,,Yorkshire and The Humber,Doncaster,Undefined,Percentage (%),E08000017,40.0
+2016/17,Long acting reversible contraceptives,,,Yorkshire and The Humber,East Riding of Yorkshire,Undefined,Percentage (%),E06000011,47.0
+2016/17,Long acting reversible contraceptives,,,Yorkshire and The Humber,"Kingston upon Hull, City of",Undefined,Percentage (%),,54.0
+2016/17,Long acting reversible contraceptives,,,Yorkshire and The Humber,Kirklees,Undefined,Percentage (%),E08000034,41.0
+2016/17,Long acting reversible contraceptives,,,Yorkshire and The Humber,Leeds,Undefined,Percentage (%),E08000035,37.0
+2016/17,Long acting reversible contraceptives,,,Yorkshire and The Humber,North East Lincolnshire,Undefined,Percentage (%),E06000012,42.0
+2016/17,Long acting reversible contraceptives,,,Yorkshire and The Humber,North Lincolnshire,Undefined,Percentage (%),E06000013,37.0
+2016/17,Long acting reversible contraceptives,,,Yorkshire and The Humber,North Yorkshire,Undefined,Percentage (%),,41.0
+2016/17,Long acting reversible contraceptives,,,Yorkshire and The Humber,Rotherham,Undefined,Percentage (%),E08000018,45.0
+2016/17,Long acting reversible contraceptives,,,Yorkshire and The Humber,Sheffield,Undefined,Percentage (%),E08000019,43.0
+2016/17,Long acting reversible contraceptives,,,Yorkshire and The Humber,Wakefield,Undefined,Percentage (%),E08000036,36.0
+2016/17,Long acting reversible contraceptives,,,Yorkshire and The Humber,York,Undefined,Percentage (%),E06000014,32.0
+2016/17,Long acting reversible contraceptives,,,East Midlands,,Undefined,Percentage (%),E12000004,46.0
+2016/17,Long acting reversible contraceptives,,,East Midlands,Derby,Undefined,Percentage (%),E06000015,52.0
+2016/17,Long acting reversible contraceptives,,,East Midlands,Derbyshire,Undefined,Percentage (%),,49.0
+2016/17,Long acting reversible contraceptives,,,East Midlands,Leicester,Undefined,Percentage (%),E06000016,42.0
+2016/17,Long acting reversible contraceptives,,,East Midlands,Leicestershire 4,Undefined,Percentage (%),,50.0
+2016/17,Long acting reversible contraceptives,,,East Midlands,Lincolnshire,Undefined,Percentage (%),,55.0
+2016/17,Long acting reversible contraceptives,,,East Midlands,Northamptonshire,Undefined,Percentage (%),,42.0
+2016/17,Long acting reversible contraceptives,,,East Midlands,Nottingham,Undefined,Percentage (%),E06000018,41.0
+2016/17,Long acting reversible contraceptives,,,East Midlands,Nottinghamshire,Undefined,Percentage (%),,44.0
+2016/17,Long acting reversible contraceptives,,,West Midlands,,Undefined,Percentage (%),E12000005,36.0
+2016/17,Long acting reversible contraceptives,,,West Midlands,Birmingham,Undefined,Percentage (%),E08000025,25.0
+2016/17,Long acting reversible contraceptives,,,West Midlands,Coventry,Undefined,Percentage (%),E08000026,55.0
+2016/17,Long acting reversible contraceptives,,,West Midlands,Dudley,Undefined,Percentage (%),E08000027,39.0
+2016/17,Long acting reversible contraceptives,,,West Midlands,"Herefordshire, County of",Undefined,Percentage (%),,47.0
+2016/17,Long acting reversible contraceptives,,,West Midlands,Sandwell,Undefined,Percentage (%),E08000028,43.0
+2016/17,Long acting reversible contraceptives,,,West Midlands,Shropshire,Undefined,Percentage (%),E06000051,42.0
+2016/17,Long acting reversible contraceptives,,,West Midlands,Solihull,Undefined,Percentage (%),E08000029,24.0
+2016/17,Long acting reversible contraceptives,,,West Midlands,Staffordshire,Undefined,Percentage (%),,33.0
+2016/17,Long acting reversible contraceptives,,,West Midlands,Stoke-on-Trent,Undefined,Percentage (%),E06000021,43.0
+2016/17,Long acting reversible contraceptives,,,West Midlands,Telford and Wrekin,Undefined,Percentage (%),E06000020,34.0
+2016/17,Long acting reversible contraceptives,,,West Midlands,Walsall,Undefined,Percentage (%),E08000030,38.0
+2016/17,Long acting reversible contraceptives,,,West Midlands,Warwickshire,Undefined,Percentage (%),,41.0
+2016/17,Long acting reversible contraceptives,,,West Midlands,Wolverhampton,Undefined,Percentage (%),E08000031,54.0
+2016/17,Long acting reversible contraceptives,,,West Midlands,Worcestershire,Undefined,Percentage (%),,35.0
+2016/17,Long acting reversible contraceptives,,,East of England,,Undefined,Percentage (%),E12000006,40.0
+2016/17,Long acting reversible contraceptives,,,East of England,Bedford,Undefined,Percentage (%),E06000055,29.0
+2016/17,Long acting reversible contraceptives,,,East of England,Cambridgeshire,Undefined,Percentage (%),,45.0
+2016/17,Long acting reversible contraceptives,,,East of England,Central Bedfordshire,Undefined,Percentage (%),E06000056,34.0
+2016/17,Long acting reversible contraceptives,,,East of England,Essex,Undefined,Percentage (%),,37.0
+2016/17,Long acting reversible contraceptives,,,East of England,Hertfordshire,Undefined,Percentage (%),,38.0
+2016/17,Long acting reversible contraceptives,,,East of England,Luton,Undefined,Percentage (%),E06000032,35.0
+2016/17,Long acting reversible contraceptives,,,East of England,Norfolk,Undefined,Percentage (%),,46.0
+2016/17,Long acting reversible contraceptives,,,East of England,Peterborough,Undefined,Percentage (%),E06000031,43.0
+2016/17,Long acting reversible contraceptives,,,East of England,Southend-on-Sea,Undefined,Percentage (%),E06000033,26.0
+2016/17,Long acting reversible contraceptives,,,East of England,Suffolk,Undefined,Percentage (%),,44.0
+2016/17,Long acting reversible contraceptives,,,East of England,Thurrock,Undefined,Percentage (%),E06000034,44.0
+2016/17,Long acting reversible contraceptives,,,London,,Undefined,Percentage (%),E12000007,36.0
+2016/17,Long acting reversible contraceptives,,,London,Barking and Dagenham,Undefined,Percentage (%),E09000002,53.0
+2016/17,Long acting reversible contraceptives,,,London,Barnet,Undefined,Percentage (%),E09000003,42.0
+2016/17,Long acting reversible contraceptives,,,London,Bexley,Undefined,Percentage (%),E09000004,40.0
+2016/17,Long acting reversible contraceptives,,,London,Brent,Undefined,Percentage (%),E09000005,39.0
+2016/17,Long acting reversible contraceptives,,,London,Bromley,Undefined,Percentage (%),E09000006,32.0
+2016/17,Long acting reversible contraceptives,,,London,Camden,Undefined,Percentage (%),E09000007,34.0
+2016/17,Long acting reversible contraceptives,,,London,Croydon,Undefined,Percentage (%),E09000008,36.0
+2016/17,Long acting reversible contraceptives,,,London,Ealing,Undefined,Percentage (%),E09000009,29.0
+2016/17,Long acting reversible contraceptives,,,London,Enfield,Undefined,Percentage (%),E09000010,39.0
+2016/17,Long acting reversible contraceptives,,,London,Greenwich,Undefined,Percentage (%),E09000011,43.0
+2016/17,Long acting reversible contraceptives,,,London,Hackney 5,Undefined,Percentage (%),,38.0
+2016/17,Long acting reversible contraceptives,,,London,Hammersmith and Fulham,Undefined,Percentage (%),E09000013,33.0
+2016/17,Long acting reversible contraceptives,,,London,Haringey,Undefined,Percentage (%),E09000014,34.0
+2016/17,Long acting reversible contraceptives,,,London,Harrow,Undefined,Percentage (%),E09000015,33.0
+2016/17,Long acting reversible contraceptives,,,London,Havering,Undefined,Percentage (%),E09000016,46.0
+2016/17,Long acting reversible contraceptives,,,London,Hillingdon,Undefined,Percentage (%),E09000017,41.0
+2016/17,Long acting reversible contraceptives,,,London,Hounslow,Undefined,Percentage (%),E09000018,33.0
+2016/17,Long acting reversible contraceptives,,,London,Islington,Undefined,Percentage (%),E09000019,35.0
+2016/17,Long acting reversible contraceptives,,,London,Kensington and Chelsea,Undefined,Percentage (%),E09000020,33.0
+2016/17,Long acting reversible contraceptives,,,London,Kingston upon Thames,Undefined,Percentage (%),E09000021,31.0
+2016/17,Long acting reversible contraceptives,,,London,Lambeth,Undefined,Percentage (%),E09000022,37.0
+2016/17,Long acting reversible contraceptives,,,London,Lewisham,Undefined,Percentage (%),E09000023,34.0
+2016/17,Long acting reversible contraceptives,,,London,Merton,Undefined,Percentage (%),E09000024,34.0
+2016/17,Long acting reversible contraceptives,,,London,Newham,Undefined,Percentage (%),E09000025,38.0
+2016/17,Long acting reversible contraceptives,,,London,Redbridge,Undefined,Percentage (%),E09000026,45.0
+2016/17,Long acting reversible contraceptives,,,London,Richmond upon Thames,Undefined,Percentage (%),E09000027,31.0
+2016/17,Long acting reversible contraceptives,,,London,Southwark,Undefined,Percentage (%),E09000028,36.0
+2016/17,Long acting reversible contraceptives,,,London,Sutton,Undefined,Percentage (%),E09000029,28.0
+2016/17,Long acting reversible contraceptives,,,London,Tower Hamlets,Undefined,Percentage (%),E09000030,32.0
+2016/17,Long acting reversible contraceptives,,,London,Waltham Forest,Undefined,Percentage (%),E09000031,30.0
+2016/17,Long acting reversible contraceptives,,,London,Wandsworth,Undefined,Percentage (%),E09000032,33.0
+2016/17,Long acting reversible contraceptives,,,London,Westminster,Undefined,Percentage (%),E09000033,34.0
+2016/17,Long acting reversible contraceptives,,,South East,,Undefined,Percentage (%),E12000008,38.0
+2016/17,Long acting reversible contraceptives,,,South East,Bracknell Forest,Undefined,Percentage (%),E06000036,41.0
+2016/17,Long acting reversible contraceptives,,,South East,Brighton and Hove,Undefined,Percentage (%),E06000043,36.0
+2016/17,Long acting reversible contraceptives,,,South East,Buckinghamshire,Undefined,Percentage (%),,43.0
+2016/17,Long acting reversible contraceptives,,,South East,East Sussex,Undefined,Percentage (%),,37.0
+2016/17,Long acting reversible contraceptives,,,South East,Hampshire,Undefined,Percentage (%),,45.0
+2016/17,Long acting reversible contraceptives,,,South East,Isle of Wight,Undefined,Percentage (%),E06000046,55.0
+2016/17,Long acting reversible contraceptives,,,South East,Kent,Undefined,Percentage (%),,41.0
+2016/17,Long acting reversible contraceptives,,,South East,Medway,Undefined,Percentage (%),E06000035,41.0
+2016/17,Long acting reversible contraceptives,,,South East,Milton Keynes,Undefined,Percentage (%),E06000042,35.0
+2016/17,Long acting reversible contraceptives,,,South East,Oxfordshire,Undefined,Percentage (%),,37.0
+2016/17,Long acting reversible contraceptives,,,South East,Portsmouth,Undefined,Percentage (%),E06000044,51.0
+2016/17,Long acting reversible contraceptives,,,South East,Reading,Undefined,Percentage (%),E06000038,35.0
+2016/17,Long acting reversible contraceptives,,,South East,Slough,Undefined,Percentage (%),E06000039,37.0
+2016/17,Long acting reversible contraceptives,,,South East,Southampton,Undefined,Percentage (%),E06000045,55.0
+2016/17,Long acting reversible contraceptives,,,South East,Surrey,Undefined,Percentage (%),,32.0
+2016/17,Long acting reversible contraceptives,,,South East,West Berkshire,Undefined,Percentage (%),E06000037,39.0
+2016/17,Long acting reversible contraceptives,,,South East,West Sussex,Undefined,Percentage (%),,29.0
+2016/17,Long acting reversible contraceptives,,,South East,Windsor and Maidenhead,Undefined,Percentage (%),E06000040,33.0
+2016/17,Long acting reversible contraceptives,,,South East,Wokingham,Undefined,Percentage (%),E06000041,32.0
+2016/17,Long acting reversible contraceptives,,,South West,,Undefined,Percentage (%),E12000009,45.0
+2016/17,Long acting reversible contraceptives,,,South West,Bath and North East Somerset,Undefined,Percentage (%),E06000022,29.0
+2016/17,Long acting reversible contraceptives,,,South West,Bournemouth,Undefined,Percentage (%),E06000028,37.0
+2016/17,Long acting reversible contraceptives,,,South West,"Bristol, City of",Undefined,Percentage (%),,40.0
+2016/17,Long acting reversible contraceptives,,,South West,Cornwall 6,Undefined,Percentage (%),,44.0
+2016/17,Long acting reversible contraceptives,,,South West,Devon,Undefined,Percentage (%),,44.0
+2016/17,Long acting reversible contraceptives,,,South West,Dorset,Undefined,Percentage (%),,50.0
+2016/17,Long acting reversible contraceptives,,,South West,Gloucestershire,Undefined,Percentage (%),,51.0
+2016/17,Long acting reversible contraceptives,,,South West,North Somerset,Undefined,Percentage (%),E06000024,37.0
+2016/17,Long acting reversible contraceptives,,,South West,Plymouth,Undefined,Percentage (%),E06000026,49.0
+2016/17,Long acting reversible contraceptives,,,South West,Poole,Undefined,Percentage (%),E06000029,54.0
+2016/17,Long acting reversible contraceptives,,,South West,Somerset,Undefined,Percentage (%),,47.0
+2016/17,Long acting reversible contraceptives,,,South West,South Gloucestershire,Undefined,Percentage (%),E06000025,43.0
+2016/17,Long acting reversible contraceptives,,,South West,Swindon,Undefined,Percentage (%),E06000030,49.0
+2016/17,Long acting reversible contraceptives,,,South West,Torbay,Undefined,Percentage (%),E06000027,40.0
+2016/17,Long acting reversible contraceptives,,,South West,Wiltshire,Undefined,Percentage (%),E06000054,47.0
+2016/17,User dependent,,,North East,,Undefined,Percentage (%),E12000001,55.0
+2016/17,User dependent,,,North East,County Durham,Undefined,Percentage (%),E06000047,60.0
+2016/17,User dependent,,,North East,Darlington,Undefined,Percentage (%),E06000005,63.0
+2016/17,User dependent,,,North East,Gateshead,Undefined,Percentage (%),E08000037,56.0
+2016/17,User dependent,,,North East,Hartlepool,Undefined,Percentage (%),E06000001,67.0
+2016/17,User dependent,,,North East,Middlesbrough,Undefined,Percentage (%),E06000002,58.0
+2016/17,User dependent,,,North East,Newcastle upon Tyne,Undefined,Percentage (%),E08000021,58.0
+2016/17,User dependent,,,North East,North Tyneside,Undefined,Percentage (%),E08000022,53.0
+2016/17,User dependent,,,North East,Northumberland,Undefined,Percentage (%),E06000057,52.0
+2016/17,User dependent,,,North East,Redcar and Cleveland,Undefined,Percentage (%),E06000003,48.0
+2016/17,User dependent,,,North East,South Tyneside,Undefined,Percentage (%),E08000023,54.0
+2016/17,User dependent,,,North East,Stockton-on-Tees,Undefined,Percentage (%),E06000004,67.0
+2016/17,User dependent,,,North East,Sunderland,Undefined,Percentage (%),E08000024,44.0
+2016/17,User dependent,,,North West,,Undefined,Percentage (%),E12000002,61.0
+2016/17,User dependent,,,North West,Blackburn with Darwen,Undefined,Percentage (%),E06000008,64.0
+2016/17,User dependent,,,North West,Blackpool,Undefined,Percentage (%),E06000009,51.0
+2016/17,User dependent,,,North West,Bolton,Undefined,Percentage (%),E08000001,45.0
+2016/17,User dependent,,,North West,Bury,Undefined,Percentage (%),E08000002,64.0
+2016/17,User dependent,,,North West,Cheshire East,Undefined,Percentage (%),E06000049,62.0
+2016/17,User dependent,,,North West,Cheshire West and Chester,Undefined,Percentage (%),E06000050,62.0
+2016/17,User dependent,,,North West,Cumbria,Undefined,Percentage (%),,53.0
+2016/17,User dependent,,,North West,Halton,Undefined,Percentage (%),E06000006,69.0
+2016/17,User dependent,,,North West,Knowsley,Undefined,Percentage (%),E08000011,66.0
+2016/17,User dependent,,,North West,Lancashire,Undefined,Percentage (%),,60.0
+2016/17,User dependent,,,North West,Liverpool,Undefined,Percentage (%),E08000012,67.0
+2016/17,User dependent,,,North West,Manchester,Undefined,Percentage (%),E08000003,63.0
+2016/17,User dependent,,,North West,Oldham,Undefined,Percentage (%),E08000004,55.0
+2016/17,User dependent,,,North West,Rochdale,Undefined,Percentage (%),E08000005,56.0
+2016/17,User dependent,,,North West,Salford,Undefined,Percentage (%),E08000006,59.0
+2016/17,User dependent,,,North West,Sefton,Undefined,Percentage (%),E08000014,64.0
+2016/17,User dependent,,,North West,St. Helens,Undefined,Percentage (%),E08000013,70.0
+2016/17,User dependent,,,North West,Stockport,Undefined,Percentage (%),E08000007,62.0
+2016/17,User dependent,,,North West,Tameside,Undefined,Percentage (%),E08000008,64.0
+2016/17,User dependent,,,North West,Trafford,Undefined,Percentage (%),E08000009,59.0
+2016/17,User dependent,,,North West,Warrington,Undefined,Percentage (%),E06000007,63.0
+2016/17,User dependent,,,North West,Wigan,Undefined,Percentage (%),E08000010,55.0
+2016/17,User dependent,,,North West,Wirral,Undefined,Percentage (%),E08000015,66.0
+2016/17,User dependent,,,Yorkshire and The Humber,,Undefined,Percentage (%),E12000003,59.0
+2016/17,User dependent,,,Yorkshire and The Humber,Barnsley,Undefined,Percentage (%),E08000016,67.0
+2016/17,User dependent,,,Yorkshire and The Humber,Bradford,Undefined,Percentage (%),E08000032,53.0
+2016/17,User dependent,,,Yorkshire and The Humber,Calderdale,Undefined,Percentage (%),E08000033,64.0
+2016/17,User dependent,,,Yorkshire and The Humber,Doncaster,Undefined,Percentage (%),E08000017,60.0
+2016/17,User dependent,,,Yorkshire and The Humber,East Riding of Yorkshire,Undefined,Percentage (%),E06000011,53.0
+2016/17,User dependent,,,Yorkshire and The Humber,"Kingston upon Hull, City of",Undefined,Percentage (%),,46.0
+2016/17,User dependent,,,Yorkshire and The Humber,Kirklees,Undefined,Percentage (%),E08000034,59.0
+2016/17,User dependent,,,Yorkshire and The Humber,Leeds,Undefined,Percentage (%),E08000035,63.0
+2016/17,User dependent,,,Yorkshire and The Humber,North East Lincolnshire,Undefined,Percentage (%),E06000012,58.0
+2016/17,User dependent,,,Yorkshire and The Humber,North Lincolnshire,Undefined,Percentage (%),E06000013,63.0
+2016/17,User dependent,,,Yorkshire and The Humber,North Yorkshire,Undefined,Percentage (%),,59.0
+2016/17,User dependent,,,Yorkshire and The Humber,Rotherham,Undefined,Percentage (%),E08000018,55.0
+2016/17,User dependent,,,Yorkshire and The Humber,Sheffield,Undefined,Percentage (%),E08000019,57.0
+2016/17,User dependent,,,Yorkshire and The Humber,Wakefield,Undefined,Percentage (%),E08000036,64.0
+2016/17,User dependent,,,Yorkshire and The Humber,York,Undefined,Percentage (%),E06000014,68.0
+2016/17,User dependent,,,East Midlands,,Undefined,Percentage (%),E12000004,54.0
+2016/17,User dependent,,,East Midlands,Derby,Undefined,Percentage (%),E06000015,48.0
+2016/17,User dependent,,,East Midlands,Derbyshire,Undefined,Percentage (%),,51.0
+2016/17,User dependent,,,East Midlands,Leicester,Undefined,Percentage (%),E06000016,58.0
+2016/17,User dependent,,,East Midlands,Leicestershire 4,Undefined,Percentage (%),,50.0
+2016/17,User dependent,,,East Midlands,Lincolnshire,Undefined,Percentage (%),,45.0
+2016/17,User dependent,,,East Midlands,Northamptonshire,Undefined,Percentage (%),,58.0
+2016/17,User dependent,,,East Midlands,Nottingham,Undefined,Percentage (%),E06000018,59.0
+2016/17,User dependent,,,East Midlands,Nottinghamshire,Undefined,Percentage (%),,56.0
+2016/17,User dependent,,,West Midlands,,Undefined,Percentage (%),E12000005,64.0
+2016/17,User dependent,,,West Midlands,Birmingham,Undefined,Percentage (%),E08000025,75.0
+2016/17,User dependent,,,West Midlands,Coventry,Undefined,Percentage (%),E08000026,45.0
+2016/17,User dependent,,,West Midlands,Dudley,Undefined,Percentage (%),E08000027,61.0
+2016/17,User dependent,,,West Midlands,"Herefordshire, County of",Undefined,Percentage (%),,53.0
+2016/17,User dependent,,,West Midlands,Sandwell,Undefined,Percentage (%),E08000028,57.0
+2016/17,User dependent,,,West Midlands,Shropshire,Undefined,Percentage (%),E06000051,58.0
+2016/17,User dependent,,,West Midlands,Solihull,Undefined,Percentage (%),E08000029,76.0
+2016/17,User dependent,,,West Midlands,Staffordshire,Undefined,Percentage (%),,67.0
+2016/17,User dependent,,,West Midlands,Stoke-on-Trent,Undefined,Percentage (%),E06000021,57.0
+2016/17,User dependent,,,West Midlands,Telford and Wrekin,Undefined,Percentage (%),E06000020,66.0
+2016/17,User dependent,,,West Midlands,Walsall,Undefined,Percentage (%),E08000030,62.0
+2016/17,User dependent,,,West Midlands,Warwickshire,Undefined,Percentage (%),,59.0
+2016/17,User dependent,,,West Midlands,Wolverhampton,Undefined,Percentage (%),E08000031,46.0
+2016/17,User dependent,,,West Midlands,Worcestershire,Undefined,Percentage (%),,65.0
+2016/17,User dependent,,,East of England,,Undefined,Percentage (%),E12000006,60.0
+2016/17,User dependent,,,East of England,Bedford,Undefined,Percentage (%),E06000055,71.0
+2016/17,User dependent,,,East of England,Cambridgeshire,Undefined,Percentage (%),,55.0
+2016/17,User dependent,,,East of England,Central Bedfordshire,Undefined,Percentage (%),E06000056,66.0
+2016/17,User dependent,,,East of England,Essex,Undefined,Percentage (%),,63.0
+2016/17,User dependent,,,East of England,Hertfordshire,Undefined,Percentage (%),,62.0
+2016/17,User dependent,,,East of England,Luton,Undefined,Percentage (%),E06000032,65.0
+2016/17,User dependent,,,East of England,Norfolk,Undefined,Percentage (%),,54.0
+2016/17,User dependent,,,East of England,Peterborough,Undefined,Percentage (%),E06000031,57.0
+2016/17,User dependent,,,East of England,Southend-on-Sea,Undefined,Percentage (%),E06000033,74.0
+2016/17,User dependent,,,East of England,Suffolk,Undefined,Percentage (%),,56.0
+2016/17,User dependent,,,East of England,Thurrock,Undefined,Percentage (%),E06000034,56.0
+2016/17,User dependent,,,London,,Undefined,Percentage (%),E12000007,64.0
+2016/17,User dependent,,,London,Barking and Dagenham,Undefined,Percentage (%),E09000002,47.0
+2016/17,User dependent,,,London,Barnet,Undefined,Percentage (%),E09000003,58.0
+2016/17,User dependent,,,London,Bexley,Undefined,Percentage (%),E09000004,60.0
+2016/17,User dependent,,,London,Brent,Undefined,Percentage (%),E09000005,61.0
+2016/17,User dependent,,,London,Bromley,Undefined,Percentage (%),E09000006,68.0
+2016/17,User dependent,,,London,Camden,Undefined,Percentage (%),E09000007,66.0
+2016/17,User dependent,,,London,Croydon,Undefined,Percentage (%),E09000008,64.0
+2016/17,User dependent,,,London,Ealing,Undefined,Percentage (%),E09000009,71.0
+2016/17,User dependent,,,London,Enfield,Undefined,Percentage (%),E09000010,61.0
+2016/17,User dependent,,,London,Greenwich,Undefined,Percentage (%),E09000011,57.0
+2016/17,User dependent,,,London,Hackney 5,Undefined,Percentage (%),,62.0
+2016/17,User dependent,,,London,Hammersmith and Fulham,Undefined,Percentage (%),E09000013,67.0
+2016/17,User dependent,,,London,Haringey,Undefined,Percentage (%),E09000014,66.0
+2016/17,User dependent,,,London,Harrow,Undefined,Percentage (%),E09000015,67.0
+2016/17,User dependent,,,London,Havering,Undefined,Percentage (%),E09000016,54.0
+2016/17,User dependent,,,London,Hillingdon,Undefined,Percentage (%),E09000017,59.0
+2016/17,User dependent,,,London,Hounslow,Undefined,Percentage (%),E09000018,67.0
+2016/17,User dependent,,,London,Islington,Undefined,Percentage (%),E09000019,65.0
+2016/17,User dependent,,,London,Kensington and Chelsea,Undefined,Percentage (%),E09000020,67.0
+2016/17,User dependent,,,London,Kingston upon Thames,Undefined,Percentage (%),E09000021,69.0
+2016/17,User dependent,,,London,Lambeth,Undefined,Percentage (%),E09000022,63.0
+2016/17,User dependent,,,London,Lewisham,Undefined,Percentage (%),E09000023,66.0
+2016/17,User dependent,,,London,Merton,Undefined,Percentage (%),E09000024,66.0
+2016/17,User dependent,,,London,Newham,Undefined,Percentage (%),E09000025,62.0
+2016/17,User dependent,,,London,Redbridge,Undefined,Percentage (%),E09000026,55.0
+2016/17,User dependent,,,London,Richmond upon Thames,Undefined,Percentage (%),E09000027,69.0
+2016/17,User dependent,,,London,Southwark,Undefined,Percentage (%),E09000028,64.0
+2016/17,User dependent,,,London,Sutton,Undefined,Percentage (%),E09000029,72.0
+2016/17,User dependent,,,London,Tower Hamlets,Undefined,Percentage (%),E09000030,68.0
+2016/17,User dependent,,,London,Waltham Forest,Undefined,Percentage (%),E09000031,70.0
+2016/17,User dependent,,,London,Wandsworth,Undefined,Percentage (%),E09000032,67.0
+2016/17,User dependent,,,London,Westminster,Undefined,Percentage (%),E09000033,66.0
+2016/17,User dependent,,,South East,,Undefined,Percentage (%),E12000008,62.0
+2016/17,User dependent,,,South East,Bracknell Forest,Undefined,Percentage (%),E06000036,59.0
+2016/17,User dependent,,,South East,Brighton and Hove,Undefined,Percentage (%),E06000043,64.0
+2016/17,User dependent,,,South East,Buckinghamshire,Undefined,Percentage (%),,57.0
+2016/17,User dependent,,,South East,East Sussex,Undefined,Percentage (%),,63.0
+2016/17,User dependent,,,South East,Hampshire,Undefined,Percentage (%),,55.0
+2016/17,User dependent,,,South East,Isle of Wight,Undefined,Percentage (%),E06000046,45.0
+2016/17,User dependent,,,South East,Kent,Undefined,Percentage (%),,59.0
+2016/17,User dependent,,,South East,Medway,Undefined,Percentage (%),E06000035,59.0
+2016/17,User dependent,,,South East,Milton Keynes,Undefined,Percentage (%),E06000042,65.0
+2016/17,User dependent,,,South East,Oxfordshire,Undefined,Percentage (%),,63.0
+2016/17,User dependent,,,South East,Portsmouth,Undefined,Percentage (%),E06000044,49.0
+2016/17,User dependent,,,South East,Reading,Undefined,Percentage (%),E06000038,65.0
+2016/17,User dependent,,,South East,Slough,Undefined,Percentage (%),E06000039,63.0
+2016/17,User dependent,,,South East,Southampton,Undefined,Percentage (%),E06000045,45.0
+2016/17,User dependent,,,South East,Surrey,Undefined,Percentage (%),,68.0
+2016/17,User dependent,,,South East,West Berkshire,Undefined,Percentage (%),E06000037,61.0
+2016/17,User dependent,,,South East,West Sussex,Undefined,Percentage (%),,71.0
+2016/17,User dependent,,,South East,Windsor and Maidenhead,Undefined,Percentage (%),E06000040,67.0
+2016/17,User dependent,,,South East,Wokingham,Undefined,Percentage (%),E06000041,68.0
+2016/17,User dependent,,,South West,,Undefined,Percentage (%),E12000009,55.0
+2016/17,User dependent,,,South West,Bath and North East Somerset,Undefined,Percentage (%),E06000022,71.0
+2016/17,User dependent,,,South West,Bournemouth,Undefined,Percentage (%),E06000028,63.0
+2016/17,User dependent,,,South West,"Bristol, City of",Undefined,Percentage (%),,60.0
+2016/17,User dependent,,,South West,Cornwall 6,Undefined,Percentage (%),,56.0
+2016/17,User dependent,,,South West,Devon,Undefined,Percentage (%),,56.0
+2016/17,User dependent,,,South West,Dorset,Undefined,Percentage (%),,50.0
+2016/17,User dependent,,,South West,Gloucestershire,Undefined,Percentage (%),,49.0
+2016/17,User dependent,,,South West,North Somerset,Undefined,Percentage (%),E06000024,63.0
+2016/17,User dependent,,,South West,Plymouth,Undefined,Percentage (%),E06000026,51.0
+2016/17,User dependent,,,South West,Poole,Undefined,Percentage (%),E06000029,46.0
+2016/17,User dependent,,,South West,Somerset,Undefined,Percentage (%),,53.0
+2016/17,User dependent,,,South West,South Gloucestershire,Undefined,Percentage (%),E06000025,57.0
+2016/17,User dependent,,,South West,Swindon,Undefined,Percentage (%),E06000030,51.0
+2016/17,User dependent,,,South West,Torbay,Undefined,Percentage (%),E06000027,60.0
+2016/17,User dependent,,,South West,Wiltshire,Undefined,Percentage (%),E06000054,53.0
+2017/18,Long acting reversible contraceptives,,,,,Undefined,Percentage (%),,41.12957119671781
+2017/18,Long acting reversible contraceptives,IU device,,,,Undefined,Percentage (%),,6.926775175087942
+2017/18,Long acting reversible contraceptives,IU system,,,,Undefined,Percentage (%),,9.171278968150027
+2017/18,Long acting reversible contraceptives,Implant,,,,Undefined,Percentage (%),,15.882147027360471
+2017/18,Long acting reversible contraceptives,Injectable contraceptive,,,,Undefined,Percentage (%),,9.149370026119374
+2017/18,User dependent,,,,,Undefined,Percentage (%),,58.87042880328217
+2017/18,User dependent,Oral contraceptives,,,,Undefined,Percentage (%),,41.827842226242254
+2017/18,User dependent,Male condom,,,,Undefined,Percentage (%),,13.53825741905319
+2017/18,User dependent,Female condom,,,,Undefined,Percentage (%),,0.46424925766629377
+2017/18,User dependent,Contraceptive patch,,,,Undefined,Percentage (%),,1.5898058549505643
+2017/18,User dependent,Natural family planning,,,,Undefined,Percentage (%),,0.8489409046067529
+2017/18,User dependent,Other methods,,,,Undefined,Percentage (%),,0.6013331407631166
+2017/18,Long acting reversible contraceptives,,Under 16,,,Undefined,Percentage (%),,32.73219604657461
+2017/18,Long acting reversible contraceptives,,16 to 17,,,Undefined,Percentage (%),,30.817758585790433
+2017/18,Long acting reversible contraceptives,,18 to 19,,,Undefined,Percentage (%),,31.21726968156043
+2017/18,Long acting reversible contraceptives,,20 to 24,,,Undefined,Percentage (%),,35.571189454963914
+2017/18,Long acting reversible contraceptives,,25 to 34,,,Undefined,Percentage (%),,43.9525694773931
+2017/18,Long acting reversible contraceptives,,35 to 44,,,Undefined,Percentage (%),,55.14009610628224
+2017/18,Long acting reversible contraceptives,,45 and over,,,Undefined,Percentage (%),,54.78282967323861
+2017/18,User dependent,,Under 16,,,Undefined,Percentage (%),,67.26780395342541
+2017/18,User dependent,,16 to 17,,,Undefined,Percentage (%),,69.18224141420957
+2017/18,User dependent,,18 to 19,,,Undefined,Percentage (%),,68.7827303184396
+2017/18,User dependent,,20 to 24,,,Undefined,Percentage (%),,64.42881054503609
+2017/18,User dependent,,25 to 34,,,Undefined,Percentage (%),,56.04743052260689
+2017/18,User dependent,,35 to 44,,,Undefined,Percentage (%),,44.85990389371776
+2017/18,User dependent,,45 and over,,,Undefined,Percentage (%),,45.2171703267614
+2017/18,Long acting reversible contraceptives,,,North East,,Undefined,Percentage (%),E12000001,47.0
+2017/18,Long acting reversible contraceptives,,,North East,County Durham,Undefined,Percentage (%),E06000047,41.0
+2017/18,Long acting reversible contraceptives,,,North East,Darlington,Undefined,Percentage (%),E06000005,39.0
+2017/18,Long acting reversible contraceptives,,,North East,Gateshead,Undefined,Percentage (%),E08000037,44.0
+2017/18,Long acting reversible contraceptives,,,North East,Hartlepool,Undefined,Percentage (%),E06000001,36.0
+2017/18,Long acting reversible contraceptives,,,North East,Middlesbrough,Undefined,Percentage (%),E06000002,45.0
+2017/18,Long acting reversible contraceptives,,,North East,Newcastle upon Tyne,Undefined,Percentage (%),E08000021,46.0
+2017/18,Long acting reversible contraceptives,,,North East,North Tyneside,Undefined,Percentage (%),E08000022,48.0
+2017/18,Long acting reversible contraceptives,,,North East,Northumberland,Undefined,Percentage (%),E06000057,50.0
+2017/18,Long acting reversible contraceptives,,,North East,Redcar and Cleveland,Undefined,Percentage (%),E06000003,52.0
+2017/18,Long acting reversible contraceptives,,,North East,South Tyneside,Undefined,Percentage (%),E08000023,45.0
+2017/18,Long acting reversible contraceptives,,,North East,Stockton-on-Tees,Undefined,Percentage (%),E06000004,36.0
+2017/18,Long acting reversible contraceptives,,,North East,Sunderland,Undefined,Percentage (%),E08000024,57.0
+2017/18,Long acting reversible contraceptives,,,North West,,Undefined,Percentage (%),E12000002,39.0
+2017/18,Long acting reversible contraceptives,,,North West,Blackburn with Darwen,Undefined,Percentage (%),E06000008,35.0
+2017/18,Long acting reversible contraceptives,,,North West,Blackpool,Undefined,Percentage (%),E06000009,48.0
+2017/18,Long acting reversible contraceptives,,,North West,Bolton,Undefined,Percentage (%),E08000001,50.0
+2017/18,Long acting reversible contraceptives,,,North West,Bury,Undefined,Percentage (%),E08000002,39.0
+2017/18,Long acting reversible contraceptives,,,North West,Cheshire East,Undefined,Percentage (%),E06000049,43.0
+2017/18,Long acting reversible contraceptives,,,North West,Cheshire West and Chester,Undefined,Percentage (%),E06000050,37.0
+2017/18,Long acting reversible contraceptives,,,North West,Cumbria,Undefined,Percentage (%),,32.0
+2017/18,Long acting reversible contraceptives,,,North West,Halton,Undefined,Percentage (%),E06000006,29.0
+2017/18,Long acting reversible contraceptives,,,North West,Knowsley,Undefined,Percentage (%),E08000011,32.0
+2017/18,Long acting reversible contraceptives,,,North West,Lancashire,Undefined,Percentage (%),,42.0
+2017/18,Long acting reversible contraceptives,,,North West,Liverpool,Undefined,Percentage (%),E08000012,31.0
+2017/18,Long acting reversible contraceptives,,,North West,Manchester,Undefined,Percentage (%),E08000003,40.0
+2017/18,Long acting reversible contraceptives,,,North West,Oldham,Undefined,Percentage (%),E08000004,41.0
+2017/18,Long acting reversible contraceptives,,,North West,Rochdale,Undefined,Percentage (%),E08000005,46.0
+2017/18,Long acting reversible contraceptives,,,North West,Salford,Undefined,Percentage (%),E08000006,44.0
+2017/18,Long acting reversible contraceptives,,,North West,Sefton,Undefined,Percentage (%),E08000014,37.0
+2017/18,Long acting reversible contraceptives,,,North West,St. Helens,Undefined,Percentage (%),E08000013,29.0
+2017/18,Long acting reversible contraceptives,,,North West,Stockport,Undefined,Percentage (%),E08000007,43.0
+2017/18,Long acting reversible contraceptives,,,North West,Tameside,Undefined,Percentage (%),E08000008,40.0
+2017/18,Long acting reversible contraceptives,,,North West,Trafford,Undefined,Percentage (%),E08000009,47.0
+2017/18,Long acting reversible contraceptives,,,North West,Warrington,Undefined,Percentage (%),E06000007,42.0
+2017/18,Long acting reversible contraceptives,,,North West,Wigan,Undefined,Percentage (%),E08000010,42.0
+2017/18,Long acting reversible contraceptives,,,North West,Wirral,Undefined,Percentage (%),E08000015,40.0
+2017/18,Long acting reversible contraceptives,,,Yorkshire and The Humber,,Undefined,Percentage (%),E12000003,44.0
+2017/18,Long acting reversible contraceptives,,,Yorkshire and The Humber,Barnsley,Undefined,Percentage (%),E08000016,36.0
+2017/18,Long acting reversible contraceptives,,,Yorkshire and The Humber,Bradford,Undefined,Percentage (%),E08000032,51.0
+2017/18,Long acting reversible contraceptives,,,Yorkshire and The Humber,Calderdale,Undefined,Percentage (%),E08000033,40.0
+2017/18,Long acting reversible contraceptives,,,Yorkshire and The Humber,Doncaster,Undefined,Percentage (%),E08000017,40.0
+2017/18,Long acting reversible contraceptives,,,Yorkshire and The Humber,East Riding of Yorkshire,Undefined,Percentage (%),E06000011,48.0
+2017/18,Long acting reversible contraceptives,,,Yorkshire and The Humber,"Kingston upon Hull, City of",Undefined,Percentage (%),,54.0
+2017/18,Long acting reversible contraceptives,,,Yorkshire and The Humber,Kirklees,Undefined,Percentage (%),E08000034,46.0
+2017/18,Long acting reversible contraceptives,,,Yorkshire and The Humber,Leeds,Undefined,Percentage (%),E08000035,39.0
+2017/18,Long acting reversible contraceptives,,,Yorkshire and The Humber,North East Lincolnshire,Undefined,Percentage (%),E06000012,46.0
+2017/18,Long acting reversible contraceptives,,,Yorkshire and The Humber,North Lincolnshire,Undefined,Percentage (%),E06000013,42.0
+2017/18,Long acting reversible contraceptives,,,Yorkshire and The Humber,North Yorkshire,Undefined,Percentage (%),,44.0
+2017/18,Long acting reversible contraceptives,,,Yorkshire and The Humber,Rotherham,Undefined,Percentage (%),E08000018,48.0
+2017/18,Long acting reversible contraceptives,,,Yorkshire and The Humber,Sheffield,Undefined,Percentage (%),E08000019,44.0
+2017/18,Long acting reversible contraceptives,,,Yorkshire and The Humber,Wakefield,Undefined,Percentage (%),E08000036,40.0
+2017/18,Long acting reversible contraceptives,,,Yorkshire and The Humber,York,Undefined,Percentage (%),E06000014,37.0
+2017/18,Long acting reversible contraceptives,,,East Midlands,,Undefined,Percentage (%),E12000004,48.0
+2017/18,Long acting reversible contraceptives,,,East Midlands,Derby,Undefined,Percentage (%),E06000015,54.0
+2017/18,Long acting reversible contraceptives,,,East Midlands,Derbyshire,Undefined,Percentage (%),,50.0
+2017/18,Long acting reversible contraceptives,,,East Midlands,Leicester,Undefined,Percentage (%),E06000016,41.0
+2017/18,Long acting reversible contraceptives,,,East Midlands,Leicestershire 4,Undefined,Percentage (%),,48.0
+2017/18,Long acting reversible contraceptives,,,East Midlands,Lincolnshire,Undefined,Percentage (%),,60.0
+2017/18,Long acting reversible contraceptives,,,East Midlands,Northamptonshire,Undefined,Percentage (%),,44.0
+2017/18,Long acting reversible contraceptives,,,East Midlands,Nottingham,Undefined,Percentage (%),E06000018,44.0
+2017/18,Long acting reversible contraceptives,,,East Midlands,Nottinghamshire,Undefined,Percentage (%),,47.0
+2017/18,Long acting reversible contraceptives,,,West Midlands,,Undefined,Percentage (%),E12000005,40.0
+2017/18,Long acting reversible contraceptives,,,West Midlands,Birmingham,Undefined,Percentage (%),E08000025,33.0
+2017/18,Long acting reversible contraceptives,,,West Midlands,Coventry,Undefined,Percentage (%),E08000026,55.0
+2017/18,Long acting reversible contraceptives,,,West Midlands,Dudley,Undefined,Percentage (%),E08000027,41.0
+2017/18,Long acting reversible contraceptives,,,West Midlands,"Herefordshire, County of",Undefined,Percentage (%),,50.0
+2017/18,Long acting reversible contraceptives,,,West Midlands,Sandwell,Undefined,Percentage (%),E08000028,45.0
+2017/18,Long acting reversible contraceptives,,,West Midlands,Shropshire,Undefined,Percentage (%),E06000051,44.0
+2017/18,Long acting reversible contraceptives,,,West Midlands,Solihull,Undefined,Percentage (%),E08000029,33.0
+2017/18,Long acting reversible contraceptives,,,West Midlands,Staffordshire,Undefined,Percentage (%),,37.0
+2017/18,Long acting reversible contraceptives,,,West Midlands,Stoke-on-Trent,Undefined,Percentage (%),E06000021,40.0
+2017/18,Long acting reversible contraceptives,,,West Midlands,Telford and Wrekin,Undefined,Percentage (%),E06000020,48.0
+2017/18,Long acting reversible contraceptives,,,West Midlands,Walsall,Undefined,Percentage (%),E08000030,45.0
+2017/18,Long acting reversible contraceptives,,,West Midlands,Warwickshire,Undefined,Percentage (%),,42.0
+2017/18,Long acting reversible contraceptives,,,West Midlands,Wolverhampton,Undefined,Percentage (%),E08000031,57.0
+2017/18,Long acting reversible contraceptives,,,West Midlands,Worcestershire,Undefined,Percentage (%),,36.0
+2017/18,Long acting reversible contraceptives,,,East of England,,Undefined,Percentage (%),E12000006,42.0
+2017/18,Long acting reversible contraceptives,,,East of England,Bedford,Undefined,Percentage (%),E06000055,35.0
+2017/18,Long acting reversible contraceptives,,,East of England,Cambridgeshire,Undefined,Percentage (%),,49.0
+2017/18,Long acting reversible contraceptives,,,East of England,Central Bedfordshire,Undefined,Percentage (%),E06000056,38.0
+2017/18,Long acting reversible contraceptives,,,East of England,Essex,Undefined,Percentage (%),,40.0
+2017/18,Long acting reversible contraceptives,,,East of England,Hertfordshire,Undefined,Percentage (%),,39.0
+2017/18,Long acting reversible contraceptives,,,East of England,Luton,Undefined,Percentage (%),E06000032,46.0
+2017/18,Long acting reversible contraceptives,,,East of England,Norfolk,Undefined,Percentage (%),,48.0
+2017/18,Long acting reversible contraceptives,,,East of England,Peterborough,Undefined,Percentage (%),E06000031,45.0
+2017/18,Long acting reversible contraceptives,,,East of England,Southend-on-Sea,Undefined,Percentage (%),E06000033,26.0
+2017/18,Long acting reversible contraceptives,,,East of England,Suffolk,Undefined,Percentage (%),,45.0
+2017/18,Long acting reversible contraceptives,,,East of England,Thurrock,Undefined,Percentage (%),E06000034,45.0
+2017/18,Long acting reversible contraceptives,,,London,,Undefined,Percentage (%),E12000007,38.0
+2017/18,Long acting reversible contraceptives,,,London,Barking and Dagenham,Undefined,Percentage (%),E09000002,51.0
+2017/18,Long acting reversible contraceptives,,,London,Barnet,Undefined,Percentage (%),E09000003,39.0
+2017/18,Long acting reversible contraceptives,,,London,Bexley,Undefined,Percentage (%),E09000004,47.0
+2017/18,Long acting reversible contraceptives,,,London,Brent,Undefined,Percentage (%),E09000005,39.0
+2017/18,Long acting reversible contraceptives,,,London,Bromley,Undefined,Percentage (%),E09000006,37.0
+2017/18,Long acting reversible contraceptives,,,London,Camden,Undefined,Percentage (%),E09000007,36.0
+2017/18,Long acting reversible contraceptives,,,London,Croydon,Undefined,Percentage (%),E09000008,36.0
+2017/18,Long acting reversible contraceptives,,,London,Ealing,Undefined,Percentage (%),E09000009,31.0
+2017/18,Long acting reversible contraceptives,,,London,Enfield,Undefined,Percentage (%),E09000010,48.0
+2017/18,Long acting reversible contraceptives,,,London,Greenwich,Undefined,Percentage (%),E09000011,42.0
+2017/18,Long acting reversible contraceptives,,,London,Hackney 5,Undefined,Percentage (%),,42.0
+2017/18,Long acting reversible contraceptives,,,London,Hammersmith and Fulham,Undefined,Percentage (%),E09000013,33.0
+2017/18,Long acting reversible contraceptives,,,London,Haringey,Undefined,Percentage (%),E09000014,42.0
+2017/18,Long acting reversible contraceptives,,,London,Harrow,Undefined,Percentage (%),E09000015,32.0
+2017/18,Long acting reversible contraceptives,,,London,Havering,Undefined,Percentage (%),E09000016,46.0
+2017/18,Long acting reversible contraceptives,,,London,Hillingdon,Undefined,Percentage (%),E09000017,45.0
+2017/18,Long acting reversible contraceptives,,,London,Hounslow,Undefined,Percentage (%),E09000018,37.0
+2017/18,Long acting reversible contraceptives,,,London,Islington,Undefined,Percentage (%),E09000019,37.0
+2017/18,Long acting reversible contraceptives,,,London,Kensington and Chelsea,Undefined,Percentage (%),E09000020,36.0
+2017/18,Long acting reversible contraceptives,,,London,Kingston upon Thames,Undefined,Percentage (%),E09000021,24.0
+2017/18,Long acting reversible contraceptives,,,London,Lambeth,Undefined,Percentage (%),E09000022,40.0
+2017/18,Long acting reversible contraceptives,,,London,Lewisham,Undefined,Percentage (%),E09000023,37.0
+2017/18,Long acting reversible contraceptives,,,London,Merton,Undefined,Percentage (%),E09000024,37.0
+2017/18,Long acting reversible contraceptives,,,London,Newham,Undefined,Percentage (%),E09000025,38.0
+2017/18,Long acting reversible contraceptives,,,London,Redbridge,Undefined,Percentage (%),E09000026,41.0
+2017/18,Long acting reversible contraceptives,,,London,Richmond upon Thames,Undefined,Percentage (%),E09000027,32.0
+2017/18,Long acting reversible contraceptives,,,London,Southwark,Undefined,Percentage (%),E09000028,39.0
+2017/18,Long acting reversible contraceptives,,,London,Sutton,Undefined,Percentage (%),E09000029,34.0
+2017/18,Long acting reversible contraceptives,,,London,Tower Hamlets,Undefined,Percentage (%),E09000030,37.0
+2017/18,Long acting reversible contraceptives,,,London,Waltham Forest,Undefined,Percentage (%),E09000031,34.0
+2017/18,Long acting reversible contraceptives,,,London,Wandsworth,Undefined,Percentage (%),E09000032,41.0
+2017/18,Long acting reversible contraceptives,,,London,Westminster,Undefined,Percentage (%),E09000033,37.0
+2017/18,Long acting reversible contraceptives,,,South East,,Undefined,Percentage (%),E12000008,40.0
+2017/18,Long acting reversible contraceptives,,,South East,Bracknell Forest,Undefined,Percentage (%),E06000036,41.0
+2017/18,Long acting reversible contraceptives,,,South East,Brighton and Hove,Undefined,Percentage (%),E06000043,36.0
+2017/18,Long acting reversible contraceptives,,,South East,Buckinghamshire,Undefined,Percentage (%),,45.0
+2017/18,Long acting reversible contraceptives,,,South East,East Sussex,Undefined,Percentage (%),,39.0
+2017/18,Long acting reversible contraceptives,,,South East,Hampshire,Undefined,Percentage (%),,46.0
+2017/18,Long acting reversible contraceptives,,,South East,Isle of Wight,Undefined,Percentage (%),E06000046,58.0
+2017/18,Long acting reversible contraceptives,,,South East,Kent,Undefined,Percentage (%),,42.0
+2017/18,Long acting reversible contraceptives,,,South East,Medway,Undefined,Percentage (%),E06000035,44.0
+2017/18,Long acting reversible contraceptives,,,South East,Milton Keynes,Undefined,Percentage (%),E06000042,39.0
+2017/18,Long acting reversible contraceptives,,,South East,Oxfordshire,Undefined,Percentage (%),,38.0
+2017/18,Long acting reversible contraceptives,,,South East,Portsmouth,Undefined,Percentage (%),E06000044,53.0
+2017/18,Long acting reversible contraceptives,,,South East,Reading,Undefined,Percentage (%),E06000038,37.0
+2017/18,Long acting reversible contraceptives,,,South East,Slough,Undefined,Percentage (%),E06000039,38.0
+2017/18,Long acting reversible contraceptives,,,South East,Southampton,Undefined,Percentage (%),E06000045,57.0
+2017/18,Long acting reversible contraceptives,,,South East,Surrey,Undefined,Percentage (%),,34.0
+2017/18,Long acting reversible contraceptives,,,South East,West Berkshire,Undefined,Percentage (%),E06000037,43.0
+2017/18,Long acting reversible contraceptives,,,South East,West Sussex,Undefined,Percentage (%),,30.0
+2017/18,Long acting reversible contraceptives,,,South East,Windsor and Maidenhead,Undefined,Percentage (%),E06000040,37.0
+2017/18,Long acting reversible contraceptives,,,South East,Wokingham,Undefined,Percentage (%),E06000041,36.0
+2017/18,Long acting reversible contraceptives,,,South West,,Undefined,Percentage (%),E12000009,45.0
+2017/18,Long acting reversible contraceptives,,,South West,Bath and North East Somerset,Undefined,Percentage (%),E06000022,29.0
+2017/18,Long acting reversible contraceptives,,,South West,Bournemouth,Undefined,Percentage (%),E06000028,43.0
+2017/18,Long acting reversible contraceptives,,,South West,"Bristol, City of",Undefined,Percentage (%),,40.0
+2017/18,Long acting reversible contraceptives,,,South West,Cornwall 6,Undefined,Percentage (%),,43.0
+2017/18,Long acting reversible contraceptives,,,South West,Devon,Undefined,Percentage (%),,45.0
+2017/18,Long acting reversible contraceptives,,,South West,Dorset,Undefined,Percentage (%),,53.0
+2017/18,Long acting reversible contraceptives,,,South West,Gloucestershire,Undefined,Percentage (%),,53.0
+2017/18,Long acting reversible contraceptives,,,South West,North Somerset,Undefined,Percentage (%),E06000024,39.0
+2017/18,Long acting reversible contraceptives,,,South West,Plymouth,Undefined,Percentage (%),E06000026,49.0
+2017/18,Long acting reversible contraceptives,,,South West,Poole,Undefined,Percentage (%),E06000029,53.0
+2017/18,Long acting reversible contraceptives,,,South West,Somerset,Undefined,Percentage (%),,47.0
+2017/18,Long acting reversible contraceptives,,,South West,South Gloucestershire,Undefined,Percentage (%),E06000025,46.0
+2017/18,Long acting reversible contraceptives,,,South West,Swindon,Undefined,Percentage (%),E06000030,49.0
+2017/18,Long acting reversible contraceptives,,,South West,Torbay,Undefined,Percentage (%),E06000027,44.0
+2017/18,Long acting reversible contraceptives,,,South West,Wiltshire,Undefined,Percentage (%),E06000054,48.0
+2017/18,User dependent,,,North East,,Undefined,Percentage (%),E12000001,53.0
+2017/18,User dependent,,,North East,County Durham,Undefined,Percentage (%),E06000047,59.0
+2017/18,User dependent,,,North East,Darlington,Undefined,Percentage (%),E06000005,61.0
+2017/18,User dependent,,,North East,Gateshead,Undefined,Percentage (%),E08000037,56.0
+2017/18,User dependent,,,North East,Hartlepool,Undefined,Percentage (%),E06000001,64.0
+2017/18,User dependent,,,North East,Middlesbrough,Undefined,Percentage (%),E06000002,55.0
+2017/18,User dependent,,,North East,Newcastle upon Tyne,Undefined,Percentage (%),E08000021,54.0
+2017/18,User dependent,,,North East,North Tyneside,Undefined,Percentage (%),E08000022,52.0
+2017/18,User dependent,,,North East,Northumberland,Undefined,Percentage (%),E06000057,50.0
+2017/18,User dependent,,,North East,Redcar and Cleveland,Undefined,Percentage (%),E06000003,48.0
+2017/18,User dependent,,,North East,South Tyneside,Undefined,Percentage (%),E08000023,55.0
+2017/18,User dependent,,,North East,Stockton-on-Tees,Undefined,Percentage (%),E06000004,64.0
+2017/18,User dependent,,,North East,Sunderland,Undefined,Percentage (%),E08000024,43.0
+2017/18,User dependent,,,North West,,Undefined,Percentage (%),E12000002,61.0
+2017/18,User dependent,,,North West,Blackburn with Darwen,Undefined,Percentage (%),E06000008,65.0
+2017/18,User dependent,,,North West,Blackpool,Undefined,Percentage (%),E06000009,52.0
+2017/18,User dependent,,,North West,Bolton,Undefined,Percentage (%),E08000001,50.0
+2017/18,User dependent,,,North West,Bury,Undefined,Percentage (%),E08000002,61.0
+2017/18,User dependent,,,North West,Cheshire East,Undefined,Percentage (%),E06000049,57.0
+2017/18,User dependent,,,North West,Cheshire West and Chester,Undefined,Percentage (%),E06000050,63.0
+2017/18,User dependent,,,North West,Cumbria,Undefined,Percentage (%),,68.0
+2017/18,User dependent,,,North West,Halton,Undefined,Percentage (%),E06000006,71.0
+2017/18,User dependent,,,North West,Knowsley,Undefined,Percentage (%),E08000011,68.0
+2017/18,User dependent,,,North West,Lancashire,Undefined,Percentage (%),,58.0
+2017/18,User dependent,,,North West,Liverpool,Undefined,Percentage (%),E08000012,69.0
+2017/18,User dependent,,,North West,Manchester,Undefined,Percentage (%),E08000003,60.0
+2017/18,User dependent,,,North West,Oldham,Undefined,Percentage (%),E08000004,59.0
+2017/18,User dependent,,,North West,Rochdale,Undefined,Percentage (%),E08000005,54.0
+2017/18,User dependent,,,North West,Salford,Undefined,Percentage (%),E08000006,56.0
+2017/18,User dependent,,,North West,Sefton,Undefined,Percentage (%),E08000014,63.0
+2017/18,User dependent,,,North West,St. Helens,Undefined,Percentage (%),E08000013,71.0
+2017/18,User dependent,,,North West,Stockport,Undefined,Percentage (%),E08000007,57.0
+2017/18,User dependent,,,North West,Tameside,Undefined,Percentage (%),E08000008,60.0
+2017/18,User dependent,,,North West,Trafford,Undefined,Percentage (%),E08000009,53.0
+2017/18,User dependent,,,North West,Warrington,Undefined,Percentage (%),E06000007,58.0
+2017/18,User dependent,,,North West,Wigan,Undefined,Percentage (%),E08000010,58.0
+2017/18,User dependent,,,North West,Wirral,Undefined,Percentage (%),E08000015,60.0
+2017/18,User dependent,,,Yorkshire and The Humber,,Undefined,Percentage (%),E12000003,56.0
+2017/18,User dependent,,,Yorkshire and The Humber,Barnsley,Undefined,Percentage (%),E08000016,64.0
+2017/18,User dependent,,,Yorkshire and The Humber,Bradford,Undefined,Percentage (%),E08000032,49.0
+2017/18,User dependent,,,Yorkshire and The Humber,Calderdale,Undefined,Percentage (%),E08000033,60.0
+2017/18,User dependent,,,Yorkshire and The Humber,Doncaster,Undefined,Percentage (%),E08000017,60.0
+2017/18,User dependent,,,Yorkshire and The Humber,East Riding of Yorkshire,Undefined,Percentage (%),E06000011,52.0
+2017/18,User dependent,,,Yorkshire and The Humber,"Kingston upon Hull, City of",Undefined,Percentage (%),,46.0
+2017/18,User dependent,,,Yorkshire and The Humber,Kirklees,Undefined,Percentage (%),E08000034,54.0
+2017/18,User dependent,,,Yorkshire and The Humber,Leeds,Undefined,Percentage (%),E08000035,61.0
+2017/18,User dependent,,,Yorkshire and The Humber,North East Lincolnshire,Undefined,Percentage (%),E06000012,54.0
+2017/18,User dependent,,,Yorkshire and The Humber,North Lincolnshire,Undefined,Percentage (%),E06000013,58.0
+2017/18,User dependent,,,Yorkshire and The Humber,North Yorkshire,Undefined,Percentage (%),,56.0
+2017/18,User dependent,,,Yorkshire and The Humber,Rotherham,Undefined,Percentage (%),E08000018,52.0
+2017/18,User dependent,,,Yorkshire and The Humber,Sheffield,Undefined,Percentage (%),E08000019,56.0
+2017/18,User dependent,,,Yorkshire and The Humber,Wakefield,Undefined,Percentage (%),E08000036,60.0
+2017/18,User dependent,,,Yorkshire and The Humber,York,Undefined,Percentage (%),E06000014,63.0
+2017/18,User dependent,,,East Midlands,,Undefined,Percentage (%),E12000004,52.0
+2017/18,User dependent,,,East Midlands,Derby,Undefined,Percentage (%),E06000015,46.0
+2017/18,User dependent,,,East Midlands,Derbyshire,Undefined,Percentage (%),,50.0
+2017/18,User dependent,,,East Midlands,Leicester,Undefined,Percentage (%),E06000016,59.0
+2017/18,User dependent,,,East Midlands,Leicestershire 4,Undefined,Percentage (%),,52.0
+2017/18,User dependent,,,East Midlands,Lincolnshire,Undefined,Percentage (%),,40.0
+2017/18,User dependent,,,East Midlands,Northamptonshire,Undefined,Percentage (%),,56.0
+2017/18,User dependent,,,East Midlands,Nottingham,Undefined,Percentage (%),E06000018,56.0
+2017/18,User dependent,,,East Midlands,Nottinghamshire,Undefined,Percentage (%),,53.0
+2017/18,User dependent,,,West Midlands,,Undefined,Percentage (%),E12000005,60.0
+2017/18,User dependent,,,West Midlands,Birmingham,Undefined,Percentage (%),E08000025,67.0
+2017/18,User dependent,,,West Midlands,Coventry,Undefined,Percentage (%),E08000026,45.0
+2017/18,User dependent,,,West Midlands,Dudley,Undefined,Percentage (%),E08000027,59.0
+2017/18,User dependent,,,West Midlands,"Herefordshire, County of",Undefined,Percentage (%),,50.0
+2017/18,User dependent,,,West Midlands,Sandwell,Undefined,Percentage (%),E08000028,55.0
+2017/18,User dependent,,,West Midlands,Shropshire,Undefined,Percentage (%),E06000051,56.0
+2017/18,User dependent,,,West Midlands,Solihull,Undefined,Percentage (%),E08000029,67.0
+2017/18,User dependent,,,West Midlands,Staffordshire,Undefined,Percentage (%),,63.0
+2017/18,User dependent,,,West Midlands,Stoke-on-Trent,Undefined,Percentage (%),E06000021,60.0
+2017/18,User dependent,,,West Midlands,Telford and Wrekin,Undefined,Percentage (%),E06000020,52.0
+2017/18,User dependent,,,West Midlands,Walsall,Undefined,Percentage (%),E08000030,55.0
+2017/18,User dependent,,,West Midlands,Warwickshire,Undefined,Percentage (%),,58.0
+2017/18,User dependent,,,West Midlands,Wolverhampton,Undefined,Percentage (%),E08000031,43.0
+2017/18,User dependent,,,West Midlands,Worcestershire,Undefined,Percentage (%),,64.0
+2017/18,User dependent,,,East of England,,Undefined,Percentage (%),E12000006,58.0
+2017/18,User dependent,,,East of England,Bedford,Undefined,Percentage (%),E06000055,65.0
+2017/18,User dependent,,,East of England,Cambridgeshire,Undefined,Percentage (%),,51.0
+2017/18,User dependent,,,East of England,Central Bedfordshire,Undefined,Percentage (%),E06000056,62.0
+2017/18,User dependent,,,East of England,Essex,Undefined,Percentage (%),,60.0
+2017/18,User dependent,,,East of England,Hertfordshire,Undefined,Percentage (%),,61.0
+2017/18,User dependent,,,East of England,Luton,Undefined,Percentage (%),E06000032,54.0
+2017/18,User dependent,,,East of England,Norfolk,Undefined,Percentage (%),,52.0
+2017/18,User dependent,,,East of England,Peterborough,Undefined,Percentage (%),E06000031,55.0
+2017/18,User dependent,,,East of England,Southend-on-Sea,Undefined,Percentage (%),E06000033,74.0
+2017/18,User dependent,,,East of England,Suffolk,Undefined,Percentage (%),,55.0
+2017/18,User dependent,,,East of England,Thurrock,Undefined,Percentage (%),E06000034,55.0
+2017/18,User dependent,,,London,,Undefined,Percentage (%),E12000007,62.0
+2017/18,User dependent,,,London,Barking and Dagenham,Undefined,Percentage (%),E09000002,49.0
+2017/18,User dependent,,,London,Barnet,Undefined,Percentage (%),E09000003,61.0
+2017/18,User dependent,,,London,Bexley,Undefined,Percentage (%),E09000004,53.0
+2017/18,User dependent,,,London,Brent,Undefined,Percentage (%),E09000005,61.0
+2017/18,User dependent,,,London,Bromley,Undefined,Percentage (%),E09000006,63.0
+2017/18,User dependent,,,London,Camden,Undefined,Percentage (%),E09000007,64.0
+2017/18,User dependent,,,London,Croydon,Undefined,Percentage (%),E09000008,64.0
+2017/18,User dependent,,,London,Ealing,Undefined,Percentage (%),E09000009,69.0
+2017/18,User dependent,,,London,Enfield,Undefined,Percentage (%),E09000010,52.0
+2017/18,User dependent,,,London,Greenwich,Undefined,Percentage (%),E09000011,58.0
+2017/18,User dependent,,,London,Hackney 5,Undefined,Percentage (%),,58.0
+2017/18,User dependent,,,London,Hammersmith and Fulham,Undefined,Percentage (%),E09000013,67.0
+2017/18,User dependent,,,London,Haringey,Undefined,Percentage (%),E09000014,58.0
+2017/18,User dependent,,,London,Harrow,Undefined,Percentage (%),E09000015,68.0
+2017/18,User dependent,,,London,Havering,Undefined,Percentage (%),E09000016,54.0
+2017/18,User dependent,,,London,Hillingdon,Undefined,Percentage (%),E09000017,55.0
+2017/18,User dependent,,,London,Hounslow,Undefined,Percentage (%),E09000018,63.0
+2017/18,User dependent,,,London,Islington,Undefined,Percentage (%),E09000019,63.0
+2017/18,User dependent,,,London,Kensington and Chelsea,Undefined,Percentage (%),E09000020,64.0
+2017/18,User dependent,,,London,Kingston upon Thames,Undefined,Percentage (%),E09000021,76.0
+2017/18,User dependent,,,London,Lambeth,Undefined,Percentage (%),E09000022,60.0
+2017/18,User dependent,,,London,Lewisham,Undefined,Percentage (%),E09000023,63.0
+2017/18,User dependent,,,London,Merton,Undefined,Percentage (%),E09000024,63.0
+2017/18,User dependent,,,London,Newham,Undefined,Percentage (%),E09000025,62.0
+2017/18,User dependent,,,London,Redbridge,Undefined,Percentage (%),E09000026,59.0
+2017/18,User dependent,,,London,Richmond upon Thames,Undefined,Percentage (%),E09000027,68.0
+2017/18,User dependent,,,London,Southwark,Undefined,Percentage (%),E09000028,61.0
+2017/18,User dependent,,,London,Sutton,Undefined,Percentage (%),E09000029,66.0
+2017/18,User dependent,,,London,Tower Hamlets,Undefined,Percentage (%),E09000030,63.0
+2017/18,User dependent,,,London,Waltham Forest,Undefined,Percentage (%),E09000031,66.0
+2017/18,User dependent,,,London,Wandsworth,Undefined,Percentage (%),E09000032,59.0
+2017/18,User dependent,,,London,Westminster,Undefined,Percentage (%),E09000033,63.0
+2017/18,User dependent,,,South East,,Undefined,Percentage (%),E12000008,60.0
+2017/18,User dependent,,,South East,Bracknell Forest,Undefined,Percentage (%),E06000036,59.0
+2017/18,User dependent,,,South East,Brighton and Hove,Undefined,Percentage (%),E06000043,64.0
+2017/18,User dependent,,,South East,Buckinghamshire,Undefined,Percentage (%),,55.0
+2017/18,User dependent,,,South East,East Sussex,Undefined,Percentage (%),,61.0
+2017/18,User dependent,,,South East,Hampshire,Undefined,Percentage (%),,54.0
+2017/18,User dependent,,,South East,Isle of Wight,Undefined,Percentage (%),E06000046,42.0
+2017/18,User dependent,,,South East,Kent,Undefined,Percentage (%),,58.0
+2017/18,User dependent,,,South East,Medway,Undefined,Percentage (%),E06000035,56.0
+2017/18,User dependent,,,South East,Milton Keynes,Undefined,Percentage (%),E06000042,61.0
+2017/18,User dependent,,,South East,Oxfordshire,Undefined,Percentage (%),,62.0
+2017/18,User dependent,,,South East,Portsmouth,Undefined,Percentage (%),E06000044,47.0
+2017/18,User dependent,,,South East,Reading,Undefined,Percentage (%),E06000038,63.0
+2017/18,User dependent,,,South East,Slough,Undefined,Percentage (%),E06000039,62.0
+2017/18,User dependent,,,South East,Southampton,Undefined,Percentage (%),E06000045,43.0
+2017/18,User dependent,,,South East,Surrey,Undefined,Percentage (%),,66.0
+2017/18,User dependent,,,South East,West Berkshire,Undefined,Percentage (%),E06000037,57.0
+2017/18,User dependent,,,South East,West Sussex,Undefined,Percentage (%),,70.0
+2017/18,User dependent,,,South East,Windsor and Maidenhead,Undefined,Percentage (%),E06000040,63.0
+2017/18,User dependent,,,South East,Wokingham,Undefined,Percentage (%),E06000041,64.0
+2017/18,User dependent,,,South West,,Undefined,Percentage (%),E12000009,55.0
+2017/18,User dependent,,,South West,Bath and North East Somerset,Undefined,Percentage (%),E06000022,71.0
+2017/18,User dependent,,,South West,Bournemouth,Undefined,Percentage (%),E06000028,57.0
+2017/18,User dependent,,,South West,"Bristol, City of",Undefined,Percentage (%),,60.0
+2017/18,User dependent,,,South West,Cornwall 6,Undefined,Percentage (%),,57.0
+2017/18,User dependent,,,South West,Devon,Undefined,Percentage (%),,55.0
+2017/18,User dependent,,,South West,Dorset,Undefined,Percentage (%),,47.0
+2017/18,User dependent,,,South West,Gloucestershire,Undefined,Percentage (%),,47.0
+2017/18,User dependent,,,South West,North Somerset,Undefined,Percentage (%),E06000024,61.0
+2017/18,User dependent,,,South West,Plymouth,Undefined,Percentage (%),E06000026,51.0
+2017/18,User dependent,,,South West,Poole,Undefined,Percentage (%),E06000029,47.0
+2017/18,User dependent,,,South West,Somerset,Undefined,Percentage (%),,53.0
+2017/18,User dependent,,,South West,South Gloucestershire,Undefined,Percentage (%),E06000025,54.0
+2017/18,User dependent,,,South West,Swindon,Undefined,Percentage (%),E06000030,51.0
+2017/18,User dependent,,,South West,Torbay,Undefined,Percentage (%),E06000027,56.0
+2017/18,User dependent,,,South West,Wiltshire,Undefined,Percentage (%),E06000054,52.0
+2018/19,Long acting reversible contraceptives,,,,,Undefined,Percentage (%),,44.07163431433939
+2018/19,Long acting reversible contraceptives,IU device,,,,Undefined,Percentage (%),,7.629430181590482
+2018/19,Long acting reversible contraceptives,IU system,,,,Undefined,Percentage (%),,10.44070131496556
+2018/19,Long acting reversible contraceptives,Implant,,,,Undefined,Percentage (%),,17.105072010018784
+2018/19,Long acting reversible contraceptives,Injectable contraceptive,,,,Undefined,Percentage (%),,8.896430807764558
+2018/19,User dependent,,,,,Undefined,Percentage (%),,55.92836568566062
+2018/19,User dependent,Oral contraceptives,,,,Undefined,Percentage (%),,38.966562304320604
+2018/19,User dependent,Male condom,,,,Undefined,Percentage (%),,13.727113337507827
+2018/19,User dependent,Contraceptive patch,,,,Undefined,Percentage (%),,1.6161552911709454
+2018/19,User dependent,Natural family planning,,,,Undefined,Percentage (%),,0.9937382592360676
+2018/19,User dependent,Other methods,,,,Undefined,Percentage (%),,0.6247964934251722
+2018/19,Long acting reversible contraceptives,,Under 16,,,Undefined,Percentage (%),,37.85494259311117
+2018/19,Long acting reversible contraceptives,,16 to 17,,,Undefined,Percentage (%),,33.57603494903265
+2018/19,Long acting reversible contraceptives,,18 to 19,,,Undefined,Percentage (%),,33.34294571407973
+2018/19,Long acting reversible contraceptives,,20 to 24,,,Undefined,Percentage (%),,38.1501986462625
+2018/19,Long acting reversible contraceptives,,25 to 34,,,Undefined,Percentage (%),,46.49999422345969
+2018/19,Long acting reversible contraceptives,,35 to 44,,,Undefined,Percentage (%),,57.314703745628414
+2018/19,User dependent,,45 and over,,,Undefined,Percentage (%),,57.320210724057674
+2018/19,User dependent,,Under 16,,,Undefined,Percentage (%),,62.145057406888824
+2018/19,User dependent,,16 to 17,,,Undefined,Percentage (%),,66.42396505096734
+2018/19,User dependent,,18 to 19,,,Undefined,Percentage (%),,66.65705428592028
+2018/19,User dependent,,20 to 24,,,Undefined,Percentage (%),,61.8498013537375
+2018/19,User dependent,,25 to 34,,,Undefined,Percentage (%),,53.50000577654031
+2018/19,User dependent,,35 to 44,,,Undefined,Percentage (%),,42.685296254371586
+2018/19,Long acting reversible contraceptives,,45 and over,,,Undefined,Percentage (%),,42.67978927594233
+2018/19,Long acting reversible contraceptives,,,North East,,Undefined,Percentage (%),E12000001,49.0
+2018/19,Long acting reversible contraceptives,,,North East,County Durham,Undefined,Percentage (%),E06000047,45.0
+2018/19,Long acting reversible contraceptives,,,North East,Darlington,Undefined,Percentage (%),E06000005,32.0
+2018/19,Long acting reversible contraceptives,,,North East,Gateshead,Undefined,Percentage (%),E08000037,46.0
+2018/19,Long acting reversible contraceptives,,,North East,Hartlepool,Undefined,Percentage (%),E06000001,35.0
+2018/19,Long acting reversible contraceptives,,,North East,Middlesbrough,Undefined,Percentage (%),E06000002,52.0
+2018/19,Long acting reversible contraceptives,,,North East,Newcastle upon Tyne,Undefined,Percentage (%),E08000021,49.0
+2018/19,Long acting reversible contraceptives,,,North East,North Tyneside,Undefined,Percentage (%),E08000022,50.0
+2018/19,Long acting reversible contraceptives,,,North East,Northumberland,Undefined,Percentage (%),E06000057,52.0
+2018/19,Long acting reversible contraceptives,,,North East,Redcar and Cleveland,Undefined,Percentage (%),E06000003,54.0
+2018/19,Long acting reversible contraceptives,,,North East,South Tyneside,Undefined,Percentage (%),E08000023,45.0
+2018/19,Long acting reversible contraceptives,,,North East,Stockton-on-Tees,Undefined,Percentage (%),E06000004,36.0
+2018/19,Long acting reversible contraceptives,,,North East,Sunderland,Undefined,Percentage (%),E08000024,59.0
+2018/19,Long acting reversible contraceptives,,,North West,,Undefined,Percentage (%),E12000002,41.0
+2018/19,Long acting reversible contraceptives,,,North West,Blackburn with Darwen,Undefined,Percentage (%),E06000008,35.0
+2018/19,Long acting reversible contraceptives,,,North West,Blackpool,Undefined,Percentage (%),E06000009,50.0
+2018/19,Long acting reversible contraceptives,,,North West,Bolton,Undefined,Percentage (%),E08000001,53.0
+2018/19,Long acting reversible contraceptives,,,North West,Bury,Undefined,Percentage (%),E08000002,41.0
+2018/19,Long acting reversible contraceptives,,,North West,Cheshire East,Undefined,Percentage (%),E06000049,48.0
+2018/19,Long acting reversible contraceptives,,,North West,Cheshire West and Chester,Undefined,Percentage (%),E06000050,39.0
+2018/19,Long acting reversible contraceptives,,,North West,Cumbria,Undefined,Percentage (%),,56.0
+2018/19,Long acting reversible contraceptives,,,North West,Halton,Undefined,Percentage (%),E06000006,31.0
+2018/19,Long acting reversible contraceptives,,,North West,Knowsley,Undefined,Percentage (%),E08000011,35.0
+2018/19,Long acting reversible contraceptives,,,North West,Lancashire,Undefined,Percentage (%),,43.0
+2018/19,Long acting reversible contraceptives,,,North West,Liverpool,Undefined,Percentage (%),E08000012,32.0
+2018/19,Long acting reversible contraceptives,,,North West,Manchester,Undefined,Percentage (%),E08000003,43.0
+2018/19,Long acting reversible contraceptives,,,North West,Oldham,Undefined,Percentage (%),E08000004,44.0
+2018/19,Long acting reversible contraceptives,,,North West,Rochdale,Undefined,Percentage (%),E08000005,48.0
+2018/19,Long acting reversible contraceptives,,,North West,Salford,Undefined,Percentage (%),E08000006,44.0
+2018/19,Long acting reversible contraceptives,,,North West,Sefton,Undefined,Percentage (%),E08000014,39.0
+2018/19,Long acting reversible contraceptives,,,North West,St. Helens,Undefined,Percentage (%),E08000013,30.0
+2018/19,Long acting reversible contraceptives,,,North West,Stockport,Undefined,Percentage (%),E08000007,52.0
+2018/19,Long acting reversible contraceptives,,,North West,Tameside,Undefined,Percentage (%),E08000008,44.0
+2018/19,Long acting reversible contraceptives,,,North West,Trafford,Undefined,Percentage (%),E08000009,48.0
+2018/19,Long acting reversible contraceptives,,,North West,Warrington,Undefined,Percentage (%),E06000007,45.0
+2018/19,Long acting reversible contraceptives,,,North West,Wigan,Undefined,Percentage (%),E08000010,46.0
+2018/19,Long acting reversible contraceptives,,,North West,Wirral,Undefined,Percentage (%),E08000015,44.0
+2018/19,Long acting reversible contraceptives,,,Yorkshire and The Humber,,Undefined,Percentage (%),E12000003,48.0
+2018/19,Long acting reversible contraceptives,,,Yorkshire and The Humber,Barnsley,Undefined,Percentage (%),E08000016,40.0
+2018/19,Long acting reversible contraceptives,,,Yorkshire and The Humber,Bradford,Undefined,Percentage (%),E08000032,50.0
+2018/19,Long acting reversible contraceptives,,,Yorkshire and The Humber,Calderdale,Undefined,Percentage (%),E08000033,42.0
+2018/19,Long acting reversible contraceptives,,,Yorkshire and The Humber,Doncaster,Undefined,Percentage (%),E08000017,43.0
+2018/19,Long acting reversible contraceptives,,,Yorkshire and The Humber,East Riding of Yorkshire,Undefined,Percentage (%),E06000011,52.0
+2018/19,Long acting reversible contraceptives,,,Yorkshire and The Humber,"Kingston upon Hull, City of",Undefined,Percentage (%),,57.0
+2018/19,Long acting reversible contraceptives,,,Yorkshire and The Humber,Kirklees,Undefined,Percentage (%),E08000034,49.0
+2018/19,Long acting reversible contraceptives,,,Yorkshire and The Humber,Leeds,Undefined,Percentage (%),E08000035,44.0
+2018/19,Long acting reversible contraceptives,,,Yorkshire and The Humber,North East Lincolnshire,Undefined,Percentage (%),E06000012,47.0
+2018/19,Long acting reversible contraceptives,,,Yorkshire and The Humber,North Lincolnshire,Undefined,Percentage (%),E06000013,42.0
+2018/19,Long acting reversible contraceptives,,,Yorkshire and The Humber,North Yorkshire,Undefined,Percentage (%),,50.0
+2018/19,Long acting reversible contraceptives,,,Yorkshire and The Humber,Rotherham,Undefined,Percentage (%),E08000018,57.0
+2018/19,Long acting reversible contraceptives,,,Yorkshire and The Humber,Sheffield,Undefined,Percentage (%),E08000019,58.0
+2018/19,Long acting reversible contraceptives,,,Yorkshire and The Humber,Wakefield,Undefined,Percentage (%),E08000036,40.0
+2018/19,Long acting reversible contraceptives,,,Yorkshire and The Humber,York,Undefined,Percentage (%),E06000014,38.0
+2018/19,Long acting reversible contraceptives,,,East Midlands,,Undefined,Percentage (%),E12000004,52.0
+2018/19,Long acting reversible contraceptives,,,East Midlands,Derby,Undefined,Percentage (%),E06000015,59.0
+2018/19,Long acting reversible contraceptives,,,East Midlands,Derbyshire,Undefined,Percentage (%),,53.0
+2018/19,Long acting reversible contraceptives,,,East Midlands,Leicester,Undefined,Percentage (%),E06000016,53.0
+2018/19,Long acting reversible contraceptives,,,East Midlands,Leicestershire 4,Undefined,Percentage (%),,56.0
+2018/19,Long acting reversible contraceptives,,,East Midlands,Lincolnshire,Undefined,Percentage (%),,63.0
+2018/19,Long acting reversible contraceptives,,,East Midlands,Northamptonshire,Undefined,Percentage (%),,51.0
+2018/19,Long acting reversible contraceptives,,,East Midlands,Nottingham,Undefined,Percentage (%),E06000018,47.0
+2018/19,Long acting reversible contraceptives,,,East Midlands,Nottinghamshire,Undefined,Percentage (%),,48.0
+2018/19,Long acting reversible contraceptives,,,West Midlands,,Undefined,Percentage (%),E12000005,43.0
+2018/19,Long acting reversible contraceptives,,,West Midlands,Birmingham,Undefined,Percentage (%),E08000025,38.0
+2018/19,Long acting reversible contraceptives,,,West Midlands,Coventry,Undefined,Percentage (%),E08000026,62.0
+2018/19,Long acting reversible contraceptives,,,West Midlands,Dudley,Undefined,Percentage (%),E08000027,48.0
+2018/19,Long acting reversible contraceptives,,,West Midlands,"Herefordshire, County of",Undefined,Percentage (%),,53.0
+2018/19,Long acting reversible contraceptives,,,West Midlands,Sandwell,Undefined,Percentage (%),E08000028,52.0
+2018/19,Long acting reversible contraceptives,,,West Midlands,Shropshire,Undefined,Percentage (%),E06000051,45.0
+2018/19,Long acting reversible contraceptives,,,West Midlands,Solihull,Undefined,Percentage (%),E08000029,33.0
+2018/19,Long acting reversible contraceptives,,,West Midlands,Staffordshire,Undefined,Percentage (%),,38.0
+2018/19,Long acting reversible contraceptives,,,West Midlands,Stoke-on-Trent,Undefined,Percentage (%),E06000021,43.0
+2018/19,Long acting reversible contraceptives,,,West Midlands,Telford and Wrekin,Undefined,Percentage (%),E06000020,45.0
+2018/19,Long acting reversible contraceptives,,,West Midlands,Walsall,Undefined,Percentage (%),E08000030,45.0
+2018/19,Long acting reversible contraceptives,,,West Midlands,Warwickshire,Undefined,Percentage (%),,47.0
+2018/19,Long acting reversible contraceptives,,,West Midlands,Wolverhampton,Undefined,Percentage (%),E08000031,56.0
+2018/19,Long acting reversible contraceptives,,,West Midlands,Worcestershire,Undefined,Percentage (%),,40.0
+2018/19,Long acting reversible contraceptives,,,East of England,,Undefined,Percentage (%),E12000006,46.0
+2018/19,Long acting reversible contraceptives,,,East of England,Bedford,Undefined,Percentage (%),E06000055,42.0
+2018/19,Long acting reversible contraceptives,,,East of England,Cambridgeshire,Undefined,Percentage (%),,52.0
+2018/19,Long acting reversible contraceptives,,,East of England,Central Bedfordshire,Undefined,Percentage (%),E06000056,44.0
+2018/19,Long acting reversible contraceptives,,,East of England,Essex,Undefined,Percentage (%),,49.0
+2018/19,Long acting reversible contraceptives,,,East of England,Hertfordshire,Undefined,Percentage (%),,42.0
+2018/19,Long acting reversible contraceptives,,,East of England,Luton,Undefined,Percentage (%),E06000032,45.0
+2018/19,Long acting reversible contraceptives,,,East of England,Norfolk,Undefined,Percentage (%),,49.0
+2018/19,Long acting reversible contraceptives,,,East of England,Peterborough,Undefined,Percentage (%),E06000031,45.0
+2018/19,Long acting reversible contraceptives,,,East of England,Southend-on-Sea,Undefined,Percentage (%),E06000033,36.0
+2018/19,Long acting reversible contraceptives,,,East of England,Suffolk,Undefined,Percentage (%),,47.0
+2018/19,Long acting reversible contraceptives,,,East of England,Thurrock,Undefined,Percentage (%),E06000034,54.0
+2018/19,Long acting reversible contraceptives,,,London,,Undefined,Percentage (%),E12000007,41.0
+2018/19,Long acting reversible contraceptives,,,London,Barking and Dagenham,Undefined,Percentage (%),E09000002,54.0
+2018/19,Long acting reversible contraceptives,,,London,Barnet,Undefined,Percentage (%),E09000003,40.0
+2018/19,Long acting reversible contraceptives,,,London,Bexley,Undefined,Percentage (%),E09000004,50.0
+2018/19,Long acting reversible contraceptives,,,London,Brent,Undefined,Percentage (%),E09000005,38.0
+2018/19,Long acting reversible contraceptives,,,London,Bromley,Undefined,Percentage (%),E09000006,44.0
+2018/19,Long acting reversible contraceptives,,,London,Camden,Undefined,Percentage (%),E09000007,38.0
+2018/19,Long acting reversible contraceptives,,,London,Croydon,Undefined,Percentage (%),E09000008,40.0
+2018/19,Long acting reversible contraceptives,,,London,Ealing,Undefined,Percentage (%),E09000009,32.0
+2018/19,Long acting reversible contraceptives,,,London,Enfield,Undefined,Percentage (%),E09000010,56.0
+2018/19,Long acting reversible contraceptives,,,London,Greenwich,Undefined,Percentage (%),E09000011,47.0
+2018/19,Long acting reversible contraceptives,,,London,Hackney 5,Undefined,Percentage (%),,46.0
+2018/19,Long acting reversible contraceptives,,,London,Hammersmith and Fulham,Undefined,Percentage (%),E09000013,36.0
+2018/19,Long acting reversible contraceptives,,,London,Haringey,Undefined,Percentage (%),E09000014,44.0
+2018/19,Long acting reversible contraceptives,,,London,Harrow,Undefined,Percentage (%),E09000015,33.0
+2018/19,Long acting reversible contraceptives,,,London,Havering,Undefined,Percentage (%),E09000016,50.0
+2018/19,Long acting reversible contraceptives,,,London,Hillingdon,Undefined,Percentage (%),E09000017,44.0
+2018/19,Long acting reversible contraceptives,,,London,Hounslow,Undefined,Percentage (%),E09000018,39.0
+2018/19,Long acting reversible contraceptives,,,London,Islington,Undefined,Percentage (%),E09000019,40.0
+2018/19,Long acting reversible contraceptives,,,London,Kensington and Chelsea,Undefined,Percentage (%),E09000020,41.0
+2018/19,Long acting reversible contraceptives,,,London,Kingston upon Thames,Undefined,Percentage (%),E09000021,37.0
+2018/19,Long acting reversible contraceptives,,,London,Lambeth,Undefined,Percentage (%),E09000022,45.0
+2018/19,Long acting reversible contraceptives,,,London,Lewisham,Undefined,Percentage (%),E09000023,41.0
+2018/19,Long acting reversible contraceptives,,,London,Merton,Undefined,Percentage (%),E09000024,41.0
+2018/19,Long acting reversible contraceptives,,,London,Newham,Undefined,Percentage (%),E09000025,40.0
+2018/19,Long acting reversible contraceptives,,,London,Redbridge,Undefined,Percentage (%),E09000026,46.0
+2018/19,Long acting reversible contraceptives,,,London,Richmond upon Thames,Undefined,Percentage (%),E09000027,38.0
+2018/19,Long acting reversible contraceptives,,,London,Southwark,Undefined,Percentage (%),E09000028,42.0
+2018/19,Long acting reversible contraceptives,,,London,Sutton,Undefined,Percentage (%),E09000029,40.0
+2018/19,Long acting reversible contraceptives,,,London,Tower Hamlets,Undefined,Percentage (%),E09000030,39.0
+2018/19,Long acting reversible contraceptives,,,London,Waltham Forest,Undefined,Percentage (%),E09000031,42.0
+2018/19,Long acting reversible contraceptives,,,London,Wandsworth,Undefined,Percentage (%),E09000032,43.0
+2018/19,Long acting reversible contraceptives,,,London,Westminster,Undefined,Percentage (%),E09000033,40.0
+2018/19,Long acting reversible contraceptives,,,South East,,Undefined,Percentage (%),E12000008,41.0
+2018/19,Long acting reversible contraceptives,,,South East,Bracknell Forest,Undefined,Percentage (%),E06000036,45.0
+2018/19,Long acting reversible contraceptives,,,South East,Brighton and Hove,Undefined,Percentage (%),E06000043,40.0
+2018/19,Long acting reversible contraceptives,,,South East,Buckinghamshire,Undefined,Percentage (%),,46.0
+2018/19,Long acting reversible contraceptives,,,South East,East Sussex,Undefined,Percentage (%),,41.0
+2018/19,Long acting reversible contraceptives,,,South East,Hampshire,Undefined,Percentage (%),,45.0
+2018/19,Long acting reversible contraceptives,,,South East,Isle of Wight,Undefined,Percentage (%),E06000046,63.0
+2018/19,Long acting reversible contraceptives,,,South East,Kent,Undefined,Percentage (%),,43.0
+2018/19,Long acting reversible contraceptives,,,South East,Medway,Undefined,Percentage (%),E06000035,46.0
+2018/19,Long acting reversible contraceptives,,,South East,Milton Keynes,Undefined,Percentage (%),E06000042,37.0
+2018/19,Long acting reversible contraceptives,,,South East,Oxfordshire,Undefined,Percentage (%),,38.0
+2018/19,Long acting reversible contraceptives,,,South East,Portsmouth,Undefined,Percentage (%),E06000044,51.0
+2018/19,Long acting reversible contraceptives,,,South East,Reading,Undefined,Percentage (%),E06000038,38.0
+2018/19,Long acting reversible contraceptives,,,South East,Slough,Undefined,Percentage (%),E06000039,39.0
+2018/19,Long acting reversible contraceptives,,,South East,Southampton,Undefined,Percentage (%),E06000045,49.0
+2018/19,Long acting reversible contraceptives,,,South East,Surrey,Undefined,Percentage (%),,36.0
+2018/19,Long acting reversible contraceptives,,,South East,West Berkshire,Undefined,Percentage (%),E06000037,45.0
+2018/19,Long acting reversible contraceptives,,,South East,West Sussex,Undefined,Percentage (%),,31.0
+2018/19,Long acting reversible contraceptives,,,South East,Windsor and Maidenhead,Undefined,Percentage (%),E06000040,39.0
+2018/19,Long acting reversible contraceptives,,,South East,Wokingham,Undefined,Percentage (%),E06000041,40.0
+2018/19,Long acting reversible contraceptives,,,South West,,Undefined,Percentage (%),E12000009,48.0
+2018/19,Long acting reversible contraceptives,,,South West,Bath and North East Somerset,Undefined,Percentage (%),E06000022,41.0
+2018/19,Long acting reversible contraceptives,,,South West,Bournemouth,Undefined,Percentage (%),E06000028,49.0
+2018/19,Long acting reversible contraceptives,,,South West,"Bristol, City of",Undefined,Percentage (%),,42.0
+2018/19,Long acting reversible contraceptives,,,South West,Cornwall 6,Undefined,Percentage (%),,51.0
+2018/19,Long acting reversible contraceptives,,,South West,Devon,Undefined,Percentage (%),,45.0
+2018/19,Long acting reversible contraceptives,,,South West,Dorset,Undefined,Percentage (%),,57.0
+2018/19,Long acting reversible contraceptives,,,South West,Gloucestershire,Undefined,Percentage (%),,52.0
+2018/19,Long acting reversible contraceptives,,,South West,North Somerset,Undefined,Percentage (%),E06000024,40.0
+2018/19,Long acting reversible contraceptives,,,South West,Plymouth,Undefined,Percentage (%),E06000026,51.0
+2018/19,Long acting reversible contraceptives,,,South West,Poole,Undefined,Percentage (%),E06000029,65.0
+2018/19,Long acting reversible contraceptives,,,South West,Somerset,Undefined,Percentage (%),,46.0
+2018/19,Long acting reversible contraceptives,,,South West,South Gloucestershire,Undefined,Percentage (%),E06000025,46.0
+2018/19,Long acting reversible contraceptives,,,South West,Swindon,Undefined,Percentage (%),E06000030,49.0
+2018/19,Long acting reversible contraceptives,,,South West,Torbay,Undefined,Percentage (%),E06000027,48.0
+2018/19,User dependent,,,South West,Wiltshire,Undefined,Percentage (%),E06000054,52.0
+2018/19,User dependent,,,North East,,Undefined,Percentage (%),E12000001,51.0
+2018/19,User dependent,,,North East,County Durham,Undefined,Percentage (%),E06000047,55.0
+2018/19,User dependent,,,North East,Darlington,Undefined,Percentage (%),E06000005,68.0
+2018/19,User dependent,,,North East,Gateshead,Undefined,Percentage (%),E08000037,54.0
+2018/19,User dependent,,,North East,Hartlepool,Undefined,Percentage (%),E06000001,65.0
+2018/19,User dependent,,,North East,Middlesbrough,Undefined,Percentage (%),E06000002,48.0
+2018/19,User dependent,,,North East,Newcastle upon Tyne,Undefined,Percentage (%),E08000021,51.0
+2018/19,User dependent,,,North East,North Tyneside,Undefined,Percentage (%),E08000022,50.0
+2018/19,User dependent,,,North East,Northumberland,Undefined,Percentage (%),E06000057,48.0
+2018/19,User dependent,,,North East,Redcar and Cleveland,Undefined,Percentage (%),E06000003,46.0
+2018/19,User dependent,,,North East,South Tyneside,Undefined,Percentage (%),E08000023,55.0
+2018/19,User dependent,,,North East,Stockton-on-Tees,Undefined,Percentage (%),E06000004,64.0
+2018/19,User dependent,,,North East,Sunderland,Undefined,Percentage (%),E08000024,41.0
+2018/19,User dependent,,,North West,,Undefined,Percentage (%),E12000002,59.0
+2018/19,User dependent,,,North West,Blackburn with Darwen,Undefined,Percentage (%),E06000008,65.0
+2018/19,User dependent,,,North West,Blackpool,Undefined,Percentage (%),E06000009,50.0
+2018/19,User dependent,,,North West,Bolton,Undefined,Percentage (%),E08000001,47.0
+2018/19,User dependent,,,North West,Bury,Undefined,Percentage (%),E08000002,59.0
+2018/19,User dependent,,,North West,Cheshire East,Undefined,Percentage (%),E06000049,52.0
+2018/19,User dependent,,,North West,Cheshire West and Chester,Undefined,Percentage (%),E06000050,61.0
+2018/19,User dependent,,,North West,Cumbria,Undefined,Percentage (%),,44.0
+2018/19,User dependent,,,North West,Halton,Undefined,Percentage (%),E06000006,69.0
+2018/19,User dependent,,,North West,Knowsley,Undefined,Percentage (%),E08000011,65.0
+2018/19,User dependent,,,North West,Lancashire,Undefined,Percentage (%),,57.0
+2018/19,User dependent,,,North West,Liverpool,Undefined,Percentage (%),E08000012,68.0
+2018/19,User dependent,,,North West,Manchester,Undefined,Percentage (%),E08000003,57.0
+2018/19,User dependent,,,North West,Oldham,Undefined,Percentage (%),E08000004,56.0
+2018/19,User dependent,,,North West,Rochdale,Undefined,Percentage (%),E08000005,52.0
+2018/19,User dependent,,,North West,Salford,Undefined,Percentage (%),E08000006,56.0
+2018/19,User dependent,,,North West,Sefton,Undefined,Percentage (%),E08000014,61.0
+2018/19,User dependent,,,North West,St. Helens,Undefined,Percentage (%),E08000013,70.0
+2018/19,User dependent,,,North West,Stockport,Undefined,Percentage (%),E08000007,48.0
+2018/19,User dependent,,,North West,Tameside,Undefined,Percentage (%),E08000008,56.0
+2018/19,User dependent,,,North West,Trafford,Undefined,Percentage (%),E08000009,52.0
+2018/19,User dependent,,,North West,Warrington,Undefined,Percentage (%),E06000007,55.0
+2018/19,User dependent,,,North West,Wigan,Undefined,Percentage (%),E08000010,54.0
+2018/19,User dependent,,,North West,Wirral,Undefined,Percentage (%),E08000015,56.0
+2018/19,User dependent,,,Yorkshire and The Humber,,Undefined,Percentage (%),E12000003,52.0
+2018/19,User dependent,,,Yorkshire and The Humber,Barnsley,Undefined,Percentage (%),E08000016,60.0
+2018/19,User dependent,,,Yorkshire and The Humber,Bradford,Undefined,Percentage (%),E08000032,50.0
+2018/19,User dependent,,,Yorkshire and The Humber,Calderdale,Undefined,Percentage (%),E08000033,58.0
+2018/19,User dependent,,,Yorkshire and The Humber,Doncaster,Undefined,Percentage (%),E08000017,57.0
+2018/19,User dependent,,,Yorkshire and The Humber,East Riding of Yorkshire,Undefined,Percentage (%),E06000011,48.0
+2018/19,User dependent,,,Yorkshire and The Humber,"Kingston upon Hull, City of",Undefined,Percentage (%),,43.0
+2018/19,User dependent,,,Yorkshire and The Humber,Kirklees,Undefined,Percentage (%),E08000034,51.0
+2018/19,User dependent,,,Yorkshire and The Humber,Leeds,Undefined,Percentage (%),E08000035,56.0
+2018/19,User dependent,,,Yorkshire and The Humber,North East Lincolnshire,Undefined,Percentage (%),E06000012,53.0
+2018/19,User dependent,,,Yorkshire and The Humber,North Lincolnshire,Undefined,Percentage (%),E06000013,58.0
+2018/19,User dependent,,,Yorkshire and The Humber,North Yorkshire,Undefined,Percentage (%),,50.0
+2018/19,User dependent,,,Yorkshire and The Humber,Rotherham,Undefined,Percentage (%),E08000018,43.0
+2018/19,User dependent,,,Yorkshire and The Humber,Sheffield,Undefined,Percentage (%),E08000019,42.0
+2018/19,User dependent,,,Yorkshire and The Humber,Wakefield,Undefined,Percentage (%),E08000036,60.0
+2018/19,User dependent,,,Yorkshire and The Humber,York,Undefined,Percentage (%),E06000014,62.0
+2018/19,User dependent,,,East Midlands,,Undefined,Percentage (%),E12000004,48.0
+2018/19,User dependent,,,East Midlands,Derby,Undefined,Percentage (%),E06000015,41.0
+2018/19,User dependent,,,East Midlands,Derbyshire,Undefined,Percentage (%),,47.0
+2018/19,User dependent,,,East Midlands,Leicester,Undefined,Percentage (%),E06000016,47.0
+2018/19,User dependent,,,East Midlands,Leicestershire 4,Undefined,Percentage (%),,44.0
+2018/19,User dependent,,,East Midlands,Lincolnshire,Undefined,Percentage (%),,37.0
+2018/19,User dependent,,,East Midlands,Northamptonshire,Undefined,Percentage (%),,49.0
+2018/19,User dependent,,,East Midlands,Nottingham,Undefined,Percentage (%),E06000018,53.0
+2018/19,User dependent,,,East Midlands,Nottinghamshire,Undefined,Percentage (%),,52.0
+2018/19,User dependent,,,West Midlands,,Undefined,Percentage (%),E12000005,57.0
+2018/19,User dependent,,,West Midlands,Birmingham,Undefined,Percentage (%),E08000025,62.0
+2018/19,User dependent,,,West Midlands,Coventry,Undefined,Percentage (%),E08000026,38.0
+2018/19,User dependent,,,West Midlands,Dudley,Undefined,Percentage (%),E08000027,52.0
+2018/19,User dependent,,,West Midlands,"Herefordshire, County of",Undefined,Percentage (%),,47.0
+2018/19,User dependent,,,West Midlands,Sandwell,Undefined,Percentage (%),E08000028,48.0
+2018/19,User dependent,,,West Midlands,Shropshire,Undefined,Percentage (%),E06000051,55.0
+2018/19,User dependent,,,West Midlands,Solihull,Undefined,Percentage (%),E08000029,67.0
+2018/19,User dependent,,,West Midlands,Staffordshire,Undefined,Percentage (%),,62.0
+2018/19,User dependent,,,West Midlands,Stoke-on-Trent,Undefined,Percentage (%),E06000021,57.0
+2018/19,User dependent,,,West Midlands,Telford and Wrekin,Undefined,Percentage (%),E06000020,55.0
+2018/19,User dependent,,,West Midlands,Walsall,Undefined,Percentage (%),E08000030,55.0
+2018/19,User dependent,,,West Midlands,Warwickshire,Undefined,Percentage (%),,53.0
+2018/19,User dependent,,,West Midlands,Wolverhampton,Undefined,Percentage (%),E08000031,44.0
+2018/19,User dependent,,,West Midlands,Worcestershire,Undefined,Percentage (%),,60.0
+2018/19,User dependent,,,East of England,,Undefined,Percentage (%),E12000006,54.0
+2018/19,User dependent,,,East of England,Bedford,Undefined,Percentage (%),E06000055,58.0
+2018/19,User dependent,,,East of England,Cambridgeshire,Undefined,Percentage (%),,48.0
+2018/19,User dependent,,,East of England,Central Bedfordshire,Undefined,Percentage (%),E06000056,56.0
+2018/19,User dependent,,,East of England,Essex,Undefined,Percentage (%),,51.0
+2018/19,User dependent,,,East of England,Hertfordshire,Undefined,Percentage (%),,58.0
+2018/19,User dependent,,,East of England,Luton,Undefined,Percentage (%),E06000032,55.0
+2018/19,User dependent,,,East of England,Norfolk,Undefined,Percentage (%),,51.0
+2018/19,User dependent,,,East of England,Peterborough,Undefined,Percentage (%),E06000031,55.0
+2018/19,User dependent,,,East of England,Southend-on-Sea,Undefined,Percentage (%),E06000033,64.0
+2018/19,User dependent,,,East of England,Suffolk,Undefined,Percentage (%),,53.0
+2018/19,User dependent,,,East of England,Thurrock,Undefined,Percentage (%),E06000034,46.0
+2018/19,User dependent,,,London,,Undefined,Percentage (%),E12000007,59.0
+2018/19,User dependent,,,London,Barking and Dagenham,Undefined,Percentage (%),E09000002,46.0
+2018/19,User dependent,,,London,Barnet,Undefined,Percentage (%),E09000003,60.0
+2018/19,User dependent,,,London,Bexley,Undefined,Percentage (%),E09000004,50.0
+2018/19,User dependent,,,London,Brent,Undefined,Percentage (%),E09000005,62.0
+2018/19,User dependent,,,London,Bromley,Undefined,Percentage (%),E09000006,56.0
+2018/19,User dependent,,,London,Camden,Undefined,Percentage (%),E09000007,62.0
+2018/19,User dependent,,,London,Croydon,Undefined,Percentage (%),E09000008,60.0
+2018/19,User dependent,,,London,Ealing,Undefined,Percentage (%),E09000009,68.0
+2018/19,User dependent,,,London,Enfield,Undefined,Percentage (%),E09000010,44.0
+2018/19,User dependent,,,London,Greenwich,Undefined,Percentage (%),E09000011,53.0
+2018/19,User dependent,,,London,Hackney 5,Undefined,Percentage (%),,54.0
+2018/19,User dependent,,,London,Hammersmith and Fulham,Undefined,Percentage (%),E09000013,64.0
+2018/19,User dependent,,,London,Haringey,Undefined,Percentage (%),E09000014,56.0
+2018/19,User dependent,,,London,Harrow,Undefined,Percentage (%),E09000015,67.0
+2018/19,User dependent,,,London,Havering,Undefined,Percentage (%),E09000016,50.0
+2018/19,User dependent,,,London,Hillingdon,Undefined,Percentage (%),E09000017,56.0
+2018/19,User dependent,,,London,Hounslow,Undefined,Percentage (%),E09000018,61.0
+2018/19,User dependent,,,London,Islington,Undefined,Percentage (%),E09000019,60.0
+2018/19,User dependent,,,London,Kensington and Chelsea,Undefined,Percentage (%),E09000020,59.0
+2018/19,User dependent,,,London,Kingston upon Thames,Undefined,Percentage (%),E09000021,63.0
+2018/19,User dependent,,,London,Lambeth,Undefined,Percentage (%),E09000022,55.0
+2018/19,User dependent,,,London,Lewisham,Undefined,Percentage (%),E09000023,59.0
+2018/19,User dependent,,,London,Merton,Undefined,Percentage (%),E09000024,59.0
+2018/19,User dependent,,,London,Newham,Undefined,Percentage (%),E09000025,60.0
+2018/19,User dependent,,,London,Redbridge,Undefined,Percentage (%),E09000026,54.0
+2018/19,User dependent,,,London,Richmond upon Thames,Undefined,Percentage (%),E09000027,62.0
+2018/19,User dependent,,,London,Southwark,Undefined,Percentage (%),E09000028,58.0
+2018/19,User dependent,,,London,Sutton,Undefined,Percentage (%),E09000029,60.0
+2018/19,User dependent,,,London,Tower Hamlets,Undefined,Percentage (%),E09000030,61.0
+2018/19,User dependent,,,London,Waltham Forest,Undefined,Percentage (%),E09000031,58.0
+2018/19,User dependent,,,London,Wandsworth,Undefined,Percentage (%),E09000032,57.0
+2018/19,User dependent,,,London,Westminster,Undefined,Percentage (%),E09000033,60.0
+2018/19,User dependent,,,South East,,Undefined,Percentage (%),E12000008,59.0
+2018/19,User dependent,,,South East,Bracknell Forest,Undefined,Percentage (%),E06000036,55.0
+2018/19,User dependent,,,South East,Brighton and Hove,Undefined,Percentage (%),E06000043,60.0
+2018/19,User dependent,,,South East,Buckinghamshire,Undefined,Percentage (%),,54.0
+2018/19,User dependent,,,South East,East Sussex,Undefined,Percentage (%),,59.0
+2018/19,User dependent,,,South East,Hampshire,Undefined,Percentage (%),,55.0
+2018/19,User dependent,,,South East,Isle of Wight,Undefined,Percentage (%),E06000046,37.0
+2018/19,User dependent,,,South East,Kent,Undefined,Percentage (%),,57.0
+2018/19,User dependent,,,South East,Medway,Undefined,Percentage (%),E06000035,54.0
+2018/19,User dependent,,,South East,Milton Keynes,Undefined,Percentage (%),E06000042,63.0
+2018/19,User dependent,,,South East,Oxfordshire,Undefined,Percentage (%),,62.0
+2018/19,User dependent,,,South East,Portsmouth,Undefined,Percentage (%),E06000044,49.0
+2018/19,User dependent,,,South East,Reading,Undefined,Percentage (%),E06000038,62.0
+2018/19,User dependent,,,South East,Slough,Undefined,Percentage (%),E06000039,61.0
+2018/19,User dependent,,,South East,Southampton,Undefined,Percentage (%),E06000045,51.0
+2018/19,User dependent,,,South East,Surrey,Undefined,Percentage (%),,64.0
+2018/19,User dependent,,,South East,West Berkshire,Undefined,Percentage (%),E06000037,55.0
+2018/19,User dependent,,,South East,West Sussex,Undefined,Percentage (%),,69.0
+2018/19,User dependent,,,South East,Windsor and Maidenhead,Undefined,Percentage (%),E06000040,61.0
+2018/19,User dependent,,,South East,Wokingham,Undefined,Percentage (%),E06000041,60.0
+2018/19,User dependent,,,South West,,Undefined,Percentage (%),E12000009,52.0
+2018/19,User dependent,,,South West,Bath and North East Somerset,Undefined,Percentage (%),E06000022,59.0
+2018/19,User dependent,,,South West,Bournemouth,Undefined,Percentage (%),E06000028,51.0
+2018/19,User dependent,,,South West,"Bristol, City of",Undefined,Percentage (%),,58.0
+2018/19,User dependent,,,South West,Cornwall 6,Undefined,Percentage (%),,49.0
+2018/19,User dependent,,,South West,Devon,Undefined,Percentage (%),,55.0
+2018/19,User dependent,,,South West,Dorset,Undefined,Percentage (%),,43.0
+2018/19,User dependent,,,South West,Gloucestershire,Undefined,Percentage (%),,48.0
+2018/19,User dependent,,,South West,North Somerset,Undefined,Percentage (%),E06000024,60.0
+2018/19,User dependent,,,South West,Plymouth,Undefined,Percentage (%),E06000026,49.0
+2018/19,User dependent,,,South West,Poole,Undefined,Percentage (%),E06000029,35.0
+2018/19,User dependent,,,South West,Somerset,Undefined,Percentage (%),,54.0
+2018/19,User dependent,,,South West,South Gloucestershire,Undefined,Percentage (%),E06000025,54.0
+2018/19,User dependent,,,South West,Swindon,Undefined,Percentage (%),E06000030,51.0
+2018/19,User dependent,,,South West,Torbay,Undefined,Percentage (%),E06000027,52.0
+2018/19,User dependent,,,South West,Wiltshire,Undefined,Percentage (%),E06000054,48.0
