@@ -1,0 +1,62 @@
+# ****************************************************************************
+# NOTES:
+#
+# This is an example of a production deployment that uses GitHub Pages along
+# with a second "production" GitHub organisation. If you prefer to implement
+# your own workflow, or do not need production deployments, then you should
+# delete this file.
+#
+# In order for this to work, you must replace PRODUCTION_ORGANISATION below
+# with the name of your production GitHub organisation, under REPOSITORY_NAME.
+# You must also replace PRODUCTION_REPOSITORY below with the name of your
+# production data repository.
+#
+# For example, if your production organisation is "my-stats-org", and your
+# production data repository is "sdg-data", then use:
+#
+# REPOSITORY_NAME: my-stats-org/sdg-data
+#
+# ****************************************************************************
+
+name: Deploy to production
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r scripts/requirements.txt
+    - name: Build data
+      run: |
+        python scripts/build_data.py
+    - name: Deploy to GitHub Pages
+      uses: JamesIves/github-pages-deploy-action@releases/v3
+      with:
+        REPOSITORY_NAME: sustainabledevelopment-uk/sdg-data
+        ACCESS_TOKEN: ${{ secrets.token }}
+        BRANCH: gh-pages
+        FOLDER: _site
+        CLEAN: true
+    - name: Waiting 4 minutes for live data deployment
+      run: |
+        sleep 240
+    - name: Rebuild live site
+      run: |
+        curl -X POST https://api.github.com/repos/sustainabledevelopment-uk/sustainabledevelopment-uk.github.io/dispatches \
+        -H "Accept: application/vnd.github.everest-preview+json" \
+        -H "Authorization: token ${{secrets.token}}" \
+        --data '{"event_type": "rebuild-live"}'
