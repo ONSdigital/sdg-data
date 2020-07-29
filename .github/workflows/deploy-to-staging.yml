@@ -1,0 +1,56 @@
+# ****************************************************************************
+# NOTES:
+#
+# In order for this to work, you must replace STAGING_ORGANISATION below
+# with the name of your staging GitHub organisation, in line 53.
+# You must also replace STAGING_SITE_REPOSITORY below with the name of your
+# staging site repository.
+#
+# For example, if your staging organisation is "my-sdg-staging-org", and your
+# staging site repository is "open-sdg-site-starter", then use:
+#
+# curl -X POST https://api.github.com/repos/my-sdg-staging-org/open-sdg-site-starter/dispatches
+#
+# ****************************************************************************
+
+name: Deploy to staging
+
+on:
+  push:
+    branches:
+      - develop
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r scripts/requirements.txt
+    - name: Build data
+      run: |
+        python scripts/build_data.py
+    - name: Deploy to GitHub Pages
+      uses: JamesIves/github-pages-deploy-action@releases/v3
+      with:
+        ACCESS_TOKEN: ${{ secrets.token }}
+        BRANCH: gh-pages
+        FOLDER: _site
+        CLEAN: true
+    - name: Waiting 4 minutes for staging data deployment
+      run: |
+        sleep 240
+    - name: Rebuild site
+      run: |
+        curl -X POST https://api.github.com/repos/onsdigital/sdg-indicators/dispatches \
+        -H "Accept: application/vnd.github.everest-preview+json" \
+        -H "Authorization: token ${{secrets.token}}" \
+        --data '{"event_type": "rebuild-staging"}'
