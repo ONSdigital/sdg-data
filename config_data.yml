@@ -34,7 +34,7 @@ src_dir: ''
 translations:
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: 1.0.0
+    tag: 1.0.1
 
 # Reporting status extra fields
 # -----------------------------
@@ -84,3 +84,9 @@ git: true
 # need to change this setting. It is intended for sites where the data needs
 # to be converted/processed/etc in some way before being processed by sdg-build.
 git_data_dir: data
+
+docs_branding: UK SDG data service
+docs_intro: This is a list of outputs that are
+  available on this service. Click each of the links below for more information
+  on the available output.
+docs_indicator_url: https://sdgdata.gov.uk/[id]
