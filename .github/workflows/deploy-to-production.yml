@@ -48,7 +48,7 @@ jobs:
       with:
         REPOSITORY_NAME: sustainabledevelopment-uk/sdg-data
         ACCESS_TOKEN: ${{ secrets.token }}
-        BRANCH: gh-pages
+        BRANCH: master
         FOLDER: _site
         CLEAN: true
     - name: Waiting 4 minutes for live data deployment
