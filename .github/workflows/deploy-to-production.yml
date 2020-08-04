@@ -56,7 +56,7 @@ jobs:
         sleep 240
     - name: Rebuild live site
       run: |
-        curl -X POST https://api.github.com/repos/sustainabledevelopment-uk/sustainabledevelopment-uk.github.io/dispatches \
+        curl -X POST https://api.github.com/repos/onsdigital/sdg-indicators/dispatches \
         -H "Accept: application/vnd.github.everest-preview+json" \
         -H "Authorization: token ${{secrets.token}}" \
         --data '{"event_type": "rebuild-live"}'
