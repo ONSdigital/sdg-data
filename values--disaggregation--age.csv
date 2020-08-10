@@ -4,19 +4,19 @@ Value,Disaggregation combinations using this value,Number of indicators
 10 to 19,4,1
 11 to 18,6,1
 12 to 15,1,1
-15 and under,28,4
+15 and under,17,3
 15 to 17,3,1
 15 to 19,34,4
 15 to 24,15,1
 1.5 to 3,2,1
-16 to 17,37,5
+16 to 17,28,5
 16 to 19,9,5
 16 to 19 *,5,1
 16 to 24,101,17
 16 to 24 #,3,1
 16 to 64,3,1
 17 and under,3,1
-18 to 19,22,2
+18 to 19,13,2
 18 to 20,3,1
 18 to 21,90,1
 18 to 24,61,6
@@ -24,7 +24,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 19 to 24,2,1
 19 to 64,6,1
 20 and under,28,1
-20 to 24,72,12
+20 to 24,63,12
 20 to 24 *,5,1
 20 to 29,1,1
 21 to 24,3,1
@@ -32,7 +32,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 22 to 29,90,1
 24 to 29,1,1
 25 to 29,45,7
-25 to 34,198,25
+25 to 34,189,25
 25 to 49,9,3
 29 and under,5,1
 2,10,1
@@ -41,7 +41,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 30 to 39,94,3
 30 to 49,5,1
 35 to 39,215,8
-35 to 44,171,20
+35 to 44,162,20
 35 to 49,25,4
 35 to 54,2,1
 3,10,1
@@ -51,7 +51,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 40 to 44,233,6
 40 to 49,94,3
 41 to 60,30,1
-45 and over,29,3
+45 and over,20,3
 45 to 49,263,5
 45 to 54,149,18
 4,10,1
@@ -92,3 +92,4 @@ By age 18,1,1
 Over 65,15,1
 Under 1,3,1
 Under 15,15,1
+Under 16,2,1
