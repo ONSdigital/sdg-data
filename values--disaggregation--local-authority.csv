@@ -25,9 +25,9 @@ Aylesbury Vale District Council,1,1
 Aylesbury Vale,7,2
 Babergh District Council,1,1
 Babergh,7,2
-Barking and Dagenham,89,5
+Barking and Dagenham,170,5
 Barking & Dagenham and Havering,1,1
-Barnet,90,6
+Barnet,171,6
 "Barnsley, Doncaster and Rotherham",1,1
 Barnsley MBC,5,1
 Barnsley Metropolitan Borough Council,1,1
@@ -52,7 +52,7 @@ Belfast,10,4
 Berkshire,1,1
 Bexley and Greenwich,1,1
 Bexley LB,5,1
-Bexley,95,6
+Bexley,176,6
 Birkenhead,2,1
 Birmingham City Council,6,2
 Birmingham,98,8
@@ -72,7 +72,7 @@ Boston Borough Council,1,1
 Boston,7,2
 Bournemouth and Poole,1,1
 Bournemouth Borough Council,6,2
-"Bournemouth, Christchurch and Poole",3,2
+"Bournemouth, Christchurch and Poole",84,3
 Bournemouth,88,5
 Bracknell Forest Borough Council,6,2
 Bracknell Forest,95,6
@@ -83,7 +83,7 @@ Braintree,7,2
 Breckland and South Norfolk,1,1
 Breckland District Council,1,1
 Breckland,7,2
-Brent,90,6
+Brent,171,6
 Brentwood Borough Council,1,1
 Brentwood,7,2
 Bridgend and Neath Port Talbot,1,1
@@ -97,7 +97,7 @@ Bristol,84,3
 Broadland District Council,1,1
 Broadland,7,2
 Bromley LB,5,1
-Bromley,96,7
+Bromley,177,7
 Bromsgrove District Council,1,1
 Bromsgrove,7,2
 Broxbourne Borough Council,1,1
@@ -123,7 +123,7 @@ Cambridgeshire CC,1,1
 Cambridgeshire County Council,6,2
 Cambridgeshire,87,3
 Camden and City of London,1,1
-Camden,89,5
+Camden,170,5
 Cannock Chase District Council,1,1
 Cannock Chase,7,2
 Canterbury City Council,1,1
@@ -169,7 +169,7 @@ Christchurch,6,1
 City of Bradford Metropolitan District Council,1,1
 City of Edinburgh,9,3
 City of Lincoln Council,1,1
-City of London,90,5
+City of London,171,5
 City of London7,2,1
 Clackmannanshire and Fife,1,1
 Clackmannanshire,7,2
@@ -196,7 +196,7 @@ Craven,7,2
 Crawley Borough Council,1,1
 Crawley,7,2
 Croydon LB,5,1
-Croydon,90,6
+Croydon,171,6
 Cumbria County Council,6,2
 Cumbria,87,3
 Dacorum Borough Council,1,1
@@ -239,7 +239,7 @@ Dumfries & Galloway,1,1
 Dundee City,7,2
 Durham CC,1,1
 Durham County Council,1,1
-Ealing,90,6
+Ealing,171,6
 East Ayrshire and North Ayrshire mainland,1,1
 East Ayrshire,7,2
 East Cambridgeshire District Council,1,1
@@ -287,7 +287,7 @@ Eden,7,2
 "Edinburgh, City of",1,1
 Elmbridge Borough Council,1,1
 Elmbridge,7,2
-Enfield,96,7
+Enfield,177,7
 Epping Forest District Council,1,1
 Epping Forest,7,2
 Epsom and Ewell Borough Council,1,1
@@ -346,34 +346,34 @@ Greater Manchester South West,1,1
 Greater Manchester South,1,1
 Greater Manchester WDA (MBC),5,1
 Greenwich LB,5,1
-Greenwich,89,5
+Greenwich,170,5
 Guildford Borough Council,1,1
 Guildford,7,2
 Gwent Valleys,1,1
 Gwynedd,8,3
 Hackney and Newham,1,1
-Hackney,95,6
+Hackney,176,6
 Halton and Warrington,1,1
 Halton Borough Council (Unitary),1,1
 Halton Borough Council,5,1
 Halton,95,6
 Hambleton District Council,1,1
 Hambleton,7,2
-Hammersmith and Fulham,89,5
+Hammersmith and Fulham,170,5
 Hampshire CC,1,1
 Hampshire County Council,6,2
 Hampshire,87,3
 Harborough District Council,1,1
 Harborough,7,2
 Haringey and Islington,1,1
-Haringey,89,5
+Haringey,170,5
 Harlington,2,1
 Harlow District Council,1,1
 Harlow,1,1
 Harrogate Borough Council,1,1
 Harrogate,7,2
 Harrow and Hillingdon,1,1
-Harrow,95,6
+Harrow,176,6
 Hart District Council,1,1
 Hart,7,2
 Hartlepool and Stockton-on-Tees,1,1
@@ -383,7 +383,7 @@ Hastings Borough Council,1,1
 Hastings,1,1
 Havant Borough Council,1,1
 Havant,7,2
-Havering,95,6
+Havering,176,6
 Heart of Essex,1,1
 Herefordshire Council,6,2
 "Herefordshire, County of",8,4
@@ -396,13 +396,13 @@ High Peak Borough Council,1,1
 High Peak,7,2
 Highland,7,2
 Highlands and Islands,1,1
-Hillingdon,95,6
+Hillingdon,176,6
 Hinckley and Bosworth,7,2
 Hinckley & Bosworth Borough Council,1,1
 Horsham District Council,1,1
 Horsham,7,2
 Hounslow and Richmond upon Thames,1,1
-Hounslow,89,5
+Hounslow,170,5
 Hull,2,1
 Huntingdonshire District Council,1,1
 Huntingdonshire,7,2
@@ -420,8 +420,8 @@ Isle of Wight Council,6,2
 Isle of Wight,96,7
 Isles of Scilly,89,4
 Isles of Scilly7,2,1
-Islington,89,5
-Kensington and Chelsea,89,5
+Islington,170,5
+Kensington and Chelsea,170,5
 Kensington & Chelsea and Hammersmith & Fulham,1,1
 Kent CC,1,1
 Kent County Council,6,2
@@ -435,13 +435,13 @@ Kingston-upon-Hull City Council,5,1
 Kingston-Upon-Hull City Council,1,1
 "Kingston upon Hull, City of",8,4
 Kingston upon Hull,84,3
-Kingston upon Thames,95,6
+Kingston upon Thames,176,6
 Kirklees Council,1,1
 Kirklees MBC,5,1
 Kirklees,95,6
 Knowsley Metropolitan Borough Council,1,1
 Knowsley,95,6
-Lambeth,90,6
+Lambeth,171,6
 Lancashire CC,1,1
 Lancashire County Council,6,2
 Lancashire,87,3
@@ -461,7 +461,7 @@ Lewes District Council,1,1
 Lewes,7,2
 Lewisham and Southwark,1,1
 Lewisham LB,5,1
-Lewisham,89,5
+Lewisham,170,5
 Lichfield District Council,1,1
 Lichfield,7,2
 Lincoln,1,1
@@ -523,7 +523,7 @@ Merseyside WDA (MBC),5,1
 Merthyr Tydfil,7,2
 "Merton, Kingston upon Thames and Sutton",1,1
 Merton LB,5,1
-Merton,89,5
+Merton,170,5
 Mid and East Antrim,8,3
 Mid Devon District Council,1,1
 Mid Devon,7,2
@@ -556,7 +556,7 @@ Newcastle-under-Lyme,7,2
 Newcastle-upon-Tyne City Council MBC,5,1
 Newcastle-Upon-Tyne City Council,1,1
 Newcastle upon Tyne,97,7
-Newham,89,5
+Newham,170,5
 Newport,9,3
 "Newry, Mourne and Down",8,3
 Norfolk County Council,6,2
@@ -650,7 +650,7 @@ Purbeck,6,1
 Reading Borough Council,6,2
 Reading,91,6
 Redbridge and Waltham Forest,1,1
-Redbridge,89,5
+Redbridge,170,5
 Redcar and Cleveland Borough Council,5,1
 Redcar and Cleveland,95,6
 Redcar & Cleveland Borough Council,1,1
@@ -662,7 +662,7 @@ Renfrewshire,7,2
 Rhondda Cynon Taf,7,2
 Ribble Valley Borough Council,1,1
 Ribble Valley,7,2
-Richmond upon Thames,89,5
+Richmond upon Thames,170,5
 Richmondshire District Council,1,1
 Richmondshire,7,2
 Rochdale Metropolitan Borough Council,1,1
@@ -773,7 +773,7 @@ Southend-on-Sea Borough Council,5,1
 Southend-On-Sea Borough Council,1,1
 Southend-on-Sea,92,7
 Southwark LB,5,1
-Southwark,89,5
+Southwark,170,5
 Speke,2,1
 Spelthorne Borough Council,1,1
 Spelthorne,7,2
@@ -821,7 +821,7 @@ Surrey Heath Borough Council,1,1
 Surrey Heath,7,2
 Surrey,88,4
 Sutton LB,5,1
-Sutton,89,5
+Sutton,170,5
 Swale Borough Council,1,1
 Swale,7,2
 Swansea,10,4
@@ -862,7 +862,7 @@ Torfaen,7,2
 Torridge District Council,1,1
 Torridge,7,2
 Tower Hamlets LB,5,1
-Tower Hamlets,90,6
+Tower Hamlets,171,6
 Trafford Metropolitan Borough Council,1,1
 Trafford,95,6
 Tunbridge Wells Borough Council,1,1
@@ -881,8 +881,8 @@ Walsall and Wolverhampton,1,1
 Walsall MBC,5,1
 Walsall Metropolitan Borough Council,1,1
 Walsall,96,7
-Waltham Forest,89,5
-Wandsworth,90,6
+Waltham Forest,170,5
+Wandsworth,171,6
 Warrington Borough Council (Unitary),1,1
 Warrington Borough Council,5,1
 Warrington,98,8
@@ -932,7 +932,7 @@ West Sussex (South West),1,1
 West Sussex,88,4
 Western Riverside Waste Authority,5,1
 Westminster City Council,6,2
-Westminster,90,6
+Westminster,171,6
 Weymouth and Portland,6,1
 Weymouth & Portland Borough Council,1,1
 Wigan MBC,5,1
