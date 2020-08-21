@@ -51,8 +51,8 @@ reporting_status_extra_fields: []
 # Note that the GeoJSON files can either be remote (as in the example below) or
 # local, relative to the src_dir specified above.
 map_layers:
-#Country (https://geoportal.statistics.gov.uk/datasets/countries-december-2019-boundaries-uk-bfe)
-  - geojson_file: https://opendata.arcgis.com/datasets/dce91f28d65346dfbed05a11719cd27e_0.geojson
+#Country (https://geoportal.statistics.gov.uk/datasets/countries-december-2019-boundaries-uk-buc)
+  - geojson_file: https://opendata.arcgis.com/datasets/92ebeaf3caa8458ea467ec164baeefa4_0.geojson
     name_property: ctry19nm
     id_property: ctry19cd
     output_subfolder: country
