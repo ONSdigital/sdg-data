@@ -44,7 +44,7 @@ jobs:
       run: |
         python scripts/build_data.py
     - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@releases/v3
+      uses: JamesIves/github-pages-deploy-action@3.6.1
       with:
         REPOSITORY_NAME: sustainabledevelopment-uk/sdg-data
         ACCESS_TOKEN: ${{ secrets.token }}
@@ -58,5 +58,5 @@ jobs:
       run: |
         curl -X POST https://api.github.com/repos/onsdigital/sdg-indicators/dispatches \
         -H "Accept: application/vnd.github.everest-preview+json" \
-        -H "Authorization: token ${{secrets.token}}" \
+        -H "Authorization: token $${{ secrets.token }}" \
         --data '{"event_type": "rebuild-live"}'
