@@ -44,7 +44,7 @@ jobs:
       run: |
         python scripts/build_data.py
     - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@releases/v3
+      uses: JamesIves/github-pages-deploy-action@3.6.1
       with:
         REPOSITORY_NAME: sustainabledevelopment-uk/sdg-data
         ACCESS_TOKEN: ${{ secrets.token }}
