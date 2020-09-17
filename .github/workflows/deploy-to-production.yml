@@ -51,6 +51,7 @@ jobs:
         BRANCH: gh-pages
         FOLDER: _site
         CLEAN: true
+        persist-credentials: false
     - name: Waiting 4 minutes for live data deployment
       run: |
         sleep 240
