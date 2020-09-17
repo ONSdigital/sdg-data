@@ -31,7 +31,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - name: Deploy
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: false
     - name: Set up Python 3.7
       uses: actions/setup-python@v1
       with:
@@ -51,7 +54,6 @@ jobs:
         BRANCH: gh-pages
         FOLDER: _site
         CLEAN: true
-        persist-credentials: false
     - name: Waiting 4 minutes for live data deployment
       run: |
         sleep 240
