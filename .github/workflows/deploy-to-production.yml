@@ -58,5 +58,5 @@ jobs:
       run: |
         curl -X POST https://api.github.com/repos/onsdigital/sdg-indicators/dispatches \
         -H "Accept: application/vnd.github.everest-preview+json" \
-        -H "Authorization: token ${{secrets.token}}" \
+        -H "Authorization: token $${{ secrets.token }}" \
         --data '{"event_type": "rebuild-live"}'
