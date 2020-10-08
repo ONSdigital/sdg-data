@@ -199,6 +199,11 @@ prose:
             element: text
             label: "Graph Title"
             scope: graph
+      - name: "graph_annotations"
+        field:
+            element: hidden
+            label: "Graph annotations"
+            scope: graph
       ######### National Sources #########
       ## Source 1
       - name: source_active_1
