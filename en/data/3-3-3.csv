@@ -1,4 +1,4 @@
-Year,Units,Sex,Age,Country,Region,Malaria species,Fatality,Country of birth,Ethnicity,Region of travel,Observation status,Unit multiplier,Unit measure,GeoCode,Value
+Year,Units,Sex,Age,Country,Region,Malaria species,Fatality,Country of birth,Ethnic Group,Region of travel,Observation status,Unit multiplier,Unit measure,GeoCode,Value
 2000,"Rate per 100,000 population",,,,,,,,,,Undefined,Units,"Rate per 100,000 population",,3.4762023639999997
 2001,"Rate per 100,000 population",,,,,,,,,,Undefined,Units,"Rate per 100,000 population",,3.45778330799999
 2002,"Rate per 100,000 population",,,,,,,,,,Undefined,Units,"Rate per 100,000 population",,3.26788154
@@ -17,96 +17,102 @@ Year,Units,Sex,Age,Country,Region,Malaria species,Fatality,Country of birth,Ethn
 2015,"Rate per 100,000 population",,,,,,,,,,Undefined,Units,"Rate per 100,000 population",,2.150206219
 2016,"Rate per 100,000 population",,,,,,,,,,Undefined,Units,"Rate per 100,000 population",,2.464657978
 2017,"Rate per 100,000 population",,,,,,,,,,Undefined,Units,"Rate per 100,000 population",,2.713497556
-2000,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.027171097999999998
-2001,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.015225073
-2002,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.015160275
-2003,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.026829133999999998
-2004,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.008340233
-2005,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.016552653
-2006,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.01315204
-2007,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.00815407
-2008,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.009705005
-2009,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.009636931
-2010,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.011153698
-2011,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.012641197
-2012,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.00313947
-2013,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.010919473999999998
-2014,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.004644196
-2015,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.00921517
-2016,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.009139646
-2017,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.009085371
-2000,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,2.640691097
-2001,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,2.659312798
-2002,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,2.467755905
-2003,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,2.243586336
-2004,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,2.035016835
-2005,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,2.213089719
-2006,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,2.278590878
-2007,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,1.8558662209999999
-2008,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,1.7582233580000002
-2009,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,1.893656917
-2010,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,2.0124457419999997
-2011,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,1.8108515040000002
-2012,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,1.57287423
-2013,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,1.859430371
-2014,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,1.809688512
-2015,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,1.640300172
-2016,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,1.992442914
-2017,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,2.19865985
-2000,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.546818349
-2001,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.441527125
-2002,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.478390906
-2003,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.34374828
-2004,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.46038085799999995
-2005,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.42705845
-2006,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.356749077
-2007,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.417488359
-2008,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.28629764
-2009,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.329261805
-2010,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.554498113999999
-2011,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.655762107
-2012,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.423828385
-2013,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.279226541
-2014,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.348314726
-2015,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.317923348
-2016,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.25286355
-2017,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.248333482
-2000,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.208877817
-2001,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.265592945
-2002,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.224035178
-2003,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.224693998
-2004,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.20016559
-2005,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.19201077600000002
-2006,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.174264526
-2007,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.176127901
-2008,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.12293006
-2009,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.110824705
-2010,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.157745153
-2011,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.121671523
-2012,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.103602494
-2013,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.121674135
-2014,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.201248509
-2015,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.145906851
-2016,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.134048147
-2017,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.16353668300000002
-2000,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.050945809
-2001,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.062591968
-2002,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.072432426
-2003,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.045274164000000006
-2004,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.046705304
-2005,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.048002694000000005
-2006,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.039456119
-2007,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.048924417000000005
-2008,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.032350016
-2009,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.057821585
-2010,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.058955259
-2011,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.048984639
-2012,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.050231512
-2013,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.060837068
-2014,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.063470683
-2015,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.035324816
-2016,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.06245425
-2017,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.08328257
+2018,"Rate per 100,000 population",,,,,,,,,,Undefined,Units,"Rate per 100,000 population",,2.533282256261896
+2000,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.02717109810294789
+2001,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.015225073273202641
+2002,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.015160275187293829
+2003,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.026829134065216458
+2004,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.008340232930028581
+2005,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.01655265309565401
+2006,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.013152039699694874
+2007,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.008154069512627189
+2008,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.009705004735071809
+2009,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.009636930877796232
+2010,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.011153697699355456
+2011,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.012641197235148944
+2012,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.0031394695206956183
+2013,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.010919473655163084
+2014,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.004644196352163341
+2015,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.009215169508281934
+2016,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.009139646393783429
+2017,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.009085371281798552
+2018,"Rate per 100,000 population",,,,,,Fatal,,,,Undefined,Units,"Rate per 100,000 population",,0.00903130929148626
+2000,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,2.6406910968802486
+2001,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,2.6593127983860607
+2002,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,2.467755905487273
+2003,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,2.2435863362037267
+2004,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,2.0350168349269744
+2005,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,2.213089718888941
+2006,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,2.2785908779721367
+2007,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,1.855866221073948
+2008,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,1.7582233578371762
+2009,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,1.8936569174869595
+2010,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,2.0124457420408493
+2011,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,1.8108515039350863
+2012,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,1.572874229868505
+2013,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,1.8594303709934847
+2014,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,1.8096885118929815
+2015,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,1.640300172474184
+2016,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,1.992442913844788
+2017,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,2.19865985019525
+2018,"Rate per 100,000 population",,,,,P. falciparum,,,,,Undefined,Units,"Rate per 100,000 population",,2.0696750459656013
+2000,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.5468183493218264
+2001,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.4415271249228765
+2002,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.4783909059101608
+2003,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.3437482802105859
+2004,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.4603808577375777
+2005,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.4270584498678734
+2006,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.3567490768542235
+2007,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.4174883590465121
+2008,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.2862976396846184
+2009,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.32926180499137125
+2010,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.5544981141965284
+2011,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.6557621065733514
+2012,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.4238283852939085
+2013,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.2792265406105989
+2014,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.3483147264122506
+2015,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.31792334803572675
+2016,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.2528635502280083
+2017,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.24833348170249375
+2018,"Rate per 100,000 population",,,,,P. vivax,,,,,Undefined,Units,"Rate per 100,000 population",,0.21524620478042253
+2000,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.20887781666641195
+2001,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.2655929448769794
+2002,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.2240351777677866
+2003,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.22469399779618784
+2004,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.20016559032068595
+2005,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.1920107759095865
+2006,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.1742645260209571
+2007,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.17612790147274726
+2008,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.12293005997757628
+2009,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.11082470509465664
+2010,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.1577451531765986
+2011,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.12167152338830857
+2012,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.1036024941829554
+2013,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.12167413501467435
+2014,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.2012485085937448
+2015,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.14590685054779728
+2016,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.13404814710882365
+2017,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.16353668307237396
+2018,"Rate per 100,000 population",,,,,P. ovale,,,,,Undefined,Units,"Rate per 100,000 population",,0.17611053118398207
+2000,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.0509458089430273
+2001,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.06259196790094418
+2002,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.07243242589484829
+2003,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.045274163735052775
+2004,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.046705304408160064
+2005,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.04800269397739663
+2006,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.03945611909908462
+2007,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.04892441707576313
+2008,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.0323500157835727
+2009,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.05782158526677739
+2010,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.0589552592680217
+2011,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.04898463928620216
+2012,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.050231512331129886
+2013,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.060837067507337174
+2014,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.06347068347956566
+2015,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.03532481644841408
+2016,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.062454250357520114
+2017,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.08328257008315341
+2018,"Rate per 100,000 population",,,,,P. malariae,,,,,Undefined,Units,"Rate per 100,000 population",,0.05418785574891756
 2000,"Rate per 100,000 population",,,,,P. knowlesi,,,,,Undefined,Units,"Rate per 100,000 population",,0.0
 2001,"Rate per 100,000 population",,,,,P. knowlesi,,,,,Undefined,Units,"Rate per 100,000 population",,0.0
 2002,"Rate per 100,000 population",,,,,P. knowlesi,,,,,Undefined,Units,"Rate per 100,000 population",,0.0
@@ -125,24 +131,26 @@ Year,Units,Sex,Age,Country,Region,Malaria species,Fatality,Country of birth,Ethn
 2015,"Rate per 100,000 population",,,,,P. knowlesi,,,,,Undefined,Units,"Rate per 100,000 population",,0.0
 2016,"Rate per 100,000 population",,,,,P. knowlesi,,,,,Undefined,Units,"Rate per 100,000 population",,0.001523274
 2017,"Rate per 100,000 population",,,,,P. knowlesi,,,,,Undefined,Units,"Rate per 100,000 population",,0.003028457
-2000,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.027171097999999998
-2001,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.027066797000000004
-2002,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.021898175
-2003,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.025152313
-2004,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.020016559
-2005,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.016552653
-2006,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.032880098999999996
-2007,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.024462209
-2008,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.014557506999999999
-2009,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.009636931
-2010,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.019120625
-2011,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.0063205990000000005
-2012,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.010988143
-2013,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.020279023
-2014,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.032509374
-2015,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.010751031000000001
-2016,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.019802567
-2017,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.016656514
+2018,"Rate per 100,000 population",,,,,P. knowlesi,,,,,Undefined,Units,"Rate per 100,000 population",,0.0030104364304954197
+2000,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.02717109810294789
+2001,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.027066796930138026
+2002,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.02189817527053553
+2003,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.02515231318614044
+2004,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.020016559032068598
+2005,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.01655265309565401
+2006,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.03288009924923719
+2007,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.02446220853788156
+2008,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.014557507102607715
+2009,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.009636930877796232
+2010,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.01912062462746649
+2011,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.006320598617574472
+2012,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.010988143322434665
+2013,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.020279022502445728
+2014,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.03250937446514338
+2015,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.01075103109299559
+2016,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.01980256718653077
+2017,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.01665651401663068
+2018,"Rate per 100,000 population",,,,,Mixed,,,,,Undefined,Units,"Rate per 100,000 population",,0.01354696393722939
 2000,"Rate per 100,000 population",,,,,P. unspecified,,,,,Undefined,Units,"Rate per 100,000 population",,0.0016981939999999999
 2001,"Rate per 100,000 population",,,,,P. unspecified,,,,,Undefined,Units,"Rate per 100,000 population",,0.001691675
 2002,"Rate per 100,000 population",,,,,P. unspecified,,,,,Undefined,Units,"Rate per 100,000 population",,0.00336895
@@ -161,24 +169,26 @@ Year,Units,Sex,Age,Country,Region,Malaria species,Fatality,Country of birth,Ethn
 2015,"Rate per 100,000 population",,,,,P. unspecified,,,,,Undefined,Units,"Rate per 100,000 population",,0.0
 2016,"Rate per 100,000 population",,,,,P. unspecified,,,,,Undefined,Units,"Rate per 100,000 population",,0.001523274
 2017,"Rate per 100,000 population",,,,,P. unspecified,,,,,Undefined,Units,"Rate per 100,000 population",,0.0
-2000,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,3.449031265
-2001,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,3.442558235
-2002,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,3.252721265
-2003,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.857302778
-2004,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.753944913
-2005,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.885127435
-2006,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.870432664
-2007,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.5147150380000003
-2008,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.2062710759999997
-2009,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.391565013
-2010,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.7916111960000003
-2011,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.630949175
-2012,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.158385295
-2013,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.3305276630000002
-2014,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.450587608
-2015,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.140991049
-2016,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.455518331
-2017,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.704412185
+2018,"Rate per 100,000 population",,,,,P. unspecified,,,,,Undefined,Units,"Rate per 100,000 population",,0.0015052182152477099
+2000,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,3.449031265442948
+2001,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,3.4425582345519303
+2002,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,3.2527212651849315
+2003,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.857302777945553
+2004,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.7539449134954377
+2005,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.8851274345724938
+2006,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.870432664458406
+2007,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.514715037694225
+2008,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.2062710764396583
+2009,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.3915650128397647
+2010,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.7916111956101086
+2011,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.630949174565374
+2012,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.158385295478237
+2013,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.3305276629733784
+2014,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.450587608491523
+2015,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.140991049090836
+2016,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.4555183311298148
+2017,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.704412184882036
+2018,"Rate per 100,000 population",,,,,,Non-fatal,,,,Undefined,Units,"Rate per 100,000 population",,2.52425094697041
 2014,"Rate per 100,000 population",,,,,,,,,,Undefined,Units,"Rate per 100,000 population",,2.449039543
 2014,"Rate per 100,000 population",,4 and under,,,,,,,,Undefined,Units,"Rate per 100,000 population",,0.9189646990000001
 2014,"Rate per 100,000 population",,5 to 9,,,,,,,,Undefined,Units,"Rate per 100,000 population",,1.088291538
@@ -250,7 +260,7 @@ Year,Units,Sex,Age,Country,Region,Malaria species,Fatality,Country of birth,Ethn
 2015,"Rate per 100,000 population",Male,15 to 19,,,,,,,,Undefined,Units,"Rate per 100,000 population",,3.3091190669999997
 2015,"Rate per 100,000 population",Male,20 to 24,,,,,,,,Undefined,Units,"Rate per 100,000 population",,3.748189327
 2015,"Rate per 100,000 population",Male,25 to 29,,,,,,,,Undefined,Units,"Rate per 100,000 population",,3.0055584889999998
-2015,"Rate per 100,000 population",Male,30 to 34,,,,,,,,Undefined,Units,"Rate per 100,000 population",,4.680853017
+2015,"Rate per 100,000 population",Male,30 to 34,,,,,,,,Undefined,Units,"Rate per 100,000 population",,4.680853016626206
 2015,"Rate per 100,000 population",Male,35 to 39,,,,,,,,Undefined,Units,"Rate per 100,000 population",,4.828587604
 2015,"Rate per 100,000 population",Male,40 to 44,,,,,,,,Undefined,Units,"Rate per 100,000 population",,5.5906865739999905
 2015,"Rate per 100,000 population",Male,45 to 49,,,,,,,,Undefined,Units,"Rate per 100,000 population",,5.082422879
@@ -371,234 +381,349 @@ Year,Units,Sex,Age,Country,Region,Malaria species,Fatality,Country of birth,Ethn
 2017,"Rate per 100,000 population",Female,60 to 64,,,,,,,,Undefined,Units,"Rate per 100,000 population",,1.525713448
 2017,"Rate per 100,000 population",Female,65 to 69,,,,,,,,Undefined,Units,"Rate per 100,000 population",,1.22808702
 2017,"Rate per 100,000 population",Female,70 and over,,,,,,,,Undefined,Units,"Rate per 100,000 population",,0.5269586789999989
-2014,"Rate per 100,000 population",,,England,London,,,,,,Undefined,Units,"Rate per 100,000 population",E12000007,9.122422916
-2014,"Rate per 100,000 population",,,England,South East,,,,,,Undefined,Units,"Rate per 100,000 population",E12000008,1.4987595790000001
-2014,"Rate per 100,000 population",,,England,West Midlands,,,,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.012798246
-2014,"Rate per 100,000 population",,,England,North West,,,,,,Undefined,Units,"Rate per 100,000 population",E12000002,1.696334767
-2014,"Rate per 100,000 population",,,England,East of England,,,,,,Undefined,Units,"Rate per 100,000 population",E12000006,1.8779342719999998
-2014,"Rate per 100,000 population",,,England,Yorkshire and The Humber,,,,,,Undefined,Units,"Rate per 100,000 population",E12000003,1.809661991
-2014,"Rate per 100,000 population",,,England,South West,,,,,,Undefined,Units,"Rate per 100,000 population",E12000009,1.087902925
-2014,"Rate per 100,000 population",,,England,East Midlands,,,,,,Undefined,Units,"Rate per 100,000 population",E12000004,1.03506967
-2014,"Rate per 100,000 population",,,England,North East,,,,,,Undefined,Units,"Rate per 100,000 population",E12000001,0.38186361700000004
-2014,"Rate per 100,000 population",,,England,,,,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.715559352
-2014,"Rate per 100,000 population",,,Scotland,,,,,,,Undefined,Units,"Rate per 100,000 population",S92000003,1.421198295
-2014,"Rate per 100,000 population",,,Wales,,,,,,,Undefined,Units,"Rate per 100,000 population",W92000004,1.067257949
-2014,"Rate per 100,000 population",,,Northern Ireland,,,,,,,Undefined,Units,"Rate per 100,000 population",N92000002,0.108666241
-2015,"Rate per 100,000 population",,,England,London,,,,,,Undefined,Units,"Rate per 100,000 population",E12000007,7.857453562000001
-2015,"Rate per 100,000 population",,,England,South East,,,,,,Undefined,Units,"Rate per 100,000 population",E12000008,1.340873212
-2015,"Rate per 100,000 population",,,England,West Midlands,,,,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.119883955
-2015,"Rate per 100,000 population",,,England,North West,,,,,,Undefined,Units,"Rate per 100,000 population",E12000002,1.5888107580000002
-2015,"Rate per 100,000 population",,,England,East of England,,,,,,Undefined,Units,"Rate per 100,000 population",E12000006,1.8927019059999999
-2015,"Rate per 100,000 population",,,England,Yorkshire and The Humber,,,,,,Undefined,Units,"Rate per 100,000 population",E12000003,1.2615461620000001
-2015,"Rate per 100,000 population",,,England,South West,,,,,,Undefined,Units,"Rate per 100,000 population",E12000009,0.950360132
-2015,"Rate per 100,000 population",,,England,East Midlands,,,,,,Undefined,Units,"Rate per 100,000 population",E12000004,0.833792097
-2015,"Rate per 100,000 population",,,England,North East,,,,,,Undefined,Units,"Rate per 100,000 population",E12000001,0.304810791
-2015,"Rate per 100,000 population",,,England,,,,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.407535004
-2015,"Rate per 100,000 population",,,Scotland,,,,,,,Undefined,Units,"Rate per 100,000 population",S92000003,0.9119672440000001
-2015,"Rate per 100,000 population",,,Wales,,,,,,,Undefined,Units,"Rate per 100,000 population",W92000004,0.677619142999999
-2015,"Rate per 100,000 population",,,Northern Ireland,,,,,,,Undefined,Units,"Rate per 100,000 population",N92000002,0.594074057
-2016,"Rate per 100,000 population",,,England,London,,,,,,Undefined,Units,"Rate per 100,000 population",E12000007,9.612688475
-2016,"Rate per 100,000 population",,,England,South East,,,,,,Undefined,Units,"Rate per 100,000 population",E12000008,1.5614017930000001
-2016,"Rate per 100,000 population",,,England,West Midlands,,,,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.030710888
-2016,"Rate per 100,000 population",,,England,North West,,,,,,Undefined,Units,"Rate per 100,000 population",E12000002,1.481181861
-2016,"Rate per 100,000 population",,,England,East of England,,,,,,Undefined,Units,"Rate per 100,000 population",E12000006,1.990535168
-2016,"Rate per 100,000 population",,,England,Yorkshire and The Humber,,,,,,Undefined,Units,"Rate per 100,000 population",E12000003,1.2533707379999999
-2016,"Rate per 100,000 population",,,England,South West,,,,,,Undefined,Units,"Rate per 100,000 population",E12000009,1.178182311
-2016,"Rate per 100,000 population",,,England,East Midlands,,,,,,Undefined,Units,"Rate per 100,000 population",E12000004,0.9099778009999999
-2016,"Rate per 100,000 population",,,England,North East,,,,,,Undefined,Units,"Rate per 100,000 population",E12000001,0.834411430999999
-2016,"Rate per 100,000 population",,,England,,,,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.7665161510000003
-2016,"Rate per 100,000 population",,,Scotland,,,,,,,Undefined,Units,"Rate per 100,000 population",S92000003,1.073140045
-2016,"Rate per 100,000 population",,,Wales,,,,,,,Undefined,Units,"Rate per 100,000 population",W92000004,0.8030451470000001
-2016,"Rate per 100,000 population",,,Northern Ireland,,,,,,,Undefined,Units,"Rate per 100,000 population",N92000002,0.32221045
-2017,"Rate per 100,000 population",,,England,London,,,,,,Undefined,Units,"Rate per 100,000 population",E12000007,10.44759088
-2017,"Rate per 100,000 population",,,England,South East,,,,,,Undefined,Units,"Rate per 100,000 population",E12000008,1.706893371
-2017,"Rate per 100,000 population",,,England,West Midlands,,,,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.7471093069999997
-2017,"Rate per 100,000 population",,,England,North West,,,,,,Undefined,Units,"Rate per 100,000 population",E12000002,1.763418895
-2017,"Rate per 100,000 population",,,England,East of England,,,,,,Undefined,Units,"Rate per 100,000 population",E12000006,1.8481195869999998
-2017,"Rate per 100,000 population",,,England,Yorkshire and The Humber,,,,,,Undefined,Units,"Rate per 100,000 population",E12000003,1.449506709
-2017,"Rate per 100,000 population",,,England,South West,,,,,,Undefined,Units,"Rate per 100,000 population",E12000009,1.313111181
-2017,"Rate per 100,000 population",,,England,East Midlands,,,,,,Undefined,Units,"Rate per 100,000 population",E12000004,1.04785205
-2017,"Rate per 100,000 population",,,England,North East,,,,,,Undefined,Units,"Rate per 100,000 population",E12000001,0.983088236
-2017,"Rate per 100,000 population",,,England,,,,,,,Undefined,Units,"Rate per 100,000 population",E92000001,3.070869299
-2017,"Rate per 100,000 population",,,Scotland,,,,,,,Undefined,Units,"Rate per 100,000 population",S92000003,0.921692966
-2017,"Rate per 100,000 population",,,Wales,,,,,,,Undefined,Units,"Rate per 100,000 population",W92000004,0.767959452
-2017,"Rate per 100,000 population",,,Northern Ireland,,,,,,,Undefined,Units,"Rate per 100,000 population",N92000002,0.5345209679999989
+2018,"Rate per 100,000 population",,,,,,,,,,Undefined,Units,"Rate per 100,000 population",,2.525756165185657
+2018,"Rate per 100,000 population",,4 and under,,,,,,,,Undefined,Units,"Rate per 100,000 population",,0.7920229492481913
+2018,"Rate per 100,000 population",,5 to 9,,,,,,,,Undefined,Units,"Rate per 100,000 population",,1.1115073876580153
+2018,"Rate per 100,000 population",,10 to 14,,,,,,,,Undefined,Units,"Rate per 100,000 population",,1.788077101884633
+2018,"Rate per 100,000 population",,15 to 19,,,,,,,,Undefined,Units,"Rate per 100,000 population",,2.1257750221434897
+2018,"Rate per 100,000 population",,20 to 24,,,,,,,,Undefined,Units,"Rate per 100,000 population",,2.2463452082947493
+2018,"Rate per 100,000 population",,25 to 29,,,,,,,,Undefined,Units,"Rate per 100,000 population",,2.6727484579235394
+2018,"Rate per 100,000 population",,30 to 34,,,,,,,,Undefined,Units,"Rate per 100,000 population",,3.6071504027125765
+2018,"Rate per 100,000 population",,35 to 39,,,,,,,,Undefined,Units,"Rate per 100,000 population",,4.00253051414906
+2018,"Rate per 100,000 population",,40 to 44,,,,,,,,Undefined,Units,"Rate per 100,000 population",,4.9832322997592025
+2018,"Rate per 100,000 population",,45 to 49,,,,,,,,Undefined,Units,"Rate per 100,000 population",,4.76993388649776
+2018,"Rate per 100,000 population",,50 to 54,,,,,,,,Undefined,Units,"Rate per 100,000 population",,3.7653220259571887
+2018,"Rate per 100,000 population",,55 to 59,,,,,,,,Undefined,Units,"Rate per 100,000 population",,3.1906321177878905
+2018,"Rate per 100,000 population",,60 to 64,,,,,,,,Undefined,Units,"Rate per 100,000 population",,2.150766557703569
+2018,"Rate per 100,000 population",,65 to 69,,,,,,,,Undefined,Units,"Rate per 100,000 population",,1.4426891726177595
+2018,"Rate per 100,000 population",,70 and over,,,,,,,,Undefined,Units,"Rate per 100,000 population",,0.5473752104258557
+2018,"Rate per 100,000 population",Male,,,,,,,,,Undefined,Units,"Rate per 100,000 population",,3.2692692774506233
+2018,"Rate per 100,000 population",Male,4 and under,,,,,,,,Undefined,Units,"Rate per 100,000 population",,0.9463452147805176
+2018,"Rate per 100,000 population",Male,5 to 9,,,,,,,,Undefined,Units,"Rate per 100,000 population",,1.2274393113876627
+2018,"Rate per 100,000 population",Male,10 to 14,,,,,,,,Undefined,Units,"Rate per 100,000 population",,1.4161010691563072
+2018,"Rate per 100,000 population",Male,15 to 19,,,,,,,,Undefined,Units,"Rate per 100,000 population",,2.5474488891530687
+2018,"Rate per 100,000 population",Male,20 to 24,,,,,,,,Undefined,Units,"Rate per 100,000 population",,2.51038439098772
+2018,"Rate per 100,000 population",Male,25 to 29,,,,,,,,Undefined,Units,"Rate per 100,000 population",,2.9659327727720397
+2018,"Rate per 100,000 population",Male,30 to 34,,,,,,,,Undefined,Units,"Rate per 100,000 population",,4.406302451297993
+2018,"Rate per 100,000 population",Male,35 to 39,,,,,,,,Undefined,Units,"Rate per 100,000 population",,4.936959183805297
+2018,"Rate per 100,000 population",Male,40 to 44,,,,,,,,Undefined,Units,"Rate per 100,000 population",,7.014399199046446
+2018,"Rate per 100,000 population",Male,45 to 49,,,,,,,,Undefined,Units,"Rate per 100,000 population",,6.747589760937393
+2018,"Rate per 100,000 population",Male,50 to 54,,,,,,,,Undefined,Units,"Rate per 100,000 population",,5.130039992574486
+2018,"Rate per 100,000 population",Male,55 to 59,,,,,,,,Undefined,Units,"Rate per 100,000 population",,4.9178041058935635
+2018,"Rate per 100,000 population",Male,60 to 64,,,,,,,,Undefined,Units,"Rate per 100,000 population",,2.8337520989212854
+2018,"Rate per 100,000 population",Male,65 to 69,,,,,,,,Undefined,Units,"Rate per 100,000 population",,2.310402587650898
+2018,"Rate per 100,000 population",Male,70 and over,,,,,,,,Undefined,Units,"Rate per 100,000 population",,0.6148322122892662
+2018,"Rate per 100,000 population",Female,,,,,,,,,Undefined,Units,"Rate per 100,000 population",,1.8011405321175458
+2018,"Rate per 100,000 population",Female,4 and under,,,,,,,,Undefined,Units,"Rate per 100,000 population",,0.6294903646008192
+2018,"Rate per 100,000 population",Female,5 to 9,,,,,,,,Undefined,Units,"Rate per 100,000 population",,0.9899554173577793
+2018,"Rate per 100,000 population",Female,10 to 14,,,,,,,,Undefined,Units,"Rate per 100,000 population",,2.1789572254753047
+2018,"Rate per 100,000 population",Female,15 to 19,,,,,,,,Undefined,Units,"Rate per 100,000 population",,1.6806609703464177
+2018,"Rate per 100,000 population",Female,20 to 24,,,,,,,,Undefined,Units,"Rate per 100,000 population",,1.9670422078081744
+2018,"Rate per 100,000 population",Female,25 to 29,,,,,,,,Undefined,Units,"Rate per 100,000 population",,2.371923939112265
+2018,"Rate per 100,000 population",Female,30 to 34,,,,,,,,Undefined,Units,"Rate per 100,000 population",,2.8134168724629007
+2018,"Rate per 100,000 population",Female,35 to 39,,,,,,,,Undefined,Units,"Rate per 100,000 population",,3.0840289027932237
+2018,"Rate per 100,000 population",Female,40 to 44,,,,,,,,Undefined,Units,"Rate per 100,000 population",,2.9824720119855614
+2018,"Rate per 100,000 population",Female,45 to 49,,,,,,,,Undefined,Units,"Rate per 100,000 population",,2.8454060263073107
+2018,"Rate per 100,000 population",Female,50 to 54,,,,,,,,Undefined,Units,"Rate per 100,000 population",,2.4430742635605363
+2018,"Rate per 100,000 population",Female,55 to 59,,,,,,,,Undefined,Units,"Rate per 100,000 population",,1.5144179472294184
+2018,"Rate per 100,000 population",Female,60 to 64,,,,,,,,Undefined,Units,"Rate per 100,000 population",,1.494628678187763
+2018,"Rate per 100,000 population",Female,65 to 69,,,,,,,,Undefined,Units,"Rate per 100,000 population",,0.627961408917052
+2018,"Rate per 100,000 population",Female,70 and over,,,,,,,,Undefined,Units,"Rate per 100,000 population",,0.4932569716734853
+2014,"Rate per 100,000 population",,,England,London,,,,,,Undefined,Units,"Rate per 100,000 population",E12000007,9.122422915526364
+2014,"Rate per 100,000 population",,,England,South East,,,,,,Undefined,Units,"Rate per 100,000 population",E12000008,1.4987595792429689
+2014,"Rate per 100,000 population",,,England,West Midlands,,,,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.0127982463801573
+2014,"Rate per 100,000 population",,,England,North West,,,,,,Undefined,Units,"Rate per 100,000 population",E12000002,1.6963347673203493
+2014,"Rate per 100,000 population",,,England,East of England,,,,,,Undefined,Units,"Rate per 100,000 population",E12000006,1.8779342723004693
+2014,"Rate per 100,000 population",,,England,Yorkshire and The Humber,,,,,,Undefined,Units,"Rate per 100,000 population",E12000003,1.8096619905871456
+2014,"Rate per 100,000 population",,,England,South West,,,,,,Undefined,Units,"Rate per 100,000 population",E12000009,1.0879029251312582
+2014,"Rate per 100,000 population",,,England,East Midlands,,,,,,Undefined,Units,"Rate per 100,000 population",E12000004,1.035069669892562
+2014,"Rate per 100,000 population",,,England,North East,,,,,,Undefined,Units,"Rate per 100,000 population",E12000001,0.38186361664558777
+2014,"Rate per 100,000 population",,,England,,,,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.715559352388251
+2014,"Rate per 100,000 population",,,Scotland,,,,,,,Undefined,Units,"Rate per 100,000 population",S92000003,1.4211982945620465
+2014,"Rate per 100,000 population",,,Wales,,,,,,,Undefined,Units,"Rate per 100,000 population",W92000004,1.0672579491312522
+2014,"Rate per 100,000 population",,,Northern Ireland,,,,,,,Undefined,Units,"Rate per 100,000 population",N92000002,0.10866624141944192
+2015,"Rate per 100,000 population",,,England,London,,,,,,Undefined,Units,"Rate per 100,000 population",E12000007,7.857453561987923
+2015,"Rate per 100,000 population",,,England,South East,,,,,,Undefined,Units,"Rate per 100,000 population",E12000008,1.340873212392529
+2015,"Rate per 100,000 population",,,England,West Midlands,,,,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.119883955467146
+2015,"Rate per 100,000 population",,,England,North West,,,,,,Undefined,Units,"Rate per 100,000 population",E12000002,1.588810758422997
+2015,"Rate per 100,000 population",,,England,East of England,,,,,,Undefined,Units,"Rate per 100,000 population",E12000006,1.8927019060331107
+2015,"Rate per 100,000 population",,,England,Yorkshire and The Humber,,,,,,Undefined,Units,"Rate per 100,000 population",E12000003,1.2615461621075688
+2015,"Rate per 100,000 population",,,England,South West,,,,,,Undefined,Units,"Rate per 100,000 population",E12000009,0.9503601316614304
+2015,"Rate per 100,000 population",,,England,East Midlands,,,,,,Undefined,Units,"Rate per 100,000 population",E12000004,0.8337920971474689
+2015,"Rate per 100,000 population",,,England,North East,,,,,,Undefined,Units,"Rate per 100,000 population",E12000001,0.3048107906067983
+2015,"Rate per 100,000 population",,,England,,,,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.4075350041261205
+2015,"Rate per 100,000 population",,,Scotland,,,,,,,Undefined,Units,"Rate per 100,000 population",S92000003,0.9119672436255352
+2015,"Rate per 100,000 population",,,Wales,,,,,,,Undefined,Units,"Rate per 100,000 population",W92000004,0.6776191431925412
+2015,"Rate per 100,000 population",,,Northern Ireland,,,,,,,Undefined,Units,"Rate per 100,000 population",N92000002,0.5940740572719795
+2016,"Rate per 100,000 population",,,England,London,,,,,,Undefined,Units,"Rate per 100,000 population",E12000007,9.612688475116306
+2016,"Rate per 100,000 population",,,England,South East,,,,,,Undefined,Units,"Rate per 100,000 population",E12000008,1.561401793308718
+2016,"Rate per 100,000 population",,,England,West Midlands,,,,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.0307108882071283
+2016,"Rate per 100,000 population",,,England,North West,,,,,,Undefined,Units,"Rate per 100,000 population",E12000002,1.4811818613084982
+2016,"Rate per 100,000 population",,,England,East of England,,,,,,Undefined,Units,"Rate per 100,000 population",E12000006,1.9905351684327228
+2016,"Rate per 100,000 population",,,England,Yorkshire and The Humber,,,,,,Undefined,Units,"Rate per 100,000 population",E12000003,1.2533707378482943
+2016,"Rate per 100,000 population",,,England,South West,,,,,,Undefined,Units,"Rate per 100,000 population",E12000009,1.187950164576788
+2016,"Rate per 100,000 population",,,England,East Midlands,,,,,,Undefined,Units,"Rate per 100,000 population",E12000004,0.909977800774116
+2016,"Rate per 100,000 population",,,England,North East,,,,,,Undefined,Units,"Rate per 100,000 population",E12000001,0.8344114308297578
+2016,"Rate per 100,000 population",,,England,,,,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.7665161511800296
+2016,"Rate per 100,000 population",,,Scotland,,,,,,,Undefined,Units,"Rate per 100,000 population",S92000003,1.0731400447758432
+2016,"Rate per 100,000 population",,,Wales,,,,,,,Undefined,Units,"Rate per 100,000 population",W92000004,0.8030451471981755
+2016,"Rate per 100,000 population",,,Northern Ireland,,,,,,,Undefined,Units,"Rate per 100,000 population",N92000002,0.3222104496070912
+2017,"Rate per 100,000 population",,,England,London,,,,,,Undefined,Units,"Rate per 100,000 population",E12000007,10.44759088412568
+2017,"Rate per 100,000 population",,,England,South East,,,,,,Undefined,Units,"Rate per 100,000 population",E12000008,1.7068933714723056
+2017,"Rate per 100,000 population",,,England,West Midlands,,,,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.7471093073087096
+2017,"Rate per 100,000 population",,,England,North West,,,,,,Undefined,Units,"Rate per 100,000 population",E12000002,1.7634188945099398
+2017,"Rate per 100,000 population",,,England,East of England,,,,,,Undefined,Units,"Rate per 100,000 population",E12000006,1.8481195869549991
+2017,"Rate per 100,000 population",,,England,Yorkshire and The Humber,,,,,,Undefined,Units,"Rate per 100,000 population",E12000003,1.4495067090142804
+2017,"Rate per 100,000 population",,,England,South West,,,,,,Undefined,Units,"Rate per 100,000 population",E12000009,1.3131111813035994
+2017,"Rate per 100,000 population",,,England,East Midlands,,,,,,Undefined,Units,"Rate per 100,000 population",E12000004,1.0478520499967936
+2017,"Rate per 100,000 population",,,England,North East,,,,,,Undefined,Units,"Rate per 100,000 population",E12000001,0.9830882355721404
+2017,"Rate per 100,000 population",,,England,,,,,,,Undefined,Units,"Rate per 100,000 population",E92000001,3.070869298732476
+2017,"Rate per 100,000 population",,,Scotland,,,,,,,Undefined,Units,"Rate per 100,000 population",S92000003,0.9216929656392864
+2017,"Rate per 100,000 population",,,Wales,,,,,,,Undefined,Units,"Rate per 100,000 population",W92000004,0.7679594517409482
+2017,"Rate per 100,000 population",,,Northern Ireland,,,,,,,Undefined,Units,"Rate per 100,000 population",N92000002,0.5345209676539981
+2018,"Rate per 100,000 population",,,England,London,,,,,,Undefined,Units,"Rate per 100,000 population",E12000007,9.160222050068919
+2018,"Rate per 100,000 population",,,England,South East,,,,,,Undefined,Units,"Rate per 100,000 population",E12000008,1.7627174314688856
+2018,"Rate per 100,000 population",,,England,West Midlands,,,,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.033637379068482
+2018,"Rate per 100,000 population",,,England,North West,,,,,,Undefined,Units,"Rate per 100,000 population",E12000002,1.8787472951867181
+2018,"Rate per 100,000 population",,,England,East of England,,,,,,Undefined,Units,"Rate per 100,000 population",E12000006,2.160867210839684
+2018,"Rate per 100,000 population",,,England,Yorkshire and The Humber,,,,,,Undefined,Units,"Rate per 100,000 population",E12000003,1.6242017003019371
+2018,"Rate per 100,000 population",,,England,South West,,,,,,Undefined,Units,"Rate per 100,000 population",E12000009,0.9286153719774238
+2018,"Rate per 100,000 population",,,England,East Midlands,,,,,,Undefined,Units,"Rate per 100,000 population",E12000004,1.1448437590091398
+2018,"Rate per 100,000 population",,,England,North East,,,,,,Undefined,Units,"Rate per 100,000 population",E12000001,1.2415774956930428
+2018,"Rate per 100,000 population",,,England,,,,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.8529483926467316
+2018,"Rate per 100,000 population",,,Scotland,,,,,,,Undefined,Units,"Rate per 100,000 population",S92000003,0.9562163255548812
+2018,"Rate per 100,000 population",,,Wales,,,,,,,Undefined,Units,"Rate per 100,000 population",W92000004,0.7328035694543258
+2018,"Rate per 100,000 population",,,Northern Ireland,,,,,,,Undefined,Units,"Rate per 100,000 population",N92000002,0.5845961052081667
 2014,Number of cases,,,,,,,Africa,,,Undefined,Units,Number,,403.0
-2014,Number of cases,,,,,,,United Kingdom,,,Undefined,Units,Number,,189.0
+2014,Number of cases,,,,,,,UK,,,Undefined,Units,Number,,189.0
 2014,Number of cases,,,,,,,Indian subcontinent,,,Undefined,Units,Number,,46.0
-2014,Number of cases,,,,,,,Europe (non UK),,,Undefined,Units,Number,,10.0
+2014,Number of cases,,,,,,,Europe (non-UK),,,Undefined,Units,Number,,10.0
 2014,Number of cases,,,,,,,Other,,,Undefined,Units,Number,,9.0
 2015,Number of cases,,,,,,,Africa,,,Undefined,Units,Number,,345.0
-2015,Number of cases,,,,,,,United Kingdom,,,Undefined,Units,Number,,130.0
+2015,Number of cases,,,,,,,UK,,,Undefined,Units,Number,,130.0
 2015,Number of cases,,,,,,,Indian subcontinent,,,Undefined,Units,Number,,37.0
-2015,Number of cases,,,,,,,Europe (non UK),,,Undefined,Units,Number,,11.0
+2015,Number of cases,,,,,,,Europe (non-UK),,,Undefined,Units,Number,,11.0
 2015,Number of cases,,,,,,,Other,,,Undefined,Units,Number,,8.0
 2016,Number of cases,,,,,,,Africa,,,Undefined,Units,Number,,465.0
-2016,Number of cases,,,,,,,United Kingdom,,,Undefined,Units,Number,,162.0
+2016,Number of cases,,,,,,,UK,,,Undefined,Units,Number,,162.0
 2016,Number of cases,,,,,,,Indian subcontinent,,,Undefined,Units,Number,,35.0
-2016,Number of cases,,,,,,,Europe (non UK),,,Undefined,Units,Number,,15.0
+2016,Number of cases,,,,,,,Europe (non-UK),,,Undefined,Units,Number,,15.0
 2016,Number of cases,,,,,,,Other,,,Undefined,Units,Number,,16.0
 2017,Number of cases,,,,,,,Africa,,,Undefined,Units,Number,,525.0
-2017,Number of cases,,,,,,,United Kingdom,,,Undefined,Units,Number,,199.0
+2017,Number of cases,,,,,,,UK,,,Undefined,Units,Number,,199.0
 2017,Number of cases,,,,,,,Indian subcontinent,,,Undefined,Units,Number,,45.0
-2017,Number of cases,,,,,,,Europe (non UK),,,Undefined,Units,Number,,22.0
+2017,Number of cases,,,,,,,Europe (non-UK),,,Undefined,Units,Number,,22.0
 2017,Number of cases,,,,,,,Other,,,Undefined,Units,Number,,13.0
+2018,Number of cases,,,,,,,Africa,,,Undefined,Units,Number,,485.0
+2018,Number of cases,,,,,,,UK,,,Undefined,Units,Number,,148.0
+2018,Number of cases,,,,,,,Indian subcontinent,,,Undefined,Units,Number,,35.0
+2018,Number of cases,,,,,,,Europe (non-UK),,,Undefined,Units,Number,,17.0
+2018,Number of cases,,,,,,,Other,,,Undefined,Units,Number,,20.0
 2014,Number of cases,,,,,,,,Black African/African descent,,Undefined,Units,Number,,680.0
 2014,Number of cases,,,,,,,,Indian/Pakistani/Bangladesh (ISC)/ISC descent,,Undefined,Units,Number,,90.0
-2014,Number of cases,,,,,,,,Other/mixed,,Undefined,Units,Number,,57.0
+2014,Number of cases,,,,,,,,Other/Mixed,,Undefined,Units,Number,,57.0
 2014,Number of cases,,,,,,,,White British,,Undefined,Units,Number,,145.0
 2015,Number of cases,,,,,,,,Black African/African descent,,Undefined,Units,Number,,518.0
 2015,Number of cases,,,,,,,,Indian/Pakistani/Bangladesh (ISC)/ISC descent,,Undefined,Units,Number,,72.0
-2015,Number of cases,,,,,,,,Other/mixed,,Undefined,Units,Number,,42.0
+2015,Number of cases,,,,,,,,Other/Mixed,,Undefined,Units,Number,,42.0
 2015,Number of cases,,,,,,,,White British,,Undefined,Units,Number,,93.0
 2016,Number of cases,,,,,,,,Black African/African descent,,Undefined,Units,Number,,763.0
 2016,Number of cases,,,,,,,,Indian/Pakistani/Bangladesh (ISC)/ISC descent,,Undefined,Units,Number,,80.0
-2016,Number of cases,,,,,,,,Other/mixed,,Undefined,Units,Number,,63.0
+2016,Number of cases,,,,,,,,Other/Mixed,,Undefined,Units,Number,,63.0
 2016,Number of cases,,,,,,,,White British,,Undefined,Units,Number,,105.0
 2017,Number of cases,,,,,,,,Black African/African descent,,Undefined,Units,Number,,900.0
 2017,Number of cases,,,,,,,,Indian/Pakistani/Bangladesh (ISC)/ISC descent,,Undefined,Units,Number,,84.0
-2017,Number of cases,,,,,,,,Other/mixed,,Undefined,Units,Number,,77.0
+2017,Number of cases,,,,,,,,Other/Mixed,,Undefined,Units,Number,,77.0
 2017,Number of cases,,,,,,,,White British,,Undefined,Units,Number,,131.0
-2014,Number of cases,,,,,,,,,Western Africa,Undefined,Units,Number,,619.0
-2014,Number of cases,,,,,,,,,Eastern Africa,Undefined,Units,Number,,127.0
-2014,Number of cases,,,,,,,,,Middle Africa,Undefined,Units,Number,,76.0
-2014,Number of cases,,,,,,,,,Northern Africa,Undefined,Units,Number,,14.0
+2018,Number of cases,,,,,,,,Black African/African descent,,Undefined,Units,Number,,839.0
+2018,Number of cases,,,,,,,,Indian/Pakistani/Bangladesh (ISC)/ISC descent,,Undefined,Units,Number,,88.0
+2018,Number of cases,,,,,,,,Other/Mixed,,Undefined,Units,Number,,72.0
+2018,Number of cases,,,,,,,,White British,,Undefined,Units,Number,,59.0
+2014,Number of cases,,,,,,,,,Western Africa,Undefined,Units,Number,,631.0
+2014,Number of cases,,,,,,,,,Eastern Africa,Undefined,Units,Number,,131.0
+2014,Number of cases,,,,,,,,,Middle Africa,Undefined,Units,Number,,79.0
+2014,Number of cases,,,,,,,,,Northern Africa,Undefined,Units,Number,,15.0
 2014,Number of cases,,,,,,,,,Southern Africa,Undefined,Units,Number,,4.0
 2014,Number of cases,,,,,,,,,Africa unspecified,Undefined,Units,Number,,8.0
-2014,Number of cases,,,,,,,,,Southern Asia,Undefined,Units,Number,,90.0
-2014,Number of cases,,,,,,,,,South-Eastern Asia,Undefined,Units,Number,,3.0
+2014,Number of cases,,,,,,,,,Southern Asia,Undefined,Units,Number,,91.0
+2014,Number of cases,,,,,,,,,South-Eastern Asia,Undefined,Units,Number,,4.0
 2014,Number of cases,,,,,,,,,Western Asia,Undefined,Units,Number,,1.0
 2014,Number of cases,,,,,,,,,Caribbean,Undefined,Units,Number,,0.0
 2014,Number of cases,,,,,,,,,Central America,Undefined,Units,Number,,1.0
-2014,Number of cases,,,,,,,,,South America,Undefined,Units,Number,,6.0
+2014,Number of cases,,,,,,,,,South America,Undefined,Units,Number,,8.0
 2014,Number of cases,,,,,,,,,Oceania,Undefined,Units,Number,,1.0
-2014,Number of cases,,,,,,,,,Not stated,Undefined,Units,Number,,22.0
-2015,Number of cases,,,,,,,,,Western Africa,Undefined,Units,Number,,473.0
-2015,Number of cases,,,,,,,,,Eastern Africa,Undefined,Units,Number,,77.0
-2015,Number of cases,,,,,,,,,Middle Africa,Undefined,Units,Number,,71.0
+2014,Number of cases,,,,,,,,,Not stated,Undefined,Units,Number,,26.0
+2015,Number of cases,,,,,,,,,Western Africa,Undefined,Units,Number,,482.0
+2015,Number of cases,,,,,,,,,Eastern Africa,Undefined,Units,Number,,82.0
+2015,Number of cases,,,,,,,,,Middle Africa,Undefined,Units,Number,,72.0
 2015,Number of cases,,,,,,,,,Northern Africa,Undefined,Units,Number,,9.0
 2015,Number of cases,,,,,,,,,Southern Africa,Undefined,Units,Number,,1.0
 2015,Number of cases,,,,,,,,,Africa unspecified,Undefined,Units,Number,,5.0
-2015,Number of cases,,,,,,,,,Southern Asia,Undefined,Units,Number,,78.0
+2015,Number of cases,,,,,,,,,Southern Asia,Undefined,Units,Number,,81.0
 2015,Number of cases,,,,,,,,,South-Eastern Asia,Undefined,Units,Number,,1.0
 2015,Number of cases,,,,,,,,,Western Asia,Undefined,Units,Number,,1.0
 2015,Number of cases,,,,,,,,,Caribbean,Undefined,Units,Number,,0.0
 2015,Number of cases,,,,,,,,,Central America,Undefined,Units,Number,,0.0
 2015,Number of cases,,,,,,,,,South America,Undefined,Units,Number,,7.0
 2015,Number of cases,,,,,,,,,Oceania,Undefined,Units,Number,,0.0
-2015,Number of cases,,,,,,,,,Not stated,Undefined,Units,Number,,2.0
-2016,Number of cases,,,,,,,,,Western Africa,Undefined,Units,Number,,621.0
-2016,Number of cases,,,,,,,,,Eastern Africa,Undefined,Units,Number,,142.0
-2016,Number of cases,,,,,,,,,Middle Africa,Undefined,Units,Number,,113.0
+2015,Number of cases,,,,,,,,,Not stated,Undefined,Units,Number,,3.0
+2016,Number of cases,,,,,,,,,Western Africa,Undefined,Units,Number,,638.0
+2016,Number of cases,,,,,,,,,Eastern Africa,Undefined,Units,Number,,147.0
+2016,Number of cases,,,,,,,,,Middle Africa,Undefined,Units,Number,,120.0
 2016,Number of cases,,,,,,,,,Northern Africa,Undefined,Units,Number,,17.0
 2016,Number of cases,,,,,,,,,Southern Africa,Undefined,Units,Number,,3.0
 2016,Number of cases,,,,,,,,,Africa unspecified,Undefined,Units,Number,,6.0
 2016,Number of cases,,,,,,,,,Southern Asia,Undefined,Units,Number,,82.0
 2016,Number of cases,,,,,,,,,South-Eastern Asia,Undefined,Units,Number,,2.0
-2016,Number of cases,,,,,,,,,Western Asia,Undefined,Units,Number,,0.0
+2016,Number of cases,,,,,,,,,Western Asia,Undefined,Units,Number,,
 2016,Number of cases,,,,,,,,,Caribbean,Undefined,Units,Number,,2.0
-2016,Number of cases,,,,,,,,,Central America,Undefined,Units,Number,,0.0
-2016,Number of cases,,,,,,,,,South America,Undefined,Units,Number,,2.0
+2016,Number of cases,,,,,,,,,Central America,Undefined,Units,Number,,
+2016,Number of cases,,,,,,,,,South America,Undefined,Units,Number,,3.0
 2016,Number of cases,,,,,,,,,Oceania,Undefined,Units,Number,,2.0
-2016,Number of cases,,,,,,,,,Not stated,Undefined,Units,Number,,19.0
-2017,Number of cases,,,,,,,,,Western Africa,Undefined,Units,Number,,797.0
-2017,Number of cases,,,,,,,,,Eastern Africa,Undefined,Units,Number,,148.0
-2017,Number of cases,,,,,,,,,Middle Africa,Undefined,Units,Number,,91.0
+2016,Number of cases,,,,,,,,,Not stated,Undefined,Units,Number,,22.0
+2017,Number of cases,,,,,,,,,Western Africa,Undefined,Units,Number,,810.0
+2017,Number of cases,,,,,,,,,Eastern Africa,Undefined,Units,Number,,155.0
+2017,Number of cases,,,,,,,,,Middle Africa,Undefined,Units,Number,,94.0
 2017,Number of cases,,,,,,,,,Northern Africa,Undefined,Units,Number,,14.0
-2017,Number of cases,,,,,,,,,Southern Africa,Undefined,Units,Number,,7.0
+2017,Number of cases,,,,,,,,,Southern Africa,Undefined,Units,Number,,8.0
 2017,Number of cases,,,,,,,,,Africa unspecified,Undefined,Units,Number,,11.0
-2017,Number of cases,,,,,,,,,Southern Asia,Undefined,Units,Number,,87.0
-2017,Number of cases,,,,,,,,,South-Eastern Asia,Undefined,Units,Number,,3.0
+2017,Number of cases,,,,,,,,,Southern Asia,Undefined,Units,Number,,89.0
+2017,Number of cases,,,,,,,,,South-Eastern Asia,Undefined,Units,Number,,4.0
 2017,Number of cases,,,,,,,,,Western Asia,Undefined,Units,Number,,3.0
-2017,Number of cases,,,,,,,,,Caribbean,Undefined,Units,Number,,0.0
-2017,Number of cases,,,,,,,,,Central America,Undefined,Units,Number,,0.0
-2017,Number of cases,,,,,,,,,South America,Undefined,Units,Number,,5.0
+2017,Number of cases,,,,,,,,,Caribbean,Undefined,Units,Number,,
+2017,Number of cases,,,,,,,,,Central America,Undefined,Units,Number,,
+2017,Number of cases,,,,,,,,,South America,Undefined,Units,Number,,6.0
 2017,Number of cases,,,,,,,,,Oceania,Undefined,Units,Number,,2.0
-2017,Number of cases,,,,,,,,,Not stated,Undefined,Units,Number,,24.0
-2014,Percentage (%) of total cases,,,,,,,,,Western Africa,Undefined,Units,Percentage (%),,63.68312757
-2014,Percentage (%) of total cases,,,,,,,,,Eastern Africa,Undefined,Units,Percentage (%),,13.06584362
-2014,Percentage (%) of total cases,,,,,,,,,Middle Africa,Undefined,Units,Percentage (%),,7.818930041000001
-2014,Percentage (%) of total cases,,,,,,,,,Northern Africa,Undefined,Units,Percentage (%),,1.440329218
-2014,Percentage (%) of total cases,,,,,,,,,Southern Africa,Undefined,Units,Percentage (%),,0.411522634
-2014,Percentage (%) of total cases,,,,,,,,,Africa unspecified,Undefined,Units,Percentage (%),,0.823045267
-2014,Percentage (%) of total cases,,,,,,,,,Southern Asia,Undefined,Units,Percentage (%),,9.259259259
-2014,Percentage (%) of total cases,,,,,,,,,South-Eastern Asia,Undefined,Units,Percentage (%),,0.308641975
-2014,Percentage (%) of total cases,,,,,,,,,Western Asia,Undefined,Units,Percentage (%),,0.10288065800000001
-2014,Percentage (%) of total cases,,,,,,,,,Central America,Undefined,Units,Percentage (%),,0.10288065800000001
-2014,Percentage (%) of total cases,,,,,,,,,South America,Undefined,Units,Percentage (%),,0.617283951
-2014,Percentage (%) of total cases,,,,,,,,,Oceania,Undefined,Units,Percentage (%),,0.10288065800000001
-2014,Percentage (%) of total cases,,,,,,,,,Not stated,Undefined,Units,Percentage (%),,2.263374486
-2015,Percentage (%) of total cases,,,,,,,,,Western Africa,Undefined,Units,Percentage (%),,65.24137931
-2015,Percentage (%) of total cases,,,,,,,,,Eastern Africa,Undefined,Units,Percentage (%),,10.62068966
-2015,Percentage (%) of total cases,,,,,,,,,Middle Africa,Undefined,Units,Percentage (%),,9.793103448
-2015,Percentage (%) of total cases,,,,,,,,,Northern Africa,Undefined,Units,Percentage (%),,1.24137931
-2015,Percentage (%) of total cases,,,,,,,,,Southern Africa,Undefined,Units,Percentage (%),,0.137931034
-2015,Percentage (%) of total cases,,,,,,,,,Africa unspecified,Undefined,Units,Percentage (%),,0.689655172
-2015,Percentage (%) of total cases,,,,,,,,,Southern Asia,Undefined,Units,Percentage (%),,10.75862069
-2015,Percentage (%) of total cases,,,,,,,,,South-Eastern Asia,Undefined,Units,Percentage (%),,0.137931034
-2015,Percentage (%) of total cases,,,,,,,,,Western Asia,Undefined,Units,Percentage (%),,0.137931034
-2015,Percentage (%) of total cases,,,,,,,,,South America,Undefined,Units,Percentage (%),,0.9655172409999999
-2015,Percentage (%) of total cases,,,,,,,,,Not stated,Undefined,Units,Percentage (%),,0.275862069
-2016,Percentage (%) of total cases,,,,,,,,,Western Africa,Undefined,Units,Percentage (%),,61.42433234
-2016,Percentage (%) of total cases,,,,,,,,,Eastern Africa,Undefined,Units,Percentage (%),,14.04549951
-2016,Percentage (%) of total cases,,,,,,,,,Middle Africa,Undefined,Units,Percentage (%),,11.17705242
-2016,Percentage (%) of total cases,,,,,,,,,Northern Africa,Undefined,Units,Percentage (%),,1.6815034619999998
-2016,Percentage (%) of total cases,,,,,,,,,Southern Africa,Undefined,Units,Percentage (%),,0.296735905
-2016,Percentage (%) of total cases,,,,,,,,,Africa unspecified,Undefined,Units,Percentage (%),,0.59347181
-2016,Percentage (%) of total cases,,,,,,,,,Southern Asia,Undefined,Units,Percentage (%),,8.110781405
-2016,Percentage (%) of total cases,,,,,,,,,South-Eastern Asia,Undefined,Units,Percentage (%),,0.197823937
-2016,Percentage (%) of total cases,,,,,,,,,Caribbean,Undefined,Units,Percentage (%),,0.197823937
-2016,Percentage (%) of total cases,,,,,,,,,South America,Undefined,Units,Percentage (%),,0.197823937
-2016,Percentage (%) of total cases,,,,,,,,,Oceania,Undefined,Units,Percentage (%),,0.197823937
-2016,Percentage (%) of total cases,,,,,,,,,Not stated,Undefined,Units,Percentage (%),,1.8793273990000001
-2017,Percentage (%) of total cases,,,,,,,,,Western Africa,Undefined,Units,Percentage (%),,66.86241611
-2017,Percentage (%) of total cases,,,,,,,,,Eastern Africa,Undefined,Units,Percentage (%),,12.41610738
-2017,Percentage (%) of total cases,,,,,,,,,Middle Africa,Undefined,Units,Percentage (%),,7.634228188
-2017,Percentage (%) of total cases,,,,,,,,,Northern Africa,Undefined,Units,Percentage (%),,1.174496644
-2017,Percentage (%) of total cases,,,,,,,,,Southern Africa,Undefined,Units,Percentage (%),,0.587248322
-2017,Percentage (%) of total cases,,,,,,,,,Africa unspecified,Undefined,Units,Percentage (%),,0.922818792
-2017,Percentage (%) of total cases,,,,,,,,,Southern Asia,Undefined,Units,Percentage (%),,7.29865771799999
-2017,Percentage (%) of total cases,,,,,,,,,South-Eastern Asia,Undefined,Units,Percentage (%),,0.251677852
-2017,Percentage (%) of total cases,,,,,,,,,Western Asia,Undefined,Units,Percentage (%),,0.251677852
-2017,Percentage (%) of total cases,,,,,,,,,South America,Undefined,Units,Percentage (%),,0.419463087
-2017,Percentage (%) of total cases,,,,,,,,,Oceania,Undefined,Units,Percentage (%),,0.167785235
-2017,Percentage (%) of total cases,,,,,,,,,Not stated,Undefined,Units,Percentage (%),,2.013422819
-2014,Percentage (%) of total cases,,,,,,,Africa,,,Undefined,Units,Percentage (%),,61.33942161
-2014,Percentage (%) of total cases,,,,,,,United Kingdom,,,Undefined,Units,Percentage (%),,28.76712329
-2014,Percentage (%) of total cases,,,,,,,Indian subcontinent,,,Undefined,Units,Percentage (%),,7.00152207
-2014,Percentage (%) of total cases,,,,,,,Europe (non UK),,,Undefined,Units,Percentage (%),,1.522070015
-2014,Percentage (%) of total cases,,,,,,,Other,,,Undefined,Units,Percentage (%),,1.369863014
-2015,Percentage (%) of total cases,,,,,,,Africa,,,Undefined,Units,Percentage (%),,64.97175141
-2015,Percentage (%) of total cases,,,,,,,United Kingdom,,,Undefined,Units,Percentage (%),,24.48210923
-2015,Percentage (%) of total cases,,,,,,,Indian subcontinent,,,Undefined,Units,Percentage (%),,6.9679849339999995
-2015,Percentage (%) of total cases,,,,,,,Europe (non UK),,,Undefined,Units,Percentage (%),,2.071563089
-2015,Percentage (%) of total cases,,,,,,,Other,,,Undefined,Units,Percentage (%),,1.506591337
-2016,Percentage (%) of total cases,,,,,,,Africa,,,Undefined,Units,Percentage (%),,67.0995671
-2016,Percentage (%) of total cases,,,,,,,United Kingdom,,,Undefined,Units,Percentage (%),,23.37662338
-2016,Percentage (%) of total cases,,,,,,,Indian subcontinent,,,Undefined,Units,Percentage (%),,5.050505051
-2016,Percentage (%) of total cases,,,,,,,Europe (non UK),,,Undefined,Units,Percentage (%),,2.164502165
-2016,Percentage (%) of total cases,,,,,,,Other,,,Undefined,Units,Percentage (%),,2.3088023090000003
-2017,Percentage (%) of total cases,,,,,,,Africa,,,Undefined,Units,Percentage (%),,65.29850746
-2017,Percentage (%) of total cases,,,,,,,United Kingdom,,,Undefined,Units,Percentage (%),,24.75124378
-2017,Percentage (%) of total cases,,,,,,,Indian subcontinent,,,Undefined,Units,Percentage (%),,5.597014925
-2017,Percentage (%) of total cases,,,,,,,Europe (non UK),,,Undefined,Units,Percentage (%),,2.7363184080000003
-2017,Percentage (%) of total cases,,,,,,,Other,,,Undefined,Units,Percentage (%),,1.616915423
-2014,Percentage (%) of total cases,,,,,,,,Black African/African descent,,Undefined,Units,Percentage (%),,69.95884774
-2014,Percentage (%) of total cases,,,,,,,,Indian/Pakistani/Bangladesh (ISC)/ISC descent,,Undefined,Units,Percentage (%),,9.259259259
-2014,Percentage (%) of total cases,,,,,,,,Other/mixed,,Undefined,Units,Percentage (%),,5.864197531
-2014,Percentage (%) of total cases,,,,,,,,White British,,Undefined,Units,Percentage (%),,14.91769547
-2015,Percentage (%) of total cases,,,,,,,,Black African/African descent,,Undefined,Units,Percentage (%),,71.44827586
-2015,Percentage (%) of total cases,,,,,,,,Indian/Pakistani/Bangladesh (ISC)/ISC descent,,Undefined,Units,Percentage (%),,9.931034483
-2015,Percentage (%) of total cases,,,,,,,,Other/mixed,,Undefined,Units,Percentage (%),,5.79310344799999
-2015,Percentage (%) of total cases,,,,,,,,White British,,Undefined,Units,Percentage (%),,12.82758621
-2016,Percentage (%) of total cases,,,,,,,,Black African/African descent,,Undefined,Units,Percentage (%),,75.46983185
-2016,Percentage (%) of total cases,,,,,,,,Indian/Pakistani/Bangladesh (ISC)/ISC descent,,Undefined,Units,Percentage (%),,7.91295746799999
-2016,Percentage (%) of total cases,,,,,,,,Other/mixed,,Undefined,Units,Percentage (%),,6.231454006
-2016,Percentage (%) of total cases,,,,,,,,White British,,Undefined,Units,Percentage (%),,10.38575668
-2017,Percentage (%) of total cases,,,,,,,,Black African/African descent,,Undefined,Units,Percentage (%),,75.5033557
-2017,Percentage (%) of total cases,,,,,,,,Indian/Pakistani/Bangladesh (ISC)/ISC descent,,Undefined,Units,Percentage (%),,7.046979866
-2017,Percentage (%) of total cases,,,,,,,,Other/mixed,,Undefined,Units,Percentage (%),,6.4597315439999905
-2017,Percentage (%) of total cases,,,,,,,,White British,,Undefined,Units,Percentage (%),,10.98993289
+2017,Number of cases,,,,,,,,,Not stated,Undefined,Units,Number,,25.0
+2018,Number of cases,,,,,,,,,Western Africa,Undefined,Units,Number,,774.0
+2018,Number of cases,,,,,,,,,Eastern Africa,Undefined,Units,Number,,91.0
+2018,Number of cases,,,,,,,,,Middle Africa,Undefined,Units,Number,,78.0
+2018,Number of cases,,,,,,,,,Northern Africa,Undefined,Units,Number,,28.0
+2018,Number of cases,,,,,,,,,Southern Africa,Undefined,Units,Number,,9.0
+2018,Number of cases,,,,,,,,,Africa unspecified,Undefined,Units,Number,,5.0
+2018,Number of cases,,,,,,,,,Southern Asia,Undefined,Units,Number,,71.0
+2018,Number of cases,,,,,,,,,South-Eastern Asia,Undefined,Units,Number,,8.0
+2018,Number of cases,,,,,,,,,Western Asia,Undefined,Units,Number,,
+2018,Number of cases,,,,,,,,,Caribbean,Undefined,Units,Number,,
+2018,Number of cases,,,,,,,,,Central America,Undefined,Units,Number,,
+2018,Number of cases,,,,,,,,,South America,Undefined,Units,Number,,2.0
+2018,Number of cases,,,,,,,,,Oceania,Undefined,Units,Number,,1.0
+2018,Number of cases,,,,,,,,,Not stated,Undefined,Units,Number,,31.0
+2014,Percentage (%) of total cases,,,,,,,,,Western Africa,Undefined,Units,Percentage (%),,63.1
+2014,Percentage (%) of total cases,,,,,,,,,Eastern Africa,Undefined,Units,Percentage (%),,13.1
+2014,Percentage (%) of total cases,,,,,,,,,Middle Africa,Undefined,Units,Percentage (%),,7.9
+2014,Percentage (%) of total cases,,,,,,,,,Northern Africa,Undefined,Units,Percentage (%),,1.5
+2014,Percentage (%) of total cases,,,,,,,,,Southern Africa,Undefined,Units,Percentage (%),,0.4
+2014,Percentage (%) of total cases,,,,,,,,,Africa unspecified,Undefined,Units,Percentage (%),,0.8
+2014,Percentage (%) of total cases,,,,,,,,,Southern Asia,Undefined,Units,Percentage (%),,9.1
+2014,Percentage (%) of total cases,,,,,,,,,South-Eastern Asia,Undefined,Units,Percentage (%),,0.4
+2014,Percentage (%) of total cases,,,,,,,,,Western Asia,Undefined,Units,Percentage (%),,0.1
+2014,Percentage (%) of total cases,,,,,,,,,Caribbean,Undefined,Units,Percentage (%),,0.0
+2014,Percentage (%) of total cases,,,,,,,,,Central America,Undefined,Units,Percentage (%),,0.1
+2014,Percentage (%) of total cases,,,,,,,,,South America,Undefined,Units,Percentage (%),,0.8
+2014,Percentage (%) of total cases,,,,,,,,,Oceania,Undefined,Units,Percentage (%),,0.1
+2014,Percentage (%) of total cases,,,,,,,,,Not stated,Undefined,Units,Percentage (%),,2.6
+2015,Percentage (%) of total cases,,,,,,,,,Western Africa,Undefined,Units,Percentage (%),,64.78494623655914
+2015,Percentage (%) of total cases,,,,,,,,,Eastern Africa,Undefined,Units,Percentage (%),,11.021505376344088
+2015,Percentage (%) of total cases,,,,,,,,,Middle Africa,Undefined,Units,Percentage (%),,9.677419354838712
+2015,Percentage (%) of total cases,,,,,,,,,Northern Africa,Undefined,Units,Percentage (%),,1.2096774193548387
+2015,Percentage (%) of total cases,,,,,,,,,Southern Africa,Undefined,Units,Percentage (%),,0.13440860215053765
+2015,Percentage (%) of total cases,,,,,,,,,Africa unspecified,Undefined,Units,Percentage (%),,0.6720430107526881
+2015,Percentage (%) of total cases,,,,,,,,,Southern Asia,Undefined,Units,Percentage (%),,10.887096774193546
+2015,Percentage (%) of total cases,,,,,,,,,South-Eastern Asia,Undefined,Units,Percentage (%),,0.13440860215053765
+2015,Percentage (%) of total cases,,,,,,,,,Western Asia,Undefined,Units,Percentage (%),,0.13440860215053765
+2015,Percentage (%) of total cases,,,,,,,,,Caribbean,Undefined,Units,Percentage (%),,0.0
+2015,Percentage (%) of total cases,,,,,,,,,Central America,Undefined,Units,Percentage (%),,0.0
+2015,Percentage (%) of total cases,,,,,,,,,South America,Undefined,Units,Percentage (%),,0.9408602150537636
+2015,Percentage (%) of total cases,,,,,,,,,Oceania,Undefined,Units,Percentage (%),,0.0
+2015,Percentage (%) of total cases,,,,,,,,,Not stated,Undefined,Units,Percentage (%),,0.4032258064516129
+2016,Percentage (%) of total cases,,,,,,,,,Western Africa,Undefined,Units,Percentage (%),,61.111111111111114
+2016,Percentage (%) of total cases,,,,,,,,,Eastern Africa,Undefined,Units,Percentage (%),,14.080459770114944
+2016,Percentage (%) of total cases,,,,,,,,,Middle Africa,Undefined,Units,Percentage (%),,11.494252873563216
+2016,Percentage (%) of total cases,,,,,,,,,Northern Africa,Undefined,Units,Percentage (%),,1.6283524904214561
+2016,Percentage (%) of total cases,,,,,,,,,Southern Africa,Undefined,Units,Percentage (%),,0.28735632183908044
+2016,Percentage (%) of total cases,,,,,,,,,Africa unspecified,Undefined,Units,Percentage (%),,0.5747126436781609
+2016,Percentage (%) of total cases,,,,,,,,,Southern Asia,Undefined,Units,Percentage (%),,7.8544061302682
+2016,Percentage (%) of total cases,,,,,,,,,South-Eastern Asia,Undefined,Units,Percentage (%),,0.1915708812260536
+2016,Percentage (%) of total cases,,,,,,,,,Western Asia,Undefined,Units,Percentage (%),,0.0
+2016,Percentage (%) of total cases,,,,,,,,,Caribbean,Undefined,Units,Percentage (%),,0.1915708812260536
+2016,Percentage (%) of total cases,,,,,,,,,Central America,Undefined,Units,Percentage (%),,0.0
+2016,Percentage (%) of total cases,,,,,,,,,South America,Undefined,Units,Percentage (%),,0.28735632183908044
+2016,Percentage (%) of total cases,,,,,,,,,Oceania,Undefined,Units,Percentage (%),,0.1915708812260536
+2016,Percentage (%) of total cases,,,,,,,,,Not stated,Undefined,Units,Percentage (%),,2.10727969348659
+2017,Percentage (%) of total cases,,,,,,,,,Western Africa,Undefined,Units,Percentage (%),,66.33906633906635
+2017,Percentage (%) of total cases,,,,,,,,,Eastern Africa,Undefined,Units,Percentage (%),,12.694512694512696
+2017,Percentage (%) of total cases,,,,,,,,,Middle Africa,Undefined,Units,Percentage (%),,7.698607698607699
+2017,Percentage (%) of total cases,,,,,,,,,Northern Africa,Undefined,Units,Percentage (%),,1.1466011466011463
+2017,Percentage (%) of total cases,,,,,,,,,Southern Africa,Undefined,Units,Percentage (%),,0.6552006552006553
+2017,Percentage (%) of total cases,,,,,,,,,Africa unspecified,Undefined,Units,Percentage (%),,0.9009009009009008
+2017,Percentage (%) of total cases,,,,,,,,,Southern Asia,Undefined,Units,Percentage (%),,7.2891072891072906
+2017,Percentage (%) of total cases,,,,,,,,,South-Eastern Asia,Undefined,Units,Percentage (%),,0.32760032760032765
+2017,Percentage (%) of total cases,,,,,,,,,Western Asia,Undefined,Units,Percentage (%),,0.2457002457002457
+2017,Percentage (%) of total cases,,,,,,,,,Caribbean,Undefined,Units,Percentage (%),,0.0
+2017,Percentage (%) of total cases,,,,,,,,,Central America,Undefined,Units,Percentage (%),,0.0
+2017,Percentage (%) of total cases,,,,,,,,,South America,Undefined,Units,Percentage (%),,0.4914004914004914
+2017,Percentage (%) of total cases,,,,,,,,,Oceania,Undefined,Units,Percentage (%),,0.16380016380016382
+2017,Percentage (%) of total cases,,,,,,,,,Not stated,Undefined,Units,Percentage (%),,2.047502047502048
+2018,Percentage (%) of total cases,,,,,,,,,Western Africa,Undefined,Units,Percentage (%),,70.49180327868852
+2018,Percentage (%) of total cases,,,,,,,,,Eastern Africa,Undefined,Units,Percentage (%),,8.287795992714026
+2018,Percentage (%) of total cases,,,,,,,,,Middle Africa,Undefined,Units,Percentage (%),,7.103825136612022
+2018,Percentage (%) of total cases,,,,,,,,,Northern Africa,Undefined,Units,Percentage (%),,2.550091074681238
+2018,Percentage (%) of total cases,,,,,,,,,Southern Africa,Undefined,Units,Percentage (%),,0.819672131147541
+2018,Percentage (%) of total cases,,,,,,,,,Africa unspecified,Undefined,Units,Percentage (%),,0.4553734061930784
+2018,Percentage (%) of total cases,,,,,,,,,Southern Asia,Undefined,Units,Percentage (%),,6.466302367941712
+2018,Percentage (%) of total cases,,,,,,,,,South-Eastern Asia,Undefined,Units,Percentage (%),,0.7285974499089253
+2018,Percentage (%) of total cases,,,,,,,,,Western Asia,Undefined,Units,Percentage (%),,0.0
+2018,Percentage (%) of total cases,,,,,,,,,South America,Undefined,Units,Percentage (%),,0.18214936247723126
+2018,Percentage (%) of total cases,,,,,,,,,Caribbean,Undefined,Units,Percentage (%),,0.0
+2018,Percentage (%) of total cases,,,,,,,,,Central America,Undefined,Units,Percentage (%),,0.0
+2018,Percentage (%) of total cases,,,,,,,,,Oceania,Undefined,Units,Percentage (%),,0.09107468123861566
+2018,Percentage (%) of total cases,,,,,,,,,Not stated,Undefined,Units,Percentage (%),,2.8233151183970864
+2014,Percentage (%) of total cases,,,,,,,Africa,,,Undefined,Units,Percentage (%),,61.33942161339422
+2014,Percentage (%) of total cases,,,,,,,UK,,,Undefined,Units,Percentage (%),,28.767123287671232
+2014,Percentage (%) of total cases,,,,,,,Indian subcontinent,,,Undefined,Units,Percentage (%),,7.00152207001522
+2014,Percentage (%) of total cases,,,,,,,Europe (non-UK),,,Undefined,Units,Percentage (%),,1.5220700152206998
+2014,Percentage (%) of total cases,,,,,,,Other,,,Undefined,Units,Percentage (%),,1.3698630136986298
+2015,Percentage (%) of total cases,,,,,,,Africa,,,Undefined,Units,Percentage (%),,64.97175141242938
+2015,Percentage (%) of total cases,,,,,,,UK,,,Undefined,Units,Percentage (%),,24.48210922787194
+2015,Percentage (%) of total cases,,,,,,,Indian subcontinent,,,Undefined,Units,Percentage (%),,6.967984934086631
+2015,Percentage (%) of total cases,,,,,,,Europe (non-UK),,,Undefined,Units,Percentage (%),,2.0715630885122414
+2015,Percentage (%) of total cases,,,,,,,Other,,,Undefined,Units,Percentage (%),,1.5065913370998116
+2016,Percentage (%) of total cases,,,,,,,Africa,,,Undefined,Units,Percentage (%),,67.09956709956711
+2016,Percentage (%) of total cases,,,,,,,UK,,,Undefined,Units,Percentage (%),,23.376623376623375
+2016,Percentage (%) of total cases,,,,,,,Indian subcontinent,,,Undefined,Units,Percentage (%),,5.05050505050505
+2016,Percentage (%) of total cases,,,,,,,Europe (non-UK),,,Undefined,Units,Percentage (%),,2.1645021645021645
+2016,Percentage (%) of total cases,,,,,,,Other,,,Undefined,Units,Percentage (%),,2.3088023088023086
+2017,Percentage (%) of total cases,,,,,,,Africa,,,Undefined,Units,Percentage (%),,65.29850746268657
+2017,Percentage (%) of total cases,,,,,,,UK,,,Undefined,Units,Percentage (%),,24.751243781094534
+2017,Percentage (%) of total cases,,,,,,,Indian subcontinent,,,Undefined,Units,Percentage (%),,5.597014925373133
+2017,Percentage (%) of total cases,,,,,,,Europe (non-UK),,,Undefined,Units,Percentage (%),,2.736318407960199
+2017,Percentage (%) of total cases,,,,,,,Other,,,Undefined,Units,Percentage (%),,1.6169154228855718
+2018,Percentage (%) of total cases,,,,,,,Africa,,,Undefined,Units,Percentage (%),,68.79432624113475
+2018,Percentage (%) of total cases,,,,,,,UK,,,Undefined,Units,Percentage (%),,20.99290780141844
+2018,Percentage (%) of total cases,,,,,,,Indian subcontinent,,,Undefined,Units,Percentage (%),,4.964539007092199
+2018,Percentage (%) of total cases,,,,,,,Europe (non-UK),,,Undefined,Units,Percentage (%),,2.4113475177304964
+2018,Percentage (%) of total cases,,,,,,,Other,,,Undefined,Units,Percentage (%),,2.8368794326241136
+2014,Percentage (%) of total cases,,,,,,,,Black African/African descent,,Undefined,Units,Percentage (%),,69.95884773662551
+2014,Percentage (%) of total cases,,,,,,,,Indian/Pakistani/Bangladesh (ISC)/ISC descent,,Undefined,Units,Percentage (%),,9.25925925925926
+2014,Percentage (%) of total cases,,,,,,,,Other/Mixed,,Undefined,Units,Percentage (%),,5.864197530864197
+2014,Percentage (%) of total cases,,,,,,,,White British,,Undefined,Units,Percentage (%),,14.917695473251028
+2015,Percentage (%) of total cases,,,,,,,,Black African/African descent,,Undefined,Units,Percentage (%),,71.44827586206897
+2015,Percentage (%) of total cases,,,,,,,,Indian/Pakistani/Bangladesh (ISC)/ISC descent,,Undefined,Units,Percentage (%),,9.93103448275862
+2015,Percentage (%) of total cases,,,,,,,,Other/Mixed,,Undefined,Units,Percentage (%),,5.793103448275862
+2015,Percentage (%) of total cases,,,,,,,,White British,,Undefined,Units,Percentage (%),,12.827586206896553
+2016,Percentage (%) of total cases,,,,,,,,Black African/African descent,,Undefined,Units,Percentage (%),,75.46983184965381
+2016,Percentage (%) of total cases,,,,,,,,Indian/Pakistani/Bangladesh (ISC)/ISC descent,,Undefined,Units,Percentage (%),,7.9129574678536105
+2016,Percentage (%) of total cases,,,,,,,,Other/Mixed,,Undefined,Units,Percentage (%),,6.231454005934718
+2016,Percentage (%) of total cases,,,,,,,,White British,,Undefined,Units,Percentage (%),,10.385756676557863
+2017,Percentage (%) of total cases,,,,,,,,Black African/African descent,,Undefined,Units,Percentage (%),,75.50335570469798
+2017,Percentage (%) of total cases,,,,,,,,Indian/Pakistani/Bangladesh (ISC)/ISC descent,,Undefined,Units,Percentage (%),,7.046979865771812
+2017,Percentage (%) of total cases,,,,,,,,Other/Mixed,,Undefined,Units,Percentage (%),,6.459731543624161
+2017,Percentage (%) of total cases,,,,,,,,White British,,Undefined,Units,Percentage (%),,10.989932885906038
+2018,Percentage (%) of total cases,,,,,,,,Black African/African descent,,Undefined,Units,Percentage (%),,79.30056710775048
+2018,Percentage (%) of total cases,,,,,,,,Indian/Pakistani/Bangladesh (ISC)/ISC descent,,Undefined,Units,Percentage (%),,8.31758034026465
+2018,Percentage (%) of total cases,,,,,,,,Other/Mixed,,Undefined,Units,Percentage (%),,6.805293005671077
+2018,Percentage (%) of total cases,,,,,,,,White British,,Undefined,Units,Percentage (%),,5.576559546313798
 2000,Number of cases,,,,,,,,,,Undefined,Units,Number,,2047.0
 2001,Number of cases,,,,,,,,,,Undefined,Units,Number,,2044.0
 2002,Number of cases,,,,,,,,,,Undefined,Units,Number,,1940.0
@@ -617,6 +742,7 @@ Year,Units,Sex,Age,Country,Region,Malaria species,Fatality,Country of birth,Ethn
 2015,Number of cases,,,,,,,,,,Undefined,Units,Number,,1400.0
 2016,Number of cases,,,,,,,,,,Undefined,Units,Number,,1618.0
 2017,Number of cases,,,,,,,,,,Undefined,Units,Number,,1792.0
+2018,Number of cases,,,,,,,,,,Undefined,Units,Number,,1683.0
 2000,Number of cases,,,,,,Fatal,,,,Undefined,Units,Number,,16.0
 2001,Number of cases,,,,,,Fatal,,,,Undefined,Units,Number,,9.0
 2002,Number of cases,,,,,,Fatal,,,,Undefined,Units,Number,,9.0
@@ -635,6 +761,7 @@ Year,Units,Sex,Age,Country,Region,Malaria species,Fatality,Country of birth,Ethn
 2015,Number of cases,,,,,,Fatal,,,,Undefined,Units,Number,,6.0
 2016,Number of cases,,,,,,Fatal,,,,Undefined,Units,Number,,6.0
 2017,Number of cases,,,,,,Fatal,,,,Undefined,Units,Number,,6.0
+2018,Number of cases,,,,,,Fatal,,,,Undefined,Units,Number,,6.0
 2000,Number of cases,,,,,P. falciparum,,,,,Undefined,Units,Number,,1555.0
 2001,Number of cases,,,,,P. falciparum,,,,,Undefined,Units,Number,,1572.0
 2002,Number of cases,,,,,P. falciparum,,,,,Undefined,Units,Number,,1465.0
@@ -653,6 +780,7 @@ Year,Units,Sex,Age,Country,Region,Malaria species,Fatality,Country of birth,Ethn
 2015,Number of cases,,,,,P. falciparum,,,,,Undefined,Units,Number,,1068.0
 2016,Number of cases,,,,,P. falciparum,,,,,Undefined,Units,Number,,1308.0
 2017,Number of cases,,,,,P. falciparum,,,,,Undefined,Units,Number,,1452.0
+2018,Number of cases,,,,,P. falciparum,,,,,Undefined,Units,Number,,1375.0
 2000,Number of cases,,,,,P. vivax,,,,,Undefined,Units,Number,,322.0
 2001,Number of cases,,,,,P. vivax,,,,,Undefined,Units,Number,,261.0
 2002,Number of cases,,,,,P. vivax,,,,,Undefined,Units,Number,,284.0
@@ -671,6 +799,7 @@ Year,Units,Sex,Age,Country,Region,Malaria species,Fatality,Country of birth,Ethn
 2015,Number of cases,,,,,P. vivax,,,,,Undefined,Units,Number,,207.0
 2016,Number of cases,,,,,P. vivax,,,,,Undefined,Units,Number,,166.0
 2017,Number of cases,,,,,P. vivax,,,,,Undefined,Units,Number,,164.0
+2018,Number of cases,,,,,P. vivax,,,,,Undefined,Units,Number,,143.0
 2000,Number of cases,,,,,P. ovale,,,,,Undefined,Units,Number,,123.0
 2001,Number of cases,,,,,P. ovale,,,,,Undefined,Units,Number,,157.0
 2002,Number of cases,,,,,P. ovale,,,,,Undefined,Units,Number,,133.0
@@ -689,6 +818,7 @@ Year,Units,Sex,Age,Country,Region,Malaria species,Fatality,Country of birth,Ethn
 2015,Number of cases,,,,,P. ovale,,,,,Undefined,Units,Number,,95.0
 2016,Number of cases,,,,,P. ovale,,,,,Undefined,Units,Number,,88.0
 2017,Number of cases,,,,,P. ovale,,,,,Undefined,Units,Number,,108.0
+2018,Number of cases,,,,,P. ovale,,,,,Undefined,Units,Number,,117.0
 2000,Number of cases,,,,,P. malariae,,,,,Undefined,Units,Number,,30.0
 2001,Number of cases,,,,,P. malariae,,,,,Undefined,Units,Number,,37.0
 2002,Number of cases,,,,,P. malariae,,,,,Undefined,Units,Number,,43.0
@@ -707,6 +837,7 @@ Year,Units,Sex,Age,Country,Region,Malaria species,Fatality,Country of birth,Ethn
 2015,Number of cases,,,,,P. malariae,,,,,Undefined,Units,Number,,23.0
 2016,Number of cases,,,,,P. malariae,,,,,Undefined,Units,Number,,41.0
 2017,Number of cases,,,,,P. malariae,,,,,Undefined,Units,Number,,55.0
+2018,Number of cases,,,,,P. malariae,,,,,Undefined,Units,Number,,36.0
 2000,Number of cases,,,,,P. knowlesi,,,,,Undefined,Units,Number,,0.0
 2001,Number of cases,,,,,P. knowlesi,,,,,Undefined,Units,Number,,0.0
 2002,Number of cases,,,,,P. knowlesi,,,,,Undefined,Units,Number,,0.0
@@ -725,6 +856,7 @@ Year,Units,Sex,Age,Country,Region,Malaria species,Fatality,Country of birth,Ethn
 2015,Number of cases,,,,,P. knowlesi,,,,,Undefined,Units,Number,,0.0
 2016,Number of cases,,,,,P. knowlesi,,,,,Undefined,Units,Number,,1.0
 2017,Number of cases,,,,,P. knowlesi,,,,,Undefined,Units,Number,,2.0
+2018,Number of cases,,,,,P. knowlesi,,,,,Undefined,Units,Number,,2.0
 2000,Number of cases,,,,,Mixed,,,,,Undefined,Units,Number,,16.0
 2001,Number of cases,,,,,Mixed,,,,,Undefined,Units,Number,,16.0
 2002,Number of cases,,,,,Mixed,,,,,Undefined,Units,Number,,13.0
@@ -743,6 +875,7 @@ Year,Units,Sex,Age,Country,Region,Malaria species,Fatality,Country of birth,Ethn
 2015,Number of cases,,,,,Mixed,,,,,Undefined,Units,Number,,7.0
 2016,Number of cases,,,,,Mixed,,,,,Undefined,Units,Number,,13.0
 2017,Number of cases,,,,,Mixed,,,,,Undefined,Units,Number,,11.0
+2018,Number of cases,,,,,Mixed,,,,,Undefined,Units,Number,,9.0
 2000,Number of cases,,,,,P. unspecified,,,,,Undefined,Units,Number,,1.0
 2001,Number of cases,,,,,P. unspecified,,,,,Undefined,Units,Number,,1.0
 2002,Number of cases,,,,,P. unspecified,,,,,Undefined,Units,Number,,2.0
@@ -761,6 +894,7 @@ Year,Units,Sex,Age,Country,Region,Malaria species,Fatality,Country of birth,Ethn
 2015,Number of cases,,,,,P. unspecified,,,,,Undefined,Units,Number,,0.0
 2016,Number of cases,,,,,P. unspecified,,,,,Undefined,Units,Number,,1.0
 2017,Number of cases,,,,,P. unspecified,,,,,Undefined,Units,Number,,0.0
+2018,Number of cases,,,,,P. unspecified,,,,,Undefined,Units,Number,,1.0
 2000,Number of cases,,,,,,Non-fatal,,,,Undefined,Units,Number,,2031.0
 2001,Number of cases,,,,,,Non-fatal,,,,Undefined,Units,Number,,2035.0
 2002,Number of cases,,,,,,Non-fatal,,,,Undefined,Units,Number,,1931.0
@@ -779,6 +913,7 @@ Year,Units,Sex,Age,Country,Region,Malaria species,Fatality,Country of birth,Ethn
 2015,Number of cases,,,,,,Non-fatal,,,,Undefined,Units,Number,,1394.0
 2016,Number of cases,,,,,,Non-fatal,,,,Undefined,Units,Number,,1612.0
 2017,Number of cases,,,,,,Non-fatal,,,,Undefined,Units,Number,,1786.0
+2018,Number of cases,,,,,,Non-fatal,,,,Undefined,Units,Number,,1677.0
 2014,Number of cases,,,,,,,,,,Undefined,Units,Number,,1582.0
 2014,Number of cases,,4 and under,,,,,,,,Undefined,Units,Number,,37.0
 2014,Number of cases,,5 to 9,,,,,,,,Undefined,Units,Number,,42.0
@@ -971,6 +1106,54 @@ Year,Units,Sex,Age,Country,Region,Malaria species,Fatality,Country of birth,Ethn
 2017,Number of cases,Female,60 to 64,,,,,,,,Undefined,Units,Number,,28.0
 2017,Number of cases,Female,65 to 69,,,,,,,,Undefined,Units,Number,,22.0
 2017,Number of cases,Female,70 and over,,,,,,,,Undefined,Units,Number,,25.0
+2018,Number of cases,,,,,,,,,,Undefined,Units,Number,,1678.0
+2018,Number of cases,,4 and under,,,,,,,,Undefined,Units,Number,,31.0
+2018,Number of cases,,5 to 9,,,,,,,,Undefined,Units,Number,,46.0
+2018,Number of cases,,10 to 14,,,,,,,,Undefined,Units,Number,,69.0
+2018,Number of cases,,15 to 19,,,,,,,,Undefined,Units,Number,,78.0
+2018,Number of cases,,20 to 24,,,,,,,,Undefined,Units,Number,,94.0
+2018,Number of cases,,25 to 29,,,,,,,,Undefined,Units,Number,,121.0
+2018,Number of cases,,30 to 34,,,,,,,,Undefined,Units,Number,,161.0
+2018,Number of cases,,35 to 39,,,,,,,,Undefined,Units,Number,,175.0
+2018,Number of cases,,40 to 44,,,,,,,,Undefined,Units,Number,,199.0
+2018,Number of cases,,45 to 49,,,,,,,,Undefined,Units,Number,,215.0
+2018,Number of cases,,50 to 54,,,,,,,,Undefined,Units,Number,,176.0
+2018,Number of cases,,55 to 59,,,,,,,,Undefined,Units,Number,,137.0
+2018,Number of cases,,60 to 64,,,,,,,,Undefined,Units,Number,,79.0
+2018,Number of cases,,65 to 69,,,,,,,,Undefined,Units,Number,,49.0
+2018,Number of cases,,70 and over,,,,,,,,Undefined,Units,Number,,48.0
+2018,Number of cases,Male,,,,,,,,,Undefined,Units,Number,,1072.0
+2018,Number of cases,Male,4 and under,,,,,,,,Undefined,Units,Number,,19.0
+2018,Number of cases,Male,5 to 9,,,,,,,,Undefined,Units,Number,,26.0
+2018,Number of cases,Male,10 to 14,,,,,,,,Undefined,Units,Number,,28.0
+2018,Number of cases,Male,15 to 19,,,,,,,,Undefined,Units,Number,,48.0
+2018,Number of cases,Male,20 to 24,,,,,,,,Undefined,Units,Number,,54.0
+2018,Number of cases,Male,25 to 29,,,,,,,,Undefined,Units,Number,,68.0
+2018,Number of cases,Male,30 to 34,,,,,,,,Undefined,Units,Number,,98.0
+2018,Number of cases,Male,35 to 39,,,,,,,,Undefined,Units,Number,,107.0
+2018,Number of cases,Male,40 to 44,,,,,,,,Undefined,Units,Number,,139.0
+2018,Number of cases,Male,45 to 49,,,,,,,,Undefined,Units,Number,,150.0
+2018,Number of cases,Male,50 to 54,,,,,,,,Undefined,Units,Number,,118.0
+2018,Number of cases,Male,55 to 59,,,,,,,,Undefined,Units,Number,,104.0
+2018,Number of cases,Male,60 to 64,,,,,,,,Undefined,Units,Number,,51.0
+2018,Number of cases,Male,65 to 69,,,,,,,,Undefined,Units,Number,,38.0
+2018,Number of cases,Male,70 and over,,,,,,,,Undefined,Units,Number,,24.0
+2018,Number of cases,Female,,,,,,,,,Undefined,Units,Number,,606.0
+2018,Number of cases,Female,4 and under,,,,,,,,Undefined,Units,Number,,12.0
+2018,Number of cases,Female,5 to 9,,,,,,,,Undefined,Units,Number,,20.0
+2018,Number of cases,Female,10 to 14,,,,,,,,Undefined,Units,Number,,41.0
+2018,Number of cases,Female,15 to 19,,,,,,,,Undefined,Units,Number,,30.0
+2018,Number of cases,Female,20 to 24,,,,,,,,Undefined,Units,Number,,40.0
+2018,Number of cases,Female,25 to 29,,,,,,,,Undefined,Units,Number,,53.0
+2018,Number of cases,Female,30 to 34,,,,,,,,Undefined,Units,Number,,63.0
+2018,Number of cases,Female,35 to 39,,,,,,,,Undefined,Units,Number,,68.0
+2018,Number of cases,Female,40 to 44,,,,,,,,Undefined,Units,Number,,60.0
+2018,Number of cases,Female,45 to 49,,,,,,,,Undefined,Units,Number,,65.0
+2018,Number of cases,Female,50 to 54,,,,,,,,Undefined,Units,Number,,58.0
+2018,Number of cases,Female,55 to 59,,,,,,,,Undefined,Units,Number,,33.0
+2018,Number of cases,Female,60 to 64,,,,,,,,Undefined,Units,Number,,28.0
+2018,Number of cases,Female,65 to 69,,,,,,,,Undefined,Units,Number,,11.0
+2018,Number of cases,Female,70 and over,,,,,,,,Undefined,Units,Number,,24.0
 2014,Number of cases,,,England,London,,,,,,Undefined,Units,Number,E12000007,779.0
 2014,Number of cases,,,England,South East,,,,,,Undefined,Units,Number,E12000008,133.0
 2014,Number of cases,,,England,West Midlands,,,,,,Undefined,Units,Number,E12000005,115.0
@@ -1023,3 +1206,16 @@ Year,Units,Sex,Age,Country,Region,Malaria species,Fatality,Country of birth,Ethn
 2017,Number of cases,,,Scotland,,,,,,,Undefined,Units,Number,S92000003,50.0
 2017,Number of cases,,,Wales,,,,,,,Undefined,Units,Number,W92000004,24.0
 2017,Number of cases,,,Northern Ireland,,,,,,,Undefined,Units,Number,N92000002,10.0
+2018,Number of cases,,,England,London,,,,,,Undefined,Units,Number,E12000007,816.0
+2018,Number of cases,,,England,South East,,,,,,Undefined,Units,Number,E12000008,161.0
+2018,Number of cases,,,England,West Midlands,,,,,,Undefined,Units,Number,E12000005,120.0
+2018,Number of cases,,,England,North West,,,,,,Undefined,Units,Number,E12000002,137.0
+2018,Number of cases,,,England,East of England,,,,,,Undefined,Units,Number,E12000006,134.0
+2018,Number of cases,,,England,Yorkshire and The Humber,,,,,,Undefined,Units,Number,E12000003,89.0
+2018,Number of cases,,,England,South West,,,,,,Undefined,Units,Number,E12000009,52.0
+2018,Number of cases,,,England,East Midlands,,,,,,Undefined,Units,Number,E12000004,55.0
+2018,Number of cases,,,England,North East,,,,,,Undefined,Units,Number,E12000001,33.0
+2018,Number of cases,,,England,,,,,,,Undefined,Units,Number,E92000001,1597.0
+2018,Number of cases,,,Scotland,,,,,,,Undefined,Units,Number,S92000003,52.0
+2018,Number of cases,,,Wales,,,,,,,Undefined,Units,Number,W92000004,23.0
+2018,Number of cases,,,Northern Ireland,,,,,,,Undefined,Units,Number,N92000002,11.0
