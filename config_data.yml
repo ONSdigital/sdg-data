@@ -26,6 +26,12 @@ schema_file: _prose.yml
 # The default, '', points to the root of this repository.
 src_dir: ''
 
+inputs:
+  - class: InputYamlMdMeta
+    path_pattern: meta/*-*.md
+  - class: InputYamlMeta
+    path_pattern: yaml-meta/*-*.md    
+
 # Translation repositories
 # ------------------------
 # This tells sdg-build to import translations from Git repositories. Specific
