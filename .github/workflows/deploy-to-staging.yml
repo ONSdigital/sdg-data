@@ -1,3 +1,4 @@
+  
 # ****************************************************************************
 # NOTES:
 #
@@ -26,7 +27,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v1
     - name: Set up Python 3.7
       uses: actions/setup-python@v1
       with:
@@ -50,7 +51,7 @@ jobs:
         sleep 240
     - name: Rebuild site
       run: |
-        curl -X POST https://api.github.com/repos/onsdigital/sdg-indicators/dispatches \
+        curl -X POST https://api.github.com/repos/lucygwilliamadmin/sdg-indicators/dispatches \
         -H "Accept: application/vnd.github.everest-preview+json" \
         -H "Authorization: token ${{secrets.token}}" \
         --data '{"event_type": "rebuild-staging"}'
