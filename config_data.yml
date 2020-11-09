@@ -36,12 +36,6 @@ translations:
     source: https://github.com/open-sdg/sdg-translations.git
     tag: uk-svg
 
-# Reporting status extra fields
-# -----------------------------
-# This allows the build to generate stats for reporting status by additional
-# fields, beyond the default "status by goal" report.
-reporting_status_extra_fields: []
-
 # Map layers
 # ----------
 # This allows the build to generate one or more GeoJSON files to be used by
