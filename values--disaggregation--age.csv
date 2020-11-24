@@ -26,8 +26,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 19 to 24,2,1
 19 to 64,6,1
 20 and under,28,1
-20 to 24,63,12
 20 to 24 *,5,1
+20 to 24,63,12
 20 to 29,1,1
 21 to 24,3,1
 21 to 40,30,1
@@ -49,7 +49,6 @@ Value,Disaggregation combinations using this value,Number of indicators
 3,10,1
 4 and under,7,2
 4 to 10,6,1
-4,10,1
 40 and over,2,2
 40 to 44,233,6
 40 to 49,94,3
@@ -57,6 +56,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 45 and over,20,3
 45 to 49,263,5
 45 to 54,149,18
+4,10,1
 5 to 15,3,1
 5 to 7,1,1
 5 to 9,6,1
@@ -72,8 +72,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 60 to 64 *,5,1
 60 to 69,4,2
 61 and over,26,1
-65 and over,80,12
 65 and over *,5,1
+65 and over,80,12
 65 to 69,328,5
 65 to 74,91,12
 70 and over,9,2
