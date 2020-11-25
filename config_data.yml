@@ -34,7 +34,41 @@ src_dir: ''
 translations:
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: master
+    tag: uk-svg
+
+# Reporting status extra fields
+# -----------------------------
+# This allows the build to generate stats for reporting status by additional
+# fields, beyond the default "status by goal" report.
+reporting_status_extra_fields: []
+
+# Map layers
+# ----------
+# This allows the build to generate one or more GeoJSON files to be used by
+# Open SDG maps. The parameters available correspond to the OutputGeoJson class.
+# See sdg/outputs/OutputGeoJson.py for more information. Uncomment the map_layers
+# below and adjust if you would like to use the Open SDG mapping functionality.
+# Note that the GeoJSON files can either be remote (as in the example below) or
+# local, relative to the src_dir specified above.
+map_layers:
+#Country (https://geoportal.statistics.gov.uk/datasets/countries-december-2019-boundaries-uk-buc)
+  - geojson_file: https://opendata.arcgis.com/datasets/92ebeaf3caa8458ea467ec164baeefa4_0.geojson
+    name_property: ctry19nm
+    id_property: ctry19cd
+    output_subfolder: country
+    filename_prefix: indicator_
+#Region (link: https://hub.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4)
+  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4.geojson
+    name_property: rgn17nm
+    id_property: rgn17cd
+    output_subfolder: regions
+    filename_prefix: indicator_
+#Local Authority (link: https://hub.arcgis.com/datasets/686603e943f948acaa13fb5d2b0f1275_4)
+  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/686603e943f948acaa13fb5d2b0f1275_4.geojson
+    name_property: lad16nm
+    id_property: lad16cd
+    output_subfolder: local_authorities
+    filename_prefix: indicator_
 
 # Git
 # ---
