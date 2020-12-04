@@ -553,7 +553,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2016,Female,,Northern Ireland,,Undefined,Units,"Rate per 100,000 population",N92000002,9.2
 1981,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,15.3
 1981,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,15.4
-1981,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,13.6
+1981,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,13.6
 1981,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,11.6
 1981,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,12.5
 1981,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,13.6
@@ -562,7 +562,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1981,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,15.6
 1981,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,21.5
 1981,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,19.5
-1981,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,18.2
+1981,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,18.2
 1981,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,14.8
 1981,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,17.2
 1981,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,17.5
@@ -571,7 +571,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1981,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,22.3
 1981,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,10.7
 1981,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,11.7
-1981,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,10.0
+1981,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,10.0
 1981,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,8.6
 1981,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,8.4
 1981,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,9.7
@@ -580,7 +580,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1981,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,10.5
 1982,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,14.4
 1982,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,15.3
-1982,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,15.1
+1982,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,15.1
 1982,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,11.6
 1982,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,12.3
 1982,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,13.3
@@ -589,7 +589,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1982,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,13.6
 1982,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,21.0
 1982,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,20.2
-1982,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,19.3
+1982,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,19.3
 1982,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,15.2
 1982,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,17.4
 1982,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,17.3
@@ -598,7 +598,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1982,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,17.8
 1982,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,8.5
 1982,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,11.5
-1982,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,11.4
+1982,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,11.4
 1982,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,8.2
 1982,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,8.2
 1982,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,9.8
@@ -607,7 +607,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1982,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,10.1
 1983,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,13.1
 1983,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,14.0
-1983,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,14.4
+1983,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,14.4
 1983,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,12.6
 1983,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,13.0
 1983,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,12.7
@@ -616,7 +616,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1983,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,13.2
 1983,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,18.5
 1983,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,19.4
-1983,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,20.3
+1983,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,20.3
 1983,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,17.4
 1983,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,17.6
 1983,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,17.3
@@ -625,7 +625,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1983,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,17.9
 1983,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,8.5
 1983,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,9.8
-1983,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,9.7
+1983,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,9.7
 1983,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,8.1
 1983,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,8.7
 1983,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,8.7
@@ -634,7 +634,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1983,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,9.1
 1984,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,11.4
 1984,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,14.2
-1984,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,13.9
+1984,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,13.9
 1984,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,13.8
 1984,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,12.0
 1984,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,12.5
@@ -643,7 +643,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1984,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,15.3
 1984,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,16.1
 1984,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,19.1
-1984,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,19.7
+1984,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,19.7
 1984,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,18.0
 1984,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,16.9
 1984,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,16.8
@@ -652,7 +652,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1984,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,21.1
 1984,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,7.5
 1984,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,10.2
-1984,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,9.1
+1984,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,9.1
 1984,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,9.8
 1984,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,7.8
 1984,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,8.8
@@ -661,7 +661,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1984,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,10.2
 1985,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,13.3
 1985,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,14.6
-1985,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,16.1
+1985,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,16.1
 1985,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,13.1
 1985,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,13.5
 1985,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,14.1
@@ -670,7 +670,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1985,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,14.4
 1985,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,18.5
 1985,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,21.2
-1985,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,21.2
+1985,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,21.2
 1985,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,18.0
 1985,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,18.2
 1985,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,19.9
@@ -679,7 +679,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1985,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,19.2
 1985,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,9.2
 1985,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,9.4
-1985,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,11.4
+1985,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,11.4
 1985,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,8.7
 1985,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,9.4
 1985,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,9.0
@@ -688,7 +688,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1985,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,10.0
 1986,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,14.1
 1986,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,15.0
-1986,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,15.4
+1986,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,15.4
 1986,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,10.9
 1986,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,12.4
 1986,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,13.7
@@ -697,7 +697,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1986,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,14.4
 1986,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,22.6
 1986,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,20.6
-1986,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,21.3
+1986,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,21.3
 1986,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,15.0
 1986,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,17.3
 1986,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,20.0
@@ -706,7 +706,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1986,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,19.4
 1986,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,7.0
 1986,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,10.4
-1986,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,10.2
+1986,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,10.2
 1986,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,7.0
 1986,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,7.6
 1986,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,8.4
@@ -715,7 +715,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1986,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,10.3
 1987,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,12.2
 1987,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,14.6
-1987,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,14.9
+1987,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,14.9
 1987,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,12.8
 1987,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,11.0
 1987,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,12.7
@@ -724,7 +724,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1987,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,14.1
 1987,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,17.8
 1987,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,21.7
-1987,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,22.0
+1987,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,22.0
 1987,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,19.9
 1987,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,15.6
 1987,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,17.9
@@ -733,7 +733,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1987,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,20.0
 1987,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,8.3
 1987,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,8.6
-1987,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,8.8
+1987,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,8.8
 1987,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,6.9
 1987,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,6.9
 1987,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,8.1
@@ -742,7 +742,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1987,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,9.0
 1988,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,14.5
 1988,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,14.0
-1988,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,14.9
+1988,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,14.9
 1988,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,13.2
 1988,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,13.2
 1988,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,13.5
@@ -751,7 +751,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1988,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,14.1
 1988,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,21.7
 1988,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,19.8
-1988,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,23.5
+1988,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,23.5
 1988,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,20.6
 1988,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,20.2
 1988,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,20.6
@@ -760,7 +760,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1988,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,21.2
 1988,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,8.7
 1988,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,9.0
-1988,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,8.2
+1988,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,8.2
 1988,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,6.9
 1988,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,6.8
 1988,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,7.2
@@ -769,7 +769,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1988,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,8.0
 1989,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,11.6
 1989,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,12.2
-1989,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,12.3
+1989,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,12.3
 1989,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,12.4
 1989,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,12.3
 1989,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,12.0
@@ -778,7 +778,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1989,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,12.7
 1989,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,17.3
 1989,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,17.9
-1989,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,19.1
+1989,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,19.1
 1989,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,18.4
 1989,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,18.0
 1989,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,18.2
@@ -787,7 +787,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1989,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,19.3
 1989,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,6.5
 1989,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,7.0
-1989,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,6.8
+1989,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,6.8
 1989,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,7.0
 1989,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,7.5
 1989,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,6.4
@@ -796,7 +796,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1989,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,6.9
 1990,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,11.2
 1990,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,12.8
-1990,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,12.3
+1990,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,12.3
 1990,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,12.6
 1990,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,12.1
 1990,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,12.7
@@ -805,7 +805,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1990,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,14.2
 1990,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,16.3
 1990,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,19.3
-1990,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,18.6
+1990,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,18.6
 1990,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,19.0
 1990,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,18.2
 1990,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,20.4
@@ -814,7 +814,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1990,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,22.5
 1990,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,6.4
 1990,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,6.5
-1990,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,6.7
+1990,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,6.7
 1990,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,6.6
 1990,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,6.7
 1990,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,5.9
@@ -823,7 +823,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1990,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,7.3
 1991,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,11.3
 1991,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,13.6
-1991,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,12.0
+1991,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,12.0
 1991,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,12.3
 1991,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,11.0
 1991,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,13.0
@@ -832,7 +832,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1991,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,13.0
 1991,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,18.3
 1991,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,20.3
-1991,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,18.3
+1991,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,18.3
 1991,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,19.8
 1991,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,17.0
 1991,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,20.9
@@ -841,7 +841,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1991,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,20.5
 1991,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,5.5
 1991,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,7.6
-1991,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,6.4
+1991,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,6.4
 1991,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,5.7
 1991,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,5.7
 1991,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,6.0
@@ -850,7 +850,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1991,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,6.0
 1992,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,11.8
 1992,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,13.0
-1992,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,12.9
+1992,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,12.9
 1992,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,11.0
 1992,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,11.3
 1992,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,11.2
@@ -859,7 +859,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1992,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,13.5
 1992,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,16.9
 1992,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,20.4
-1992,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,20.1
+1992,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,20.1
 1992,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,18.0
 1992,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,17.4
 1992,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,17.7
@@ -868,7 +868,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1992,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,20.6
 1992,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,7.4
 1992,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,6.3
-1992,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,6.6
+1992,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,6.6
 1992,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,4.6
 1992,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,5.8
 1992,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,5.3
@@ -877,7 +877,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1992,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,6.9
 1993,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,11.8
 1993,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,12.1
-1993,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,11.3
+1993,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,11.3
 1993,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,11.6
 1993,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,12.2
 1993,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,11.0
@@ -886,7 +886,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1993,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,11.1
 1993,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,19.4
 1993,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,18.7
-1993,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,17.3
+1993,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,17.3
 1993,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,19.2
 1993,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,19.5
 1993,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,16.8
@@ -895,7 +895,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1993,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,17.1
 1993,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,5.6
 1993,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,5.9
-1993,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,5.8
+1993,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,5.8
 1993,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,5.1
 1993,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,5.6
 1993,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,5.7
@@ -904,7 +904,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1993,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,5.7
 1994,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,11.4
 1994,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,11.8
-1994,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,11.6
+1994,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,11.6
 1994,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,11.6
 1994,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,10.7
 1994,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,10.4
@@ -913,7 +913,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1994,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,11.0
 1994,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,17.6
 1994,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,18.1
-1994,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,18.8
+1994,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,18.8
 1994,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,18.7
 1994,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,16.6
 1994,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,16.7
@@ -922,7 +922,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1994,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,16.8
 1994,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,6.4
 1994,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,6.1
-1994,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,5.5
+1994,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,5.5
 1994,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,5.3
 1994,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,5.1
 1994,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,4.8
@@ -931,7 +931,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1994,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,5.7
 1995,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,12.2
 1995,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,12.3
-1995,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,12.2
+1995,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,12.2
 1995,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,10.6
 1995,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,10.2
 1995,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,10.3
@@ -940,7 +940,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1995,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,12.2
 1995,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,19.9
 1995,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,19.1
-1995,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,18.4
+1995,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,18.4
 1995,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,16.0
 1995,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,16.2
 1995,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,16.8
@@ -949,7 +949,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1995,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,18.7
 1995,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,5.3
 1995,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,6.1
-1995,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,6.2
+1995,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,6.2
 1995,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,5.6
 1995,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,4.8
 1995,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,4.6
@@ -958,7 +958,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1995,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,6.2
 1996,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,11.3
 1996,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,11.4
-1996,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,11.0
+1996,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,11.0
 1996,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,11.2
 1996,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,9.9
 1996,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,10.3
@@ -967,7 +967,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1996,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,11.9
 1996,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,19.6
 1996,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,18.1
-1996,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,16.8
+1996,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,16.8
 1996,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,17.4
 1996,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,15.1
 1996,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,16.2
@@ -976,7 +976,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1996,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,18.4
 1996,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,4.2
 1996,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,5.3
-1996,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,5.7
+1996,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,5.7
 1996,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,5.5
 1996,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,5.0
 1996,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,4.9
@@ -985,7 +985,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1996,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,6.1
 1997,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,11.3
 1997,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,12.4
-1997,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,10.9
+1997,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,10.9
 1997,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,9.6
 1997,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,9.3
 1997,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,9.2
@@ -994,7 +994,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1997,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,10.5
 1997,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,17.9
 1997,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,18.8
-1997,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,17.8
+1997,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,17.8
 1997,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,15.0
 1997,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,14.6
 1997,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,14.1
@@ -1003,7 +1003,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1997,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,16.6
 1997,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,5.4
 1997,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,6.6
-1997,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,4.8
+1997,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,4.8
 1997,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,4.7
 1997,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,4.4
 1997,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,4.8
@@ -1012,7 +1012,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1997,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,5.1
 1998,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,12.8
 1998,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,13.5
-1998,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,12.5
+1998,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,12.5
 1998,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,10.2
 1998,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,10.3
 1998,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,10.5
@@ -1021,7 +1021,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1998,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,11.3
 1998,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,20.3
 1998,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,21.4
-1998,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,20.0
+1998,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,20.0
 1998,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,16.5
 1998,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,16.6
 1998,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,16.4
@@ -1030,7 +1030,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1998,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,17.0
 1998,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,6.1
 1998,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,6.2
-1998,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,5.4
+1998,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,5.4
 1998,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,4.2
 1998,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,4.3
 1998,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,5.1
@@ -1039,7 +1039,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1998,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,6.0
 1999,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,11.5
 1999,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,13.3
-1999,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,11.7
+1999,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,11.7
 1999,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,11.3
 1999,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,12.2
 1999,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,9.6
@@ -1048,7 +1048,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1999,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,11.9
 1999,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,18.6
 1999,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,20.8
-1999,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,19.1
+1999,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,19.1
 1999,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,17.8
 1999,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,19.0
 1999,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,15.9
@@ -1057,7 +1057,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1999,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,17.8
 1999,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,5.3
 1999,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,6.3
-1999,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,5.0
+1999,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,5.0
 1999,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,5.3
 1999,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,5.9
 1999,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,4.0
@@ -1066,7 +1066,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 1999,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,6.4
 2000,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,12.4
 2000,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,12.5
-2000,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,10.6
+2000,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,10.6
 2000,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,11.0
 2000,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,11.9
 2000,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,9.4
@@ -1075,7 +1075,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2000,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,11.8
 2000,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,20.0
 2000,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,19.7
-2000,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,16.1
+2000,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,16.1
 2000,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,17.6
 2000,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,18.8
 2000,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,14.5
@@ -1084,7 +1084,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2000,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,17.6
 2000,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,5.4
 2000,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,6.0
-2000,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,5.6
+2000,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,5.6
 2000,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,4.9
 2000,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,5.9
 2000,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,4.8
@@ -1093,7 +1093,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2000,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,6.3
 2001,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,11.2
 2001,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,12.2
-2001,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,10.2
+2001,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,10.2
 2001,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,10.7
 2001,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,11.4
 2001,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,9.4
@@ -1102,7 +1102,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2001,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,10.6
 2001,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,18.3
 2001,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,18.9
-2001,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,16.1
+2001,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,16.1
 2001,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,16.9
 2001,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,18.3
 2001,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,14.1
@@ -1111,7 +1111,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2001,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,17.2
 2001,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,4.8
 2001,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,6.1
-2001,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,4.9
+2001,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,4.9
 2001,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,4.9
 2001,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,5.1
 2001,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,5.0
@@ -1120,7 +1120,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2001,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,4.5
 2002,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,10.6
 2002,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,10.8
-2002,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,10.4
+2002,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,10.4
 2002,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,9.8
 2002,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,10.0
 2002,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,9.9
@@ -1129,7 +1129,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2002,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,10.3
 2002,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,17.5
 2002,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,16.3
-2002,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,16.3
+2002,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,16.3
 2002,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,15.0
 2002,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,16.3
 2002,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,15.8
@@ -1138,7 +1138,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2002,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,15.0
 2002,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,4.4
 2002,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,5.7
-2002,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,4.8
+2002,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,4.8
 2002,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,4.8
 2002,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,4.1
 2002,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,4.5
@@ -1147,7 +1147,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2002,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,5.9
 2003,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,12.2
 2003,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,10.7
-2003,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,9.6
+2003,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,9.6
 2003,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,10.1
 2003,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,10.1
 2003,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,9.4
@@ -1156,7 +1156,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2003,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,10.2
 2003,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,20.6
 2003,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,16.1
-2003,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,14.8
+2003,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,14.8
 2003,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,15.9
 2003,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,15.7
 2003,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,14.2
@@ -1165,7 +1165,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2003,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,16.2
 2003,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,5.0
 2003,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,5.7
-2003,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,4.7
+2003,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,4.7
 2003,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,4.8
 2003,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,4.7
 2003,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,4.8
@@ -1174,7 +1174,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2003,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,5.0
 2004,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,13.3
 2004,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,10.7
-2004,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,10.7
+2004,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,10.7
 2004,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,10.4
 2004,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,9.8
 2004,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,9.4
@@ -1183,7 +1183,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2004,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,11.0
 2004,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,20.3
 2004,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,16.6
-2004,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,16.9
+2004,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,16.9
 2004,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,15.9
 2004,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,15.0
 2004,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,13.7
@@ -1192,7 +1192,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2004,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,16.5
 2004,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,7.2
 2004,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,5.2
-2004,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,5.4
+2004,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,5.4
 2004,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,5.4
 2004,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,5.1
 2004,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,5.3
@@ -1201,7 +1201,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2004,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,6.0
 2005,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,10.8
 2005,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,11.2
-2005,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,10.8
+2005,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,10.8
 2005,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,9.6
 2005,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,9.2
 2005,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,9.2
@@ -1210,7 +1210,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2005,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,10.1
 2005,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,16.5
 2005,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,17.9
-2005,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,16.2
+2005,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,16.2
 2005,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,15.0
 2005,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,13.7
 2005,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,14.4
@@ -1219,7 +1219,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2005,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,15.6
 2005,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,5.8
 2005,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,5.1
-2005,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,5.6
+2005,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,5.6
 2005,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,4.4
 2005,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,5.0
 2005,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,4.6
@@ -1228,7 +1228,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2005,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,5.0
 2006,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,10.0
 2006,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,10.5
-2006,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,9.0
+2006,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,9.0
 2006,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,9.2
 2006,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,8.8
 2006,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,8.7
@@ -1237,7 +1237,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2006,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,10.2
 2006,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,16.5
 2006,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,16.7
-2006,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,14.5
+2006,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,14.5
 2006,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,14.0
 2006,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,13.6
 2006,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,13.2
@@ -1246,7 +1246,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2006,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,16.0
 2006,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,4.4
 2006,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,4.7
-2006,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,4.0
+2006,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,4.0
 2006,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,4.8
 2006,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,4.3
 2006,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,4.5
@@ -1255,7 +1255,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2006,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,4.7
 2007,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,9.6
 2007,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,10.5
-2007,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,9.3
+2007,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,9.3
 2007,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,8.9
 2007,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,7.6
 2007,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,8.5
@@ -1264,7 +1264,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2007,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,9.1
 2007,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,15.7
 2007,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,16.8
-2007,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,15.1
+2007,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,15.1
 2007,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,14.5
 2007,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,11.7
 2007,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,13.3
@@ -1273,7 +1273,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2007,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,13.8
 2007,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,4.0
 2007,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,4.5
-2007,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,3.9
+2007,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,3.9
 2007,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,3.8
 2007,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,3.7
 2007,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,4.0
@@ -1282,7 +1282,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2007,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,4.7
 2008,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,10.1
 2008,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,10.1
-2008,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,10.0
+2008,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,10.0
 2008,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,8.5
 2008,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,9.7
 2008,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,9.8
@@ -1291,7 +1291,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2008,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,9.6
 2008,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,16.3
 2008,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,16.0
-2008,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,16.1
+2008,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,16.1
 2008,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,12.9
 2008,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,15.7
 2008,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,14.9
@@ -1300,7 +1300,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2008,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,14.9
 2008,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,4.4
 2008,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,4.4
-2008,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,4.3
+2008,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,4.3
 2008,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,4.3
 2008,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,4.2
 2008,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,4.9
@@ -1309,7 +1309,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2008,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,4.8
 2009,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,10.4
 2009,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,11.5
-2009,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,8.8
+2009,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,8.8
 2009,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,9.4
 2009,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,9.3
 2009,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,8.3
@@ -1318,7 +1318,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2009,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,11.2
 2009,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,17.6
 2009,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,18.1
-2009,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,14.4
+2009,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,14.4
 2009,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,13.9
 2009,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,14.3
 2009,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,13.1
@@ -1327,7 +1327,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2009,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,17.4
 2009,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,3.7
 2009,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,5.4
-2009,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,3.5
+2009,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,3.5
 2009,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,5.1
 2009,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,4.4
 2009,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,3.9
@@ -1336,7 +1336,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2009,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,5.3
 2010,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,10.3
 2010,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,10.1
-2010,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,8.3
+2010,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,8.3
 2010,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,8.1
 2010,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,9.4
 2010,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,8.8
@@ -1345,7 +1345,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2010,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,10.7
 2010,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,15.5
 2010,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,16.1
-2010,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,12.6
+2010,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,12.6
 2010,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,12.4
 2010,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,14.3
 2010,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,14.3
@@ -1354,7 +1354,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2010,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,16.6
 2010,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,5.4
 2010,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,4.4
-2010,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,4.0
+2010,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,4.0
 2010,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,4.1
 2010,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,4.7
 2010,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,3.6
@@ -1363,7 +1363,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2010,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,5.4
 2011,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,11.9
 2011,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,10.9
-2011,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,10.0
+2011,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,10.0
 2011,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,9.2
 2011,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,8.9
 2011,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,9.4
@@ -1372,7 +1372,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2011,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,11.0
 2011,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,19.6
 2011,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,17.4
-2011,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,15.9
+2011,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,15.9
 2011,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,14.5
 2011,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,13.8
 2011,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,14.5
@@ -1381,7 +1381,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2011,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,17.2
 2011,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,4.6
 2011,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,4.6
-2011,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,4.4
+2011,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,4.4
 2011,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,4.1
 2011,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,4.4
 2011,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,4.5
@@ -1390,7 +1390,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2011,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,5.2
 2012,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,10.8
 2012,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,11.3
-2012,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,10.4
+2012,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,10.4
 2012,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,9.4
 2012,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,9.2
 2012,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,8.4
@@ -1399,7 +1399,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2012,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,11.0
 2012,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,17.7
 2012,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,18.2
-2012,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,16.9
+2012,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,16.9
 2012,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,15.6
 2012,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,14.8
 2012,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,13.0
@@ -1408,7 +1408,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2012,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,17.2
 2012,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,4.0
 2012,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,4.8
-2012,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,4.2
+2012,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,4.2
 2012,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,3.5
 2012,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,3.8
 2012,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,4.1
@@ -1417,7 +1417,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2012,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,5.3
 2013,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,13.0
 2013,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,11.6
-2013,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,10.9
+2013,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,10.9
 2013,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,9.6
 2013,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,9.8
 2013,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,8.8
@@ -1426,7 +1426,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2013,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,11.7
 2013,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,20.8
 2013,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,18.8
-2013,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,17.9
+2013,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,17.9
 2013,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,15.7
 2013,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,16.2
 2013,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,14.0
@@ -1435,7 +1435,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2013,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,17.9
 2013,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,5.5
 2013,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,4.7
-2013,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,4.1
+2013,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,4.1
 2013,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,3.8
 2013,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,3.6
 2013,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,3.9
@@ -1444,7 +1444,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2013,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,5.9
 2014,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,13.2
 2014,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,11.7
-2014,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,9.7
+2014,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,9.7
 2014,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,10.5
 2014,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,11.6
 2014,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,9.8
@@ -1453,7 +1453,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2014,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,11.1
 2014,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,21.4
 2014,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,17.7
-2014,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,15.6
+2014,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,15.6
 2014,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,16.3
 2014,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,18.5
 2014,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,15.2
@@ -1462,7 +1462,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2014,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,16.0
 2014,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,5.4
 2014,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,5.8
-2014,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,4.1
+2014,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,4.1
 2014,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,4.9
 2014,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,5.0
 2014,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,4.8
@@ -1471,7 +1471,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2014,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,6.5
 2015,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,10.9
 2015,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,10.8
-2015,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,11.6
+2015,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,11.6
 2015,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,9.8
 2015,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,9.6
 2015,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,9.3
@@ -1480,7 +1480,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,10.2
 2015,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,16.8
 2015,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,16.4
-2015,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,17.9
+2015,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,17.9
 2015,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,15.3
 2015,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,15.2
 2015,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,14.5
@@ -1489,7 +1489,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,14.7
 2015,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,5.3
 2015,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,5.5
-2015,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,5.6
+2015,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,5.6
 2015,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,4.5
 2015,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,4.1
 2015,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,4.4
@@ -1498,7 +1498,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,5.7
 2016,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,10.6
 2016,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,10.5
-2016,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,9.9
+2016,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,9.9
 2016,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,8.4
 2016,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,8.9
 2016,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,9.8
@@ -1507,7 +1507,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2016,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,11.2
 2016,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,15.9
 2016,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,16.2
-2016,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,15.8
+2016,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,15.8
 2016,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,13.6
 2016,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,13.9
 2016,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,15.2
@@ -1516,7 +1516,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2016,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,17.1
 2016,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,5.5
 2016,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,5.0
-2016,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,4.2
+2016,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,4.2
 2016,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,3.6
 2016,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,4.1
 2016,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,4.8
@@ -1525,7 +1525,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2016,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,5.6
 2017,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,10.8
 2017,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,10.1
-2017,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,9.9
+2017,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,9.9
 2017,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,8.1
 2017,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,9.9
 2017,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,8.7
@@ -1534,7 +1534,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2017,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,10.5
 2017,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,17.8
 2017,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,15.6
-2017,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,15.3
+2017,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,15.3
 2017,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,12.4
 2017,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,15.4
 2017,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,13.2
@@ -1543,7 +1543,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2017,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,15.7
 2017,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,4.1
 2017,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,4.8
-2017,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,4.6
+2017,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,4.6
 2017,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,4.1
 2017,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,4.6
 2017,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,4.5
@@ -6765,7 +6765,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2017,Female,,Northern Ireland,,Undefined,Units,"Rate per 100,000 population",N92000002,8.5
 2018,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,12.5
 2018,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,10.8
-2018,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,12.2
+2018,,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,12.2
 2018,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,9.6
 2018,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,10.2
 2018,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,11.3
@@ -6774,7 +6774,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2018,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,11.5
 2018,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,20.4
 2018,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,17.0
-2018,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,19.0
+2018,Male,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,19.0
 2018,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,14.8
 2018,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,15.7
 2018,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,17.6
@@ -6783,7 +6783,7 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2018,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,17.7
 2018,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,5.2
 2018,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,4.8
-2018,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,5.7
+2018,Female,,England,Yorkshire and the Humber,Undefined,Units,"Rate per 100,000 population",,5.7
 2018,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,4.7
 2018,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,4.9
 2018,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,5.4

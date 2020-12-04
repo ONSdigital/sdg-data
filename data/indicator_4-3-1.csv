@@ -10,17 +10,17 @@ Year,Education category,Age,Sex,Region,Household income,Deprivation quantile,Emp
 2016,Formal,,Female,,,,,,,,Undefined,Units,Percentage (%),,11.2
 2016,Formal,,,North East,,,,,,,Undefined,Units,Percentage (%),E12000001,11.1
 2016,Formal,,,North West,,,,,,,Undefined,Units,Percentage (%),E12000002,11.6
-2016,Formal,,,Yorkshire and The Humber,,,,,,,Undefined,Units,Percentage (%),E12000003,9.1
+2016,Formal,,,Yorkshire and the Humber,,,,,,,Undefined,Units,Percentage (%),,9.1
 2016,Formal,,,East Midlands,,,,,,,Undefined,Units,Percentage (%),E12000004,12.6
 2016,Formal,,,West Midlands,,,,,,,Undefined,Units,Percentage (%),E12000005,9.0
 2016,Formal,,,East of England,,,,,,,Undefined,Units,Percentage (%),E12000006,8.2
 2016,Formal,,,London,,,,,,,Undefined,Units,Percentage (%),E12000007,10.2
 2016,Formal,,,South East,,,,,,,Undefined,Units,Percentage (%),E12000008,9.8
 2016,Formal,,,South West,,,,,,,Undefined,Units,Percentage (%),E12000009,13.0
-2016,Formal,,,,"Less than 14,999",,,,,,Undefined,Units,Percentage (%),,5.9
-2016,Formal,,,,"15,000 to 29,999",,,,,,Undefined,Units,Percentage (%),,9.2
-2016,Formal,,,,"30,000 to 44,999",,,,,,Undefined,Units,Percentage (%),,13.3
-2016,Formal,,,,"45,000 and above",,,,,,Undefined,Units,Percentage (%),,13.6
+2016,Formal,,,,"Less than £14,999",,,,,,Undefined,Units,Percentage (%),,5.9
+2016,Formal,,,,"£15,000 to £29,999",,,,,,Undefined,Units,Percentage (%),,9.2
+2016,Formal,,,,"£30,000 to £44,999",,,,,,Undefined,Units,Percentage (%),,13.3
+2016,Formal,,,,"£45,000 or more",,,,,,Undefined,Units,Percentage (%),,13.6
 2016,Formal,,,,,Quintile 1 (most deprived),,,,,Undefined,Units,Percentage (%),,10.6
 2016,Formal,,,,,Quintile 2,,,,,Undefined,Units,Percentage (%),,12.5
 2016,Formal,,,,,Quintile 3,,,,,Undefined,Units,Percentage (%),,10.4
@@ -42,8 +42,8 @@ Year,Education category,Age,Sex,Region,Household income,Deprivation quantile,Emp
 2016,Formal,,,,,,,No qualification,,,Undefined,Units,Percentage (%),,1.0
 2016,Formal,,,,,,,,Disability and/or work-limiting disabled,,Undefined,Units,Percentage (%),,7.5
 2016,Formal,,,,,,,,No disability,,Undefined,Units,Percentage (%),,12.0
-2016,Formal,,,,,,,,,UK,Undefined,Units,Percentage (%),,10.0
-2016,Formal,,,,,,,,,Non-UK,Undefined,Units,Percentage (%),,13.3
+2016,Formal,,,,,,,,,Born in UK,Undefined,Units,Percentage (%),,10.0
+2016,Formal,,,,,,,,,Not born in UK,Undefined,Units,Percentage (%),,13.3
 2016,Non-formal learning,,,,,,,,,,Undefined,Units,Percentage (%),,42.3
 2016,Non-formal learning,19 to 24,,,,,,,,,Undefined,Units,Percentage (%),,64.9
 2016,Non-formal learning,25 to 34,,,,,,,,,Undefined,Units,Percentage (%),,54.5
@@ -55,17 +55,17 @@ Year,Education category,Age,Sex,Region,Household income,Deprivation quantile,Emp
 2016,Non-formal learning,,Female,,,,,,,,Undefined,Units,Percentage (%),,43.4
 2016,Non-formal learning,,,North East,,,,,,,Undefined,Units,Percentage (%),E12000001,39.8
 2016,Non-formal learning,,,North West,,,,,,,Undefined,Units,Percentage (%),E12000002,43.3
-2016,Non-formal learning,,,Yorkshire and The Humber,,,,,,,Undefined,Units,Percentage (%),E12000003,40.6
+2016,Non-formal learning,,,Yorkshire and the Humber,,,,,,,Undefined,Units,Percentage (%),,40.6
 2016,Non-formal learning,,,East Midlands,,,,,,,Undefined,Units,Percentage (%),E12000004,41.1
 2016,Non-formal learning,,,West Midlands,,,,,,,Undefined,Units,Percentage (%),E12000005,36.0
 2016,Non-formal learning,,,East of England,,,,,,,Undefined,Units,Percentage (%),E12000006,41.4
 2016,Non-formal learning,,,London,,,,,,,Undefined,Units,Percentage (%),E12000007,44.2
 2016,Non-formal learning,,,South East,,,,,,,Undefined,Units,Percentage (%),E12000008,46.5
 2016,Non-formal learning,,,South West,,,,,,,Undefined,Units,Percentage (%),E12000009,42.3
-2016,Non-formal learning,,,,"Less than 14,999",,,,,,Undefined,Units,Percentage (%),,24.3
-2016,Non-formal learning,,,,"15,000 to 29,999",,,,,,Undefined,Units,Percentage (%),,39.7
-2016,Non-formal learning,,,,"30,000 to 44,999",,,,,,Undefined,Units,Percentage (%),,48.9
-2016,Non-formal learning,,,,"45,000 and above",,,,,,Undefined,Units,Percentage (%),,58.1
+2016,Non-formal learning,,,,"Less than £14,999",,,,,,Undefined,Units,Percentage (%),,24.3
+2016,Non-formal learning,,,,"£15,000 to £29,999",,,,,,Undefined,Units,Percentage (%),,39.7
+2016,Non-formal learning,,,,"£30,000 to £44,999",,,,,,Undefined,Units,Percentage (%),,48.9
+2016,Non-formal learning,,,,"£45,000 or more",,,,,,Undefined,Units,Percentage (%),,58.1
 2016,Non-formal learning,,,,,Quintile 1 (most deprived),,,,,Undefined,Units,Percentage (%),,33.7
 2016,Non-formal learning,,,,,Quintile 2,,,,,Undefined,Units,Percentage (%),,41.8
 2016,Non-formal learning,,,,,Quintile 3,,,,,Undefined,Units,Percentage (%),,44.1
@@ -87,5 +87,5 @@ Year,Education category,Age,Sex,Region,Household income,Deprivation quantile,Emp
 2016,Non-formal learning,,,,,,,No qualification,,,Undefined,Units,Percentage (%),,13.2
 2016,Non-formal learning,,,,,,,,Disability and/or work-limiting disabled,,Undefined,Units,Percentage (%),,30.9
 2016,Non-formal learning,,,,,,,,No disability,,Undefined,Units,Percentage (%),,47.6
-2016,Non-formal learning,,,,,,,,,UK,Undefined,Units,Percentage (%),,42.0
-2016,Non-formal learning,,,,,,,,,Non-UK,Undefined,Units,Percentage (%),,44.1
+2016,Non-formal learning,,,,,,,,,Born in UK,Undefined,Units,Percentage (%),,42.0
+2016,Non-formal learning,,,,,,,,,Not born in UK,Undefined,Units,Percentage (%),,44.1
