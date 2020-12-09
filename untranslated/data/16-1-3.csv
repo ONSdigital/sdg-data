@@ -1,4 +1,4 @@
-Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Country of birth,Household income,Area type,Region,Highest qualification,Observation status,Unit multiplier,Unit measure,GeoCode,Value
+Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Country of birth,Household income,Urban or Rural,Region,Highest qualification,Observation status,Unit multiplier,Unit measure,GeoCode,Value
 2014/15,(a) Physical violence (%),,,,,,,,,,,,Undefined,Units,Percentage (%),,1.8080541271000001
 2014/15,(a) Physical violence (%),Violence with injury,,,,,,,,,,,Undefined,Units,Percentage (%),,0.9464811036496404
 2014/15,(a) Physical violence (%),Wounding,,,,,,,,,,,Undefined,Units,Percentage (%),,0.4546042998741819
@@ -16,13 +16,13 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2014/15,(a) Physical violence (%),,,,White,,,,,,,,Undefined,Units,Percentage (%),,1.7858373046945302
 2014/15,(a) Physical violence (%),,,,White,English/Welsh/Scottish/Northern Irish/British,,,,,,,Undefined,Units,Percentage (%),,1.8046327357244505
 2014/15,(a) Physical violence (%),,,,White,Irish,,,,,,,Undefined,Units,Percentage (%),,1.3359583464756133
-2014/15,(a) Physical violence (%),,,,White,Gypsy/Irish traveller,,,,,,,Undefined,Units,Percentage (%),,
-2014/15,(a) Physical violence (%),,,,White,Any other white background,,,,,,,Undefined,Units,Percentage (%),,1.5939166895599364
-2014/15,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,5.792957331720818
-2014/15,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,White and Black Caribbean,,,,,,,Undefined,Units,Percentage (%),,7.282570690386362
-2014/15,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,White and Black African,,,,,,,Undefined,Units,Percentage (%),,
-2014/15,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,White and Asian,,,,,,,Undefined,Units,Percentage (%),,9.458545571742636
-2014/15,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,Any other mixed/multiple ethnic background,,,,,,,Undefined,Units,Percentage (%),,3.645864440965201
+2014/15,(a) Physical violence (%),,,,White,Gypsy or Irish Traveller,,,,,,,Undefined,Units,Percentage (%),,
+2014/15,(a) Physical violence (%),,,,White,Any other White background,,,,,,,Undefined,Units,Percentage (%),,1.5939166895599364
+2014/15,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,5.792957331720818
+2014/15,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,White and Black Caribbean,,,,,,,Undefined,Units,Percentage (%),,7.282570690386362
+2014/15,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,White and Black African,,,,,,,Undefined,Units,Percentage (%),,
+2014/15,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,White and Asian,,,,,,,Undefined,Units,Percentage (%),,9.458545571742636
+2014/15,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,Any other Mixed/Multiple ethnic background,,,,,,,Undefined,Units,Percentage (%),,3.645864440965201
 2014/15,(a) Physical violence (%),,,,Asian/Asian British,,,,,,,,Undefined,Units,Percentage (%),,1.2342229864424619
 2014/15,(a) Physical violence (%),,,,Asian/Asian British,Indian,,,,,,,Undefined,Units,Percentage (%),,0.8782902516433493
 2014/15,(a) Physical violence (%),,,,Asian/Asian British,Pakistani,,,,,,,Undefined,Units,Percentage (%),,0.944436962117952
@@ -46,8 +46,8 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2014/15,(a) Physical violence (%),,,,,,,,,,,Degree or diploma,Undefined,Units,Percentage (%),,2.098140653679858
 2014/15,(a) Physical violence (%),,,,,,,,,,,Apprenticeship or A/AS level,Undefined,Units,Percentage (%),,2.155675098212748
 2014/15,(a) Physical violence (%),,,,,,,,,,,O level/GCSE,Undefined,Units,Percentage (%),,1.7613990405214914
-2014/15,(a) Physical violence (%),,,,,,,,,,,Other,Undefined,Units,Percentage (%),,0.8865674349977063
-2014/15,(a) Physical violence (%),,,,,,,,,,,No qualifications,Undefined,Units,Percentage (%),,1.0579634759834329
+2014/15,(a) Physical violence (%),,,,,,,,,,,Other qualification,Undefined,Units,Percentage (%),,0.8865674349977063
+2014/15,(a) Physical violence (%),,,,,,,,,,,No qualification,Undefined,Units,Percentage (%),,1.0579634759834329
 2014/15,(a) Physical violence (%),,,,,,,,,Urban,,,Undefined,Units,Percentage (%),,1.9225259861487443
 2014/15,(a) Physical violence (%),,,,,,,,,Rural,,,Undefined,Units,Percentage (%),,1.3178899894079583
 2015/16,(a) Physical violence (%),,,,,,,,,,,,Undefined,Units,Percentage (%),,1.7969733332441653
@@ -67,13 +67,13 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2015/16,(a) Physical violence (%),,,,White,,,,,,,,Undefined,Units,Percentage (%),,1.8466528844472123
 2015/16,(a) Physical violence (%),,,,White,English/Welsh/Scottish/Northern Irish/British,,,,,,,Undefined,Units,Percentage (%),,1.8507597460523233
 2015/16,(a) Physical violence (%),,,,White,Irish,,,,,,,Undefined,Units,Percentage (%),,1.8215606046684696
-2015/16,(a) Physical violence (%),,,,White,Gypsy/Irish traveller,,,,,,,Undefined,Units,Percentage (%),,
-2015/16,(a) Physical violence (%),,,,White,Any other white background,,,,,,,Undefined,Units,Percentage (%),,1.7466246940784622
-2015/16,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,1.3935263668240994
-2015/16,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,White and Black Caribbean,,,,,,,Undefined,Units,Percentage (%),,2.028139073372186
-2015/16,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,White and Black African,,,,,,,Undefined,Units,Percentage (%),,
-2015/16,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,White and Asian,,,,,,,Undefined,Units,Percentage (%),,2.379890328403052
-2015/16,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,Any other mixed/multiple ethnic background,,,,,,,Undefined,Units,Percentage (%),,0.0
+2015/16,(a) Physical violence (%),,,,White,Gypsy or Irish Traveller,,,,,,,Undefined,Units,Percentage (%),,
+2015/16,(a) Physical violence (%),,,,White,Any other White background,,,,,,,Undefined,Units,Percentage (%),,1.7466246940784622
+2015/16,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,1.3935263668240994
+2015/16,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,White and Black Caribbean,,,,,,,Undefined,Units,Percentage (%),,2.028139073372186
+2015/16,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,White and Black African,,,,,,,Undefined,Units,Percentage (%),,
+2015/16,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,White and Asian,,,,,,,Undefined,Units,Percentage (%),,2.379890328403052
+2015/16,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,Any other Mixed/Multiple ethnic background,,,,,,,Undefined,Units,Percentage (%),,0.0
 2015/16,(a) Physical violence (%),,,,Asian/Asian British,,,,,,,,Undefined,Units,Percentage (%),,1.1001187540827748
 2015/16,(a) Physical violence (%),,,,Asian/Asian British,Indian,,,,,,,Undefined,Units,Percentage (%),,0.7836073355827883
 2015/16,(a) Physical violence (%),,,,Asian/Asian British,Pakistani,,,,,,,Undefined,Units,Percentage (%),,2.353246079050248
@@ -97,8 +97,8 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2015/16,(a) Physical violence (%),,,,,,,,,,,Degree or diploma,Undefined,Units,Percentage (%),,1.9873825378855436
 2015/16,(a) Physical violence (%),,,,,,,,,,,Apprenticeship or A/AS level,Undefined,Units,Percentage (%),,1.9376133163608649
 2015/16,(a) Physical violence (%),,,,,,,,,,,O level/GCSE,Undefined,Units,Percentage (%),,2.259016235477848
-2015/16,(a) Physical violence (%),,,,,,,,,,,Other,Undefined,Units,Percentage (%),,1.02087764843964
-2015/16,(a) Physical violence (%),,,,,,,,,,,No qualifications,Undefined,Units,Percentage (%),,0.9046098214112116
+2015/16,(a) Physical violence (%),,,,,,,,,,,Other qualification,Undefined,Units,Percentage (%),,1.02087764843964
+2015/16,(a) Physical violence (%),,,,,,,,,,,No qualification,Undefined,Units,Percentage (%),,0.9046098214112116
 2015/16,(a) Physical violence (%),,,,,,,,,Urban,,,Undefined,Units,Percentage (%),,1.9036623886963893
 2015/16,(a) Physical violence (%),,,,,,,,,Rural,,,Undefined,Units,Percentage (%),,1.3401999773196962
 2016/17,(a) Physical violence (%),,,,,,,,,,,,Undefined,Units,Percentage (%),,1.6663071735395631
@@ -118,13 +118,13 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2016/17,(a) Physical violence (%),,,,White,,,,,,,,Undefined,Units,Percentage (%),,1.7410259650096158
 2016/17,(a) Physical violence (%),,,,White,English/Welsh/Scottish/Northern Irish/British,,,,,,,Undefined,Units,Percentage (%),,1.767074163529622
 2016/17,(a) Physical violence (%),,,,White,Irish,,,,,,,Undefined,Units,Percentage (%),,1.0994169058688412
-2016/17,(a) Physical violence (%),,,,White,Gypsy/Irish traveller,,,,,,,Undefined,Units,Percentage (%),,
-2016/17,(a) Physical violence (%),,,,White,Any other white background,,,,,,,Undefined,Units,Percentage (%),,1.4957276004141251
-2016/17,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,1.9186214559887769
-2016/17,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,White and Black Caribbean,,,,,,,Undefined,Units,Percentage (%),,3.1264618194715728
-2016/17,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,White and Black African,,,,,,,Undefined,Units,Percentage (%),,3.1781135066874797
-2016/17,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,White and Asian,,,,,,,Undefined,Units,Percentage (%),,0.4848120750605977
-2016/17,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,Any other mixed/multiple ethnic background,,,,,,,Undefined,Units,Percentage (%),,1.2538492392330909
+2016/17,(a) Physical violence (%),,,,White,Gypsy or Irish Traveller,,,,,,,Undefined,Units,Percentage (%),,
+2016/17,(a) Physical violence (%),,,,White,Any other White background,,,,,,,Undefined,Units,Percentage (%),,1.4957276004141251
+2016/17,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,1.9186214559887769
+2016/17,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,White and Black Caribbean,,,,,,,Undefined,Units,Percentage (%),,3.1264618194715728
+2016/17,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,White and Black African,,,,,,,Undefined,Units,Percentage (%),,3.1781135066874797
+2016/17,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,White and Asian,,,,,,,Undefined,Units,Percentage (%),,0.4848120750605977
+2016/17,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,Any other Mixed/Multiple ethnic background,,,,,,,Undefined,Units,Percentage (%),,1.2538492392330909
 2016/17,(a) Physical violence (%),,,,Asian/Asian British,,,,,,,,Undefined,Units,Percentage (%),,0.7839314564559086
 2016/17,(a) Physical violence (%),,,,Asian/Asian British,Indian,,,,,,,Undefined,Units,Percentage (%),,0.4499597583548557
 2016/17,(a) Physical violence (%),,,,Asian/Asian British,Pakistani,,,,,,,Undefined,Units,Percentage (%),,0.9102810598553652
@@ -148,8 +148,8 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2016/17,(a) Physical violence (%),,,,,,,,,,,Degree or diploma,Undefined,Units,Percentage (%),,1.4168069171489197
 2016/17,(a) Physical violence (%),,,,,,,,,,,Apprenticeship or A/AS level,Undefined,Units,Percentage (%),,2.4034162022980685
 2016/17,(a) Physical violence (%),,,,,,,,,,,O level/GCSE,Undefined,Units,Percentage (%),,1.9851728278627612
-2016/17,(a) Physical violence (%),,,,,,,,,,,Other,Undefined,Units,Percentage (%),,1.9622366241407052
-2016/17,(a) Physical violence (%),,,,,,,,,,,No qualifications,Undefined,Units,Percentage (%),,1.114881798402254
+2016/17,(a) Physical violence (%),,,,,,,,,,,Other qualification,Undefined,Units,Percentage (%),,1.9622366241407052
+2016/17,(a) Physical violence (%),,,,,,,,,,,No qualification,Undefined,Units,Percentage (%),,1.114881798402254
 2016/17,(a) Physical violence (%),,,,,,,,,Urban,,,Undefined,Units,Percentage (%),,1.7623084320057525
 2016/17,(a) Physical violence (%),,,,,,,,,Rural,,,Undefined,Units,Percentage (%),,1.2240891974918826
 2017/18,(a) Physical violence (%),,,,,,,,,,,,Undefined,Units,Percentage (%),,1.7499497701555906
@@ -169,13 +169,13 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2017/18,(a) Physical violence (%),,,,White,,,,,,,,Undefined,Units,Percentage (%),,1.7975357151835611
 2017/18,(a) Physical violence (%),,,,White,English/Welsh/Scottish/Northern Irish/British,,,,,,,Undefined,Units,Percentage (%),,1.8600818131845969
 2017/18,(a) Physical violence (%),,,,White,Irish,,,,,,,Undefined,Units,Percentage (%),,2.272178777028793
-2017/18,(a) Physical violence (%),,,,White,Gypsy/Irish traveller,,,,,,,Undefined,Units,Percentage (%),,
-2017/18,(a) Physical violence (%),,,,White,Any other white background,,,,,,,Undefined,Units,Percentage (%),,1.005185142693686
-2017/18,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,3.726234374999141
-2017/18,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,White and Black Caribbean,,,,,,,Undefined,Units,Percentage (%),,5.337650539975536
-2017/18,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,White and Black African,,,,,,,Undefined,Units,Percentage (%),,3.31342953181112
-2017/18,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,White and Asian,,,,,,,Undefined,Units,Percentage (%),,4.575755118252693
-2017/18,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,Any other mixed/multiple ethnic background,,,,,,,Undefined,Units,Percentage (%),,1.57788868204351
+2017/18,(a) Physical violence (%),,,,White,Gypsy or Irish Traveller,,,,,,,Undefined,Units,Percentage (%),,
+2017/18,(a) Physical violence (%),,,,White,Any other White background,,,,,,,Undefined,Units,Percentage (%),,1.005185142693686
+2017/18,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,3.726234374999141
+2017/18,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,White and Black Caribbean,,,,,,,Undefined,Units,Percentage (%),,5.337650539975536
+2017/18,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,White and Black African,,,,,,,Undefined,Units,Percentage (%),,3.31342953181112
+2017/18,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,White and Asian,,,,,,,Undefined,Units,Percentage (%),,4.575755118252693
+2017/18,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,Any other Mixed/Multiple ethnic background,,,,,,,Undefined,Units,Percentage (%),,1.57788868204351
 2017/18,(a) Physical violence (%),,,,Asian/Asian British,,,,,,,,Undefined,Units,Percentage (%),,1.1391411978880412
 2017/18,(a) Physical violence (%),,,,Asian/Asian British,Indian,,,,,,,Undefined,Units,Percentage (%),,1.283010347879843
 2017/18,(a) Physical violence (%),,,,Asian/Asian British,Pakistani,,,,,,,Undefined,Units,Percentage (%),,1.050213607174003
@@ -199,8 +199,8 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2017/18,(a) Physical violence (%),,,,,,,,,,,Degree or diploma,Undefined,Units,Percentage (%),,1.8244344504113172
 2017/18,(a) Physical violence (%),,,,,,,,,,,Apprenticeship or A/AS level,Undefined,Units,Percentage (%),,2.409912092608572
 2017/18,(a) Physical violence (%),,,,,,,,,,,O level/GCSE,Undefined,Units,Percentage (%),,1.6408814357056225
-2017/18,(a) Physical violence (%),,,,,,,,,,,Other,Undefined,Units,Percentage (%),,1.2109316956096776
-2017/18,(a) Physical violence (%),,,,,,,,,,,No qualifications,Undefined,Units,Percentage (%),,1.121675276471234
+2017/18,(a) Physical violence (%),,,,,,,,,,,Other qualification,Undefined,Units,Percentage (%),,1.2109316956096776
+2017/18,(a) Physical violence (%),,,,,,,,,,,No qualification,Undefined,Units,Percentage (%),,1.121675276471234
 2017/18,(a) Physical violence (%),,,,,,,,,Urban,,,Undefined,Units,Percentage (%),,1.8426168666078184
 2017/18,(a) Physical violence (%),,,,,,,,,Rural,,,Undefined,Units,Percentage (%),,1.3600245778952975
 2018/19,(a) Physical violence (%),,,,,,,,,,,,Undefined,Units,Percentage (%),,1.730990470867787
@@ -220,13 +220,13 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2018/19,(a) Physical violence (%),,,,White,,,,,,,,Undefined,Units,Percentage (%),,1.7722676332853573
 2018/19,(a) Physical violence (%),,,,White,English/Welsh/Scottish/Northern Irish/British,,,,,,,Undefined,Units,Percentage (%),,1.8309947729473182
 2018/19,(a) Physical violence (%),,,,White,Irish,,,,,,,Undefined,Units,Percentage (%),,1.1673342956893629
-2018/19,(a) Physical violence (%),,,,White,Gypsy/Irish traveller,,,,,,,Undefined,Units,Percentage (%),,
-2018/19,(a) Physical violence (%),,,,White,Any other white background,,,,,,,Undefined,Units,Percentage (%),,1.17892860369012
-2018/19,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,2.7432616372959893
-2018/19,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,White and Black Caribbean,,,,,,,Undefined,Units,Percentage (%),,4.831667333649263
-2018/19,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,White and Black African,,,,,,,Undefined,Units,Percentage (%),,
-2018/19,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,White and Asian,,,,,,,Undefined,Units,Percentage (%),,3.413743344077374
-2018/19,(a) Physical violence (%),,,,Mixed/multiple ethnic groups,Any other mixed/multiple ethnic background,,,,,,,Undefined,Units,Percentage (%),,1.1615800375190568
+2018/19,(a) Physical violence (%),,,,White,Gypsy or Irish Traveller,,,,,,,Undefined,Units,Percentage (%),,
+2018/19,(a) Physical violence (%),,,,White,Any other White background,,,,,,,Undefined,Units,Percentage (%),,1.17892860369012
+2018/19,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,2.7432616372959893
+2018/19,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,White and Black Caribbean,,,,,,,Undefined,Units,Percentage (%),,4.831667333649263
+2018/19,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,White and Black African,,,,,,,Undefined,Units,Percentage (%),,
+2018/19,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,White and Asian,,,,,,,Undefined,Units,Percentage (%),,3.413743344077374
+2018/19,(a) Physical violence (%),,,,Mixed/Multiple ethnic groups,Any other Mixed/Multiple ethnic background,,,,,,,Undefined,Units,Percentage (%),,1.1615800375190568
 2018/19,(a) Physical violence (%),,,,Asian/Asian British,,,,,,,,Undefined,Units,Percentage (%),,1.1871914126831833
 2018/19,(a) Physical violence (%),,,,Asian/Asian British,Indian,,,,,,,Undefined,Units,Percentage (%),,0.7649960077317256
 2018/19,(a) Physical violence (%),,,,Asian/Asian British,Pakistani,,,,,,,Undefined,Units,Percentage (%),,1.7830283446479749
@@ -240,20 +240,20 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2018/19,(a) Physical violence (%),,,,Other ethnic group,,,,,,,,Undefined,Units,Percentage (%),,2.2534891620824857
 2018/19,(a) Physical violence (%),,,,Other ethnic group,Arab,,,,,,,Undefined,Units,Percentage (%),,3.8517318268974834
 2018/19,(a) Physical violence (%),,,,Other ethnic group,Any other ethnic group,,,,,,,Undefined,Units,Percentage (%),,1.3138405843533534
-2018/19,(a) Physical violence (%),,,,,,Disabled,,,,,,Undefined,Units,Percentage (%),,2.516214629174664
-2018/19,(a) Physical violence (%),,,,,,Not Disabled,,,,,,Undefined,Units,Percentage (%),,1.5758603370752229
-2018/19,(a) Physical violence (%),,,,,,,Born in the UK,,,,,Undefined,Units,Percentage (%),,1.8565249198430969
-2018/19,(a) Physical violence (%),,,,,,,Not born in the UK,,,,,Undefined,Units,Percentage (%),,1.15820577537312
+2018/19,(a) Physical violence (%),,,,,,Disabled (GSS harmonised),,,,,,Undefined,Units,Percentage (%),,2.516214629174664
+2018/19,(a) Physical violence (%),,,,,,Non-disabled (GSS harmonised),,,,,,Undefined,Units,Percentage (%),,1.5758603370752229
+2018/19,(a) Physical violence (%),,,,,,,Born in UK,,,,,Undefined,Units,Percentage (%),,1.8565249198430969
+2018/19,(a) Physical violence (%),,,,,,,Not born in UK,,,,,Undefined,Units,Percentage (%),,1.15820577537312
 2018/19,(a) Physical violence (%),,,,,,,,,,,Degree or diploma,Undefined,Units,Percentage (%),,1.528020361563741
 2018/19,(a) Physical violence (%),,,,,,,,,,,Apprenticeship or A/AS level,Undefined,Units,Percentage (%),,2.6651029239220323
 2018/19,(a) Physical violence (%),,,,,,,,,,,O level/GCSE,Undefined,Units,Percentage (%),,2.242907575731725
-2018/19,(a) Physical violence (%),,,,,,,,,,,Other,Undefined,Units,Percentage (%),,0.672157332349717
-2018/19,(a) Physical violence (%),,,,,,,,,,,No qualifications,Undefined,Units,Percentage (%),,0.9069183907796348
+2018/19,(a) Physical violence (%),,,,,,,,,,,Other qualification,Undefined,Units,Percentage (%),,0.672157332349717
+2018/19,(a) Physical violence (%),,,,,,,,,,,No qualification,Undefined,Units,Percentage (%),,0.9069183907796348
 2018/19,(a) Physical violence (%),,,,,,,,,Urban,,,Undefined,Units,Percentage (%),,1.3822222997249118
 2018/19,(a) Physical violence (%),,,,,,,,,Rural,,,Undefined,Units,Percentage (%),,1.813286494375064
 2018/19,(a) Physical violence (%),,,,,,,,,,North East,,Undefined,Units,Percentage (%),E12000001,1.3757588873813884
 2018/19,(a) Physical violence (%),,,,,,,,,,North West,,Undefined,Units,Percentage (%),E12000002,1.6874042249922303
-2018/19,(a) Physical violence (%),,,,,,,,,,Yorkshire and The Humber,,Undefined,Units,Percentage (%),E12000003,1.5384212346489412
+2018/19,(a) Physical violence (%),,,,,,,,,,Yorkshire and the Humber,,Undefined,Units,Percentage (%),E12000003,1.5384212346489412
 2018/19,(a) Physical violence (%),,,,,,,,,,East Midlands,,Undefined,Units,Percentage (%),E12000004,2.479826862210938
 2018/19,(a) Physical violence (%),,,,,,,,,,West Midlands,,Undefined,Units,Percentage (%),E12000005,1.7014219081955146
 2018/19,(a) Physical violence (%),,,,,,,,,,East of England,,Undefined,Units,Percentage (%),E12000006,1.8854990558220108
@@ -403,7 +403,7 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2014/15,(b) Sexual violence (%),,Men,45 to 54,,,,,,,,,Undefined,Units,Percentage (%),,0.1293185712975088
 2014/15,(b) Sexual violence (%),,Men,55 to 59,,,,,,,,,Undefined,Units,Percentage (%),,0.10104134338844607
 2014/15,(b) Sexual violence (%),,Men,,White,,,,,,,,Undefined,Units,Percentage (%),,0.6269427692952273
-2014/15,(b) Sexual violence (%),,Men,,Mixed/multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,5.641287169215883
+2014/15,(b) Sexual violence (%),,Men,,Mixed/Multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,5.641287169215883
 2014/15,(b) Sexual violence (%),,Men,,Asian/Asian British,,,,,,,,Undefined,Units,Percentage (%),,0.6014021259362842
 2014/15,(b) Sexual violence (%),,Men,,Black/African/Caribbean/Black British,,,,,,,,Undefined,Units,Percentage (%),,0.6014021259362842
 2014/15,(b) Sexual violence (%),,Men,,Other ethnic group,,,,,,,,Undefined,Units,Percentage (%),,0.0
@@ -416,7 +416,7 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2014/15,(b) Sexual violence (%),,Men,,,,,,No income stated or not enough information provided,,,,Undefined,Units,Percentage (%),,0.8987593497869275
 2014/15,(b) Sexual violence (%),,Men,,,,,,,,North East,,Undefined,Units,Percentage (%),E12000001,0.7939479961795478
 2014/15,(b) Sexual violence (%),,Men,,,,,,,,North West,,Undefined,Units,Percentage (%),E12000002,0.5236362707618469
-2014/15,(b) Sexual violence (%),,Men,,,,,,,,Yorkshire and The Humber,,Undefined,Units,Percentage (%),E12000003,1.1403432435862069
+2014/15,(b) Sexual violence (%),,Men,,,,,,,,Yorkshire and the Humber,,Undefined,Units,Percentage (%),E12000003,1.1403432435862069
 2014/15,(b) Sexual violence (%),,Men,,,,,,,,East Midlands,,Undefined,Units,Percentage (%),E12000004,0.6848761090773736
 2014/15,(b) Sexual violence (%),,Men,,,,,,,,West Midlands,,Undefined,Units,Percentage (%),E12000005,0.14142709029542194
 2014/15,(b) Sexual violence (%),,Men,,,,,,,,East of England,,Undefined,Units,Percentage (%),E12000006,0.4439433037063089
@@ -427,8 +427,8 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2014/15,(b) Sexual violence (%),,Men,,,,,,,,,Degree or diploma,Undefined,Units,Percentage (%),,0.8769756067715431
 2014/15,(b) Sexual violence (%),,Men,,,,,,,,,Apprenticeship or A/AS level,Undefined,Units,Percentage (%),,0.7753283308537937
 2014/15,(b) Sexual violence (%),,Men,,,,,,,,,O level/GCSE,Undefined,Units,Percentage (%),,0.4410171489929698
-2014/15,(b) Sexual violence (%),,Men,,,,,,,,,Other,Undefined,Units,Percentage (%),,0.3520093541526359
-2014/15,(b) Sexual violence (%),,Men,,,,,,,,,No qualifications,Undefined,Units,Percentage (%),,0.3148755803533453
+2014/15,(b) Sexual violence (%),,Men,,,,,,,,,Other qualification,Undefined,Units,Percentage (%),,0.3520093541526359
+2014/15,(b) Sexual violence (%),,Men,,,,,,,,,No qualification,Undefined,Units,Percentage (%),,0.3148755803533453
 2015/16,(b) Sexual violence (%),,Men,16 to 19,,,,,,,,,Undefined,Units,Percentage (%),,2.4793120981177896
 2015/16,(b) Sexual violence (%),,Men,20 to 24,,,,,,,,,Undefined,Units,Percentage (%),,1.6367459853058142
 2015/16,(b) Sexual violence (%),,Men,25 to 34,,,,,,,,,Undefined,Units,Percentage (%),,0.7892554460601695
@@ -436,7 +436,7 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2015/16,(b) Sexual violence (%),,Men,45 to 54,,,,,,,,,Undefined,Units,Percentage (%),,0.04696874539834375
 2015/16,(b) Sexual violence (%),,Men,55 to 59,,,,,,,,,Undefined,Units,Percentage (%),,0.33026378727551303
 2015/16,(b) Sexual violence (%),,Men,,White,,,,,,,,Undefined,Units,Percentage (%),,0.6807606523121937
-2015/16,(b) Sexual violence (%),,Men,,Mixed/multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,0.0
+2015/16,(b) Sexual violence (%),,Men,,Mixed/Multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,0.0
 2015/16,(b) Sexual violence (%),,Men,,Asian/Asian British,,,,,,,,Undefined,Units,Percentage (%),,0.25469245514852323
 2015/16,(b) Sexual violence (%),,Men,,Black/African/Caribbean/Black British,,,,,,,,Undefined,Units,Percentage (%),,0.6823190680716334
 2015/16,(b) Sexual violence (%),,Men,,Other ethnic group,,,,,,,,Undefined,Units,Percentage (%),,0.9912360792879852
@@ -449,7 +449,7 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2015/16,(b) Sexual violence (%),,Men,,,,,,No income stated or not enough information provided,,,,Undefined,Units,Percentage (%),,0.9230934801141758
 2015/16,(b) Sexual violence (%),,Men,,,,,,,,North East,,Undefined,Units,Percentage (%),E12000001,0.07061656431367304
 2015/16,(b) Sexual violence (%),,Men,,,,,,,,North West,,Undefined,Units,Percentage (%),E12000002,0.10953414059483983
-2015/16,(b) Sexual violence (%),,Men,,,,,,,,Yorkshire and The Humber,,Undefined,Units,Percentage (%),E12000003,0.9670573621260288
+2015/16,(b) Sexual violence (%),,Men,,,,,,,,Yorkshire and the Humber,,Undefined,Units,Percentage (%),E12000003,0.9670573621260288
 2015/16,(b) Sexual violence (%),,Men,,,,,,,,East Midlands,,Undefined,Units,Percentage (%),E12000004,0.6877256577737173
 2015/16,(b) Sexual violence (%),,Men,,,,,,,,West Midlands,,Undefined,Units,Percentage (%),E12000005,0.951384008405714
 2015/16,(b) Sexual violence (%),,Men,,,,,,,,East of England,,Undefined,Units,Percentage (%),E12000006,0.7774114713150461
@@ -460,8 +460,8 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2015/16,(b) Sexual violence (%),,Men,,,,,,,,,Degree or diploma,Undefined,Units,Percentage (%),,0.8190917242380287
 2015/16,(b) Sexual violence (%),,Men,,,,,,,,,Apprenticeship or A/AS level,Undefined,Units,Percentage (%),,0.5543421020183014
 2015/16,(b) Sexual violence (%),,Men,,,,,,,,,O level/GCSE,Undefined,Units,Percentage (%),,0.796926734226097
-2015/16,(b) Sexual violence (%),,Men,,,,,,,,,Other,Undefined,Units,Percentage (%),,0.6414204238310718
-2015/16,(b) Sexual violence (%),,Men,,,,,,,,,No qualifications,Undefined,Units,Percentage (%),,0.06612789988528983
+2015/16,(b) Sexual violence (%),,Men,,,,,,,,,Other qualification,Undefined,Units,Percentage (%),,0.6414204238310718
+2015/16,(b) Sexual violence (%),,Men,,,,,,,,,No qualification,Undefined,Units,Percentage (%),,0.06612789988528983
 2016/17,(b) Sexual violence (%),,Men,16 to 19,,,,,,,,,Undefined,Units,Percentage (%),,3.0375138400878634
 2016/17,(b) Sexual violence (%),,Men,20 to 24,,,,,,,,,Undefined,Units,Percentage (%),,1.6698468331481469
 2016/17,(b) Sexual violence (%),,Men,25 to 34,,,,,,,,,Undefined,Units,Percentage (%),,1.086339023937119
@@ -469,7 +469,7 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2016/17,(b) Sexual violence (%),,Men,45 to 54,,,,,,,,,Undefined,Units,Percentage (%),,0.1767922395477045
 2016/17,(b) Sexual violence (%),,Men,55 to 59,,,,,,,,,Undefined,Units,Percentage (%),,0.08217767304070482
 2016/17,(b) Sexual violence (%),,Men,,White,,,,,,,,Undefined,Units,Percentage (%),,0.8695681502611421
-2016/17,(b) Sexual violence (%),,Men,,Mixed/multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,1.4081019499540797
+2016/17,(b) Sexual violence (%),,Men,,Mixed/Multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,1.4081019499540797
 2016/17,(b) Sexual violence (%),,Men,,Asian/Asian British,,,,,,,,Undefined,Units,Percentage (%),,0.5338721342956249
 2016/17,(b) Sexual violence (%),,Men,,Black/African/Caribbean/Black British,,,,,,,,Undefined,Units,Percentage (%),,0.0
 2016/17,(b) Sexual violence (%),,Men,,Other ethnic group,,,,,,,,Undefined,Units,Percentage (%),,2.1490233102800733
@@ -482,7 +482,7 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2016/17,(b) Sexual violence (%),,Men,,,,,,No income stated or not enough information provided,,,,Undefined,Units,Percentage (%),,1.0281293287860265
 2016/17,(b) Sexual violence (%),,Men,,,,,,,,North East,,Undefined,Units,Percentage (%),E12000001,0.0
 2016/17,(b) Sexual violence (%),,Men,,,,,,,,North West,,Undefined,Units,Percentage (%),E12000002,0.6156039233210487
-2016/17,(b) Sexual violence (%),,Men,,,,,,,,Yorkshire and The Humber,,Undefined,Units,Percentage (%),E12000003,0.670202444507012
+2016/17,(b) Sexual violence (%),,Men,,,,,,,,Yorkshire and the Humber,,Undefined,Units,Percentage (%),E12000003,0.670202444507012
 2016/17,(b) Sexual violence (%),,Men,,,,,,,,East Midlands,,Undefined,Units,Percentage (%),E12000004,0.7184395630267684
 2016/17,(b) Sexual violence (%),,Men,,,,,,,,West Midlands,,Undefined,Units,Percentage (%),E12000005,1.3943602393885417
 2016/17,(b) Sexual violence (%),,Men,,,,,,,,East of England,,Undefined,Units,Percentage (%),E12000006,0.9235551846460478
@@ -493,8 +493,8 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2016/17,(b) Sexual violence (%),,Men,,,,,,,,,Degree or diploma,Undefined,Units,Percentage (%),,0.6843883632187503
 2016/17,(b) Sexual violence (%),,Men,,,,,,,,,Apprenticeship or A/AS level,Undefined,Units,Percentage (%),,1.2404514373270574
 2016/17,(b) Sexual violence (%),,Men,,,,,,,,,O level/GCSE,Undefined,Units,Percentage (%),,0.7629239079802351
-2016/17,(b) Sexual violence (%),,Men,,,,,,,,,Other,Undefined,Units,Percentage (%),,2.124872124454749
-2016/17,(b) Sexual violence (%),,Men,,,,,,,,,No qualifications,Undefined,Units,Percentage (%),,0.3538160435546229
+2016/17,(b) Sexual violence (%),,Men,,,,,,,,,Other qualification,Undefined,Units,Percentage (%),,2.124872124454749
+2016/17,(b) Sexual violence (%),,Men,,,,,,,,,No qualification,Undefined,Units,Percentage (%),,0.3538160435546229
 2014/15,(b) Sexual violence (%),,Women,16 to 19,,,,,,,,,Undefined,Units,Percentage (%),,8.983293804181884
 2014/15,(b) Sexual violence (%),,Women,20 to 24,,,,,,,,,Undefined,Units,Percentage (%),,5.779305665241697
 2014/15,(b) Sexual violence (%),,Women,25 to 34,,,,,,,,,Undefined,Units,Percentage (%),,2.205729507657993
@@ -502,7 +502,7 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2014/15,(b) Sexual violence (%),,Women,45 to 54,,,,,,,,,Undefined,Units,Percentage (%),,1.7122274310456083
 2014/15,(b) Sexual violence (%),,Women,55 to 59,,,,,,,,,Undefined,Units,Percentage (%),,0.6247394583082226
 2014/15,(b) Sexual violence (%),,Women,,White,,,,,,,,Undefined,Units,Percentage (%),,2.827134758436308
-2014/15,(b) Sexual violence (%),,Women,,Mixed/multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,9.275207736429364
+2014/15,(b) Sexual violence (%),,Women,,Mixed/Multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,9.275207736429364
 2014/15,(b) Sexual violence (%),,Women,,Asian/Asian British,,,,,,,,Undefined,Units,Percentage (%),,0.7753636411680028
 2014/15,(b) Sexual violence (%),,Women,,Black/African/Caribbean/Black British,,,,,,,,Undefined,Units,Percentage (%),,1.6903835714567657
 2014/15,(b) Sexual violence (%),,Women,,Other ethnic group,,,,,,,,Undefined,Units,Percentage (%),,0.0
@@ -515,7 +515,7 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2014/15,(b) Sexual violence (%),,Women,,,,,,No income stated or not enough information provided,,,,Undefined,Units,Percentage (%),,5.044237084643429
 2014/15,(b) Sexual violence (%),,Women,,,,,,,,North East,,Undefined,Units,Percentage (%),E12000001,2.8181983145928835
 2014/15,(b) Sexual violence (%),,Women,,,,,,,,North West,,Undefined,Units,Percentage (%),E12000002,1.603681774616208
-2014/15,(b) Sexual violence (%),,Women,,,,,,,,Yorkshire and The Humber,,Undefined,Units,Percentage (%),E12000003,3.1507544256926527
+2014/15,(b) Sexual violence (%),,Women,,,,,,,,Yorkshire and the Humber,,Undefined,Units,Percentage (%),E12000003,3.1507544256926527
 2014/15,(b) Sexual violence (%),,Women,,,,,,,,East Midlands,,Undefined,Units,Percentage (%),E12000004,3.7851703774241865
 2014/15,(b) Sexual violence (%),,Women,,,,,,,,West Midlands,,Undefined,Units,Percentage (%),E12000005,2.4466978338874803
 2014/15,(b) Sexual violence (%),,Women,,,,,,,,East of England,,Undefined,Units,Percentage (%),E12000006,2.8760774478125968
@@ -526,8 +526,8 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2014/15,(b) Sexual violence (%),,Women,,,,,,,,,Degree or diploma,Undefined,Units,Percentage (%),,2.3473118522655203
 2014/15,(b) Sexual violence (%),,Women,,,,,,,,,Apprenticeship or A/AS level,Undefined,Units,Percentage (%),,4.536187025376377
 2014/15,(b) Sexual violence (%),,Women,,,,,,,,,O level/GCSE,Undefined,Units,Percentage (%),,2.3847709921388187
-2014/15,(b) Sexual violence (%),,Women,,,,,,,,,Other,Undefined,Units,Percentage (%),,3.2017796038990736
-2014/15,(b) Sexual violence (%),,Women,,,,,,,,,No qualifications,Undefined,Units,Percentage (%),,1.3445096400781715
+2014/15,(b) Sexual violence (%),,Women,,,,,,,,,Other qualification,Undefined,Units,Percentage (%),,3.2017796038990736
+2014/15,(b) Sexual violence (%),,Women,,,,,,,,,No qualification,Undefined,Units,Percentage (%),,1.3445096400781715
 2015/16,(b) Sexual violence (%),,Women,16 to 19,,,,,,,,,Undefined,Units,Percentage (%),,11.040013265596983
 2015/16,(b) Sexual violence (%),,Women,20 to 24,,,,,,,,,Undefined,Units,Percentage (%),,7.602359596240214
 2015/16,(b) Sexual violence (%),,Women,25 to 34,,,,,,,,,Undefined,Units,Percentage (%),,2.8332241529587896
@@ -535,7 +535,7 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2015/16,(b) Sexual violence (%),,Women,45 to 54,,,,,,,,,Undefined,Units,Percentage (%),,1.6120868910870123
 2015/16,(b) Sexual violence (%),,Women,55 to 59,,,,,,,,,Undefined,Units,Percentage (%),,0.8275763519215612
 2015/16,(b) Sexual violence (%),,Women,,White,,,,,,,,Undefined,Units,Percentage (%),,3.2672430900541474
-2015/16,(b) Sexual violence (%),,Women,,Mixed/multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,2.8157277907781184
+2015/16,(b) Sexual violence (%),,Women,,Mixed/Multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,2.8157277907781184
 2015/16,(b) Sexual violence (%),,Women,,Asian/Asian British,,,,,,,,Undefined,Units,Percentage (%),,3.0101681833768774
 2015/16,(b) Sexual violence (%),,Women,,Black/African/Caribbean/Black British,,,,,,,,Undefined,Units,Percentage (%),,2.2279078091389515
 2015/16,(b) Sexual violence (%),,Women,,Other ethnic group,,,,,,,,Undefined,Units,Percentage (%),,7.115344617950457
@@ -548,7 +548,7 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2015/16,(b) Sexual violence (%),,Women,,,,,,No income stated or not enough information provided,,,,Undefined,Units,Percentage (%),,4.928566621619481
 2015/16,(b) Sexual violence (%),,Women,,,,,,,,North East,,Undefined,Units,Percentage (%),E12000001,1.7951156839413904
 2015/16,(b) Sexual violence (%),,Women,,,,,,,,North West,,Undefined,Units,Percentage (%),E12000002,3.2403484703668184
-2015/16,(b) Sexual violence (%),,Women,,,,,,,,Yorkshire and The Humber,,Undefined,Units,Percentage (%),E12000003,4.065917839105063
+2015/16,(b) Sexual violence (%),,Women,,,,,,,,Yorkshire and the Humber,,Undefined,Units,Percentage (%),E12000003,4.065917839105063
 2015/16,(b) Sexual violence (%),,Women,,,,,,,,East Midlands,,Undefined,Units,Percentage (%),E12000004,3.4167819814660945
 2015/16,(b) Sexual violence (%),,Women,,,,,,,,West Midlands,,Undefined,Units,Percentage (%),E12000005,2.24402675278821
 2015/16,(b) Sexual violence (%),,Women,,,,,,,,East of England,,Undefined,Units,Percentage (%),E12000006,2.9112805940986566
@@ -559,8 +559,8 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2015/16,(b) Sexual violence (%),,Women,,,,,,,,,Degree or diploma,Undefined,Units,Percentage (%),,3.2855729686273887
 2015/16,(b) Sexual violence (%),,Women,,,,,,,,,Apprenticeship or A/AS level,Undefined,Units,Percentage (%),,5.5080692181083455
 2015/16,(b) Sexual violence (%),,Women,,,,,,,,,O level/GCSE,Undefined,Units,Percentage (%),,1.8879123661933528
-2015/16,(b) Sexual violence (%),,Women,,,,,,,,,Other,Undefined,Units,Percentage (%),,2.0913652831798006
-2015/16,(b) Sexual violence (%),,Women,,,,,,,,,No qualifications,Undefined,Units,Percentage (%),,1.5967777478026133
+2015/16,(b) Sexual violence (%),,Women,,,,,,,,,Other qualification,Undefined,Units,Percentage (%),,2.0913652831798006
+2015/16,(b) Sexual violence (%),,Women,,,,,,,,,No qualification,Undefined,Units,Percentage (%),,1.5967777478026133
 2016/17,(b) Sexual violence (%),,Women,16 to 19,,,,,,,,,Undefined,Units,Percentage (%),,8.763125514630216
 2016/17,(b) Sexual violence (%),,Women,20 to 24,,,,,,,,,Undefined,Units,Percentage (%),,7.2029326611197755
 2016/17,(b) Sexual violence (%),,Women,25 to 34,,,,,,,,,Undefined,Units,Percentage (%),,3.2431032491484393
@@ -568,7 +568,7 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2016/17,(b) Sexual violence (%),,Women,45 to 54,,,,,,,,,Undefined,Units,Percentage (%),,1.3267000468391372
 2016/17,(b) Sexual violence (%),,Women,55 to 59,,,,,,,,,Undefined,Units,Percentage (%),,1.1808262038730466
 2016/17,(b) Sexual violence (%),,Women,,White,,,,,,,,Undefined,Units,Percentage (%),,3.0979356527840887
-2016/17,(b) Sexual violence (%),,Women,,Mixed/multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,8.62659119414787
+2016/17,(b) Sexual violence (%),,Women,,Mixed/Multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,8.62659119414787
 2016/17,(b) Sexual violence (%),,Women,,Asian/Asian British,,,,,,,,Undefined,Units,Percentage (%),,1.4711986131992654
 2016/17,(b) Sexual violence (%),,Women,,Black/African/Caribbean/Black British,,,,,,,,Undefined,Units,Percentage (%),,3.777394925781948
 2016/17,(b) Sexual violence (%),,Women,,Other ethnic group,,,,,,,,Undefined,Units,Percentage (%),,3.3187627724955417
@@ -581,7 +581,7 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2016/17,(b) Sexual violence (%),,Women,,,,,,No income stated or not enough information provided,,,,Undefined,Units,Percentage (%),,4.564791238639083
 2016/17,(b) Sexual violence (%),,Women,,,,,,,,North East,,Undefined,Units,Percentage (%),E12000001,5.474557499415625
 2016/17,(b) Sexual violence (%),,Women,,,,,,,,North West,,Undefined,Units,Percentage (%),E12000002,2.202929705018061
-2016/17,(b) Sexual violence (%),,Women,,,,,,,,Yorkshire and The Humber,,Undefined,Units,Percentage (%),E12000003,2.1277345439076787
+2016/17,(b) Sexual violence (%),,Women,,,,,,,,Yorkshire and the Humber,,Undefined,Units,Percentage (%),E12000003,2.1277345439076787
 2016/17,(b) Sexual violence (%),,Women,,,,,,,,East Midlands,,Undefined,Units,Percentage (%),E12000004,2.8148262712533763
 2016/17,(b) Sexual violence (%),,Women,,,,,,,,West Midlands,,Undefined,Units,Percentage (%),E12000005,2.765471188927442
 2016/17,(b) Sexual violence (%),,Women,,,,,,,,East of England,,Undefined,Units,Percentage (%),E12000006,2.518408041538136
@@ -592,8 +592,8 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2016/17,(b) Sexual violence (%),,Women,,,,,,,,,Degree or diploma,Undefined,Units,Percentage (%),,3.056469354313062
 2016/17,(b) Sexual violence (%),,Women,,,,,,,,,Apprenticeship or A/AS level,Undefined,Units,Percentage (%),,5.3642447347956965
 2016/17,(b) Sexual violence (%),,Women,,,,,,,,,O level/GCSE,Undefined,Units,Percentage (%),,1.9942106881988408
-2016/17,(b) Sexual violence (%),,Women,,,,,,,,,Other,Undefined,Units,Percentage (%),,2.429078685789946
-2016/17,(b) Sexual violence (%),,Women,,,,,,,,,No qualifications,Undefined,Units,Percentage (%),,1.5068704429008046
+2016/17,(b) Sexual violence (%),,Women,,,,,,,,,Other qualification,Undefined,Units,Percentage (%),,2.429078685789946
+2016/17,(b) Sexual violence (%),,Women,,,,,,,,,No qualification,Undefined,Units,Percentage (%),,1.5068704429008046
 2017/18,(b) Sexual violence (%),,,16 to 19,,,,,,,,,Undefined,Units,Percentage (%),,8.412747106475887
 2017/18,(b) Sexual violence (%),,,20 to 24,,,,,,,,,Undefined,Units,Percentage (%),,7.121860605182098
 2017/18,(b) Sexual violence (%),,,25 to 34,,,,,,,,,Undefined,Units,Percentage (%),,2.6100072302757327
@@ -601,14 +601,14 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2017/18,(b) Sexual violence (%),,,45 to 54,,,,,,,,,Undefined,Units,Percentage (%),,1.165548404857782
 2017/18,(b) Sexual violence (%),,,55 to 59,,,,,,,,,Undefined,Units,Percentage (%),,1.4254159631744223
 2017/18,(b) Sexual violence (%),,,,White,,,,,,,,Undefined,Units,Percentage (%),,2.6677068259902583
-2017/18,(b) Sexual violence (%),,,,Mixed/multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,3.6515751872806583
+2017/18,(b) Sexual violence (%),,,,Mixed/Multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,3.6515751872806583
 2017/18,(b) Sexual violence (%),,,,Asian/Asian British,,,,,,,,Undefined,Units,Percentage (%),,1.825851643621033
 2017/18,(b) Sexual violence (%),,,,Black/African/Caribbean/Black British,,,,,,,,Undefined,Units,Percentage (%),,5.967801626531363
 2017/18,(b) Sexual violence (%),,,,Other ethnic group,,,,,,,,Undefined,Units,Percentage (%),,0.9319853062370406
-2017/18,(b) Sexual violence (%),,,,,,Disabled,,,,,,Undefined,Units,Percentage (%),,4.808221984783019
-2017/18,(b) Sexual violence (%),,,,,,Not Disabled,,,,,,Undefined,Units,Percentage (%),,2.4634773798196203
-2017/18,(b) Sexual violence (%),,,,,,,Born in the UK,,,,,Undefined,Units,Percentage (%),,2.860344572288331
-2017/18,(b) Sexual violence (%),,,,,,,Not born in the UK,,,,,Undefined,Units,Percentage (%),,2.088063650391456
+2017/18,(b) Sexual violence (%),,,,,,Disabled (GSS harmonised),,,,,,Undefined,Units,Percentage (%),,4.808221984783019
+2017/18,(b) Sexual violence (%),,,,,,Non-disabled (GSS harmonised),,,,,,Undefined,Units,Percentage (%),,2.4634773798196203
+2017/18,(b) Sexual violence (%),,,,,,,Born in UK,,,,,Undefined,Units,Percentage (%),,2.860344572288331
+2017/18,(b) Sexual violence (%),,,,,,,Not born in UK,,,,,Undefined,Units,Percentage (%),,2.088063650391456
 2017/18,(b) Sexual violence (%),,,,,,,,"Less than £10,000",,,,Undefined,Units,Percentage (%),,4.814012343180524
 2017/18,(b) Sexual violence (%),,,,,,,,"£10,000 to less than £20,000",,,,Undefined,Units,Percentage (%),,4.0863822439656285
 2017/18,(b) Sexual violence (%),,,,,,,,"£20,000 to less than £30,000",,,,Undefined,Units,Percentage (%),,2.3278143193216936
@@ -618,7 +618,7 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2017/18,(b) Sexual violence (%),,,,,,,,No income stated or not enough information provided,,,,Undefined,Units,Percentage (%),,2.638411681030024
 2017/18,(b) Sexual violence (%),,,,,,,,,,North East,,Undefined,Units,Percentage (%),E12000001,1.1613147869549267
 2017/18,(b) Sexual violence (%),,,,,,,,,,North West,,Undefined,Units,Percentage (%),E12000002,2.8107992535782897
-2017/18,(b) Sexual violence (%),,,,,,,,,,Yorkshire and The Humber,,Undefined,Units,Percentage (%),E12000003,3.82227560696937
+2017/18,(b) Sexual violence (%),,,,,,,,,,Yorkshire and the Humber,,Undefined,Units,Percentage (%),E12000003,3.82227560696937
 2017/18,(b) Sexual violence (%),,,,,,,,,,East Midlands,,Undefined,Units,Percentage (%),E12000004,2.2839126588869
 2017/18,(b) Sexual violence (%),,,,,,,,,,West Midlands,,Undefined,Units,Percentage (%),E12000005,2.3983191858702138
 2017/18,(b) Sexual violence (%),,,,,,,,,,East of England,,Undefined,Units,Percentage (%),E12000006,1.7694054996673014
@@ -633,14 +633,14 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2017/18,(b) Sexual violence (%),,Men,45 to 54,,,,,,,,,Undefined,Units,Percentage (%),,0.23600841300190145
 2017/18,(b) Sexual violence (%),,Men,55 to 59,,,,,,,,,Undefined,Units,Percentage (%),,0.10180612303222683
 2017/18,(b) Sexual violence (%),,Men,,White,,,,,,,,Undefined,Units,Percentage (%),,1.324175324924535
-2017/18,(b) Sexual violence (%),,Men,,Mixed/multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,0.0
+2017/18,(b) Sexual violence (%),,Men,,Mixed/Multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,0.0
 2017/18,(b) Sexual violence (%),,Men,,Asian/Asian British,,,,,,,,Undefined,Units,Percentage (%),,0.4695358374976379
 2017/18,(b) Sexual violence (%),,Men,,Black/African/Caribbean/Black British,,,,,,,,Undefined,Units,Percentage (%),,1.8531151627050295
 2017/18,(b) Sexual violence (%),,Men,,Other ethnic group,,,,,,,,Undefined,Units,Percentage (%),,0.9079543084743068
-2017/18,(b) Sexual violence (%),,Men,,,,Disabled,,,,,,Undefined,Units,Percentage (%),,1.1019194868351694
-2017/18,(b) Sexual violence (%),,Men,,,,Not Disabled,,,,,,Undefined,Units,Percentage (%),,1.2481823125366311
-2017/18,(b) Sexual violence (%),,Men,,,,,Born in the UK,,,,,Undefined,Units,Percentage (%),,1.3469476959002828
-2017/18,(b) Sexual violence (%),,Men,,,,,Not born in the UK,,,,,Undefined,Units,Percentage (%),,0.7115006037396979
+2017/18,(b) Sexual violence (%),,Men,,,,Disabled (GSS harmonised),,,,,,Undefined,Units,Percentage (%),,1.1019194868351694
+2017/18,(b) Sexual violence (%),,Men,,,,Non-disabled (GSS harmonised),,,,,,Undefined,Units,Percentage (%),,1.2481823125366311
+2017/18,(b) Sexual violence (%),,Men,,,,,Born in UK,,,,,Undefined,Units,Percentage (%),,1.3469476959002828
+2017/18,(b) Sexual violence (%),,Men,,,,,Not born in UK,,,,,Undefined,Units,Percentage (%),,0.7115006037396979
 2017/18,(b) Sexual violence (%),,Men,,,,,,"Less than £10,000",,,,Undefined,Units,Percentage (%),,0.3994117423214395
 2017/18,(b) Sexual violence (%),,Men,,,,,,"£10,000 to less than £20,000",,,,Undefined,Units,Percentage (%),,2.0076881553594896
 2017/18,(b) Sexual violence (%),,Men,,,,,,"£20,000 to less than £30,000",,,,Undefined,Units,Percentage (%),,0.3887362400328304
@@ -650,7 +650,7 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2017/18,(b) Sexual violence (%),,Men,,,,,,No income stated or not enough information provided,,,,Undefined,Units,Percentage (%),,1.4382884889069818
 2017/18,(b) Sexual violence (%),,Men,,,,,,,,North East,,Undefined,Units,Percentage (%),E12000001,0.9421732060465255
 2017/18,(b) Sexual violence (%),,Men,,,,,,,,North West,,Undefined,Units,Percentage (%),E12000002,1.1812390486351865
-2017/18,(b) Sexual violence (%),,Men,,,,,,,,Yorkshire and The Humber,,Undefined,Units,Percentage (%),E12000003,2.5715191327094256
+2017/18,(b) Sexual violence (%),,Men,,,,,,,,Yorkshire and the Humber,,Undefined,Units,Percentage (%),E12000003,2.5715191327094256
 2017/18,(b) Sexual violence (%),,Men,,,,,,,,East Midlands,,Undefined,Units,Percentage (%),E12000004,0.8582453248648041
 2017/18,(b) Sexual violence (%),,Men,,,,,,,,West Midlands,,Undefined,Units,Percentage (%),E12000005,0.20215111873395866
 2017/18,(b) Sexual violence (%),,Men,,,,,,,,East of England,,Undefined,Units,Percentage (%),E12000006,0.5817124790703181
@@ -665,14 +665,14 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2017/18,(b) Sexual violence (%),,Women,45 to 54,,,,,,,,,Undefined,Units,Percentage (%),,2.061959230541346
 2017/18,(b) Sexual violence (%),,Women,55 to 59,,,,,,,,,Undefined,Units,Percentage (%),,2.6446717063812684
 2017/18,(b) Sexual violence (%),,Women,,White,,,,,,,,Undefined,Units,Percentage (%),,4.012167298867681
-2017/18,(b) Sexual violence (%),,Women,,Mixed/multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,6.689759389901372
+2017/18,(b) Sexual violence (%),,Women,,Mixed/Multiple ethnic groups,,,,,,,,Undefined,Units,Percentage (%),,6.689759389901372
 2017/18,(b) Sexual violence (%),,Women,,Asian/Asian British,,,,,,,,Undefined,Units,Percentage (%),,3.5557982578168845
 2017/18,(b) Sexual violence (%),,Women,,Black/African/Caribbean/Black British,,,,,,,,Undefined,Units,Percentage (%),,9.036766606552376
 2017/18,(b) Sexual violence (%),,Women,,Other ethnic group,,,,,,,,Undefined,Units,Percentage (%),,0.9567551625352866
-2017/18,(b) Sexual violence (%),,Women,,,,Disabled,,,,,,Undefined,Units,Percentage (%),,7.531295764633005
-2017/18,(b) Sexual violence (%),,Women,,,,Not Disabled,,,,,,Undefined,Units,Percentage (%),,3.738088678588381
-2017/18,(b) Sexual violence (%),,Women,,,,,Born in the UK,,,,,Undefined,Units,Percentage (%),,4.378363290817413
-2017/18,(b) Sexual violence (%),,Women,,,,,Not born in the UK,,,,,Undefined,Units,Percentage (%),,3.5201169814203594
+2017/18,(b) Sexual violence (%),,Women,,,,Disabled (GSS harmonised),,,,,,Undefined,Units,Percentage (%),,7.531295764633005
+2017/18,(b) Sexual violence (%),,Women,,,,Non-disabled (GSS harmonised),,,,,,Undefined,Units,Percentage (%),,3.738088678588381
+2017/18,(b) Sexual violence (%),,Women,,,,,Born in UK,,,,,Undefined,Units,Percentage (%),,4.378363290817413
+2017/18,(b) Sexual violence (%),,Women,,,,,Not born in UK,,,,,Undefined,Units,Percentage (%),,3.5201169814203594
 2017/18,(b) Sexual violence (%),,Women,,,,,,"Less than £10,000",,,,Undefined,Units,Percentage (%),,7.495258286417171
 2017/18,(b) Sexual violence (%),,Women,,,,,,"£10,000 to less than £20,000",,,,Undefined,Units,Percentage (%),,5.718692360376775
 2017/18,(b) Sexual violence (%),,Women,,,,,,"£20,000 to less than £30,000",,,,Undefined,Units,Percentage (%),,4.0711790232906635
@@ -682,7 +682,7 @@ Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Countr
 2017/18,(b) Sexual violence (%),,Women,,,,,,No income stated or not enough information provided,,,,Undefined,Units,Percentage (%),,3.9330873694768775
 2017/18,(b) Sexual violence (%),,Women,,,,,,,,North East,,Undefined,Units,Percentage (%),E12000001,1.3671578719305546
 2017/18,(b) Sexual violence (%),,Women,,,,,,,,North West,,Undefined,Units,Percentage (%),E12000002,4.574406093277776
-2017/18,(b) Sexual violence (%),,Women,,,,,,,,Yorkshire and The Humber,,Undefined,Units,Percentage (%),E12000003,4.974769114251799
+2017/18,(b) Sexual violence (%),,Women,,,,,,,,Yorkshire and the Humber,,Undefined,Units,Percentage (%),E12000003,4.974769114251799
 2017/18,(b) Sexual violence (%),,Women,,,,,,,,East Midlands,,Undefined,Units,Percentage (%),E12000004,3.5697801935801534
 2017/18,(b) Sexual violence (%),,Women,,,,,,,,West Midlands,,Undefined,Units,Percentage (%),E12000005,4.5430830613540785
 2017/18,(b) Sexual violence (%),,Women,,,,,,,,East of England,,Undefined,Units,Percentage (%),E12000006,2.902843435225998

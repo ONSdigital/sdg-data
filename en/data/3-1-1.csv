@@ -1,4 +1,4 @@
-Year,Death classification,Country of birth,Age,Deprivation quintile,Ethnic group,Observation status,Value
+Year,Death classification,Country of birth,Age,Deprivation quintile,Ethnicity,Observation status,Value
 2003-05,,,,,,Undefined,13.95
 2004-06,,,,,,Undefined,12.56
 2005-07,,,,,,Undefined,11.66
@@ -116,23 +116,23 @@ Year,Death classification,Country of birth,Age,Deprivation quintile,Ethnic group
 2014-16,,,,,Black,Undefined,39.66
 2014-16,,,,,Chinese or other,Undefined,5.32
 2014-16,,,,,Mixed/multiple ethnic groups,Undefined,16.32
-2009-11,,UK,,,,Undefined,8.96
-2009-11,,Outside UK,,,,Undefined,12.11
-2010-12,,UK,,,,Undefined,8.41
-2010-12,,Outside UK,,,,Undefined,11.46
-2011-13,,UK,,,,Undefined,7.9
-2011-13,,Outside UK,,,,Undefined,9.3
-2012-14,,UK,,,,Undefined,7.87
-2012-14,,Outside UK,,,,Undefined,8.85
-2013-15,,UK,,,,Undefined,7.78
-2013-15,,Outside UK,,,,Undefined,8.23
-2014-16,,UK,,,,Undefined,8.38
-2014-16,,Outside UK,,,,Undefined,9.4
+2009-11,,Born in UK,,,,Undefined,8.96
+2009-11,,Not born in UK,,,,Undefined,12.11
+2010-12,,Born in UK,,,,Undefined,8.41
+2010-12,,Not born in UK,,,,Undefined,11.46
+2011-13,,Born in UK,,,,Undefined,7.9
+2011-13,,Not born in UK,,,,Undefined,9.3
+2012-14,,Born in UK,,,,Undefined,7.87
+2012-14,,Not born in UK,,,,Undefined,8.85
+2013-15,,Born in UK,,,,Undefined,7.78
+2013-15,,Not born in UK,,,,Undefined,8.23
+2014-16,,Born in UK,,,,Undefined,8.38
+2014-16,,Not born in UK,,,,Undefined,9.4
 2015-17,,,,,,Undefined,9.19
 2015-17,Direct,,,,,Undefined,3.82
 2015-17,Indirect,,,,,Undefined,5.35
-2015-17,,UK,,,,Undefined,7.97
-2015-17,,Outside UK,,,,Undefined,7.85
+2015-17,,Born in UK,,,,Undefined,7.97
+2015-17,,Not born in UK,,,,Undefined,7.85
 2015-17,,,19 and under,,,Undefined,12.03
 2015-17,,,20 to 24,,,Undefined,5.58
 2015-17,,,25 to 29,,,Undefined,8.56

@@ -5,14 +5,14 @@ Year,Units,Disability status,Age,Sex,Region,Country of birth,Nationality,Unit me
 2015,Headcount (ONS data),,,,,,,"Rate per 1,000,000 population",Units,Undefined,,9946.7
 2016,Headcount (ONS data),,,,,,,"Rate per 1,000,000 population",Units,Undefined,,9877.9
 2017,Headcount (ONS data),,,,,,,"Rate per 1,000,000 population",Units,Undefined,,9824.2
-2014,Headcount (ONS data),Long-term illness or disability,,,,,,"Rate per 1,000,000 population",Units,Undefined,,7293.1
-2015,Headcount (ONS data),Long-term illness or disability,,,,,,"Rate per 1,000,000 population",Units,Undefined,,8089.2
-2016,Headcount (ONS data),Long-term illness or disability,,,,,,"Rate per 1,000,000 population",Units,Undefined,,8042.4
-2017,Headcount (ONS data),Long-term illness or disability,,,,,,"Rate per 1,000,000 population",Units,Undefined,,8911.8
-2014,Headcount (ONS data),No long-term illness or disability,,,,,,"Rate per 1,000,000 population",Units,Undefined,,15771.5
-2015,Headcount (ONS data),No long-term illness or disability,,,,,,"Rate per 1,000,000 population",Units,Undefined,,16745.3
-2016,Headcount (ONS data),No long-term illness or disability,,,,,,"Rate per 1,000,000 population",Units,Undefined,,16586.2
-2017,Headcount (ONS data),No long-term illness or disability,,,,,,"Rate per 1,000,000 population",Units,Undefined,,16327.8
+2014,Headcount (ONS data),Disabled (GSS harmonised),,,,,,"Rate per 1,000,000 population",Units,Undefined,,7293.1
+2015,Headcount (ONS data),Disabled (GSS harmonised),,,,,,"Rate per 1,000,000 population",Units,Undefined,,8089.2
+2016,Headcount (ONS data),Disabled (GSS harmonised),,,,,,"Rate per 1,000,000 population",Units,Undefined,,8042.4
+2017,Headcount (ONS data),Disabled (GSS harmonised),,,,,,"Rate per 1,000,000 population",Units,Undefined,,8911.8
+2014,Headcount (ONS data),Non-disabled (GSS harmonised),,,,,,"Rate per 1,000,000 population",Units,Undefined,,15771.5
+2015,Headcount (ONS data),Non-disabled (GSS harmonised),,,,,,"Rate per 1,000,000 population",Units,Undefined,,16745.3
+2016,Headcount (ONS data),Non-disabled (GSS harmonised),,,,,,"Rate per 1,000,000 population",Units,Undefined,,16586.2
+2017,Headcount (ONS data),Non-disabled (GSS harmonised),,,,,,"Rate per 1,000,000 population",Units,Undefined,,16327.8
 2012,Headcount (ONS data),,16 to 24,,,,,"Rate per 1,000,000 population",Units,Undefined,,3245.3
 2013,Headcount (ONS data),,16 to 24,,,,,"Rate per 1,000,000 population",Units,Undefined,,3895.5
 2014,Headcount (ONS data),,16 to 24,,,,,"Rate per 1,000,000 population",Units,Undefined,,4261.5
@@ -61,12 +61,12 @@ Year,Units,Disability status,Age,Sex,Region,Country of birth,Nationality,Unit me
 2015,Headcount (ONS data),,,,North West,,,"Rate per 1,000,000 population",Units,Undefined,E12000002,9283.4
 2016,Headcount (ONS data),,,,North West,,,"Rate per 1,000,000 population",Units,Undefined,E12000002,8028.3
 2017,Headcount (ONS data),,,,North West,,,"Rate per 1,000,000 population",Units,Undefined,E12000002,8255.7
-2012,Headcount (ONS data),,,,Yorkshire and The Humber,,,"Rate per 1,000,000 population",Units,Undefined,E12000003,8144.6
-2013,Headcount (ONS data),,,,Yorkshire and The Humber,,,"Rate per 1,000,000 population",Units,Undefined,E12000003,8386.0
-2014,Headcount (ONS data),,,,Yorkshire and The Humber,,,"Rate per 1,000,000 population",Units,Undefined,E12000003,7487.1
-2015,Headcount (ONS data),,,,Yorkshire and The Humber,,,"Rate per 1,000,000 population",Units,Undefined,E12000003,8613.0
-2016,Headcount (ONS data),,,,Yorkshire and The Humber,,,"Rate per 1,000,000 population",Units,Undefined,E12000003,10096.6
-2017,Headcount (ONS data),,,,Yorkshire and The Humber,,,"Rate per 1,000,000 population",Units,Undefined,E12000003,9664.6
+2012,Headcount (ONS data),,,,Yorkshire and the Humber,,,"Rate per 1,000,000 population",Units,Undefined,E12000003,8144.6
+2013,Headcount (ONS data),,,,Yorkshire and the Humber,,,"Rate per 1,000,000 population",Units,Undefined,E12000003,8386.0
+2014,Headcount (ONS data),,,,Yorkshire and the Humber,,,"Rate per 1,000,000 population",Units,Undefined,E12000003,7487.1
+2015,Headcount (ONS data),,,,Yorkshire and the Humber,,,"Rate per 1,000,000 population",Units,Undefined,E12000003,8613.0
+2016,Headcount (ONS data),,,,Yorkshire and the Humber,,,"Rate per 1,000,000 population",Units,Undefined,E12000003,10096.6
+2017,Headcount (ONS data),,,,Yorkshire and the Humber,,,"Rate per 1,000,000 population",Units,Undefined,E12000003,9664.6
 2012,Headcount (ONS data),,,,East Midlands,,,"Rate per 1,000,000 population",Units,Undefined,E12000004,6179.7
 2013,Headcount (ONS data),,,,East Midlands,,,"Rate per 1,000,000 population",Units,Undefined,E12000004,9679.8
 2014,Headcount (ONS data),,,,East Midlands,,,"Rate per 1,000,000 population",Units,Undefined,E12000004,9713.5
@@ -121,42 +121,42 @@ Year,Units,Disability status,Age,Sex,Region,Country of birth,Nationality,Unit me
 2015,Headcount (ONS data),,,,Northern Ireland,,,"Rate per 1,000,000 population",Units,Undefined,N92000002,7528.1
 2016,Headcount (ONS data),,,,Northern Ireland,,,"Rate per 1,000,000 population",Units,Undefined,N92000002,7823.9
 2017,Headcount (ONS data),,,,Northern Ireland,,,"Rate per 1,000,000 population",Units,Undefined,N92000002,6037.2
-2012,Headcount (ONS data),,,,,United Kingdom,,"Rate per 1,000,000 population",Units,Undefined,,7570.3
-2013,Headcount (ONS data),,,,,United Kingdom,,"Rate per 1,000,000 population",Units,Undefined,,7657.7
-2014,Headcount (ONS data),,,,,United Kingdom,,"Rate per 1,000,000 population",Units,Undefined,,8288.3
-2015,Headcount (ONS data),,,,,United Kingdom,,"Rate per 1,000,000 population",Units,Undefined,,8793.7
-2016,Headcount (ONS data),,,,,United Kingdom,,"Rate per 1,000,000 population",Units,Undefined,,8613.4
-2017,Headcount (ONS data),,,,,United Kingdom,,"Rate per 1,000,000 population",Units,Undefined,,8684.6
-2012,Headcount (ONS data),,,,,European Economic Area,,"Rate per 1,000,000 population",Units,Undefined,,16319.5
-2013,Headcount (ONS data),,,,,European Economic Area,,"Rate per 1,000,000 population",Units,Undefined,,15673.5
-2014,Headcount (ONS data),,,,,European Economic Area,,"Rate per 1,000,000 population",Units,Undefined,,17715.8
-2015,Headcount (ONS data),,,,,European Economic Area,,"Rate per 1,000,000 population",Units,Undefined,,17074.6
-2016,Headcount (ONS data),,,,,European Economic Area,,"Rate per 1,000,000 population",Units,Undefined,,18331.8
-2017,Headcount (ONS data),,,,,European Economic Area,,"Rate per 1,000,000 population",Units,Undefined,,17996.1
-2012,Headcount (ONS data),,,,,Other,,"Rate per 1,000,000 population",Units,Undefined,,12041.0
-2013,Headcount (ONS data),,,,,Other,,"Rate per 1,000,000 population",Units,Undefined,,14332.4
-2014,Headcount (ONS data),,,,,Other,,"Rate per 1,000,000 population",Units,Undefined,,15898.0
-2015,Headcount (ONS data),,,,,Other,,"Rate per 1,000,000 population",Units,Undefined,,17730.1
-2016,Headcount (ONS data),,,,,Other,,"Rate per 1,000,000 population",Units,Undefined,,17104.5
-2017,Headcount (ONS data),,,,,Other,,"Rate per 1,000,000 population",Units,Undefined,,15708.5
-2012,Headcount (ONS data),,,,,,United Kingdom,"Rate per 1,000,000 population",Units,Undefined,,7781.6
-2013,Headcount (ONS data),,,,,,United Kingdom,"Rate per 1,000,000 population",Units,Undefined,,7993.3
-2014,Headcount (ONS data),,,,,,United Kingdom,"Rate per 1,000,000 population",Units,Undefined,,8650.9
-2015,Headcount (ONS data),,,,,,United Kingdom,"Rate per 1,000,000 population",Units,Undefined,,9181.0
-2016,Headcount (ONS data),,,,,,United Kingdom,"Rate per 1,000,000 population",Units,Undefined,,9018.0
-2017,Headcount (ONS data),,,,,,United Kingdom,"Rate per 1,000,000 population",Units,Undefined,,9099.2
-2012,Headcount (ONS data),,,,,,European Economic Area,"Rate per 1,000,000 population",Units,Undefined,,15871.8
-2013,Headcount (ONS data),,,,,,European Economic Area,"Rate per 1,000,000 population",Units,Undefined,,15387.5
-2014,Headcount (ONS data),,,,,,European Economic Area,"Rate per 1,000,000 population",Units,Undefined,,16600.7
-2015,Headcount (ONS data),,,,,,European Economic Area,"Rate per 1,000,000 population",Units,Undefined,,16033.3
-2016,Headcount (ONS data),,,,,,European Economic Area,"Rate per 1,000,000 population",Units,Undefined,,17210.2
-2017,Headcount (ONS data),,,,,,European Economic Area,"Rate per 1,000,000 population",Units,Undefined,,16748.1
-2012,Headcount (ONS data),,,,,,Other,"Rate per 1,000,000 population",Units,Undefined,,13121.0
-2013,Headcount (ONS data),,,,,,Other,"Rate per 1,000,000 population",Units,Undefined,,14672.5
-2014,Headcount (ONS data),,,,,,Other,"Rate per 1,000,000 population",Units,Undefined,,17891.0
-2015,Headcount (ONS data),,,,,,Other,"Rate per 1,000,000 population",Units,Undefined,,20786.6
-2016,Headcount (ONS data),,,,,,Other,"Rate per 1,000,000 population",Units,Undefined,,19958.5
-2017,Headcount (ONS data),,,,,,Other,"Rate per 1,000,000 population",Units,Undefined,,16571.2
+2012,Headcount (ONS data),,,,,Born in UK,,"Rate per 1,000,000 population",Units,Undefined,,7570.3
+2013,Headcount (ONS data),,,,,Born in UK,,"Rate per 1,000,000 population",Units,Undefined,,7657.7
+2014,Headcount (ONS data),,,,,Born in UK,,"Rate per 1,000,000 population",Units,Undefined,,8288.3
+2015,Headcount (ONS data),,,,,Born in UK,,"Rate per 1,000,000 population",Units,Undefined,,8793.7
+2016,Headcount (ONS data),,,,,Born in UK,,"Rate per 1,000,000 population",Units,Undefined,,8613.4
+2017,Headcount (ONS data),,,,,Born in UK,,"Rate per 1,000,000 population",Units,Undefined,,8684.6
+2012,Headcount (ONS data),,,,,Born in European Economic Area,,"Rate per 1,000,000 population",Units,Undefined,,16319.5
+2013,Headcount (ONS data),,,,,Born in European Economic Area,,"Rate per 1,000,000 population",Units,Undefined,,15673.5
+2014,Headcount (ONS data),,,,,Born in European Economic Area,,"Rate per 1,000,000 population",Units,Undefined,,17715.8
+2015,Headcount (ONS data),,,,,Born in European Economic Area,,"Rate per 1,000,000 population",Units,Undefined,,17074.6
+2016,Headcount (ONS data),,,,,Born in European Economic Area,,"Rate per 1,000,000 population",Units,Undefined,,18331.8
+2017,Headcount (ONS data),,,,,Born in European Economic Area,,"Rate per 1,000,000 population",Units,Undefined,,17996.1
+2012,Headcount (ONS data),,,,,Other country of birth,,"Rate per 1,000,000 population",Units,Undefined,,12041.0
+2013,Headcount (ONS data),,,,,Other country of birth,,"Rate per 1,000,000 population",Units,Undefined,,14332.4
+2014,Headcount (ONS data),,,,,Other country of birth,,"Rate per 1,000,000 population",Units,Undefined,,15898.0
+2015,Headcount (ONS data),,,,,Other country of birth,,"Rate per 1,000,000 population",Units,Undefined,,17730.1
+2016,Headcount (ONS data),,,,,Other country of birth,,"Rate per 1,000,000 population",Units,Undefined,,17104.5
+2017,Headcount (ONS data),,,,,Other country of birth,,"Rate per 1,000,000 population",Units,Undefined,,15708.5
+2012,Headcount (ONS data),,,,,,UK nationality,"Rate per 1,000,000 population",Units,Undefined,,7781.6
+2013,Headcount (ONS data),,,,,,UK nationality,"Rate per 1,000,000 population",Units,Undefined,,7993.3
+2014,Headcount (ONS data),,,,,,UK nationality,"Rate per 1,000,000 population",Units,Undefined,,8650.9
+2015,Headcount (ONS data),,,,,,UK nationality,"Rate per 1,000,000 population",Units,Undefined,,9181.0
+2016,Headcount (ONS data),,,,,,UK nationality,"Rate per 1,000,000 population",Units,Undefined,,9018.0
+2017,Headcount (ONS data),,,,,,UK nationality,"Rate per 1,000,000 population",Units,Undefined,,9099.2
+2012,Headcount (ONS data),,,,,,European Economic Area nationality,"Rate per 1,000,000 population",Units,Undefined,,15871.8
+2013,Headcount (ONS data),,,,,,European Economic Area nationality,"Rate per 1,000,000 population",Units,Undefined,,15387.5
+2014,Headcount (ONS data),,,,,,European Economic Area nationality,"Rate per 1,000,000 population",Units,Undefined,,16600.7
+2015,Headcount (ONS data),,,,,,European Economic Area nationality,"Rate per 1,000,000 population",Units,Undefined,,16033.3
+2016,Headcount (ONS data),,,,,,European Economic Area nationality,"Rate per 1,000,000 population",Units,Undefined,,17210.2
+2017,Headcount (ONS data),,,,,,European Economic Area nationality,"Rate per 1,000,000 population",Units,Undefined,,16748.1
+2012,Headcount (ONS data),,,,,,Other nationality,"Rate per 1,000,000 population",Units,Undefined,,13121.0
+2013,Headcount (ONS data),,,,,,Other nationality,"Rate per 1,000,000 population",Units,Undefined,,14672.5
+2014,Headcount (ONS data),,,,,,Other nationality,"Rate per 1,000,000 population",Units,Undefined,,17891.0
+2015,Headcount (ONS data),,,,,,Other nationality,"Rate per 1,000,000 population",Units,Undefined,,20786.6
+2016,Headcount (ONS data),,,,,,Other nationality,"Rate per 1,000,000 population",Units,Undefined,,19958.5
+2017,Headcount (ONS data),,,,,,Other nationality,"Rate per 1,000,000 population",Units,Undefined,,16571.2
 2012,Headcount (ONS data),,,Male,,,,"Rate per 1,000,000 population",Units,Undefined,,10275.6
 2013,Headcount (ONS data),,,Male,,,,"Rate per 1,000,000 population",Units,Undefined,,10495.1
 2014,Headcount (ONS data),,,Male,,,,"Rate per 1,000,000 population",Units,Undefined,,11265.9
@@ -185,4 +185,4 @@ Year,Units,Disability status,Age,Sex,Region,Country of birth,Nationality,Unit me
 2013,Full time equivalent (World Bank Data),,,,,,,"Rate per 1,000,000 population",Units,Undefined,,4141.30419
 2014,Full time equivalent (World Bank Data),,,,,,,"Rate per 1,000,000 population",Units,Undefined,,4254.108770000001
 2015,Full time equivalent (World Bank Data),,,,,,,"Rate per 1,000,000 population",Units,Undefined,,4350.08719
-2016,Full time equivalent (World Bank Data),,,,,,,"Rate per 1,000,000 population",Units,Undefined,,4429.58378
+2016,Full time equivalent (World Bank Data),,,,,,,"Rate per 1,000,000 population",Units,Undefined,,4429.5838

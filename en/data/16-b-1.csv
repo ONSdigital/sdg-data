@@ -1,4 +1,4 @@
-Year,Type of hate crime,Sex,Age,Ethnicity,Disability status,Household income,Area type,GeoCode,Observation status,Unit multiplier,Unit measure,Value
+Year,Type of hate crime,Sex,Age,Ethnicity,Disability status,Household income,Urban or rural,GeoCode,Observation status,Unit multiplier,Unit measure,Value
 2007/08 to 2008/09,,,,,,,,,Undefined,Units,Percentage (%),0.287176010159
 2009/10 to 2011/12,,,,,,,,,Undefined,Units,Percentage (%),0.2654872541178945
 2012/13 to 2014/15,,,,,,,,,Undefined,Units,Percentage (%),0.20815248327309174
@@ -33,15 +33,15 @@ Year,Type of hate crime,Sex,Age,Ethnicity,Disability status,Household income,Are
 2015/16 to 2017/18,,,,Asian/Asian British,,,,,Undefined,Units,Percentage (%),0.38569637618025865
 2015/16 to 2017/18,,,,Black/African/Caribbean/Black British,,,,,Undefined,Units,Percentage (%),0.36336501378524816
 2015/16 to 2017/18,,,,Other ethnic group,,,,,Undefined,Units,Percentage (%),0.6262869838531681
-2015/16 to 2017/18,,,,,Long-standing illness or disability,,,,Undefined,Units,Percentage (%),0.3089117283086101
-2015/16 to 2017/18,,,,,Long-standing illness or disability - Limits activities,,,,Undefined,Units,Percentage (%),0.3638352657792506
-2015/16 to 2017/18,,,,,Long-standing illness or disability - Does not limit activities,,,,Undefined,Units,Percentage (%),0.11513896397556507
-2015/16 to 2017/18,,,,,No long-standing illness or disability,,,,Undefined,Units,Percentage (%),0.12366021057851392
+2015/16 to 2017/18,,,,,Long-term health condition,,,,Undefined,Units,Percentage (%),0.3089117283086101
+2015/16 to 2017/18,,,,,Disabled (GSS harmonised),,,,Undefined,Units,Percentage (%),0.3638352657792506
+2015/16 to 2017/18,,,,,Long-term health condition - Does not limit activities,,,,Undefined,Units,Percentage (%),0.11513896397556507
+2015/16 to 2017/18,,,,,No long-term health condition,,,,Undefined,Units,Percentage (%),0.12366021057851392
 2015/16 to 2017/18,,,,,,"Less than £10,000",,,Undefined,Units,Percentage (%),0.2987746637072328
-2015/16 to 2017/18,,,,,,"£10,000 less than £20,000",,,Undefined,Units,Percentage (%),0.15352083053401294
-2015/16 to 2017/18,,,,,,"£20,000 less than £30,000",,,Undefined,Units,Percentage (%),0.17649846189643992
-2015/16 to 2017/18,,,,,,"£30,000 less than £40,000",,,Undefined,Units,Percentage (%),0.21261250615543886
-2015/16 to 2017/18,,,,,,"£40,000 less than £50,000",,,Undefined,Units,Percentage (%),0.12829201391262007
+2015/16 to 2017/18,,,,,,"£10,000 to less than £20,000",,,Undefined,Units,Percentage (%),0.15352083053401294
+2015/16 to 2017/18,,,,,,"£20,000 to less than £30,000",,,Undefined,Units,Percentage (%),0.17649846189643992
+2015/16 to 2017/18,,,,,,"£30,000 to less than £40,000",,,Undefined,Units,Percentage (%),0.21261250615543886
+2015/16 to 2017/18,,,,,,"£40,000 to less than £50,000",,,Undefined,Units,Percentage (%),0.12829201391262007
 2015/16 to 2017/18,,,,,,"£50,000 or more",,,Undefined,Units,Percentage (%),0.07208133704466059
 2015/16 to 2017/18,,,,,,No income stated or not enough information provided,,,Undefined,Units,Percentage (%),0.1999357124890921
 2015/16 to 2017/18,,,,,,,Urban,,Undefined,Units,Percentage (%),0.1864108544688428
