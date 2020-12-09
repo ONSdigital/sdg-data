@@ -10,12 +10,12 @@ Year,Age,Sex,Disability status,Ethnicity,Ethnic group,Employment status,Region,L
 2012,,Male,,,,,,,Percentage (%),Undefined,Units,,83.5
 2012,,Female,,,,,,,Percentage (%),Undefined,Units,,78.4
 2012,,,,White,,,,,Percentage (%),Undefined,Units,,80.7
-2012,,,,Mixed/Multiple ethnic background,,,,,Percentage (%),Undefined,Units,,92.5
+2012,,,,Mixed/multiple ethnic background,,,,,Percentage (%),Undefined,Units,,92.5
 2012,,,,Asian/Asian British,Indian,,,,Percentage (%),Undefined,Units,,79.6
 2012,,,,Asian/Asian British,Pakistani,,,,Percentage (%),Undefined,Units,,77.2
 2012,,,,Asian/Asian British,Bangladeshi,,,,Percentage (%),Undefined,Units,,68.6
 2012,,,,Asian/Asian British,Chinese,,,,Percentage (%),Undefined,Units,,92.0
-2012,,,,Asian/Asian British,Any other Asian background,,,,Percentage (%),Undefined,Units,,86.7
+2012,,,,Asian/Asian British,Other Asian background,,,,Percentage (%),Undefined,Units,,86.7
 2012,,,,Black/African/Caribbean/Black British,,,,,Percentage (%),Undefined,Units,,82.8
 2012,,,,Other ethnic group,,,,,Percentage (%),Undefined,Units,,86.9
 2012,,,,,,Employed,,,Percentage (%),Undefined,Units,,94.4
@@ -37,12 +37,12 @@ Year,Age,Sex,Disability status,Ethnicity,Ethnic group,Employment status,Region,L
 2013,,Male,,,,,,,Percentage (%),Undefined,Units,,85.6
 2013,,Female,,,,,,,Percentage (%),Undefined,Units,,81.0
 2013,,,,White,,,,,Percentage (%),Undefined,Units,,82.9
-2013,,,,Mixed/Multiple ethnic background,,,,,Percentage (%),Undefined,Units,,95.1
+2013,,,,Mixed/multiple ethnic background,,,,,Percentage (%),Undefined,Units,,95.1
 2013,,,,Asian/Asian British,Indian,,,,Percentage (%),Undefined,Units,,84.2
 2013,,,,Asian/Asian British,Pakistani,,,,Percentage (%),Undefined,Units,,79.5
 2013,,,,Asian/Asian British,Bangladeshi,,,,Percentage (%),Undefined,Units,,82.5
 2013,,,,Asian/Asian British,Chinese,,,,Percentage (%),Undefined,Units,,93.6
-2013,,,,Asian/Asian British,Any other Asian background,,,,Percentage (%),Undefined,Units,,91.3
+2013,,,,Asian/Asian British,Other Asian background,,,,Percentage (%),Undefined,Units,,91.3
 2013,,,,Black/African/Caribbean/Black British,,,,,Percentage (%),Undefined,Units,,86.2
 2013,,,,Other ethnic group,,,,,Percentage (%),Undefined,Units,,87.9
 2013,,,,,,Employed,,,Percentage (%),Undefined,Units,,95.6
@@ -75,17 +75,17 @@ Year,Age,Sex,Disability status,Ethnicity,Ethnic group,Employment status,Region,L
 2013,,,,,,,North West,Liverpool,Percentage (%),Undefined,Units,E08000012,78.2
 2013,,,,,,,North West,Sefton,Percentage (%),Undefined,Units,E08000014,75.6
 2013,,,,,,,North West,Wirral,Percentage (%),Undefined,Units,E08000015,81.9
-2013,,,,,,,Yorkshire and the Humber,,Percentage (%),Undefined,Units,E12000003,82.4
-2013,,,,,,,Yorkshire and the Humber,"Kingston upon Hull, City of",Percentage (%),Undefined,Units,,80.4
-2013,,,,,,,Yorkshire and the Humber,East Riding of Yorkshire,Percentage (%),Undefined,Units,E06000011,83.9
-2013,,,,,,,Yorkshire and the Humber,North and North East Lincolnshire,Percentage (%),Undefined,Units,,78.2
-2013,,,,,,,Yorkshire and the Humber,York,Percentage (%),Undefined,Units,E06000014,91.8
-2013,,,,,,,Yorkshire and the Humber,North Yorkshire CC,Percentage (%),Undefined,Units,,82.7
-2013,,,,,,,Yorkshire and the Humber,"Barnsley, Doncaster and Rotherham",Percentage (%),Undefined,Units,,79.2
-2013,,,,,,,Yorkshire and the Humber,Sheffield,Percentage (%),Undefined,Units,E08000019,82.1
-2013,,,,,,,Yorkshire and the Humber,Bradford,Percentage (%),Undefined,Units,E08000032,83.8
-2013,,,,,,,Yorkshire and the Humber,Leeds,Percentage (%),Undefined,Units,E08000035,82.3
-2013,,,,,,,Yorkshire and the Humber,"Calderdale, Kirklees and Wakefield",Percentage (%),Undefined,Units,,83.7
+2013,,,,,,,Yorkshire and The Humber,,Percentage (%),Undefined,Units,E12000003,82.4
+2013,,,,,,,Yorkshire and The Humber,"Kingston upon Hull, City of",Percentage (%),Undefined,Units,,80.4
+2013,,,,,,,Yorkshire and The Humber,East Riding of Yorkshire,Percentage (%),Undefined,Units,E06000011,83.9
+2013,,,,,,,Yorkshire and The Humber,North and North East Lincolnshire,Percentage (%),Undefined,Units,,78.2
+2013,,,,,,,Yorkshire and The Humber,York,Percentage (%),Undefined,Units,E06000014,91.8
+2013,,,,,,,Yorkshire and The Humber,North Yorkshire CC,Percentage (%),Undefined,Units,,82.7
+2013,,,,,,,Yorkshire and The Humber,"Barnsley, Doncaster and Rotherham",Percentage (%),Undefined,Units,,79.2
+2013,,,,,,,Yorkshire and The Humber,Sheffield,Percentage (%),Undefined,Units,E08000019,82.1
+2013,,,,,,,Yorkshire and The Humber,Bradford,Percentage (%),Undefined,Units,E08000032,83.8
+2013,,,,,,,Yorkshire and The Humber,Leeds,Percentage (%),Undefined,Units,E08000035,82.3
+2013,,,,,,,Yorkshire and The Humber,"Calderdale, Kirklees and Wakefield",Percentage (%),Undefined,Units,,83.7
 2013,,,,,,,East Midlands,,Percentage (%),Undefined,Units,E12000004,83.0
 2013,,,,,,,East Midlands,Derby,Percentage (%),Undefined,Units,E06000015,89.6
 2013,,,,,,,East Midlands,East Derbyshire,Percentage (%),Undefined,Units,,79.0
@@ -198,29 +198,29 @@ Year,Age,Sex,Disability status,Ethnicity,Ethnic group,Employment status,Region,L
 2014,75 and over,,,,,,,,Percentage (%),Undefined,Units,,31.9
 2014,,Male,,,,,,,Percentage (%),Undefined,Units,,87.1
 2014,,Female,,,,,,,Percentage (%),Undefined,Units,,83.0
-2014,,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,64.9
-2014,,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,90.8
-2014,16 to 24,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,95.7
-2014,16 to 24,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,99.2
-2014,25 to 34,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,94.0
-2014,25 to 34,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,98.8
-2014,35 to 44,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,89.9
-2014,35 to 44,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,97.9
-2014,45 to 54,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,80.9
-2014,45 to 54,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,95.0
-2014,55 to 64,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,72.3
-2014,55 to 64,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,88.9
-2014,65 to 74,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,55.4
-2014,65 to 74,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,71.2
-2014,75 and over,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,25.8
-2014,75 and over,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,39.3
+2014,,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,64.9
+2014,,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,90.8
+2014,16 to 24,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,95.7
+2014,16 to 24,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,99.2
+2014,25 to 34,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,94.0
+2014,25 to 34,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,98.8
+2014,35 to 44,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,89.9
+2014,35 to 44,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,97.9
+2014,45 to 54,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,80.9
+2014,45 to 54,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,95.0
+2014,55 to 64,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,72.3
+2014,55 to 64,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,88.9
+2014,65 to 74,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,55.4
+2014,65 to 74,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,71.2
+2014,75 and over,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,25.8
+2014,75 and over,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,39.3
 2014,,,,White,,,,,Percentage (%),Undefined,Units,,84.7
-2014,,,,Mixed/Multiple ethnic background,,,,,Percentage (%),Undefined,Units,,95.2
+2014,,,,Mixed/multiple ethnic background,,,,,Percentage (%),Undefined,Units,,95.2
 2014,,,,Asian/Asian British,Indian,,,,Percentage (%),Undefined,Units,,85.8
 2014,,,,Asian/Asian British,Pakistani,,,,Percentage (%),Undefined,Units,,79.2
 2014,,,,Asian/Asian British,Bangladeshi,,,,Percentage (%),Undefined,Units,,86.9
 2014,,,,Asian/Asian British,Chinese,,,,Percentage (%),Undefined,Units,,90.8
-2014,,,,Asian/Asian British,Any other Asian background,,,,Percentage (%),Undefined,Units,,90.4
+2014,,,,Asian/Asian British,Other Asian background,,,,Percentage (%),Undefined,Units,,90.4
 2014,,,,Black/African/Caribbean/Black British,,,,,Percentage (%),Undefined,Units,,87.7
 2014,,,,Other ethnic group,,,,,Percentage (%),Undefined,Units,,88.0
 2014,,,,,,Employed,,,Percentage (%),Undefined,Units,,96.3
@@ -253,17 +253,17 @@ Year,Age,Sex,Disability status,Ethnicity,Ethnic group,Employment status,Region,L
 2014,,,,,,,North West,Liverpool,Percentage (%),Undefined,Units,E08000012,76.1
 2014,,,,,,,North West,Sefton,Percentage (%),Undefined,Units,E08000014,79.4
 2014,,,,,,,North West,Wirral,Percentage (%),Undefined,Units,E08000015,78.9
-2014,,,,,,,Yorkshire and the Humber,,Percentage (%),Undefined,Units,E12000003,83.6
-2014,,,,,,,Yorkshire and the Humber,"Kingston upon Hull, City of",Percentage (%),Undefined,Units,,82.9
-2014,,,,,,,Yorkshire and the Humber,East Riding of Yorkshire,Percentage (%),Undefined,Units,E06000011,84.9
-2014,,,,,,,Yorkshire and the Humber,North and North East Lincolnshire,Percentage (%),Undefined,Units,,82.7
-2014,,,,,,,Yorkshire and the Humber,York,Percentage (%),Undefined,Units,E06000014,86.8
-2014,,,,,,,Yorkshire and the Humber,North Yorkshire CC,Percentage (%),Undefined,Units,,84.6
-2014,,,,,,,Yorkshire and the Humber,"Barnsley, Doncaster and Rotherham",Percentage (%),Undefined,Units,,82.2
-2014,,,,,,,Yorkshire and the Humber,Sheffield,Percentage (%),Undefined,Units,E08000019,83.1
-2014,,,,,,,Yorkshire and the Humber,Bradford,Percentage (%),Undefined,Units,E08000032,82.2
-2014,,,,,,,Yorkshire and the Humber,Leeds,Percentage (%),Undefined,Units,E08000035,86.9
-2014,,,,,,,Yorkshire and the Humber,"Calderdale, Kirklees and Wakefield",Percentage (%),Undefined,Units,,81.5
+2014,,,,,,,Yorkshire and The Humber,,Percentage (%),Undefined,Units,E12000003,83.6
+2014,,,,,,,Yorkshire and The Humber,"Kingston upon Hull, City of",Percentage (%),Undefined,Units,,82.9
+2014,,,,,,,Yorkshire and The Humber,East Riding of Yorkshire,Percentage (%),Undefined,Units,E06000011,84.9
+2014,,,,,,,Yorkshire and The Humber,North and North East Lincolnshire,Percentage (%),Undefined,Units,,82.7
+2014,,,,,,,Yorkshire and The Humber,York,Percentage (%),Undefined,Units,E06000014,86.8
+2014,,,,,,,Yorkshire and The Humber,North Yorkshire CC,Percentage (%),Undefined,Units,,84.6
+2014,,,,,,,Yorkshire and The Humber,"Barnsley, Doncaster and Rotherham",Percentage (%),Undefined,Units,,82.2
+2014,,,,,,,Yorkshire and The Humber,Sheffield,Percentage (%),Undefined,Units,E08000019,83.1
+2014,,,,,,,Yorkshire and The Humber,Bradford,Percentage (%),Undefined,Units,E08000032,82.2
+2014,,,,,,,Yorkshire and The Humber,Leeds,Percentage (%),Undefined,Units,E08000035,86.9
+2014,,,,,,,Yorkshire and The Humber,"Calderdale, Kirklees and Wakefield",Percentage (%),Undefined,Units,,81.5
 2014,,,,,,,East Midlands,,Percentage (%),Undefined,Units,E12000004,82.9
 2014,,,,,,,East Midlands,Derby,Percentage (%),Undefined,Units,E06000015,81.9
 2014,,,,,,,East Midlands,East Derbyshire,Percentage (%),Undefined,Units,,83.9
@@ -381,29 +381,29 @@ Year,Age,Sex,Disability status,Ethnicity,Ethnic group,Employment status,Region,L
 2015,75 and over,,,,,,,,Percentage (%),Undefined,Units,,33.0
 2015,,Male,,,,,,,Percentage (%),Undefined,Units,,87.9
 2015,,Female,,,,,,,Percentage (%),Undefined,Units,,84.6
-2015,,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,67.8
-2015,,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,91.7
-2015,16 to 24,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,95.2
-2015,16 to 24,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,99.3
-2015,25 to 34,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,95.2
-2015,25 to 34,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,99.0
-2015,35 to 44,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,92.0
-2015,35 to 44,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,98.2
-2015,45 to 54,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,85.0
-2015,45 to 54,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,95.8
-2015,55 to 64,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,76.0
-2015,55 to 64,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,91.0
-2015,65 to 74,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,60.5
-2015,65 to 74,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,76.1
-2015,75 and over,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,27.4
-2015,75 and over,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,40.0
+2015,,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,67.8
+2015,,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,91.7
+2015,16 to 24,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,95.2
+2015,16 to 24,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,99.3
+2015,25 to 34,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,95.2
+2015,25 to 34,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,99.0
+2015,35 to 44,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,92.0
+2015,35 to 44,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,98.2
+2015,45 to 54,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,85.0
+2015,45 to 54,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,95.8
+2015,55 to 64,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,76.0
+2015,55 to 64,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,91.0
+2015,65 to 74,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,60.5
+2015,65 to 74,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,76.1
+2015,75 and over,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,27.4
+2015,75 and over,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,40.0
 2015,,,,White,,,,,Percentage (%),Undefined,Units,,85.9
-2015,,,,Mixed/Multiple ethnic background,,,,,Percentage (%),Undefined,Units,,97.0
+2015,,,,Mixed/multiple ethnic background,,,,,Percentage (%),Undefined,Units,,97.0
 2015,,,,Asian/Asian British,Indian,,,,Percentage (%),Undefined,Units,,87.8
 2015,,,,Asian/Asian British,Pakistani,,,,Percentage (%),Undefined,Units,,85.7
 2015,,,,Asian/Asian British,Bangladeshi,,,,Percentage (%),Undefined,Units,,83.1
 2015,,,,Asian/Asian British,Chinese,,,,Percentage (%),Undefined,Units,,92.6
-2015,,,,Asian/Asian British,Any other Asian background,,,,Percentage (%),Undefined,Units,,91.0
+2015,,,,Asian/Asian British,Other Asian background,,,,Percentage (%),Undefined,Units,,91.0
 2015,,,,Black/African/Caribbean/Black British,,,,,Percentage (%),Undefined,Units,,87.7
 2015,,,,Other ethnic group,,,,,Percentage (%),Undefined,Units,,90.5
 2015,,,,,,Employed,,,Percentage (%),Undefined,Units,,96.9
@@ -436,17 +436,17 @@ Year,Age,Sex,Disability status,Ethnicity,Ethnic group,Employment status,Region,L
 2015,,,,,,,North West,Liverpool,Percentage (%),Undefined,Units,E08000012,80.0
 2015,,,,,,,North West,Sefton,Percentage (%),Undefined,Units,E08000014,85.5
 2015,,,,,,,North West,Wirral,Percentage (%),Undefined,Units,E08000015,80.0
-2015,,,,,,,Yorkshire and the Humber,,Percentage (%),Undefined,Units,E12000003,85.3
-2015,,,,,,,Yorkshire and the Humber,"Kingston upon Hull, City of",Percentage (%),Undefined,Units,,89.7
-2015,,,,,,,Yorkshire and the Humber,East Riding of Yorkshire,Percentage (%),Undefined,Units,E06000011,86.1
-2015,,,,,,,Yorkshire and the Humber,North and North East Lincolnshire,Percentage (%),Undefined,Units,,80.7
-2015,,,,,,,Yorkshire and the Humber,York,Percentage (%),Undefined,Units,E06000014,83.3
-2015,,,,,,,Yorkshire and the Humber,North Yorkshire CC,Percentage (%),Undefined,Units,,89.0
-2015,,,,,,,Yorkshire and the Humber,"Barnsley, Doncaster and Rotherham",Percentage (%),Undefined,Units,,81.9
-2015,,,,,,,Yorkshire and the Humber,Sheffield,Percentage (%),Undefined,Units,E08000019,83.4
-2015,,,,,,,Yorkshire and the Humber,Bradford,Percentage (%),Undefined,Units,E08000032,87.3
-2015,,,,,,,Yorkshire and the Humber,Leeds,Percentage (%),Undefined,Units,E08000035,87.0
-2015,,,,,,,Yorkshire and the Humber,"Calderdale, Kirklees and Wakefield",Percentage (%),Undefined,Units,,84.8
+2015,,,,,,,Yorkshire and The Humber,,Percentage (%),Undefined,Units,E12000003,85.3
+2015,,,,,,,Yorkshire and The Humber,"Kingston upon Hull, City of",Percentage (%),Undefined,Units,,89.7
+2015,,,,,,,Yorkshire and The Humber,East Riding of Yorkshire,Percentage (%),Undefined,Units,E06000011,86.1
+2015,,,,,,,Yorkshire and The Humber,North and North East Lincolnshire,Percentage (%),Undefined,Units,,80.7
+2015,,,,,,,Yorkshire and The Humber,York,Percentage (%),Undefined,Units,E06000014,83.3
+2015,,,,,,,Yorkshire and The Humber,North Yorkshire CC,Percentage (%),Undefined,Units,,89.0
+2015,,,,,,,Yorkshire and The Humber,"Barnsley, Doncaster and Rotherham",Percentage (%),Undefined,Units,,81.9
+2015,,,,,,,Yorkshire and The Humber,Sheffield,Percentage (%),Undefined,Units,E08000019,83.4
+2015,,,,,,,Yorkshire and The Humber,Bradford,Percentage (%),Undefined,Units,E08000032,87.3
+2015,,,,,,,Yorkshire and The Humber,Leeds,Percentage (%),Undefined,Units,E08000035,87.0
+2015,,,,,,,Yorkshire and The Humber,"Calderdale, Kirklees and Wakefield",Percentage (%),Undefined,Units,,84.8
 2015,,,,,,,East Midlands,,Percentage (%),Undefined,Units,E12000004,85.8
 2015,,,,,,,East Midlands,Derby,Percentage (%),Undefined,Units,E06000015,89.5
 2015,,,,,,,East Midlands,East Derbyshire,Percentage (%),Undefined,Units,,85.8
@@ -564,29 +564,29 @@ Year,Age,Sex,Disability status,Ethnicity,Ethnic group,Employment status,Region,L
 2016,75 and over,,,,,,,,Percentage (%),Undefined,Units,,38.7
 2016,,Male,,,,,,,Percentage (%),Undefined,Units,,89.4
 2016,,Female,,,,,,,Percentage (%),Undefined,Units,,86.4
-2016,,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,71.0
-2016,,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,92.9
-2016,16 to 24,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,97.3
-2016,16 to 24,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,99.4
-2016,25 to 34,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,96.2
-2016,25 to 34,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,99.3
-2016,35 to 44,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,94.6
-2016,35 to 44,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,98.9
-2016,45 to 54,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,87.4
-2016,45 to 54,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,96.8
-2016,55 to 64,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,77.6
-2016,55 to 64,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,92.5
-2016,65 to 74,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,65.0
-2016,65 to 74,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,79.1
-2016,75 and over,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,30.8
-2016,75 and over,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,48.1
+2016,,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,71.0
+2016,,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,92.9
+2016,16 to 24,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,97.3
+2016,16 to 24,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,99.4
+2016,25 to 34,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,96.2
+2016,25 to 34,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,99.3
+2016,35 to 44,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,94.6
+2016,35 to 44,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,98.9
+2016,45 to 54,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,87.4
+2016,45 to 54,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,96.8
+2016,55 to 64,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,77.6
+2016,55 to 64,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,92.5
+2016,65 to 74,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,65.0
+2016,65 to 74,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,79.1
+2016,75 and over,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,30.8
+2016,75 and over,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,48.1
 2016,,,,White,,,,,Percentage (%),Undefined,Units,,87.4
-2016,,,,Mixed/Multiple ethnic background,,,,,Percentage (%),Undefined,Units,,95.4
+2016,,,,Mixed/multiple ethnic background,,,,,Percentage (%),Undefined,Units,,95.4
 2016,,,,Asian/Asian British,Indian,,,,Percentage (%),Undefined,Units,,88.9
 2016,,,,Asian/Asian British,Pakistani,,,,Percentage (%),Undefined,Units,,88.1
 2016,,,,Asian/Asian British,Bangladeshi,,,,Percentage (%),Undefined,Units,,86.5
 2016,,,,Asian/Asian British,Chinese,,,,Percentage (%),Undefined,Units,,96.4
-2016,,,,Asian/Asian British,Any other Asian background,,,,Percentage (%),Undefined,Units,,92.7
+2016,,,,Asian/Asian British,Other Asian background,,,,Percentage (%),Undefined,Units,,92.7
 2016,,,,Black/African/Caribbean/Black British,,,,,Percentage (%),Undefined,Units,,90.5
 2016,,,,Other ethnic group,,,,,Percentage (%),Undefined,Units,,94.2
 2016,,,,,,Employed,,,Percentage (%),Undefined,Units,,97.7
@@ -619,17 +619,17 @@ Year,Age,Sex,Disability status,Ethnicity,Ethnic group,Employment status,Region,L
 2016,,,,,,,North West,Liverpool,Percentage (%),Undefined,Units,E08000012,83.8
 2016,,,,,,,North West,Sefton,Percentage (%),Undefined,Units,E08000014,84.6
 2016,,,,,,,North West,Wirral,Percentage (%),Undefined,Units,E08000015,86.3
-2016,,,,,,,Yorkshire and the Humber,,Percentage (%),Undefined,Units,E12000003,85.9
-2016,,,,,,,Yorkshire and the Humber,"Kingston upon Hull, City of",Percentage (%),Undefined,Units,,82.6
-2016,,,,,,,Yorkshire and the Humber,East Riding of Yorkshire,Percentage (%),Undefined,Units,E06000011,89.2
-2016,,,,,,,Yorkshire and the Humber,North and North East Lincolnshire,Percentage (%),Undefined,Units,,89.5
-2016,,,,,,,Yorkshire and the Humber,York,Percentage (%),Undefined,Units,E06000014,87.1
-2016,,,,,,,Yorkshire and the Humber,North Yorkshire CC,Percentage (%),Undefined,Units,,84.2
-2016,,,,,,,Yorkshire and the Humber,"Barnsley, Doncaster and Rotherham",Percentage (%),Undefined,Units,,78.3
-2016,,,,,,,Yorkshire and the Humber,Sheffield,Percentage (%),Undefined,Units,E08000019,88.4
-2016,,,,,,,Yorkshire and the Humber,Bradford,Percentage (%),Undefined,Units,E08000032,84.8
-2016,,,,,,,Yorkshire and the Humber,Leeds,Percentage (%),Undefined,Units,E08000035,87.8
-2016,,,,,,,Yorkshire and the Humber,"Calderdale, Kirklees and Wakefield",Percentage (%),Undefined,Units,,89.1
+2016,,,,,,,Yorkshire and The Humber,,Percentage (%),Undefined,Units,E12000003,85.9
+2016,,,,,,,Yorkshire and The Humber,"Kingston upon Hull, City of",Percentage (%),Undefined,Units,,82.6
+2016,,,,,,,Yorkshire and The Humber,East Riding of Yorkshire,Percentage (%),Undefined,Units,E06000011,89.2
+2016,,,,,,,Yorkshire and The Humber,North and North East Lincolnshire,Percentage (%),Undefined,Units,,89.5
+2016,,,,,,,Yorkshire and The Humber,York,Percentage (%),Undefined,Units,E06000014,87.1
+2016,,,,,,,Yorkshire and The Humber,North Yorkshire CC,Percentage (%),Undefined,Units,,84.2
+2016,,,,,,,Yorkshire and The Humber,"Barnsley, Doncaster and Rotherham",Percentage (%),Undefined,Units,,78.3
+2016,,,,,,,Yorkshire and The Humber,Sheffield,Percentage (%),Undefined,Units,E08000019,88.4
+2016,,,,,,,Yorkshire and The Humber,Bradford,Percentage (%),Undefined,Units,E08000032,84.8
+2016,,,,,,,Yorkshire and The Humber,Leeds,Percentage (%),Undefined,Units,E08000035,87.8
+2016,,,,,,,Yorkshire and The Humber,"Calderdale, Kirklees and Wakefield",Percentage (%),Undefined,Units,,89.1
 2016,,,,,,,East Midlands,,Percentage (%),Undefined,Units,E12000004,86.6
 2016,,,,,,,East Midlands,Derby,Percentage (%),Undefined,Units,E06000015,84.4
 2016,,,,,,,East Midlands,East Derbyshire,Percentage (%),Undefined,Units,,85.5
@@ -747,29 +747,29 @@ Year,Age,Sex,Disability status,Ethnicity,Ethnic group,Employment status,Region,L
 2017,75 and over,,,,,,,,Percentage (%),Undefined,Units,,40.5
 2017,,Male,,,,,,,Percentage (%),Undefined,Units,,90.2
 2017,,Female,,,,,,,Percentage (%),Undefined,Units,,87.6
-2017,,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,73.4
-2017,,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,93.6
-2017,16 to 24,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,97.1
-2017,16 to 24,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,99.5
-2017,25 to 34,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,96.9
-2017,25 to 34,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,99.4
-2017,35 to 44,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,94.8
-2017,35 to 44,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,99.1
-2017,45 to 54,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,89.2
-2017,45 to 54,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,97.9
-2017,55 to 64,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,80.4
-2017,55 to 64,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,93.8
-2017,65 to 74,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,69.4
-2017,65 to 74,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,82.2
-2017,75 and over,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,34.0
-2017,75 and over,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,48.1
+2017,,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,73.4
+2017,,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,93.6
+2017,16 to 24,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,97.1
+2017,16 to 24,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,99.5
+2017,25 to 34,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,96.9
+2017,25 to 34,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,99.4
+2017,35 to 44,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,94.8
+2017,35 to 44,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,99.1
+2017,45 to 54,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,89.2
+2017,45 to 54,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,97.9
+2017,55 to 64,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,80.4
+2017,55 to 64,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,93.8
+2017,65 to 74,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,69.4
+2017,65 to 74,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,82.2
+2017,75 and over,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,34.0
+2017,75 and over,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,48.1
 2017,,,,White,,,,,Percentage (%),Undefined,Units,,88.4
-2017,,,,Mixed/Multiple ethnic background,,,,,Percentage (%),Undefined,Units,,96.2
+2017,,,,Mixed/multiple ethnic background,,,,,Percentage (%),Undefined,Units,,96.2
 2017,,,,Asian/Asian British,Indian,,,,Percentage (%),Undefined,Units,,90.6
 2017,,,,Asian/Asian British,Pakistani,,,,Percentage (%),Undefined,Units,,90.3
 2017,,,,Asian/Asian British,Bangladeshi,,,,Percentage (%),Undefined,Units,,87.0
 2017,,,,Asian/Asian British,Chinese,,,,Percentage (%),Undefined,Units,,98.3
-2017,,,,Asian/Asian British,Any other Asian background,,,,Percentage (%),Undefined,Units,,93.1
+2017,,,,Asian/Asian British,Other Asian background,,,,Percentage (%),Undefined,Units,,93.1
 2017,,,,Black/African/Caribbean/Black British,,,,,Percentage (%),Undefined,Units,,92.1
 2017,,,,Other ethnic group,,,,,Percentage (%),Undefined,Units,,94.1
 2017,,,,,,Employed,,,Percentage (%),Undefined,Units,,98.1
@@ -809,18 +809,18 @@ Year,Age,Sex,Disability status,Ethnicity,Ethnic group,Employment status,Region,L
 2017,,,,,,,North West,Liverpool,Percentage (%),Undefined,Units,E08000012,87.1
 2017,,,,,,,North West,Sefton,Percentage (%),Undefined,Units,E08000014,85.9
 2017,,,,,,,North West,Wirral,Percentage (%),Undefined,Units,E08000015,85.1
-2017,,,,,,,Yorkshire and the Humber,,Percentage (%),Undefined,Units,E12000003,86.8
-2017,,,,,,,Yorkshire and the Humber,"Kingston upon Hull, City of",Percentage (%),Undefined,Units,,89.1
-2017,,,,,,,Yorkshire and the Humber,East Riding of Yorkshire,Percentage (%),Undefined,Units,E06000011,87.7
-2017,,,,,,,Yorkshire and the Humber,North and North East Lincolnshire,Percentage (%),Undefined,Units,,83.9
-2017,,,,,,,Yorkshire and the Humber,York,Percentage (%),Undefined,Units,E06000014,85.9
-2017,,,,,,,Yorkshire and the Humber,North Yorkshire CC,Percentage (%),Undefined,Units,,85.8
-2017,,,,,,,Yorkshire and the Humber,"Barnsley, Doncaster and Rotherham",Percentage (%),Undefined,Units,,88.0
-2017,,,,,,,Yorkshire and the Humber,Sheffield,Percentage (%),Undefined,Units,E08000019,86.6
-2017,,,,,,,Yorkshire and the Humber,Bradford,Percentage (%),Undefined,Units,E08000032,87.3
-2017,,,,,,,Yorkshire and the Humber,Leeds,Percentage (%),Undefined,Units,E08000035,87.1
-2017,,,,,,,Yorkshire and the Humber,Calderdale and Kirklees,Percentage (%),Undefined,Units,,85.9
-2017,,,,,,,Yorkshire and the Humber,Wakefield,Percentage (%),Undefined,Units,E08000036,87.6
+2017,,,,,,,Yorkshire and The Humber,,Percentage (%),Undefined,Units,E12000003,86.8
+2017,,,,,,,Yorkshire and The Humber,"Kingston upon Hull, City of",Percentage (%),Undefined,Units,,89.1
+2017,,,,,,,Yorkshire and The Humber,East Riding of Yorkshire,Percentage (%),Undefined,Units,E06000011,87.7
+2017,,,,,,,Yorkshire and The Humber,North and North East Lincolnshire,Percentage (%),Undefined,Units,,83.9
+2017,,,,,,,Yorkshire and The Humber,York,Percentage (%),Undefined,Units,E06000014,85.9
+2017,,,,,,,Yorkshire and The Humber,North Yorkshire CC,Percentage (%),Undefined,Units,,85.8
+2017,,,,,,,Yorkshire and The Humber,"Barnsley, Doncaster and Rotherham",Percentage (%),Undefined,Units,,88.0
+2017,,,,,,,Yorkshire and The Humber,Sheffield,Percentage (%),Undefined,Units,E08000019,86.6
+2017,,,,,,,Yorkshire and The Humber,Bradford,Percentage (%),Undefined,Units,E08000032,87.3
+2017,,,,,,,Yorkshire and The Humber,Leeds,Percentage (%),Undefined,Units,E08000035,87.1
+2017,,,,,,,Yorkshire and The Humber,Calderdale and Kirklees,Percentage (%),Undefined,Units,,85.9
+2017,,,,,,,Yorkshire and The Humber,Wakefield,Percentage (%),Undefined,Units,E08000036,87.6
 2017,,,,,,,East Midlands,,Percentage (%),Undefined,Units,E12000004,87.8
 2017,,,,,,,East Midlands,Derby,Percentage (%),Undefined,Units,E06000015,87.4
 2017,,,,,,,East Midlands,East Derbyshire,Percentage (%),Undefined,Units,,85.8
@@ -970,29 +970,29 @@ Year,Age,Sex,Disability status,Ethnicity,Ethnic group,Employment status,Region,L
 2018,75 and over,,,,,,,,Percentage (%),Undefined,Units,,43.6
 2018,,Male,,,,,,,Percentage (%),Undefined,Units,,91.1
 2018,,Female,,,,,,,Percentage (%),Undefined,Units,,88.6
-2018,,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,76.6
-2018,,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,93.9
-2018,16 to 24,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,98.0
-2018,16 to 24,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,99.4
-2018,25 to 34,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,98.0
-2018,25 to 34,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,99.4
-2018,35 to 44,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,95.9
-2018,35 to 44,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,99.1
-2018,45 to 54,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,91.6
-2018,45 to 54,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,98.2
-2018,55 to 64,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,83.9
-2018,55 to 64,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,94.8
-2018,65 to 74,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,73.5
-2018,65 to 74,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,83.9
-2018,75 and over,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,38.8
-2018,75 and over,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,48.9
+2018,,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,76.6
+2018,,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,93.9
+2018,16 to 24,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,98.0
+2018,16 to 24,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,99.4
+2018,25 to 34,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,98.0
+2018,25 to 34,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,99.4
+2018,35 to 44,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,95.9
+2018,35 to 44,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,99.1
+2018,45 to 54,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,91.6
+2018,45 to 54,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,98.2
+2018,55 to 64,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,83.9
+2018,55 to 64,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,94.8
+2018,65 to 74,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,73.5
+2018,65 to 74,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,83.9
+2018,75 and over,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,38.8
+2018,75 and over,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,48.9
 2018,,,,White,,,,,Percentage (%),Undefined,Units,,89.3
-2018,,,,Mixed/Multiple ethnic background,,,,,Percentage (%),Undefined,Units,,97.9
+2018,,,,Mixed/multiple ethnic background,,,,,Percentage (%),Undefined,Units,,97.9
 2018,,,,Asian/Asian British,Indian,,,,Percentage (%),Undefined,Units,,92.7
 2018,,,,Asian/Asian British,Pakistani,,,,Percentage (%),Undefined,Units,,92.8
 2018,,,,Asian/Asian British,Bangladeshi,,,,Percentage (%),Undefined,Units,,90.7
 2018,,,,Asian/Asian British,Chinese,,,,Percentage (%),Undefined,Units,,97.6
-2018,,,,Asian/Asian British,Any other Asian background,,,,Percentage (%),Undefined,Units,,96.4
+2018,,,,Asian/Asian British,Other Asian background,,,,Percentage (%),Undefined,Units,,96.4
 2018,,,,Black/African/Caribbean/Black British,,,,,Percentage (%),Undefined,Units,,91.2
 2018,,,,Other ethnic group,,,,,Percentage (%),Undefined,Units,,95.4
 2018,,,,,,Employed,,,Percentage (%),Undefined,Units,,98.3
@@ -1032,18 +1032,18 @@ Year,Age,Sex,Disability status,Ethnicity,Ethnic group,Employment status,Region,L
 2018,,,,,,,North West,Liverpool,Percentage (%),Undefined,Units,E08000012,91.1
 2018,,,,,,,North West,Sefton,Percentage (%),Undefined,Units,E08000014,87.3
 2018,,,,,,,North West,Wirral,Percentage (%),Undefined,Units,E08000015,89.6
-2018,,,,,,,Yorkshire and the Humber,,Percentage (%),Undefined,Units,E12000003,87.9
-2018,,,,,,,Yorkshire and the Humber,"Kingston upon Hull, City of",Percentage (%),Undefined,Units,,91.6
-2018,,,,,,,Yorkshire and the Humber,East Riding of Yorkshire,Percentage (%),Undefined,Units,E06000011,85.6
-2018,,,,,,,Yorkshire and the Humber,North and North East Lincolnshire,Percentage (%),Undefined,Units,,82.6
-2018,,,,,,,Yorkshire and the Humber,York,Percentage (%),Undefined,Units,E06000014,88.6
-2018,,,,,,,Yorkshire and the Humber,North Yorkshire CC,Percentage (%),Undefined,Units,,85.3
-2018,,,,,,,Yorkshire and the Humber,"Barnsley, Doncaster and Rotherham",Percentage (%),Undefined,Units,,85.1
-2018,,,,,,,Yorkshire and the Humber,Sheffield,Percentage (%),Undefined,Units,E08000019,89.7
-2018,,,,,,,Yorkshire and the Humber,Bradford,Percentage (%),Undefined,Units,E08000032,87.3
-2018,,,,,,,Yorkshire and the Humber,Leeds,Percentage (%),Undefined,Units,E08000035,91.1
-2018,,,,,,,Yorkshire and the Humber,Calderdale and Kirklees,Percentage (%),Undefined,Units,,91.5
-2018,,,,,,,Yorkshire and the Humber,Wakefield,Percentage (%),Undefined,Units,E08000036,87.3
+2018,,,,,,,Yorkshire and The Humber,,Percentage (%),Undefined,Units,E12000003,87.9
+2018,,,,,,,Yorkshire and The Humber,"Kingston upon Hull, City of",Percentage (%),Undefined,Units,,91.6
+2018,,,,,,,Yorkshire and The Humber,East Riding of Yorkshire,Percentage (%),Undefined,Units,E06000011,85.6
+2018,,,,,,,Yorkshire and The Humber,North and North East Lincolnshire,Percentage (%),Undefined,Units,,82.6
+2018,,,,,,,Yorkshire and The Humber,York,Percentage (%),Undefined,Units,E06000014,88.6
+2018,,,,,,,Yorkshire and The Humber,North Yorkshire CC,Percentage (%),Undefined,Units,,85.3
+2018,,,,,,,Yorkshire and The Humber,"Barnsley, Doncaster and Rotherham",Percentage (%),Undefined,Units,,85.1
+2018,,,,,,,Yorkshire and The Humber,Sheffield,Percentage (%),Undefined,Units,E08000019,89.7
+2018,,,,,,,Yorkshire and The Humber,Bradford,Percentage (%),Undefined,Units,E08000032,87.3
+2018,,,,,,,Yorkshire and The Humber,Leeds,Percentage (%),Undefined,Units,E08000035,91.1
+2018,,,,,,,Yorkshire and The Humber,Calderdale and Kirklees,Percentage (%),Undefined,Units,,91.5
+2018,,,,,,,Yorkshire and The Humber,Wakefield,Percentage (%),Undefined,Units,E08000036,87.3
 2018,,,,,,,East Midlands,,Percentage (%),Undefined,Units,E12000004,88.4
 2018,,,,,,,East Midlands,Derby,Percentage (%),Undefined,Units,E06000015,87.9
 2018,,,,,,,East Midlands,East Derbyshire,Percentage (%),Undefined,Units,,85.0
@@ -1199,29 +1199,29 @@ Year,Age,Sex,Disability status,Ethnicity,Ethnic group,Employment status,Region,L
 2019,75 and over,,,,,,,,Percentage (%),Undefined,Units,,46.8
 2019,,Male,,,,,,,Percentage (%),Undefined,Units,,92.0
 2019,,Female,,,,,,,Percentage (%),Undefined,Units,,89.6
-2019,,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,78.3
-2019,,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,94.8
-2019,16 to 24,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,98.0
-2019,16 to 24,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,99.4
-2019,25 to 34,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,98.1
-2019,25 to 34,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,99.6
-2019,35 to 44,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,96.8
-2019,35 to 44,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,99.3
-2019,45 to 54,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,92.8
-2019,45 to 54,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,98.7
-2019,55 to 64,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,86.4
-2019,55 to 64,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,95.9
-2019,65 to 74,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,75.8
-2019,65 to 74,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,87.2
-2019,75 and over,,Disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,40.7
-2019,75 and over,,Not disabled (GSS harmonised),,,,,,Percentage (%),Undefined,Units,,54.1
+2019,,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,78.3
+2019,,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,94.8
+2019,16 to 24,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,98.0
+2019,16 to 24,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,99.4
+2019,25 to 34,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,98.1
+2019,25 to 34,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,99.6
+2019,35 to 44,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,96.8
+2019,35 to 44,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,99.3
+2019,45 to 54,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,92.8
+2019,45 to 54,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,98.7
+2019,55 to 64,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,86.4
+2019,55 to 64,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,95.9
+2019,65 to 74,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,75.8
+2019,65 to 74,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,87.2
+2019,75 and over,,Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,40.7
+2019,75 and over,,Not Equality Act disabled,,,,,,Percentage (%),Undefined,Units,,54.1
 2019,,,,White,,,,,Percentage (%),Undefined,Units,,90.5
-2019,,,,Mixed/Multiple ethnic background,,,,,Percentage (%),Undefined,Units,,96.0
+2019,,,,Mixed/multiple ethnic background,,,,,Percentage (%),Undefined,Units,,96.0
 2019,,,,Asian/Asian British,Indian,,,,Percentage (%),Undefined,Units,,90.4
 2019,,,,Asian/Asian British,Pakistani,,,,Percentage (%),Undefined,Units,,91.1
 2019,,,,Asian/Asian British,Bangladeshi,,,,Percentage (%),Undefined,Units,,91.9
 2019,,,,Asian/Asian British,Chinese,,,,Percentage (%),Undefined,Units,,98.6
-2019,,,,Asian/Asian British,Any other Asian background,,,,Percentage (%),Undefined,Units,,95.6
+2019,,,,Asian/Asian British,Other Asian background,,,,Percentage (%),Undefined,Units,,95.6
 2019,,,,Black/African/Caribbean/Black British,,,,,Percentage (%),Undefined,Units,,92.8
 2019,,,,Other ethnic group,,,,,Percentage (%),Undefined,Units,,94.5
 2019,,,,,,Employed,,,Percentage (%),Undefined,Units,,98.7
@@ -1261,18 +1261,18 @@ Year,Age,Sex,Disability status,Ethnicity,Ethnic group,Employment status,Region,L
 2019,,,,,,,North West,Liverpool,Percentage (%),Undefined,Units,E08000012,84.6
 2019,,,,,,,North West,Sefton,Percentage (%),Undefined,Units,E08000014,91.2
 2019,,,,,,,North West,Wirral,Percentage (%),Undefined,Units,E08000015,93.1
-2019,,,,,,,Yorkshire and the Humber,,Percentage (%),Undefined,Units,E12000003,89.8
-2019,,,,,,,Yorkshire and the Humber,"Kingston upon Hull, City of",Percentage (%),Undefined,Units,,85.8
-2019,,,,,,,Yorkshire and the Humber,East Riding of Yorkshire,Percentage (%),Undefined,Units,E06000011,85.2
-2019,,,,,,,Yorkshire and the Humber,North and North East Lincolnshire,Percentage (%),Undefined,Units,,86.9
-2019,,,,,,,Yorkshire and the Humber,York,Percentage (%),Undefined,Units,E06000014,92.7
-2019,,,,,,,Yorkshire and the Humber,North Yorkshire CC,Percentage (%),Undefined,Units,,90.0
-2019,,,,,,,Yorkshire and the Humber,"Barnsley, Doncaster and Rotherham",Percentage (%),Undefined,Units,,88.6
-2019,,,,,,,Yorkshire and the Humber,Sheffield,Percentage (%),Undefined,Units,E08000019,89.2
-2019,,,,,,,Yorkshire and the Humber,Bradford,Percentage (%),Undefined,Units,E08000032,90.5
-2019,,,,,,,Yorkshire and the Humber,Leeds,Percentage (%),Undefined,Units,E08000035,94.9
-2019,,,,,,,Yorkshire and the Humber,Calderdale and Kirklees,Percentage (%),Undefined,Units,,89.2
-2019,,,,,,,Yorkshire and the Humber,Wakefield,Percentage (%),Undefined,Units,E08000036,89.6
+2019,,,,,,,Yorkshire and The Humber,,Percentage (%),Undefined,Units,E12000003,89.8
+2019,,,,,,,Yorkshire and The Humber,"Kingston upon Hull, City of",Percentage (%),Undefined,Units,,85.8
+2019,,,,,,,Yorkshire and The Humber,East Riding of Yorkshire,Percentage (%),Undefined,Units,E06000011,85.2
+2019,,,,,,,Yorkshire and The Humber,North and North East Lincolnshire,Percentage (%),Undefined,Units,,86.9
+2019,,,,,,,Yorkshire and The Humber,York,Percentage (%),Undefined,Units,E06000014,92.7
+2019,,,,,,,Yorkshire and The Humber,North Yorkshire CC,Percentage (%),Undefined,Units,,90.0
+2019,,,,,,,Yorkshire and The Humber,"Barnsley, Doncaster and Rotherham",Percentage (%),Undefined,Units,,88.6
+2019,,,,,,,Yorkshire and The Humber,Sheffield,Percentage (%),Undefined,Units,E08000019,89.2
+2019,,,,,,,Yorkshire and The Humber,Bradford,Percentage (%),Undefined,Units,E08000032,90.5
+2019,,,,,,,Yorkshire and The Humber,Leeds,Percentage (%),Undefined,Units,E08000035,94.9
+2019,,,,,,,Yorkshire and The Humber,Calderdale and Kirklees,Percentage (%),Undefined,Units,,89.2
+2019,,,,,,,Yorkshire and The Humber,Wakefield,Percentage (%),Undefined,Units,E08000036,89.6
 2019,,,,,,,East Midlands,,Percentage (%),Undefined,Units,E12000004,89.9
 2019,,,,,,,East Midlands,Derby,Percentage (%),Undefined,Units,E06000015,85.3
 2019,,,,,,,East Midlands,East Derbyshire,Percentage (%),Undefined,Units,,89.6
