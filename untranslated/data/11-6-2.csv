@@ -6,12 +6,12 @@ Year,Size of particulate matter,Local Authority,Observation status,Unit multipli
 2016,PM 10,Aberdeen City,Undefined,Units,microgram/m3,S12000033,8.0
 2016,,Aberdeen City,Undefined,Units,microgram/m3,S12000033,5.0
 2013,PM 10,Armagh,Undefined,Units,microgram/m3,,19.0223524
-2013,,Armagh,Undefined,Units,microgram/m3,,13.526416399999999
+2013,,Armagh,Undefined,Units,microgram/m3,,13.5264164
 2016,PM 10,Barnstaple,Undefined,Units,microgram/m3,,16.0
 2016,,Barnstaple,Undefined,Units,microgram/m3,,11.0
 2008,PM 10,Belfast,Undefined,Units,microgram/m3,N09000003,18.325
 2013,PM 10,Belfast,Undefined,Units,microgram/m3,N09000003,17.65008496
-2013,,Belfast,Undefined,Units,microgram/m3,N09000003,11.563386099999999
+2013,,Belfast,Undefined,Units,microgram/m3,N09000003,11.5633861
 2016,PM 10,Belfast,Undefined,Units,microgram/m3,N09000003,19.0
 2016,,Belfast,Undefined,Units,microgram/m3,N09000003,10.0
 2013,PM 10,Birkenhead,Undefined,Units,microgram/m3,,15.12115842
@@ -55,7 +55,7 @@ Year,Size of particulate matter,Local Authority,Observation status,Unit multipli
 2013,,Chepstow,Undefined,Units,microgram/m3,,14.14664472
 2015,PM 10,Chepstow,Undefined,Units,microgram/m3,,14.0
 2015,,Chepstow,Undefined,Units,microgram/m3,,10.0
-2011,PM 10,Chesterfield,Undefined,Units,microgram/m3,E07000034,21.846999999999998
+2011,PM 10,Chesterfield,Undefined,Units,microgram/m3,E07000034,21.847
 2013,PM 10,Chesterfield,Undefined,Units,microgram/m3,E07000034,16.61655092
 2013,,Chesterfield,Undefined,Units,microgram/m3,E07000034,10.21236298
 2016,PM 10,Chesterfield,Undefined,Units,microgram/m3,E07000034,16.0
@@ -90,7 +90,7 @@ Year,Size of particulate matter,Local Authority,Observation status,Unit multipli
 2013,,Gibraltar,Undefined,Units,microgram/m3,,14.22181818
 2016,PM 10,Gillingham,Undefined,Units,microgram/m3,,19.0
 2016,,Gillingham,Undefined,Units,microgram/m3,,12.0
-2008,PM 10,Glasgow City,Undefined,Units,microgram/m3,S12000046,24.453000000000003
+2008,PM 10,Glasgow City,Undefined,Units,microgram/m3,S12000046,24.453
 2011,PM 10,Glasgow City,Undefined,Units,microgram/m3,S12000046,16.526
 2013,PM 10,Glasgow City,Undefined,Units,microgram/m3,S12000046,22.93713748
 2013,,Glasgow City,Undefined,Units,microgram/m3,S12000046,16.03820498
@@ -148,11 +148,11 @@ Year,Size of particulate matter,Local Authority,Observation status,Unit multipli
 2013,,Newport,Undefined,Units,microgram/m3,W06000022,12.95290288
 2016,PM 10,Newport,Undefined,Units,microgram/m3,W06000022,15.0
 2016,,Newport,Undefined,Units,microgram/m3,W06000022,10.0
-2011,,Northampton,Undefined,Units,microgram/m3,E07000154,9.966000000000001
+2011,,Northampton,Undefined,Units,microgram/m3,E07000154,9.966
 2016,PM 10,Northampton,Undefined,Units,microgram/m3,E07000154,10.0
 2016,,Northampton,Undefined,Units,microgram/m3,E07000154,7.0
 2011,PM 10,Norwich,Undefined,Units,microgram/m3,E07000148,19.834
-2011,,Norwich,Undefined,Units,microgram/m3,E07000148,14.140999999999998
+2011,,Norwich,Undefined,Units,microgram/m3,E07000148,14.141
 2013,,Norwich,Undefined,Units,microgram/m3,E07000148,13.23369116
 2016,PM 10,Norwich,Undefined,Units,microgram/m3,E07000148,16.0
 2016,,Norwich,Undefined,Units,microgram/m3,E07000148,11.0
@@ -163,14 +163,14 @@ Year,Size of particulate matter,Local Authority,Observation status,Unit multipli
 2016,PM 10,Nottingham,Undefined,Units,microgram/m3,E06000018,19.0
 2016,,Nottingham,Undefined,Units,microgram/m3,E06000018,12.0
 2011,PM 10,Oxford,Undefined,Units,microgram/m3,E07000178,17.167
-2011,,Oxford,Undefined,Units,microgram/m3,E07000178,11.674000000000001
+2011,,Oxford,Undefined,Units,microgram/m3,E07000178,11.674
 2013,PM 10,Oxford,Undefined,Units,microgram/m3,E07000178,20.72740633
 2013,,Oxford,Undefined,Units,microgram/m3,E07000178,13.74342057
 2015,PM 10,Oxford,Undefined,Units,microgram/m3,E07000178,15.0
 2015,,Oxford,Undefined,Units,microgram/m3,E07000178,10.0
 2016,PM 10,Penicuik,Undefined,Units,microgram/m3,,4.0
 2016,,Penicuik,Undefined,Units,microgram/m3,,3.0
-2011,PM 10,Plymouth,Undefined,Units,microgram/m3,E06000026,20.319000000000003
+2011,PM 10,Plymouth,Undefined,Units,microgram/m3,E06000026,20.319
 2011,,Plymouth,Undefined,Units,microgram/m3,E06000026,10.579
 2013,,Plymouth,Undefined,Units,microgram/m3,E06000026,12.00674284
 2013,PM 10,Plymouth,Undefined,Units,microgram/m3,E06000026,17.0
@@ -179,7 +179,7 @@ Year,Size of particulate matter,Local Authority,Observation status,Unit multipli
 2016,PM 10,Port Talbot,Undefined,Units,microgram/m3,,22.0
 2016,,Port Talbot,Undefined,Units,microgram/m3,,9.0
 2008,PM 10,Portsmouth,Undefined,Units,microgram/m3,E06000044,23.99396615
-2011,,Portsmouth,Undefined,Units,microgram/m3,E06000044,15.857000000000001
+2011,,Portsmouth,Undefined,Units,microgram/m3,E06000044,15.857
 2013,,Portsmouth,Undefined,Units,microgram/m3,E06000044,13.93646073
 2016,PM 10,Portsmouth,Undefined,Units,microgram/m3,E06000044,17.0
 2016,,Portsmouth,Undefined,Units,microgram/m3,E06000044,12.0
@@ -207,12 +207,12 @@ Year,Size of particulate matter,Local Authority,Observation status,Unit multipli
 2017,,Scunthorpe,Undefined,Units,microgram/m3,,6.0
 2008,PM 10,Sheffield,Undefined,Units,microgram/m3,E08000019,22.353
 2011,PM 10,Sheffield,Undefined,Units,microgram/m3,E08000019,22.698
-2011,,Sheffield,Undefined,Units,microgram/m3,E08000019,17.352999999999998
+2011,,Sheffield,Undefined,Units,microgram/m3,E08000019,17.353
 2016,PM 10,Sheffield,Undefined,Units,microgram/m3,E08000019,14.0
 2016,,Sheffield,Undefined,Units,microgram/m3,E08000019,10.0
-2008,PM 10,Southampton,Undefined,Units,microgram/m3,E06000045,20.548000000000002
+2008,PM 10,Southampton,Undefined,Units,microgram/m3,E06000045,20.548
 2011,PM 10,Southampton,Undefined,Units,microgram/m3,E06000045,20.969
-2011,,Southampton,Undefined,Units,microgram/m3,E06000045,15.934000000000001
+2011,,Southampton,Undefined,Units,microgram/m3,E06000045,15.934
 2013,,Southampton,Undefined,Units,microgram/m3,E06000045,15.01057159
 2015,PM 10,Southampton,Undefined,Units,microgram/m3,E06000045,16.0
 2015,,Southampton,Undefined,Units,microgram/m3,E06000045,10.0
@@ -236,7 +236,7 @@ Year,Size of particulate matter,Local Authority,Observation status,Unit multipli
 2016,PM 10,Stockton-on-Tees,Undefined,Units,microgram/m3,E06000004,14.0
 2016,,Stockton-on-Tees,Undefined,Units,microgram/m3,E06000004,9.0
 2008,PM 10,Stoke-on-Trent,Undefined,Units,microgram/m3,E06000021,18.828
-2011,PM 10,Stoke-on-Trent,Undefined,Units,microgram/m3,E06000021,22.226999999999997
+2011,PM 10,Stoke-on-Trent,Undefined,Units,microgram/m3,E06000021,22.227
 2011,,Stoke-on-Trent,Undefined,Units,microgram/m3,E06000021,16.302
 2013,PM 10,Stoke-on-Trent,Undefined,Units,microgram/m3,E06000021,20.0
 2013,,Stoke-on-Trent,Undefined,Units,microgram/m3,E06000021,14.0
@@ -245,7 +245,7 @@ Year,Size of particulate matter,Local Authority,Observation status,Unit multipli
 2016,,Stoke-on-Trent,Undefined,Units,microgram/m3,E06000021,12.0
 2016,PM 10,Storrington,Undefined,Units,microgram/m3,,19.0
 2016,,Storrington,Undefined,Units,microgram/m3,,13.0
-2011,,Sunderland,Undefined,Units,microgram/m3,E08000024,14.947000000000001
+2011,,Sunderland,Undefined,Units,microgram/m3,E08000024,14.947
 2013,PM 10,Sunderland,Undefined,Units,microgram/m3,E08000024,12.76410878
 2013,,Sunderland,Undefined,Units,microgram/m3,E08000024,9.07630385
 2016,PM 10,Sunderland,Undefined,Units,microgram/m3,E08000024,12.0
@@ -254,12 +254,12 @@ Year,Size of particulate matter,Local Authority,Observation status,Unit multipli
 2013,,Swansea,Undefined,Units,microgram/m3,W06000011,11.92969335
 2016,PM 10,Swansea,Undefined,Units,microgram/m3,W06000011,19.0
 2016,,Swansea,Undefined,Units,microgram/m3,W06000011,13.0
-2011,PM 10,Thurrock,Undefined,Units,microgram/m3,E06000034,24.851999999999997
+2011,PM 10,Thurrock,Undefined,Units,microgram/m3,E06000034,24.852
 2011,,Thurrock,Undefined,Units,microgram/m3,E06000034,17.55971892
 2013,,Thurrock,Undefined,Units,microgram/m3,E06000034,13.62201607
 2011,PM 10,Warrington,Undefined,Units,microgram/m3,E06000007,18.588
 2011,,Warrington,Undefined,Units,microgram/m3,E06000007,12.772
-2013,PM 10,Warrington,Undefined,Units,microgram/m3,E06000007,17.529480399999997
+2013,PM 10,Warrington,Undefined,Units,microgram/m3,E06000007,17.5294804
 2013,,Warrington,Undefined,Units,microgram/m3,E06000007,13.60900228
 2014,PM 10,Warrington,Undefined,Units,microgram/m3,E06000007,21.0
 2014,,Warrington,Undefined,Units,microgram/m3,E06000007,14.0
