@@ -1,16 +1,4 @@
 Year,Vaccine,Age,Country,Region,Unit measure,Unit multiplier,Observation status,GeoCode,Value
-2007/08,,,,,Percentage (%),Units,Undefined,,
-2008/09,,,,,Percentage (%),Units,Undefined,,
-2009/10,,,,,Percentage (%),Units,Undefined,,
-2010/11,,,,,Percentage (%),Units,Undefined,,
-2011/12,,,,,Percentage (%),Units,Undefined,,
-2012/13,,,,,Percentage (%),Units,Undefined,,
-2013/14,,,,,Percentage (%),Units,Undefined,,
-2014/15,,,,,Percentage (%),Units,Undefined,,
-2015/16,,,,,Percentage (%),Units,Undefined,,
-2016/17,,,,,Percentage (%),Units,Undefined,,
-2017/18,,,,,Percentage (%),Units,Undefined,,
-2018/19,,,,,Percentage (%),Units,Undefined,,
 2009/10,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,,,Percentage (%),Units,Undefined,,94.1
 2010/11,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,,,Percentage (%),Units,Undefined,,94.5
 2011/12,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,,,Percentage (%),Units,Undefined,,95.0
@@ -636,23 +624,23 @@ Year,Vaccine,Age,Country,Region,Unit measure,Unit multiplier,Observation status,
 2016/17,Rotavirus (primary),By 1st birthday,England,North West,Percentage (%),Units,Undefined,E12000002,87.5
 2018/19,Meningococcal group B (primary),By 1st birthday,England,North West,Percentage (%),Units,Undefined,E12000002,93.4
 2017/18,Meningococcal group B (primary),By 1st birthday,England,North West,Percentage (%),Units,Undefined,E12000002,92.6
-2018/19,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,93.9
-2017/18,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,94.5
-2016/17,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,95.2
-2015/16,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,95.8
-2014/15,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,95.8
-2013/14,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,96.1
-2018/19,Pneumococcal disease (primary),By 1st birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,94.2
-2017/18,Pneumococcal disease (primary),By 1st birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,94.7
-2016/17,Pneumococcal disease (primary),By 1st birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,95.2
-2015/16,Pneumococcal disease (primary),By 1st birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,95.8
-2014/15,Pneumococcal disease (primary),By 1st birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,95.6
-2013/14,Pneumococcal disease (primary),By 1st birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,95.8
-2018/19,Rotavirus (primary),By 1st birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,91.7
-2017/18,Rotavirus (primary),By 1st birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,92.1
-2016/17,Rotavirus (primary),By 1st birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,92.2
-2018/19,Meningococcal group B (primary),By 1st birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,93.9
-2017/18,Meningococcal group B (primary),By 1st birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,94.2
+2018/19,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,93.9
+2017/18,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,94.5
+2016/17,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,95.2
+2015/16,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,95.8
+2014/15,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,95.8
+2013/14,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,96.1
+2018/19,Pneumococcal disease (primary),By 1st birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,94.2
+2017/18,Pneumococcal disease (primary),By 1st birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,94.7
+2016/17,Pneumococcal disease (primary),By 1st birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,95.2
+2015/16,Pneumococcal disease (primary),By 1st birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,95.8
+2014/15,Pneumococcal disease (primary),By 1st birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,95.6
+2013/14,Pneumococcal disease (primary),By 1st birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,95.8
+2018/19,Rotavirus (primary),By 1st birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,91.7
+2017/18,Rotavirus (primary),By 1st birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,92.1
+2016/17,Rotavirus (primary),By 1st birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,92.2
+2018/19,Meningococcal group B (primary),By 1st birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,93.9
+2017/18,Meningococcal group B (primary),By 1st birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,94.2
 2018/19,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,94.2
 2017/18,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,94.9
 2016/17,Diphtheria Tetanus Polio Pertussis Hib (primary),By 1st birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,95.4
@@ -803,30 +791,30 @@ Year,Vaccine,Age,Country,Region,Unit measure,Unit multiplier,Observation status,
 2016/17,Pneumococcal disease (booster),By 2nd birthday,England,North West,Percentage (%),Units,Undefined,E12000002,93.3
 2017/18,Pneumococcal disease (booster),By 2nd birthday,England,North West,Percentage (%),Units,Undefined,E12000002,92.7
 2018/19,Pneumococcal disease (booster),By 2nd birthday,England,North West,Percentage (%),Units,Undefined,E12000002,92.1
-2013/14,Diphtheria Tetanus Polio Pertussis Hib (primary),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,97.3
-2014/15,Diphtheria Tetanus Polio Pertussis Hib (primary),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,97.0
-2015/16,Diphtheria Tetanus Polio Pertussis Hib (primary),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,97.1
-2016/17,Diphtheria Tetanus Polio Pertussis Hib (primary),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,96.7
-2017/18,Diphtheria Tetanus Polio Pertussis Hib (primary),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,96.2
-2018/19,Diphtheria Tetanus Polio Pertussis Hib (primary),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,95.5
-2013/14,Measles mumps rubella (first dose),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,94.7
-2014/15,Measles mumps rubella (first dose),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,94.3
-2015/16,Measles mumps rubella (first dose),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,94.0
-2016/17,Measles mumps rubella (first dose),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,94.0
-2017/18,Measles mumps rubella (first dose),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,93.3
-2018/19,Measles mumps rubella (first dose),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,92.8
-2013/14,Hib Meningococcal group C (booster),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,95.0
-2014/15,Hib Meningococcal group C (booster),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,94.5
-2015/16,Hib Meningococcal group C (booster),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,94.1
-2016/17,Hib Meningococcal group C (booster),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,94.2
-2017/18,Hib Meningococcal group C (booster),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,93.4
-2018/19,Hib Meningococcal group C (booster),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,93.0
-2013/14,Pneumococcal disease (booster),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,95.0
-2014/15,Pneumococcal disease (booster),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,94.8
-2015/16,Pneumococcal disease (booster),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,94.4
-2016/17,Pneumococcal disease (booster),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,94.3
-2017/18,Pneumococcal disease (booster),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,93.5
-2018/19,Pneumococcal disease (booster),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,93.1
+2013/14,Diphtheria Tetanus Polio Pertussis Hib (primary),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,97.3
+2014/15,Diphtheria Tetanus Polio Pertussis Hib (primary),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,97.0
+2015/16,Diphtheria Tetanus Polio Pertussis Hib (primary),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,97.1
+2016/17,Diphtheria Tetanus Polio Pertussis Hib (primary),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,96.7
+2017/18,Diphtheria Tetanus Polio Pertussis Hib (primary),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,96.2
+2018/19,Diphtheria Tetanus Polio Pertussis Hib (primary),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,95.5
+2013/14,Measles mumps rubella (first dose),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,94.7
+2014/15,Measles mumps rubella (first dose),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,94.3
+2015/16,Measles mumps rubella (first dose),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,94.0
+2016/17,Measles mumps rubella (first dose),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,94.0
+2017/18,Measles mumps rubella (first dose),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,93.3
+2018/19,Measles mumps rubella (first dose),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,92.8
+2013/14,Hib Meningococcal group C (booster),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,95.0
+2014/15,Hib Meningococcal group C (booster),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,94.5
+2015/16,Hib Meningococcal group C (booster),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,94.1
+2016/17,Hib Meningococcal group C (booster),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,94.2
+2017/18,Hib Meningococcal group C (booster),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,93.4
+2018/19,Hib Meningococcal group C (booster),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,93.0
+2013/14,Pneumococcal disease (booster),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,95.0
+2014/15,Pneumococcal disease (booster),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,94.8
+2015/16,Pneumococcal disease (booster),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,94.4
+2016/17,Pneumococcal disease (booster),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,94.3
+2017/18,Pneumococcal disease (booster),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,93.5
+2018/19,Pneumococcal disease (booster),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,93.1
 2013/14,Diphtheria Tetanus Polio Pertussis Hib (primary),By 2nd birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,97.7
 2014/15,Diphtheria Tetanus Polio Pertussis Hib (primary),By 2nd birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,97.5
 2015/16,Diphtheria Tetanus Polio Pertussis Hib (primary),By 2nd birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,97.0
@@ -1031,36 +1019,36 @@ Year,Vaccine,Age,Country,Region,Unit measure,Unit multiplier,Observation status,
 2016/17,Hib Meningococcal group C (booster),By 5th birthday,England,North West,Percentage (%),Units,Undefined,E12000002,93.7
 2017/18,Hib Meningococcal group C (booster),By 5th birthday,England,North West,Percentage (%),Units,Undefined,E12000002,93.6
 2018/19,Hib Meningococcal group C (booster),By 5th birthday,England,North West,Percentage (%),Units,Undefined,E12000002,93.6
-2013/14,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,97.2
-2014/15,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,97.0
-2015/16,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,97.2
-2016/17,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,97.1
-2017/18,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,96.6
-2018/19,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,96.2
-2013/14,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,92.2
-2014/15,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,92.5
-2015/16,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,90.1
-2016/17,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,90.1
-2017/18,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,89.9
-2018/19,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,88.9
-2013/14,Measles mumps rubella (first dose),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,96.0
-2014/15,Measles mumps rubella (first dose),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,96.2
-2015/16,Measles mumps rubella (first dose),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,96.8
-2016/17,Measles mumps rubella (first dose),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,96.6
-2017/18,Measles mumps rubella (first dose),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,95.9
-2018/19,Measles mumps rubella (first dose),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,95.8
-2013/14,Measles mumps rubella (first and second dose),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,91.7
-2014/15,Measles mumps rubella (first and second dose),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,92.3
-2015/16,Measles mumps rubella (first and second dose),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,91.8
-2016/17,Measles mumps rubella (first and second dose),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,90.5
-2017/18,Measles mumps rubella (first and second dose),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,90.5
-2018/19,Measles mumps rubella (first and second dose),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,89.9
-2013/14,Hib Meningococcal group C (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,95.1
-2014/15,Hib Meningococcal group C (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,95.2
-2015/16,Hib Meningococcal group C (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,94.4
-2016/17,Hib Meningococcal group C (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,94.4
-2017/18,Hib Meningococcal group C (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,93.8
-2018/19,Hib Meningococcal group C (booster),By 5th birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,93.4
+2013/14,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,97.2
+2014/15,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,97.0
+2015/16,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,97.2
+2016/17,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,97.1
+2017/18,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,96.6
+2018/19,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,96.2
+2013/14,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,92.2
+2014/15,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,92.5
+2015/16,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,90.1
+2016/17,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,90.1
+2017/18,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,89.9
+2018/19,Diphtheria Tetanus Polio Pertussis (booster),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,88.9
+2013/14,Measles mumps rubella (first dose),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,96.0
+2014/15,Measles mumps rubella (first dose),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,96.2
+2015/16,Measles mumps rubella (first dose),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,96.8
+2016/17,Measles mumps rubella (first dose),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,96.6
+2017/18,Measles mumps rubella (first dose),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,95.9
+2018/19,Measles mumps rubella (first dose),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,95.8
+2013/14,Measles mumps rubella (first and second dose),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,91.7
+2014/15,Measles mumps rubella (first and second dose),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,92.3
+2015/16,Measles mumps rubella (first and second dose),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,91.8
+2016/17,Measles mumps rubella (first and second dose),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,90.5
+2017/18,Measles mumps rubella (first and second dose),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,90.5
+2018/19,Measles mumps rubella (first and second dose),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,89.9
+2013/14,Hib Meningococcal group C (booster),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,95.1
+2014/15,Hib Meningococcal group C (booster),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,95.2
+2015/16,Hib Meningococcal group C (booster),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,94.4
+2016/17,Hib Meningococcal group C (booster),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,94.4
+2017/18,Hib Meningococcal group C (booster),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,93.8
+2018/19,Hib Meningococcal group C (booster),By 5th birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,93.4
 2013/14,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,97.2
 2014/15,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,97.1
 2015/16,Diphtheria Tetanus Polio Pertussis Hib (primary),By 5th birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,97.0
@@ -1400,7 +1388,7 @@ Year,Vaccine,Age,Country,Region,Unit measure,Unit multiplier,Observation status,
 2018/19,Meningococcal group B (booster),By 2nd birthday,Northern Ireland,,Percentage (%),Units,Undefined,N92000002,92.4
 2018/19,Meningococcal group B (booster),By 2nd birthday,England,North East,Percentage (%),Units,Undefined,E12000001,92.3
 2018/19,Meningococcal group B (booster),By 2nd birthday,England,North West,Percentage (%),Units,Undefined,E12000002,87.99192385347563
-2018/19,Meningococcal group B (booster),By 2nd birthday,England,Yorkshire and The Humber,Percentage (%),Units,Undefined,E12000003,91.4
+2018/19,Meningococcal group B (booster),By 2nd birthday,England,Yorkshire and the Humber,Percentage (%),Units,Undefined,E12000003,91.4
 2018/19,Meningococcal group B (booster),By 2nd birthday,England,East Midlands,Percentage (%),Units,Undefined,E12000004,89.7
 2018/19,Meningococcal group B (booster),By 2nd birthday,England,West Midlands,Percentage (%),Units,Undefined,E12000005,88.8
 2018/19,Meningococcal group B (booster),By 2nd birthday,England,East of England,Percentage (%),Units,Undefined,E12000006,89.4
