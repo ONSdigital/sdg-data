@@ -1,16 +1,29 @@
 
         <!DOCTYPE html>
-        <html>
+        <html lang="en">
         <head>
             <meta charset="utf-8">
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
             <meta name="viewport" content="width=device-width, initial-scale=1">
 
-            <title>UK SDG data service - Disaggregation: Industry lower sub-category</title>
+            <title>Disaggregation: Industry lower sub-category - UK SDG data service</title>
 
-            <script defer src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
+            <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.bootstrap_4.min.css" integrity="sha256-vFn0MM8utz2N3JoNzRxHXUtfCJLz5Pb9ygBY2exIaqg=" crossorigin="anonymous" />
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
+            <style>
+                .btn-primary {
+                    background-color: #1D70B8;
+                    border-color: #1D70B8;
+                }
+                a {
+                    color: #1D70B8;
+                    text-decoration: underline;
+                }
+                .download-info {
+                    margin-left: 12px;
+                }
+            </style>
         </head>
         <body>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -23,22 +36,26 @@
                     <h1 style="margin:20px 0">Disaggregation: Industry lower sub-category</h1>
                     <div>
                         
-        <div class="list-group list-group-horizontal mb-4">
-            <a class="list-group-item list-group-item-action" href="#values-used">Values used in disaggregation</a>
-            <a class="list-group-item list-group-item-action" href="#indicators-using">Indicators using disaggregation</a>
+        <div role="navigation" aria-describedby="contents-heading">
+            <h2 id="contents-heading">On this page</h2>
+            <ul>
+                <li><a href="#values-used">Values used in disaggregation</a></li>
+                <li><a href="#indicators-using">Indicators using disaggregation</a></li>
+            </ul>
         </div>
         <div>
-            <h2 id="values-used">Values used in disaggregation</h2>
+            <h2 id="values-used" tabindex="-1">Values used in disaggregation</h2>
             
         <div class="my-3">
-            <a href="values--disaggregation--industry-lower-sub-category.csv" class="btn btn-primary">Download CSV</a>
+            <a href="values--disaggregation--industry-lower-sub-category.csv" role="button" class="btn btn-primary" aria-describedby="values--disaggregation--industry-lower-sub-category">Download CSV of values used in this disaggregation</a>
+            <div id="values--disaggregation--industry-lower-sub-category" class="download-info">Size: 2.9 kB</div>
         </div>
         
             
                 <div class="total-rows">
                     Total rows: <span class="total">54</span>
                 </div>
-                <table border="1" class="dataframe table table-striped table-bordered tablesorter">
+                <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
   <thead>
     <tr style="text-align: right;">
       <th>Value</th>
@@ -319,19 +336,26 @@
     </tr>
   </tbody>
 </table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--accounting-bookkeeping-and-auditing-activities-tax-consultancy.html\">Accounting, bookkeeping and auditing activities; tax consultancy<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--air-and-spacecraft-and-related-machinery.html\">Air and spacecraft and related machinery<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--alcoholic-beverages.html\">Alcoholic beverages<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--bakery-and-farinaceous-products.html\">Bakery and farinaceous products<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--basic-iron-and-steel.html\">Basic iron and steel<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--building-of-ships-and-boats.html\">Building of ships and boats<\/a>","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--cement-lime-plaster-and-articles-of-concrete-cement-and-plaster.html\">Cement, lime, plaster and articles of concrete, cement and plaster<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dairy-products.html\">Dairy products<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dyestuffs-agro-chemicals.html\">Dyestuffs, agro-chemicals<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--fabricated-metal-products-excluding-weapons-and-ammunition.html\">Fabricated metal products, excluding weapons and ammunition<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--glass-refractory-clay-porcelain-ceramic-stone-products.html\">Glass, refractory, clay, porcelain, ceramic, stone products<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--grain-mill-products-starches-and-starch-products.html\">Grain mill products, starches and starch products<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--industrial-gases-inorganics-and-fertilisers-all-inorganic-chemicals.html\">Industrial gases, inorganics and fertilisers (all inorganic chemicals)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--legal-activities.html\">Legal activities<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-air-and-spacecraft-and-related-machinery.html\">Manufacture of air and spacecraft and related machinery<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-alcoholic-beverages.html\">Manufacture of alcoholic beverages<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-bakery-and-farinaceous-products.html\">Manufacture of bakery and farinaceous products<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-basic-iron-and-steel.html\">Manufacture of basic iron and steel<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-cement-lime-plaster-and-articles-of-concrete-cement-and-plaster.html\">Manufacture of cement, lime, plaster and articles of concrete, cement and plaster<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-dairy-products.html\">Manufacture of dairy products<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-dyestuffs-agro-chemicals.html\">Manufacture of dyestuffs, agro-chemicals<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-fabricated-metal-products-excluding-weapons-ammunition.html\">Manufacture of fabricated metal products, excluding weapons & ammunition<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-fabricated-metal-products-excluding-weapons-and-ammunition.html\">Manufacture of fabricated metal products, excluding weapons and ammunition<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-glass-refractory-clay-porcelain-ceramic-stone-products.html\">Manufacture of glass, refractory, clay, porcelain, ceramic, stone products<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-grain-mill-products-starches-and-starch-products.html\">Manufacture of grain mill products, starches and starch products<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-industrial-gases-inorganics-and-fertilisers-inorganic-chemicals.html\">Manufacture of industrial gases, inorganics and fertilisers (inorganic chemicals)<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-other-basic-metals-and-casting.html\">Manufacture of other basic metals and casting<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-other-chemical-products.html\">Manufacture of other chemical products<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-other-food-products.html\">Manufacture of other food products<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-other-transport-equipment_.html\">Manufacture of other transport equipment<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-paints-varnishes-and-similar-coatings-printing-ink-and-mastics.html\">Manufacture of paints, varnishes and similar coatings, printing ink and mastics<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-petrochemicals.html\">Manufacture of petrochemicals<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-prepared-animal-feeds.html\">Manufacture of prepared animal feeds<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-soap-and-detergents-cleaning-and-polishing-perfumes-and-toilet-.html\">Manufacture of soap and detergents, cleaning and polishing, perfumes and toilet preparations<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-soap-detergents-cleaning-polishing-perfumes-toilet-preparations.html\">Manufacture of soap & detergents, cleaning & polishing, perfumes & toilet preparations<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-soft-drinks-production-of-mineral-waters-and-other-bottled-wate.html\">Manufacture of soft drinks; production of mineral waters and other bottled waters<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-vegetable-and-animal-oils-and-fats.html\">Manufacture of vegetable and animal oils and fats<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacture-of-weapons-and-ammunition.html\">Manufacture of weapons and ammunition<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--other-basic-metals-and-casting.html\">Other basic metals and casting<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--other-chemical-products.html\">Other chemical products<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--other-food-products.html\">Other food products<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--other-transport-equipment_.html\">Other transport equipment<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--paints-varnishes-and-similar-coatings-printing-ink-and-mastics.html\">Paints, varnishes and similar coatings, printing ink and mastics<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--petrochemicals.html\">Petrochemicals<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--prepared-animal-feeds.html\">Prepared animal feeds<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--processing-and-preserving-of-fish-crustaceans-molluscs-fruit-and-vegetables.html\">Processing and preserving of fish, crustaceans, molluscs, fruit and vegetables<\/a>","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--processing-and-preserving-of-meat-and-production-of-meat-products.html\">Processing and preserving of meat and production of meat products<\/a>","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--repair-and-maintenance-of-aircraft-and-spacecraft.html\">Repair and maintenance of aircraft and spacecraft<\/a>","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--repair-and-maintenance-of-ships-and-boats.html\">Repair and maintenance of ships and boats<\/a>","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--rest-of-repair-installation.html\">Rest of repair; installation<\/a>","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--soap-and-detergents-cleaning-and-polishing-preparations-perfumes-and-toilet-pr.html\">Soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--soft-drinks-production-of-mineral-waters-and-other-bottled-waters.html\">Soft drinks; production of mineral waters and other bottled waters<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--vegetable-and-animal-oils-and-fats.html\">Vegetable and animal oils and fats<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--weapons-and-ammunition_.html\">Weapons and ammunition<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1}];
+            </script>
+            
         </div>
         <div>
-            <h2 id="indicators-using">Indicators using disaggregation</h2>
+            <h2 id="indicators-using" tabindex="-1">Indicators using disaggregation</h2>
             
         <div class="my-3">
-            <a href="indicators--disaggregation--industry-lower-sub-category.csv" class="btn btn-primary">Download CSV</a>
+            <a href="indicators--disaggregation--industry-lower-sub-category.csv" role="button" class="btn btn-primary" aria-describedby="indicators--disaggregation--industry-lower-sub-category">Download CSV of indicators using this disaggregation</a>
+            <div id="indicators--disaggregation--industry-lower-sub-category" class="download-info">Size: 24 Bytes</div>
         </div>
         
             
                 <div class="total-rows">
                     Total rows: <span class="total">2</span>
                 </div>
-                <table border="1" class="dataframe table table-striped table-bordered tablesorter">
+                <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
   <thead>
     <tr style="text-align: right;">
       <th>Indicator</th>
@@ -346,17 +370,34 @@
     </tr>
   </tbody>
 </table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['indicators-table'] = [{"Indicator":"<a href=\"https:\/\/sdgdata.gov.uk\/9-2-1\">#9-2-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdgdata.gov.uk\/9-3-1\">#9-3-1<\/a>"}];
+            </script>
+            
         </div>
         
                     </div>
                 </div>
             </div>
-            <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.js"></script>
             <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
             <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha256-dtGH1XcAyKopMui5x20KnPxuGuSx9Rs6piJB/4Oqu6I=" crossorigin="anonymous"></script>
-            <script>$(".tablesorter").tablesorter({
-                theme: 'bootstrap'
-            });</script>
+            <script>
+            if (typeof sdgBuild !== 'undefined' && sdgBuild.tables) {
+                var tableIds = Object.keys(sdgBuild.tables);
+                for (var i = 0; i < tableIds.length; i++) {
+                    var tableId = tableIds[i];
+                    $('#' + tableId).openSdgTable(sdgBuild.tables[tableId]).find('td').each(function() {
+                        if (!isNaN($(this).text())) {
+                            $(this).css('text-align', 'right');
+                        }
+                    })
+                }
+            }
+            </script>
         </html>
         

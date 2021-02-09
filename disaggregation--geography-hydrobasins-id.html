@@ -1,16 +1,29 @@
 
         <!DOCTYPE html>
-        <html>
+        <html lang="en">
         <head>
             <meta charset="utf-8">
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
             <meta name="viewport" content="width=device-width, initial-scale=1">
 
-            <title>UK SDG data service - Disaggregation: Geography (HydroBASINs ID)</title>
+            <title>Disaggregation: Geography (HydroBASINs ID) - UK SDG data service</title>
 
-            <script defer src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
+            <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.bootstrap_4.min.css" integrity="sha256-vFn0MM8utz2N3JoNzRxHXUtfCJLz5Pb9ygBY2exIaqg=" crossorigin="anonymous" />
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
+            <style>
+                .btn-primary {
+                    background-color: #1D70B8;
+                    border-color: #1D70B8;
+                }
+                a {
+                    color: #1D70B8;
+                    text-decoration: underline;
+                }
+                .download-info {
+                    margin-left: 12px;
+                }
+            </style>
         </head>
         <body>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -23,22 +36,26 @@
                     <h1 style="margin:20px 0">Disaggregation: Geography (HydroBASINs ID)</h1>
                     <div>
                         
-        <div class="list-group list-group-horizontal mb-4">
-            <a class="list-group-item list-group-item-action" href="#values-used">Values used in disaggregation</a>
-            <a class="list-group-item list-group-item-action" href="#indicators-using">Indicators using disaggregation</a>
+        <div role="navigation" aria-describedby="contents-heading">
+            <h2 id="contents-heading">On this page</h2>
+            <ul>
+                <li><a href="#values-used">Values used in disaggregation</a></li>
+                <li><a href="#indicators-using">Indicators using disaggregation</a></li>
+            </ul>
         </div>
         <div>
-            <h2 id="values-used">Values used in disaggregation</h2>
+            <h2 id="values-used" tabindex="-1">Values used in disaggregation</h2>
             
         <div class="my-3">
-            <a href="values--disaggregation--geography-hydrobasins-id.csv" class="btn btn-primary">Download CSV</a>
+            <a href="values--disaggregation--geography-hydrobasins-id.csv" role="button" class="btn btn-primary" aria-describedby="values--disaggregation--geography-hydrobasins-id">Download CSV of values used in this disaggregation</a>
+            <div id="values--disaggregation--geography-hydrobasins-id" class="download-info">Size: 1.3 kB</div>
         </div>
         
             
                 <div class="total-rows">
                     Total rows: <span class="total">38</span>
                 </div>
-                <table border="1" class="dataframe table table-striped table-bordered tablesorter">
+                <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
   <thead>
     <tr style="text-align: right;">
       <th>Value</th>
@@ -239,19 +256,26 @@
     </tr>
   </tbody>
 </table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--2060048790-central-south-east-england.html\">2060048790 (Central South East England)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060048980-central-south-west-england.html\">2060048980 (Central South West England)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060048990-south-west-england.html\">2060048990 (South West England)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060049660-severn.html\">2060049660 (Severn)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060049670-south-anglian.html\">2060049670 (South Anglian)<\/a>","Disaggregation combinations using this value":6,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060049670-south-east-wye.html\">2060049670 (South East Wye)<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060049680-wye.html\">2060049680 (Wye)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060049690-wales-dee.html\">2060049690 (Wales & Dee)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060050410-mersey.html\">2060050410 (Mersey)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060050420-north-west-england.html\">2060050420 (North West England)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060050790-galloway-ayrshire.html\">2060050790 (Galloway & Ayrshire)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060051150-clyde.html\">2060051150 (Clyde)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060051160-north-west-scotland.html\">2060051160 (North West Scotland)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060052380-spey.html\">2060052380 (Spey)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060052390-dee-scotland.html\">2060052390 (Dee, Scotland)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060052660-tay.html\">2060052660 (Tay)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060052670-firth-of-forth.html\">2060052670 (Firth of Forth)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060052940-tweed.html\">2060052940 (Tweed)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060052950-northumberland-coast.html\">2060052950 (Northumberland Coast)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060052960-northumbria-east-humber.html\">2060052960 (Northumbria & East Humber)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060053240-north-humber.html\">2060053240 (North Humber)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060053250-head-of-humber-estuary.html\">2060053250 (Head of Humber Estuary)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060053260-south-humber.html\">2060053260 (South Humber)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060053270-north-anglian.html\">2060053270 (North Anglian)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060053500-central-anglian.html\">2060053500 (Central Anglian)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060053510-south-anglian.html\">2060053510 (South Anglian)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060053790-thames.html\">2060053790 (Thames)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060053800-south-east-england.html\">2060053800 (South East England)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060054000-outer-hebrides.html\">2060054000 (Outer Hebrides)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060054130-sule-skerry.html\">2060054130 (Sule Skerry)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060054140-orkney.html\">2060054140 (Orkney)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060054780-northern-ireland-near-garvagh-lough.html\">2060054780 (Northern Ireland near Garvagh Lough)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060054790-lough-melvin.html\">2060054790 (Lough Melvin)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060055310-erne.html\">2060055310 (Erne)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060055320-north-west-northern-ireland.html\">2060055320 (North West Northern Ireland)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060055600-central-northern-ireland.html\">2060055600 (Central Northern Ireland)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060055610-east-northern-ireland.html\">2060055610 (East Northern Ireland)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--2060059370-shetland.html\">2060059370 (Shetland)<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1}];
+            </script>
+            
         </div>
         <div>
-            <h2 id="indicators-using">Indicators using disaggregation</h2>
+            <h2 id="indicators-using" tabindex="-1">Indicators using disaggregation</h2>
             
         <div class="my-3">
-            <a href="indicators--disaggregation--geography-hydrobasins-id.csv" class="btn btn-primary">Download CSV</a>
+            <a href="indicators--disaggregation--geography-hydrobasins-id.csv" role="button" class="btn btn-primary" aria-describedby="indicators--disaggregation--geography-hydrobasins-id">Download CSV of indicators using this disaggregation</a>
+            <div id="indicators--disaggregation--geography-hydrobasins-id" class="download-info">Size: 17 Bytes</div>
         </div>
         
             
                 <div class="total-rows">
                     Total rows: <span class="total">1</span>
                 </div>
-                <table border="1" class="dataframe table table-striped table-bordered tablesorter">
+                <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
   <thead>
     <tr style="text-align: right;">
       <th>Indicator</th>
@@ -263,17 +287,34 @@
     </tr>
   </tbody>
 </table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['indicators-table'] = [{"Indicator":"<a href=\"https:\/\/sdgdata.gov.uk\/6-6-1\">#6-6-1<\/a>"}];
+            </script>
+            
         </div>
         
                     </div>
                 </div>
             </div>
-            <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.js"></script>
             <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
             <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha256-dtGH1XcAyKopMui5x20KnPxuGuSx9Rs6piJB/4Oqu6I=" crossorigin="anonymous"></script>
-            <script>$(".tablesorter").tablesorter({
-                theme: 'bootstrap'
-            });</script>
+            <script>
+            if (typeof sdgBuild !== 'undefined' && sdgBuild.tables) {
+                var tableIds = Object.keys(sdgBuild.tables);
+                for (var i = 0; i < tableIds.length; i++) {
+                    var tableId = tableIds[i];
+                    $('#' + tableId).openSdgTable(sdgBuild.tables[tableId]).find('td').each(function() {
+                        if (!isNaN($(this).text())) {
+                            $(this).css('text-align', 'right');
+                        }
+                    })
+                }
+            }
+            </script>
         </html>
         
