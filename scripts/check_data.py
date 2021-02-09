@@ -17,7 +17,7 @@ def alter_meta(meta):
         goal_id = id_parts[0]
         meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/metadata/?Text=&Goal='+goal_id+'&Target='+target_id
         if indicator_id in list(tier_df.index):
-            meta['un_designated_tier']=tier_df.loc[indicator_id].name
+            meta['un_designated_tier']=tier_df.loc[indicator_id][0]
     return meta
 
 # Validate the indicators.
