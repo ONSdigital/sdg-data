@@ -1,7 +1,7 @@
 from sdg.open_sdg import open_sdg_check
 
 def alter_meta(meta):
-    meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/metadata/?Text=&Goal='+meta['sdg_goal']+'&Target='+meta['target_id']
+    meta['goal_meta_link'] = meta
     return meta
 
 # Validate the indicators.
