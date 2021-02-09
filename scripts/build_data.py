@@ -16,8 +16,8 @@ def alter_meta(meta):
         target_id = id_parts[0] + '.' + id_parts[1]
         goal_id = id_parts[0]
         meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/metadata/?Text=&Goal='+goal_id+'&Target='+target_id
-        meta['un_designated_tier']=tier_df.loc[indicator_id].name
-    
+        if tier_df.index.contains(indicator_id):
+            meta['un_designated_tier']=tier_df.loc[indicator_id].name
     return meta
 
 open_sdg_build(config='config_data.yml', alter_meta=alter_meta)
