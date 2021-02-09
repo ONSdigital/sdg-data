@@ -1,3 +1,6 @@
+from sdg.open_sdg import open_sdg_check
+import pandas as pd
+
 tier_spreadsheet_url = 'https://unstats.un.org/sdgs/files/Tier%20Classification%20of%20SDG%20Indicators_28%20Dec%202020_web.xlsx'
 tier_df = pd.read_excel(tier_spreadsheet_url, "Updated Tier classification", usecols=[2,6], names=['indicator', 'tier'], header=1).dropna(axis=0, subset=["indicator"])
 tier_df=tier_df[tier_df["indicator"]!="\n"]
