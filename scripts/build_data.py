@@ -1,12 +1,12 @@
 from sdg.open_sdg import open_sdg_build
 
 tier_spreadsheet_url = 'https://unstats.un.org/sdgs/files/Tier%20Classification%20of%20SDG%20Indicators_28%20Dec%202020_web.xlsx'
-    tier_df = pd.read_excel(spreadsheet_url, "Updated Tier classification", usecols=[2,6], names=['indicator', 'tier'], header=1).dropna(axis=0, subset=["indicator"])
-    tier_df=tier_df[tier_df["indicator"]!="\n"]
-    for i in tier_df.index:
-        indicator_code=tier_df.loc[i, "indicator"]
-        tier_df.loc[i, "indicator"]=indicator_code.split(" ")[0]
-    tier_df = tier_df.set_index(['indicator'])
+tier_df = pd.read_excel(spreadsheet_url, "Updated Tier classification", usecols=[2,6], names=['indicator', 'tier'], header=1).dropna(axis=0, subset=["indicator"])
+tier_df=tier_df[tier_df["indicator"]!="\n"]
+for i in tier_df.index:
+    indicator_code=tier_df.loc[i, "indicator"]
+    tier_df.loc[i, "indicator"]=indicator_code.split(" ")[0]
+tier_df = tier_df.set_index(['indicator'])
 
 def alter_meta(meta):
     if 'indicator_number' in meta:
