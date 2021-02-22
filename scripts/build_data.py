@@ -21,4 +21,4 @@ def alter_meta(meta):
             meta['un_designated_tier']=tier_df.loc[indicator_id][0]
     return meta
   
-open_sdg_build(config='config_data.yml' alter_meta=alter_meta)
+open_sdg_build(config='config_data.yml', alter_meta=alter_meta)
