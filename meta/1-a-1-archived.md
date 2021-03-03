@@ -17,7 +17,7 @@ source_active_4: false
 source_active_5: false
 source_active_6: false
 indicator_sort_order: 01-aa-01
-permalink: /1-a-1-archived
+permalink: archived-indicators/1-a-1-archived
 standalone: true
 tags:
   - Deleted
