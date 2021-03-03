@@ -20,6 +20,6 @@ indicator_sort_order: 01-aa-01
 permalink: /1-a-1-archived
 standalone: true
 tags:
-  - Archived
+  - Deleted
 other_info: This, or part of this, indicator is awaiting the development of internationally established methodology and standards (classified by the UN as tier 3). 
 ---
