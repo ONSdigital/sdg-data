@@ -21,7 +21,7 @@ permalink: /archived-indicators/1-a-1-archived
 standalone: true
 data_notice_class: blank
 data_notice_heading: This is archived data
-data_notice_text: This data was [archived]({{ site.baseurl }}/archived-indicators) as a result of the [IAEG-SDGs 2020 Comprehensive Review](https://unstats.un.org/sdgs/iaeg-sdgs/2020-comp-rev/). The indicator was deleted as a result of the review. 
+data_notice_text: This data was [archived]({{ site.baseurl }}{% link _pages/archived-indicators.md %}) as a result of the [IAEG-SDGs 2020 Comprehensive Review](https://unstats.un.org/sdgs/iaeg-sdgs/2020-comp-rev/). The indicator was deleted as a result of the review. 
 tags:
   - Deleted
 other_info: This, or part of this, indicator is awaiting the development of internationally established methodology and standards (classified by the UN as tier 3). 
