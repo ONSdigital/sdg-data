@@ -15,7 +15,7 @@ source_active_3: false
 source_active_4: false
 source_active_5: false
 source_active_6: false
-permalink: /archived-indicators/1-a-1-archived/
+permalink: /1-a-1-archived/
 standalone: true
 data_notice_class: blank
 data_notice_heading: This is archived data
