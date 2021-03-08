@@ -1,8 +1,6 @@
 ---
 indicator_name: global_indicators.1-a-1-title
 target_name: global_targets.1-a-title
-indicator_number: archived-1-a-1
-csv_size: 0.09 kB
 un_designated_tier: Tier III
 graph_title: ""
 goal_meta_link: https://unstats.un.org/sdgs/tierIII-indicators/
