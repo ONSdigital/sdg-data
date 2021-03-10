@@ -28,7 +28,7 @@ def alter_meta(meta):
     if 'standalone' in meta:
         indicator_name=meta['indicator']
         name_parts=indicator_name.split('-')
-        permalink=name_parts[1]+'-'name_parts[2]+'-'name_parts[3]+'-'name_parts[0]
+        permalink=name_parts[1]+'-'+name_parts[2]+'-'+name_parts[3]+'-'+name_parts[0]
         meta['data_notice_class']="blank"
         meta['data_notice_heading']="This is archived data"
         meta['data_notice_text']=archive_types[meta['archive_type']]
