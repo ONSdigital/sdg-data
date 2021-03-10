@@ -37,7 +37,7 @@ def alter_meta(meta):
     return meta
 
 # Validate the indicators.
-validation_successful = open_sdg_check(config='config_data.yml')
+validation_successful = open_sdg_check(config='config_data.yml', alter_meta=alter_meta)
 
 # If everything was valid, perform the build.
 if not validation_successful:
