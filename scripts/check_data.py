@@ -21,7 +21,7 @@ def alter_meta(meta):
         id_parts = indicator_id.split('.')
         target_id = id_parts[0] + '.' + id_parts[1]
         goal_id = id_parts[0]
-        indicator_name=["indicator"]
+        indicator_name=meta['indicator']
         name_parts=indicator_name.split('-')
         permalink=name_parts[1]+'-'name_parts[2]+'-'name_parts[3]+'-'name_parts[0]
         meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/metadata/?Text=&Goal='+goal_id+'&Target='+target_id
