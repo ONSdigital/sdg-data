@@ -21,6 +21,9 @@ def alter_meta(meta):
         id_parts = indicator_id.split('.')
         target_id = id_parts[0] + '.' + id_parts[1]
         goal_id = id_parts[0]
+        indicator_name=["indicator"]
+        name_parts=indicator_name.split('-')
+        permalink=name_parts[1]+'-'name_parts[2]+'-'name_parts[3]+'-'name_parts[0]
         meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/metadata/?Text=&Goal='+goal_id+'&Target='+target_id
         meta['goal_meta_link'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
         if indicator_id in list(tier_df.index):
@@ -29,6 +32,7 @@ def alter_meta(meta):
         meta['data_notice_class']="blank"
         meta['data_notice_heading']="This is archived data"
         meta['data_notice_text']=archive_types[meta['archive_type']]
+        meta["permalink]=permalink
         
     return meta
 
