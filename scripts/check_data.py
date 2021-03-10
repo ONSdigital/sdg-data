@@ -25,14 +25,11 @@ def alter_meta(meta):
         meta['goal_meta_link'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
         if indicator_id in list(tier_df.index):
             meta['un_designated_tier']=tier_df.loc[indicator_id][0]
-    if 'standalone' in meta:
-        indicator_name=meta['indicator']
-        name_parts=indicator_name.split('-')
-        permalink=name_parts[1]+'-'+name_parts[2]+'-'+name_parts[3]+'-'+name_parts[0]
-        meta['data_notice_class']="blank"
-        meta['data_notice_heading']="This is archived data"
-        meta['data_notice_text']=archive_types[meta['archive_type']]
-        meta["permalink"]=permalink
+        if 'standalone' in meta:
+            meta["permalink"]=id_parts[0]+'-'+id_parts[2]+'-'+id_parts[3]+'-archived'
+            meta['data_notice_class']="blank"
+            meta['data_notice_heading']="This is archived data"
+            meta['data_notice_text']=archive_types[meta['archive_type']]
         
     return meta
 
