@@ -36,4 +36,4 @@ def alter_meta(meta):
         
     return meta
   
-open_sdg_build(config='config_data.yml')
+open_sdg_build(config='config_data.yml', alter_meta=alter_meta)
