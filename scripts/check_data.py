@@ -26,10 +26,9 @@ def alter_meta(meta):
         if indicator_id in list(tier_df.index):
             meta['un_designated_tier']=tier_df.loc[indicator_id][0]
     if 'standalone' in meta:
-        if meta['standalone]==true:
-            meta['data_notice_class']="blank"
-            meta['data_notice_heading']="This is archived data"
-            meta['data_notice_text']=archive_types[meta['archive_type']]
+        meta['data_notice_class']="blank"
+        meta['data_notice_heading']="This is archived data"
+        meta['data_notice_text']=archive_types[meta['archive_type']]
         
     return meta
 
