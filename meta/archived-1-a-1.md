@@ -1,6 +1,7 @@
 ---
 indicator_name: Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income
 target_name: global_targets.1-a-title
+indicator_number: 1.a.1
 un_designated_tier: Tier III
 graph_title: ""
 goal_meta_link: https://unstats.un.org/sdgs/tierIII-indicators/
