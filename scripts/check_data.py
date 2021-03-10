@@ -9,6 +9,12 @@ for i in tier_df.index:
     tier_df.loc[i, "indicator"]=indicator_code.split(" ")[0]
 tier_df = tier_df.set_index(['indicator'])
 
+archive_types = {
+    "deleted": "This indicator was deleted as a result of our indicator changes from the 2020 Comprehensive Review",
+    "replaced": "This indicator was replaced as a result of our indicator changes from the 2020 Comprehensive Review",
+    "revised": "This indicator was revised as a result of our indicator changes from the 2020 Comprehensive Review"
+}
+
 def alter_meta(meta):
     if 'indicator_number' in meta:
         indicator_id = meta['indicator_number']
@@ -19,6 +25,12 @@ def alter_meta(meta):
         meta['goal_meta_link'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
         if indicator_id in list(tier_df.index):
             meta['un_designated_tier']=tier_df.loc[indicator_id][0]
+    if 'standalone' in meta:
+        if meta['standalone]==True:
+            meta['data_notice_class']="blank"
+            meta['data_notice_heading']="This is archived data"
+            meta['data_notice_text']=archive_types[meta['archive_type']]
+        
     return meta
 
 # Validate the indicators.
