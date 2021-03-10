@@ -15,7 +15,6 @@ source_active_3: false
 source_active_4: false
 source_active_5: false
 source_active_6: false
-permalink: 1-a-1-archived
 standalone: true
 archive_type: deleted
 other_info: This, or part of this, indicator is awaiting the development of internationally established methodology and standards (classified by the UN as tier 3).
