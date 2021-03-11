@@ -15,6 +15,12 @@ archive_types = {
     "revised": "This indicator was revised following"#<a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review."
 }
 
+new_types = {
+    "revised": "This indicator was revised following <a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review. The indicator from before these revisions has been <a href='{{ site.baseurl }}/archived-indicators'>archived</a>.",
+    "replaced": "This indicator was added following <a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review. The indicator it replaced has been <a href='{{ site.baseurl }}/archived-indicators'>archived</a>."
+}
+    
+
 def alter_meta(meta):
     if 'indicator_number' in meta:
         indicator_id = meta['indicator_number']
@@ -28,8 +34,10 @@ def alter_meta(meta):
         if 'standalone' in meta:
             meta["permalink"]='archived-indicators/'+id_parts[0]+'-'+id_parts[1]+'-'+id_parts[2]+'-archived'
             meta['data_notice_class']="blank"
-            meta['data_notice_heading']="This is an"# <a href='{{ site.baseurl }}/archived-indicators'>archived</a> indicator"
+            meta['data_notice_heading']="This is an <a href='{{ site.baseurl }}/archived-indicators'>archived</a> indicator"
             meta['data_notice_text']=archive_types[meta['archive_type']]
+         if 'new_types' in meta:
+            meta['page_content']+="<div class='inset-text'>"+new_types[meta['new_type']]+"</div>"
         
     return meta
 
