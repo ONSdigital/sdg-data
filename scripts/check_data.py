@@ -36,7 +36,7 @@ def alter_meta(meta):
             meta['data_notice_class']="blank"
             meta['data_notice_heading']="This is an <a href='{{ site.baseurl }}/archived-indicators'>archived</a> indicator"
             meta['data_notice_text']=archive_types[meta['archive_type']]
-         if 'new_types' in meta:
+        if 'new_types' in meta:
             meta['page_content']+="<div class='inset-text'>"+new_types[meta['new_type']]+"</div>"
         
     return meta
