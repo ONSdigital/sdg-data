@@ -10,9 +10,9 @@ for i in tier_df.index:
 tier_df = tier_df.set_index(['indicator'])
 
 archive_types = {
-    "deleted": "This indicator was deleted following [indicator changes]({{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html) from the United Nations 2020 Comprehensive Review.",
-    "replaced": "This indicator was replaced following [indicator changes]({{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html) from the United Nations 2020 Comprehensive Review.",
-    "revised": "This indicator was revised following [indicator changes]({{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html) from the United Nations 2020 Comprehensive Review."
+    "deleted": "This indicator was deleted following" #<a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review.",
+    "replaced": "This indicator was replaced following" #<a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review.",
+    "revised": "This indicator was revised following" #<a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review."
 }
 
 def alter_meta(meta):
@@ -28,10 +28,11 @@ def alter_meta(meta):
         if 'standalone' in meta:
             meta["permalink"]='archived-indicators/'+id_parts[0]+'-'+id_parts[1]+'-'+id_parts[2]+'-archived'
             meta['data_notice_class']="blank"
-            meta['data_notice_heading']="This is an [archived]({{ site.baseurl }}/archived-indicators) indicator"
+            meta['data_notice_heading']="This is an"# <a href='{{ site.baseurl }}/archived-indicators'>archived</a> indicator"
             meta['data_notice_text']=archive_types[meta['archive_type']]
         
     return meta
+
 # Validate the indicators.
 validation_successful = open_sdg_check(config='config_data.yml', alter_meta=alter_meta)
 
