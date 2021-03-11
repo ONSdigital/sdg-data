@@ -10,9 +10,9 @@ for i in tier_df.index:
 tier_df = tier_df.set_index(['indicator'])
 
 archive_types = {
-    "deleted": "This indicator was deleted following" #<a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review.",
-    "replaced": "This indicator was replaced following" #<a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review.",
-    "revised": "This indicator was revised following" #<a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review."
+    "deleted": "This indicator was deleted following",#<a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review.",
+    "replaced": "This indicator was replaced following",#<a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review.",
+    "revised": "This indicator was revised following"#<a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review."
 }
 
 def alter_meta(meta):
