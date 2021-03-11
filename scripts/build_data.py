@@ -28,7 +28,7 @@ def alter_meta(meta):
         if 'standalone' in meta:
             meta["permalink"]='archived-indicators/'+id_parts[0]+'-'+id_parts[1]+'-'+id_parts[2]+'-archived'
             meta['data_notice_class']="blank"
-            meta['data_notice_heading']="a.	This is an [archived]({{ site.baseurl}}/archived-indicators) indicator"
+            meta['data_notice_heading']="This is an [archived]({{ site.baseurl}}/archived-indicators) indicator"
             meta['data_notice_text']=archive_types[meta['archive_type']]
         
     return meta
