@@ -36,12 +36,15 @@ def alter_meta(meta):
             if indicator_id in archived_indicators['number'].values:
                 meta['indicator_name']=archived_indicators.loc[archived_indicators['number']==indicator_id]['name'].values[0]
                 meta['archive_type']=archived_indicators.loc[archived_indicators['number']==indicator_id]['archive_type'].values[0]
+                meta['un_designated_tier']=archived_indicators.loc[archived_indicators['number']==indicator_id]['tier'].values[0]
                 meta["permalink"]='archived-indicators/'+id_parts[0]+'-'+id_parts[1]+'-'+id_parts[2]+'-archived'
                 meta['data_notice_class']="blank"
                 meta['data_notice_heading']="This is an <a href='{{ site.baseurl }}/archived-indicators'>archived</a> indicator"
                 meta['data_notice_text']=archive_types[meta['archive_type']]
                 meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/iaeg-sdgs/metadata-compilation/'
                 meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals metadata compilation for previous indicators'
+        if 'new_type' in meta:
+            meta['page_content']+="<div class='inset-text'>"+new_types[meta['new_type']]+"</div>"
         if 'new_type' in meta:
             meta['page_content']+="<div class='inset-text'>"+new_types[meta['new_type']]+"</div>"
         
