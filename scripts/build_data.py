@@ -21,6 +21,7 @@ new_types = {
 }
 
 archived_indicators=pd.read_csv('archived_indicators.csv')
+changed_indicators=pd.read_csv('changed_indicators.csv')
 
 def alter_meta(meta):
     if 'indicator_number' in meta:
@@ -32,7 +33,11 @@ def alter_meta(meta):
         meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
         if indicator_id in list(tier_df.index):
             meta['un_designated_tier']=tier_df.loc[indicator_id][0]
-        if 'standalone' in meta:
+        if 'standalone' not in meta:
+            if indicator_id in changed_indicators['number'].values:
+                meta['change_type']=archived_indicators.loc[archived_indicators['number']==indicator_id]['change_type'].values[0]
+                meta['page_content']+="<div class='inset-text'>"+meta['change_type']]+"</div>"
+        elif 'standalone' in meta:
             if indicator_id in archived_indicators['number'].values:
                 meta['indicator_name']=archived_indicators.loc[archived_indicators['number']==indicator_id]['name'].values[0]
                 meta['archive_type']=archived_indicators.loc[archived_indicators['number']==indicator_id]['archive_type'].values[0]
@@ -42,11 +47,9 @@ def alter_meta(meta):
                 meta['data_notice_heading']="This is an <a href='{{ site.baseurl }}/archived-indicators'>archived</a> indicator"
                 meta['data_notice_text']=archive_types[meta['archive_type']]
                 meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/iaeg-sdgs/metadata-compilation/'
-                meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals compilation of previous metadata'
-        if 'new_type' in meta:
-            meta['page_content']+="<div class='inset-text'>"+new_types[meta['new_type']]+"</div>"
-        if 'new_type' in meta:
-            meta['page_content']+="<div class='inset-text'>"+new_types[meta['new_type']]+"</div>"
+                meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals compilation of previous metadata' 
+            
+
         
     return meta
   
