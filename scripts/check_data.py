@@ -36,7 +36,7 @@ def alter_meta(meta):
         if 'standalone' not in meta:
             if indicator_id in changed_indicators['number'].values:
                 meta['change_type']=archived_indicators.loc[archived_indicators['number']==indicator_id]['change_type'].values[0]
-                meta['page_content']+="<div class='inset-text'>"+meta['change_type']]+"</div>"
+                meta['page_content']+="<div class='inset-text'>"+meta['change_type']+"</div>"
         elif 'standalone' in meta:
             if indicator_id in archived_indicators['number'].values:
                 meta['indicator_name']=archived_indicators.loc[archived_indicators['number']==indicator_id]['name'].values[0]
