@@ -21,6 +21,8 @@ new_types = {
 }
     
 
+archived_indicators=pd.read_csv('archived_indicators.csv')
+
 def alter_meta(meta):
     if 'indicator_number' in meta:
         indicator_id = meta['indicator_number']
@@ -32,11 +34,14 @@ def alter_meta(meta):
         if indicator_id in list(tier_df.index):
             meta['un_designated_tier']=tier_df.loc[indicator_id][0]
         if 'standalone' in meta:
-            meta["permalink"]='archived-indicators/'+id_parts[0]+'-'+id_parts[1]+'-'+id_parts[2]+'-archived'
-            meta['data_notice_class']="blank"
-            meta['data_notice_heading']="This is an <a href='{{ site.baseurl }}/archived-indicators'>archived</a> indicator"
-            meta['data_notice_text']=archive_types[meta['archive_type']]
-        if 'new_types' in meta:
+            if indicator_id in archived_indicators['number'].values:
+                meta['indicator_name']=archived_indicators.loc[archived_indicators['number']==indicator_id]['name'].values[0]
+                meta['archive_type']=archived_indicators.loc[archived_indicators['number']==indicator_id]['archive_type'].values[0]
+                meta["permalink"]='archived-indicators/'+id_parts[0]+'-'+id_parts[1]+'-'+id_parts[2]+'-archived'
+                meta['data_notice_class']="blank"
+                meta['data_notice_heading']="This is an <a href='{{ site.baseurl }}/archived-indicators'>archived</a> indicator"
+                meta['data_notice_text']=archive_types[meta['archive_type']]
+        if 'new_type' in meta:
             meta['page_content']+="<div class='inset-text'>"+new_types[meta['new_type']]+"</div>"
         
     return meta
