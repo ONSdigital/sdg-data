@@ -15,11 +15,11 @@ archive_types = {
     "revised": "This indicator was revised following"#<a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review."
 }
 
-new_types = {
+change_types = {
     "revised": "This indicator was revised following <a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review. The indicator from before these revisions has been <a href='{{ site.baseurl }}/archived-indicators'>archived</a>.",
     "replaced": "This indicator was added following <a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review. The indicator it replaced has been <a href='{{ site.baseurl }}/archived-indicators'>archived</a>."
 }
-    
+
 archived_indicators=pd.read_csv('archived_indicators.csv')
 changed_indicators=pd.read_csv('changed_indicators.csv')
 
@@ -36,7 +36,7 @@ def alter_meta(meta):
         if 'standalone' not in meta:
             if indicator_id in changed_indicators['number'].values:
                 meta['change_type']=changed_indicators.loc[changed_indicators['number']==indicator_id]['change_type'].values[0]
-                meta['page_content']+="<div class='inset-text'>"+meta['change_type']+"</div>"
+                meta['page_content']+="<div class='inset-text'>"+change_types[meta['change_type']]+"</div>"
         elif 'standalone' in meta:
             if indicator_id in archived_indicators['number'].values:
                 meta['indicator_name']=archived_indicators.loc[archived_indicators['number']==indicator_id]['name'].values[0]
@@ -48,9 +48,10 @@ def alter_meta(meta):
                 meta['data_notice_text']=archive_types[meta['archive_type']]
                 meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/iaeg-sdgs/metadata-compilation/'
                 meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals compilation of previous metadata' 
+            
+
         
     return meta
-
 # Validate the indicators.
 validation_successful = open_sdg_check(config='config_data.yml', alter_meta=alter_meta)
 
