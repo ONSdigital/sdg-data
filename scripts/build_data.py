@@ -9,6 +9,20 @@ for i in tier_df.index:
     tier_df.loc[i, "indicator"]=indicator_code.split(" ")[0]
 tier_df = tier_df.set_index(['indicator'])
 
+archive_types = {
+    "deleted": "This indicator was deleted following <a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review.",
+    "replaced": "This indicator was replaced following <a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review.",
+    "revised": "This indicator was revised following <a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review."
+}
+
+change_types = {
+    "revised": "This indicator was revised following <a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review. The indicator from before these revisions has been <a href='{{ site.baseurl }}/archived-indicators'>archived</a>.",
+    "replaced": "This indicator was added following <a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review. The indicator it replaced has been <a href='{{ site.baseurl }}/archived-indicators'>archived</a>."
+}
+
+archived_indicators=pd.read_csv('archived_indicators.csv')
+changed_indicators=pd.read_csv('changed_indicators.csv')
+
 def alter_meta(meta):
     if 'indicator_number' in meta:
         indicator_id = meta['indicator_number']
@@ -16,9 +30,27 @@ def alter_meta(meta):
         target_id = id_parts[0] + '.' + id_parts[1]
         goal_id = id_parts[0]
         meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/metadata/?Text=&Goal='+goal_id+'&Target='+target_id
-        meta['goal_meta_link'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
+        meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
         if indicator_id in list(tier_df.index):
             meta['un_designated_tier']=tier_df.loc[indicator_id][0]
+        if 'standalone' not in meta:
+            if indicator_id in changed_indicators['number'].values:
+                meta['change_type']=changed_indicators.loc[changed_indicators['number']==indicator_id]['change_type'].values[0]
+                meta['page_content']+="<div class='inset-text'>"+change_types[meta['change_type']]+"</div>"
+        elif 'standalone' in meta:
+            if indicator_id in archived_indicators['number'].values:
+                meta['indicator_name']=archived_indicators.loc[archived_indicators['number']==indicator_id]['name'].values[0]
+                meta['archive_type']=archived_indicators.loc[archived_indicators['number']==indicator_id]['archive_type'].values[0]
+                meta['un_designated_tier']=archived_indicators.loc[archived_indicators['number']==indicator_id]['tier'].values[0]
+                meta["permalink"]='archived-indicators/'+id_parts[0]+'-'+id_parts[1]+'-'+id_parts[2]+'-archived'
+                meta['data_notice_class']="blank"
+                meta['data_notice_heading']="This is an <a href='{{ site.baseurl }}/archived-indicators'>archived</a> indicator"
+                meta['data_notice_text']=archive_types[meta['archive_type']]
+                meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/iaeg-sdgs/metadata-compilation/'
+                meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals compilation of previous metadata' 
+            
+
+        
     return meta
   
-open_sdg_build(config='config_data.yml')
+open_sdg_build(config='config_data.yml', alter_meta=alter_meta)
