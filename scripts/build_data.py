@@ -42,7 +42,7 @@ def alter_meta(meta):
                 meta['data_notice_heading']="This is an <a href='{{ site.baseurl }}/archived-indicators'>archived</a> indicator"
                 meta['data_notice_text']=archive_types[meta['archive_type']]
                 meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/iaeg-sdgs/metadata-compilation/'
-                meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals metadata compilation for previous indicators'
+                meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals compilation of previous metadata'
         if 'new_type' in meta:
             meta['page_content']+="<div class='inset-text'>"+new_types[meta['new_type']]+"</div>"
         if 'new_type' in meta:
