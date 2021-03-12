@@ -15,7 +15,7 @@ archive_types = {
     "revised": "This indicator was revised following <a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review."
 }
 
-new_types = {
+change_types = {
     "revised": "This indicator was revised following <a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review. The indicator from before these revisions has been <a href='{{ site.baseurl }}/archived-indicators'>archived</a>.",
     "replaced": "This indicator was added following <a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review. The indicator it replaced has been <a href='{{ site.baseurl }}/archived-indicators'>archived</a>."
 }
@@ -36,7 +36,7 @@ def alter_meta(meta):
         if 'standalone' not in meta:
             if indicator_id in changed_indicators['number'].values:
                 meta['change_type']=changed_indicators.loc[changed_indicators['number']==indicator_id]['change_type'].values[0]
-                meta['page_content']+="<div class='inset-text'>"+meta['change_type']+"</div>"
+                meta['page_content']+="<div class='inset-text'>"+change_types[meta['change_type']]+"</div>"
         elif 'standalone' in meta:
             if indicator_id in archived_indicators['number'].values:
                 meta['indicator_name']=archived_indicators.loc[archived_indicators['number']==indicator_id]['name'].values[0]
