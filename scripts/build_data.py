@@ -29,7 +29,7 @@ def alter_meta(meta):
         target_id = id_parts[0] + '.' + id_parts[1]
         goal_id = id_parts[0]
         meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/metadata/?Text=&Goal='+goal_id+'&Target='+target_id
-        meta['goal_meta_link'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
+        meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
         if indicator_id in list(tier_df.index):
             meta['un_designated_tier']=tier_df.loc[indicator_id][0]
         if 'standalone' in meta:
@@ -40,6 +40,8 @@ def alter_meta(meta):
                 meta['data_notice_class']="blank"
                 meta['data_notice_heading']="This is an <a href='{{ site.baseurl }}/archived-indicators'>archived</a> indicator"
                 meta['data_notice_text']=archive_types[meta['archive_type']]
+                meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/iaeg-sdgs/metadata-compilation/'
+                meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals metadata compilation for previous indicators'
         if 'new_type' in meta:
             meta['page_content']+="<div class='inset-text'>"+new_types[meta['new_type']]+"</div>"
         
