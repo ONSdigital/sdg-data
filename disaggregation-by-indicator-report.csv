@@ -2,29 +2,29 @@ Indicator,Disaggregations,Number of disaggregations
 #1-2-1,"Sex, Age",2
 #1-2-2,"Sex, Age",2
 #1-4-2,"Security, Type of documentation",2
-#1-5-1,"Country, Sex, Cause of death",3
+#1-5-1,"Sex, Country, Cause of death",3
 #1-a-2,"Area of spending category, Area of spending sub-category",2
 #10-1-1,"Income group, Income/expenditure",2
 #10-2-1,"Sex, Age",2
-#10-3-1,"Sex, Disability status, Age, Household income, Ethnicity, Type of hate crime, Urban or Rural",7
+#10-3-1,"Sex, Age, Disability status, Ethnicity, Household income, Urban or Rural, Type of hate crime",7
 #10-6-1,"Developing country participation, Institution",2
 #10-a-1,"Country Group, Product Sector",2
 #10-b-1,"Recipient region, Recipient country",2
 #11-1-1,"Decent homes criteria, Urbanisation sub-category, Sub-national area, Age of oldest person, Age of youngest person, Income group, Disability status, Ethnicity of household reference person (HRP)",8
 #11-3-1,"Country, Region, Local Authority, Welsh Unitary Authority, Scottish Council Area",5
 #11-4-1,"Type of expenditure, Area of spending",2
-#11-5-1,"Country, Sex, Cause of death",3
+#11-5-1,"Sex, Country, Cause of death",3
 #11-6-1,"Region, Local Authority, Disposal Method",3
 #11-6-2,"Local Authority, Size of particulate matter",2
 #11-7-1,Country,1
-#11-7-2,"Sex, Disability status, Age, Region, Country of birth, Ethnicity, Relationship to perpetrator, Income",8
+#11-7-2,"Sex, Age, Disability status, Country of birth, Ethnicity, Region, Relationship to perpetrator, Income",8
 #11-c-1,Flow of Official Development Assistance (ODA),1
 #12-2-1,Material category,1
 #12-2-2,Material category,1
-#12-3-1,"Waste type, Sector, Household Waste disposal routes",3
+#12-3-1,"Sector, Waste type, Household Waste disposal routes",3
 #12-4-2,"Treatment type, Economic activity",2
 #12-5-1,Country,1
-#13-1-1,"Country, Sex, Cause of death",3
+#13-1-1,"Sex, Country, Cause of death",3
 #14-4-1,"Sustainability level (Pressure), Sustainability level (State)",2
 #15-1-1,"Country, Sustainably managed status",2
 #15-2-1,Country,1
@@ -33,20 +33,20 @@ Indicator,Disaggregations,Number of disaggregations
 #15-a-1,"Flow of Official Development Assistance (ODA), Aid description (CRS code)",2
 #15-b-1,"Flow of Official Development Assistance (ODA), Aid description (CRS code)",2
 #15-c-1,Endangered species type,1
-#16-1-1,"Country, Sex, Age, Region, Police Force Area",5
-#16-1-3,"Sex, Disability status, Age, Region, Country of birth, Household income, Highest qualification, Ethnicity, Urban or Rural, Ethnic group, Violence type",11
-#16-1-4,"Sex, Disability status, Age, Region, Country of birth, Household income, Ethnicity, Ethnic group",8
+#16-1-1,"Sex, Age, Country, Region, Police Force Area",5
+#16-1-3,"Sex, Age, Disability status, Country of birth, Ethnicity, Violence type, Ethnic group, Household income, Urban or Rural, Region, Highest qualification",11
+#16-1-4,"Sex, Age, Disability status, Country of birth, Ethnicity, Ethnic group, Household income, Region",8
 #16-2-3,"Sex, Abuse type, Contact sexual abuse type",3
 #16-3-1,Type of violence,1
 #16-3-2,"Sex, Age, Nationality",3
 #16-5-1,Corruption offence type,1
 #16-5-2,Corruption offence type,1
-#16-6-2,"Sex, Disability status, Age, Region, Country of birth, Income quartile",6
-#16-7-1,"Country, Sex, Age, Region, Sector",5
-#16-7-2,"Sex, Disability status, Age, Region, Household income, Ethnicity, Urban or rural, Citizenship",8
+#16-6-2,"Sex, Age, Disability status, Country of birth, Region, Income quartile",6
+#16-7-1,"Sex, Age, Country, Region, Sector",5
+#16-7-2,"Sex, Age, Urban or rural, Disability status, Ethnicity, Household income, Region, Citizenship",8
 #16-8-1,"Developing country participation, Institution",2
 #16-9-1,Sex,1
-#16-b-1,"Sex, Disability status, Age, Household income, Ethnicity, Type of hate crime, Urban or rural",7
+#16-b-1,"Sex, Age, Urban or rural, Disability status, Ethnicity, Household income, Type of hate crime",7
 #17-1-1,"Type of government, Source of revenue",2
 #17-1-2,Type of government,1
 #17-10-1,"Country group, Product sector",2
@@ -57,59 +57,59 @@ Indicator,Disaggregations,Number of disaggregations
 #17-19-1,Flow of Official Development Assistance (ODA),1
 #17-2-1,DAC classification,1
 #17-6-2,"Registered property use, Advertised speed (mb/sec)",2
-#17-8-1,"Sex, Disability status, Age, Region, Local Authority, Employment status, Ethnicity, Ethnic group",8
+#17-8-1,"Sex, Age, Disability status, Ethnicity, Ethnic group, Region, Local Authority, Employment status",8
 #17-9-1,DAC classification,1
 #2-1-1,"Sex, Age, Measure",3
-#2-1-2,"Country, Sex, Age, Household income, Household size, Children under 16 in the household, Children under 6 in the household, Working Status, Food insecurity category",9
-#2-2-2,"Country, Sex, Ethnicity, BMI",4
+#2-1-2,"Sex, Age, Country, Household income, Household size, Children under 16 in the household, Children under 6 in the household, Working Status, Food insecurity category",9
+#2-2-2,"Sex, Country, Ethnicity, BMI",4
 #2-3-1,"Productivity, Outputs, Inputs",3
 #2-3-2,Sex,1
 #2-5-2,Risk of extinction category,1
 #2-a-2,Flow of Official Development Assistance (ODA),1
-#3-1-1,"Age, Country of birth, Ethnicity, Death classification, Deprivation quintile",5
-#3-1-2,"Country, Age, Region, Number of previous live births, Health Board",5
-#3-2-1,"Country, Sex",2
-#3-2-2,"Country, Sex, Age, Region, Health Board, Birth weight",6
-#3-3-1,"Country, Sex, Age, Exposure category, Ethnicity",5
-#3-3-2,"Country, Region, Country of birth, Ethnic group",4
-#3-3-3,"Country, Sex, Age, Region, Malaria species, Fatality, Country of birth, Ethnic Group, Region of travel",9
+#3-1-1,"Age, Death classification, Country of birth, Deprivation quintile, Ethnicity",5
+#3-1-2,"Age, Country, Region, Number of previous live births, Health Board",5
+#3-2-1,"Sex, Country",2
+#3-2-2,"Sex, Age, Country, Region, Health Board, Birth weight",6
+#3-3-1,"Sex, Age, Country, Ethnicity, Exposure category",5
+#3-3-2,"Country, Country of birth, Ethnic group, Region",4
+#3-3-3,"Sex, Age, Country, Country of birth, Region, Malaria species, Fatality, Ethnic Group, Region of travel",9
 #3-3-4,"Sex, Age, Region",3
 #3-3-5,"Country, Region of travel, Type of Neglected Tropical Disease (NTD)",3
-#3-4-1,"Country, Sex, Age, Region, Type of disease, Chronic respiratory disease type",6
-#3-4-2,"Country, Sex, Age, Region",4
+#3-4-1,"Sex, Age, Country, Region, Type of disease, Chronic respiratory disease type",6
+#3-4-2,"Sex, Age, Country, Region",4
 #3-5-1,"Local Authority, Deprivation decile",2
 #3-5-2,Beverage,1
-#3-6-1,"Country, Sex, Age, Region",4
+#3-6-1,"Sex, Age, Country, Region",4
 #3-7-1,"Age, Region, Local Authority, Contraceptive method, Types of contraception",5
-#3-7-2,"Country, Age",2
+#3-7-2,"Age, Country",2
 #3-8-2,"Age, Health product or service, Health product or service category, Health product or service sub-category, Tenure category, Tenure sub-category, Occupation category",7
 #3-9-1,"Region, Local Authority, County",3
-#3-9-2,"Country, Sex",2
-#3-9-3,"Country, Sex, Age, Region, Unintentional poisoning category",5
-#3-a-1,"Country, Sex, Age, Region, Country of birth, Ethnicity, Socio-economic classification",7
-#3-b-1,"Country, Age, Region, Vaccine",4
+#3-9-2,"Sex, Country",2
+#3-9-3,"Sex, Age, Country, Region, Unintentional poisoning category",5
+#3-a-1,"Sex, Age, Country, Socio-economic classification, Country of birth, Ethnicity, Region",7
+#3-b-1,"Age, Country, Region, Vaccine",4
 #3-b-2,"Flow of Official Development Assistance (ODA), Aid description (CRS code), Aid sub-category (DAC 5 code)",3
-#3-c-1,"Sex, Occupation minor group, Occupation unit group",3
+#3-c-1,"Sex, Occupation unit group, Occupation minor group",3
 #3-d-1,IHR core capacity,1
-#4-1-1,"Sex, Region, Local Authority, Ethnicity, Ethnic group, Special educational needs, Subject, Free school meals",8
-#4-2-1,"Region, Local Authority, Ethnicity, Ethnic group, Gender, Free School Meals, Special educational needs, Learning category, Learning sub-category (higher), Learning sub-category (lower)",10
+#4-1-1,"Sex, Ethnicity, Ethnic group, Region, Local Authority, Special educational needs, Subject, Free school meals",8
+#4-2-1,"Ethnicity, Ethnic group, Region, Local Authority, Gender, Free School Meals, Special educational needs, Learning category, Learning sub-category (higher), Learning sub-category (lower)",10
 #4-2-2,"Age, Region",2
-#4-3-1,"Sex, Disability status, Age, Region, Country of birth, Education category, Household income, Deprivation quantile, Employment status, Highest qualification",10
-#4-4-1,"Sex, Disability status, Age, Skill",4
+#4-3-1,"Sex, Age, Disability status, Country of birth, Household income, Region, Highest qualification, Employment status, Education category, Deprivation quantile",10
+#4-4-1,"Sex, Age, Disability status, Skill",4
 #4-5-1,"Educational measure, Education indicator",2
 #4-6-1,"Sex, Educational subject",2
 #4-b-1,Flow of Official Development Assistance (ODA),1
 #4-c-1,Sex,1
 #5-1-1,Area of law,1
-#5-2-1,"Disability status, Age, Region, Country of birth, Highest qualification, Ethnicity, Type of partner abuse, Abuse sub-category, Ethnic group",9
-#5-2-2,"Disability status, Age, Region, Household income, Highest qualification, Ethnicity, Ethnic group, Abuse type, Place of occurrence, Migratory status, Relationship to perpetrator, Frequency of sexual assault",12
+#5-2-1,"Age, Disability status, Country of birth, Ethnicity, Ethnic group, Region, Highest qualification, Type of partner abuse, Abuse sub-category",9
+#5-2-2,"Age, Disability status, Ethnicity, Ethnic group, Household income, Region, Highest qualification, Relationship to perpetrator, Abuse type, Place of occurrence, Migratory status, Frequency of sexual assault",12
 #5-3-1,Age,1
 #5-3-2,"Country of birth, Local Authority, Age at which FGM took place, FGM type",4
 #5-4-1,Sex,1
-#5-5-2,"Disability status, Age, Region",3
+#5-5-2,"Age, Disability status, Region",3
 #5-6-1,"Age, Main method of contraception",2
 #5-a-1,Occupation unit group,1
-#5-b-1,"Country, Sex, Age, Urban or rural, Socio-economic classification, Use a smartphone",6
+#5-b-1,"Use a smartphone, Sex, Age, Country, Urban or rural, Socio-economic classification",6
 #6-2-1,"Treatment connection, Water treatment category",2
 #6-3-2,"Country, Status classification, Water body category",3
 #6-5-1,"Water resources management category, Water resources management sub-category",2
@@ -119,25 +119,25 @@ Indicator,Disaggregations,Number of disaggregations
 #7-3-1,Industry sector,1
 #7-a-1,Flow of Official Development Assistance (ODA),1
 #7-b-1,"Country, Energy category, Energy sub-category",3
-#8-10-1,"Country, Region, Local Authority, Urban or rural, Banking service",5
+#8-10-1,"Country, Urban or rural, Region, Local Authority, Banking service",5
 #8-10-2,"Sex, Age, Bank account category",3
 #8-3-1,"Sex, Region",2
 #8-4-1,Material category,1
 #8-4-2,Material category,1
-#8-5-1,"Country, Sex, Disability status, Sex by disability, Working Pattern, Age, Occupation, Region",8
-#8-5-2,"Country, Sex, Disability status, Age, Region, Country of birth",6
+#8-5-1,"Sex, Age, Country, Disability status, Region, Occupation, Sex by disability, Working Pattern",8
+#8-5-2,"Sex, Age, Country, Disability status, Country of birth, Region",6
 #8-6-1,"Sex, Age",2
-#8-8-1,"Country, Sex, Age, Occupation, Region, Industry sector",6
+#8-8-1,"Sex, Age, Country, Region, Industry sector, Occupation",6
 #8-9-1,Product,1
 #8-9-2,"Tourism sector, Tourism sub-sector (upper), Tourism sub-sector (middle), Tourism sub-sector (lower)",4
 #9-1-1,"Country, Local Authority, Road category",3
 #9-1-2,Flight category,1
 #9-2-1,"Industry higher sub-category, Industry middle sub-category, Industry lower sub-category",3
-#9-2-2,"Sex, Disability status, Age, Region, Country of birth, Ethnicity, Nationality",7
+#9-2-2,"Sex, Age, Disability status, Country of birth, Ethnicity, Region, Nationality",7
 #9-3-1,"Industry sector, Industry higher sub-category, Industry middle sub-category, Industry lower sub-category",4
 #9-4-1,Industry sector,1
-#9-5-1,"Country, Region, Sector, Performing/Funding, Source, Source sub-category, Product group",7
-#9-5-2,"Sex, Disability status, Age, Region, Country of birth, Nationality",6
+#9-5-1,"Country, Region, Performing/Funding, Sector, Source, Source sub-category, Product group",7
+#9-5-2,"Sex, Age, Disability status, Country of birth, Region, Nationality",6
 #9-a-1,Flow of Official Development Assistance (ODA),1
 #9-b-1,Manufacturing industry,1
 #9-c-1,Technology,1
