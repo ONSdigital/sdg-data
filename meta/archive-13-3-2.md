@@ -22,6 +22,7 @@ source_active_5: false
 source_active_6: false
 indicator_sort_order: 13-03-02
 other_info: This, or part of this, indicator is awaiting the development of internationally established methodology and standards (classified by the UN as tier 3). Data follows the UN specification for this indicator. This indicator has been identified in collaboration with topic experts.
+standalone: true
 ---
 **Non-statistical indicator**
 This, or part of this, indicator is classified as Tier 3 and therefore no internationally established methodology or standards are yet available, but methodology or standards are being (or will be) developed or tested. Until methodology or standards have been agreed we are reporting/linking to the most relevant source of information.
