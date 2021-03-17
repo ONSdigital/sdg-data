@@ -49,5 +49,6 @@ source_active_5: false
 source_active_6: false
 indicator_sort_order: 15-aa-01
 other_info: Figures may not sum due to rounding.  Data follows the UN specification for this indicator. This indicator has not been identified in collaboration with topic experts.
+standalone: true
 ---
 Data follows [old UN specifications](https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-15.pdf) for this indicator but will be updated in acordance with UN metadata updates.
