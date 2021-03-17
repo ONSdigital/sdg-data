@@ -39,5 +39,6 @@ source_active_4: false
 source_active_5: false
 source_active_6: false
 indicator_sort_order: 04-02-01
+standalone: true
 other_info: Data follows the UN specification for this indicator. This indicator has been identified in collaboration with topic experts.
 ---
