@@ -51,6 +51,7 @@ source_next_release_1: TBC
 source_statistical_classification_1: Official Statistics
 source_contact_1: enviro.statistics@defra.gov.uk
 source_other_info_1: >-
+standalone: true
   <p> Data reported for this indicator is sourced from the file 'Local Authority collected waste generation from April 2000 to March 2019...', Table 2 - Management of Local Authority collected waste - England - 2014/15 - 2018/19 and Table 2a - Management of Local Authority collected waste
   - England and Regions - 2000/01 - 2018/19 </p> <p> Methodology can be found <a href="https://www.gov.uk/government/statistics/local-authority-collected-waste-management-annual-results">here </a>
 source_active_2: false
