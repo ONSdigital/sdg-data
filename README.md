@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/ONSdigital/sdg-data.svg?branch=develop)](https://travis-ci.org/ONSdigital/sdg-data)
  [![LICENSE.](https://img.shields.io/badge/license-OGL--3-brightgreen.svg?style=flat)](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
 
-This repository holds the UK data for SDG reporting. The data is served via a static http server.
+This repository holds the UK data for SDG reporting. The data is served via a static http server!
 
 # Servers
 
