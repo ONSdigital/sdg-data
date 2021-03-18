@@ -6,6 +6,7 @@ tier_df = pd.read_excel(tier_spreadsheet_url, "Updated Tier classification", use
 tier_df=tier_df[tier_df["indicator"]!="\n"]
 for i in tier_df.index:
     indicator_code=tier_df.loc[i, "indicator"]
+    print(indicator_code)
     tier_df.loc[i, "indicator"]=indicator_code.split(" ")[0]
 tier_df = tier_df.set_index(['indicator'])
 
@@ -26,7 +27,6 @@ changed_indicators=pd.read_csv('changed_indicators.csv')
 
 def alter_meta(meta):
     if 'indicator_number' in meta:
-        print(meta['indicator_number'])
         indicator_id = meta['indicator_number']
         id_parts = indicator_id.split('.')
         target_id = id_parts[0] + '.' + id_parts[1]
