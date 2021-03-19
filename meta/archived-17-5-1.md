@@ -18,6 +18,7 @@ source_active_5: false
 source_active_6: false
 indicator_sort_order: 17-05-01
 other_info: Data follows the UN specification for this indicator. 
+standalone: true
 ---
 **Non-statistical indicator**               
 

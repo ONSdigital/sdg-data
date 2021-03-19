@@ -52,4 +52,5 @@ other_info: >-
   The data reported here represents a snapshot from the end of the particular year. For the current reporting status, refer to the 'Disaggregation status' tab of the [reporting status](https://sdgdata.gov.uk/reporting-status/) section within the National Reporting Platform. Note that the
   reported percentages there are calculated out of the total 244 indicators, rather than the 50 indicators that explicitly require disaggregation in the title. Therefore, the methodology is slightly different and although the reported counts are the same, the percentage will differ. Within
   this methodology, indicators that do not require disaggregation in the title are classed as "out of scope".     Data follows the UN specification for this indicator. This indicator has been identified in collaboration with topic experts.
+standalone: true
 ---

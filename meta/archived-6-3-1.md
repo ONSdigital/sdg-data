@@ -18,5 +18,6 @@ source_active_4: false
 source_active_5: false
 source_active_6: false
 indicator_sort_order: 06-03-01
+standalone: true
 other_info: 
 ---

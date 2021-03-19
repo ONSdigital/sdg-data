@@ -1,13 +1,13 @@
 ---
-indicator_name: global_indicators.15-a-1-title
-target_name: global_targets.15-a-title
-indicator_number: 15.a.1
+indicator_name: global_indicators.15-b-1-title
+target_name: global_targets.15-b-title
+indicator_number: 15.b.1
 csv_size: 13.197 kB
 indicator_available: Gross disbursements of total ODA from all donors for biodiversity (£000s)
 national_indicator_description: The indicator Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems is defined as Gross disbursements of total ODA from all donors for biodiversity.
 un_designated_tier: Tier I/III
 un_custodian_agency: Organisation for Economic Co-operation and Development (OECD)
-goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-15-0a-01.pdf
+goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-15-0b-01.pdf
 goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
 national_geographical_coverage: United Kingdom
 computation_units: GBP (£000s) 
@@ -41,13 +41,14 @@ source_release_date_1: 05/04/2018
 source_next_release_1: TBA
 source_statistical_classification_1: National Statistic
 source_contact_1: enquiry@dfid.gov.uk
-source_other_info_1: The codes used to measure net ODA to the Forestry sector codes sit under DAC 5 Code 312 as defined by the United Nations Sustainable Development Goal Metadata for Indicator 15.a.1. 
+source_other_info_1: The codes used to measure net ODA to the Forestry sector codes sit under DAC 5 Code 312 as defined by the United Nations Sustainable Development Goal Metadata for Indicator 15.b.1. 
 source_active_2: false
 source_active_3: false
 source_active_4: false
 source_active_5: false
 source_active_6: false
-indicator_sort_order: 15-aa-01
+indicator_sort_order: 15-bb-01
 other_info: Figures may not sum due to rounding.  Data follows the UN specification for this indicator. This indicator has not been identified in collaboration with topic experts.
+standalone: true
 ---
 Data follows [old UN specifications](https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-15.pdf) for this indicator but will be updated in acordance with UN metadata updates.

@@ -41,6 +41,7 @@ source_active_4: false
 source_active_5: false
 source_active_6: false
 indicator_sort_order: 08-09-02
+standalone: true
 other_info: >-
   This, or part of this, indicator is awaiting the development of internationally established methodology and standards (classified by the UN as tier 3). This indicator is being used as an approximation of the UN SDG Indicator. Where possible, we will work to identify or develop UK data to
   meet the global indicator specification. This indicator has not been identified in collaboration with topic experts.
