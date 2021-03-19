@@ -2,17 +2,25 @@ from sdg.open_sdg import open_sdg_check
 import pandas as pd
 
 tier_spreadsheet_url = 'https://unstats.un.org/sdgs/files/Tier%20Classification%20of%20SDG%20Indicators_28%20Dec%202020_web.xlsx'
-tier_df = pd.read_excel(tier_spreadsheet_url, "Updated Tier classification", usecols=[2,6], names=['indicator', 'tier'], header=1).dropna(axis=0, subset=["indicator"])
-tier_df=tier_df[tier_df["indicator"]!="\n"]
-for i in tier_df.index:
-    indicator_code=tier_df.loc[i, "indicator"]
-    tier_df.loc[i, "indicator"]=indicator_code.split(" ")[0]
-tier_df = tier_df.set_index(['indicator'])
+
+while True:
+    try:
+        tier_df = pd.read_excel(tier_spreadsheet_url, "Updated Tier classification", usecols=[2,6], names=['indicator', 'tier'], header=1).dropna(axis=0, subset=["indicator"])
+        tier_df=tier_df[tier_df["indicator"]!="\n"]
+        for i in tier_df.index:
+            indicator_code=tier_df.loc[i, "indicator"]
+            tier_df.loc[i, "indicator"]=indicator_code.split(" ")[0]
+        tier_df = tier_df.set_index(['indicator'])
+        break
+    except http.client.RemoteDisconnected as e:
+        continue
+        
+
 
 archive_types = {
-    "deleted": "This indicator was deleted following",#<a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review.",
-    "replaced": "This indicator was replaced following",#<a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review.",
-    "revised": "This indicator was revised following"#<a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review."
+    "deleted": "This indicator was deleted following <a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review.",
+    "replaced": "This indicator was replaced following <a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review.",
+    "revised": "This indicator was revised following <a href='{{ site.baseurl }}/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review."
 }
 
 change_types = {
@@ -34,11 +42,12 @@ def alter_meta(meta):
         meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
 
         if 'standalone' not in meta:
-            if indicator_id in list(tier_df.index):
-                meta['un_designated_tier']=tier_df.loc[indicator_id][0]
-            if indicator_id in changed_indicators['number'].values:
-                meta['change_type']=changed_indicators.loc[changed_indicators['number']==indicator_id]['change_type'].values[0]
-                meta['page_content']+="<div class='inset-text'>"+change_types[meta['change_type']]+"</div>"
+            if tier_df is not None:
+                if indicator_id in list(tier_df.index):
+                    meta['un_designated_tier']=tier_df.loc[indicator_id][0]
+                if indicator_id in changed_indicators['number'].values:
+                    meta['change_type']=changed_indicators.loc[changed_indicators['number']==indicator_id]['change_type'].values[0]
+                    meta['page_content']+="<div class='inset-text'>"+change_types[meta['change_type']]+"</div>"
         elif 'standalone' in meta:
             if indicator_id in archived_indicators['number'].values:
                 meta['indicator_name']=archived_indicators.loc[archived_indicators['number']==indicator_id]['name'].values[0]
