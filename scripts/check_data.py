@@ -46,8 +46,7 @@ def alter_meta(meta):
                 if indicator_id in list(tier_df.index):
                     meta['un_designated_tier']=tier_df.loc[indicator_id][0]
                 if indicator_id in changed_indicators['number'].values:
-                    meta['change_type']=changed_indicators.loc[changed_indicators['number']==indicator_id]['change_type'].values[0]
-                    meta['page_content']+="<div class='inset-text'>"+change_types[meta['change_type']]+"</div>"
+                    meta['change_notice']=change_types[changed_indicators.loc[changed_indicators['number']==indicator_id]['change_type'].values[0]]
         elif 'standalone' in meta:
             if indicator_id in archived_indicators['number'].values:
                 meta['indicator_name']=archived_indicators.loc[archived_indicators['number']==indicator_id]['name'].values[0]
