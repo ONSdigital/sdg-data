@@ -1,4 +1,6 @@
 from sdg.open_sdg import open_sdg_build
+import pandas as pd
+
 tier_spreadsheet_url = 'https://unstats.un.org/sdgs/files/Tier%20Classification%20of%20SDG%20Indicators_28%20Dec%202020_web.xlsx'
 
 while True:
