@@ -18,15 +18,15 @@ while True:
 
 
 archive_types = {
-    "deleted": "This indicator was deleted following <a href='https://sdg-data.gov.uk/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review.",
-    "replaced": "This indicator was replaced following <a href='https://sdg-data.gov.uk/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review.",
-    "revised": "This indicator was revised following <a href='https://sdg-data.gov.uk/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review."
+    "deleted": "This indicator was deleted following <a href='https://sdgdata.gov.uk/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review.",
+    "replaced": "This indicator was replaced following <a href='https://sdgdata.gov.uk/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review.",
+    "revised": "This indicator was revised following <a href='https://sdgdata.gov.uk/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review."
 }
 
 change_types = {
-    "revised": "This indicator was revised following <a href='https://sdg-data.gov.uk/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review. The indicator from before these revisions has been <a href='https://sdg-data.gov.uk/archived-indicators'>archived</a>.",
-    "replaced": "This indicator was added following <a href='https://sdg-data.gov.uk/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review. The indicator it replaced has been <a href='https://sdg-data.gov.uk/archived-indicators'>archived</a>.",
-    "moved": "This indicator was moved following <a href='https://sdg-data.gov.uk/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review. The indicator it replaced has been <a href='https://sdg-data.gov.uk/archived-indicators'>archived</a>."
+    "revised": "This indicator was revised following <a href='https://sdgdata.gov.uk/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review. The indicator from before these revisions has been <a href='https://sdgdata.gov.uk/archived-indicators'>archived</a>.",
+    "replaced": "This indicator was added following <a href='https://sdgdata.gov.uk/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review. The indicator it replaced has been <a href='https://sdgdata.gov.uk/archived-indicators'>archived</a>.",
+    "moved": "This indicator was moved following <a href='https://sdgdata.gov.uk/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review. The indicator it replaced has been <a href='https://sdgdata.gov.uk/archived-indicators'>archived</a>."
 }
 
 archived_indicators=pd.read_csv('archived_indicators.csv')
@@ -56,7 +56,7 @@ def alter_meta(meta):
                 meta['un_designated_tier']=archived_indicators.loc[archived_indicators['number']==indicator_id]['tier'].values[0]
                 meta["permalink"]='archived-indicators/'+id_parts[0]+'-'+id_parts[1]+'-'+id_parts[2]+'-archived'
                 meta['data_notice_class']="blank"
-                meta['data_notice_heading']="This is an <a href='https://sdg-data.gov.uk/archived-indicators'>archived</a> indicator"
+                meta['data_notice_heading']="This is an <a href='https://sdgdata.gov.uk/archived-indicators'>archived</a> indicator"
                 meta['data_notice_text']=archive_types[meta['archive_type']]
                 meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/iaeg-sdgs/metadata-compilation/'
                 meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals compilation of previous metadata'
