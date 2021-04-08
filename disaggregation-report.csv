@@ -1,7 +1,6 @@
 Disaggregation,Number of indicators,Number of values
 Abuse sub-category,1,6
 Abuse type,2,4
-Advertised speed (mb/sec),1,5
 Age at which FGM took place,1,8
 Age of oldest person,1,3
 Age of youngest person,1,3
@@ -27,10 +26,10 @@ Completeness of disaggregation,1,3
 Contact sexual abuse type,1,2
 Contraceptive method,1,2
 Corruption offence type,2,4
-Country group,2,3
 Country Group,1,3
+Country group,2,3
 Country of birth,14,29
-Country,36,10
+Country,35,10
 County,1,27
 DAC classification,3,6
 Death classification,1,2
@@ -49,21 +48,20 @@ Educational measure,1,8
 Educational subject,1,2
 Employment status,2,14
 Endangered species type,2,10
-Energy category,1,6
-Energy sub-category,1,17
-Ethnic group,8,35
 Ethnic Group,1,4
+Ethnic group,8,35
 Ethnicity of household reference person (HRP),1,5
 Ethnicity,16,19
 Exposure category,1,3
 Fatality,1,2
 FGM type,1,8
 Flight category,1,2
-Flow of Official Development Assistance (ODA),10,2
+Flow of Official Development Assistance (ODA),9,2
 Food insecurity category,1,2
 Free School Meals,1,2
 Free school meals,1,2
 Frequency of sexual assault,1,4
+Gas,1,7
 Gender,1,2
 Geography (HydroBASINs ID),1,38
 Goal,1,13
@@ -89,7 +87,7 @@ Institution,2,11
 Learning category,1,2
 Learning sub-category (higher),1,7
 Learning sub-category (lower),1,17
-Local Authority,12,975
+Local Authority,12,927
 Main method of contraception,1,10
 Malaria species,1,7
 Manufacturing industry,1,9
@@ -107,15 +105,14 @@ Performing/Funding,1,2
 Place of occurrence,1,10
 Police Force Area,1,43
 Product group,1,34
-Product sector,2,4
 Product Sector,1,4
+Product sector,2,4
 Product,1,12
 Productivity,1,2
 Recipient country,1,164
 Recipient region,1,6
 Region of travel,2,21
-Region,38,15
-Registered property use,1,2
+Region,39,17
 Relationship to perpetrator,2,5
 Risk of extinction category,1,3
 Road category,1,5
@@ -131,6 +128,7 @@ Source of revenue,1,12
 Source sub-category,1,2
 Source,1,5
 Special educational needs,2,2
+Speed (mb/sec),1,3
 Status classification,1,2
 Sub-national area,1,3
 Subject,1,3
@@ -140,10 +138,6 @@ Sustainably managed status,1,2
 Technology,1,3
 Tenure category,1,3
 Tenure sub-category,1,7
-Tourism sector,1,10
-Tourism sub-sector (lower),1,8
-Tourism sub-sector (middle),1,20
-Tourism sub-sector (upper),1,28
 Treatment connection,1,2
 Treatment type,1,6
 Type of disease,1,4
@@ -162,6 +156,7 @@ Urbanisation sub-category,1,6
 Use a smartphone,1,1
 Vaccine,1,16
 Violence type,1,6
+Waste collection Authority,1,127
 Waste type,1,2
 Water body category,1,3
 Water resources management category,1,4
