@@ -24,9 +24,9 @@ archive_types = {
 }
 
 change_types = {
-    "revised": "This indicator was revised following <a href='https://sdg-data.gov.uk/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review. The indicator from before these revisions has been <a href='{{ site.baseurl }}/archived-indicators'>archived</a>.",
-    "replaced": "This indicator was added following <a href='https://sdg-data.gov.uk/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review. The indicator it replaced has been <a href='{{ site.baseurl }}/archived-indicators'>archived</a>.",
-    "moved": "This indicator was moved following <a href='https://sdg-data.gov.uk/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review. The indicator it replaced has been <a href='{{ site.baseurl }}/archived-indicators'>archived</a>."
+    "revised": "This indicator was revised following <a href='https://sdg-data.gov.uk/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review. The indicator from before these revisions has been <a href='https://sdg-data.gov.uk/archived-indicators'>archived</a>.",
+    "replaced": "This indicator was added following <a href='https://sdg-data.gov.uk/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review. The indicator it replaced has been <a href='https://sdg-data.gov.uk/archived-indicators'>archived</a>.",
+    "moved": "This indicator was moved following <a href='https://sdg-data.gov.uk/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review. The indicator it replaced has been <a href='https://sdg-data.gov.uk/archived-indicators'>archived</a>."
 }
 
 archived_indicators=pd.read_csv('archived_indicators.csv')
