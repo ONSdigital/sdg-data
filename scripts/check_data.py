@@ -60,6 +60,8 @@ def alter_meta(meta):
                 meta['data_notice_text']=archive_types[meta['archive_type']]
                 meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/iaeg-sdgs/metadata-compilation/'
                 meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals compilation of previous metadata'
+                if meta['reporting_status]=="notstarted":
+                    meta['page_content']="No data exists for this indicator"+meta['page_content']
         
     return meta
 # Validate the indicators.
