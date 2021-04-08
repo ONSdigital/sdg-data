@@ -42,6 +42,7 @@ def alter_meta(meta):
             meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/metadata/?Text=&Goal='+goal_id+'&Target='+target_id
             meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
 
+
         if 'standalone' not in meta:
             if tier_df is not None:
                 if indicator_id in list(tier_df.index):
