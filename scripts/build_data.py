@@ -1,5 +1,6 @@
 from sdg.open_sdg import open_sdg_build
 import pandas as pd
+import http
 
 tier_spreadsheet_url = 'https://unstats.un.org/sdgs/files/Tier%20Classification%20of%20SDG%20Indicators_28%20Dec%202020_web.xlsx'
 
@@ -38,15 +39,13 @@ def alter_meta(meta):
         id_parts = indicator_id.split('.')
         target_id = id_parts[0] + '.' + id_parts[1]
         goal_id = id_parts[0]
-        if indicator_id not in ["1.2.1", "3.a.1", "3.4.2", "5.1.1", "5.5.1", "13.3.1", "15.2.1"]:
-            meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/metadata/?Text=&Goal='+goal_id+'&Target='+target_id
-            meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
+        meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/metadata/?Text=&Goal='+goal_id+'&Target='+target_id
+        meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
 
         if 'standalone' not in meta:
             if tier_df is not None:
                 if indicator_id in list(tier_df.index):
-                    if indicator_id not in ["1.2.1", "3.a.1", "3.4.2", "5.1.1", "5.5.1", "13.3.1", "15.2.1"]:
-                        meta['un_designated_tier']=tier_df.loc[indicator_id][0]
+                    meta['un_designated_tier']=tier_df.loc[indicator_id][0]
                 if indicator_id in changed_indicators['number'].values:
                     meta['change_notice']=change_types[changed_indicators.loc[changed_indicators['number']==indicator_id]['change_type'].values[0]]
         elif 'standalone' in meta:
