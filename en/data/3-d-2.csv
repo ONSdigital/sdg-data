@@ -1,37 +1,51 @@
-Year,Units,Country,Observation status,Unit multiplier,Unit measure,GeoCode,Value
-2014,MRSA bloodstream infection,,undefined,Units,Rate per 100000 population,,1.4143662343
-2015,MRSA bloodstream infection,,undefined,Units,Rate per 100000 population,,1.3442247567899002
-2016,MRSA bloodstream infection,,undefined,Units,Rate per 100000 population,,1.2183916586051966
-2017,MRSA bloodstream infection,,undefined,Units,Rate per 100000 population,,1.4204304319944678
-2018,MRSA bloodstream infection,,undefined,Units,Rate per 100000 population,,1.4754715156125378
-2014,MRSA bloodstream infection,England,undefined,Units,Rate per 100000 population,E92000001,1.1525017997254543
-2015,MRSA bloodstream infection,England,undefined,Units,Rate per 100000 population,E92000001,1.1079406728616796
-2016,MRSA bloodstream infection,England,undefined,Units,Rate per 100000 population,E92000001,1.0367650455370547
-2017,MRSA bloodstream infection,England,undefined,Units,Rate per 100000 population,E92000001,1.2567550584391105
-2018,MRSA bloodstream infection,England,undefined,Units,Rate per 100000 population,E92000001,1.3594826091447485
-2014,MRSA bloodstream infection,Wales,undefined,Units,Rate per 100000 population,W92000004,5.10990169584054
-2015,MRSA bloodstream infection,Wales,undefined,Units,Rate per 100000 population,W92000004,3.7430390766826087
-2016,MRSA bloodstream infection,Wales,undefined,Units,Rate per 100000 population,W92000004,3.276424200568556
-2017,MRSA bloodstream infection,Wales,undefined,Units,Rate per 100000 population,W92000004,3.807798948215534
-2018,MRSA bloodstream infection,Wales,undefined,Units,Rate per 100000 population,W92000004,2.708187104505117
-2014,MRSA bloodstream infection,Northern Ireland,undefined,Units,Rate per 100000 population,N92000002,2.933988518324932
-2015,MRSA bloodstream infection,Northern Ireland,undefined,Units,Rate per 100000 population,N92000002,4.3205385983416695
-2016,MRSA bloodstream infection,Northern Ireland,undefined,Units,Rate per 100000 population,N92000002,3.16840275446973
-2017,MRSA bloodstream infection,Northern Ireland,undefined,Units,Rate per 100000 population,N92000002,2.2984401609121923
-2018,MRSA bloodstream infection,Northern Ireland,undefined,Units,Rate per 100000 population,N92000002,2.869835425567364
-2016 Q4,Proportion (%) of 3rd generation cephalosporin resistant E. coli blood specimens,England,undefined,Units,Percentage (%),E92000001,11.9891
-2017 Q1,Proportion (%) of 3rd generation cephalosporin resistant E. coli blood specimens,England,undefined,Units,Percentage (%),E92000001,12.3574
-2017 Q2,Proportion (%) of 3rd generation cephalosporin resistant E. coli blood specimens,England,undefined,Units,Percentage (%),E92000001,12.8736
-2017 Q3,Proportion (%) of 3rd generation cephalosporin resistant E. coli blood specimens,England,undefined,Units,Percentage (%),E92000001,12.9354
-2017 Q4,Proportion (%) of 3rd generation cephalosporin resistant E. coli blood specimens,England,undefined,Units,Percentage (%),E92000001,13.4069
-2018 Q1,Proportion (%) of 3rd generation cephalosporin resistant E. coli blood specimens,England,undefined,Units,Percentage (%),E92000001,13.7479
-2018 Q2,Proportion (%) of 3rd generation cephalosporin resistant E. coli blood specimens,England,undefined,Units,Percentage (%),E92000001,13.7736
-2018 Q3,Proportion (%) of 3rd generation cephalosporin resistant E. coli blood specimens,England,undefined,Units,Percentage (%),E92000001,14.0749
-2018 Q4,Proportion (%) of 3rd generation cephalosporin resistant E. coli blood specimens,England,undefined,Units,Percentage (%),E92000001,14.401
-2019 Q1,Proportion (%) of 3rd generation cephalosporin resistant E. coli blood specimens,England,undefined,Units,Percentage (%),E92000001,14.6669
-2019 Q2,Proportion (%) of 3rd generation cephalosporin resistant E. coli blood specimens,England,undefined,Units,Percentage (%),E92000001,15.0692
-2019 Q3,Proportion (%) of 3rd generation cephalosporin resistant E. coli blood specimens,England,undefined,Units,Percentage (%),E92000001,15.1051
-2019 Q4,Proportion (%) of 3rd generation cephalosporin resistant E. coli blood specimens,England,undefined,Units,Percentage (%),E92000001,15.0873
-2020 Q1,Proportion (%) of 3rd generation cephalosporin resistant E. coli blood specimens,England,undefined,Units,Percentage (%),E92000001,15.2401
-2020 Q2,Proportion (%) of 3rd generation cephalosporin resistant E. coli blood specimens,England,undefined,Units,Percentage (%),E92000001,14.8382
-2020 Q3,Proportion (%) of 3rd generation cephalosporin resistant E. coli blood specimens,England,undefined,Units,Percentage (%),E92000001,14.7283
+Year,Units,Series,Country,Observation status,Unit multiplier,Unit measure,GeoCode,Value
+2014,"Rate per 100,000 population",Rate of MRSA bloodstream infection,,undefined,Units,Rate per 100000 population,,1.4143662343
+2015,"Rate per 100,000 population",Rate of MRSA bloodstream infection,,undefined,Units,Rate per 100000 population,,1.3442247567899002
+2016,"Rate per 100,000 population",Rate of MRSA bloodstream infection,,undefined,Units,Rate per 100000 population,,1.2183916586051966
+2017,"Rate per 100,000 population",Rate of MRSA bloodstream infection,,undefined,Units,Rate per 100000 population,,1.4204304319944678
+2018,"Rate per 100,000 population",Rate of MRSA bloodstream infection,,undefined,Units,Rate per 100000 population,,1.4754715156125378
+2014,"Rate per 100,000 population",Rate of MRSA bloodstream infection,England,undefined,Units,Rate per 100000 population,E92000001,1.1525017997254543
+2015,"Rate per 100,000 population",Rate of MRSA bloodstream infection,England,undefined,Units,Rate per 100000 population,E92000001,1.1079406728616796
+2016,"Rate per 100,000 population",Rate of MRSA bloodstream infection,England,undefined,Units,Rate per 100000 population,E92000001,1.0367650455370547
+2017,"Rate per 100,000 population",Rate of MRSA bloodstream infection,England,undefined,Units,Rate per 100000 population,E92000001,1.2567550584391105
+2018,"Rate per 100,000 population",Rate of MRSA bloodstream infection,England,undefined,Units,Rate per 100000 population,E92000001,1.3594826091447485
+2014,"Rate per 100,000 population",Rate of MRSA bloodstream infection,Wales,undefined,Units,Rate per 100000 population,W92000004,5.10990169584054
+2015,"Rate per 100,000 population",Rate of MRSA bloodstream infection,Wales,undefined,Units,Rate per 100000 population,W92000004,3.7430390766826087
+2016,"Rate per 100,000 population",Rate of MRSA bloodstream infection,Wales,undefined,Units,Rate per 100000 population,W92000004,3.276424200568556
+2017,"Rate per 100,000 population",Rate of MRSA bloodstream infection,Wales,undefined,Units,Rate per 100000 population,W92000004,3.807798948215534
+2018,"Rate per 100,000 population",Rate of MRSA bloodstream infection,Wales,undefined,Units,Rate per 100000 population,W92000004,2.708187104505117
+2014,"Rate per 100,000 population",Rate of MRSA bloodstream infection,Northern Ireland,undefined,Units,Rate per 100000 population,N92000002,2.933988518324932
+2015,"Rate per 100,000 population",Rate of MRSA bloodstream infection,Northern Ireland,undefined,Units,Rate per 100000 population,N92000002,4.3205385983416695
+2016,"Rate per 100,000 population",Rate of MRSA bloodstream infection,Northern Ireland,undefined,Units,Rate per 100000 population,N92000002,3.16840275446973
+2017,"Rate per 100,000 population",Rate of MRSA bloodstream infection,Northern Ireland,undefined,Units,Rate per 100000 population,N92000002,2.2984401609121923
+2018,"Rate per 100,000 population",Rate of MRSA bloodstream infection,Northern Ireland,undefined,Units,Rate per 100000 population,N92000002,2.869835425567364
+2009,"Rate per 100,000 population",Rate of E. coli bloodstream infection,England,undefined,Units,Rate per 100000 population,E92000001,43.22521900512604
+2010,"Rate per 100,000 population",Rate of E. coli bloodstream infection,England,undefined,Units,Rate per 100000 population,E92000001,45.67606387331654
+2011,"Rate per 100,000 population",Rate of E. coli bloodstream infection,England,undefined,Units,Rate per 100000 population,E92000001,49.2212266106672
+2012,"Rate per 100,000 population",Rate of E. coli bloodstream infection,England,undefined,Units,Rate per 100000 population,E92000001,50.17971358848436
+2013,"Rate per 100,000 population",Rate of E. coli bloodstream infection,England,undefined,Units,Rate per 100000 population,E92000001,50.87085191708872
+2014,"Rate per 100,000 population",Rate of E. coli bloodstream infection,England,undefined,Units,Rate per 100000 population,E92000001,53.09793036083359
+2015,"Rate per 100,000 population",Rate of E. coli bloodstream infection,England,undefined,Units,Rate per 100000 population,E92000001,58.60038764781585
+2016,"Rate per 100,000 population",Rate of E. coli bloodstream infection,England,undefined,Units,Rate per 100000 population,E92000001,64.10030587825696
+2017,"Rate per 100,000 population",Rate of E. coli bloodstream infection,England,undefined,Units,Rate per 100000 population,E92000001,67.54833697504631
+2018,"Rate per 100,000 population",Rate of E. coli bloodstream infection,England,undefined,Units,Rate per 100000 population,E92000001,69.66946422343763
+2016 Q4,Percentage (%),Proportion of E.coli bloodstream infections resistant to antibiotics,England,undefined,Units,Percentage (%),E92000001,11.9891
+2017 Q1,Percentage (%),Proportion of E.coli bloodstream infections resistant to antibiotics,England,undefined,Units,Percentage (%),E92000001,12.3574
+2017 Q2,Percentage (%),Proportion of E.coli bloodstream infections resistant to antibiotics,England,undefined,Units,Percentage (%),E92000001,12.8736
+2017 Q3,Percentage (%),Proportion of E.coli bloodstream infections resistant to antibiotics,England,undefined,Units,Percentage (%),E92000001,12.9354
+2017 Q4,Percentage (%),Proportion of E.coli bloodstream infections resistant to antibiotics,England,undefined,Units,Percentage (%),E92000001,13.4069
+2018 Q1,Percentage (%),Proportion of E.coli bloodstream infections resistant to antibiotics,England,undefined,Units,Percentage (%),E92000001,13.7479
+2018 Q2,Percentage (%),Proportion of E.coli bloodstream infections resistant to antibiotics,England,undefined,Units,Percentage (%),E92000001,13.7736
+2018 Q3,Percentage (%),Proportion of E.coli bloodstream infections resistant to antibiotics,England,undefined,Units,Percentage (%),E92000001,14.0749
+2018 Q4,Percentage (%),Proportion of E.coli bloodstream infections resistant to antibiotics,England,undefined,Units,Percentage (%),E92000001,14.401
+2019 Q1,Percentage (%),Proportion of E.coli bloodstream infections resistant to antibiotics,England,undefined,Units,Percentage (%),E92000001,14.6669
+2019 Q2,Percentage (%),Proportion of E.coli bloodstream infections resistant to antibiotics,England,undefined,Units,Percentage (%),E92000001,15.0692
+2019 Q3,Percentage (%),Proportion of E.coli bloodstream infections resistant to antibiotics,England,undefined,Units,Percentage (%),E92000001,15.1051
+2019 Q4,Percentage (%),Proportion of E.coli bloodstream infections resistant to antibiotics,England,undefined,Units,Percentage (%),E92000001,15.0873
+2020 Q1,Percentage (%),Proportion of E.coli bloodstream infections resistant to antibiotics,England,undefined,Units,Percentage (%),E92000001,15.2401
+2020 Q2,Percentage (%),Proportion of E.coli bloodstream infections resistant to antibiotics,England,undefined,Units,Percentage (%),E92000001,14.8382
+2020 Q3,Percentage (%),Proportion of E.coli bloodstream infections resistant to antibiotics,England,undefined,Units,Percentage (%),E92000001,14.7283
+2018,Percentage (%),Proportion of S. aureaus bloodstream infections resistant to antibiotics,,undefined,Units,Percentage (%),,7.986511669180938
+2018,Percentage (%),Proportion of S. aureaus bloodstream infections resistant to antibiotics,England,undefined,Units,Percentage (%),E92000001,7.703988661672404
+2018,Percentage (%),Proportion of S. aureaus bloodstream infections resistant to antibiotics,Northern Ireland,undefined,Units,Percentage (%),N92000002,12.217194570135746
+2018,Percentage (%),Proportion of S. aureaus bloodstream infections resistant to antibiotics,Wales,undefined,Units,Percentage (%),W92000004,8.956796628029505
