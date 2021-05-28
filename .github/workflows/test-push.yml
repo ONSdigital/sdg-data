@@ -3,6 +3,7 @@ name: Test Push
 on:
   push:
     branches-ignore: 
+      - develop
       - master
 
 jobs:
