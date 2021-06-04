@@ -1,6 +1,7 @@
-Year,Value,Units,GeoCode,Observation status,Unit multiplier,Unit measure
-2014,1.4143662343,MRSA bloodstream infection,,undefined,Units,Rate per 100000 population
-2015,1.3442247567899002,MRSA bloodstream infection,,undefined,Units,Rate per 100000 population
-2016,1.2183916586051966,MRSA bloodstream infection,,undefined,Units,Rate per 100000 population
-2017,1.4204304319944678,MRSA bloodstream infection,,undefined,Units,Rate per 100000 population
-2018,1.4754715156125378,MRSA bloodstream infection,,undefined,Units,Rate per 100000 population
+Year,Value,Units,Series,GeoCode,Observation status,Unit multiplier,Unit measure
+2014,1.4143662343,"Rate per 100,000 population",Rate of MRSA bloodstream infection,,undefined,Units,Rate per 100000 population
+2015,1.3442247567899002,"Rate per 100,000 population",Rate of MRSA bloodstream infection,,undefined,Units,Rate per 100000 population
+2016,1.2183916586051966,"Rate per 100,000 population",Rate of MRSA bloodstream infection,,undefined,Units,Rate per 100000 population
+2017,1.4204304319944678,"Rate per 100,000 population",Rate of MRSA bloodstream infection,,undefined,Units,Rate per 100000 population
+2018,1.4754715156125378,"Rate per 100,000 population",Rate of MRSA bloodstream infection,,undefined,Units,Rate per 100000 population
+2018,7.986511669180938,Percentage (%),Proportion of S. aureaus bloodstream infections resistant to antibiotics,,undefined,Units,Percentage (%)
