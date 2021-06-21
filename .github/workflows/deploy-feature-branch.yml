@@ -31,7 +31,7 @@ jobs:
           args: --acl public-read --follow-symlinks --delete
         env:
           # Update this according to the name of your S3 bucket.
-          AWS_S3_BUCKET: open-sdg-feature
+          AWS_S3_BUCKET: uk-sdg-feature-branches
           # Remember to add AWS_ACCESS as a "repository secret".
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS }}
           # Remember to add AWS_SECRET as a "repository secret".
@@ -42,11 +42,11 @@ jobs:
         env:
           # Enter your Github username (or the username of whomever owns
           # the personal access token being used).
-          GITHUB_USERNAME: brockfanning
+          GITHUB_USERNAME: lucygwilliamadmin
           # Enter your Github organization (maybe the same as your username).
-          GITHUB_ORG: brockfanning
+          GITHUB_ORG: onsdigital
           # Enter the site repository name
-          GITHUB_SITE_REPO: open-sdg-feature-test-site
+          GITHUB_SITE_REPO: sdg-indicators
           # Remember to create a personal access token and set it as a
           # repository secret called "token".
           ACCESS_TOKEN: ${{ secrets.token }}
