@@ -25,21 +25,24 @@ jobs:
 
   deploy:
     needs: pre_job
-    if: ${{ needs.pre_job.outputs.should_skip != 'true' }}
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - if: ${{ steps.skip_check.outputs.should_skip != 'true' }}
+        name: Checkout
         uses: actions/checkout@v2
-      - name: Set up Python 3.7
+      - if: ${{ steps.skip_check.outputs.should_skip != 'true' }}
+        name: Set up Python 3.7
         uses: actions/setup-python@v1
         with:
           python-version: 3.7
-      - name: Install dependencies
+      - if: ${{ steps.skip_check.outputs.should_skip != 'true' }}
+        name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r scripts/requirements.txt
-      - name: Build data
+      - if: ${{ steps.skip_check.outputs.should_skip != 'true' }}
+        name: Build data
         run: |
           python scripts/build_data.py
       - name: Inject slug/short variables
