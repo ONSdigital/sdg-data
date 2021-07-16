@@ -1,0 +1,150 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%) of GDP",
+                "GBP per capita",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Industry higher sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacture of food products, beverages and tobacco",
+                "Manufacture of textiles, wearing apparel and leather products",
+                "Manufacture of wood and paper products, and printing",
+                "Manufacture of coke, and refined petroleum products",
+                "Manufacture of chemicals and chemical products",
+                "Manufacture of basic pharmaceutical products and pharmaceutical preparations",
+                "Manufacture of rubber and plastics products, & other non-metallic mineral products",
+                "Manufacture of basic metals and metal products",
+                "Manufacturing of computer, electronic & optical products",
+                "Manufacture of electrical equipment",
+                "Manufacture of machinery and equipment",
+                "Manufacture of transport equipment",
+                "Other manufacturing and repair",
+                "Manufacture of rubber and plastics products, and other non-metallic mineral products",
+                "Manufacturing of computer, electronic and optical products",
+                "Manufacture of machinery and equipment not elsewhere classified",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Industry middle sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacture of food products",
+                "Manufacture of beverages",
+                "Manufacture of tobacco products",
+                "Manufacture of textiles",
+                "Manufacture of wearing apparel",
+                "Manufacture of leather and related products",
+                "Manufacture of wood & products of wood & cork, except furniture; manuf. of articles of straw",
+                "Manufacture of paper and paper products",
+                "Printing and reproduction of recorded media",
+                "Manufacture of coke and refined petroleum products",
+                "Manufacture of chemicals and chemical products",
+                "Manufacture of basic pharmaceutical products and pharmaceutical preparations",
+                "Manufacture of rubber and plastic products",
+                "Manufacture of other non-metallic mineral products",
+                "Manufacture of basic metals",
+                "Manufacture of fabricated metal products, except machinery and equipment",
+                "Manufacture of computer, electronic and optical products",
+                "Manufacture of electrical equipment",
+                "Manufacture of machinery and equipment",
+                "Manufacture of motor vehicles, trailers and semi-trailers",
+                "Manufacture of other transport equipment",
+                "Manufacture of furniture",
+                "Other manufacturing",
+                "Repair and installation of machinery and equipment",
+                "Manufacture of wood and products of wood and cork, except furniture; manufacture of articles of straw",
+                "Manufacture of machinery and equipmentnot elsewhere classified",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Industry lower sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Processing and preserving of meat and production of meat products",
+                "Processing and preserving of fish, crustaceans, molluscs, fruit and vegetables",
+                "Manufacture of vegetable and animal oils and fats",
+                "Manufacture of dairy products",
+                "Manufacture of grain mill products, starches and starch products",
+                "Manufacture of bakery and farinaceous products",
+                "Manufacture of other food products",
+                "Manufacture of prepared animal feeds",
+                "Manufacture of alcoholic beverages",
+                "Manufacture of soft drinks; production of mineral waters and other bottled waters",
+                "Manufacture of industrial gases, inorganics and fertilisers (inorganic chemicals)",
+                "Manufacture of petrochemicals",
+                "Manufacture of dyestuffs, agro-chemicals",
+                "Manufacture of paints, varnishes and similar coatings, printing ink and mastics",
+                "Manufacture of soap & detergents, cleaning & polishing, perfumes & toilet preparations",
+                "Manufacture of other chemical products",
+                "Manufacture of glass, refractory, clay, porcelain, ceramic, stone products",
+                "Manufacture of cement, lime, plaster and articles of concrete, cement and plaster",
+                "Manufacture of basic iron and steel",
+                "Manufacture of other basic metals and casting",
+                "Manufacture of fabricated metal products, excluding weapons & ammunition",
+                "Manufacture of weapons and ammunition",
+                "Building of ships and boats",
+                "Manufacture of air and spacecraft and related machinery",
+                "Manufacture of other transport equipment",
+                "Repair and maintenance of ships and boats",
+                "Repair and maintenance of aircraft and spacecraft",
+                "Rest of repair; installation",
+                "Manufacture of soap and detergents, cleaning and polishing, perfumes and toilet preparations",
+                "Manufacture of fabricated metal products, excluding weapons and ammunition",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-2-1",
+  "title": "global_indicators.9-2-1-title"
+}

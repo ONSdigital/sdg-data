@@ -1,0 +1,64 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Manufacturing industry",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Basic pharmaceutical products and pharmaceutical preparations",
+                "Chemicals and chemical products",
+                "Computer, electronic and optical products",
+                "Electrical equipment",
+                "Machinery and equipment n.e.c.",
+                "Motor vehicles, trailers and semi-trailers",
+                "Other",
+                "Other transport equipment",
+                "Weapons and ammunition"
+              ]
+            },
+            "title": "Manufacturing industry"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-b-1",
+  "title": "Proportion of medium and high-tech industry value added in total value added"
+}

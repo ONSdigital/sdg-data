@@ -1,0 +1,78 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Developing country participation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Membership in international organisations",
+                "Voting rights in international organisations"
+              ]
+            },
+            "title": "Developing country participation"
+          },
+          {
+            "name": "Institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "African Development Bank",
+                "Asian Development Bank",
+                "Financial Stability Board",
+                "Inter-American Development Bank",
+                "International Bank for Reconstruction and Development",
+                "International Finance Corporation",
+                "International Monetary Fund",
+                "UN Economic and Social Council",
+                "UN General Assembly",
+                "UN Security Council",
+                "World Trade Organisation"
+              ]
+            },
+            "title": "Institution"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-6-1",
+  "title": "Proportion of members and voting rights of developing countries in international organizations"
+}

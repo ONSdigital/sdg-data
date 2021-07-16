@@ -1,0 +1,83 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Sustainability level (Pressure)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage of fish stocks harvested above FMSY",
+                "Percentage of fish stocks harvested below FMSY",
+                "Percentage of fish stocks unknown"
+              ]
+            },
+            "title": "Sustainability level (Pressure)"
+          },
+          {
+            "name": "Sustainability level (State)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage of fish stocks above MSY Btrigger",
+                "Percentage of fish stocks below MSY Btrigger",
+                "Percentage of fish stocks unknown"
+              ]
+            },
+            "title": "Sustainability level (State)"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "A) Pressure (Stocks harvested, %)",
+                "B) State (biomass remaining, %)"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "14-4-1",
+  "title": "Proportion of fish stocks within biologically sustainable levels"
+}

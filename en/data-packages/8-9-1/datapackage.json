@@ -1,0 +1,79 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Accommodation services for visitors",
+                "Air passenger transport services",
+                "Cultural activities",
+                "Exhibitions & Conferences etc.",
+                "Food and beverage serving activities",
+                "Other consumption products",
+                "Railway passenger transport services",
+                "Road passenger transport services",
+                "Sport and recreation activities",
+                "Transport equipment rental services",
+                "Travel agencies and other reservation services",
+                "Water passenger transport services"
+              ]
+            },
+            "title": "Product"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Tourism direct GDP as a percentage of GDP (%)",
+                "Tourism direct GDP growth rate (%)"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-9-1",
+  "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
+}

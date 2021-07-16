@@ -1,20 +1,4 @@
 Value,Disaggregation combinations using this value,Number of indicators
-"£10,000 to less than £20,000",7,4
-"£10,399 or less",6,1
-"£10,400 to £25,999",6,1
-"£10,400 to less than £20,800",1,1
-"£15,000 to £29,999",2,1
-"£20,000 to less than £30,000",7,4
-"£20,800 to less than £31,200",1,1
-"£26,000 to £51,999",6,1
-"£30,000 to £44,999",2,1
-"£30,000 to less than £40,000",7,4
-"£31,200 to less than £41,600",1,1
-"£40,000 to less than £50,000",7,4
-"£41,600 to less than £52,000",1,1
-"£45,000 or more",2,1
-"£50,000 or more",7,4
-"£52,000 or more",7,2
 Band A1,1,1
 Band A2,1,1
 Band A3,1,1
@@ -36,3 +20,19 @@ Band B8,1,1
 "Less than £14,999",2,1
 No income stated or not enough information provided,7,4
 No income,1,1
+"£10,000 to less than £20,000",7,4
+"£10,399 or less",6,1
+"£10,400 to less than £20,800",1,1
+"£10,400 to £25,999",6,1
+"£15,000 to £29,999",2,1
+"£20,000 to less than £30,000",7,4
+"£20,800 to less than £31,200",1,1
+"£26,000 to £51,999",6,1
+"£30,000 to less than £40,000",7,4
+"£30,000 to £44,999",2,1
+"£31,200 to less than £41,600",1,1
+"£40,000 to less than £50,000",7,4
+"£41,600 to less than £52,000",1,1
+"£45,000 or more",2,1
+"£50,000 or more",7,4
+"£52,000 or more",7,2

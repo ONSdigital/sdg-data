@@ -1,0 +1,103 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Area of spending category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Education",
+                "Health",
+                "Social protection"
+              ]
+            },
+            "title": "Area of spending category"
+          },
+          {
+            "name": "Area of spending sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Education - not elsewhere classified",
+                "Education not definable by level",
+                "Family and children",
+                "Health - not elsewhere classified",
+                "Hospital services",
+                "Housing",
+                "Medical products, appliances and equipment",
+                "Old age",
+                "Outpatient services",
+                "Post-secondary non-tertiary education",
+                "Pre-primary and primary education",
+                "Public health services",
+                "Research and development - education",
+                "Research and development - health",
+                "Research and development - social protection",
+                "Secondary education",
+                "Sickness and disability",
+                "Social exclusion - not elsewhere classified",
+                "Social protection - not elsewhere classified",
+                "Subsidiary services to education",
+                "Survivors",
+                "Tertiary education",
+                "Unemployment"
+              ]
+            },
+            "title": "Area of spending sub-category"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage (%) of gross domestic product (GDP)",
+                "Percentage (%) of national budget"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-a-2",
+  "title": "Proportion of total government spending on essential services (education, health and social protection)"
+}

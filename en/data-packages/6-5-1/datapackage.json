@@ -1,0 +1,98 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Observation status",
+            "type": "number",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Water resources management category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enabling environment",
+                "Financing",
+                "Institutions and participation",
+                "Management instruments"
+              ]
+            },
+            "title": "Water resources management category"
+          },
+          {
+            "name": "Water resources management sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Aquifer management instruments",
+                "Arrangements for transboundary water management in most important basins and aquifers",
+                "Basin and aquifer level organizations for leading implementation of integrated water resources management (IWRM) plans",
+                "Basin and aquifer management plans",
+                "Basin management instruments",
+                "Business participation in water resources development, management and use at national level",
+                "Coordination between national government authorities representing different sectors on water resources, policy, planning and management",
+                "Data and information sharing within countries at all levels",
+                "Developing integrated water resources management (IWRM) capacity at the national level",
+                "Financing for transboundary cooperation",
+                "Management instruments to reduce impacts of water-related disasters from the national level",
+                "Management of water-related ecosystems from the national level",
+                "National budget for investment including water resources infrastructure",
+                "National budget for the recurrent costs of the integrated water resources management (IWRM) elements",
+                "National government authority capacity for leading implementation of national integrated water resources management (IWRM) plans",
+                "National integrated water resources management (IWRM) plans",
+                "National monitoring of water availability",
+                "National water resources law",
+                "National water resources policy",
+                "Organizational framework for transboundary water management for most important basins and aquifers",
+                "Pollution control from the national level",
+                "Provincial and state water resources laws",
+                "Public participation in water resources, policy, planning and management at national level",
+                "Public participation in water resources, policy, planning and management at the local level",
+                "Revenues raised from dedicated levies on water users at basin, aquifer or sub-national levels",
+                "Sub-national or basin budgets for investment including water resources infrastructure",
+                "Sub-national water resources policies",
+                "Sustainable and efficient water use management from the national level",
+                "Transboundary data and information sharing between countries"
+              ]
+            },
+            "title": "Water resources management sub-category"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-5-1",
+  "title": "Degree of integrated water resources management"
+}

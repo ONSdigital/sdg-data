@@ -1,0 +1,160 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "55 to 64",
+                "65 to 74",
+                "75 and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "White",
+                "Mixed/Multiple ethnic background",
+                "Asian/Asian British",
+                "Black/African/Caribbean/Black British",
+                "Other ethnic group",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ethnic group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "English/Welsh/Scottish/Northern Irish/British",
+                "Irish",
+                "Any other White background",
+                "Indian",
+                "Pakistani",
+                "Any other Asian background",
+                "African",
+                "Caribbean",
+                "Any other ethnic group",
+                "Bangladeshi",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disabled (GSS harmonised)",
+                "Non-disabled (GSS harmonised)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country of birth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Born in the UK",
+                "Not born in the UK",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "North East",
+                "North West",
+                "Yorkshire and the Humber",
+                "East Midlands",
+                "West Midlands",
+                "East",
+                "London",
+                "South East",
+                "South West",
+                "Wales",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Household income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Less than £10,400",
+                "£10,400 to less than £20,800",
+                "£20,800 to less than £31,200",
+                "£31,200 to less than £41,600",
+                "£41,600 to less than £52,000",
+                "£52,000 or more",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-1-4",
+  "title": "global_indicators.16-1-4-title"
+}

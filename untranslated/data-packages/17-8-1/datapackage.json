@@ -1,0 +1,356 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "55 to 64",
+                "65 to 74",
+                "75 and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disabled (GSS harmonised)",
+                "Not disabled (GSS harmonised)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "White",
+                "Mixed/Multiple ethnic background",
+                "Asian/Asian British",
+                "Black/African/Caribbean/Black British",
+                "Other ethnic group",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ethnic group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Indian",
+                "Pakistani",
+                "Bangladeshi",
+                "Chinese",
+                "Any other Asian background",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Employment status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Employed",
+                "Self-employed",
+                "Government employment & training programmes",
+                "Unpaid family worker",
+                "Unemployed",
+                "Student",
+                "Retired",
+                "Inactive",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "North East",
+                "North West",
+                "Yorkshire and the Humber",
+                "East Midlands",
+                "West Midlands",
+                "East of England",
+                "London",
+                "South East",
+                "South West",
+                "Wales",
+                "Scotland",
+                "Northern Ireland",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Local Authority",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hartlepool and Stockton-on-Tees",
+                "South Teesside",
+                "Darlington",
+                "Durham CC",
+                "Northumberland",
+                "Tyneside",
+                "Sunderland",
+                "West Cumbria",
+                "East Cumbria",
+                "Halton and Warrington",
+                "Cheshire CC",
+                "Greater Manchester South",
+                "Greater Manchester North",
+                "Blackburn with Darwen",
+                "Blackpool",
+                "Lancashire CC",
+                "East Merseyside",
+                "Liverpool",
+                "Sefton",
+                "Wirral",
+                "Kingston upon Hull, City of",
+                "East Riding of Yorkshire",
+                "North and North East Lincolnshire",
+                "York",
+                "North Yorkshire CC",
+                "Barnsley, Doncaster and Rotherham",
+                "Sheffield",
+                "Bradford",
+                "Leeds",
+                "Calderdale, Kirklees and Wakefield",
+                "Derby",
+                "East Derbyshire",
+                "South and West Derbyshire",
+                "Nottingham",
+                "North Nottinghamshire",
+                "South Nottinghamshire",
+                "Leicester",
+                "Leicestershire CC and Rutland",
+                "Northamptonshire",
+                "Lincolnshire",
+                "Herefordshire, County of",
+                "Worcestershire",
+                "Warwickshire",
+                "Telford and Wrekin",
+                "Shropshire CC",
+                "Stoke-on-Trent",
+                "Staffordshire CC",
+                "Birmingham",
+                "Solihull",
+                "Coventry",
+                "Dudley and Sandwell",
+                "Walsall and Wolverhampton",
+                "Peterborough",
+                "Cambridgeshire CC",
+                "Norfolk",
+                "Suffolk",
+                "Luton",
+                "Bedfordshire CC",
+                "Hertfordshire",
+                "Southend-on-Sea",
+                "Thurrock",
+                "Essex CC",
+                "Inner London - West",
+                "Inner London - East",
+                "Outer London - East and North East",
+                "Outer London - South",
+                "Outer London - West and North West",
+                "Berkshire",
+                "Milton Keynes",
+                "Buckinghamshire CC",
+                "Oxfordshire",
+                "Brighton and Hove",
+                "East Sussex CC",
+                "Surrey",
+                "West Sussex",
+                "Portsmouth",
+                "Southampton",
+                "Hampshire CC",
+                "Isle of Wight",
+                "Medway",
+                "Kent CC",
+                "Bristol, City of",
+                "Bath and North East Somerset, North Somerset and South Gloucestershire",
+                "Gloucestershire",
+                "Swindon",
+                "Wiltshire",
+                "Bournemouth and Poole",
+                "Dorset CC",
+                "Somerset",
+                "Cornwall and Isles of Scilly",
+                "Plymouth",
+                "Torbay",
+                "Devon CC",
+                "Isle of Anglesey",
+                "Gwynedd",
+                "Conwy and Denbighshire",
+                "South West Wales",
+                "Central Valleys",
+                "Gwent Valleys",
+                "Bridgend and Neath Port Talbot",
+                "Swansea",
+                "Monmouthshire and Newport",
+                "Cardiff and Vale of Glamorgan",
+                "Flintshire and Wrexham",
+                "Powys",
+                "Aberdeen City and Aberdeenshire",
+                "Highlands and Islands",
+                "Angus and Dundee City",
+                "Clackmannanshire and Fife",
+                "East Lothian and Midlothian",
+                "Edinburgh, City of",
+                "Falkirk",
+                "Perth & Kinross and Stirling",
+                "West Lothian",
+                "East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond",
+                "Glasgow City",
+                "Inverclyde, East Renfrewshire and Renfrewshire",
+                "North Lanarkshire",
+                "Scottish Borders",
+                "Dumfries & Galloway",
+                "East Ayrshire and North Ayrshire mainland",
+                "South Ayrshire",
+                "South Lanarkshire",
+                "Belfast",
+                "Outer Belfast",
+                "East of Northern Ireland",
+                "North of Northern Ireland",
+                "West and South of Northern Ireland",
+                "Manchester",
+                "Greater Manchester South West",
+                "Greater Manchester South East",
+                "Greater Manchester North West",
+                "Greater Manchester North East",
+                "Lancaster and Wyre",
+                "Mid Lancashire",
+                "East Lancashire",
+                "Chorley and West Lancashire",
+                "Warrington",
+                "Cheshire East",
+                "Cheshire West and Chester",
+                "Calderdale and Kirklees",
+                "Wakefield",
+                "West Northamptonshire",
+                "North Northamptonshire",
+                "Dudley",
+                "Sandwell",
+                "Walsall",
+                "Wolverhampton",
+                "Norwich and East Norfolk",
+                "North and West Norfolk",
+                "Breckland and South Norfolk",
+                "Bedford",
+                "Central Bedfordshire",
+                "Essex Haven Gateway",
+                "West Essex",
+                "Heart of Essex",
+                "Essex Thames Gateway",
+                "Camden and City of London",
+                "Westminster",
+                "Kensington & Chelsea and Hammersmith & Fulham",
+                "Wandsworth",
+                "Hackney and Newham",
+                "Tower Hamlets",
+                "Haringey and Islington",
+                "Lewisham and Southwark",
+                "Lambeth",
+                "Bexley and Greenwich",
+                "Barking & Dagenham and Havering",
+                "Redbridge and Waltham Forest",
+                "Enfield",
+                "Bromley",
+                "Croydon",
+                "Merton, Kingston upon Thames and Sutton",
+                "Barnet",
+                "Brent",
+                "Ealing",
+                "Harrow and Hillingdon",
+                "Hounslow and Richmond upon Thames",
+                "West Surrey",
+                "East Surrey",
+                "West Sussex (South West)",
+                "West Sussex (North East)",
+                "South Hampshire",
+                "Central Hampshire",
+                "North Hampshire",
+                "Kent Thames Gateway",
+                "East Kent",
+                "Mid Kent",
+                "West Kent",
+                "Armagh City, Banbridge and Craigavon",
+                "Newry, Mourne and Down",
+                "Ards and North Down",
+                "Derry City and Strabane",
+                "Mid Ulster",
+                "Causeway Coast and Glens",
+                "Antrim and Newtownabbey",
+                "Lisburn and Castlereagh",
+                "Mid and East Antrim",
+                "Fermanagh and Omagh",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-8-1",
+  "title": "global_indicators.17-8-1-title"
+}

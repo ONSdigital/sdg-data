@@ -1,0 +1,166 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1 to 4",
+                "16 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "5 to 15",
+                "55 to 64",
+                "65 to 74",
+                "75 and over",
+                "Under 1"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "England",
+                "Wales"
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Police Force Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Avon and Somerset",
+                "Bedfordshire",
+                "Cambridgeshire",
+                "Cheshire",
+                "City of London",
+                "Cleveland",
+                "Cumbria",
+                "Derbyshire",
+                "Devon and Cornwall",
+                "Dorset",
+                "Durham",
+                "Dyfed-Powys",
+                "Essex",
+                "Gloucestershire",
+                "Greater Manchester",
+                "Gwent",
+                "Hampshire",
+                "Hertfordshire",
+                "Humberside",
+                "Kent",
+                "Lancashire",
+                "Leicestershire",
+                "Lincolnshire",
+                "Merseyside",
+                "Metropolitan Police",
+                "Norfolk",
+                "North Wales",
+                "North Yorkshire",
+                "Northamptonshire",
+                "Northumbria",
+                "Nottinghamshire",
+                "South Wales",
+                "South Yorkshire",
+                "Staffordshire",
+                "Suffolk",
+                "Surrey",
+                "Sussex",
+                "Thames Valley",
+                "Warwickshire",
+                "West Mercia",
+                "West Midlands",
+                "West Yorkshire",
+                "Wiltshire"
+              ]
+            },
+            "title": "Police Force Area"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "East",
+                "East Midlands",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and the Humber"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-1-1",
+  "title": "Number of victims of intentional homicide per 100,000 population, by sex and age"
+}

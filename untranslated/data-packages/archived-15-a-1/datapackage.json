@@ -1,0 +1,66 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Flow of Official Development Assistance (ODA)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bilateral",
+                "Multilateral",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Aid description (CRS code)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Forestry development (31220)",
+                "Forestry education/training (31281)",
+                "Forestry policy and administrative management (31210)",
+                "Forestry research (31282)",
+                "Forestry services (31291)",
+                "Fuelwood/charcoal (31261)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "archived-15-a-1",
+  "title": "global_indicators.15-a-1-title"
+}

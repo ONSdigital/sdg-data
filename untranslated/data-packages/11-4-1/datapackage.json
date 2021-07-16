@@ -1,0 +1,72 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "General government expenditure (GBP (£million) per capita)",
+                "Central government expenditure (GBP (£million) per capita)",
+                "Local government expenditure (GBP (£million) per capita)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of expenditure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Environmental protection",
+                "Recreation, culture and religion",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Area of spending",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Waste management",
+                "Waste water management",
+                "Pollution abatement",
+                "Protection of biodiversity and landscape",
+                "Research and development environmental protection",
+                "Environmental protection not elsewhere classified",
+                "Recreational and sporting services",
+                "Cultural services",
+                "Broadcasting and publishing services",
+                "Religious and other community services",
+                "Research and development recreation, culture and religion",
+                "Recreation, culture and religion not elsewhere classified",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-4-1",
+  "title": "global_indicators.11-4-1-title"
+}

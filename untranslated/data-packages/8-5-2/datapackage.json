@@ -1,0 +1,139 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Seasonally adjusted",
+                "Not seasonally adjusted",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 to 24",
+                "16 to 64",
+                "16 to 17",
+                "18 to 24",
+                "25 to 34",
+                "35 to 49",
+                "50 to 64",
+                "65 and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disabled (GSS harmonised)",
+                "Non-disabled (GSS harmonised)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country of birth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Born in UK",
+                "Not born in UK",
+                "Born in EU (Non-UK)",
+                "Not born in EU (Non-UK)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "Great Britain",
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "East Midlands",
+                "East of England",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and the Humber",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-5-2",
+  "title": "global_indicators.8-5-2-title"
+}

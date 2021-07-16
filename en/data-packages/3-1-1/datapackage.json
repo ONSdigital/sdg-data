@@ -1,0 +1,105 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "19 and under",
+                "20 to 24",
+                "25 to 29",
+                "30 to 34",
+                "35 to 39",
+                "40 and over"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Country of birth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Born in UK",
+                "Not born in UK"
+              ]
+            },
+            "title": "Country of birth"
+          },
+          {
+            "name": "Death classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Direct",
+                "Indirect"
+              ]
+            },
+            "title": "Death classification"
+          },
+          {
+            "name": "Deprivation quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Quintile 1 (least deprived)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (most deprived)"
+              ]
+            },
+            "title": "Deprivation quintile"
+          },
+          {
+            "name": "Ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Asian",
+                "Black",
+                "Chinese or other",
+                "Mixed/multiple ethnic groups",
+                "White (inc. not known)"
+              ]
+            },
+            "title": "Ethnicity"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-1-1",
+  "title": "Maternal mortality ratio"
+}

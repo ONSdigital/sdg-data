@@ -1,0 +1,107 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales"
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Energy category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Energy efficient products",
+                "Energy from waste  biomass",
+                "Low carbon electricity",
+                "Low carbon heat",
+                "Low carbon services",
+                "Low emission vehicles"
+              ]
+            },
+            "title": "Energy category"
+          },
+          {
+            "name": "Energy sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Alternative fuels",
+                "Bioenergy",
+                "Carbon capture and storage",
+                "Energy efficient lighting",
+                "Energy monitoring, saving or control systems",
+                "Fuels cells and energy storage",
+                "Hydropower",
+                "Low carbon financial and advisory services",
+                "Low emission vehicles and infrastructure",
+                "Nuclear",
+                "Offshore wind",
+                "Onshore wind",
+                "Other energy efficient products",
+                "Other renewable electricity",
+                "Renewable combined heat and power",
+                "Renewable heat",
+                "Solar photovoltaic"
+              ]
+            },
+            "title": "Energy sub-category"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "archived-7-b-1",
+  "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
+}

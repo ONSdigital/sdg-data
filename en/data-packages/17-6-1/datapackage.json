@@ -1,0 +1,65 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Speed (mb/sec)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "10 mbps and over",
+                "Between 2 mbps and 10 mbps",
+                "Between 256 kbps and 2 mbps"
+              ]
+            },
+            "title": "Speed (mb/sec)"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Number",
+                "Rate per 100 population"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-6-1",
+  "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
+}

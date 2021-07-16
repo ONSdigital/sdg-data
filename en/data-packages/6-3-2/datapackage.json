@@ -1,0 +1,89 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales"
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Status classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Good",
+                "High"
+              ]
+            },
+            "title": "Status classification"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Water body category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Estuaries and Coastal",
+                "Lakes",
+                "Rivers and canals"
+              ]
+            },
+            "title": "Water body category"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-3-2",
+  "title": "Proportion of bodies of water with good ambient water quality"
+}

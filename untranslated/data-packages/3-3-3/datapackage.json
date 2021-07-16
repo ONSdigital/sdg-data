@@ -1,0 +1,199 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate per 100,000 population",
+                "Number of cases",
+                "Percentage (%) of total cases",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "4 and under",
+                "5 to 9",
+                "10 to 14",
+                "15 to 19",
+                "20 to 24",
+                "25 to 29",
+                "30 to 34",
+                "35 to 39",
+                "40 to 44",
+                "45 to 49",
+                "50 to 54",
+                "55 to 59",
+                "60 to 64",
+                "65 to 69",
+                "70 and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "Scotland",
+                "Wales",
+                "Northern Ireland",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "London",
+                "South East",
+                "West Midlands",
+                "North West",
+                "East of England",
+                "Yorkshire and the Humber",
+                "South West",
+                "East Midlands",
+                "North East",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Malaria species",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "P. falciparum",
+                "P. vivax",
+                "P. ovale",
+                "P. malariae",
+                "P. knowlesi",
+                "Mixed",
+                "P. unspecified",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Fatality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fatal",
+                "Non-fatal",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country of birth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Born in Africa",
+                "Born in UK",
+                "Born in Indian subcontinent",
+                "Born in Europe (non-UK)",
+                "Other country of birth",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ethnic Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Black African/African descent",
+                "Indian/Pakistani/Bangladesh (ISC)/ISC descent",
+                "Other/Mixed",
+                "White British",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region of travel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Western Africa",
+                "Eastern Africa",
+                "Middle Africa",
+                "Northern Africa",
+                "Southern Africa",
+                "Africa unspecified",
+                "Southern Asia",
+                "South-Eastern Asia",
+                "Western Asia",
+                "Caribbean",
+                "Central America",
+                "South America",
+                "Oceania",
+                "Not stated",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-3-3",
+  "title": "global_indicators.3-3-3-title"
+}

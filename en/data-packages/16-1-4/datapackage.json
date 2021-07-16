@@ -1,0 +1,174 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "16 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "55 to 64",
+                "65 to 74",
+                "75 and over"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Country of birth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Born in the UK",
+                "Not born in the UK"
+              ]
+            },
+            "title": "Country of birth"
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Disabled (GSS harmonised)",
+                "Non-disabled (GSS harmonised)"
+              ]
+            },
+            "title": "Disability status"
+          },
+          {
+            "name": "Ethnic group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "African",
+                "Any other Asian background",
+                "Any other White background",
+                "Any other ethnic group",
+                "Bangladeshi",
+                "Caribbean",
+                "English/Welsh/Scottish/Northern Irish/British",
+                "Indian",
+                "Irish",
+                "Pakistani"
+              ]
+            },
+            "title": "Ethnic group"
+          },
+          {
+            "name": "Ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Asian/Asian British",
+                "Black/African/Caribbean/Black British",
+                "Mixed/Multiple ethnic background",
+                "Other ethnic group",
+                "White"
+              ]
+            },
+            "title": "Ethnicity"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Household income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Less than £10,400",
+                "£10,400 to less than £20,800",
+                "£20,800 to less than £31,200",
+                "£31,200 to less than £41,600",
+                "£41,600 to less than £52,000",
+                "£52,000 or more"
+              ]
+            },
+            "title": "Household income"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "East",
+                "East Midlands",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "Wales",
+                "West Midlands",
+                "Yorkshire and the Humber"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-1-4",
+  "title": "Proportion of population that feel safe walking alone around the area they live"
+}

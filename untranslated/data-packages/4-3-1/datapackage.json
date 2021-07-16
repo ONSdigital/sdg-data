@@ -1,0 +1,180 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Education category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Formal",
+                "Non-formal learning",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "19 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "55 to 64",
+                "65 and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "North East",
+                "North West",
+                "Yorkshire and the Humber",
+                "East Midlands",
+                "West Midlands",
+                "East of England",
+                "London",
+                "South East",
+                "South West",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Household income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Less than £14,999",
+                "£15,000 to £29,999",
+                "£30,000 to £44,999",
+                "£45,000 or more",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Deprivation quantile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Quintile 1 (most deprived)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (least deprived)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Employment status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Full-time",
+                "Part-time",
+                "Unemployed",
+                "Mature student",
+                "Retired",
+                "Permanently disabled",
+                "Fulfilling domestic tasks",
+                "Other inactive",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Highest qualification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Degree or equivalent",
+                "Higher Education",
+                "A level or equivalent",
+                "GCSE or equivalent",
+                "Other qualification",
+                "No qualification",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disability and/or work-limiting disabled",
+                "No disability",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country of birth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Born in UK",
+                "Not born in UK",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-3-1",
+  "title": "global_indicators.4-3-1-title"
+}

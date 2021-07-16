@@ -1,0 +1,73 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Abuse type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Contact sexual abuse",
+                "Non-contact sexual abuse",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Contact sexual abuse type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rape or assault by penetration (including attempts)",
+                "Other contact sexual abuse",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-2-3",
+  "title": "global_indicators.16-2-3-title"
+}

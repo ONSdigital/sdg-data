@@ -1,0 +1,98 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "Scotland",
+                "Wales",
+                "Northern Ireland",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Energy category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Low carbon electricity",
+                "Low carbon heat",
+                "Energy from waste  biomass",
+                "Energy efficient products",
+                "Low carbon services",
+                "Low emission vehicles",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Energy sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Offshore wind",
+                "Onshore wind",
+                "Solar photovoltaic",
+                "Hydropower",
+                "Nuclear",
+                "Renewable heat",
+                "Renewable combined heat and power",
+                "Bioenergy",
+                "Alternative fuels",
+                "Energy efficient lighting",
+                "Other energy efficient products",
+                "Energy monitoring, saving or control systems",
+                "Low carbon financial and advisory services",
+                "Low emission vehicles and infrastructure",
+                "Fuels cells and energy storage",
+                "Carbon capture and storage",
+                "Other renewable electricity",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "archived-7-b-1",
+  "title": "global_indicators.7-b-1-title"
+}

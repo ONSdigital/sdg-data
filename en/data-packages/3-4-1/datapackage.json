@@ -1,0 +1,144 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "30 to 34",
+                "35 to 39",
+                "40 to 44",
+                "45 to 49",
+                "50 to 54",
+                "55 to 59",
+                "60 to 64",
+                "65 to 69"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Chronic respiratory disease type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Chronic lower respiratory diseases",
+                "Lung diseases due to external agents",
+                "Other diseases of pleura",
+                "Other diseases of upper respiratory tract",
+                "Other respiratory diseases principally affecting the interstitium",
+                "Other respiratory disorders",
+                "Respiratory failure, not elsewhere classified",
+                "Suppurative and necrotic conditions of lower respiratory tract"
+              ]
+            },
+            "title": "Chronic respiratory disease type"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "England",
+                "England and Wales",
+                "Wales"
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "East Midlands",
+                "East of England",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and the Humber"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Men",
+                "Women"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Cancer",
+                "Cardiovascular disease",
+                "Chronic respiratory disease",
+                "Diabetes"
+              ]
+            },
+            "title": "Type of disease"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-4-1",
+  "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
+}

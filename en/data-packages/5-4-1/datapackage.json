@@ -1,0 +1,93 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "16 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "55 to 64",
+                "65 to 74",
+                "75 and over"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Disability Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Disabled (GSS harmonised)",
+                "Non-disabled (GSS harmonised)"
+              ]
+            },
+            "title": "Disability Status"
+          },
+          {
+            "name": "Number of hours",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "10 to 19 hours",
+                "2 to 4 hours",
+                "20 to 34 hours",
+                "35 to 49 hours",
+                "5 to 9 hours",
+                "50 or more hours",
+                "Less than 2 hours"
+              ]
+            },
+            "title": "Number of hours"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-4-1",
+  "title": "Proportion of time spent on unpaid domestic and care work, by sex, age and location"
+}

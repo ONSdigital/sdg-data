@@ -1,0 +1,156 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "55 to 64",
+                "65 to 74",
+                "75 and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "Wales",
+                "Northern Ireland",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Household size",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5 or more",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Children under 16 in the household",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Yes",
+                "No",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Children under 6 in the household",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Yes",
+                "No",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Working Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "In work",
+                "Retired",
+                "Unemployed",
+                "Other",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Household income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "£10,399 or less",
+                "£10,400 to £25,999",
+                "£26,000 to £51,999",
+                "£52,000 or more",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Food insecurity category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Low or very low food security",
+                "Very low food security",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-1-2",
+  "title": "global_indicators.2-1-2-title"
+}

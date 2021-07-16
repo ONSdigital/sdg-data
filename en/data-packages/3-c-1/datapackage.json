@@ -1,0 +1,100 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Occupation minor group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Health associate professionals",
+                "Health professionals",
+                "Nursing and midwifery professionals",
+                "Therapy professionals"
+              ]
+            },
+            "title": "Occupation minor group"
+          },
+          {
+            "name": "Occupation unit group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Dental practitioners",
+                "Dispensing opticians",
+                "Health associate professionals not elsewhere classified",
+                "Health professionals not elsewhere classifed",
+                "Medical and dental technicians",
+                "Medical practitioners",
+                "Medical radiographers",
+                "Midwives",
+                "Nurses",
+                "Occupational therapists",
+                "Ophthalmic opticians",
+                "Paramedics",
+                "Pharmaceutical technicians",
+                "Pharmacists",
+                "Physiotherapists",
+                "Podiatrists",
+                "Psychologists",
+                "Speech and language therapists",
+                "Therapy professionals not elsewhere classifed"
+              ]
+            },
+            "title": "Occupation unit group"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-c-1",
+  "title": "Health worker density and distribution"
+}

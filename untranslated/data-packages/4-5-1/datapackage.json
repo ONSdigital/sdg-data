@@ -1,0 +1,105 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gender Parity Index (GPI)",
+                "Location Parity Index (LPI)",
+                "Social Economic Status (SES) Parity Index",
+                "Immigration Parity Index",
+                "Language Parity Index",
+                "Adjusted Gender Parity Index (GPIA)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Educational measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of students",
+                "Gross intake ratio",
+                "Out-of-school-rate",
+                "Participation rate in organised learning",
+                "Gross enrolment ratio",
+                "Participation rate in formal and non-formal education and training in the previous 12 months",
+                "Proportion of youth and adults",
+                "Educational attainment rate (educational stage completed by population aged 25 years and over)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of students at the end of or during lower secondary achieving at least a minimum proficiency level in reading",
+                "Proportion of students at the end of lower secondary education achieving at least a minimum proficiency level in reading",
+                "Proportion of students at the end of or during lower secondary education achieving at least a minimum proficiency level in reading",
+                "Proportion of students at the end of or during lower secondary achieving at least a minimum proficiency level in mathematics",
+                "Proportion of students at the end of or during lower secondary education achieving at least a minimum proficiency level in mathematics",
+                "Gross intake ratio to the last grade of primary education",
+                "Gross intake ratio to the last grade of lower secondary general education",
+                "Out-of-school rate for children of primary school age",
+                "Out-of-school rate for adolescents of lower secondary school age",
+                "Out-of-school rate for youth of upper secondary school age",
+                "Out-of-school rate for children and adolescents of primary and lower secondary school age",
+                "Out-of-school rate for adolescents and youth of lower and upper secondary school age",
+                "Out-of-school rate for children, adolescents and youth of primary, lower secondary and upper secondary school age",
+                "Adjusted net enrolment rate, one year before the official primary entry age",
+                "Gross enrolment ratio, early childhood education",
+                "Gross early childhood enrolment ratio in early childhood educational development",
+                "Gross early childhood enrolment ratio in pre-primary education",
+                "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months",
+                "Gross enrolment ratio for tertiary education",
+                "Proportion of 15-24 year-olds enrolled in vocational education",
+                "Proportion of youth and adults who have copied or moved a file or folder",
+                "Proportion of youth and adults who have created electronic presentations with presentation software",
+                "Proportion of youth and adults who have used copy and paste tools to duplicate or move information within a document",
+                "Proportion of youth and adults who have used basic arithmetic formulae in a spreadsheet",
+                "Proportion of youth and adults who have found, downloaded, installed and configured software",
+                "Proportion of youth and adults who have Transferred files between a computer and other devices",
+                "Proportion of youth and adults who have wrote a computer program using a specialised programming language",
+                "Proportion of youth and adults who have connected and installed new devices",
+                "Educational attainment rate, completed primary education or higher, population 25+ years",
+                "Educational attainment rate, completed lower secondary education or higher, population 25+ years",
+                "Educational attainment rate, completed upper secondary education or higher, population 25+ years",
+                "Educational attainment rate, completed post-secondary non-tertiary education or higher, population 25+ years",
+                "Educational attainment rate, completed short-cycle tertiary education or higher, population 25+ years",
+                "Educational attainment rate, completed Bachelor's or equivalent education or higher, population 25+ years",
+                "Educational attainment rate, completed Master's or equivalent education or higher, population 25+ years",
+                "Educational attainment rate, completed Doctoral or equivalent education, population 25+ years",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-5-1",
+  "title": "global_indicators.4-5-1-title"
+}

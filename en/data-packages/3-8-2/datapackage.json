@@ -1,0 +1,141 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "29 and under",
+                "30 to 49",
+                "50 to 64",
+                "65 to 74",
+                "75 and over"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Health product or service",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Hospital services",
+                "Medical products appliances and equipment"
+              ]
+            },
+            "title": "Health product or service"
+          },
+          {
+            "name": "Health product or service category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Inpatient hospital services",
+                "Medicines prescriptions and healthcare products",
+                "Outpatient services",
+                "Spectacles lenses accessories and repairs"
+              ]
+            },
+            "title": "Health product or service category"
+          },
+          {
+            "name": "Health product or service sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Accessories or repairs to spectacles or lenses",
+                "Medicines and medical goods (not NHS)",
+                "National Health Service (NHS) medical optical dental and medical auxiliary services",
+                "National Health Service (NHS) prescription charges and payments",
+                "Nonoptical appliances and equipment (wheelchairs batteries for hearing aids shoe buildup)",
+                "Other medical products (plasters condoms hot water bottles)",
+                "Other services",
+                "Private medical optical dental and medical auxiliary services",
+                "Purchase of spectacles lenses prescription sunglasses"
+              ]
+            },
+            "title": "Health product or service sub-category"
+          },
+          {
+            "name": "Occupation category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Higher professional",
+                "Intermediate occupations",
+                "Large employers and higher managerial",
+                "Long term unemployed",
+                "Lower managerial and professional",
+                "Lower supervisory",
+                "Occupation not stated",
+                "Routine",
+                "Semiroutine",
+                "Small employers",
+                "Students"
+              ]
+            },
+            "title": "Occupation category"
+          },
+          {
+            "name": "Tenure category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Owner occupied",
+                "Private rented",
+                "Social rented"
+              ]
+            },
+            "title": "Tenure category"
+          },
+          {
+            "name": "Tenure sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Council",
+                "Owned outright",
+                "Owner occupied buying with a mortgage",
+                "Registered social landlord",
+                "Rent free",
+                "Rent paid furnished",
+                "Rent paid unfurnished"
+              ]
+            },
+            "title": "Tenure sub-category"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-8-2",
+  "title": "Proportion of population with large household expenditures on health as a share of total household expenditure or income"
+}

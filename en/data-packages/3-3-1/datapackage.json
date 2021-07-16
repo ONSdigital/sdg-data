@@ -1,0 +1,117 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "15 to 24",
+                "25 to 34",
+                "35 to 49",
+                "50 to 64",
+                "Over 65",
+                "Under 15"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales"
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Black African",
+                "Non Black African"
+              ]
+            },
+            "title": "Ethnicity"
+          },
+          {
+            "name": "Exposure category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Heterosexual contact",
+                "Injecting drug use",
+                "Sex between men"
+              ]
+            },
+            "title": "Exposure category"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-3-1",
+  "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
+}

@@ -1,0 +1,53 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Alignment across government levels",
+                "Financing for policy coherence",
+                "Institutionalization of Political Commitment",
+                "Inter-ministerial and cross-sectoral coordination",
+                "Long-term considerations in decision-making",
+                "Monitoring and reporting for policy coherence",
+                "Participatory processes",
+                "Policy linkages"
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-14-1",
+  "title": "Number of countries with mechanisms in place to enhance policy coherence of sustainable development"
+}

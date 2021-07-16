@@ -1,0 +1,239 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Abuse type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Indecent exposure or unwanted touching",
+                "Rape or assault by penetration (including attempts)"
+              ]
+            },
+            "title": "Abuse type"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "16 to 19",
+                "20 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "55 to 59"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Disabled (GSS harmonised)",
+                "Non-disabled (GSS harmonised)"
+              ]
+            },
+            "title": "Disability status"
+          },
+          {
+            "name": "Ethnic group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "African",
+                "Any other Asian background",
+                "Any other White background",
+                "Any other ethnic group",
+                "Bangladeshi",
+                "Caribbean",
+                "Chinese",
+                "English/Welsh/Scottish/Northern Irish/British",
+                "Indian",
+                "Irish",
+                "Pakistani",
+                "White and Black Caribbean"
+              ]
+            },
+            "title": "Ethnic group"
+          },
+          {
+            "name": "Ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Asian/Asian British",
+                "Black/African/Caribbean/Black British",
+                "Mixed/Multiple ethnic groups",
+                "Other ethnic group",
+                "White"
+              ]
+            },
+            "title": "Ethnicity"
+          },
+          {
+            "name": "Frequency of sexual assault",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "More than three times",
+                "Once",
+                "Three times",
+                "Twice"
+              ]
+            },
+            "title": "Frequency of sexual assault"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Highest qualification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Apprenticeship or A/AS level",
+                "Degree or diploma",
+                "No qualification",
+                "O level/GCSE",
+                "Other qualification"
+              ]
+            },
+            "title": "Highest qualification"
+          },
+          {
+            "name": "Household income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Less than £10,000",
+                "No income stated or not enough information provided",
+                "£10,000 to less than £20,000",
+                "£20,000 to less than £30,000",
+                "£30,000 to less than £40,000",
+                "£40,000 to less than £50,000",
+                "£50,000 or more"
+              ]
+            },
+            "title": "Household income"
+          },
+          {
+            "name": "Migratory status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Born in the UK",
+                "Not born in the UK"
+              ]
+            },
+            "title": "Migratory status"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Place of occurrence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "At school/university/place of study",
+                "At the offender's home",
+                "At work",
+                "In a car park",
+                "In a park/other open public place",
+                "In a pub/club/disco",
+                "In own home",
+                "On public transport",
+                "On the street",
+                "Somewhere else"
+              ]
+            },
+            "title": "Place of occurrence"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "East Midlands",
+                "East of England",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "Wales",
+                "West Midlands",
+                "Yorkshire and the Humber"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Relationship to perpetrator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Family member",
+                "Other known",
+                "Partner/ex-partner",
+                "Stranger"
+              ]
+            },
+            "title": "Relationship to perpetrator"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-2-2",
+  "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
+}

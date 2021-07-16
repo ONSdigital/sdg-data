@@ -1,0 +1,178 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "16 to 19 *",
+                "16 to 24 #",
+                "20 to 24 *",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "55 and over #",
+                "55 to 59 *",
+                "60 to 64 *",
+                "65 and over *"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "England",
+                "England and Wales *",
+                "Scotland",
+                "Wales"
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Industry sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Accommodation and food service activities #",
+                "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use #",
+                "Administrative and support service activities #",
+                "Agriculture, forestry and fishing",
+                "Arts, entertainment and recreation #",
+                "Construction",
+                "Education #",
+                "Electricity, gas, steam and air conditioning supply #",
+                "Financial and insurance activities #",
+                "Gas, electricity and water supply; sewerage, waste and recycling *",
+                "Human health and social work activities #",
+                "Information and communication #",
+                "Manufacturing",
+                "Mining and quarrying",
+                "Other service activities #",
+                "Professional, scientific and technical activities #",
+                "Public administration and defence; compulsory social security #",
+                "Real estate activities #",
+                "Service industries *",
+                "Transportation and storage #",
+                "Water supply; sewerage, waste management and remediation activities #",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles #"
+              ]
+            },
+            "title": "Industry sector"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Administrative and secretarial occupations",
+                "Associate professional and technical occupations",
+                "Caring, leisure and other service occupations",
+                "Elementary occupations",
+                "Managers, directors and senior officials",
+                "Process, plant and machine operatives",
+                "Professional occupations",
+                "Sales and customer service occupations",
+                "Skilled trades occupations"
+              ]
+            },
+            "title": "Occupation"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "East Midlands",
+                "East of England",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and the Humber"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Fatal injury (rate per 100,000 workers)",
+                "Non-fatal injury (rate per 100,000 workers)"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-8-1",
+  "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
+}

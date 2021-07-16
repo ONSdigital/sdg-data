@@ -1,0 +1,146 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "18 to 24",
+                "24 to 29",
+                "30 to 34",
+                "35 to 39",
+                "40 to 44",
+                "45 to 49",
+                "50 to 54",
+                "55 to 59",
+                "60 to 64",
+                "65 to 69",
+                "70 to 74",
+                "75 to 79",
+                "80 to 84",
+                "85+"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Country of birth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Born in EU",
+                "Born in UK",
+                "Not born in EU"
+              ]
+            },
+            "title": "Country of birth"
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Limiting long-term health condition"
+              ]
+            },
+            "title": "Disability status"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Income quartile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1st",
+                "2nd",
+                "3rd",
+                "4th"
+              ]
+            },
+            "title": "Income quartile"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "East Midlands",
+                "East of England",
+                "London",
+                "North East",
+                "North West",
+                "Northern Ireland",
+                "Scotland",
+                "South East",
+                "South West",
+                "Wales",
+                "West Midlands",
+                "Yorkshire and the Humber"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-6-2",
+  "title": "Proportion of population satisfied with their last experience of public services"
+}

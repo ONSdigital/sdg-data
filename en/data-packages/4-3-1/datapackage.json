@@ -1,0 +1,196 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "19 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "55 to 64",
+                "65 and over"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Country of birth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Born in UK",
+                "Not born in UK"
+              ]
+            },
+            "title": "Country of birth"
+          },
+          {
+            "name": "Deprivation quantile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Quintile 1 (most deprived)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (least deprived)"
+              ]
+            },
+            "title": "Deprivation quantile"
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Disability and/or work-limiting disabled",
+                "No disability"
+              ]
+            },
+            "title": "Disability status"
+          },
+          {
+            "name": "Education category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Formal",
+                "Non-formal learning"
+              ]
+            },
+            "title": "Education category"
+          },
+          {
+            "name": "Employment status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Fulfilling domestic tasks",
+                "Full-time",
+                "Mature student",
+                "Other inactive",
+                "Part-time",
+                "Permanently disabled",
+                "Retired",
+                "Unemployed"
+              ]
+            },
+            "title": "Employment status"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Highest qualification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "A level or equivalent",
+                "Degree or equivalent",
+                "GCSE or equivalent",
+                "Higher Education",
+                "No qualification",
+                "Other qualification"
+              ]
+            },
+            "title": "Highest qualification"
+          },
+          {
+            "name": "Household income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Less than £14,999",
+                "£15,000 to £29,999",
+                "£30,000 to £44,999",
+                "£45,000 or more"
+              ]
+            },
+            "title": "Household income"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "East Midlands",
+                "East of England",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and the Humber"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-3-1",
+  "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
+}

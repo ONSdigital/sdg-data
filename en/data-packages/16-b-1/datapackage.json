@@ -1,0 +1,151 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "16 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "55 to 64",
+                "65 to 74",
+                "75 and over"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Disabled (GSS harmonised)",
+                "Long-term health condition",
+                "Long-term health condition - Does not limit activities",
+                "No long-term health condition"
+              ]
+            },
+            "title": "Disability status"
+          },
+          {
+            "name": "Ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Asian/Asian British",
+                "Black/African/Caribbean/Black British",
+                "Mixed/multiple ethnic groups",
+                "Other ethnic group",
+                "White"
+              ]
+            },
+            "title": "Ethnicity"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Household income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Less than £10,000",
+                "No income stated or not enough information provided",
+                "£10,000 to less than £20,000",
+                "£20,000 to less than £30,000",
+                "£30,000 to less than £40,000",
+                "£40,000 to less than £50,000",
+                "£50,000 or more"
+              ]
+            },
+            "title": "Household income"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Men",
+                "Women"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of hate crime",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Disability",
+                "Race",
+                "Religion",
+                "Sexual orientation"
+              ]
+            },
+            "title": "Type of hate crime"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Urban or rural",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Rural",
+                "Urban"
+              ]
+            },
+            "title": "Urban or rural"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-b-1",
+  "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
+}

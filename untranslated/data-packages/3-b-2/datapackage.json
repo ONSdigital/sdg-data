@@ -1,0 +1,83 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Flow of Official Development Assistance (ODA)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bilateral",
+                "Multilateral",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Aid sub-category (DAC 5 code)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Basic health (122)",
+                "Health, general (121)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Aid description (CRS code)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Basic health care (12220)",
+                "Basic health infrastructure (12230)",
+                "Basic nutrition (12240)",
+                "Health education (12261)",
+                "Health personnel development (12281)",
+                "Infectious disease control (12250)",
+                "Malaria control (12262)",
+                "Tuberculosis control (12263)",
+                "Health policy and administrative management (12110)",
+                "Medical education/training (12181)",
+                "Medical research (12182)",
+                "Medical services (12191)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-b-2",
+  "title": "global_indicators.3-b-2-title"
+}

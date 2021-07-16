@@ -1,0 +1,84 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Growth rate (%)",
+                "Area (000s hectares)",
+                "Tonnes per hectare",
+                "Percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1) Woodland area net change",
+                "2) Above-ground biomass stock",
+                "3) Percentage of woodland within protected areas",
+                "4) Percentage of woodland under long-term management plan",
+                "5) Woodland area under certification scheme",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "Wales",
+                "Scotland",
+                "Northern Ireland",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-2-1",
+  "title": "global_indicators.15-2-1-title"
+}

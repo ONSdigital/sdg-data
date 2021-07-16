@@ -1,0 +1,63 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Observation status",
+            "type": "number",
+            "title": "Observation status"
+          },
+          {
+            "name": "Retirment status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "non-retired",
+                "retired"
+              ]
+            },
+            "title": "Retirment status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "number",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Gini coefficient"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-4-2",
+  "title": "Redistributive impact of fiscal policy"
+}

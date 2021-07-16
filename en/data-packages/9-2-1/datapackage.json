@@ -1,0 +1,159 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Industry higher sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Manufacture of basic metals and metal products",
+                "Manufacture of basic pharmaceutical products and pharmaceutical preparations",
+                "Manufacture of chemicals and chemical products",
+                "Manufacture of coke, and refined petroleum products",
+                "Manufacture of electrical equipment",
+                "Manufacture of food products, beverages and tobacco",
+                "Manufacture of machinery and equipment",
+                "Manufacture of machinery and equipment not elsewhere classified",
+                "Manufacture of rubber and plastics products, & other non-metallic mineral products",
+                "Manufacture of rubber and plastics products, and other non-metallic mineral products",
+                "Manufacture of textiles, wearing apparel and leather products",
+                "Manufacture of transport equipment",
+                "Manufacture of wood and paper products, and printing",
+                "Manufacturing of computer, electronic & optical products",
+                "Manufacturing of computer, electronic and optical products",
+                "Other manufacturing and repair"
+              ]
+            },
+            "title": "Industry higher sub-category"
+          },
+          {
+            "name": "Industry lower sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Building of ships and boats",
+                "Manufacture of air and spacecraft and related machinery",
+                "Manufacture of alcoholic beverages",
+                "Manufacture of bakery and farinaceous products",
+                "Manufacture of basic iron and steel",
+                "Manufacture of cement, lime, plaster and articles of concrete, cement and plaster",
+                "Manufacture of dairy products",
+                "Manufacture of dyestuffs, agro-chemicals",
+                "Manufacture of fabricated metal products, excluding weapons & ammunition",
+                "Manufacture of fabricated metal products, excluding weapons and ammunition",
+                "Manufacture of glass, refractory, clay, porcelain, ceramic, stone products",
+                "Manufacture of grain mill products, starches and starch products",
+                "Manufacture of industrial gases, inorganics and fertilisers (inorganic chemicals)",
+                "Manufacture of other basic metals and casting",
+                "Manufacture of other chemical products",
+                "Manufacture of other food products",
+                "Manufacture of other transport equipment",
+                "Manufacture of paints, varnishes and similar coatings, printing ink and mastics",
+                "Manufacture of petrochemicals",
+                "Manufacture of prepared animal feeds",
+                "Manufacture of soap & detergents, cleaning & polishing, perfumes & toilet preparations",
+                "Manufacture of soap and detergents, cleaning and polishing, perfumes and toilet preparations",
+                "Manufacture of soft drinks; production of mineral waters and other bottled waters",
+                "Manufacture of vegetable and animal oils and fats",
+                "Manufacture of weapons and ammunition",
+                "Processing and preserving of fish, crustaceans, molluscs, fruit and vegetables",
+                "Processing and preserving of meat and production of meat products",
+                "Repair and maintenance of aircraft and spacecraft",
+                "Repair and maintenance of ships and boats",
+                "Rest of repair; installation"
+              ]
+            },
+            "title": "Industry lower sub-category"
+          },
+          {
+            "name": "Industry middle sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Manufacture of basic metals",
+                "Manufacture of basic pharmaceutical products and pharmaceutical preparations",
+                "Manufacture of beverages",
+                "Manufacture of chemicals and chemical products",
+                "Manufacture of coke and refined petroleum products",
+                "Manufacture of computer, electronic and optical products",
+                "Manufacture of electrical equipment",
+                "Manufacture of fabricated metal products, except machinery and equipment",
+                "Manufacture of food products",
+                "Manufacture of furniture",
+                "Manufacture of leather and related products",
+                "Manufacture of machinery and equipment",
+                "Manufacture of machinery and equipmentnot elsewhere classified",
+                "Manufacture of motor vehicles, trailers and semi-trailers",
+                "Manufacture of other non-metallic mineral products",
+                "Manufacture of other transport equipment",
+                "Manufacture of paper and paper products",
+                "Manufacture of rubber and plastic products",
+                "Manufacture of textiles",
+                "Manufacture of tobacco products",
+                "Manufacture of wearing apparel",
+                "Manufacture of wood & products of wood & cork, except furniture; manuf. of articles of straw",
+                "Manufacture of wood and products of wood and cork, except furniture; manufacture of articles of straw",
+                "Other manufacturing",
+                "Printing and reproduction of recorded media",
+                "Repair and installation of machinery and equipment"
+              ]
+            },
+            "title": "Industry middle sub-category"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "GBP per capita",
+                "Percentage (%) of GDP"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-2-1",
+  "title": "Manufacturing value added as a proportion of GDP and per capita"
+}

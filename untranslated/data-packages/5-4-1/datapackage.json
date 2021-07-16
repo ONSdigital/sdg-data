@@ -1,0 +1,86 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "55 to 64",
+                "65 to 74",
+                "75 and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disabled (GSS harmonised)",
+                "Non-disabled (GSS harmonised)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Number of hours",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Less than 2 hours",
+                "2 to 4 hours",
+                "5 to 9 hours",
+                "10 to 19 hours",
+                "20 to 34 hours",
+                "35 to 49 hours",
+                "50 or more hours",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-4-1",
+  "title": "global_indicators.5-4-1-title"
+}

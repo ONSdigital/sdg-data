@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "A",
+                "B"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-b-3",
+  "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis"
+}

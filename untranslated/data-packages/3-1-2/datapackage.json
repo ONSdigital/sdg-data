@@ -1,0 +1,121 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "19 and under",
+                "20 to 24",
+                "25 to 29",
+                "30 to 34",
+                "35 to 39",
+                "40 to 44",
+                "45 and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Number of previous live births",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                "1",
+                "2",
+                "3",
+                "4 and over",
+                "Not stated",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "Wales",
+                "Outside England and Wales",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "North East",
+                "North West",
+                "Yorkshire and the Humber",
+                "East Midlands",
+                "West Midlands",
+                "East of England",
+                "London",
+                "South East",
+                "South West",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Health Board",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Betsi Cadwaladr University",
+                "Powys Teaching",
+                "Hywel Dda University",
+                "Abertawe Bro Morgannwg University",
+                "Cwm Taf University",
+                "Aneurin Bevan University",
+                "Cardiff and Vale University",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-1-2",
+  "title": "global_indicators.3-1-2-title"
+}

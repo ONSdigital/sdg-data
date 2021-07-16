@@ -1,0 +1,145 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Local Authority",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Aberdeen City",
+                "Armagh",
+                "Barnstaple",
+                "Belfast",
+                "Birkenhead",
+                "Birmingham",
+                "Blackpool",
+                "Bournemouth",
+                "Brighton and Hove",
+                "Bristol",
+                "Cardiff",
+                "Carlisle",
+                "Chepstow",
+                "Chesterfield",
+                "City of Edinburgh",
+                "City of London",
+                "Coventry",
+                "Derry",
+                "Didcot",
+                "Eastbourne",
+                "Eccles",
+                "Erith",
+                "Gibraltar",
+                "Gillingham",
+                "Glasgow City",
+                "Grangemouth",
+                "Harlington",
+                "Hull",
+                "Inverness",
+                "Kingston upon Hull",
+                "Leamington Spa",
+                "Leeds",
+                "Leicester",
+                "Liverpool",
+                "Londonderry",
+                "Manchester",
+                "Middlesbrough",
+                "Newcastle upon Tyne",
+                "Newport",
+                "Northampton",
+                "Norwich",
+                "Nottingham",
+                "Oxford",
+                "Penicuik",
+                "Plymouth",
+                "Port Talbot",
+                "Portsmouth",
+                "Preston",
+                "Prestonpans",
+                "Reading",
+                "Rochester",
+                "Salford",
+                "Saltash",
+                "Sandy",
+                "Scunthorpe",
+                "Sheffield",
+                "Southampton",
+                "Southend-on-Sea",
+                "Speke",
+                "Stanford le Hope",
+                "Stanmore",
+                "Stockbridge",
+                "Stockton-on-Tees",
+                "Stoke-on-Trent",
+                "Storrington",
+                "Sunderland",
+                "Swansea",
+                "Thurrock",
+                "Warrington",
+                "Warwick",
+                "Wigan",
+                "Wirral",
+                "Wrexham",
+                "York"
+              ]
+            },
+            "title": "Local Authority"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Size of particulate matter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "PM 10"
+              ]
+            },
+            "title": "Size of particulate matter"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-6-2",
+  "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
+}

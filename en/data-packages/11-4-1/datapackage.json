@@ -1,0 +1,77 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Area of spending",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Broadcasting and publishing services",
+                "Cultural services",
+                "Environmental protection not elsewhere classified",
+                "Pollution abatement",
+                "Protection of biodiversity and landscape",
+                "Recreation, culture and religion not elsewhere classified",
+                "Recreational and sporting services",
+                "Religious and other community services",
+                "Research and development environmental protection",
+                "Research and development recreation, culture and religion",
+                "Waste management",
+                "Waste water management"
+              ]
+            },
+            "title": "Area of spending"
+          },
+          {
+            "name": "Type of expenditure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Environmental protection",
+                "Recreation, culture and religion"
+              ]
+            },
+            "title": "Type of expenditure"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Central government expenditure (GBP (£million) per capita)",
+                "General government expenditure (GBP (£million) per capita)",
+                "Local government expenditure (GBP (£million) per capita)"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-4-1",
+  "title": "Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)"
+}

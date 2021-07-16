@@ -1,0 +1,212 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Abuse sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Force",
+                "Indecent exposure or unwanted sexual touching by a partner",
+                "Non-physical abuse (emotional, financial)",
+                "Sexual assault by rape or penetration (including attempts)",
+                "Threats",
+                "Threats or force"
+              ]
+            },
+            "title": "Abuse sub-category"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "16 to 19",
+                "20 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "55 to 59",
+                "60 to 74"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Country of birth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Born in UK",
+                "Not born in UK"
+              ]
+            },
+            "title": "Country of birth"
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Disabled (GSS harmonised)",
+                "Non-disabled (GSS harmonised)"
+              ]
+            },
+            "title": "Disability status"
+          },
+          {
+            "name": "Ethnic group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "African",
+                "Any other Asian background",
+                "Any other White background",
+                "Bangladeshi",
+                "Caribbean",
+                "Chinese",
+                "English/Welsh/Scottish/Northern Irish/British",
+                "Indian",
+                "Pakistani"
+              ]
+            },
+            "title": "Ethnic group"
+          },
+          {
+            "name": "Ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Asian/Asian British",
+                "Black/African/Caribbean/Black British",
+                "Other ethnic group",
+                "White"
+              ]
+            },
+            "title": "Ethnicity"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Highest qualification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Apprenticeship or A/AS level",
+                "Degree or diploma",
+                "No qualification",
+                "O level/GCSE",
+                "Other qualification"
+              ]
+            },
+            "title": "Highest qualification"
+          },
+          {
+            "name": "Income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Less than £10,400",
+                "No income stated or not enough information provided",
+                "£10,400 to less than £20,800",
+                "£20,800 to less than £31,200",
+                "£31,200 to less than £41,600",
+                "£41,600 to less than £52,000",
+                "£52,000 or more"
+              ]
+            },
+            "title": "Income"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "East Midlands",
+                "East of England",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "Wales",
+                "West Midlands",
+                "Yorkshire and the Humber"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage of adults aged 16 to 59 (%)",
+                "Percentage of adults aged 16 to 74 (%)"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Type of partner abuse",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Non-sexual",
+                "Sexual (including attempts)",
+                "Stalking by a partner/ex-partner"
+              ]
+            },
+            "title": "Type of partner abuse"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-2-1",
+  "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age"
+}

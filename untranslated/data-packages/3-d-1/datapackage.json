@@ -1,0 +1,62 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "IHR core capacity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Legislation and financing",
+                "IHR Coordination and National IHR Focal Point Functions",
+                "Zoonotic Events and the Human–animal Interface",
+                "Food Safety",
+                "Laboratory",
+                "Surveillance",
+                "Human Resources",
+                "National Health Emergency Framework",
+                "Health Service Provision",
+                "Risk Communication",
+                "Points of Entry",
+                "Chemical Events",
+                "Radiation Emergencies",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-d-1",
+  "title": "global_indicators.3-d-1-title"
+}

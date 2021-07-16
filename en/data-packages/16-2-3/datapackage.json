@@ -1,0 +1,81 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Abuse type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Contact sexual abuse",
+                "Non-contact sexual abuse"
+              ]
+            },
+            "title": "Abuse type"
+          },
+          {
+            "name": "Contact sexual abuse type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Other contact sexual abuse",
+                "Rape or assault by penetration (including attempts)"
+              ]
+            },
+            "title": "Contact sexual abuse type"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-2-3",
+  "title": "Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18"
+}

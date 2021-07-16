@@ -1,0 +1,99 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Household Waste disposal routes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Disposed to sewer",
+                "Home composted",
+                "LA collected organics",
+                "LA collected other",
+                "LA collected residual waste"
+              ]
+            },
+            "title": "Household Waste disposal routes"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Hospitality and Food Serivces",
+                "Manufacture",
+                "Retail"
+              ]
+            },
+            "title": "Sector"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Food (Kilogrammes per person)",
+                "Food (Kilotonnes)",
+                "Food and inedible waste (Kilogrammes per person)",
+                "Food and inedible waste (Kilotonnes)"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Waste type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Household",
+                "Supply chain"
+              ]
+            },
+            "title": "Waste type"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-3-1",
+  "title": "(a) Food loss index and (b) food waste index"
+}

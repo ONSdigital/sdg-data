@@ -1,0 +1,72 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Type of government",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Central government",
+                "Local government",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Source of revenue",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Taxes",
+                "National insurance contributions",
+                "Interest and dividends",
+                "Other receipts",
+                "Market output and output for own final use",
+                "Pension contributions",
+                "Current grants to central government",
+                "Capital transfers to central government",
+                "Less gross operating surplus",
+                "Market output",
+                "Current grants from central government",
+                "Capital grants from private sector",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-1-1",
+  "title": "global_indicators.17-1-1-title"
+}

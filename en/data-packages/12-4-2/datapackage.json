@@ -1,0 +1,101 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Agriculture, forestry and fishing",
+                "Construction",
+                "Electricity, gas, steam and air conditioning supply",
+                "Households",
+                "Manufacture of basic metals and fabricated metal products, except machinery and equipment",
+                "Manufacture of chemical, pharmaceutical, rubber and plastic products",
+                "Manufacture of coke and refined petroleum products",
+                "Manufacture of computer, electronic and optical products, electrical equipment, motor vehicles and other transport equipment",
+                "Manufacture of food products, beverages and tobacco products",
+                "Manufacture of furniture, jewellery, musical instruments, toys, repair and installation or machinery and equipment",
+                "Manufacture of other non-metallic mineral products",
+                "Manufacture of paper and paper products, printing and reproduction or recorded media",
+                "Manufacture of textiles, wearing apparel, leather and related products",
+                "Manufacture of wood and of products of wood and cork, except furniture, manufacture of articles of straw and plaiting materials",
+                "Mining and quarrying",
+                "Services (except wholesale of waste and scrap)",
+                "Water collection, treatment and supply, sewerage, remediation activities and other waste management services"
+              ]
+            },
+            "title": "Economic activity"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Treatment type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Deposit onto or into land",
+                "Energy recovery",
+                "Incineration",
+                "Land treatment and release into water bodies",
+                "Recovery other than energy recovery - Backfilling",
+                "Recovery other than energy recovery - Except backfilling"
+              ]
+            },
+            "title": "Treatment type"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Hazardous waste generated (absolute number)",
+                "Hazardous waste generated (tonnes per capita)",
+                "Percentage of hazardous waste treated (%)"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-4-2",
+  "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
+}

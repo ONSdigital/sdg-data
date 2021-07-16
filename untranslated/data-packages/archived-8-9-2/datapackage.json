@@ -1,0 +1,142 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Tourism sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Accommodation",
+                "Food and beverage serving activities",
+                "Railway passenger transport",
+                "Road passenger transport",
+                "Water passenger transport",
+                "Air passenger transport",
+                "Renting and leasing of motor vehicles",
+                "Travel agencies and other reservation service activities",
+                "Cultural activities",
+                "Sport and recreational activities",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Tourism sub-sector (upper)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Accommodation",
+                "Real estate activities",
+                "Restaurants and mobile food service activities",
+                "Other food services activities",
+                "Beverage serving activities",
+                "Passenger rail transport; interurban",
+                "Urban and suburban passenger railway transportation by underground; metro and similar systems",
+                "Other urban; suburban or metropolitan area passenger land transport (not including underground; metro and the like)",
+                "Taxi operation",
+                "Other passenger land transport",
+                "Sea and coastal passenger water transport",
+                "Inland passenger water transport",
+                "Scheduled passenger air transport",
+                "Non-scheduled passenger air transport",
+                "Renting and leasing of cars and light motor vehicles",
+                "Renting and leasing of trucks",
+                "Travel agency and tour operator activities",
+                "Activities of tourist guides",
+                "Creative; arts and entertainment activities",
+                "Museums activities",
+                "Operation of historical sites and buildings and similar visitor attractions",
+                "Botanical and zoological gardens and nature reserves activities",
+                "Renting and leasing of recreational and sports goods",
+                "Gambling and betting activities",
+                "Operation of sports facilities",
+                "Activities of racehorse owners",
+                "Other sports activities",
+                "Amusement and recreation activities",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Tourism sub-sector (middle)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hotels and similar accommodation",
+                "Holiday and other short-stay accommodation",
+                "Camping grounds; recreational vehicle parks and trailer parks",
+                "Other accommodation",
+                "Buying and selling of own real estate",
+                "Renting and operating of own or leased real estate",
+                "Real estate activities on a fee or contract basis",
+                "Licensed restaurants",
+                "Unlicensed restaurants and cafes",
+                "Take-away food shops and mobile food stands",
+                "Licensed clubs",
+                "Public houses and bars",
+                "Travel agency activities",
+                "Tour operator activities",
+                "Performing arts",
+                "Support activities to performing arts",
+                "Artistic creation",
+                "Operation of arts facilities",
+                "Activities of amusement parks and theme parks",
+                "Other amusement and recreation activities not elsewhere classified",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Tourism sub-sector (lower)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Holiday centres and villages",
+                "Holiday and other collective accommodation",
+                "Other holiday and other collective accommodation",
+                "Renting and operating of Housing Association real estate",
+                "Letting and operating of conference and exhibition centres",
+                "Other letting and operating of own or leased real estate",
+                "Real estate agencies",
+                "Management of real estate on a fee or contract basis",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "archived-8-9-2",
+  "title": "global_indicators.8-9-2-title"
+}

@@ -1,0 +1,107 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Cause of death",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Exposure to excessive natural cold",
+                "Exposure to excessive natural heat",
+                "Exposure to other and unspecified forces of nature",
+                "Exposure to sunlight",
+                "Victim of avalanche, landslide and other earth movements",
+                "Victim of cataclysmic storm",
+                "Victim of earthquake",
+                "Victim of flood",
+                "Victim of lightning",
+                "Victim of volcanic eruption"
+              ]
+            },
+            "title": "Cause of death"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "England",
+                "England and Wales",
+                "Wales"
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Number of Deaths",
+                "Rate per 100,000 population"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-5-1",
+  "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+}

@@ -1,0 +1,80 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Inputs",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "All inputs",
+                "Labour inputs"
+              ]
+            },
+            "title": "Inputs"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Outputs",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "All outputs"
+              ]
+            },
+            "title": "Outputs"
+          },
+          {
+            "name": "Productivity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Labour productivity",
+                "Total factor productivity"
+              ]
+            },
+            "title": "Productivity"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-3-1",
+  "title": "Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size"
+}

@@ -1,0 +1,82 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "15 and under",
+                "16 to 17",
+                "18 to 19",
+                "20 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 and over"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Main method of contraception",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Contraceptive patch",
+                "Female condom",
+                "IU device",
+                "IU system",
+                "Implant",
+                "Injectable contraceptive",
+                "Male condom",
+                "Natural family planning incl. rhythm method",
+                "Oral contraceptives",
+                "Other methods"
+              ]
+            },
+            "title": "Main method of contraception"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-6-1",
+  "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
+}

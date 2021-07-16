@@ -1,0 +1,106 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "16 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "55 to 59",
+                "60 to 64",
+                "65 to 74",
+                "75 to 84",
+                "85 and over"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Bank account category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Any Direct Payment Account (excluding POCAs)",
+                "Any Direct Payment Account (including POCAs)",
+                "Any other type of asset",
+                "Any type of account (excluding POCAs)",
+                "Any type of account (including POCAs)",
+                "Basic Bank account",
+                "Company Share Scheme / profit sharing",
+                "Credit Unions",
+                "Current account",
+                "Endowment Policy (not linked)",
+                "ISA",
+                "NS&I Savings Account",
+                "National Savings Bonds",
+                "No accounts (excluding POCAs)",
+                "No accounts (including POCAs)",
+                "Other Bank / Building Society account",
+                "Post Office Card Account (POCA)",
+                "Premium Bonds",
+                "Stocks and shares / member of a Share Club",
+                "Unit trusts"
+              ]
+            },
+            "title": "Bank account category"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Men",
+                "Women"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-10-2",
+  "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
+}

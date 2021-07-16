@@ -1,0 +1,183 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales"
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Performing/Funding",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Funding research and development",
+                "Performing research and development"
+              ]
+            },
+            "title": "Performing/Funding"
+          },
+          {
+            "name": "Product group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Aerospace",
+                "Agriculture, hunting and forestry; Fishing",
+                "Casting of iron and steel",
+                "Chemicals and chemical products",
+                "Computer programming and information service activities",
+                "Computers and peripheral equipment",
+                "Construction",
+                "Consumer electronics and communication equipment",
+                "Electrical equipment",
+                "Electricity, gas and water supply",
+                "Extractive Industries",
+                "Fabricated metal products except machinery and equipment",
+                "Food products and beverages; Tobacco products",
+                "Machinery and equipment",
+                "Miscellaneous business activities; Technical testing and analysis",
+                "Motor vehicles and parts",
+                "Non-ferrous metals",
+                "Other manufactured goods",
+                "Other non-metallic mineral products",
+                "Other transport equipment",
+                "Pharmaceuticals",
+                "Precision instruments and optical products; Photographic equipment",
+                "Public administration",
+                "Pulp, paper and paper products; Printing; Wood and straw products",
+                "Refined petroleum products and coke oven products",
+                "Research and development services",
+                "Rubber and plastic products",
+                "Sewerage, waste management, remediation activities",
+                "Shipbuilding",
+                "Software development",
+                "Telecommunications",
+                "Textiles, clothing and leather products",
+                "Transport and storage, incl. postal and courier activities",
+                "Wholesale and retail trade"
+              ]
+            },
+            "title": "Product group"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "East Midlands",
+                "East of England",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and the Humber"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Business enterprise",
+                "Government",
+                "Higher education",
+                "Higher education funding councils",
+                "Overseas",
+                "Private non-profit",
+                "Research councils"
+              ]
+            },
+            "title": "Sector"
+          },
+          {
+            "name": "Source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Other",
+                "Other UK Business",
+                "Overseas",
+                "Own funds",
+                "UK Government"
+              ]
+            },
+            "title": "Source"
+          },
+          {
+            "name": "Source sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "European Commission grants",
+                "Other Overseas"
+              ]
+            },
+            "title": "Source sub-category"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-5-1",
+  "title": "Research and development expenditure as a proportion of GDP"
+}

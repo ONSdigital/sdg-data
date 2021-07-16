@@ -1,0 +1,215 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "10 to 14",
+                "15 to 19",
+                "20 to 24",
+                "25 to 29",
+                "30 to 34",
+                "35 to 39",
+                "4 and under",
+                "40 to 44",
+                "45 to 49",
+                "5 to 9",
+                "50 to 54",
+                "55 to 59",
+                "60 to 64",
+                "65 to 69",
+                "70 and over"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales"
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Country of birth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Born in Africa",
+                "Born in Europe (non-UK)",
+                "Born in Indian subcontinent",
+                "Born in UK",
+                "Other country of birth"
+              ]
+            },
+            "title": "Country of birth"
+          },
+          {
+            "name": "Ethnic Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Black African/African descent",
+                "Indian/Pakistani/Bangladesh (ISC)/ISC descent",
+                "Other/Mixed",
+                "White British"
+              ]
+            },
+            "title": "Ethnic Group"
+          },
+          {
+            "name": "Fatality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Fatal",
+                "Non-fatal"
+              ]
+            },
+            "title": "Fatality"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Malaria species",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Mixed",
+                "P. falciparum",
+                "P. knowlesi",
+                "P. malariae",
+                "P. ovale",
+                "P. unspecified",
+                "P. vivax"
+              ]
+            },
+            "title": "Malaria species"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "East Midlands",
+                "East of England",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and the Humber"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Region of travel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Africa unspecified",
+                "Caribbean",
+                "Central America",
+                "Eastern Africa",
+                "Middle Africa",
+                "Northern Africa",
+                "Not stated",
+                "Oceania",
+                "South America",
+                "South-Eastern Asia",
+                "Southern Africa",
+                "Southern Asia",
+                "Western Africa",
+                "Western Asia"
+              ]
+            },
+            "title": "Region of travel"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Number of cases",
+                "Percentage (%) of total cases",
+                "Rate per 100,000 population"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-3-3",
+  "title": "Malaria incidence per 1,000 population"
+}

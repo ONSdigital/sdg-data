@@ -1,0 +1,128 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "16 to 24",
+                "25 to 34",
+                "35 to 54",
+                "55 to 64",
+                "65 and over"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales"
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Socio-economic classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Higher and intermediate managerial, administrative, professional occupations",
+                "Semi-skilled and unskilled manual occupations, unemployed and lowest grade occupations",
+                "Skilled manual occupations",
+                "Supervisory, clerical and junior managerial, administrative, professional occupations"
+              ]
+            },
+            "title": "Socio-economic classification"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Urban or rural",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Rural",
+                "Urban"
+              ]
+            },
+            "title": "Urban or rural"
+          },
+          {
+            "name": "Use a smartphone",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Yes"
+              ]
+            },
+            "title": "Use a smartphone"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-b-1",
+  "title": "Proportion of individuals who own a mobile telephone, by sex"
+}

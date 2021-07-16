@@ -1,0 +1,171 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "16 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "55 to 64",
+                "65 to 74",
+                "75 and over"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Children under 16 in the household",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "No",
+                "Yes"
+              ]
+            },
+            "title": "Children under 16 in the household"
+          },
+          {
+            "name": "Children under 6 in the household",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "No",
+                "Yes"
+              ]
+            },
+            "title": "Children under 6 in the household"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "England",
+                "Northern Ireland",
+                "Wales"
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Food insecurity category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Low or very low food security",
+                "Very low food security"
+              ]
+            },
+            "title": "Food insecurity category"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Household income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "£10,399 or less",
+                "£10,400 to £25,999",
+                "£26,000 to £51,999",
+                "£52,000 or more"
+              ]
+            },
+            "title": "Household income"
+          },
+          {
+            "name": "Household size",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5 or more"
+              ]
+            },
+            "title": "Household size"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Working Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "In work",
+                "Other",
+                "Retired",
+                "Unemployed"
+              ]
+            },
+            "title": "Working Status"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-1-2",
+  "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
+}

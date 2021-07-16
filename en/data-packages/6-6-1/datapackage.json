@@ -1,0 +1,119 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Geography (HydroBASINs ID)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2060048790 (Central South East England)",
+                "2060048980 (Central South West England)",
+                "2060048990 (South West England)",
+                "2060049660 (Severn)",
+                "2060049670 (South Anglian)",
+                "2060049670 (South East Wye)",
+                "2060049680 (Wye)",
+                "2060049690 (Wales & Dee)",
+                "2060050410 (Mersey)",
+                "2060050420 (North West England)",
+                "2060050790 (Galloway & Ayrshire)",
+                "2060051150 (Clyde)",
+                "2060051160 (North West Scotland)",
+                "2060052380 (Spey)",
+                "2060052390 (Dee, Scotland)",
+                "2060052660 (Tay)",
+                "2060052670 (Firth of Forth)",
+                "2060052940 (Tweed)",
+                "2060052950 (Northumberland Coast)",
+                "2060052960 (Northumbria & East Humber)",
+                "2060053240 (North Humber)",
+                "2060053250 (Head of Humber Estuary)",
+                "2060053260 (South Humber)",
+                "2060053270 (North Anglian)",
+                "2060053500 (Central Anglian)",
+                "2060053510 (South Anglian)",
+                "2060053790 (Thames)",
+                "2060053800 (South East England)",
+                "2060054000 (Outer Hebrides)",
+                "2060054130 (Sule Skerry)",
+                "2060054140 (Orkney)",
+                "2060054780 (Northern Ireland near Garvagh Lough)",
+                "2060054790 (Lough Melvin)",
+                "2060055310 (Erne)",
+                "2060055320 (North West Northern Ireland)",
+                "2060055600 (Central Northern Ireland)",
+                "2060055610 (East Northern Ireland)",
+                "2060059370 (Shetland)"
+              ]
+            },
+            "title": "Geography (HydroBASINs ID)"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percent change in spatial extent from baseline (%)",
+                "Proportion of land area (%)",
+                "Spatial extent (square km)"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Water type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Ephemeral",
+                "Permanent",
+                "Seasonal"
+              ]
+            },
+            "title": "Water type"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-6-1",
+  "title": "Change in the extent of water-related ecosystems over time"
+}

@@ -1,0 +1,91 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Aid description (CRS code)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Basic health care (12220)",
+                "Basic health infrastructure (12230)",
+                "Basic nutrition (12240)",
+                "Health education (12261)",
+                "Health personnel development (12281)",
+                "Health policy and administrative management (12110)",
+                "Infectious disease control (12250)",
+                "Malaria control (12262)",
+                "Medical education/training (12181)",
+                "Medical research (12182)",
+                "Medical services (12191)",
+                "Tuberculosis control (12263)"
+              ]
+            },
+            "title": "Aid description (CRS code)"
+          },
+          {
+            "name": "Aid sub-category (DAC 5 code)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Basic health (122)",
+                "Health, general (121)"
+              ]
+            },
+            "title": "Aid sub-category (DAC 5 code)"
+          },
+          {
+            "name": "Flow of Official Development Assistance (ODA)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Bilateral",
+                "Multilateral"
+              ]
+            },
+            "title": "Flow of Official Development Assistance (ODA)"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-b-2",
+  "title": "Total net official development assistance to medical research and basic health sectors"
+}

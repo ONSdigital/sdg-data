@@ -1,0 +1,168 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age of oldest person",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "59 and under",
+                "60 and over",
+                "75 and over"
+              ]
+            },
+            "title": "Age of oldest person"
+          },
+          {
+            "name": "Age of youngest person",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "15 and under",
+                "16 and over",
+                "4 and under"
+              ]
+            },
+            "title": "Age of youngest person"
+          },
+          {
+            "name": "Decent homes criteria",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Minimum Standard (HHSRS)",
+                "Modern facilities and services",
+                "Repair",
+                "Thermal comfort"
+              ]
+            },
+            "title": "Decent homes criteria"
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Disabled (GSS harmonised)",
+                "Non-disabled (GSS harmonised)"
+              ]
+            },
+            "title": "Disability status"
+          },
+          {
+            "name": "Ethnicity of household reference person (HRP)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "All minority",
+                "Asian",
+                "Black",
+                "Other",
+                "White"
+              ]
+            },
+            "title": "Ethnicity of household reference person (HRP)"
+          },
+          {
+            "name": "Income group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1st quintile (lowest)",
+                "2nd quintile",
+                "3rd quintile",
+                "4th quintile",
+                "5th quintile (highest)"
+              ]
+            },
+            "title": "Income group"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Sub-national area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "North",
+                "Rest of England",
+                "South East"
+              ]
+            },
+            "title": "Sub-national area"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Dwelling (%)",
+                "Household (%)"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Urbanisation sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Other Rural Area",
+                "city centre",
+                "other urban centre",
+                "rural residential",
+                "suburban residential",
+                "village centre"
+              ]
+            },
+            "title": "Urbanisation sub-category"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-1-1",
+  "title": "Proportion of urban population living in slums, informal settlements or inadequate housing"
+}

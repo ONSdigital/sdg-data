@@ -1,0 +1,57 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Developing countries",
+                "Least developed countries",
+                "Small island developing states"
+              ]
+            },
+            "title": "Country Group"
+          },
+          {
+            "name": "Product Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "AGRI",
+                "FISH",
+                "NAMA",
+                "PAPS"
+              ]
+            },
+            "title": "Product Sector"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-a-1",
+  "title": "Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff"
+}
