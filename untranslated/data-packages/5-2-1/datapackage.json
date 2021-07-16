@@ -15,24 +15,13 @@
             "type": "string"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage of adults aged 16 to 59 (%)",
-                "Percentage of adults aged 16 to 74 (%)",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Type of partner abuse",
             "type": "string",
             "constraints": {
               "enum": [
                 "Non-sexual",
                 "Sexual (including attempts)",
-                "Stalking by a partner/ex-partner",
+                "Stalking by a partner to ex-partner",
                 ""
               ]
             }
@@ -63,7 +52,6 @@
                 "35 to 44",
                 "45 to 54",
                 "55 to 59",
-                "60 to 74",
                 ""
               ]
             }
@@ -74,8 +62,8 @@
             "constraints": {
               "enum": [
                 "White",
-                "Asian/Asian British",
-                "Black/African/Caribbean/Black British",
+                "Asian to Asian British",
+                "Black to African to Caribbean to Black British",
                 "Other ethnic group",
                 ""
               ]
@@ -86,15 +74,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "English/Welsh/Scottish/Northern Irish/British",
+                "English to Welsh to Scottish to Northern Irish to British",
                 "Any other White background",
                 "Indian",
                 "Any other Asian background",
                 "African",
-                "Pakistani",
-                "Bangladeshi",
-                "Chinese",
-                "Caribbean",
                 ""
               ]
             }
@@ -131,7 +115,7 @@
                 "Yorkshire and the Humber",
                 "East Midlands",
                 "West Midlands",
-                "East of England",
+                "East",
                 "London",
                 "South East",
                 "South West",
@@ -146,26 +130,10 @@
             "constraints": {
               "enum": [
                 "Degree or diploma",
-                "Apprenticeship or A/AS level",
-                "O level/GCSE",
+                "Apprenticeship or A to AS level",
+                "O level to GCSE",
                 "Other qualification",
                 "No qualification",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Income",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Less than £10,400",
-                "£10,400 to less than £20,800",
-                "£20,800 to less than £31,200",
-                "£31,200 to less than £41,600",
-                "£41,600 to less than £52,000",
-                "£52,000 or more",
-                "No income stated or not enough information provided",
                 ""
               ]
             }

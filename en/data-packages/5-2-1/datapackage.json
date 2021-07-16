@@ -37,8 +37,7 @@
                 "25 to 34",
                 "35 to 44",
                 "45 to 54",
-                "55 to 59",
-                "60 to 74"
+                "55 to 59"
               ]
             },
             "title": "Age"
@@ -76,12 +75,8 @@
                 "African",
                 "Any other Asian background",
                 "Any other White background",
-                "Bangladeshi",
-                "Caribbean",
-                "Chinese",
-                "English/Welsh/Scottish/Northern Irish/British",
-                "Indian",
-                "Pakistani"
+                "English to Welsh to Scottish to Northern Irish to British",
+                "Indian"
               ]
             },
             "title": "Ethnic group"
@@ -92,8 +87,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Asian/Asian British",
-                "Black/African/Caribbean/Black British",
+                "Asian to Asian British",
+                "Black to African to Caribbean to Black British",
                 "Other ethnic group",
                 "White"
               ]
@@ -111,31 +106,14 @@
             "constraints": {
               "enum": [
                 "",
-                "Apprenticeship or A/AS level",
+                "Apprenticeship or A to AS level",
                 "Degree or diploma",
                 "No qualification",
-                "O level/GCSE",
+                "O level to GCSE",
                 "Other qualification"
               ]
             },
             "title": "Highest qualification"
-          },
-          {
-            "name": "Income",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Less than £10,400",
-                "No income stated or not enough information provided",
-                "£10,400 to less than £20,800",
-                "£20,800 to less than £31,200",
-                "£31,200 to less than £41,600",
-                "£41,600 to less than £52,000",
-                "£52,000 or more"
-              ]
-            },
-            "title": "Income"
           },
           {
             "name": "Observation status",
@@ -148,8 +126,8 @@
             "constraints": {
               "enum": [
                 "",
+                "East",
                 "East Midlands",
-                "East of England",
                 "London",
                 "North East",
                 "North West",
@@ -163,18 +141,6 @@
             "title": "Region"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Percentage of adults aged 16 to 59 (%)",
-                "Percentage of adults aged 16 to 74 (%)"
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Type of partner abuse",
             "type": "string",
             "constraints": {
@@ -182,7 +148,7 @@
                 "",
                 "Non-sexual",
                 "Sexual (including attempts)",
-                "Stalking by a partner/ex-partner"
+                "Stalking by a partner to ex-partner"
               ]
             },
             "title": "Type of partner abuse"
