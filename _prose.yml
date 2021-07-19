@@ -122,7 +122,7 @@ prose:
             element: hidden
             label: "Data last updated"
             scope: national
-      - name: "national_metadata_update_date"
+      - name: "national_metadata_updated_date"
         field:
             element: hidden
             label: "Metadata last updated"
