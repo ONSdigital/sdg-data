@@ -95,5 +95,5 @@ data_schema:
   class: DataSchemaInputTableSchemaYaml
   source: data-schema/*.yml
   
-data_package:
+datapackage:
   sorting: default
