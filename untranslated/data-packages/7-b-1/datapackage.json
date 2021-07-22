@@ -12,7 +12,80 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "East Midlands",
+                "East of England",
+                "North East",
+                "North West",
+                "London",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and the Humber",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Renewable Source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wind",
+                "Wave and tidal",
+                "Solar PV",
+                "Hydro",
+                "Landfill gas",
+                "Sewage gas",
+                "Other bioenergy",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Wind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Onshore Wind",
+                "Offshore Wind",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bioenergy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AD",
+                "Biomass and waste",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
