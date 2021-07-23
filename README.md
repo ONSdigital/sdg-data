@@ -74,6 +74,7 @@ Headlines json comes formatted as records, instead of in list format.
 /headline/all.json
 ```
 
+
 ### Metadata
 
 The following is all metadata for all indicators in one blob for the build.
