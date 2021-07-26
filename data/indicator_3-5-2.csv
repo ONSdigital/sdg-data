@@ -1,86 +1,277 @@
 Year,Beverage,Observation status,Unit multiplier,Unit measure,Value
-2016,,Undefined,Units,Litres per capita,9.81
-2015,,Undefined,Units,Litres per capita,9.82
-2014,,Undefined,Units,Litres per capita,9.69
-2013,,Undefined,Units,Litres per capita,9.65
-2012,,Undefined,Units,Litres per capita,9.76
-2011,,Undefined,Units,Litres per capita,10.02
-2010,,Undefined,Units,Litres per capita,10.22
-2009,,Undefined,Units,Litres per capita,10.14
-2008,,Undefined,Units,Litres per capita,10.78
-2007,,Undefined,Units,Litres per capita,11.14
-2006,,Undefined,Units,Litres per capita,10.96
-2005,,Undefined,Units,Litres per capita,11.37
-2004,,Undefined,Units,Litres per capita,11.55
-2003,,Undefined,Units,Litres per capita,11.25
-2002,,Undefined,Units,Litres per capita,11.31
-2001,,Undefined,Units,Litres per capita,11.29
+2019,,Undefined,Units,Litres per capita,9.8
+2018,,Undefined,Units,Litres per capita,10.01
+2017,,Undefined,Units,Litres per capita,9.88
+2016,,Undefined,Units,Litres per capita,9.69
+2015,,Undefined,Units,Litres per capita,9.59
+2014,,Undefined,Units,Litres per capita,9.45
+2013,,Undefined,Units,Litres per capita,9.42
+2012,,Undefined,Units,Litres per capita,9.53
+2011,,Undefined,Units,Litres per capita,9.8
+2010,,Undefined,Units,Litres per capita,10.01
+2009,,Undefined,Units,Litres per capita,9.98
+2008,,Undefined,Units,Litres per capita,10.66
+2007,,Undefined,Units,Litres per capita,11.06
+2006,,Undefined,Units,Litres per capita,10.93
+2005,,Undefined,Units,Litres per capita,11.38
+2004,,Undefined,Units,Litres per capita,11.58
+2003,,Undefined,Units,Litres per capita,11.28
+2002,,Undefined,Units,Litres per capita,11.33
+2001,,Undefined,Units,Litres per capita,11.31
 2000,,Undefined,Units,Litres per capita,10.82
-2016,Beer,Undefined,Units,Litres per capita,3.44
-2015,Beer,Undefined,Units,Litres per capita,3.49
-2014,Beer,Undefined,Units,Litres per capita,3.48
-2013,Beer,Undefined,Units,Litres per capita,3.38
-2012,Beer,Undefined,Units,Litres per capita,3.46
-2011,Beer,Undefined,Units,Litres per capita,3.65
-2010,Beer,Undefined,Units,Litres per capita,3.76
-2009,Beer,Undefined,Units,Litres per capita,3.84
-2008,Beer,Undefined,Units,Litres per capita,4.22
-2007,Beer,Undefined,Units,Litres per capita,4.45
-2006,Beer,Undefined,Units,Litres per capita,4.7
+1999,,Undefined,Units,Litres per capita,10.16
+1998,,Undefined,Units,Litres per capita,10.14
+1997,,Undefined,Units,Litres per capita,9.97
+1996,,Undefined,Units,Litres per capita,9.75
+1995,,Undefined,Units,Litres per capita,9.7
+1994,,Undefined,Units,Litres per capita,9.41
+1993,,Undefined,Units,Litres per capita,9.45
+1992,,Undefined,Units,Litres per capita,9.65
+1991,,Undefined,Units,Litres per capita,10.01
+1990,,Undefined,Units,Litres per capita,9.96
+1989,,Undefined,Units,Litres per capita,9.99
+1988,,Undefined,Units,Litres per capita,9.94
+1987,,Undefined,Units,Litres per capita,9.53
+1986,,Undefined,Units,Litres per capita,10.26
+1985,,Undefined,Units,Litres per capita,10.24
+1984,,Undefined,Units,Litres per capita,10.16
+1983,,Undefined,Units,Litres per capita,10.1
+1982,,Undefined,Units,Litres per capita,9.91
+1981,,Undefined,Units,Litres per capita,10.27
+1980,,Undefined,Units,Litres per capita,10.71
+1979,,Undefined,Units,Litres per capita,11.24
+1978,,Undefined,Units,Litres per capita,10.89
+1977,,Undefined,Units,Litres per capita,10.28
+1976,,Undefined,Units,Litres per capita,10.81
+1975,,Undefined,Units,Litres per capita,10.4
+1974,,Undefined,Units,Litres per capita,10.39
+1973,,Undefined,Units,Litres per capita,10.04
+1972,,Undefined,Units,Litres per capita,9.14
+1971,,Undefined,Units,Litres per capita,8.83
+1970,,Undefined,Units,Litres per capita,8.46
+1969,,Undefined,Units,Litres per capita,8.11
+1968,,Undefined,Units,Litres per capita,7.91
+1967,,Undefined,Units,Litres per capita,7.68
+1966,,Undefined,Units,Litres per capita,7.56
+1965,,Undefined,Units,Litres per capita,7.4
+1964,,Undefined,Units,Litres per capita,7.53
+1963,,Undefined,Units,Litres per capita,7.18
+1962,,Undefined,Units,Litres per capita,7.09
+1961,,Undefined,Units,Litres per capita,7.14
+2019,Beer,Undefined,Units,Litres per capita,3.53
+2018,Beer,Undefined,Units,Litres per capita,3.57
+2017,Beer,Undefined,Units,Litres per capita,3.42
+2016,Beer,Undefined,Units,Litres per capita,3.39
+2015,Beer,Undefined,Units,Litres per capita,3.41
+2014,Beer,Undefined,Units,Litres per capita,3.39
+2013,Beer,Undefined,Units,Litres per capita,3.3
+2012,Beer,Undefined,Units,Litres per capita,3.38
+2011,Beer,Undefined,Units,Litres per capita,3.58
+2010,Beer,Undefined,Units,Litres per capita,3.69
+2009,Beer,Undefined,Units,Litres per capita,3.78
+2008,Beer,Undefined,Units,Litres per capita,4.17
+2007,Beer,Undefined,Units,Litres per capita,4.42
+2006,Beer,Undefined,Units,Litres per capita,4.69
 2005,Beer,Undefined,Units,Litres per capita,4.85
-2004,Beer,Undefined,Units,Litres per capita,5.09
-2003,Beer,Undefined,Units,Litres per capita,5.16
-2002,Beer,Undefined,Units,Litres per capita,5.11
+2004,Beer,Undefined,Units,Litres per capita,5.11
+2003,Beer,Undefined,Units,Litres per capita,5.17
+2002,Beer,Undefined,Units,Litres per capita,5.12
 2001,Beer,Undefined,Units,Litres per capita,5.06
 2000,Beer,Undefined,Units,Litres per capita,4.98
-2016,Wine,Undefined,Units,Litres per capita,3.5
-2015,Wine,Undefined,Units,Litres per capita,3.48
-2014,Wine,Undefined,Units,Litres per capita,3.38
-2013,Wine,Undefined,Units,Litres per capita,3.36
-2012,Wine,Undefined,Units,Litres per capita,3.3
-2011,Wine,Undefined,Units,Litres per capita,3.3
-2010,Wine,Undefined,Units,Litres per capita,3.3
-2009,Wine,Undefined,Units,Litres per capita,3.23
-2008,Wine,Undefined,Units,Litres per capita,3.44
-2007,Wine,Undefined,Units,Litres per capita,3.53
+1999,Beer,Undefined,Units,Litres per capita,5.25
+1998,Beer,Undefined,Units,Litres per capita,5.37
+1997,Beer,Undefined,Units,Litres per capita,5.27
+1996,Beer,Undefined,Units,Litres per capita,5.29
+1995,Beer,Undefined,Units,Litres per capita,5.21
+1994,Beer,Undefined,Units,Litres per capita,5.09
+1993,Beer,Undefined,Units,Litres per capita,5.24
+1992,Beer,Undefined,Units,Litres per capita,5.47
+1991,Beer,Undefined,Units,Litres per capita,5.62
+1990,Beer,Undefined,Units,Litres per capita,5.62
+1989,Beer,Undefined,Units,Litres per capita,5.68
+1988,Beer,Undefined,Units,Litres per capita,5.65
+1987,Beer,Undefined,Units,Litres per capita,5.49
+1986,Beer,Undefined,Units,Litres per capita,6.73
+1985,Beer,Undefined,Units,Litres per capita,6.75
+1984,Beer,Undefined,Units,Litres per capita,6.84
+1983,Beer,Undefined,Units,Litres per capita,6.91
+1982,Beer,Undefined,Units,Litres per capita,6.86
+1981,Beer,Undefined,Units,Litres per capita,7.1
+1980,Beer,Undefined,Units,Litres per capita,7.48
+1979,Beer,Undefined,Units,Litres per capita,7.85
+1978,Beer,Undefined,Units,Litres per capita,7.77
+1977,Beer,Undefined,Units,Litres per capita,7.68
+1976,Beer,Undefined,Units,Litres per capita,7.83
+1975,Beer,Undefined,Units,Litres per capita,7.73
+1974,Beer,Undefined,Units,Litres per capita,7.61
+1973,Beer,Undefined,Units,Litres per capita,7.45
+1972,Beer,Undefined,Units,Litres per capita,7.09
+1971,Beer,Undefined,Units,Litres per capita,7.01
+1970,Beer,Undefined,Units,Litres per capita,6.8
+1969,Beer,Undefined,Units,Litres per capita,6.62
+1968,Beer,Undefined,Units,Litres per capita,6.35
+1967,Beer,Undefined,Units,Litres per capita,6.21
+1966,Beer,Undefined,Units,Litres per capita,6.12
+1965,Beer,Undefined,Units,Litres per capita,5.99
+1964,Beer,Undefined,Units,Litres per capita,6.02
+1963,Beer,Undefined,Units,Litres per capita,5.79
+1962,Beer,Undefined,Units,Litres per capita,5.77
+1961,Beer,Undefined,Units,Litres per capita,5.81
+2019,Wine,Undefined,Units,Litres per capita,3.3
+2018,Wine,Undefined,Units,Litres per capita,3.44
+2017,Wine,Undefined,Units,Litres per capita,3.52
+2016,Wine,Undefined,Units,Litres per capita,3.46
+2015,Wine,Undefined,Units,Litres per capita,3.39
+2014,Wine,Undefined,Units,Litres per capita,3.3
+2013,Wine,Undefined,Units,Litres per capita,3.28
+2012,Wine,Undefined,Units,Litres per capita,3.22
+2011,Wine,Undefined,Units,Litres per capita,3.22
+2010,Wine,Undefined,Units,Litres per capita,3.23
+2009,Wine,Undefined,Units,Litres per capita,3.17
+2008,Wine,Undefined,Units,Litres per capita,3.4
+2007,Wine,Undefined,Units,Litres per capita,3.51
 2006,Wine,Undefined,Units,Litres per capita,3.25
 2005,Wine,Undefined,Units,Litres per capita,3.42
-2004,Wine,Undefined,Units,Litres per capita,3.32
-2003,Wine,Undefined,Units,Litres per capita,3.04
-2002,Wine,Undefined,Units,Litres per capita,3.27
+2004,Wine,Undefined,Units,Litres per capita,3.33
+2003,Wine,Undefined,Units,Litres per capita,3.05
+2002,Wine,Undefined,Units,Litres per capita,3.28
 2001,Wine,Undefined,Units,Litres per capita,3.6
 2000,Wine,Undefined,Units,Litres per capita,3.25
-2016,Spirits,Undefined,Units,Litres per capita,2.21
-2015,Spirits,Undefined,Units,Litres per capita,2.13
-2014,Spirits,Undefined,Units,Litres per capita,2.07
-2013,Spirits,Undefined,Units,Litres per capita,2.09
-2012,Spirits,Undefined,Units,Litres per capita,2.16
-2011,Spirits,Undefined,Units,Litres per capita,2.17
-2010,Spirits,Undefined,Units,Litres per capita,2.25
-2009,Spirits,Undefined,Units,Litres per capita,2.16
-2008,Spirits,Undefined,Units,Litres per capita,2.28
-2007,Spirits,Undefined,Units,Litres per capita,2.35
+1999,Wine,Undefined,Units,Litres per capita,2.48
+1998,Wine,Undefined,Units,Litres per capita,2.4
+1997,Wine,Undefined,Units,Litres per capita,2.29
+1996,Wine,Undefined,Units,Litres per capita,2.09
+1995,Wine,Undefined,Units,Litres per capita,2.03
+1994,Wine,Undefined,Units,Litres per capita,1.96
+1993,Wine,Undefined,Units,Litres per capita,1.87
+1992,Wine,Undefined,Units,Litres per capita,1.81
+1991,Wine,Undefined,Units,Litres per capita,1.81
+1990,Wine,Undefined,Units,Litres per capita,1.8
+1989,Wine,Undefined,Units,Litres per capita,1.78
+1988,Wine,Undefined,Units,Litres per capita,1.72
+1987,Wine,Undefined,Units,Litres per capita,1.65
+1986,Wine,Undefined,Units,Litres per capita,1.41
+1985,Wine,Undefined,Units,Litres per capita,1.36
+1984,Wine,Undefined,Units,Litres per capita,1.31
+1983,Wine,Undefined,Units,Litres per capita,1.16
+1982,Wine,Undefined,Units,Litres per capita,1.07
+1981,Wine,Undefined,Units,Litres per capita,1.06
+1980,Wine,Undefined,Units,Litres per capita,0.99
+1979,Wine,Undefined,Units,Litres per capita,0.99
+1978,Wine,Undefined,Units,Litres per capita,0.92
+1977,Wine,Undefined,Units,Litres per capita,0.77
+1976,Wine,Undefined,Units,Litres per capita,0.83
+1975,Wine,Undefined,Units,Litres per capita,0.75
+1974,Wine,Undefined,Units,Litres per capita,0.76
+1973,Wine,Undefined,Units,Litres per capita,0.75
+1972,Wine,Undefined,Units,Litres per capita,0.59
+1971,Wine,Undefined,Units,Litres per capita,0.51
+1970,Wine,Undefined,Units,Litres per capita,0.42
+1969,Wine,Undefined,Units,Litres per capita,0.41
+1968,Wine,Undefined,Units,Litres per capita,0.42
+1967,Wine,Undefined,Units,Litres per capita,0.37
+1966,Wine,Undefined,Units,Litres per capita,0.34
+1965,Wine,Undefined,Units,Litres per capita,0.32
+1964,Wine,Undefined,Units,Litres per capita,0.34
+1963,Wine,Undefined,Units,Litres per capita,0.3
+1962,Wine,Undefined,Units,Litres per capita,0.29
+1961,Wine,Undefined,Units,Litres per capita,0.28
+2019,Spirits,Undefined,Units,Litres per capita,2.35
+2018,Spirits,Undefined,Units,Litres per capita,2.39
+2017,Spirits,Undefined,Units,Litres per capita,2.26
+2016,Spirits,Undefined,Units,Litres per capita,2.18
+2015,Spirits,Undefined,Units,Litres per capita,2.08
+2014,Spirits,Undefined,Units,Litres per capita,2.02
+2013,Spirits,Undefined,Units,Litres per capita,2.04
+2012,Spirits,Undefined,Units,Litres per capita,2.11
+2011,Spirits,Undefined,Units,Litres per capita,2.12
+2010,Spirits,Undefined,Units,Litres per capita,2.2
+2009,Spirits,Undefined,Units,Litres per capita,2.12
+2008,Spirits,Undefined,Units,Litres per capita,2.26
+2007,Spirits,Undefined,Units,Litres per capita,2.33
 2006,Spirits,Undefined,Units,Litres per capita,2.25
-2005,Spirits,Undefined,Units,Litres per capita,2.45
-2004,Spirits,Undefined,Units,Litres per capita,2.51
+2005,Spirits,Undefined,Units,Litres per capita,2.46
+2004,Spirits,Undefined,Units,Litres per capita,2.52
 2003,Spirits,Undefined,Units,Litres per capita,2.45
-2002,Spirits,Undefined,Units,Litres per capita,2.32
+2002,Spirits,Undefined,Units,Litres per capita,2.33
 2001,Spirits,Undefined,Units,Litres per capita,2.03
 2000,Spirits,Undefined,Units,Litres per capita,1.96
+1999,Spirits,Undefined,Units,Litres per capita,1.81
+1998,Spirits,Undefined,Units,Litres per capita,1.75
+1997,Spirits,Undefined,Units,Litres per capita,1.78
+1996,Spirits,Undefined,Units,Litres per capita,1.75
+1995,Spirits,Undefined,Units,Litres per capita,1.91
+1994,Spirits,Undefined,Units,Litres per capita,1.84
+1993,Spirits,Undefined,Units,Litres per capita,1.87
+1992,Spirits,Undefined,Units,Litres per capita,1.93
+1991,Spirits,Undefined,Units,Litres per capita,2.15
+1990,Spirits,Undefined,Units,Litres per capita,2.16
+1989,Spirits,Undefined,Units,Litres per capita,2.18
+1988,Spirits,Undefined,Units,Litres per capita,2.2
+1987,Spirits,Undefined,Units,Litres per capita,2.01
+1986,Spirits,Undefined,Units,Litres per capita,2.12
+1985,Spirits,Undefined,Units,Litres per capita,2.13
+1984,Spirits,Undefined,Units,Litres per capita,2.01
+1983,Spirits,Undefined,Units,Litres per capita,2.03
+1982,Spirits,Undefined,Units,Litres per capita,1.98
+1981,Spirits,Undefined,Units,Litres per capita,2.11
+1980,Spirits,Undefined,Units,Litres per capita,2.24
+1979,Spirits,Undefined,Units,Litres per capita,2.4
+1978,Spirits,Undefined,Units,Litres per capita,2.2
+1977,Spirits,Undefined,Units,Litres per capita,1.83
+1976,Spirits,Undefined,Units,Litres per capita,2.15
+1975,Spirits,Undefined,Units,Litres per capita,1.92
+1974,Spirits,Undefined,Units,Litres per capita,2.02
+1973,Spirits,Undefined,Units,Litres per capita,1.84
+1972,Spirits,Undefined,Units,Litres per capita,1.46
+1971,Spirits,Undefined,Units,Litres per capita,1.31
+1970,Spirits,Undefined,Units,Litres per capita,1.24
+1969,Spirits,Undefined,Units,Litres per capita,1.08
+1968,Spirits,Undefined,Units,Litres per capita,1.14
+1967,Spirits,Undefined,Units,Litres per capita,1.1
+1966,Spirits,Undefined,Units,Litres per capita,1.1
+1965,Spirits,Undefined,Units,Litres per capita,1.09
+1964,Spirits,Undefined,Units,Litres per capita,1.17
+1963,Spirits,Undefined,Units,Litres per capita,1.09
+1962,Spirits,Undefined,Units,Litres per capita,1.03
+1961,Spirits,Undefined,Units,Litres per capita,1.04
+2019,Other alcoholic beverages,Undefined,Units,Litres per capita,0.61
+2018,Other alcoholic beverages,Undefined,Units,Litres per capita,0.61
+2017,Other alcoholic beverages,Undefined,Units,Litres per capita,0.67
 2016,Other alcoholic beverages,Undefined,Units,Litres per capita,0.66
-2015,Other alcoholic beverages,Undefined,Units,Litres per capita,0.73
-2014,Other alcoholic beverages,Undefined,Units,Litres per capita,0.76
-2013,Other alcoholic beverages,Undefined,Units,Litres per capita,0.83
-2012,Other alcoholic beverages,Undefined,Units,Litres per capita,0.84
-2011,Other alcoholic beverages,Undefined,Units,Litres per capita,0.9
-2010,Other alcoholic beverages,Undefined,Units,Litres per capita,0.91
-2009,Other alcoholic beverages,Undefined,Units,Litres per capita,0.92
-2008,Other alcoholic beverages,Undefined,Units,Litres per capita,0.83
+2015,Other alcoholic beverages,Undefined,Units,Litres per capita,0.71
+2014,Other alcoholic beverages,Undefined,Units,Litres per capita,0.73
+2013,Other alcoholic beverages,Undefined,Units,Litres per capita,0.8
+2012,Other alcoholic beverages,Undefined,Units,Litres per capita,0.82
+2011,Other alcoholic beverages,Undefined,Units,Litres per capita,0.88
+2010,Other alcoholic beverages,Undefined,Units,Litres per capita,0.89
+2009,Other alcoholic beverages,Undefined,Units,Litres per capita,0.91
+2008,Other alcoholic beverages,Undefined,Units,Litres per capita,0.82
 2007,Other alcoholic beverages,Undefined,Units,Litres per capita,0.8
 2006,Other alcoholic beverages,Undefined,Units,Litres per capita,0.75
 2005,Other alcoholic beverages,Undefined,Units,Litres per capita,0.65
-2004,Other alcoholic beverages,Undefined,Units,Litres per capita,0.62
+2004,Other alcoholic beverages,Undefined,Units,Litres per capita,0.63
 2003,Other alcoholic beverages,Undefined,Units,Litres per capita,0.6
 2002,Other alcoholic beverages,Undefined,Units,Litres per capita,0.61
-2001,Other alcoholic beverages,Undefined,Units,Litres per capita,0.61
+2001,Other alcoholic beverages,Undefined,Units,Litres per capita,0.62
 2000,Other alcoholic beverages,Undefined,Units,Litres per capita,0.63
+1999,Other alcoholic beverages,Undefined,Units,Litres per capita,0.62
+1998,Other alcoholic beverages,Undefined,Units,Litres per capita,0.62
+1997,Other alcoholic beverages,Undefined,Units,Litres per capita,0.63
+1996,Other alcoholic beverages,Undefined,Units,Litres per capita,0.62
+1995,Other alcoholic beverages,Undefined,Units,Litres per capita,0.55
+1994,Other alcoholic beverages,Undefined,Units,Litres per capita,0.52
+1993,Other alcoholic beverages,Undefined,Units,Litres per capita,0.47
+1992,Other alcoholic beverages,Undefined,Units,Litres per capita,0.44
+1991,Other alcoholic beverages,Undefined,Units,Litres per capita,0.43
+1990,Other alcoholic beverages,Undefined,Units,Litres per capita,0.38
+1989,Other alcoholic beverages,Undefined,Units,Litres per capita,0.35
+1988,Other alcoholic beverages,Undefined,Units,Litres per capita,0.37
+1987,Other alcoholic beverages,Undefined,Units,Litres per capita,0.38
+1986,Other alcoholic beverages,Undefined,Units,Litres per capita,0.0
+1985,Other alcoholic beverages,Undefined,Units,Litres per capita,0.0
+1984,Other alcoholic beverages,Undefined,Units,Litres per capita,0.0
+1983,Other alcoholic beverages,Undefined,Units,Litres per capita,0.0
+1982,Other alcoholic beverages,Undefined,Units,Litres per capita,0.0
+1981,Other alcoholic beverages,Undefined,Units,Litres per capita,0.0
+1980,Other alcoholic beverages,Undefined,Units,Litres per capita,0.0
