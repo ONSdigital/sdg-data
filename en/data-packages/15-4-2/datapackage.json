@@ -11,13 +11,40 @@
       "schema": {
         "fields": [
           {
+            "name": "Mountain elevation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "5.0",
+                "6.0"
+              ]
+            },
+            "title": "Mountain elevation"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]

@@ -12,6 +12,29 @@
         "fields": [
           {
             "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Mountain elevation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5.0",
+                "6.0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit measure",
             "type": "string"
           },
           {
