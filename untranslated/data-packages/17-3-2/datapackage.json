@@ -15,8 +15,24 @@
             "type": "integer"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Volume of remittances as a proportion of total GDP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Unit multiplier",
