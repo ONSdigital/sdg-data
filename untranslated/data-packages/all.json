@@ -9560,7 +9560,8 @@
             "constraints": {
               "enum": [
                 "Median",
-                "2.5th percentile",
+                "Percentile (2.5th)",
+                "Mean",
                 ""
               ]
             }

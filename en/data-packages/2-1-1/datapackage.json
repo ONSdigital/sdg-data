@@ -33,8 +33,9 @@
             "constraints": {
               "enum": [
                 "",
-                "2.5th percentile",
-                "Median"
+                "Mean",
+                "Median",
+                "Percentile (2.5th)"
               ]
             },
             "title": "Measure"
