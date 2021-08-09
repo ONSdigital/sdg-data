@@ -14389,22 +14389,32 @@
             "type": "integer"
           },
           {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
                 "North East",
                 "North West",
-                "Yorkshire and the Humber",
+                "Yorkshire and The Humber",
                 "East Midlands",
                 "West Midlands",
-                "East of England",
+                "East",
                 "London",
                 "South East",
                 "South West",
-                "Wales",
-                "Scotland",
-                "Northern Ireland",
                 ""
               ]
             }
@@ -14416,6 +14426,17 @@
               "enum": [
                 "Male",
                 "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture",
+                "Non-Agriculture",
                 ""
               ]
             }

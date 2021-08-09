@@ -15567,6 +15567,20 @@
       "schema": {
         "fields": [
           {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales"
+              ]
+            },
+            "title": "Country"
+          },
+          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
@@ -15582,21 +15596,30 @@
             "constraints": {
               "enum": [
                 "",
+                "East",
                 "East Midlands",
-                "East of England",
                 "London",
                 "North East",
                 "North West",
-                "Northern Ireland",
-                "Scotland",
                 "South East",
                 "South West",
-                "Wales",
                 "West Midlands",
-                "Yorkshire and the Humber"
+                "Yorkshire and The Humber"
               ]
             },
             "title": "Region"
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Agriculture",
+                "Non-Agriculture"
+              ]
+            },
+            "title": "Sector"
           },
           {
             "name": "Sex",
