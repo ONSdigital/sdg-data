@@ -19359,9 +19359,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tertiary",
-                "Secondary",
                 "Primary",
+                "Secondary",
+                "Tertiary",
                 ""
               ]
             }
