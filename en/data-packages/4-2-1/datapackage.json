@@ -77,6 +77,11 @@
             "title": "Gender"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Learning category",
             "type": "string",
             "constraints": {
