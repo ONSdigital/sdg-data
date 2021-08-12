@@ -76,6 +76,8 @@ map_layers:
 # date for data files.
 git: true
 
+csvw: true
+
 # Git Data Director
 # -----------------
 # This specifies an alternate folder to look in for Git-versioned data files,
