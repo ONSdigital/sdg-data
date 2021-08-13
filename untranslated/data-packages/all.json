@@ -13067,12 +13067,22 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Chikungunya and Dengue fever",
+                "Rabies",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Country",
             "type": "string",
             "constraints": {
               "enum": [
                 "England, Wales and Northern Ireland",
-                "United Kingdom",
                 ""
               ]
             }
@@ -13084,7 +13094,6 @@
               "enum": [
                 "Chikungunya",
                 "Dengue fever",
-                "Rabies",
                 ""
               ]
             }

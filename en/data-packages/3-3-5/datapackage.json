@@ -16,8 +16,7 @@
             "constraints": {
               "enum": [
                 "",
-                "England, Wales and Northern Ireland",
-                "United Kingdom"
+                "England, Wales and Northern Ireland"
               ]
             },
             "title": "Country"
@@ -57,14 +56,25 @@
             "title": "Region of travel"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Chikungunya and Dengue fever",
+                "Rabies"
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Type of Neglected Tropical Disease (NTD)",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
                 "Chikungunya",
-                "Dengue fever",
-                "Rabies"
+                "Dengue fever"
               ]
             },
             "title": "Type of Neglected Tropical Disease (NTD)"
