@@ -17050,30 +17050,20 @@
             "title": "Observation status"
           },
           {
-            "name": "Sustainability level (Pressure)",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Percentage of fish stocks harvested above FMSY",
-                "Percentage of fish stocks harvested below FMSY",
-                "Percentage of fish stocks unknown"
+                "1) Proportion of fish stocks that are not overexploited",
+                "2) Proportion of fish stocks that are overexploited",
+                "3) Proportion of fish stocks with unknown level of exploitation",
+                "4) Proportion of fish stocks within biologically sustainable levels (not overexploited)",
+                "5) Proportion of fish stocks not within biologically sustainable levels (overexploited)",
+                "6) Proportion of fish stocks where biologically sustainable status is unknown"
               ]
             },
-            "title": "Sustainability level (Pressure)"
-          },
-          {
-            "name": "Sustainability level (State)",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Percentage of fish stocks above MSY Btrigger",
-                "Percentage of fish stocks below MSY Btrigger",
-                "Percentage of fish stocks unknown"
-              ]
-            },
-            "title": "Sustainability level (State)"
+            "title": "Series"
           },
           {
             "name": "Unit measure",
@@ -17084,18 +17074,6 @@
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "A) Pressure (Stocks harvested, %)",
-                "B) State (biomass remaining, %)"
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",
