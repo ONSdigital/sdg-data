@@ -18882,6 +18882,18 @@
             "title": "Unit multiplier"
           },
           {
+            "name": "Urban/Rural",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Rural",
+                "Urban"
+              ]
+            },
+            "title": "Urban/Rural"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

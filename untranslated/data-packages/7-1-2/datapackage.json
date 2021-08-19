@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Urban/Rural",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Observation status",
             "type": "string"
           },
