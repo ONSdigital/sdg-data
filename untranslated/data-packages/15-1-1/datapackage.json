@@ -21,8 +21,8 @@
               "enum": [
                 "England",
                 "Wales",
-                "Northern Ireland",
                 "Scotland",
+                "Northern Ireland",
                 ""
               ]
             }
@@ -43,11 +43,11 @@
             "type": "string"
           },
           {
-            "name": "Unit multiplier",
+            "name": "Unit measure",
             "type": "string"
           },
           {
-            "name": "Unit measure",
+            "name": "Unit multiplier",
             "type": "string"
           },
           {
