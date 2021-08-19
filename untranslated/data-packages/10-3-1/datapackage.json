@@ -43,12 +43,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 to 24",
-                "25 to 34",
-                "35 to 44",
-                "45 to 54",
-                "55 to 64",
-                "65 to 74",
+                "16-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-64",
+                "65-74",
                 "75 and over",
                 ""
               ]
@@ -87,10 +87,10 @@
             "constraints": {
               "enum": [
                 "Less than £10,000",
-                "£10,000 to less than £20,000",
-                "£20,000 to less than £30,000",
-                "£30,000 to less than £40,000",
-                "£40,000 to less than £50,000",
+                "£10,000-less than £20,000",
+                "£20,000-less than £30,000",
+                "£30,000-less than £40,000",
+                "£40,000-less than £50,000",
                 "£50,000 or more",
                 "No income stated or not enough information provided",
                 ""
