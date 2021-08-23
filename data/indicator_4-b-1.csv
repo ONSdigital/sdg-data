@@ -1,26 +1,58 @@
-Year,Flow of Official Development Assistance (ODA),Unit measure,Unit multiplier,Observation status,Value
-2010,,GBP (£),Thousands,Undefined,95949.6508003
-2011,,GBP (£),Thousands,Undefined,72678.00437849708
-2012,,GBP (£),Thousands,Undefined,87684.06863128021
-2013,,GBP (£),Thousands,Undefined,116742.79443489837
-2014,,GBP (£),Thousands,Undefined,114929.42927026584
-2015,,GBP (£),Thousands,Undefined,159683.70607039524
-2016,,GBP (£),Thousands,Undefined,154847.00151382477
-2017,,GBP (£),Thousands,Undefined,153418.8620016522
-2009,Bilateral,GBP (£),Thousands,Undefined,36920.49000000001
-2010,Bilateral,GBP (£),Thousands,Undefined,59094.60585999998
-2011,Bilateral,GBP (£),Thousands,Undefined,47196.208557999955
-2012,Bilateral,GBP (£),Thousands,Undefined,55339.385562
-2013,Bilateral,GBP (£),Thousands,Undefined,75738.98788160701
-2014,Bilateral,GBP (£),Thousands,Undefined,74854.59222000004
-2015,Bilateral,GBP (£),Thousands,Undefined,121959.69717400002
-2016,Bilateral,GBP (£),Thousands,Undefined,112284.79866256593
-2017,Bilateral,GBP (£),Thousands,Undefined,110433.98543549996
-2010,Multilateral,GBP (£),Thousands,Undefined,36855.04494033752
-2011,Multilateral,GBP (£),Thousands,Undefined,25481.795820497122
-2012,Multilateral,GBP (£),Thousands,Undefined,32344.683069280214
-2013,Multilateral,GBP (£),Thousands,Undefined,41003.80655329136
-2014,Multilateral,GBP (£),Thousands,Undefined,40074.83705026581
-2015,Multilateral,GBP (£),Thousands,Undefined,37724.00889639522
-2016,Multilateral,GBP (£),Thousands,Undefined,42562.20285125884
-2017,Multilateral,GBP (£),Thousands,Undefined,42984.876566152234
+Year,Series,Sector,Type of study,Units,Unit multiplier,Observation status,Value
+2009,Volume of official development assistance (ODA) flows for scholarships,Education,,GBP (£ thousands),Thousands,Normal value,15428.77
+2009,Volume of official development assistance (ODA) flows for scholarships,Other social infrastructure and services,,GBP (£ thousands),Thousands,Normal value,30.0
+2009,Volume of official development assistance (ODA) flows for scholarships,,,GBP (£ thousands),Thousands,Normal value,15458.77
+2010,Volume of official development assistance (ODA) flows for scholarships,Economic Infrastructure & Services,,GBP (£ thousands),Thousands,Normal value,17.95
+2010,Volume of official development assistance (ODA) flows for scholarships,Education,,GBP (£ thousands),Thousands,Normal value,12489.12
+2010,Volume of official development assistance (ODA) flows for scholarships,Government and Civil Society,,GBP (£ thousands),Thousands,Normal value,47.08
+2010,Volume of official development assistance (ODA) flows for scholarships,,,GBP (£ thousands),Thousands,Normal value,12554.15
+2011,Volume of official development assistance (ODA) flows for scholarships,Education,,GBP (£ thousands),Thousands,Normal value,8505.37
+2011,Volume of official development assistance (ODA) flows for scholarships,Government and Civil Society,,GBP (£ thousands),Thousands,Normal value,51.84
+2011,Volume of official development assistance (ODA) flows for scholarships,,,GBP (£ thousands),Thousands,Normal value,8557.21
+2012,Volume of official development assistance (ODA) flows for scholarships,Education,,GBP (£ thousands),Thousands,Normal value,21624.7
+2012,Volume of official development assistance (ODA) flows for scholarships,Government and Civil Society,,GBP (£ thousands),Thousands,Normal value,303.79
+2012,Volume of official development assistance (ODA) flows for scholarships,,,GBP (£ thousands),Thousands,Normal value,21928.49
+2013,Volume of official development assistance (ODA) flows for scholarships,Education,,GBP (£ thousands),Thousands,Normal value,16294.66
+2013,Volume of official development assistance (ODA) flows for scholarships,Government and Civil Society,,GBP (£ thousands),Thousands,Normal value,277.07
+2013,Volume of official development assistance (ODA) flows for scholarships,,,GBP (£ thousands),Thousands,Normal value,16571.73
+2014,Volume of official development assistance (ODA) flows for scholarships,Education,,GBP (£ thousands),Thousands,Normal value,17203.24
+2014,Volume of official development assistance (ODA) flows for scholarships,Government and Civil Society,,GBP (£ thousands),Thousands,Normal value,317.87
+2014,Volume of official development assistance (ODA) flows for scholarships,Multisector,,GBP (£ thousands),Thousands,Normal value,69.23
+2014,Volume of official development assistance (ODA) flows for scholarships,,,GBP (£ thousands),Thousands,Normal value,17590.34
+2015,Volume of official development assistance (ODA) flows for scholarships,Education,,GBP (£ thousands),Thousands,Normal value,65128.3
+2015,Volume of official development assistance (ODA) flows for scholarships,Government and Civil Society,,GBP (£ thousands),Thousands,Normal value,131.38
+2015,Volume of official development assistance (ODA) flows for scholarships,Health,,GBP (£ thousands),Thousands,Normal value,134.24
+2015,Volume of official development assistance (ODA) flows for scholarships,Multisector,,GBP (£ thousands),Thousands,Normal value,3178.68
+2015,Volume of official development assistance (ODA) flows for scholarships,Production Services,,GBP (£ thousands),Thousands,Normal value,1486.44
+2015,Volume of official development assistance (ODA) flows for scholarships,,,GBP (£ thousands),Thousands,,70059.04
+2016,Volume of official development assistance (ODA) flows for scholarships,Education,,GBP (£ thousands),Thousands,,86818.15
+2016,Volume of official development assistance (ODA) flows for scholarships,Government and Civil Society,,GBP (£ thousands),Thousands,,179.36
+2016,Volume of official development assistance (ODA) flows for scholarships,Health,,GBP (£ thousands),Thousands,,66.07
+2016,Volume of official development assistance (ODA) flows for scholarships,Multisector,,GBP (£ thousands),Thousands,,3565.31
+2016,Volume of official development assistance (ODA) flows for scholarships,Production Services,,GBP (£ thousands),Thousands,,2260.72
+2016,Volume of official development assistance (ODA) flows for scholarships,,,GBP (£ thousands),Thousands,,92889.61
+2017,Volume of official development assistance (ODA) flows for scholarships,Education,Advanced technical and managerial training,GBP (£ thousands),Thousands,,5960.3991
+2017,Volume of official development assistance (ODA) flows for scholarships,Education,Education policy and administrative management,GBP (£ thousands),Thousands,,21.56313
+2017,Volume of official development assistance (ODA) flows for scholarships,Education,Higher education,GBP (£ thousands),Thousands,,80191.61445
+2017,Volume of official development assistance (ODA) flows for scholarships,Education,Primary education,GBP (£ thousands),Thousands,,86.2694
+2017,Volume of official development assistance (ODA) flows for scholarships,Education,Secondary education,GBP (£ thousands),Thousands,,21.56735
+2017,Volume of official development assistance (ODA) flows for scholarships,Education,,GBP (£ thousands),Thousands,,86281.41343
+2017,Volume of official development assistance (ODA) flows for scholarships,Government and Civil Society,,GBP (£ thousands),Thousands,,183.75
+2017,Volume of official development assistance (ODA) flows for scholarships,Multisector / Cross-Cutting,,GBP (£ thousands),Thousands,,4774.30439
+2017,Volume of official development assistance (ODA) flows for scholarships,Production Sectors,,GBP (£ thousands),Thousands,,3199.69733
+2017,Volume of official development assistance (ODA) flows for scholarships,,,GBP (£ thousands),Thousands,,94439.16515
+2018,Volume of official development assistance (ODA) flows for scholarships,Education,Advanced technical and managerial training,GBP (£ thousands),Thousands,,6663.92261
+2018,Volume of official development assistance (ODA) flows for scholarships,Education,Higher education,GBP (£ thousands),Thousands,,82906.035735411
+2018,Volume of official development assistance (ODA) flows for scholarships,Education,Primary education,GBP (£ thousands),Thousands,,44.823448
+2018,Volume of official development assistance (ODA) flows for scholarships,Education,Secondary education,GBP (£ thousands),Thousands,,11.205862
+2018,Volume of official development assistance (ODA) flows for scholarships,Education,,,,,89625.987655411
+2018,Volume of official development assistance (ODA) flows for scholarships,Government and Civil Society,,,,,178.94226
+2018,Volume of official development assistance (ODA) flows for scholarships,Multisector / Cross-Cutting,,,,,3690.56544
+2018,Volume of official development assistance (ODA) flows for scholarships,Production Sectors,,,,,2461.22395
+2018,Volume of official development assistance (ODA) flows for scholarships,,,,,,95956.719305411
+2019,Volume of official development assistance (ODA) flows for scholarships,Education,Advanced technical and managerial training,,,,8467.62463
+2019,Volume of official development assistance (ODA) flows for scholarships,Education,Higher education,,,,88371.03481
+2019,Volume of official development assistance (ODA) flows for scholarships,Education,,,,,96838.65944
+2019,Volume of official development assistance (ODA) flows for scholarships,Multisector / Cross-Cutting,,,,,2903.23144
+2019,Volume of official development assistance (ODA) flows for scholarships,Production Sectors,,,,,2735.81299
+2019,Volume of official development assistance (ODA) flows for scholarships,,,,,,102477.70387
