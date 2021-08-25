@@ -16,48 +16,45 @@
             "title": "Observation status"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total government revenue as a percentage of GDP"
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Source of revenue",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Capital grants from private sector",
-                "Capital transfers to central government",
-                "Current grants from central government",
-                "Current grants to central government",
-                "Interest and dividends",
-                "Less gross operating surplus",
-                "Market output",
-                "Market output and output for own final use",
-                "National insurance contributions",
-                "Other receipts",
-                "Pension contributions",
+                "Grants",
+                "Other revenue",
+                "Social contributions",
                 "Taxes"
               ]
             },
             "title": "Source of revenue"
           },
           {
-            "name": "Type of government",
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Central government",
-                "Local government"
+                "Percentage (%)"
               ]
             },
-            "title": "Type of government"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
+            "title": "Units"
           },
           {
             "name": "Value",

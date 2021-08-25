@@ -16792,12 +16792,11 @@
             "type": "integer"
           },
           {
-            "name": "Type of government",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Central government",
-                "Local government",
+                "Total government revenue as a percentage of GDP",
                 ""
               ]
             }
@@ -16807,25 +16806,23 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Grants",
+                "Social contributions",
                 "Taxes",
-                "National insurance contributions",
-                "Interest and dividends",
-                "Other receipts",
-                "Market output and output for own final use",
-                "Pension contributions",
-                "Current grants to central government",
-                "Capital transfers to central government",
-                "Less gross operating surplus",
-                "Market output",
-                "Current grants from central government",
-                "Capital grants from private sector",
+                "Other revenue",
                 ""
               ]
             }
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Unit multiplier",
