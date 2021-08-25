@@ -8860,19 +8860,24 @@
             "type": "integer"
           },
           {
-            "name": "Type of government",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Central government",
-                "Local government",
+                "Percentage of government expenditure funded by domestic taxes",
                 ""
               ]
             }
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Unit multiplier",

@@ -9578,26 +9578,31 @@
             "title": "Observation status"
           },
           {
-            "name": "Type of government",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Central government",
-                "Local government"
+                "Percentage of government expenditure funded by domestic taxes"
               ]
             },
-            "title": "Type of government"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage (%)"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
