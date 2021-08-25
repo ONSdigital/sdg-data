@@ -1,37 +1,133 @@
-Year,DAC classification,Observation status,Unit multiplier,Unit measure,Value
-2009,Least developed countries,Undefined,Thousands,GBP (£m),1650538.0
-2010,Least developed countries,Undefined,Thousands,GBP (£m),1679952.0
-2011,Least developed countries,Undefined,Thousands,GBP (£m),2034477.0
-2012,Least developed countries,Undefined,Thousands,GBP (£m),1916695.0
-2013,Least developed countries,Undefined,Thousands,GBP (£m),2268999.0
-2014,Least developed countries,Undefined,Thousands,GBP (£m),2310686.0
-2015,Least developed countries,Undefined,Thousands,GBP (£m),2505135.0
-2016,Least developed countries,Undefined,Thousands,GBP (£m),2353310.0
-2017,Least developed countries,Undefined,Thousands,GBP (£m),2577222.0
-2009,Lower middle income countries and territories,Undefined,Thousands,GBP (£m),713510.0
-2010,Lower middle income countries and territories,Undefined,Thousands,GBP (£m),664494.0
-2011,Lower middle income countries and territories,Undefined,Thousands,GBP (£m),899024.0
-2012,Lower middle income countries and territories,Undefined,Thousands,GBP (£m),1009152.0
-2013,Lower middle income countries and territories,Undefined,Thousands,GBP (£m),1361009.0
-2014,Lower middle income countries and territories,Undefined,Thousands,GBP (£m),1226636.0
-2015,Lower middle income countries and territories,Undefined,Thousands,GBP (£m),1330515.0
-2016,Lower middle income countries and territories,Undefined,Thousands,GBP (£m),1404384.0
-2017,Lower middle income countries and territories,Undefined,Thousands,GBP (£m),1362982.0
-2009,Other low income countries,Undefined,Thousands,GBP (£m),585994.0
-2010,Other low income countries,Undefined,Thousands,GBP (£m),695148.0
-2011,Other low income countries,Undefined,Thousands,GBP (£m),206818.0
-2012,Other low income countries,Undefined,Thousands,GBP (£m),253917.0
-2013,Other low income countries,Undefined,Thousands,GBP (£m),267673.0
-2014,Other low income countries,Undefined,Thousands,GBP (£m),252945.0
-2015,Other low income countries,Undefined,Thousands,GBP (£m),261275.0
-2016,Other low income countries,Undefined,Thousands,GBP (£m),238165.0
-2017,Other low income countries,Undefined,Thousands,GBP (£m),248713.0
-2009,Upper middle income countries and territories,Undefined,Thousands,GBP (£m),153405.0
-2010,Upper middle income countries and territories,Undefined,Thousands,GBP (£m),124534.0
-2011,Upper middle income countries and territories,Undefined,Thousands,GBP (£m),232834.0
-2012,Upper middle income countries and territories,Undefined,Thousands,GBP (£m),283891.0
-2013,Upper middle income countries and territories,Undefined,Thousands,GBP (£m),247497.0
-2014,Upper middle income countries and territories,Undefined,Thousands,GBP (£m),239498.0
-2015,Upper middle income countries and territories,Undefined,Thousands,GBP (£m),525206.0
-2016,Upper middle income countries and territories,Undefined,Thousands,GBP (£m),843722.0
-2017,Upper middle income countries and territories,Undefined,Thousands,GBP (£m),694032.0
+Year,Country income classification,Observation status,Unit multiplier,Units,Value
+2009,LDCs,Definition differs,Thousands,GBP (£ thousands),1650538.39
+2009,LMICs,Definition differs,Thousands,GBP (£ thousands),713510.21
+2009,Other LICs,Definition differs,Thousands,GBP (£ thousands),585993.86
+2009,UMICs,Definition differs,Thousands,GBP (£ thousands),153404.5
+2009,Unspecified,Definition differs,Thousands,GBP (£ thousands),4197529.29
+2009,,Definition differs,Thousands,GBP (£ thousands),7300976.25
+2010,LDCs,Definition differs,Thousands,GBP (£ thousands),1679951.57
+2010,LMICs,Definition differs,Thousands,GBP (£ thousands),664494.63
+2010,Other LICs,Definition differs,Thousands,GBP (£ thousands),695148.29
+2010,UMICs,Definition differs,Thousands,GBP (£ thousands),124533.69
+2010,Unspecified,Definition differs,Thousands,GBP (£ thousands),5364653.46
+2010,,Definition differs,Thousands,GBP (£ thousands),8528781.64
+2011,LDCs,Definition differs,Thousands,GBP (£ thousands),2034477.0
+2011,LMICs,Definition differs,Thousands,GBP (£ thousands),899024.38
+2011,Other LICs,Definition differs,Thousands,GBP (£ thousands),206818.28
+2011,UMICs,Definition differs,Thousands,GBP (£ thousands),232834.35
+2011,Unspecified,Definition differs,Thousands,GBP (£ thousands),5255469.69
+2011,,Definition differs,Thousands,GBP (£ thousands),8628623.7
+2012,LDCs,Definition differs,Thousands,GBP (£ thousands),1916695.49
+2012,LMICs,Definition differs,Thousands,GBP (£ thousands),1009152.69
+2012,Other LICs,Definition differs,Thousands,GBP (£ thousands),253916.97
+2012,UMICs,Definition differs,Thousands,GBP (£ thousands),283891.12
+2012,Unspecified,Definition differs,Thousands,GBP (£ thousands),5338263.76
+2012,,Definition differs,Thousands,GBP (£ thousands),8801920.03
+2013,LDCs,Definition differs,Thousands,GBP (£ thousands),2268999.84
+2013,LMICs,Definition differs,Thousands,GBP (£ thousands),1361009.47
+2013,Other LICs,Definition differs,Thousands,GBP (£ thousands),267672.77
+2013,UMICs,Definition differs,Thousands,GBP (£ thousands),247497.7
+2013,Unspecified,Definition differs,Thousands,GBP (£ thousands),7261682.32
+2013,,Definition differs,Thousands,GBP (£ thousands),11406862.1
+2014,LDCs,Definition differs,Thousands,GBP (£ thousands),2310685.97
+2014,LMICs,Definition differs,Thousands,GBP (£ thousands),1226635.77
+2014,Other LICs,Definition differs,Thousands,GBP (£ thousands),252945.2
+2014,UMICs,Definition differs,Thousands,GBP (£ thousands),239497.8
+2014,Unspecified,Definition differs,Thousands,GBP (£ thousands),7670708.24
+2014,,Definition differs,Thousands,GBP (£ thousands),11700472.98
+2015,LDCs,Definition differs,Thousands,GBP (£ thousands),2505135.57
+2015,LMICs,Definition differs,Thousands,GBP (£ thousands),1330515.95
+2015,Other LICs,Definition differs,Thousands,GBP (£ thousands),261274.98
+2015,UMICs,Definition differs,Thousands,GBP (£ thousands),525206.89
+2015,Unspecified,Definition differs,Thousands,GBP (£ thousands),7513465.13
+2015,,Definition differs,Thousands,GBP (£ thousands),12135598.52
+2016,LDCs,Definition differs,Thousands,GBP (£ thousands),2353310.43
+2016,LMICs,Definition differs,Thousands,GBP (£ thousands),1404383.87
+2016,Other LICs,Definition differs,Thousands,GBP (£ thousands),238164.66
+2016,UMICs,Definition differs,Thousands,GBP (£ thousands),843722.36
+2016,Unspecified,Definition differs,Thousands,GBP (£ thousands),8537551.2
+2016,,Definition differs,Thousands,GBP (£ thousands),13377132.52
+2017,LDCs,Definition differs,Thousands,GBP (£ thousands),2577080.01191806
+2017,LMICs,Definition differs,Thousands,GBP (£ thousands),1360910.3051637
+2017,Other LICs,Definition differs,Thousands,GBP (£ thousands),248712.63477855
+2017,UMICs,Definition differs,Thousands,GBP (£ thousands),694024.2207408
+2017,Unspecified,Definition differs,Thousands,GBP (£ thousands),9171561.08073425
+2017,,Definition differs,Thousands,GBP (£ thousands),14052288.2533354
+2018,LDCs,Definition differs,Thousands,GBP (£ thousands),2390102.01249094
+2018,LMICs,Definition differs,Thousands,GBP (£ thousands),1456872.68325387
+2018,Other LICs,Definition differs,Thousands,GBP (£ thousands),94063.6481615
+2018,UMICs,Definition differs,Thousands,GBP (£ thousands),558663.318512088
+2018,Unspecified,Definition differs,Thousands,GBP (£ thousands),10045129.4790493
+2018,,Definition differs,Thousands,GBP (£ thousands),14544831.1414677
+2019,LDCs,Definition differs,Thousands,GBP (£ thousands),2712321.20351098
+2019,LMICs,Definition differs,Thousands,GBP (£ thousands),1486278.54047276
+2019,Other LICs,Definition differs,Thousands,GBP (£ thousands),99308.901749
+2019,UMICs,Definition differs,Thousands,GBP (£ thousands),694666.408545175
+2019,Unspecified,Definition differs,Thousands,GBP (£ thousands),10191055.7876978
+2019,,Definition differs,Thousands,GBP (£ thousands),15183630.8419757
+2009,LDCs,Definition differs,Thousands,USD ($ thousands),2107737.5240299995
+2009,LMICs,Definition differs,Thousands,USD ($ thousands),911152.5381699998
+2009,Other LICs,Definition differs,Thousands,USD ($ thousands),748314.1592199999
+2009,UMICs,Definition differs,Thousands,USD ($ thousands),195897.5465
+2009,Unspecified,Definition differs,Thousands,USD ($ thousands),5360244.90333
+2009,,Definition differs,Thousands,USD ($ thousands),9323346.671249999
+2010,LDCs,Definition differs,Thousands,USD ($ thousands),2145298.15489
+2010,LMICs,Definition differs,Thousands,USD ($ thousands),848559.6425099999
+2010,Other LICs,Definition differs,Thousands,USD ($ thousands),887704.36633
+2010,UMICs,Definition differs,Thousands,USD ($ thousands),159029.52213
+2010,Unspecified,Definition differs,Thousands,USD ($ thousands),6850662.46842
+2010,,Definition differs,Thousands,USD ($ thousands),10891254.15428
+2011,LDCs,Definition differs,Thousands,USD ($ thousands),2598027.1289999997
+2011,LMICs,Definition differs,Thousands,USD ($ thousands),1148054.13326
+2011,Other LICs,Definition differs,Thousands,USD ($ thousands),264106.94356
+2011,UMICs,Definition differs,Thousands,USD ($ thousands),297329.46495
+2011,Unspecified,Definition differs,Thousands,USD ($ thousands),6711234.79413
+2011,,Definition differs,Thousands,USD ($ thousands),11018752.464899998
+2012,LDCs,Definition differs,Thousands,USD ($ thousands),2447620.1407299996
+2012,LMICs,Definition differs,Thousands,USD ($ thousands),1288687.98513
+2012,Other LICs,Definition differs,Thousands,USD ($ thousands),324251.97069
+2012,UMICs,Definition differs,Thousands,USD ($ thousands),362528.96024
+2012,Unspecified,Definition differs,Thousands,USD ($ thousands),6816962.821519999
+2012,,Definition differs,Thousands,USD ($ thousands),11240051.878309999
+2013,LDCs,Definition differs,Thousands,USD ($ thousands),2897512.7956799995
+2013,LMICs,Definition differs,Thousands,USD ($ thousands),1738009.09319
+2013,Other LICs,Definition differs,Thousands,USD ($ thousands),341818.12729
+2013,UMICs,Definition differs,Thousands,USD ($ thousands),316054.5629
+2013,Unspecified,Definition differs,Thousands,USD ($ thousands),9273168.32264
+2013,,Definition differs,Thousands,USD ($ thousands),14566562.9017
+2014,LDCs,Definition differs,Thousands,USD ($ thousands),2950745.98369
+2014,LMICs,Definition differs,Thousands,USD ($ thousands),1566413.87829
+2014,Other LICs,Definition differs,Thousands,USD ($ thousands),323011.0204
+2014,UMICs,Definition differs,Thousands,USD ($ thousands),305838.6906
+2014,Unspecified,Definition differs,Thousands,USD ($ thousands),9795494.42248
+2014,,Definition differs,Thousands,USD ($ thousands),14941503.99546
+2015,LDCs,Definition differs,Thousands,USD ($ thousands),3199058.1228899998
+2015,LMICs,Definition differs,Thousands,USD ($ thousands),1699068.8681499998
+2015,Other LICs,Definition differs,Thousands,USD ($ thousands),333648.14946
+2015,UMICs,Definition differs,Thousands,USD ($ thousands),670689.1985299999
+2015,Unspecified,Definition differs,Thousands,USD ($ thousands),9594694.97101
+2015,,Definition differs,Thousands,USD ($ thousands),15497159.310039999
+2016,LDCs,Definition differs,Thousands,USD ($ thousands),3005177.41911
+2016,LMICs,Definition differs,Thousands,USD ($ thousands),1793398.20199
+2016,Other LICs,Definition differs,Thousands,USD ($ thousands),304136.27082
+2016,UMICs,Definition differs,Thousands,USD ($ thousands),1077433.4537199999
+2016,Unspecified,Definition differs,Thousands,USD ($ thousands),10902452.882399999
+2016,,Definition differs,Thousands,USD ($ thousands),17082598.22804
+2017,LDCs,Definition differs,Thousands,USD ($ thousands),3290931.1752193626
+2017,LMICs,Definition differs,Thousands,USD ($ thousands),1737882.4596940447
+2017,Other LICs,Definition differs,Thousands,USD ($ thousands),317606.0346122083
+2017,UMICs,Definition differs,Thousands,USD ($ thousands),886268.9298860016
+2017,Unspecified,Definition differs,Thousands,USD ($ thousands),11712083.500097636
+2017,,Definition differs,Thousands,USD ($ thousands),17944772.099509303
+2018,LDCs,Definition differs,Thousands,USD ($ thousands),3052160.26995093
+2018,LMICs,Definition differs,Thousands,USD ($ thousands),1860426.416515192
+2018,Other LICs,Definition differs,Thousands,USD ($ thousands),120119.27870223549
+2018,UMICs,Definition differs,Thousands,USD ($ thousands),713413.0577399364
+2018,Unspecified,Definition differs,Thousands,USD ($ thousands),12827630.344745956
+2018,,Definition differs,Thousands,USD ($ thousands),18573749.367654253
+2019,LDCs,Definition differs,Thousands,USD ($ thousands),3463634.1768835215
+2019,LMICs,Definition differs,Thousands,USD ($ thousands),1897977.6961837145
+2019,Other LICs,Definition differs,Thousands,USD ($ thousands),126817.46753347298
+2019,UMICs,Definition differs,Thousands,USD ($ thousands),887089.0037121885
+2019,Unspecified,Definition differs,Thousands,USD ($ thousands),13013978.24089009
+2019,,Definition differs,Thousands,USD ($ thousands),19389496.585202966
