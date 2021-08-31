@@ -9468,14 +9468,45 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
+            "name": "Series",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "",
+                "Recorded alcohol consumption per capita (aged 15 years and older) within a calendar year",
+                "Total alcohol consumption per capita (aged 15 years and older) within a calendar year",
+                "Unrecorded alcohol consumption per capita (aged 15 years and older) within a calendar year"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Litres of pure alcohol"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
