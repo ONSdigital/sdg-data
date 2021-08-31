@@ -18,6 +18,7 @@ Year,Country,Country of birth,Region,Ethnic group,Observation status,Unit multip
 2016,,,,,Undefined,Units,"Rate per 100,000 population",,9.3
 2017,,,,,Undefined,Units,"Rate per 100,000 population",,8.4
 2018,,,,,Undefined,Units,"Rate per 100,000 population",,7.6
+2019,,,,,Undefined,Units,"Rate per 100,000 population",,7.7
 2000,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,12.3
 2000,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,6.3
 2000,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,3.4
@@ -90,10 +91,14 @@ Year,Country,Country of birth,Region,Ethnic group,Observation status,Unit multip
 2017,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.3
 2017,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,3.7
 2017,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,5.4
-2018,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,8.3
+2018,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,8.2
 2018,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.1
-2018,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,3.0
-2018,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,4.9
+2018,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,2.8
+2018,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,5.0
+2019,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,8.4
+2019,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.2
+2019,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,3.7
+2019,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,4.3
 2000,,,London,,Undefined,Units,"Rate per 100,000 population",E12000007,36.4
 2001,,,London,,Undefined,Units,"Rate per 100,000 population",E12000007,35.2
 2002,,,London,,Undefined,Units,"Rate per 100,000 population",E12000007,41.4
@@ -112,7 +117,8 @@ Year,Country,Country of birth,Region,Ethnic group,Observation status,Unit multip
 2015,,,London,,Undefined,Units,"Rate per 100,000 population",E12000007,26.3
 2016,,,London,,Undefined,Units,"Rate per 100,000 population",E12000007,25.1
 2017,,,London,,Undefined,Units,"Rate per 100,000 population",E12000007,21.6
-2018,,,London,,Undefined,Units,"Rate per 100,000 population",E12000007,19.0
+2018,,,London,,Undefined,Units,"Rate per 100,000 population",E12000007,18.8
+2019,,,London,,Undefined,Units,"Rate per 100,000 population",E12000007,18.6
 2000,,,West Midlands,,Undefined,Units,"Rate per 100,000 population",E12000005,13.3
 2001,,,West Midlands,,Undefined,Units,"Rate per 100,000 population",E12000005,13.3
 2002,,,West Midlands,,Undefined,Units,"Rate per 100,000 population",E12000005,15.0
@@ -132,6 +138,7 @@ Year,Country,Country of birth,Region,Ethnic group,Observation status,Unit multip
 2016,,,West Midlands,,Undefined,Units,"Rate per 100,000 population",E12000005,12.3
 2017,,,West Midlands,,Undefined,Units,"Rate per 100,000 population",E12000005,11.3
 2018,,,West Midlands,,Undefined,Units,"Rate per 100,000 population",E12000005,10.4
+2019,,,West Midlands,,Undefined,Units,"Rate per 100,000 population",E12000005,9.7
 2000,,,South East,,Undefined,Units,"Rate per 100,000 population",E12000008,5.7
 2001,,,South East,,Undefined,Units,"Rate per 100,000 population",E12000008,5.5
 2002,,,South East,,Undefined,Units,"Rate per 100,000 population",E12000008,6.1
@@ -151,6 +158,7 @@ Year,Country,Country of birth,Region,Ethnic group,Observation status,Unit multip
 2016,,,South East,,Undefined,Units,"Rate per 100,000 population",E12000008,6.4
 2017,,,South East,,Undefined,Units,"Rate per 100,000 population",E12000008,6.1
 2018,,,South East,,Undefined,Units,"Rate per 100,000 population",E12000008,5.7
+2019,,,South East,,Undefined,Units,"Rate per 100,000 population",E12000008,5.7
 2000,,,North West,,Undefined,Units,"Rate per 100,000 population",E12000002,9.2
 2001,,,North West,,Undefined,Units,"Rate per 100,000 population",E12000002,9.4
 2002,,,North West,,Undefined,Units,"Rate per 100,000 population",E12000002,9.4
@@ -169,26 +177,28 @@ Year,Country,Country of birth,Region,Ethnic group,Observation status,Unit multip
 2015,,,North West,,Undefined,Units,"Rate per 100,000 population",E12000002,7.9
 2016,,,North West,,Undefined,Units,"Rate per 100,000 population",E12000002,8.2
 2017,,,North West,,Undefined,Units,"Rate per 100,000 population",E12000002,7.3
-2018,,,North West,,Undefined,Units,"Rate per 100,000 population",E12000002,6.6
-2000,,,East of England,,Undefined,Units,"Rate per 100,000 population",E12000006,5.4
-2001,,,East of England,,Undefined,Units,"Rate per 100,000 population",E12000006,6.0
-2002,,,East of England,,Undefined,Units,"Rate per 100,000 population",E12000006,6.3
-2003,,,East of England,,Undefined,Units,"Rate per 100,000 population",E12000006,5.7
-2004,,,East of England,,Undefined,Units,"Rate per 100,000 population",E12000006,7.1
-2005,,,East of England,,Undefined,Units,"Rate per 100,000 population",E12000006,8.1
-2006,,,East of England,,Undefined,Units,"Rate per 100,000 population",E12000006,8.2
-2007,,,East of England,,Undefined,Units,"Rate per 100,000 population",E12000006,7.2
-2008,,,East of England,,Undefined,Units,"Rate per 100,000 population",E12000006,8.5
-2009,,,East of England,,Undefined,Units,"Rate per 100,000 population",E12000006,8.5
-2010,,,East of England,,Undefined,Units,"Rate per 100,000 population",E12000006,8.4
-2011,,,East of England,,Undefined,Units,"Rate per 100,000 population",E12000006,9.2
-2012,,,East of England,,Undefined,Units,"Rate per 100,000 population",E12000006,8.1
-2013,,,East of England,,Undefined,Units,"Rate per 100,000 population",E12000006,7.3
-2014,,,East of England,,Undefined,Units,"Rate per 100,000 population",E12000006,6.9
-2015,,,East of England,,Undefined,Units,"Rate per 100,000 population",E12000006,6.1
-2016,,,East of England,,Undefined,Units,"Rate per 100,000 population",E12000006,6.8
-2017,,,East of England,,Undefined,Units,"Rate per 100,000 population",E12000006,6.3
-2018,,,East of England,,Undefined,Units,"Rate per 100,000 population",E12000006,5.6
+2018,,,North West,,Undefined,Units,"Rate per 100,000 population",E12000002,6.4
+2019,,,North West,,Undefined,Units,"Rate per 100,000 population",E12000002,7.2
+2000,,,East,,Undefined,Units,"Rate per 100,000 population",E12000006,5.4
+2001,,,East,,Undefined,Units,"Rate per 100,000 population",E12000006,6.0
+2002,,,East,,Undefined,Units,"Rate per 100,000 population",E12000006,6.3
+2003,,,East,,Undefined,Units,"Rate per 100,000 population",E12000006,5.7
+2004,,,East,,Undefined,Units,"Rate per 100,000 population",E12000006,7.1
+2005,,,East,,Undefined,Units,"Rate per 100,000 population",E12000006,8.1
+2006,,,East,,Undefined,Units,"Rate per 100,000 population",E12000006,8.2
+2007,,,East,,Undefined,Units,"Rate per 100,000 population",E12000006,7.2
+2008,,,East,,Undefined,Units,"Rate per 100,000 population",E12000006,8.5
+2009,,,East,,Undefined,Units,"Rate per 100,000 population",E12000006,8.5
+2010,,,East,,Undefined,Units,"Rate per 100,000 population",E12000006,8.4
+2011,,,East,,Undefined,Units,"Rate per 100,000 population",E12000006,9.2
+2012,,,East,,Undefined,Units,"Rate per 100,000 population",E12000006,8.1
+2013,,,East,,Undefined,Units,"Rate per 100,000 population",E12000006,7.3
+2014,,,East,,Undefined,Units,"Rate per 100,000 population",E12000006,6.9
+2015,,,East,,Undefined,Units,"Rate per 100,000 population",E12000006,6.1
+2016,,,East,,Undefined,Units,"Rate per 100,000 population",E12000006,6.8
+2017,,,East,,Undefined,Units,"Rate per 100,000 population",E12000006,6.3
+2018,,,East,,Undefined,Units,"Rate per 100,000 population",E12000006,5.4
+2019,,,East,,Undefined,Units,"Rate per 100,000 population",E12000006,6.5
 2000,,,East Midlands,,Undefined,Units,"Rate per 100,000 population",E12000004,9.9
 2001,,,East Midlands,,Undefined,Units,"Rate per 100,000 population",E12000004,13.0
 2002,,,East Midlands,,Undefined,Units,"Rate per 100,000 population",E12000004,11.2
@@ -207,7 +217,8 @@ Year,Country,Country of birth,Region,Ethnic group,Observation status,Unit multip
 2015,,,East Midlands,,Undefined,Units,"Rate per 100,000 population",E12000004,7.6
 2016,,,East Midlands,,Undefined,Units,"Rate per 100,000 population",E12000004,7.2
 2017,,,East Midlands,,Undefined,Units,"Rate per 100,000 population",E12000004,7.3
-2018,,,East Midlands,,Undefined,Units,"Rate per 100,000 population",E12000004,7.0
+2018,,,East Midlands,,Undefined,Units,"Rate per 100,000 population",E12000004,7.1
+2019,,,East Midlands,,Undefined,Units,"Rate per 100,000 population",E12000004,7.4
 2000,,,Yorkshire and The Humber,,Undefined,Units,"Rate per 100,000 population",E12000003,11.0
 2001,,,Yorkshire and The Humber,,Undefined,Units,"Rate per 100,000 population",E12000003,11.1
 2002,,,Yorkshire and The Humber,,Undefined,Units,"Rate per 100,000 population",E12000003,10.1
@@ -224,9 +235,10 @@ Year,Country,Country of birth,Region,Ethnic group,Observation status,Unit multip
 2013,,,Yorkshire and The Humber,,Undefined,Units,"Rate per 100,000 population",E12000003,10.9
 2014,,,Yorkshire and The Humber,,Undefined,Units,"Rate per 100,000 population",E12000003,9.6
 2015,,,Yorkshire and The Humber,,Undefined,Units,"Rate per 100,000 population",E12000003,8.1
-2016,,,Yorkshire and The Humber,,Undefined,Units,"Rate per 100,000 population",E12000003,7.8
+2016,,,Yorkshire and The Humber,,Undefined,Units,"Rate per 100,000 population",E12000003,7.7
 2017,,,Yorkshire and The Humber,,Undefined,Units,"Rate per 100,000 population",E12000003,6.3
 2018,,,Yorkshire and The Humber,,Undefined,Units,"Rate per 100,000 population",E12000003,6.4
+2019,,,Yorkshire and The Humber,,Undefined,Units,"Rate per 100,000 population",E12000003,6.5
 2000,,,South West,,Undefined,Units,"Rate per 100,000 population",E12000009,4.7
 2001,,,South West,,Undefined,Units,"Rate per 100,000 population",E12000009,4.3
 2002,,,South West,,Undefined,Units,"Rate per 100,000 population",E12000009,4.4
@@ -245,7 +257,8 @@ Year,Country,Country of birth,Region,Ethnic group,Observation status,Unit multip
 2015,,,South West,,Undefined,Units,"Rate per 100,000 population",E12000009,5.2
 2016,,,South West,,Undefined,Units,"Rate per 100,000 population",E12000009,4.3
 2017,,,South West,,Undefined,Units,"Rate per 100,000 population",E12000009,4.1
-2018,,,South West,,Undefined,Units,"Rate per 100,000 population",E12000009,3.5
+2018,,,South West,,Undefined,Units,"Rate per 100,000 population",E12000009,3.4
+2019,,,South West,,Undefined,Units,"Rate per 100,000 population",E12000009,4.2
 2000,,,North East,,Undefined,Units,"Rate per 100,000 population",E12000001,6.2
 2001,,,North East,,Undefined,Units,"Rate per 100,000 population",E12000001,7.0
 2002,,,North East,,Undefined,Units,"Rate per 100,000 population",E12000001,5.9
@@ -263,8 +276,9 @@ Year,Country,Country of birth,Region,Ethnic group,Observation status,Unit multip
 2014,,,North East,,Undefined,Units,"Rate per 100,000 population",E12000001,6.4
 2015,,,North East,,Undefined,Units,"Rate per 100,000 population",E12000001,4.9
 2016,,,North East,,Undefined,Units,"Rate per 100,000 population",E12000001,4.6
-2017,,,North East,,Undefined,Units,"Rate per 100,000 population",E12000001,4.2
-2018,,,North East,,Undefined,Units,"Rate per 100,000 population",E12000001,4.4
+2017,,,North East,,Undefined,Units,"Rate per 100,000 population",E12000001,4.1
+2018,,,North East,,Undefined,Units,"Rate per 100,000 population",E12000001,4.5
+2019,,,North East,,Undefined,Units,"Rate per 100,000 population",E12000001,3.0
 2000,England,Born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,4.1
 2001,England,Born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,4.3
 2002,England,Born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,4.2
@@ -281,9 +295,10 @@ Year,Country,Country of birth,Region,Ethnic group,Observation status,Unit multip
 2013,England,Born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,4.0
 2014,England,Born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,3.8
 2015,England,Born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,3.3
-2016,England,Born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,3.2
+2016,England,Born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,3.1
 2017,England,Born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,3.1
-2018,England,Born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.8
+2018,England,Born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.7
+2019,England,Born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.6
 2000,England,Not born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,79.6
 2001,England,Not born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,79.1
 2002,England,Not born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,90.5
@@ -301,8 +316,27 @@ Year,Country,Country of birth,Region,Ethnic group,Observation status,Unit multip
 2014,England,Not born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,60.2
 2015,England,Not born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,51.3
 2016,England,Not born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,49.4
-2017,England,Not born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,41.2
-2018,England,Not born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,39.0
+2017,England,Not born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,41.3
+2018,England,Not born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,39.1
+2019,England,Not born in UK,,,Undefined,Units,"Rate per 100,000 population",E92000001,39.5
+2019,England,Born in UK,,White,Undefined,Units,"Rate per 100,000 population",E92000001,1.7
+2019,England,Born in UK,,Black Caribbean,Undefined,Units,"Rate per 100,000 population",E92000001,14.3
+2019,England,Born in UK,,Black African,Undefined,Units,"Rate per 100,000 population",E92000001,13.4
+2019,England,Born in UK,,Black Other,Undefined,Units,"Rate per 100,000 population",E92000001,19.5
+2019,England,Born in UK,,Indian,Undefined,Units,"Rate per 100,000 population",E92000001,15.7
+2019,England,Born in UK,,Pakistani,Undefined,Units,"Rate per 100,000 population",E92000001,15.7
+2019,England,Born in UK,,Bangledeshi,Undefined,Units,"Rate per 100,000 population",E92000001,12.9
+2019,England,Born in UK,,Chinese,Undefined,Units,"Rate per 100,000 population",E92000001,5.5
+2019,England,Born in UK,,Mixed/Other,Undefined,Units,"Rate per 100,000 population",E92000001,4.7
+2019,England,Not born in UK,,White,Undefined,Units,"Rate per 100,000 population",E92000001,10.3
+2019,England,Not born in UK,,Black Caribbean,Undefined,Units,"Rate per 100,000 population",E92000001,18.7
+2019,England,Not born in UK,,Black African,Undefined,Units,"Rate per 100,000 population",E92000001,91.7
+2019,England,Not born in UK,,Black Other,Undefined,Units,"Rate per 100,000 population",E92000001,69.2
+2019,England,Not born in UK,,Indian,Undefined,Units,"Rate per 100,000 population",E92000001,93.8
+2019,England,Not born in UK,,Pakistani,Undefined,Units,"Rate per 100,000 population",E92000001,96.5
+2019,England,Not born in UK,,Bangledeshi,Undefined,Units,"Rate per 100,000 population",E92000001,55.8
+2019,England,Not born in UK,,Chinese,Undefined,Units,"Rate per 100,000 population",E92000001,27.0
+2019,England,Not born in UK,,Mixed/Other,Undefined,Units,"Rate per 100,000 population",E92000001,41.7
 2018,England,Born in UK,,White,Undefined,Units,"Rate per 100,000 population",E92000001,1.9
 2018,England,Born in UK,,Black Caribbean,Undefined,Units,"Rate per 100,000 population",E92000001,17.9
 2018,England,Born in UK,,Black African,Undefined,Units,"Rate per 100,000 population",E92000001,16.7
