@@ -34,13 +34,14 @@ archived_indicators=pd.read_csv('archived_indicators.csv')
 changed_indicators=pd.read_csv('changed_indicators.csv')
 
 def alter_meta(meta):
-    if 'indicator_number' in meta:
-        indicator_id = meta['indicator_number']
-        id_parts = indicator_id.split('.')
-        target_id = id_parts[0] + '.' + id_parts[1]
-        goal_id = id_parts[0]
-        meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/metadata/?Text=&Goal='+goal_id+'&Target='+target_id
-        meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
+    if 'placeholder' not in meta or meta['placeholder']=='':
+        if 'indicator_number' in meta:
+            indicator_id = meta['indicator_number']
+            id_parts = indicator_id.split('.')
+            target_id = id_parts[0] + '.' + id_parts[1]
+            goal_id = id_parts[0]
+            meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/metadata/?Text=&Goal='+goal_id+'&Target='+target_id
+            meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
 
         if 'standalone' not in meta:
             if tier_df is not None:
