@@ -34,8 +34,8 @@ archived_indicators=pd.read_csv('archived_indicators.csv')
 changed_indicators=pd.read_csv('changed_indicators.csv')
 
 def alter_meta(meta):
-    if 'placeholder' not in meta or meta['placeholder']=='':
-        if 'indicator_number' in meta:
+    if 'indicator_number' in meta:
+        if 'placeholder' not in meta or meta['placeholder']=='':
             indicator_id = meta['indicator_number']
             id_parts = indicator_id.split('.')
             target_id = id_parts[0] + '.' + id_parts[1]
