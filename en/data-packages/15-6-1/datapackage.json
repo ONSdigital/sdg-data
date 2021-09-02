@@ -16,6 +16,17 @@
             "title": "Observation status"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK"
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Unit measure",
             "type": "string",
             "title": "Unit measure"
