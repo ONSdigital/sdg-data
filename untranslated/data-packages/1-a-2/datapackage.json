@@ -12,10 +12,69 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%) of national budget",
+                "Percentage (%) of gross domestic product (GDP)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Area of spending category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Health",
+                "Education",
+                "Social protection",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Area of spending sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Medical products, appliances and equipment",
+                "Outpatient services",
+                "Hospital services",
+                "Public health services",
+                "Research and development - health",
+                "Health - not elsewhere classified",
+                "Pre-primary and primary education",
+                "Secondary education",
+                "Post-secondary non-tertiary education",
+                "Tertiary education",
+                "Education not definable by level",
+                "Subsidiary services to education",
+                "Research and development - education",
+                "Education - not elsewhere classified",
+                "Sickness and disability",
+                "Old age",
+                "Survivors",
+                "Family and children",
+                "Unemployment",
+                "Housing",
+                "Social exclusion - not elsewhere classified",
+                "Research and development - social protection",
+                "Social protection - not elsewhere classified",
+                ""
+              ]
+            }
           },
           {
             "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
             "type": "string"
           },
           {
