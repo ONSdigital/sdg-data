@@ -15,24 +15,24 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "General government expenditure (GBP (£million) per capita)",
-                "Central government expenditure (GBP (£million) per capita)",
-                "Local government expenditure (GBP (£million) per capita)",
+                "General government expenditure",
+                "Central government expenditure",
+                "Local government expenditure",
                 ""
               ]
             }
           },
           {
-            "name": "Type of expenditure",
+            "name": "Type of heritage",
             "type": "string",
             "constraints": {
               "enum": [
-                "Environmental protection",
-                "Recreation, culture and religion",
+                "Natural heritage",
+                "Cultural heritage",
                 ""
               ]
             }
@@ -57,6 +57,18 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
           },
           {
             "name": "Value",

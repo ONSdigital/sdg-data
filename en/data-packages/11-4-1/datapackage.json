@@ -33,29 +33,44 @@
             "title": "Area of spending"
           },
           {
-            "name": "Type of expenditure",
+            "name": "Observation status",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Environmental protection",
-                "Recreation, culture and religion"
-              ]
-            },
-            "title": "Type of expenditure"
+            "title": "Observation status"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Central government expenditure (GBP (£million) per capita)",
-                "General government expenditure (GBP (£million) per capita)",
-                "Local government expenditure (GBP (£million) per capita)"
+                "Central government expenditure",
+                "General government expenditure",
+                "Local government expenditure"
               ]
             },
-            "title": "Units"
+            "title": "Series"
+          },
+          {
+            "name": "Type of heritage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Cultural heritage",
+                "Natural heritage"
+              ]
+            },
+            "title": "Type of heritage"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",
