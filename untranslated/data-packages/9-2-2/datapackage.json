@@ -15,17 +15,6 @@
             "type": "string"
           },
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Age",
             "type": "string",
             "constraints": {
@@ -41,22 +30,33 @@
             }
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "East",
+                "East Midlands",
+                "London",
                 "North East",
                 "North West",
-                "Yorkshire and The Humber",
-                "East Midlands",
-                "West Midlands",
-                "East",
-                "London",
+                "Northern Ireland",
+                "Scotland",
                 "South East",
                 "South West",
                 "Wales",
-                "Scotland",
-                "Northern Ireland",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             }
@@ -66,8 +66,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Disabled (GSS harmonised)",
                 "Non-disabled (GSS harmonised)",
+                "Disabled (GSS harmonised)",
                 ""
               ]
             }
