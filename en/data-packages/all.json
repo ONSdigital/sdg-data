@@ -2933,7 +2933,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Category",
+            "name": "Mechanism",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2948,12 +2948,39 @@
                 "Policy linkages"
               ]
             },
-            "title": "Category"
+            "title": "Mechanism"
           },
           {
-            "name": "Unit measure",
+            "name": "Observation status",
             "type": "string",
-            "title": "Unit measure"
+            "title": "Observation status"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Mechanisms in place to enhance policy coherence for sustainable development"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage (%)"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

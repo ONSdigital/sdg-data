@@ -2696,7 +2696,17 @@
             "type": "integer"
           },
           {
-            "name": "Category",
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mechanisms in place to enhance policy coherence for sustainable development",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Mechanism",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2713,8 +2723,22 @@
             }
           },
           {
-            "name": "Unit measure",
+            "name": "Observation status",
             "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
