@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Passengers (thousands)",
                 "Freight (thousand tonnes)",
+                "Passengers (thousands)",
                 ""
               ]
             }
@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "International",
                 "Domestic",
+                "International",
                 ""
               ]
             }
