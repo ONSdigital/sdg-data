@@ -723,17 +723,6 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Age",
             "type": "string",
             "constraints": {
@@ -748,15 +737,26 @@
             }
           },
           {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Unit measure",
             "type": "string"
           },
           {
             "name": "Unit multiplier",
-            "type": "string"
-          },
-          {
-            "name": "Observation status",
             "type": "string"
           },
           {
