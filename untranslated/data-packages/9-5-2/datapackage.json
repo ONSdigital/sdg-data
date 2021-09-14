@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Disabled (GSS harmonised)",
                 "Non-disabled (GSS harmonised)",
+                "Disabled (GSS harmonised)",
                 ""
               ]
             }
@@ -56,8 +56,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             }
@@ -67,18 +67,18 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "East",
+                "East Midlands",
+                "London",
                 "North East",
                 "North West",
-                "Yorkshire and The Humber",
-                "East Midlands",
-                "West Midlands",
-                "East",
-                "London",
+                "Northern Ireland",
+                "Scotland",
                 "South East",
                 "South West",
                 "Wales",
-                "Scotland",
-                "Northern Ireland",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             }
