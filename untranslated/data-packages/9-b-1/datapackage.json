@@ -19,15 +19,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Chemicals and chemical products",
                 "Basic pharmaceutical products and pharmaceutical preparations",
-                "Weapons and ammunition",
+                "Chemicals and chemical products",
                 "Computer, electronic and optical products",
                 "Electrical equipment",
                 "Machinery and equipment n.e.c.",
                 "Motor vehicles, trailers and semi-trailers",
-                "Other transport equipment",
                 "Other",
+                "Other transport equipment",
+                "Weapons and ammunition",
                 ""
               ]
             }
