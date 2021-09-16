@@ -135,7 +135,7 @@ prose:
             options:
               - name: 'complete'
                 value: 'complete'
-                translation_key: 'status.reported_online'
+                translation_key: 'status.reported'
               - name: 'notstarted'
                 value: 'notstarted'
                 translation_key: 'status.exploring_data_sources'
