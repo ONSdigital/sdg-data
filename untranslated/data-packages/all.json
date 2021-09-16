@@ -553,8 +553,8 @@
             "constraints": {
               "enum": [
                 "Minimum Standard (HHSRS)",
-                "Repair",
                 "Modern facilities and services",
+                "Repair",
                 "Thermal comfort",
                 ""
               ]
@@ -566,11 +566,11 @@
             "constraints": {
               "enum": [
                 "city centre",
-                "other urban centre",
-                "suburban residential",
-                "rural residential",
-                "village centre",
                 "Other Rural Area",
+                "other urban centre",
+                "rural residential",
+                "suburban residential",
+                "village centre",
                 ""
               ]
             }
@@ -581,8 +581,8 @@
             "constraints": {
               "enum": [
                 "North",
-                "South East",
                 "Rest of England",
+                "South East",
                 ""
               ]
             }
@@ -630,8 +630,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Disabled (GSS harmonised)",
                 "Non-disabled (GSS harmonised)",
+                "Disabled (GSS harmonised)",
                 ""
               ]
             }
@@ -642,8 +642,8 @@
             "constraints": {
               "enum": [
                 "White",
-                "Black",
                 "Asian",
+                "Black",
                 "Other",
                 "All minority",
                 ""
