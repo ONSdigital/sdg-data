@@ -55,7 +55,7 @@ jobs:
           # the personal access token being used).
           GITHUB_USERNAME: lucygwilliamadmin
           # Enter your Github organization (maybe the same as your username).
-          GITHUB_ORG: onsdigital
+          GITHUB_ORG: ONSdigital
           # Enter the site repository name
           GITHUB_SITE_REPO: sdg-indicators
           # Remember to create a personal access token and set it as a
