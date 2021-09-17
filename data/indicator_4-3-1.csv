@@ -1,10 +1,10 @@
-Year,Education category,Age,Sex,Region,Household income,Deprivation quantile,Employment status,Highest qualification,Disability and/or work-limiting disabled,Country of birth,Observation status,Unit multiplier,Unit measure,GeoCode,Value
+Year,Education category,Age,Sex,Region,Household income,Deprivation quantile,Employment status,Highest qualification,Disability status,Country of birth,Observation status,Unit multiplier,Unit measure,GeoCode,Value
 2016,Formal,,,,,,,,,Born in UK,Normal value,Units,Percentage (%),,10.0
 2016,Non-formal learning,,,,,,,,,Born in UK,Normal value,Units,Percentage (%),,42.0
 2016,Formal,,,,,,,,,Not born in UK,Normal value,Units,Percentage (%),,13.3
 2016,Non-formal learning,,,,,,,,,Not born in UK,Normal value,Units,Percentage (%),,44.1
 2016,Formal,,,East Midlands,,,Fulfilling domestic tasks,,Disability and/or work-limiting disabled,,Normal value,Units,Percentage (%),E12000004,12.6
-2016,Non-formal learning,,,East Midlands,,,Fulfilling domestic tasks,,Disability status,,Normal value,Units,Percentage (%),E12000004,41.1
+2016,Non-formal learning,,,East Midlands,,,Fulfilling domestic tasks,,Disability and/or work-limiting disabled,,Normal value,Units,Percentage (%),E12000004,41.1
 2016,Formal,,,East of England,,,Full-time,,No disability,,Normal value,Units,Percentage (%),E12000006,8.2
 2016,Non-formal learning,,,East of England,,,Full-time,,No disability,,Normal value,Units,Percentage (%),E12000006,41.4
 2016,Formal,,,,,,,A level or equivalent,,,Normal value,Units,Percentage (%),,15.4
