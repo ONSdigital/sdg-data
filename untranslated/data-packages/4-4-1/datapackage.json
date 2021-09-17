@@ -19,16 +19,16 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Changing the settings of any software, including operating system or security programs",
                 "Copying or moving a file or folder",
-                "Using word processing software",
                 "Creating presentations or documents containing or integrating pictures, tables or charts",
+                "Installing software or applications",
+                "Make backup copies of files on external storage devices or internet storage space",
+                "Transferring files between computers or other devices",
                 "Using software to edit photos, video or audio files",
                 "Using spreadsheet software",
+                "Using word processing software",
                 "Writing computer code using a programming language",
-                "Installing software or applications",
-                "Transferring files between computers or other devices",
-                "Changing the settings of any software, including operating system or security programs",
-                "Make backup copies of files on external storage devices or internet storage space",
                 ""
               ]
             }
@@ -53,8 +53,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             }
@@ -64,8 +64,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Disabled (GSS harmonised)",
                 "Non-disabled (GSS harmonised)",
+                "Disabled (GSS harmonised)",
                 ""
               ]
             }
@@ -84,7 +84,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
