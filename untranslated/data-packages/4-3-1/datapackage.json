@@ -45,8 +45,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             }
@@ -56,15 +56,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "North East",
-                "North West",
-                "Yorkshire and the Humber",
                 "East Midlands",
-                "West Midlands",
                 "East of England",
                 "London",
+                "North East",
+                "North West",
                 "South East",
                 "South West",
+                "West Midlands",
+                "Yorkshire and the Humber",
                 ""
               ]
             }
@@ -101,14 +101,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Full-time",
-                "Part-time",
-                "Unemployed",
-                "Mature student",
-                "Retired",
-                "Permanently disabled",
                 "Fulfilling domestic tasks",
+                "Full-time",
+                "Mature student",
                 "Other inactive",
+                "Part-time",
+                "Permanently disabled",
+                "Retired",
+                "Unemployed",
                 ""
               ]
             }
@@ -118,12 +118,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Degree or equivalent",
-                "Higher Education",
                 "A level or equivalent",
+                "Degree or equivalent",
                 "GCSE or equivalent",
-                "Other qualification",
+                "Higher Education",
                 "No qualification",
+                "Other qualification",
                 ""
               ]
             }
