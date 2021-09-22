@@ -15,12 +15,22 @@
             "type": "integer"
           },
           {
-            "name": "DAC classification",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Least developed countries (Bilateral and imputed Multilateral)",
-                "Least developed countries (Bilateral only)",
+                "Net official development assistance (ODA) as a percentage of GNI",
+                "Net official development assistance (ODA) to LDCs as a percentage of GNI",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "LDCs bilateral and multilateral flows",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Least developed countries (bilateral and imputed multilateral)",
                 ""
               ]
             }
@@ -34,8 +44,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

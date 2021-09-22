@@ -2014,16 +2014,15 @@
       "schema": {
         "fields": [
           {
-            "name": "DAC classification",
+            "name": "LDCs bilateral and multilateral flows",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Least developed countries (Bilateral and imputed Multilateral)",
-                "Least developed countries (Bilateral only)"
+                "Least developed countries (bilateral and imputed multilateral)"
               ]
             },
-            "title": "DAC classification"
+            "title": "LDCs bilateral and multilateral flows"
           },
           {
             "name": "Observation status",
@@ -2031,14 +2030,32 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
+            "name": "Series",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "",
+                "Net official development assistance (ODA) as a percentage of GNI",
+                "Net official development assistance (ODA) to LDCs as a percentage of GNI"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage (%)"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

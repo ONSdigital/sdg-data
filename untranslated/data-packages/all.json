@@ -1859,12 +1859,22 @@
             "type": "integer"
           },
           {
-            "name": "DAC classification",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Least developed countries (Bilateral and imputed Multilateral)",
-                "Least developed countries (Bilateral only)",
+                "Net official development assistance (ODA) as a percentage of GNI",
+                "Net official development assistance (ODA) to LDCs as a percentage of GNI",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "LDCs bilateral and multilateral flows",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Least developed countries (bilateral and imputed multilateral)",
                 ""
               ]
             }
@@ -1878,8 +1888,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -11337,9 +11353,9 @@
             "constraints": {
               "enum": [
                 "Enabling environment",
+                "Financing",
                 "Institutions and participation",
                 "Management instruments",
-                "Financing",
                 ""
               ]
             }
@@ -11349,35 +11365,35 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "National water resources policy",
-                "National water resources law",
-                "National integrated water resources management (IWRM) plans",
-                "Sub-national water resources policies",
-                "Basin and aquifer management plans",
                 "Arrangements for transboundary water management in most important basins and aquifers",
+                "Basin and aquifer management plans",
+                "National integrated water resources management (IWRM) plans",
+                "National water resources law",
+                "National water resources policy",
                 "Provincial and state water resources laws",
-                "National government authority capacity for leading implementation of national integrated water resources management (IWRM) plans",
-                "Coordination between national government authorities representing different sectors on water resources, policy, planning and management",
-                "Public participation in water resources, policy, planning and management at national level",
-                "Business participation in water resources development, management and use at national level",
-                "Developing integrated water resources management (IWRM) capacity at the national level",
-                "Basin and aquifer level organizations for leading implementation of integrated water resources management (IWRM) plans",
-                "Public participation in water resources, policy, planning and management at the local level",
-                "Organizational framework for transboundary water management for most important basins and aquifers",
-                "National monitoring of water availability",
-                "Sustainable and efficient water use management from the national level",
-                "Pollution control from the national level",
-                "Management of water-related ecosystems from the national level",
-                "Management instruments to reduce impacts of water-related disasters from the national level",
-                "Basin management instruments",
-                "Aquifer management instruments",
-                "Data and information sharing within countries at all levels",
-                "Transboundary data and information sharing between countries",
+                "Sub-national water resources policies",
+                "Financing for transboundary cooperation",
                 "National budget for investment including water resources infrastructure",
                 "National budget for the recurrent costs of the integrated water resources management (IWRM) elements",
-                "Sub-national or basin budgets for investment including water resources infrastructure",
                 "Revenues raised from dedicated levies on water users at basin, aquifer or sub-national levels",
-                "Financing for transboundary cooperation",
+                "Sub-national or basin budgets for investment including water resources infrastructure",
+                "Basin and aquifer level organizations for leading implementation of integrated water resources management (IWRM) plans",
+                "Business participation in water resources development, management and use at national level",
+                "Coordination between national government authorities representing different sectors on water resources, policy, planning and management",
+                "Developing integrated water resources management (IWRM) capacity at the national level",
+                "National government authority capacity for leading implementation of national integrated water resources management (IWRM) plans",
+                "Organizational framework for transboundary water management for most important basins and aquifers",
+                "Public participation in water resources, policy, planning and management at national level",
+                "Public participation in water resources, policy, planning and management at the local level",
+                "Aquifer management instruments",
+                "Basin management instruments",
+                "Data and information sharing within countries at all levels",
+                "Management instruments to reduce impacts of water-related disasters from the national level",
+                "Management of water-related ecosystems from the national level",
+                "National monitoring of water availability",
+                "Pollution control from the national level",
+                "Sustainable and efficient water use management from the national level",
+                "Transboundary data and information sharing between countries",
                 ""
               ]
             }
