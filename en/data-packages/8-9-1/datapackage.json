@@ -38,9 +38,16 @@
             "title": "Product"
           },
           {
-            "name": "Unit measure",
+            "name": "Series",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "",
+                "Tourism direct GDP as a percentage of GDP (%)",
+                "Tourism direct GDP growth rate (%)"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",
@@ -53,8 +60,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Tourism direct GDP as a percentage of GDP (%)",
-                "Tourism direct GDP growth rate (%)"
+                "Percentage (%)",
+                "Percentage change (%)"
               ]
             },
             "title": "Units"

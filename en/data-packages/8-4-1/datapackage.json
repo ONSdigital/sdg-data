@@ -30,6 +30,19 @@
             "title": "Observation status"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Material footprint",
+                "Material footprint per GDP",
+                "Material footprint per capita"
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Unit measure",
             "type": "string",
             "title": "Unit measure"
@@ -45,9 +58,9 @@
             "constraints": {
               "enum": [
                 "",
-                "Material footprint (Million metric tonnes)",
-                "Material footprint per GDP (Tonnes per £m)",
-                "Material footprint per capita (Tonnes)"
+                "Million metric tonnes",
+                "Tonnes",
+                "Tonnes per £m"
               ]
             },
             "title": "Units"

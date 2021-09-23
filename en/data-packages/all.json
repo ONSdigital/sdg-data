@@ -820,18 +820,30 @@
             "constraints": {
               "enum": [
                 "",
+                "East",
                 "East Midlands",
-                "East of England",
                 "London",
                 "North East",
                 "North West",
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and the Humber"
+                "Yorkshire and The Humber"
               ]
             },
             "title": "Region"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Not seasonally adjusted",
+                "Seasonally adjusted"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Sex",
@@ -839,8 +851,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Men",
-                "Women"
+                "Female",
+                "Male"
               ]
             },
             "title": "Sex"
@@ -854,18 +866,6 @@
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Not seasonally adjusted",
-                "Seasonally adjusted"
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",
@@ -8295,9 +8295,16 @@
             "title": "Product"
           },
           {
-            "name": "Unit measure",
+            "name": "Series",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "",
+                "Tourism direct GDP as a percentage of GDP (%)",
+                "Tourism direct GDP growth rate (%)"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",
@@ -8310,8 +8317,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Tourism direct GDP as a percentage of GDP (%)",
-                "Tourism direct GDP growth rate (%)"
+                "Percentage (%)",
+                "Percentage change (%)"
               ]
             },
             "title": "Units"
@@ -9237,7 +9244,6 @@
               "enum": [
                 "",
                 "Administrative and secretarial occupations",
-                "All",
                 "Associate professional and technical occupations",
                 "Caring, leisure and other service occupations",
                 "Elementary occupations",
@@ -9256,18 +9262,30 @@
             "constraints": {
               "enum": [
                 "",
+                "East",
                 "East Midlands",
-                "East of England",
                 "London",
                 "North East",
                 "North West",
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and the Humber"
+                "Yorkshire and The Humber"
               ]
             },
             "title": "Region"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1. Annual survey of hours and earnings (ASHE)",
+                "2. Annual population survey (APS)"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Sex",
@@ -9304,18 +9322,6 @@
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "1. Annual survey of hours and earnings (ASHE)",
-                "2. Annual population survey (APS)"
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",
@@ -11121,18 +11127,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Banking service",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Automated teller machines (ATMs)",
-                "Commerical bank branches and building societies"
-              ]
-            },
-            "title": "Banking service"
-          },
-          {
             "name": "Country",
             "type": "string",
             "constraints": {
@@ -11554,18 +11548,30 @@
             "constraints": {
               "enum": [
                 "",
+                "East",
                 "East Midlands",
-                "East of England",
                 "London",
                 "North East",
                 "North West",
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and the Humber"
+                "Yorkshire and The Humber"
               ]
             },
             "title": "Region"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Number of automated teller machines (ATMs) per 100,000 adults",
+                "Number of commercial bank branches and building societies per 100,000 adults"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit measure",
@@ -11633,6 +11639,19 @@
             "title": "Observation status"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Domestic material consumption",
+                "Domestic material consumption per GDP",
+                "Domestic material consumption per capita"
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Unit measure",
             "type": "string",
             "title": "Unit measure"
@@ -11648,9 +11667,9 @@
             "constraints": {
               "enum": [
                 "",
-                "Domestic material consumption (Million metric tonnes)",
-                "Domestic material consumption per GDP (Tonnes per £m)",
-                "Domestic material consumption per capita (Tonnes)"
+                "Million metric tonnes",
+                "Tonnes",
+                "Tonnes per £m"
               ]
             },
             "title": "Units"
@@ -12727,9 +12746,16 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
+            "name": "Series",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "",
+                "Marine protected area extent",
+                "Proportion of marine protected area"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",
@@ -12742,8 +12768,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Marine protected area extent",
-                "Proportion of marine protected area"
+                "Hectares",
+                "Percentage (%)"
               ]
             },
             "title": "Units"
@@ -12778,9 +12804,16 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
+            "name": "Series",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "",
+                "Marine protected area extent",
+                "Proportion of marine protected area"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",
@@ -12793,8 +12826,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Marine protected area extent",
-                "Proportion of marine protected area"
+                "Hectares",
+                "Percentage (%)"
               ]
             },
             "title": "Units"
@@ -15565,13 +15598,25 @@
             "title": "Observation status"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Not seasonally adjusted",
+                "Seasonally adjusted"
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Men",
-                "Women"
+                "Female",
+                "Male"
               ]
             },
             "title": "Sex"
@@ -15585,18 +15630,6 @@
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "1. Seasonally adjusted percentage (%)",
-                "2. Not seasonally adjusted percentage (%)"
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",
@@ -18027,16 +18060,16 @@
             "constraints": {
               "enum": [
                 "",
-                "16 to 19 *",
-                "16 to 24 #",
-                "20 to 24 *",
+                "16 to 19",
+                "16 to 24",
+                "20 to 24",
                 "25 to 34",
                 "35 to 44",
                 "45 to 54",
-                "55 and over #",
-                "55 to 59 *",
-                "60 to 64 *",
-                "65 and over *"
+                "55 and over",
+                "55 to 59",
+                "60 to 64",
+                "65 and over"
               ]
             },
             "title": "Age"
@@ -18048,7 +18081,7 @@
               "enum": [
                 "",
                 "England",
-                "England and Wales *",
+                "England and Wales",
                 "Scotland",
                 "Wales"
               ]
@@ -18066,28 +18099,28 @@
             "constraints": {
               "enum": [
                 "",
-                "Accommodation and food service activities #",
-                "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use #",
-                "Administrative and support service activities #",
+                "Accommodation and food service activities",
+                "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",
+                "Administrative and support service activities",
                 "Agriculture, forestry and fishing",
-                "Arts, entertainment and recreation #",
+                "Arts, entertainment and recreation",
                 "Construction",
-                "Education #",
-                "Electricity, gas, steam and air conditioning supply #",
-                "Financial and insurance activities #",
-                "Gas, electricity and water supply; sewerage, waste and recycling *",
-                "Human health and social work activities #",
-                "Information and communication #",
+                "Education",
+                "Electricity, gas, steam and air conditioning supply",
+                "Financial and insurance activities",
+                "Gas, electricity and water supply; sewerage, waste and recycling",
+                "Human health and social work activities",
+                "Information and communication",
                 "Manufacturing",
                 "Mining and quarrying",
-                "Other service activities #",
-                "Professional, scientific and technical activities #",
-                "Public administration and defence; compulsory social security #",
-                "Real estate activities #",
-                "Service industries *",
-                "Transportation and storage #",
-                "Water supply; sewerage, waste management and remediation activities #",
-                "Wholesale and retail trade; repair of motor vehicles and motorcycles #"
+                "Other service activities",
+                "Professional, scientific and technical activities",
+                "Public administration and defence; compulsory social security",
+                "Real estate activities",
+                "Service industries",
+                "Transportation and storage",
+                "Water supply; sewerage, waste management and remediation activities",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles"
               ]
             },
             "title": "Industry sector"
@@ -18122,18 +18155,30 @@
             "constraints": {
               "enum": [
                 "",
+                "East",
                 "East Midlands",
-                "East of England",
                 "London",
                 "North East",
                 "North West",
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and the Humber"
+                "Yorkshire and The Humber"
               ]
             },
             "title": "Region"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Fatal injury",
+                "Non-fatal injury"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Sex",
@@ -18148,11 +18193,6 @@
             "title": "Sex"
           },
           {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
@@ -18163,8 +18203,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Fatal injury (rate per 100,000 workers)",
-                "Non-fatal injury (rate per 100,000 workers)"
+                "Rate per 100,000 workers"
               ]
             },
             "title": "Units"
@@ -20447,6 +20486,19 @@
             "title": "Observation status"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Material footprint",
+                "Material footprint per GDP",
+                "Material footprint per capita"
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Unit measure",
             "type": "string",
             "title": "Unit measure"
@@ -20462,9 +20514,9 @@
             "constraints": {
               "enum": [
                 "",
-                "Material footprint (Million metric tonnes)",
-                "Material footprint per GDP (Tonnes per £m)",
-                "Material footprint per capita (Tonnes)"
+                "Million metric tonnes",
+                "Tonnes",
+                "Tonnes per £m"
               ]
             },
             "title": "Units"

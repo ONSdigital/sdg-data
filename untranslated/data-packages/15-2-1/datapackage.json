@@ -47,9 +47,9 @@
             "constraints": {
               "enum": [
                 "England",
-                "Wales",
-                "Scotland",
                 "Northern Ireland",
+                "Scotland",
+                "Wales",
                 ""
               ]
             }

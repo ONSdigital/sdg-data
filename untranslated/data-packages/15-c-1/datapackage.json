@@ -19,16 +19,16 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Butterflies",
                 "Caviar and caviar extract",
-                "Live coral and coral derivatives",
                 "Ivory and items containing Ivory",
                 "Live animals and birds",
+                "Live coral and coral derivatives",
                 "Live plants",
                 "Parts or derivatives of animals or birds",
                 "Parts or derivatives of plants",
-                "Timber or wood products",
                 "Preparations of Oriental medicine which include parts and derivatives of endangered species",
-                "Butterflies",
+                "Timber or wood products",
                 ""
               ]
             }

@@ -44,11 +44,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Undefined",
                 "LDCs",
                 "LMICs",
-                "Other LICs",
                 "UMICs",
+                "Other LICs",
+                "Undefined",
                 ""
               ]
             }

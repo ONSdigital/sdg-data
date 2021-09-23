@@ -28,13 +28,25 @@
             "title": "Observation status"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Not seasonally adjusted",
+                "Seasonally adjusted"
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Men",
-                "Women"
+                "Female",
+                "Male"
               ]
             },
             "title": "Sex"
@@ -48,18 +60,6 @@
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "1. Seasonally adjusted percentage (%)",
-                "2. Not seasonally adjusted percentage (%)"
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",

@@ -30,6 +30,19 @@
             "title": "Observation status"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Domestic material consumption",
+                "Domestic material consumption per GDP",
+                "Domestic material consumption per capita"
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Unit measure",
             "type": "string",
             "title": "Unit measure"
@@ -45,9 +58,9 @@
             "constraints": {
               "enum": [
                 "",
-                "Domestic material consumption (Million metric tonnes)",
-                "Domestic material consumption per GDP (Tonnes per £m)",
-                "Domestic material consumption per capita (Tonnes)"
+                "Million metric tonnes",
+                "Tonnes",
+                "Tonnes per £m"
               ]
             },
             "title": "Units"

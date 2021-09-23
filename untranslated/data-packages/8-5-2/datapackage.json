@@ -15,7 +15,7 @@
             "type": "string"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,53 +26,18 @@
             }
           },
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Men",
-                "Women",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
+                "16 to 17",
                 "16 to 24",
                 "16 to 64",
-                "16 to 17",
                 "18 to 24",
                 "25 to 34",
                 "35 to 49",
                 "50 to 64",
                 "65 and over",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Disability status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Disabled (GSS harmonised)",
-                "Non-disabled (GSS harmonised)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Country of birth",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Born in UK",
-                "Not born in UK",
-                "Born in EU (Non-UK)",
-                "Not born in EU (Non-UK)",
                 ""
               ]
             }
@@ -97,14 +62,49 @@
             "constraints": {
               "enum": [
                 "East Midlands",
-                "East of England",
+                "East",
                 "London",
                 "North East",
                 "North West",
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and the Humber",
+                "Yorkshire and The Humber",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country of birth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Born in UK",
+                "Not born in UK",
+                "Born in EU (Non-UK)",
+                "Not born in EU (Non-UK)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disabled (GSS harmonised)",
+                "Non-disabled (GSS harmonised)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
                 ""
               ]
             }

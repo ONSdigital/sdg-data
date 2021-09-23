@@ -11,18 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Banking service",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Automated teller machines (ATMs)",
-                "Commerical bank branches and building societies"
-              ]
-            },
-            "title": "Banking service"
-          },
-          {
             "name": "Country",
             "type": "string",
             "constraints": {
@@ -444,18 +432,30 @@
             "constraints": {
               "enum": [
                 "",
+                "East",
                 "East Midlands",
-                "East of England",
                 "London",
                 "North East",
                 "North West",
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and the Humber"
+                "Yorkshire and The Humber"
               ]
             },
             "title": "Region"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Number of automated teller machines (ATMs) per 100,000 adults",
+                "Number of commercial bank branches and building societies per 100,000 adults"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit measure",

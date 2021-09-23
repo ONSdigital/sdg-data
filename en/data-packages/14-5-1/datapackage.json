@@ -16,9 +16,16 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
+            "name": "Series",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "",
+                "Marine protected area extent",
+                "Proportion of marine protected area"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",
@@ -31,8 +38,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Marine protected area extent",
-                "Proportion of marine protected area"
+                "Hectares",
+                "Percentage (%)"
               ]
             },
             "title": "Units"

@@ -85,18 +85,30 @@
             "constraints": {
               "enum": [
                 "",
+                "East",
                 "East Midlands",
-                "East of England",
                 "London",
                 "North East",
                 "North West",
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and the Humber"
+                "Yorkshire and The Humber"
               ]
             },
             "title": "Region"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Not seasonally adjusted",
+                "Seasonally adjusted"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Sex",
@@ -104,8 +116,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Men",
-                "Women"
+                "Female",
+                "Male"
               ]
             },
             "title": "Sex"
@@ -119,18 +131,6 @@
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Not seasonally adjusted",
-                "Seasonally adjusted"
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",

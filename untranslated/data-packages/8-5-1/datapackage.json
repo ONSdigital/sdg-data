@@ -15,47 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "1. Annual survey of hours and earnings (ASHE)",
                 "2. Annual population survey (APS)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Men",
-                "Women",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex by disability",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male, Non-disabled (GSS harmonised)",
-                "Male, Disabled (GSS harmonised)",
-                "Female, Non-disabled (GSS harmonised)",
-                "Female, Disabled (GSS harmonised)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Working Pattern",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Full Time",
-                "Part Time",
                 ""
               ]
             }
@@ -71,36 +36,6 @@
                 "40 to 49",
                 "50 to 59",
                 "60 and over",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Occupation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Administrative and secretarial occupations",
-                "All",
-                "Associate professional and technical occupations",
-                "Caring, leisure and other service occupations",
-                "Elementary occupations",
-                "Managers, directors and senior officials",
-                "Process, plant and machine operatives",
-                "Professional occupations",
-                "Sales and customer service occupations",
-                "Skilled trades occupations",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Disability status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Non-disabled (GSS harmonised)",
-                "Disabled (GSS harmonised)",
                 ""
               ]
             }
@@ -123,7 +58,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "East of England",
+                "East",
                 "East Midlands",
                 "London",
                 "North East",
@@ -131,7 +66,71 @@
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and the Humber",
+                "Yorkshire and The Humber",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disabled (GSS harmonised)",
+                "Non-disabled (GSS harmonised)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex by disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female, Disabled (GSS harmonised)",
+                "Female, Non-disabled (GSS harmonised)",
+                "Male, Disabled (GSS harmonised)",
+                "Male, Non-disabled (GSS harmonised)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Administrative and secretarial occupations",
+                "Associate professional and technical occupations",
+                "Caring, leisure and other service occupations",
+                "Elementary occupations",
+                "Managers, directors and senior officials",
+                "Process, plant and machine operatives",
+                "Professional occupations",
+                "Sales and customer service occupations",
+                "Skilled trades occupations",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Working Pattern",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Full Time",
+                "Part Time",
                 ""
               ]
             }

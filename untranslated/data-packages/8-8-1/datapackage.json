@@ -19,8 +19,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Fatal injury (rate per 100,000 workers)",
-                "Non-fatal injury (rate per 100,000 workers)",
+                "Rate per 100,000 workers",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non-fatal injury",
+                "Fatal injury",
                 ""
               ]
             }
@@ -30,8 +40,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             }
@@ -41,16 +51,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 to 19 *",
-                "20 to 24 *",
+                "16 to 19",
+                "16 to 24",
+                "20 to 24",
                 "25 to 34",
                 "35 to 44",
                 "45 to 54",
-                "55 to 59 *",
-                "60 to 64 *",
-                "65 and over *",
-                "16 to 24 #",
-                "55 and over #",
+                "55 and over",
+                "55 to 59",
+                "60 to 64",
+                "65 and over",
                 ""
               ]
             }
@@ -60,10 +70,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "England and Wales *",
                 "England",
-                "Wales",
+                "England and Wales",
                 "Scotland",
+                "Wales",
                 ""
               ]
             }
@@ -73,15 +83,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "East",
+                "East Midlands",
+                "London",
                 "North East",
                 "North West",
-                "Yorkshire and the Humber",
-                "East Midlands",
-                "West Midlands",
-                "East of England",
-                "London",
                 "South East",
                 "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             }
@@ -93,26 +103,26 @@
               "enum": [
                 "Agriculture, forestry and fishing",
                 "Mining and quarrying",
-                "Gas, electricity and water supply; sewerage, waste and recycling *",
+                "Gas, electricity and water supply; sewerage, waste and recycling",
                 "Manufacturing",
                 "Construction",
-                "Service industries *",
-                "Electricity, gas, steam and air conditioning supply #",
-                "Water supply; sewerage, waste management and remediation activities #",
-                "Wholesale and retail trade; repair of motor vehicles and motorcycles #",
-                "Transportation and storage #",
-                "Accommodation and food service activities #",
-                "Information and communication #",
-                "Financial and insurance activities #",
-                "Real estate activities #",
-                "Professional, scientific and technical activities #",
-                "Administrative and support service activities #",
-                "Public administration and defence; compulsory social security #",
-                "Education #",
-                "Human health and social work activities #",
-                "Arts, entertainment and recreation #",
-                "Other service activities #",
-                "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use #",
+                "Service industries",
+                "Electricity, gas, steam and air conditioning supply",
+                "Water supply; sewerage, waste management and remediation activities",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+                "Transportation and storage",
+                "Accommodation and food service activities",
+                "Information and communication",
+                "Financial and insurance activities",
+                "Real estate activities",
+                "Professional, scientific and technical activities",
+                "Administrative and support service activities",
+                "Public administration and defence; compulsory social security",
+                "Education",
+                "Human health and social work activities",
+                "Arts, entertainment and recreation",
+                "Other service activities",
+                "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",
                 ""
               ]
             }
@@ -122,22 +132,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Managers, directors and senior officials",
-                "Professional occupations",
-                "Associate professional and technical occupations",
                 "Administrative and secretarial occupations",
-                "Skilled trades occupations",
+                "Associate professional and technical occupations",
                 "Caring, leisure and other service occupations",
-                "Sales and customer service occupations",
-                "Process, plant and machine operatives",
                 "Elementary occupations",
+                "Managers, directors and senior officials",
+                "Process, plant and machine operatives",
+                "Professional occupations",
+                "Sales and customer service occupations",
+                "Skilled trades occupations",
                 ""
               ]
             }
-          },
-          {
-            "name": "Unit measure",
-            "type": "string"
           },
           {
             "name": "Unit multiplier",

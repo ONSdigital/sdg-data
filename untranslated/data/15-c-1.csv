@@ -1,12 +1,8 @@
 Year,Import type,Unit measure,Unit multiplier,Observation status,Value
-2013,,Number of times seized,Units,Undefined,569.0
-2014,,Number of times seized,Units,Undefined,512.0
-2015,,Number of times seized,Units,Undefined,858.0
-2016,,Number of times seized,Units,Undefined,689.0
-2017,,Number of times seized,Units,Undefined,1076.0
-2018,,Number of times seized,Units,Undefined,1116.0
-2019,,Number of times seized,Units,Undefined,792.0
-2020,,Number of times seized,Units,Undefined,488.0
+2017,Butterflies,Number of times seized,Units,Undefined,1.0
+2018,Butterflies,Number of times seized,Units,Undefined,8.0
+2019,Butterflies,Number of times seized,Units,Undefined,4.0
+2020,Butterflies,Number of times seized,Units,Undefined,1.0
 2013,Caviar and caviar extract,Number of times seized,Units,Undefined,24.0
 2014,Caviar and caviar extract,Number of times seized,Units,Undefined,22.0
 2015,Caviar and caviar extract,Number of times seized,Units,Undefined,31.0
@@ -15,14 +11,6 @@ Year,Import type,Unit measure,Unit multiplier,Observation status,Value
 2018,Caviar and caviar extract,Number of times seized,Units,Undefined,41.0
 2019,Caviar and caviar extract,Number of times seized,Units,Undefined,27.0
 2020,Caviar and caviar extract,Number of times seized,Units,Undefined,4.0
-2013,Live coral and coral derivatives,Number of times seized,Units,Undefined,18.0
-2014,Live coral and coral derivatives,Number of times seized,Units,Undefined,14.0
-2015,Live coral and coral derivatives,Number of times seized,Units,Undefined,22.0
-2016,Live coral and coral derivatives,Number of times seized,Units,Undefined,16.0
-2017,Live coral and coral derivatives,Number of times seized,Units,Undefined,21.0
-2018,Live coral and coral derivatives,Number of times seized,Units,Undefined,7.0
-2019,Live coral and coral derivatives,Number of times seized,Units,Undefined,11.0
-2020,Live coral and coral derivatives,Number of times seized,Units,Undefined,8.0
 2013,Ivory and items containing Ivory,Number of times seized,Units,Undefined,43.0
 2014,Ivory and items containing Ivory,Number of times seized,Units,Undefined,40.0
 2015,Ivory and items containing Ivory,Number of times seized,Units,Undefined,183.0
@@ -39,6 +27,14 @@ Year,Import type,Unit measure,Unit multiplier,Observation status,Value
 2018,Live animals and birds,Number of times seized,Units,Undefined,12.0
 2019,Live animals and birds,Number of times seized,Units,Undefined,10.0
 2020,Live animals and birds,Number of times seized,Units,Undefined,6.0
+2013,Live coral and coral derivatives,Number of times seized,Units,Undefined,18.0
+2014,Live coral and coral derivatives,Number of times seized,Units,Undefined,14.0
+2015,Live coral and coral derivatives,Number of times seized,Units,Undefined,22.0
+2016,Live coral and coral derivatives,Number of times seized,Units,Undefined,16.0
+2017,Live coral and coral derivatives,Number of times seized,Units,Undefined,21.0
+2018,Live coral and coral derivatives,Number of times seized,Units,Undefined,7.0
+2019,Live coral and coral derivatives,Number of times seized,Units,Undefined,11.0
+2020,Live coral and coral derivatives,Number of times seized,Units,Undefined,8.0
 2013,Live plants,Number of times seized,Units,Undefined,6.0
 2014,Live plants,Number of times seized,Units,Undefined,6.0
 2015,Live plants,Number of times seized,Units,Undefined,45.0
@@ -63,14 +59,6 @@ Year,Import type,Unit measure,Unit multiplier,Observation status,Value
 2018,Parts or derivatives of plants,Number of times seized,Units,Undefined,189.0
 2019,Parts or derivatives of plants,Number of times seized,Units,Undefined,247.0
 2020,Parts or derivatives of plants,Number of times seized,Units,Undefined,192.0
-2013,Timber or wood products,Number of times seized,Units,Undefined,142.0
-2014,Timber or wood products,Number of times seized,Units,Undefined,33.0
-2015,Timber or wood products,Number of times seized,Units,Undefined,26.0
-2016,Timber or wood products,Number of times seized,Units,Undefined,18.0
-2017,Timber or wood products,Number of times seized,Units,Undefined,401.0
-2018,Timber or wood products,Number of times seized,Units,Undefined,433.0
-2019,Timber or wood products,Number of times seized,Units,Undefined,117.0
-2020,Timber or wood products,Number of times seized,Units,Undefined,80.0
 2013,Preparations of Oriental medicine which include parts and derivatives of endangered species,Number of times seized,Units,Undefined,187.0
 2014,Preparations of Oriental medicine which include parts and derivatives of endangered species,Number of times seized,Units,Undefined,210.0
 2015,Preparations of Oriental medicine which include parts and derivatives of endangered species,Number of times seized,Units,Undefined,334.0
@@ -79,7 +67,19 @@ Year,Import type,Unit measure,Unit multiplier,Observation status,Value
 2018,Preparations of Oriental medicine which include parts and derivatives of endangered species,Number of times seized,Units,Undefined,82.0
 2019,Preparations of Oriental medicine which include parts and derivatives of endangered species,Number of times seized,Units,Undefined,79.0
 2020,Preparations of Oriental medicine which include parts and derivatives of endangered species,Number of times seized,Units,Undefined,22.0
-2017,Butterflies,Number of times seized,Units,Undefined,1.0
-2018,Butterflies,Number of times seized,Units,Undefined,8.0
-2019,Butterflies,Number of times seized,Units,Undefined,4.0
-2020,Butterflies,Number of times seized,Units,Undefined,1.0
+2013,Timber or wood products,Number of times seized,Units,Undefined,142.0
+2014,Timber or wood products,Number of times seized,Units,Undefined,33.0
+2015,Timber or wood products,Number of times seized,Units,Undefined,26.0
+2016,Timber or wood products,Number of times seized,Units,Undefined,18.0
+2017,Timber or wood products,Number of times seized,Units,Undefined,401.0
+2018,Timber or wood products,Number of times seized,Units,Undefined,433.0
+2019,Timber or wood products,Number of times seized,Units,Undefined,117.0
+2020,Timber or wood products,Number of times seized,Units,Undefined,80.0
+2013,,Number of times seized,Units,Undefined,569.0
+2014,,Number of times seized,Units,Undefined,512.0
+2015,,Number of times seized,Units,Undefined,858.0
+2016,,Number of times seized,Units,Undefined,689.0
+2017,,Number of times seized,Units,Undefined,1076.0
+2018,,Number of times seized,Units,Undefined,1116.0
+2019,,Number of times seized,Units,Undefined,792.0
+2020,,Number of times seized,Units,Undefined,488.0

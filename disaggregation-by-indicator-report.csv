@@ -72,8 +72,8 @@ Indicator,Disaggregations,Number of disaggregations
 #3-2-1,"Sex, Country",2
 #3-2-2,"Age, Region, Sex, Country, Health Board, Birth weight",6
 #3-3-1,"Age, Sex, Country, Ethnicity, Exposure category",5
-#3-3-2,"Region, Country of birth, Country, Ethnic group",4
-#3-3-3,"Age, Region, Sex, Country of birth, Country, Malaria species, Fatality, Ethnic Group, Region of travel",9
+#3-3-2,"Region, Country, Country of birth, Ethnic group",4
+#3-3-3,"Age, Region, Sex, Country, Country of birth, Malaria species, Fatality, Ethnic Group, Region of travel",9
 #3-3-4,"Age, Region, Sex",3
 #3-3-5,"Country, Region of travel, Type of Neglected Tropical Disease (NTD)",3
 #3-4-1,"Age, Region, Sex, Country, Type of disease, Chronic respiratory disease type",6
@@ -87,7 +87,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-9-1,"Region, Local Authority, County",3
 #3-9-2,"Sex, Country",2
 #3-9-3,"Age, Region, Sex, Country, Unintentional poisoning category",5
-#3-a-1,"Age, Region, Sex, Country of birth, Country, Ethnicity, Socio-economic classification",7
+#3-a-1,"Age, Region, Sex, Country, Country of birth, Ethnicity, Socio-economic classification",7
 #3-b-1,"Age, Region, Country, Vaccine",4
 #3-b-2,"Flow of Official Development Assistance (ODA), Aid description (CRS code), Aid sub-category (DAC 5 code)",3
 #3-c-1,"Sex, Occupation unit group, Occupation minor group",3
@@ -122,13 +122,13 @@ Indicator,Disaggregations,Number of disaggregations
 #7-3-1,Industry sector,1
 #7-a-1,Flow of Official Development Assistance (ODA),1
 #7-b-1,"Region, Country, Renewable Source, Wind, Bioenergy",5
-#8-10-1,"Region, Country, Local Authority, Urban or rural, Banking service",5
+#8-10-1,"Region, Country, Local Authority, Urban or rural",4
 #8-10-2,"Age, Sex, Bank account category",3
 #8-3-1,"Region, Sex, Country, Sector",4
 #8-4-1,Material category,1
 #8-4-2,Material category,1
-#8-5-1,"Age, Disability status, Region, Sex, Country, Sex by disability, Working Pattern, Occupation",8
-#8-5-2,"Age, Disability status, Region, Sex, Country of birth, Country",6
+#8-5-1,"Age, Disability status, Region, Sex, Country, Sex by disability, Occupation, Working Pattern",8
+#8-5-2,"Age, Disability status, Region, Sex, Country, Country of birth",6
 #8-6-1,"Age, Sex",2
 #8-8-1,"Age, Region, Sex, Country, Industry sector, Occupation",6
 #8-9-1,Product,1

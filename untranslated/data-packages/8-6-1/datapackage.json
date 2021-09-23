@@ -15,12 +15,12 @@
             "type": "string"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "1. Seasonally adjusted percentage (%)",
-                "2. Not seasonally adjusted percentage (%)",
+                "Seasonally adjusted",
+                "Not seasonally adjusted",
                 ""
               ]
             }
@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Female",
+                "Male",
                 ""
               ]
             }

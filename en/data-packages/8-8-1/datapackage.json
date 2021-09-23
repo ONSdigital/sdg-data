@@ -16,16 +16,16 @@
             "constraints": {
               "enum": [
                 "",
-                "16 to 19 *",
-                "16 to 24 #",
-                "20 to 24 *",
+                "16 to 19",
+                "16 to 24",
+                "20 to 24",
                 "25 to 34",
                 "35 to 44",
                 "45 to 54",
-                "55 and over #",
-                "55 to 59 *",
-                "60 to 64 *",
-                "65 and over *"
+                "55 and over",
+                "55 to 59",
+                "60 to 64",
+                "65 and over"
               ]
             },
             "title": "Age"
@@ -37,7 +37,7 @@
               "enum": [
                 "",
                 "England",
-                "England and Wales *",
+                "England and Wales",
                 "Scotland",
                 "Wales"
               ]
@@ -55,28 +55,28 @@
             "constraints": {
               "enum": [
                 "",
-                "Accommodation and food service activities #",
-                "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use #",
-                "Administrative and support service activities #",
+                "Accommodation and food service activities",
+                "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",
+                "Administrative and support service activities",
                 "Agriculture, forestry and fishing",
-                "Arts, entertainment and recreation #",
+                "Arts, entertainment and recreation",
                 "Construction",
-                "Education #",
-                "Electricity, gas, steam and air conditioning supply #",
-                "Financial and insurance activities #",
-                "Gas, electricity and water supply; sewerage, waste and recycling *",
-                "Human health and social work activities #",
-                "Information and communication #",
+                "Education",
+                "Electricity, gas, steam and air conditioning supply",
+                "Financial and insurance activities",
+                "Gas, electricity and water supply; sewerage, waste and recycling",
+                "Human health and social work activities",
+                "Information and communication",
                 "Manufacturing",
                 "Mining and quarrying",
-                "Other service activities #",
-                "Professional, scientific and technical activities #",
-                "Public administration and defence; compulsory social security #",
-                "Real estate activities #",
-                "Service industries *",
-                "Transportation and storage #",
-                "Water supply; sewerage, waste management and remediation activities #",
-                "Wholesale and retail trade; repair of motor vehicles and motorcycles #"
+                "Other service activities",
+                "Professional, scientific and technical activities",
+                "Public administration and defence; compulsory social security",
+                "Real estate activities",
+                "Service industries",
+                "Transportation and storage",
+                "Water supply; sewerage, waste management and remediation activities",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles"
               ]
             },
             "title": "Industry sector"
@@ -111,18 +111,30 @@
             "constraints": {
               "enum": [
                 "",
+                "East",
                 "East Midlands",
-                "East of England",
                 "London",
                 "North East",
                 "North West",
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and the Humber"
+                "Yorkshire and The Humber"
               ]
             },
             "title": "Region"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Fatal injury",
+                "Non-fatal injury"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Sex",
@@ -137,11 +149,6 @@
             "title": "Sex"
           },
           {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
@@ -152,8 +159,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Fatal injury (rate per 100,000 workers)",
-                "Non-fatal injury (rate per 100,000 workers)"
+                "Rate per 100,000 workers"
               ]
             },
             "title": "Units"
