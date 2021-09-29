@@ -12809,7 +12809,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Sex",
@@ -12834,6 +12834,7 @@
                 "30 to 39",
                 "40 to 49",
                 "50 to 59",
+                "60 and over",
                 "60 to 69",
                 "70 and over",
                 ""
