@@ -1,183 +1,285 @@
-Year,Age (head of household),Country,Region,Ethnicity (head of household),Ethnic group (head of household),Household composition - children,Number of children present,Number of adults,Household composition - adult(s) over State Pension age,Number of adults over state pension age,Sex of adult in single person household,Household composition - disabled adults,Household composition - disabled adults under State Pension age,Household composition - unemployed adults under State Pension age,Highest qualification (head of household),Household gross weekly income,State Support,State suppport detail,Tenure,Tenure sub-category,Series,Units,Observation status,GeoCode,Value
-2019/2020,,,,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,,4.0
-2019/2020,,England,,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,E92000001,4.0
-2019/2020,,Wales,,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,W92000004,3.0
-2019/2020,,Scotland,,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,S92000003,4.0
-2019/2020,,Northern Ireland,,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,N92000002,4.0
-2019/2020,,Great Britain,,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,K03000001,4.0
-2019/2020,,England,North East,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,E12000001,6.0
-2019/2020,,England,North West,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,E12000002,5.0
-2019/2020,,England,Yorkshire and the Humber,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,,4.0
-2019/2020,,England,East Midlands,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,E12000004,3.0
-2019/2020,,England,West Midlands,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,E12000005,4.0
-2019/2020,,England,East,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,E12000006,3.0
-2019/2020,,England,London,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,E12000007,3.0
-2019/2020,,England,Inner London,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,E13000001,4.0
-2019/2020,,England,Outer London,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,E13000002,3.0
-2019/2020,,England,South East,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,E12000008,3.0
-2019/2020,,England,South West,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,E12000009,4.0
-2019/2020,,,,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,,8.0
-2019/2020,,England,,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,E92000001,8.0
-2019/2020,,Wales,,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,W92000004,7.0
-2019/2020,,Scotland,,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,S92000003,8.0
-2019/2020,,Northern Ireland,,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,N92000002,7.0
-2019/2020,,Great Britain,,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,K03000001,8.0
-2019/2020,,England,North East,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,E12000001,11.0
-2019/2020,,England,North West,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,E12000002,10.0
-2019/2020,,England,Yorkshire and the Humber,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,,8.0
-2019/2020,,England,East Midlands,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,E12000004,7.0
-2019/2020,,England,West Midlands,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,E12000005,8.0
-2019/2020,,England,East,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,E12000006,5.0
-2019/2020,,England,London,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,E12000007,9.0
-2019/2020,,England,Inner London,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,E13000001,8.0
-2019/2020,,England,Outer London,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,E13000002,9.0
-2019/2020,,England,South East,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,E12000008,6.0
-2019/2020,,England,South West,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,E12000009,6.0
-2019/2020,,,,,,Households without children,,,,,,,,,,,,,,,Very low,Percentage (%),,,3.0
-2019/2020,,,,,,Households without children,,1 adult,,,,,,,,,,,,,Very low,Percentage (%),,,6.0
-2019/2020,,,,,,Households without children,,1 adult,Households with one or more adults over State Pension age,1 adult over State Pension age,Male,,,,,,,,,,Very low,Percentage (%),,,1.0
-2019/2020,,,,,,Households without children,,1 adult,Households with one or more adults over State Pension age,1 adult over State Pension age,Female,,,,,,,,,,Very low,Percentage (%),,,1.0
-2019/2020,,,,,,Households without children,,1 adult,Households with no adults over State Pension age,,Male,,,,,,,,,,Very low,Percentage (%),,,9.0
-2019/2020,,,,,,Households without children,,1 adult,Households with no adults over State Pension age,1 adult over State Pension age,Female,,,,,,,,,,Very low,Percentage (%),,,9.0
-2019/2020,,,,,,Households without children,,2 adults,,,,,,,,,,,,,Very low,Percentage (%),,,1.0
-2019/2020,,,,,,Households without children,,2 adults,Households with one or more adults over State Pension age,2 adults over state pension age,,,,,,,,,,,Very low,Percentage (%),Missing value,,
-2019/2020,,,,,,Households without children,,2 adults,Households with one or more adults over State Pension age,1 adult over State Pension age,,,,,,,,,,,Very low,Percentage (%),,,1.0
-2019/2020,,,,,,Households without children,,2 adults,Households with no adults over State Pension age,,,,,,,,,,,,Very low,Percentage (%),,,2.0
-2019/2020,,,,,,Households without children,,3 or more adults,,,,,,,,,,,,,Very low,Percentage (%),,,3.0
-2019/2020,,,,,,Households with children,,,,,,,,,,,,,,,Very low,Percentage (%),,,5.0
-2019/2020,,,,,,Households with children,,1 adult,,,,,,,,,,,,,Very low,Percentage (%),,,13.0
-2019/2020,,,,,,Households with children,1 child,1 adult,,,,,,,,,,,,,Very low,Percentage (%),,,11.0
-2019/2020,,,,,,Households with children,2 children,1 adult,,,,,,,,,,,,,Very low,Percentage (%),,,13.0
-2019/2020,,,,,,Households with children,3 or more children,1 adult,,,,,,,,,,,,,Very low,Percentage (%),,,19.0
-2019/2020,,,,,,Households with children,,2 adults,,,,,,,,,,,,,Very low,Percentage (%),,,3.0
-2019/2020,,,,,,Households with children,1 child,2 adults,,,,,,,,,,,,,Very low,Percentage (%),,,3.0
-2019/2020,,,,,,Households with children,2 children,2 adults,,,,,,,,,,,,,Very low,Percentage (%),,,2.0
-2019/2020,,,,,,Households with children,3 or more children,2 adults,,,,,,,,,,,,,Very low,Percentage (%),,,6.0
-2019/2020,,,,,,Households with children,,3 or more adults,,,,,,,,,,,,,Very low,Percentage (%),,,4.0
-2019/2020,,,,,,Households with children,1 child,3 or more adults,,,,,,,,,,,,,Very low,Percentage (%),,,3.0
-2019/2020,,,,,,Households with children,2 children,3 or more adults,,,,,,,,,,,,,Very low,Percentage (%),,,3.0
-2019/2020,,,,,,Households with children,3 or more children,3 or more adults,,,,,,,,,,,,,Very low,Percentage (%),Missing value; suppressed,,
-2019/2020,,,,,,,,,Households with one or more adults over State Pension age,,,,,,,,,,,,Very low,Percentage (%),,,1.0
-2019/2020,,,,,,,,,,,,,Households with one or more disabled adults under State Pension age,,,,,,,,Very low,Percentage (%),,,11.0
-2019/2020,,,,,,,,,,,,,,Households with one or more unemployed adults under State Pension age,,,,,,,Very low,Percentage (%),,,16.0
-2019/2020,,,,,,Households without children,,,,,,,,,,,,,,,Low or very low,Percentage (%),,,6.0
-2019/2020,,,,,,Households without children,,1 adult,,,,,,,,,,,,,Low or very low,Percentage (%),,,10.0
-2019/2020,,,,,,Households without children,,1 adult,Households with one or more adults over State Pension age,1 adult over State Pension age,Male,,,,,,,,,,Low or very low,Percentage (%),,,3.0
-2019/2020,,,,,,Households without children,,1 adult,Households with one or more adults over State Pension age,1 adult over State Pension age,Female,,,,,,,,,,Low or very low,Percentage (%),,,3.0
-2019/2020,,,,,,Households without children,,1 adult,Households with no adults over State Pension age,,Male,,,,,,,,,,Low or very low,Percentage (%),,,15.0
-2019/2020,,,,,,Households without children,,1 adult,Households with no adults over State Pension age,1 adult over State Pension age,Female,,,,,,,,,,Low or very low,Percentage (%),,,17.0
-2019/2020,,,,,,Households without children,,2 adults,,,,,,,,,,,,,Low or very low,Percentage (%),,,3.0
-2019/2020,,,,,,Households without children,,2 adults,Households with one or more adults over State Pension age,2 adults over state pension age,,,,,,,,,,,Low or very low,Percentage (%),,,1.0
-2019/2020,,,,,,Households without children,,2 adults,Households with one or more adults over State Pension age,1 adult over State Pension age,,,,,,,,,,,Low or very low,Percentage (%),,,2.0
-2019/2020,,,,,,Households without children,,2 adults,Households with no adults over State Pension age,,,,,,,,,,,,Low or very low,Percentage (%),,,5.0
-2019/2020,,,,,,Households without children,,3 or more adults,,,,,,,,,,,,,Low or very low,Percentage (%),,,6.0
-2019/2020,,,,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,,11.0
-2019/2020,,,,,,Households with children,,1 adult,,,,,,,,,,,,,Low or very low,Percentage (%),,,29.0
-2019/2020,,,,,,Households with children,1 child,1 adult,,,,,,,,,,,,,Low or very low,Percentage (%),,,26.0
-2019/2020,,,,,,Households with children,2 children,1 adult,,,,,,,,,,,,,Low or very low,Percentage (%),,,28.0
-2019/2020,,,,,,Households with children,3 or more children,1 adult,,,,,,,,,,,,,Low or very low,Percentage (%),,,41.0
-2019/2020,,,,,,Households with children,,2 adults,,,,,,,,,,,,,Low or very low,Percentage (%),,,7.0
-2019/2020,,,,,,Households with children,1 child,2 adults,,,,,,,,,,,,,Low or very low,Percentage (%),,,6.0
-2019/2020,,,,,,Households with children,2 children,2 adults,,,,,,,,,,,,,Low or very low,Percentage (%),,,5.0
-2019/2020,,,,,,Households with children,3 or more children,2 adults,,,,,,,,,,,,,Low or very low,Percentage (%),,,13.0
-2019/2020,,,,,,Households with children,,3 or more adults,,,,,,,,,,,,,Low or very low,Percentage (%),,,8.0
-2019/2020,,,,,,Households with children,1 child,3 or more adults,,,,,,,,,,,,,Low or very low,Percentage (%),,,6.0
-2019/2020,,,,,,Households with children,2 children,3 or more adults,,,,,,,,,,,,,Low or very low,Percentage (%),,,7.0
-2019/2020,,,,,,Households with children,3 or more children,3 or more adults,,,,,,,,,,,,,Low or very low,Percentage (%),Missing value; suppressed,,
-2019/2020,,,,,,,,,Households with one or more adults over State Pension age,,,,,,,,,,,,Low or very low,Percentage (%),,,2.0
-2019/2020,,,,,,,,,,,,,Households with one or more disabled adults under State Pension age,,,,,,,,Low or very low,Percentage (%),,,19.0
-2019/2020,,,,,,,,,,,,,,Households with one or more unemployed adults under State Pension age,,,,,,,Low or very low,Percentage (%),,,25.0
-2019/2020,All households,,,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,,4.0
-2019/2020,16 to 24,,,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,,9.0
-2019/2020,25 to 34,,,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,,5.0
-2019/2020,35 to 44,,,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,,6.0
-2019/2020,45 to 54,,,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,,5.0
-2019/2020,55 to 59,,,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,,4.0
-2019/2020,60 to 64,,,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,,3.0
-2019/2020,65 to 74,,,,,,,,,,,,,,,,,,,,Very low,Percentage (%),,,1.0
-2019/2020,75 to 84,,,,,,,,,,,,,,,,,,,,Very low,Percentage (%),Missing value,,
-2019/2020,85 or over,,,,,,,,,,,,,,,,,,,,Very low,Percentage (%),Missing value,,
-2019/2020,All households,,,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,,8.0
-2019/2020,16 to 24,,,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,,15.0
-2019/2020,25 to 34,,,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,,10.0
-2019/2020,35 to 44,,,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,,12.0
-2019/2020,45 to 54,,,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,,10.0
-2019/2020,55 to 59,,,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,,8.0
-2019/2020,60 to 64,,,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,,6.0
-2019/2020,65 to 74,,,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,,3.0
-2019/2020,75 to 84,,,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,,1.0
-2019/2020,85 or over,,,,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,,1.0
-2019/2020,,,,,,,,,,,,No disabled adults in household,,,,,,,,,Very low,Percentage (%),,,2.0
-2019/2020,,,,,,,,,,,,One or more disabled adults in household,,,,,,,,,Very low,Percentage (%),,,7.0
-2019/2020,,,,,,,,,,,,No disabled adults in household,,,,,,,,,Low or very low,Percentage (%),,,5.0
-2019/2020,,,,,,,,,,,,One or more disabled adults in household,,,,,,,,,Low or very low,Percentage (%),,,12.0
-2019/2020,,,,,,,,,,,,,,,Entry level,,,,,,Very low,Percentage (%),,,5.0
-2019/2020,,,,,,,,,,,,,,,Level 1,,,,,,Very low,Percentage (%),,,6.0
-2019/2020,,,,,,,,,,,,,,,Level 2,,,,,,Very low,Percentage (%),,,6.0
-2019/2020,,,,,,,,,,,,,,,Level 3,,,,,,Very low,Percentage (%),,,4.0
-2019/2020,,,,,,,,,,,,,,,Level 4 or higher,,,,,,Very low,Percentage (%),,,2.0
-2019/2020,,,,,,,,,,,,,,,Other qualification,,,,,,Very low,Percentage (%),,,4.0
-2019/2020,,,,,,,,,,,,,,,No reported qualifications,,,,,,Very low,Percentage (%),,,6.0
-2019/2020,,,,,,,,,,,,,,,Entry level,,,,,,Low or very low,Percentage (%),,,13.0
-2019/2020,,,,,,,,,,,,,,,Level 1,,,,,,Low or very low,Percentage (%),,,11.0
-2019/2020,,,,,,,,,,,,,,,Level 2,,,,,,Low or very low,Percentage (%),,,12.0
-2019/2020,,,,,,,,,,,,,,,Level 3,,,,,,Low or very low,Percentage (%),,,8.0
-2019/2020,,,,,,,,,,,,,,,Level 4 or higher,,,,,,Low or very low,Percentage (%),,,4.0
-2019/2020,,,,,,,,,,,,,,,Other qualification,,,,,,Low or very low,Percentage (%),,,7.0
-2019/2020,,,,,,,,,,,,,,,No reported qualifications,,,,,,Low or very low,Percentage (%),,,11.0
-2019/2020,,,,White,,,,,,,,,,,,,,,,,Very low,Percentage (%),,,4.0
-2019/2020,,,,Mixed/multiple ethnic groups,,,,,,,,,,,,,,,,,Very low,Percentage (%),,,6.0
-2019/2020,,,,Asian/Asian British,,,,,,,,,,,,,,,,,Very low,Percentage (%),,,3.0
-2019/2020,,,,Asian/Asian British,Indian,,,,,,,,,,,,,,,,Very low,Percentage (%),,,2.0
-2019/2020,,,,Asian/Asian British,Pakistani,,,,,,,,,,,,,,,,Very low,Percentage (%),,,5.0
-2019/2020,,,,Asian/Asian British,Bangladeshi,,,,,,,,,,,,,,,,Very low,Percentage (%),Missing value; suppressed,,
-2019/2020,,,,Asian/Asian British,Chinese,,,,,,,,,,,,,,,,Very low,Percentage (%),Missing value; suppressed,,
-2019/2020,,,,Asian/Asian British,Any other Asian background,,,,,,,,,,,,,,,,Very low,Percentage (%),,,4.0
-2019/2020,,,,Black/African/Caribbean/Black British,,,,,,,,,,,,,,,,,Very low,Percentage (%),,,8.0
-2019/2020,,,,Other ethnic group,,,,,,,,,,,,,,,,,Very low,Percentage (%),,,4.0
-2019/2020,,,,White,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,,7.0
-2019/2020,,,,Mixed/multiple ethnic groups,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,,10.0
-2019/2020,,,,Asian/Asian British,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,,8.0
-2019/2020,,,,Asian/Asian British,Indian,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,,5.0
-2019/2020,,,,Asian/Asian British,Pakistani,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,,10.0
-2019/2020,,,,Asian/Asian British,Bangladeshi,,,,,,,,,,,,,,,,Low or very low,Percentage (%),Missing value; suppressed,,
-2019/2020,,,,Asian/Asian British,Chinese,,,,,,,,,,,,,,,,Low or very low,Percentage (%),Missing value; suppressed,,
-2019/2020,,,,Asian/Asian British,Any other Asian background,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,,8.0
-2019/2020,,,,Black/African/Caribbean/Black British,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,,19.0
-2019/2020,,,,Other ethnic group,,,,,,,,,,,,,,,,,Low or very low,Percentage (%),,,14.0
-2019/2020,,,,,,,,,,,,,,,,,In receipt of state support (benefit and or Tax Credits),,,,Very low,Percentage (%),,,5.0
-2019/2020,,,,,,,,,,,,,,,,,In receipt of benefit,,,,Very low,Percentage (%),,,5.0
-2019/2020,,,,,,,,,,,,,,,,,In receipt of Tax Credits,,,,Very low,Percentage (%),,,10.0
-2019/2020,,,,,,,,,,,,,,,,,In receipt of benefit,income-related,,,Very low,Percentage (%),,,14.0
-2019/2020,,,,,,,,,,,,,,,,,In receipt of benefit,non-income-related,,,Very low,Percentage (%),,,4.0
-2019/2020,,,,,,,,,,,,,,,,,In receipt of Tax Credits,Working Tax Credit,,,Very low,Percentage (%),,,8.0
-2019/2020,,,,,,,,,,,,,,,,,In receipt of Tax Credits,Child Tax Credit,,,Very low,Percentage (%),,,10.0
-2019/2020,,,,,,,,,,,,,,,,,In receipt of state support (benefit and or Tax Credits),,,,Low or very low,Percentage (%),,,10.0
-2019/2020,,,,,,,,,,,,,,,,,In receipt of benefit,,,,Low or very low,Percentage (%),,,10.0
-2019/2020,,,,,,,,,,,,,,,,,In receipt of Tax Credits,,,,Low or very low,Percentage (%),,,21.0
-2019/2020,,,,,,,,,,,,,,,,,In receipt of benefit,income-related,,,Low or very low,Percentage (%),,,25.0
-2019/2020,,,,,,,,,,,,,,,,,In receipt of benefit,non-income-related,,,Low or very low,Percentage (%),,,8.0
-2019/2020,,,,,,,,,,,,,,,,,In receipt of Tax Credits,Working Tax Credit,,,Low or very low,Percentage (%),,,17.0
-2019/2020,,,,,,,,,,,,,,,,,In receipt of Tax Credits,Child Tax Credit,,,Low or very low,Percentage (%),,,21.0
-2019/2020,,,,,,,,,,,,,,,,Less than £200,,,,,Very low,Percentage (%),,,12.0
-2019/2020,,,,,,,,,,,,,,,,£200 to less than £400,,,,,Very low,Percentage (%),,,7.0
-2019/2020,,,,,,,,,,,,,,,,£400 to less than £600,,,,,Very low,Percentage (%),,,5.0
-2019/2020,,,,,,,,,,,,,,,,£600 to less than £800,,,,,Very low,Percentage (%),,,3.0
-2019/2020,,,,,,,,,,,,,,,,"£800 to less than £1,000",,,,,Very low,Percentage (%),,,1.0
-2019/2020,,,,,,,,,,,,,,,,"£1,000 or more",,,,,Very low,Percentage (%),,,1.0
-2019/2020,,,,,,,,,,,,,,,,Less than £200,,,,,Low or very low,Percentage (%),,,19.0
-2019/2020,,,,,,,,,,,,,,,,£200 to less than £400,,,,,Low or very low,Percentage (%),,,13.0
-2019/2020,,,,,,,,,,,,,,,,£400 to less than £600,,,,,Low or very low,Percentage (%),,,10.0
-2019/2020,,,,,,,,,,,,,,,,£600 to less than £800,,,,,Low or very low,Percentage (%),,,7.0
-2019/2020,,,,,,,,,,,,,,,,"£800 to less than £1,000",,,,,Low or very low,Percentage (%),,,4.0
-2019/2020,,,,,,,,,,,,,,,,"£1,000 or more",,,,,Low or very low,Percentage (%),,,2.0
-2019/2020,,,,,,,,,,,,,,,,,,,Owner occupied,,Very low,Percentage (%),,,1.0
-2019/2020,,,,,,,,,,,,,,,,,,,Owner occupied,Owned outright,Very low,Percentage (%),,,1.0
-2019/2020,,,,,,,,,,,,,,,,,,,Owner occupied,Buying with a mortgage,Very low,Percentage (%),,,1.0
-2019/2020,,,,,,,,,,,,,,,,,,,Social rented,,Very low,Percentage (%),,,13.0
-2019/2020,,,,,,,,,,,,,,,,,,,Private rented,,Very low,Percentage (%),,,6.0
-2019/2020,,,,,,,,,,,,,,,,,,,Owner occupied,,Low or very low,Percentage (%),,,2.0
-2019/2020,,,,,,,,,,,,,,,,,,,Owner occupied,Owned outright,Low or very low,Percentage (%),,,2.0
-2019/2020,,,,,,,,,,,,,,,,,,,Owner occupied,Buying with a mortgage,Low or very low,Percentage (%),,,3.0
-2019/2020,,,,,,,,,,,,,,,,,,,Social rented,,Low or very low,Percentage (%),,,24.0
-2019/2020,,,,,,,,,,,,,,,,,,,Private rented,,Low or very low,Percentage (%),,,12.0
+Year,Country,Region,Household compositin - children present,Number of children,Number of adults,Household composition - adults over State Pension age present,Household composition - disabled adults,Household composition - unemployed adults present,Age,Highest qualification,Ethnic group,Ethnicity,State support,State support detail,Total gross weekly income,Tenure by age of head of household,Tenure sub-category,Food insecurity level,Observation status,Units,GeoCode,Value
+2019/2020,,,,,,,,,,,,,,,,,,,,Percentage (%),,4.0
+2019/2020,England,,,,,,,,,,,,,,,,,Low,,Percentage (%),E92000001,4.0
+2019/2020,Wales,,,,,,,,,,,,,,,,,Low,,Percentage (%),W92000004,4.0
+2019/2020,Scotland,,,,,,,,,,,,,,,,,Low,,Percentage (%),S92000003,4.0
+2019/2020,Northern Ireland,,,,,,,,,,,,,,,,,Low,,Percentage (%),N92000002,3.0
+2019/2020,Great Britain,,,,,,,,,,,,,,,,,Low,,Percentage (%),K03000001,4.0
+2019/2020,,North East,,,,,,,,,,,,,,,,Low,,Percentage (%),E12000001,4.0
+2019/2020,,North West,,,,,,,,,,,,,,,,Low,,Percentage (%),E12000002,5.0
+2019/2020,,Yorkshire and the Humber,,,,,,,,,,,,,,,,Low,,Percentage (%),,4.0
+2019/2020,,East Midlands,,,,,,,,,,,,,,,,Low,,Percentage (%),E12000004,4.0
+2019/2020,,West Midlands,,,,,,,,,,,,,,,,Low,,Percentage (%),E12000005,4.0
+2019/2020,,East,,,,,,,,,,,,,,,,Low,,Percentage (%),E12000006,2.0
+2019/2020,,London,,,,,,,,,,,,,,,,Low,,Percentage (%),E12000007,5.0
+2019/2020,,Inner London,,,,,,,,,,,,,,,,Low,,Percentage (%),E13000001,5.0
+2019/2020,,Outer London,,,,,,,,,,,,,,,,Low,,Percentage (%),E13000002,6.0
+2019/2020,,South East,,,,,,,,,,,,,,,,Low,,Percentage (%),E12000008,3.0
+2019/2020,,South West,,,,,,,,,,,,,,,,Low,,Percentage (%),E12000009,2.0
+2019/2020,England,,,,,,,,,,,,,,,,,Very low,,Percentage (%),E92000001,4.0
+2019/2020,Wales,,,,,,,,,,,,,,,,,Very low,,Percentage (%),W92000004,3.0
+2019/2020,Scotland,,,,,,,,,,,,,,,,,Very low,,Percentage (%),S92000003,4.0
+2019/2020,Northern Ireland,,,,,,,,,,,,,,,,,Very low,,Percentage (%),N92000002,4.0
+2019/2020,Great Britain,,,,,,,,,,,,,,,,,Very low,,Percentage (%),K03000001,4.0
+2019/2020,,North East,,,,,,,,,,,,,,,,Very low,,Percentage (%),E12000001,6.0
+2019/2020,,North West,,,,,,,,,,,,,,,,Very low,,Percentage (%),E12000002,5.0
+2019/2020,,Yorkshire and the Humber,,,,,,,,,,,,,,,,Very low,,Percentage (%),,4.0
+2019/2020,,East Midlands,,,,,,,,,,,,,,,,Very low,,Percentage (%),E12000004,3.0
+2019/2020,,West Midlands,,,,,,,,,,,,,,,,Very low,,Percentage (%),E12000005,4.0
+2019/2020,,East,,,,,,,,,,,,,,,,Very low,,Percentage (%),E12000006,3.0
+2019/2020,,London,,,,,,,,,,,,,,,,Very low,,Percentage (%),E12000007,3.0
+2019/2020,,Inner London,,,,,,,,,,,,,,,,Very low,,Percentage (%),E13000001,4.0
+2019/2020,,Outer London,,,,,,,,,,,,,,,,Very low,,Percentage (%),E13000002,3.0
+2019/2020,,South East,,,,,,,,,,,,,,,,Very low,,Percentage (%),E12000008,3.0
+2019/2020,,South West,,,,,,,,,,,,,,,,Very low,,Percentage (%),E12000009,4.0
+2019/2020,,,,,,,,,,,,,,,,,,,,Percentage (%),,8.0
+2019/2020,England,,,,,,,,,,,,,,,,,,,Percentage (%),E92000001,8.0
+2019/2020,Wales,,,,,,,,,,,,,,,,,,,Percentage (%),W92000004,7.0
+2019/2020,Scotland,,,,,,,,,,,,,,,,,,,Percentage (%),S92000003,8.0
+2019/2020,Northern Ireland,,,,,,,,,,,,,,,,,,,Percentage (%),N92000002,7.0
+2019/2020,Great Britain,,,,,,,,,,,,,,,,,,,Percentage (%),K03000001,8.0
+2019/2020,,North East,,,,,,,,,,,,,,,,,,Percentage (%),E12000001,11.0
+2019/2020,,North West,,,,,,,,,,,,,,,,,,Percentage (%),E12000002,10.0
+2019/2020,,Yorkshire and the Humber,,,,,,,,,,,,,,,,,,Percentage (%),,8.0
+2019/2020,,East Midlands,,,,,,,,,,,,,,,,,,Percentage (%),E12000004,7.0
+2019/2020,,West Midlands,,,,,,,,,,,,,,,,,,Percentage (%),E12000005,8.0
+2019/2020,,East,,,,,,,,,,,,,,,,,,Percentage (%),E12000006,5.0
+2019/2020,,London,,,,,,,,,,,,,,,,,,Percentage (%),E12000007,9.0
+2019/2020,,Inner London,,,,,,,,,,,,,,,,,,Percentage (%),E13000001,8.0
+2019/2020,,Outer London,,,,,,,,,,,,,,,,,,Percentage (%),E13000002,9.0
+2019/2020,,South East,,,,,,,,,,,,,,,,,,Percentage (%),E12000008,6.0
+2019/2020,,South West,,,,,,,,,,,,,,,,,,Percentage (%),E12000009,6.0
+2019/2020,,,without children,,,,,,,,,,,,,,,Low,,Percentage (%),,3.0
+2019/2020,,,without children,,One adult,,,,,,,,,,,,,Low,,Percentage (%),,4.0
+2019/2020,,,without children,,Two adults,,,,,,,,,,,,,Low,,Percentage (%),,2.0
+2019/2020,,,without children,,Three or more adults,,,,,,,,,,,,,Low,,Percentage (%),,3.0
+2019/2020,,,with children,,,,,,,,,,,,,,,Low,,Percentage (%),,6.0
+2019/2020,,,with children,,One adult,,,,,,,,,,,,,Low,,Percentage (%),,16.0
+2019/2020,,,with children,one child,One adult,,,,,,,,,,,,,Low,,Percentage (%),,14.0
+2019/2020,,,with children,two children,One adult,,,,,,,,,,,,,Low,,Percentage (%),,15.0
+2019/2020,,,with children,three or more children,One adult,,,,,,,,,,,,,Low,,Percentage (%),,22.0
+2019/2020,,,with children,,Two adults,,,,,,,,,,,,,Low,,Percentage (%),,4.0
+2019/2020,,,with children,one child,Two adults,,,,,,,,,,,,,Low,,Percentage (%),,3.0
+2019/2020,,,with children,two children,Two adults,,,,,,,,,,,,,Low,,Percentage (%),,3.0
+2019/2020,,,with children,three or more children,Two adults,,,,,,,,,,,,,Low,,Percentage (%),,7.0
+2019/2020,,,with children,,Three or more adults,,,,,,,,,,,,,Low,,Percentage (%),,4.0
+2019/2020,,,with children,one child,Three or more adults,,,,,,,,,,,,,Low,,Percentage (%),,3.0
+2019/2020,,,with children,two children,Three or more adults,,,,,,,,,,,,,Low,,Percentage (%),,4.0
+2019/2020,,,with children,three or more children,Three or more adults,,,,,,,,,,,,,Low,Missing value; suppressed,Percentage (%),,
+2019/2020,,,without children,,,,,,,,,,,,,,,Very low,,Percentage (%),,3.0
+2019/2020,,,without children,,One adult,,,,,,,,,,,,,Very low,,Percentage (%),,6.0
+2019/2020,,,without children,,Two adults,,,,,,,,,,,,,Very low,,Percentage (%),,1.0
+2019/2020,,,without children,,Three or more adults,,,,,,,,,,,,,Very low,,Percentage (%),,3.0
+2019/2020,,,with children,,,,,,,,,,,,,,,Very low,,Percentage (%),,5.0
+2019/2020,,,with children,,One adult,,,,,,,,,,,,,Very low,,Percentage (%),,13.0
+2019/2020,,,with children,one child,One adult,,,,,,,,,,,,,Very low,,Percentage (%),,11.0
+2019/2020,,,with children,two children,One adult,,,,,,,,,,,,,Very low,,Percentage (%),,13.0
+2019/2020,,,with children,three or more children,One adult,,,,,,,,,,,,,Very low,,Percentage (%),,19.0
+2019/2020,,,with children,,Two adults,,,,,,,,,,,,,Very low,,Percentage (%),,3.0
+2019/2020,,,with children,one child,Two adults,,,,,,,,,,,,,Very low,,Percentage (%),,3.0
+2019/2020,,,with children,two children,Two adults,,,,,,,,,,,,,Very low,,Percentage (%),,2.0
+2019/2020,,,with children,three or more children,Two adults,,,,,,,,,,,,,Very low,,Percentage (%),,6.0
+2019/2020,,,with children,,Three or more adults,,,,,,,,,,,,,Very low,,Percentage (%),,4.0
+2019/2020,,,with children,one child,Three or more adults,,,,,,,,,,,,,Very low,,Percentage (%),,3.0
+2019/2020,,,with children,two children,Three or more adults,,,,,,,,,,,,,Very low,,Percentage (%),,3.0
+2019/2020,,,with children,three or more children,Three or more adults,,,,,,,,,,,,,Very low,Missing value; suppressed,Percentage (%),,
+2019/2020,,,without children,,,,,,,,,,,,,,,,,Percentage (%),,6.0
+2019/2020,,,without children,,One adult,,,,,,,,,,,,,,,Percentage (%),,10.0
+2019/2020,,,without children,,Two adults,,,,,,,,,,,,,,,Percentage (%),,3.0
+2019/2020,,,without children,,Three or more adults,,,,,,,,,,,,,,,Percentage (%),,6.0
+2019/2020,,,with children,,,,,,,,,,,,,,,,,Percentage (%),,11.0
+2019/2020,,,with children,,One adult,,,,,,,,,,,,,,,Percentage (%),,29.0
+2019/2020,,,with children,one child,One adult,,,,,,,,,,,,,,,Percentage (%),,26.0
+2019/2020,,,with children,two children,One adult,,,,,,,,,,,,,,,Percentage (%),,28.0
+2019/2020,,,with children,three or more children,One adult,,,,,,,,,,,,,,,Percentage (%),,41.0
+2019/2020,,,with children,,Two adults,,,,,,,,,,,,,,,Percentage (%),,7.0
+2019/2020,,,with children,one child,Two adults,,,,,,,,,,,,,,,Percentage (%),,6.0
+2019/2020,,,with children,two children,Two adults,,,,,,,,,,,,,,,Percentage (%),,5.0
+2019/2020,,,with children,three or more children,Two adults,,,,,,,,,,,,,,,Percentage (%),,13.0
+2019/2020,,,with children,,Three or more adults,,,,,,,,,,,,,,,Percentage (%),,8.0
+2019/2020,,,with children,one child,Three or more adults,,,,,,,,,,,,,,,Percentage (%),,6.0
+2019/2020,,,with children,two children,Three or more adults,,,,,,,,,,,,,,,Percentage (%),,7.0
+2019/2020,,,with children,three or more children,Three or more adults,,,,,,,,,,,,,,Missing value; suppressed,Percentage (%),,
+2019/2020,,,,,,,,,16 to 24,,,,,,,,,Low,,Percentage (%),,7.0
+2019/2020,,,,,,,,,25 to 34,,,,,,,,,Low,,Percentage (%),,5.0
+2019/2020,,,,,,,,,35 to 44,,,,,,,,,Low,,Percentage (%),,6.0
+2019/2020,,,,,,,,,45 to 54,,,,,,,,,Low,,Percentage (%),,5.0
+2019/2020,,,,,,,,,55 to 59,,,,,,,,,Low,,Percentage (%),,3.0
+2019/2020,,,,,,,,,60 to 64,,,,,,,,,Low,,Percentage (%),,3.0
+2019/2020,,,,,,,,,65 to 74,,,,,,,,,Low,,Percentage (%),,2.0
+2019/2020,,,,,,,,,75 to 84,,,,,,,,,Low,,Percentage (%),,1.0
+2019/2020,,,,,,,,,85 or over,,,,,,,,,Low,,Percentage (%),,1.0
+2019/2020,,,,,,,,,16 to 24,,,,,,,,,Very low,,Percentage (%),,9.0
+2019/2020,,,,,,,,,25 to 34,,,,,,,,,Very low,,Percentage (%),,5.0
+2019/2020,,,,,,,,,35 to 44,,,,,,,,,Very low,,Percentage (%),,6.0
+2019/2020,,,,,,,,,45 to 54,,,,,,,,,Very low,,Percentage (%),,5.0
+2019/2020,,,,,,,,,55 to 59,,,,,,,,,Very low,,Percentage (%),,4.0
+2019/2020,,,,,,,,,60 to 64,,,,,,,,,Very low,,Percentage (%),,3.0
+2019/2020,,,,,,,,,65 to 74,,,,,,,,,Very low,,Percentage (%),,1.0
+2019/2020,,,,,,,,,75 to 84,,,,,,,,,Very low,Missing value,Percentage (%),,
+2019/2020,,,,,,,,,85 or over,,,,,,,,,Very low,Missing value,Percentage (%),,
+2019/2020,,,,,,,,,16 to 24,,,,,,,,,,,Percentage (%),,15.0
+2019/2020,,,,,,,,,25 to 34,,,,,,,,,,,Percentage (%),,10.0
+2019/2020,,,,,,,,,35 to 44,,,,,,,,,,,Percentage (%),,12.0
+2019/2020,,,,,,,,,45 to 54,,,,,,,,,,,Percentage (%),,10.0
+2019/2020,,,,,,,,,55 to 59,,,,,,,,,,,Percentage (%),,8.0
+2019/2020,,,,,,,,,60 to 64,,,,,,,,,,,Percentage (%),,6.0
+2019/2020,,,,,,,,,65 to 74,,,,,,,,,,,Percentage (%),,3.0
+2019/2020,,,,,,,,,75 to 84,,,,,,,,,,,Percentage (%),,1.0
+2019/2020,,,,,,,,,85 or over,,,,,,,,,,,Percentage (%),,1.0
+2019/2020,,,,,,One or more adults over State Pension age,,,,,,,,,,,,Low,,Percentage (%),,1.0
+2019/2020,,,,,,,,One or more unemployed adults under State Pension age,,,,,,,,,,Low,,Percentage (%),,9.0
+2019/2020,,,,,,One or more adults over State Pension age,,,,,,,,,,,,Very low,,Percentage (%),,1.0
+2019/2020,,,,,,,,One or more unemployed adults under State Pension age,,,,,,,,,,Very low,,Percentage (%),,16.0
+2019/2020,,,,,,One or more adults over State Pension age,,,,,,,,,,,,,,Percentage (%),,2.0
+2019/2020,,,,,,,,One or more unemployed adults under State Pension age,,,,,,,,,,,,Percentage (%),,25.0
+2019/2020,,,,,,,No disabled adults,,,,,,,,,,,Low,,Percentage (%),,3.0
+2019/2020,,,,,,,One or more disabled adults,,,,,,,,,,,Low,,Percentage (%),,5.0
+2019/2020,,,,,,,One or more disabled adults under State Pension age,,,,,,,,,,,Low,,Percentage (%),,8.0
+2019/2020,,,,,,,No disabled adults,,,,,,,,,,,Very low,,Percentage (%),,2.0
+2019/2020,,,,,,,One or more disabled adults,,,,,,,,,,,Very low,,Percentage (%),,7.0
+2019/2020,,,,,,,One or more disabled adults under State Pension age,,,,,,,,,,,Very low,,Percentage (%),,11.0
+2019/2020,,,,,,,No disabled adults,,,,,,,,,,,,,Percentage (%),,5.0
+2019/2020,,,,,,,One or more disabled adults,,,,,,,,,,,,,Percentage (%),,12.0
+2019/2020,,,,,,,One or more disabled adults under State Pension age,,,,,,,,,,,,,Percentage (%),,19.0
+2019/2020,,,,,,,,,,Entry level,,,,,,,,Low,,Percentage (%),,8.0
+2019/2020,,,,,,,,,,Level 1,,,,,,,,Low,,Percentage (%),,5.0
+2019/2020,,,,,,,,,,Level 2,,,,,,,,Low,,Percentage (%),,6.0
+2019/2020,,,,,,,,,,Level 3,,,,,,,,Low,,Percentage (%),,4.0
+2019/2020,,,,,,,,,,Level 4 or higher,,,,,,,,Low,,Percentage (%),,2.0
+2019/2020,,,,,,,,,,Other qualification,,,,,,,,Low,,Percentage (%),,3.0
+2019/2020,,,,,,,,,,No reported qualifications,,,,,,,,Low,,Percentage (%),,5.0
+2019/2020,,,,,,,,,,Entry level,,,,,,,,Very low,,Percentage (%),,5.0
+2019/2020,,,,,,,,,,Level 1,,,,,,,,Very low,,Percentage (%),,6.0
+2019/2020,,,,,,,,,,Level 2,,,,,,,,Very low,,Percentage (%),,6.0
+2019/2020,,,,,,,,,,Level 3,,,,,,,,Very low,,Percentage (%),,4.0
+2019/2020,,,,,,,,,,Level 4 or higher,,,,,,,,Very low,,Percentage (%),,2.0
+2019/2020,,,,,,,,,,Other qualification,,,,,,,,Very low,,Percentage (%),,4.0
+2019/2020,,,,,,,,,,No reported qualifications,,,,,,,,Very low,,Percentage (%),,6.0
+2019/2020,,,,,,,,,,Entry level,,,,,,,,,,Percentage (%),,13.0
+2019/2020,,,,,,,,,,Level 1,,,,,,,,,,Percentage (%),,11.0
+2019/2020,,,,,,,,,,Level 2,,,,,,,,,,Percentage (%),,12.0
+2019/2020,,,,,,,,,,Level 3,,,,,,,,,,Percentage (%),,8.0
+2019/2020,,,,,,,,,,Level 4 or higher,,,,,,,,,,Percentage (%),,4.0
+2019/2020,,,,,,,,,,Other qualification,,,,,,,,,,Percentage (%),,7.0
+2019/2020,,,,,,,,,,No reported qualifications,,,,,,,,,,Percentage (%),,11.0
+2019/2020,,,,,,,,,,,White,,,,,,,Low,,Percentage (%),,3.0
+2019/2020,,,,,,,,,,,Mixed/multiple ethnic groups,,,,,,,Low,,Percentage (%),,4.0
+2019/2020,,,,,,,,,,,Asian/Asian British,,,,,,,Low,,Percentage (%),,5.0
+2019/2020,,,,,,,,,,,Asian/Asian British,Indian,,,,,,Low,,Percentage (%),,4.0
+2019/2020,,,,,,,,,,,Asian/Asian British,Pakistani,,,,,,Low,,Percentage (%),,6.0
+2019/2020,,,,,,,,,,,Asian/Asian British,Bangladeshi,,,,,,Low,Missing value; suppressed,Percentage (%),,
+2019/2020,,,,,,,,,,,Asian/Asian British,Chinese,,,,,,Low,Missing value; suppressed,Percentage (%),,
+2019/2020,,,,,,,,,,,Asian/Asian British,Any other Asian background,,,,,,Low,,Percentage (%),,4.0
+2019/2020,,,,,,,,,,,Black/African/Caribbean/Black British,,,,,,,Low,,Percentage (%),,11.0
+2019/2020,,,,,,,,,,,Other ethnic group,,,,,,,Low,,Percentage (%),,9.0
+2019/2020,,,,,,,,,,,White,,,,,,,Very low,,Percentage (%),,4.0
+2019/2020,,,,,,,,,,,Mixed/multiple ethnic groups,,,,,,,Very low,,Percentage (%),,6.0
+2019/2020,,,,,,,,,,,Asian/Asian British,,,,,,,Very low,,Percentage (%),,3.0
+2019/2020,,,,,,,,,,,Asian/Asian British,Indian,,,,,,Very low,,Percentage (%),,2.0
+2019/2020,,,,,,,,,,,Asian/Asian British,Pakistani,,,,,,Very low,,Percentage (%),,5.0
+2019/2020,,,,,,,,,,,Asian/Asian British,Bangladeshi,,,,,,Very low,Missing value; suppressed,Percentage (%),,
+2019/2020,,,,,,,,,,,Asian/Asian British,Chinese,,,,,,Very low,Missing value; suppressed,Percentage (%),,
+2019/2020,,,,,,,,,,,Asian/Asian British,Any other Asian background,,,,,,Very low,,Percentage (%),,4.0
+2019/2020,,,,,,,,,,,Black/African/Caribbean/Black British,,,,,,,Very low,,Percentage (%),,8.0
+2019/2020,,,,,,,,,,,Other ethnic group,,,,,,,Very low,,Percentage (%),,4.0
+2019/2020,,,,,,,,,,,White,,,,,,,,,Percentage (%),,7.0
+2019/2020,,,,,,,,,,,Mixed/multiple ethnic groups,,,,,,,,,Percentage (%),,10.0
+2019/2020,,,,,,,,,,,Asian/Asian British,,,,,,,,,Percentage (%),,8.0
+2019/2020,,,,,,,,,,,Asian/Asian British,Indian,,,,,,,,Percentage (%),,5.0
+2019/2020,,,,,,,,,,,Asian/Asian British,Pakistani,,,,,,,,Percentage (%),,10.0
+2019/2020,,,,,,,,,,,Asian/Asian British,Bangladeshi,,,,,,,Missing value; suppressed,Percentage (%),,
+2019/2020,,,,,,,,,,,Asian/Asian British,Chinese,,,,,,,Missing value; suppressed,Percentage (%),,
+2019/2020,,,,,,,,,,,Asian/Asian British,Any other Asian background,,,,,,,,Percentage (%),,8.0
+2019/2020,,,,,,,,,,,Black/African/Caribbean/Black British,,,,,,,,,Percentage (%),,19.0
+2019/2020,,,,,,,,,,,Other ethnic group,,,,,,,,,Percentage (%),,14.0
+2019/2020,,,,,,,,,,,,,In receipt of state support (benefit and/or Tax Credits),,,,,Low,,Percentage (%),,5.0
+2019/2020,,,,,,,,,,,,,In receipt of benefit,,,,,Low,,Percentage (%),,5.0
+2019/2020,,,,,,,,,,,,,In receipt of Tax Credits,,,,,Low,,Percentage (%),,11.0
+2019/2020,,,,,,,,,,,,,In receipt of benefit,Income-related benefit,,,,Low,,Percentage (%),,11.0
+2019/2020,,,,,,,,,,,,,In receipt of benefit,Non-income-related benefit,,,,Low,,Percentage (%),,5.0
+2019/2020,,,,,,,,,,,,,In receipt of Tax Credits,Working Tax Credit,,,,Low,,Percentage (%),,9.0
+2019/2020,,,,,,,,,,,,,In receipt of Tax Credits,Child Tax Credit,,,,Low,,Percentage (%),,11.0
+2019/2020,,,,,,,,,,,,,In receipt of state support (benefit and/or Tax Credits),,,,,Very low,,Percentage (%),,5.0
+2019/2020,,,,,,,,,,,,,In receipt of benefit,,,,,Very low,,Percentage (%),,5.0
+2019/2020,,,,,,,,,,,,,In receipt of Tax Credits,,,,,Very low,,Percentage (%),,10.0
+2019/2020,,,,,,,,,,,,,In receipt of benefit,Income-related benefit,,,,Very low,,Percentage (%),,14.0
+2019/2020,,,,,,,,,,,,,In receipt of benefit,Non-income-related benefit,,,,Very low,,Percentage (%),,4.0
+2019/2020,,,,,,,,,,,,,In receipt of Tax Credits,Working Tax Credit,,,,Very low,,Percentage (%),,8.0
+2019/2020,,,,,,,,,,,,,In receipt of Tax Credits,Child Tax Credit,,,,Very low,,Percentage (%),,10.0
+2019/2020,,,,,,,,,,,,,In receipt of state support (benefit and/or Tax Credits),,,,,,,Percentage (%),,10.0
+2019/2020,,,,,,,,,,,,,In receipt of benefit,,,,,,,Percentage (%),,10.0
+2019/2020,,,,,,,,,,,,,In receipt of Tax Credits,,,,,,,Percentage (%),,21.0
+2019/2020,,,,,,,,,,,,,In receipt of benefit,Income-related benefit,,,,,,Percentage (%),,25.0
+2019/2020,,,,,,,,,,,,,In receipt of benefit,Non-income-related benefit,,,,,,Percentage (%),,8.0
+2019/2020,,,,,,,,,,,,,In receipt of Tax Credits,Working Tax Credit,,,,,,Percentage (%),,17.0
+2019/2020,,,,,,,,,,,,,In receipt of Tax Credits,Child Tax Credit,,,,,,Percentage (%),,21.0
+2019/2020,,,,,,,,,,,,,,,Less than £200,,,Low,,Percentage (%),,7.0
+2019/2020,,,,,,,,,,,,,,,£200 but less than £400,,,Low,,Percentage (%),,6.0
+2019/2020,,,,,,,,,,,,,,,£400 but less than £600,,,Low,,Percentage (%),,5.0
+2019/2020,,,,,,,,,,,,,,,£600 but less than £800,,,Low,,Percentage (%),,4.0
+2019/2020,,,,,,,,,,,,,,,"£800 but less than £1,000",,,Low,,Percentage (%),,2.0
+2019/2020,,,,,,,,,,,,,,,"£1,000 or more",,,Low,,Percentage (%),,1.0
+2019/2020,,,,,,,,,,,,,,,Less than £200,,,Very low,,Percentage (%),,12.0
+2019/2020,,,,,,,,,,,,,,,£200 but less than £400,,,Very low,,Percentage (%),,7.0
+2019/2020,,,,,,,,,,,,,,,£400 but less than £600,,,Very low,,Percentage (%),,5.0
+2019/2020,,,,,,,,,,,,,,,£600 but less than £800,,,Very low,,Percentage (%),,3.0
+2019/2020,,,,,,,,,,,,,,,"£800 but less than £1,000",,,Very low,,Percentage (%),,1.0
+2019/2020,,,,,,,,,,,,,,,"£1,000 or more",,,Very low,,Percentage (%),,1.0
+2019/2020,,,,,,,,,,,,,,,Less than £200,,,,,Percentage (%),,19.0
+2019/2020,,,,,,,,,,,,,,,£200 but less than £400,,,,,Percentage (%),,13.0
+2019/2020,,,,,,,,,,,,,,,£400 but less than £600,,,,,Percentage (%),,10.0
+2019/2020,,,,,,,,,,,,,,,£600 but less than £800,,,,,Percentage (%),,7.0
+2019/2020,,,,,,,,,,,,,,,"£800 but less than £1,000",,,,,Percentage (%),,4.0
+2019/2020,,,,,,,,,,,,,,,"£1,000 or more",,,,,Percentage (%),,2.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned,,Low,,Percentage (%),,1.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned,Owned outright,Low,,Percentage (%),,1.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Low,,Percentage (%),,2.0
+2019/2020,,,,,,,,,,,,,,,,Social rented,,Low,,Percentage (%),,11.0
+2019/2020,,,,,,,,,,,,,,,,Private rented,,Low,,Percentage (%),,6.0
+2019/2020,,,,,,,,,,,,,,,,Head is working age,,Low,,Percentage (%),,5.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned (head is working age),,Low,,Percentage (%),,2.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned (head is working age),Owned outright,Low,,Percentage (%),,2.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned (head is working age),Buying with a mortgage,Low,,Percentage (%),,2.0
+2019/2020,,,,,,,,,,,,,,,,Social rented (head is working age),,Low,,Percentage (%),,14.0
+2019/2020,,,,,,,,,,,,,,,,Private rented (head is working age),,Low,,Percentage (%),,6.0
+2019/2020,,,,,,,,,,,,,,,,Head is State Pension age,,Low,,Percentage (%),,1.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned (head is State pension age),,Low,,Percentage (%),,1.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned (head is State pension age),Owned outright,Low,,Percentage (%),,1.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned (head is State pension age),Buying with a mortgage,Low,,Percentage (%),,1.0
+2019/2020,,,,,,,,,,,,,,,,Social rented (head is State pension age),,Low,,Percentage (%),,4.0
+2019/2020,,,,,,,,,,,,,,,,Private rented (head is State pension age),,Low,,Percentage (%),,3.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned,,Very low,,Percentage (%),,1.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned,Owned outright,Very low,,Percentage (%),,1.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Very low,,Percentage (%),,1.0
+2019/2020,,,,,,,,,,,,,,,,Social rented,,Very low,,Percentage (%),,13.0
+2019/2020,,,,,,,,,,,,,,,,Private rented,,Very low,,Percentage (%),,6.0
+2019/2020,,,,,,,,,,,,,,,,Head is working age,,Very low,,Percentage (%),,5.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned (head is working age),,Very low,,Percentage (%),,1.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned (head is working age),Owned outright,Very low,,Percentage (%),,1.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned (head is working age),Buying with a mortgage,Very low,,Percentage (%),,1.0
+2019/2020,,,,,,,,,,,,,,,,Social rented (head is working age),,Very low,,Percentage (%),,17.0
+2019/2020,,,,,,,,,,,,,,,,Private rented (head is working age),,Very low,,Percentage (%),,6.0
+2019/2020,,,,,,,,,,,,,,,,Head is State Pension age,,Very low,,Percentage (%),,1.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned (head is State pension age),,Very low,Missing value,Percentage (%),,
+2019/2020,,,,,,,,,,,,,,,,Occupier owned (head is State pension age),Owned outright,Very low,Missing value,Percentage (%),,
+2019/2020,,,,,,,,,,,,,,,,Occupier owned (head is State pension age),Buying with a mortgage,Very low,,Percentage (%),,2.0
+2019/2020,,,,,,,,,,,,,,,,Social rented (head is State pension age),,Very low,,Percentage (%),,2.0
+2019/2020,,,,,,,,,,,,,,,,Private rented (head is State pension age),,Very low,,Percentage (%),,1.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned,,,,Percentage (%),,2.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned,Owned outright,,,Percentage (%),,2.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,,,Percentage (%),,3.0
+2019/2020,,,,,,,,,,,,,,,,Social rented,,,,Percentage (%),,24.0
+2019/2020,,,,,,,,,,,,,,,,Private rented,,,,Percentage (%),,12.0
+2019/2020,,,,,,,,,,,,,,,,Head is working age,,,,Percentage (%),,10.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned (head is working age),,,,Percentage (%),,3.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned (head is working age),Owned outright,,,Percentage (%),,3.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned (head is working age),Buying with a mortgage,,,Percentage (%),,3.0
+2019/2020,,,,,,,,,,,,,,,,Social rented (head is working age),,,,Percentage (%),,31.0
+2019/2020,,,,,,,,,,,,,,,,Private rented (head is working age),,,,Percentage (%),,12.0
+2019/2020,,,,,,,,,,,,,,,,Head is State Pension age,,,,Percentage (%),,2.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned (head is State pension age),,,,Percentage (%),,1.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned (head is State pension age),Owned outright,,,Percentage (%),,1.0
+2019/2020,,,,,,,,,,,,,,,,Occupier owned (head is State pension age),Buying with a mortgage,,,Percentage (%),,3.0
+2019/2020,,,,,,,,,,,,,,,,Social rented (head is State pension age),,,,Percentage (%),,6.0
+2019/2020,,,,,,,,,,,,,,,,Private rented (head is State pension age),,,,Percentage (%),,4.0
