@@ -8815,16 +8815,6 @@
             }
           },
           {
-            "name": "LDCs bilateral and multilateral flows",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Least developed countries (bilateral and imputed multilateral)",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Observation status",
             "type": "string"
           },
