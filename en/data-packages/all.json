@@ -18739,8 +18739,10 @@
                 "Cumbria",
                 "Derbyshire",
                 "Devon",
-                "Dorset",
+                "Dorset (Cty)",
+                "East Midlands region",
                 "East Sussex",
+                "East of England region",
                 "Essex",
                 "Gloucestershire",
                 "Hampshire",
@@ -18749,18 +18751,25 @@
                 "Lancashire",
                 "Leicestershire",
                 "Lincolnshire",
+                "London region",
                 "Norfolk",
+                "North East region",
+                "North West region",
                 "North Yorkshire",
                 "Northamptonshire",
                 "Nottinghamshire",
                 "Oxfordshire",
                 "Somerset",
+                "South East region",
+                "South West region",
                 "Staffordshire",
                 "Suffolk",
                 "Surrey",
                 "Warwickshire",
+                "West Midlands region",
                 "West Sussex",
-                "Worcestershire"
+                "Worcestershire",
+                "Yorkshire and the Humber region"
               ]
             },
             "title": "County"
@@ -18918,21 +18927,17 @@
                 "",
                 "East Midlands",
                 "East of England",
+                "England",
                 "London",
                 "North East",
                 "North West",
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and the Humber"
+                "Yorkshire and The Humber"
               ]
             },
             "title": "Region"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
           },
           {
             "name": "Unit multiplier",
@@ -18946,7 +18951,7 @@
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]
