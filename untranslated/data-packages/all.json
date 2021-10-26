@@ -14218,6 +14218,16 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mountain Green Cover Index",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Mountain elevation",
             "type": "string",
             "constraints": {
@@ -14237,8 +14247,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -19043,8 +19059,24 @@
             "type": "integer"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Red List Index",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Index",
+                ""
+              ]
+            }
           },
           {
             "name": "Unit multiplier",
