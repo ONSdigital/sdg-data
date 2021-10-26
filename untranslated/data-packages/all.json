@@ -865,12 +865,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "4) Proportion of fish stocks within biologically sustainable levels (not overexploited)",
-                "5) Proportion of fish stocks not within biologically sustainable levels (overexploited)",
-                "6) Proportion of fish stocks where biologically sustainable status is unknown",
                 "1) Proportion of fish stocks that are not overexploited",
                 "2) Proportion of fish stocks that are overexploited",
                 "3) Proportion of fish stocks with unknown level of exploitation",
+                "4) Proportion of fish stocks within biologically sustainable levels (not overexploited)",
+                "5) Proportion of fish stocks not within biologically sustainable levels (overexploited)",
+                "6) Proportion of fish stocks where biologically sustainable status is unknown",
                 ""
               ]
             }
@@ -1229,8 +1229,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Voting rights in international organisations",
                 "Membership in international organisations",
+                "Voting rights in international organisations",
                 ""
               ]
             }
@@ -1240,17 +1240,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Asian Development Bank",
                 "African Development Bank",
-                "UN Economic and Social Council",
+                "Asian Development Bank",
+                "Financial Stability Board",
                 "Inter-American Development Bank",
                 "International Bank for Reconstruction and Development",
                 "International Finance Corporation",
                 "International Monetary Fund",
+                "UN Economic and Social Council",
                 "UN General Assembly",
                 "UN Security Council",
                 "World Trade Organisation",
-                "Financial Stability Board",
                 ""
               ]
             }
@@ -2187,10 +2187,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Disability",
                 "Race",
                 "Religion",
                 "Sexual orientation",
-                "Disability",
                 ""
               ]
             }
@@ -2241,8 +2241,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Long-term health condition",
                 "Disabled (GSS harmonised)",
+                "Long-term health condition",
                 "Long-term health condition - Does not limit activities",
                 "No long-term health condition",
                 ""
@@ -2270,8 +2270,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
                 "Rural",
+                "Urban",
                 ""
               ]
             }
@@ -3355,10 +3355,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Offering, promising or giving bribes",
-                "Requesting, agreeing to receive and accepting bribes",
                 "Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage",
                 "Misconduct in a public office",
+                "Offering, promising or giving bribes",
+                "Requesting, agreeing to receive and accepting bribes",
                 ""
               ]
             }
@@ -3402,8 +3402,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             }
@@ -3922,8 +3922,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) Physical violence (%)",
                 "(b) Sexual violence (%)",
+                "(a) Physical violence (%)",
                 ""
               ]
             }
@@ -3933,12 +3933,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Violence with injury",
-                "Wounding",
-                "Assault with minor injury",
-                "Violence without injury",
-                "Sexual assault by rape or penetration including attempts",
                 "Indecent exposure or unwanted sexual touching",
+                "Sexual assault by rape or penetration including attempts",
+                "Assault with minor injury",
+                "Violence with injury",
+                "Violence without injury",
+                "Wounding",
                 ""
               ]
             }
@@ -3959,16 +3959,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 to 24",
+                "16 to 19",
+                "20 to 24",
                 "25 to 34",
                 "35 to 44",
                 "45 to 54",
+                "55 to 59",
+                "16 to 24",
                 "55 to 64",
                 "65 to 74",
                 "75 and over",
-                "16 to 19",
-                "20 to 24",
-                "55 to 59",
                 ""
               ]
             }
@@ -4019,8 +4019,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Disabled (GSS harmonised)",
                 "Non-disabled (GSS harmonised)",
+                "Disabled (GSS harmonised)",
                 ""
               ]
             }
@@ -4057,8 +4057,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
                 "Rural",
+                "Urban",
                 ""
               ]
             }
@@ -4068,16 +4068,16 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "East",
+                "East Midlands",
+                "London",
                 "North East",
                 "North West",
-                "Yorkshire and the Humber",
-                "East Midlands",
-                "West Midlands",
-                "East of England",
-                "London",
                 "South East",
                 "South West",
                 "Wales",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             }
@@ -4087,11 +4087,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Degree or diploma",
-                "Apprenticeship or A/AS level",
-                "O level/GCSE",
-                "Other qualification",
                 "No qualification",
+                "O level/GCSE",
+                "Apprenticeship or A/AS level",
+                "Degree or diploma",
+                "Other qualification",
                 ""
               ]
             }
@@ -5152,8 +5152,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             }
@@ -5203,15 +5203,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "East",
+                "East Midlands",
+                "London",
                 "North East",
                 "North West",
-                "Yorkshire and The Humber",
-                "East Midlands",
-                "West Midlands",
-                "East of England",
-                "London",
                 "South East",
                 "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             }
@@ -5221,8 +5221,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
                 "Rural",
+                "Urban",
                 ""
               ]
             }
@@ -8288,11 +8288,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Wounding",
+                "Acquaintance violence",
                 "Assault with minor injury or without injury",
                 "Domestic violence",
-                "Acquaintance violence",
                 "Stranger violence",
+                "Wounding",
                 ""
               ]
             }
@@ -8515,10 +8515,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Offering, promising or giving bribes",
-                "Requesting, agreeing to receive and accepting bribes",
                 "Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage",
                 "Misconduct in a public office",
+                "Offering, promising or giving bribes",
+                "Requesting, agreeing to receive and accepting bribes",
                 ""
               ]
             }
@@ -9804,11 +9804,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Northern Ireland",
                 "England",
-                "Wales",
-                "Scotland",
                 "Great Britain",
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
                 ""
               ]
             }
@@ -9818,15 +9818,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "North East",
+                "East",
                 "East Midlands",
-                "East of England",
-                "South West",
-                "Yorkshire and the Humber",
-                "West Midlands",
+                "London",
+                "North East",
                 "North West",
                 "South East",
-                "London",
+                "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             }
@@ -10382,8 +10382,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             }
@@ -10406,7 +10406,20 @@
                 "70 to 74",
                 "75 to 79",
                 "80 to 84",
-                "85+",
+                "85 and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
                 ""
               ]
             }
@@ -10416,18 +10429,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "East of England",
+                "East",
                 "East Midlands",
                 "London",
                 "North East",
                 "North West",
-                "Northern Ireland",
-                "Scotland",
                 "South East",
                 "South West",
-                "Wales",
                 "West Midlands",
-                "Yorkshire and the Humber",
+                "Yorkshire and The Humber",
                 ""
               ]
             }
@@ -11437,8 +11447,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             }
@@ -11497,8 +11507,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Disabled (GSS harmonised)",
                 "Non-disabled (GSS harmonised)",
+                "Disabled (GSS harmonised)",
                 ""
               ]
             }
@@ -11519,16 +11529,16 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "East",
+                "East Midlands",
+                "London",
                 "North East",
                 "North West",
-                "Yorkshire and the Humber",
-                "East Midlands",
-                "West Midlands",
-                "East",
-                "London",
                 "South East",
                 "South West",
                 "Wales",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             }
@@ -17618,8 +17628,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             }
@@ -17640,15 +17650,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "North East",
-                "North West",
-                "Yorkshire and The Humber",
-                "East Midlands",
-                "West Midlands",
-                "East",
-                "London",
-                "South East",
                 "South West",
+                "East",
+                "North West",
+                "London",
+                "North East",
+                "East Midlands",
+                "South East",
+                "Yorkshire and The Humber",
+                "West Midlands",
                 ""
               ]
             }
@@ -17658,49 +17668,49 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Cleveland",
-                "Durham",
-                "Northumbria",
-                "Cheshire",
-                "Cumbria",
-                "Greater Manchester",
-                "Lancashire",
-                "Merseyside",
-                "Humberside",
-                "North Yorkshire",
-                "South Yorkshire",
-                "West Yorkshire",
-                "Derbyshire",
-                "Leicestershire",
-                "Lincolnshire",
-                "Northamptonshire",
-                "Nottinghamshire",
-                "Staffordshire",
-                "Warwickshire",
-                "West Mercia",
-                "West Midlands",
+                "Avon and Somerset",
                 "Bedfordshire",
                 "Cambridgeshire",
-                "Essex",
-                "Hertfordshire",
-                "Norfolk",
-                "Suffolk",
+                "Cheshire",
                 "City of London",
-                "Metropolitan Police",
+                "Cleveland",
+                "Cumbria",
+                "Derbyshire",
+                "Devon and Cornwall",
+                "Dorset",
+                "Durham",
+                "Dyfed-Powys",
+                "Essex",
+                "Gloucestershire",
+                "Greater Manchester",
+                "Gwent",
                 "Hampshire",
+                "Hertfordshire",
+                "Humberside",
                 "Kent",
+                "Lancashire",
+                "Leicestershire",
+                "Lincolnshire",
+                "Merseyside",
+                "Metropolitan Police",
+                "Norfolk",
+                "North Wales",
+                "North Yorkshire",
+                "Northamptonshire",
+                "Northumbria",
+                "Nottinghamshire",
+                "South Wales",
+                "South Yorkshire",
+                "Staffordshire",
+                "Suffolk",
                 "Surrey",
                 "Sussex",
                 "Thames Valley",
-                "Avon and Somerset",
-                "Devon and Cornwall",
-                "Dorset",
-                "Gloucestershire",
+                "Warwickshire",
+                "West Mercia",
+                "West Midlands",
+                "West Yorkshire",
                 "Wiltshire",
-                "Dyfed-Powys",
-                "Gwent",
-                "North Wales",
-                "South Wales",
                 ""
               ]
             }
@@ -18334,8 +18344,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             }

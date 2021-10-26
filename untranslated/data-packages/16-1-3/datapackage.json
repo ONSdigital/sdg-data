@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) Physical violence (%)",
                 "(b) Sexual violence (%)",
+                "(a) Physical violence (%)",
                 ""
               ]
             }
@@ -30,12 +30,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Violence with injury",
-                "Wounding",
-                "Assault with minor injury",
-                "Violence without injury",
-                "Sexual assault by rape or penetration including attempts",
                 "Indecent exposure or unwanted sexual touching",
+                "Sexual assault by rape or penetration including attempts",
+                "Assault with minor injury",
+                "Violence with injury",
+                "Violence without injury",
+                "Wounding",
                 ""
               ]
             }
@@ -56,16 +56,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 to 24",
+                "16 to 19",
+                "20 to 24",
                 "25 to 34",
                 "35 to 44",
                 "45 to 54",
+                "55 to 59",
+                "16 to 24",
                 "55 to 64",
                 "65 to 74",
                 "75 and over",
-                "16 to 19",
-                "20 to 24",
-                "55 to 59",
                 ""
               ]
             }
@@ -116,8 +116,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Disabled (GSS harmonised)",
                 "Non-disabled (GSS harmonised)",
+                "Disabled (GSS harmonised)",
                 ""
               ]
             }
@@ -154,8 +154,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
                 "Rural",
+                "Urban",
                 ""
               ]
             }
@@ -165,16 +165,16 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "East",
+                "East Midlands",
+                "London",
                 "North East",
                 "North West",
-                "Yorkshire and the Humber",
-                "East Midlands",
-                "West Midlands",
-                "East of England",
-                "London",
                 "South East",
                 "South West",
                 "Wales",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             }
@@ -184,11 +184,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Degree or diploma",
-                "Apprenticeship or A/AS level",
-                "O level/GCSE",
-                "Other qualification",
                 "No qualification",
+                "O level/GCSE",
+                "Apprenticeship or A/AS level",
+                "Degree or diploma",
+                "Other qualification",
                 ""
               ]
             }

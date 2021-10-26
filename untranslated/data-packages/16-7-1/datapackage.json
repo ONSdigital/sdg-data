@@ -29,11 +29,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Northern Ireland",
                 "England",
-                "Wales",
-                "Scotland",
                 "Great Britain",
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
                 ""
               ]
             }
@@ -43,15 +43,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "North East",
+                "East",
                 "East Midlands",
-                "East of England",
-                "South West",
-                "Yorkshire and the Humber",
-                "West Midlands",
+                "London",
+                "North East",
                 "North West",
                 "South East",
-                "London",
+                "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             }

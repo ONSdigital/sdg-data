@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             }
@@ -43,7 +43,20 @@
                 "70 to 74",
                 "75 to 79",
                 "80 to 84",
-                "85+",
+                "85 and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
                 ""
               ]
             }
@@ -53,18 +66,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "East of England",
+                "East",
                 "East Midlands",
                 "London",
                 "North East",
                 "North West",
-                "Northern Ireland",
-                "Scotland",
                 "South East",
                 "South West",
-                "Wales",
                 "West Midlands",
-                "Yorkshire and the Humber",
+                "Yorkshire and The Humber",
                 ""
               ]
             }

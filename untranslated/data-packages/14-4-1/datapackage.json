@@ -19,12 +19,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "4) Proportion of fish stocks within biologically sustainable levels (not overexploited)",
-                "5) Proportion of fish stocks not within biologically sustainable levels (overexploited)",
-                "6) Proportion of fish stocks where biologically sustainable status is unknown",
                 "1) Proportion of fish stocks that are not overexploited",
                 "2) Proportion of fish stocks that are overexploited",
                 "3) Proportion of fish stocks with unknown level of exploitation",
+                "4) Proportion of fish stocks within biologically sustainable levels (not overexploited)",
+                "5) Proportion of fish stocks not within biologically sustainable levels (overexploited)",
+                "6) Proportion of fish stocks where biologically sustainable status is unknown",
                 ""
               ]
             }

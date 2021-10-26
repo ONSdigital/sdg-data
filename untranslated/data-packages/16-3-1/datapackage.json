@@ -19,11 +19,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Wounding",
+                "Acquaintance violence",
                 "Assault with minor injury or without injury",
                 "Domestic violence",
-                "Acquaintance violence",
                 "Stranger violence",
+                "Wounding",
                 ""
               ]
             }

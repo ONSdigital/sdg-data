@@ -29,10 +29,24 @@
                 "70 to 74",
                 "75 to 79",
                 "80 to 84",
-                "85+"
+                "85 and over"
               ]
             },
             "title": "Age"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales"
+              ]
+            },
+            "title": "Country"
           },
           {
             "name": "Country of birth",
@@ -88,18 +102,15 @@
             "constraints": {
               "enum": [
                 "",
+                "East",
                 "East Midlands",
-                "East of England",
                 "London",
                 "North East",
                 "North West",
-                "Northern Ireland",
-                "Scotland",
                 "South East",
                 "South West",
-                "Wales",
                 "West Midlands",
-                "Yorkshire and the Humber"
+                "Yorkshire and The Humber"
               ]
             },
             "title": "Region"

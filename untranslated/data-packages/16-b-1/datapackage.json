@@ -19,10 +19,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Disability",
                 "Race",
                 "Religion",
                 "Sexual orientation",
-                "Disability",
                 ""
               ]
             }
@@ -73,8 +73,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Long-term health condition",
                 "Disabled (GSS harmonised)",
+                "Long-term health condition",
                 "Long-term health condition - Does not limit activities",
                 "No long-term health condition",
                 ""
@@ -102,8 +102,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
                 "Rural",
+                "Urban",
                 ""
               ]
             }
