@@ -5631,9 +5631,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) ODA for biodiversity",
-                "(b) Tax revenue from biodiversity-relevant taxes",
-                "(b) Tax revenue from biodiversity-relevant taxes out of total tax revenue",
+                "Total official development assistance for biodiversity, by recipient countries",
+                "Tax revenue from biodiversity-relevant taxes",
+                "Tax revenue from biodiversity-relevant taxes out of total tax revenue",
                 ""
               ]
             }
@@ -5647,7 +5647,7 @@
                 "LMICs",
                 "UMICs",
                 "Other LICs",
-                "Undefined",
+                "Unspecified",
                 ""
               ]
             }
