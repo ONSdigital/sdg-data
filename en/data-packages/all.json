@@ -11100,7 +11100,7 @@
                 "LMICs",
                 "Other LICs",
                 "UMICs",
-                "Undefined"
+                "Unspecified"
               ]
             },
             "title": "Country income classification"
@@ -11116,9 +11116,9 @@
             "constraints": {
               "enum": [
                 "",
-                "(a) ODA for biodiversity",
-                "(b) Tax revenue from biodiversity-relevant taxes",
-                "(b) Tax revenue from biodiversity-relevant taxes out of total tax revenue"
+                "Tax revenue from biodiversity-relevant taxes",
+                "Tax revenue from biodiversity-relevant taxes out of total tax revenue",
+                "Total official development assistance for biodiversity, by recipient countries"
               ]
             },
             "title": "Series"
