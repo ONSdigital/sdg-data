@@ -781,7 +781,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Volume of remittances as a proportion of total GDP",
+                "Volume of remittances (in United States dollars) as a proportion of total GDP",
                 ""
               ]
             }
@@ -2505,7 +2505,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage of government expenditure funded by domestic taxes",
+                "Proportion of domestic budget funded by domestic taxes",
                 ""
               ]
             }
@@ -8584,7 +8584,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mechanisms in place to enhance policy coherence for sustainable development",
+                "Mechanisms in place to enhance policy coherence for sustainable development (Percent)",
                 ""
               ]
             }
@@ -8809,7 +8809,7 @@
             "constraints": {
               "enum": [
                 "Net official development assistance (ODA) as a percentage of GNI",
-                "Net official development assistance (ODA) to LDCs as a percentage of GNI",
+                "Net official development assistance (ODA) to LDCs as a percentage of OECD-DAC donors' GNI, by donor countries",
                 ""
               ]
             }
@@ -11384,7 +11384,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total government revenue as a percentage of GDP",
+                "Total government revenue as a proportion of GDP",
                 ""
               ]
             }

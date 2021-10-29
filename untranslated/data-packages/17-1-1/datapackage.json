@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total government revenue as a percentage of GDP",
+                "Total government revenue as a proportion of GDP",
                 ""
               ]
             }

@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Volume of remittances as a proportion of total GDP",
+                "Volume of remittances (in United States dollars) as a proportion of total GDP",
                 ""
               ]
             }
