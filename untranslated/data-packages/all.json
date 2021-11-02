@@ -4774,10 +4774,10 @@
             "constraints": {
               "enum": [
                 "White (inc. not known)",
+                "Mixed/multiple ethnic groups",
                 "Asian",
                 "Black",
                 "Chinese or other",
-                "Mixed/multiple ethnic groups",
                 ""
               ]
             }
@@ -6170,8 +6170,8 @@
             "constraints": {
               "enum": [
                 "England and Wales",
-                "Scotland",
                 "Northern Ireland",
+                "Scotland",
                 ""
               ]
             }
@@ -6181,9 +6181,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15 to 19",
                 "10 to 14",
                 "10 to 19",
+                "15 to 19",
                 ""
               ]
             }
@@ -10531,11 +10531,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Wales",
-                "England",
                 "England and Wales",
+                "England",
                 "Northern Ireland",
                 "Scotland",
+                "Wales",
                 ""
               ]
             }
@@ -10545,15 +10545,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "East",
                 "East Midlands",
-                "East of England",
                 "London",
                 "North East",
                 "North West",
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and the Humber",
+                "Yorkshire and The Humber",
                 ""
               ]
             }
@@ -10563,13 +10563,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Powys Teaching",
-                "Hywel Dda University",
-                "Cwm Taf University",
-                "Cardiff and Vale University",
-                "Betsi Cadwaladr University",
-                "Aneurin Bevan University",
                 "Abertawe Bro Morgannwg University",
+                "Aneurin Bevan University",
+                "Betsi Cadwaladr University",
+                "Cardiff and Vale University",
+                "Cwm Taf University",
+                "Hywel Dda University",
+                "Powys Teaching",
                 ""
               ]
             }
@@ -10599,12 +10599,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "19 and under",
                 "20 to 24",
                 "25 to 29",
                 "30 to 34",
                 "35 to 39",
                 "40 and over",
-                "19 and under",
                 ""
               ]
             }
@@ -11890,9 +11890,9 @@
               "enum": [
                 "England and Wales",
                 "England",
-                "Wales",
-                "Scotland",
                 "Northern Ireland",
+                "Scotland",
+                "Wales",
                 ""
               ]
             }
@@ -11902,8 +11902,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             }
@@ -12973,8 +12973,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Medical products appliances and equipment",
                 "Hospital services",
+                "Medical products appliances and equipment",
                 ""
               ]
             }
@@ -12984,10 +12984,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Inpatient hospital services",
+                "Outpatient services",
                 "Medicines prescriptions and healthcare products",
                 "Spectacles lenses accessories and repairs",
-                "Outpatient services",
-                "Inpatient hospital services",
                 ""
               ]
             }
@@ -12997,15 +12997,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "National Health Service (NHS) prescription charges and payments",
-                "Medicines and medical goods (not NHS)",
-                "Other medical products (plasters condoms hot water bottles)",
-                "Nonoptical appliances and equipment (wheelchairs batteries for hearing aids shoe buildup)",
-                "Purchase of spectacles lenses prescription sunglasses",
-                "Accessories or repairs to spectacles or lenses",
                 "National Health Service (NHS) medical optical dental and medical auxiliary services",
-                "Private medical optical dental and medical auxiliary services",
                 "Other services",
+                "Private medical optical dental and medical auxiliary services",
+                "Medicines and medical goods (not NHS)",
+                "National Health Service (NHS) prescription charges and payments",
+                "Nonoptical appliances and equipment (wheelchairs batteries for hearing aids shoe buildup)",
+                "Other medical products (plasters condoms hot water bottles)",
+                "Accessories or repairs to spectacles or lenses",
+                "Purchase of spectacles lenses prescription sunglasses",
                 ""
               ]
             }
@@ -13016,8 +13016,8 @@
             "constraints": {
               "enum": [
                 "Owner occupied",
-                "Social rented",
                 "Private rented",
+                "Social rented",
                 ""
               ]
             }
@@ -13029,11 +13029,11 @@
               "enum": [
                 "Owned outright",
                 "Owner occupied buying with a mortgage",
+                "Rent free",
+                "Rent paid furnished",
+                "Rent paid unfurnished",
                 "Council",
                 "Registered social landlord",
-                "Rent free",
-                "Rent paid unfurnished",
-                "Rent paid furnished",
                 ""
               ]
             }
@@ -13043,17 +13043,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Large employers and higher managerial",
                 "Higher professional",
-                "Lower managerial and professional",
                 "Intermediate occupations",
-                "Small employers",
-                "Lower supervisory",
-                "Semiroutine",
-                "Routine",
+                "Large employers and higher managerial",
                 "Long term unemployed",
-                "Students",
+                "Lower managerial and professional",
+                "Lower supervisory",
                 "Occupation not stated",
+                "Routine",
+                "Semiroutine",
+                "Small employers",
+                "Students",
                 ""
               ]
             }
@@ -15292,15 +15292,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "IU device",
-                "IU system",
                 "Implant",
                 "Injectable contraceptive",
-                "Oral contraceptives",
-                "Male condom",
-                "Female condom",
+                "IU device",
+                "IU system",
                 "Contraceptive patch",
+                "Female condom",
+                "Male condom",
                 "Natural family planning",
+                "Oral contraceptives",
                 "Other methods",
                 ""
               ]
@@ -15311,7 +15311,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Under 16",
+                "15 and under",
                 "16 to 17",
                 "18 to 19",
                 "20 to 24",
@@ -15327,15 +15327,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "East",
+                "East Midlands",
+                "London",
                 "North East",
                 "North West",
-                "Yorkshire and the Humber",
-                "East Midlands",
-                "West Midlands",
-                "East of England",
-                "London",
                 "South East",
                 "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             }
@@ -15345,6 +15345,57 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Bedford",
+                "Cambridgeshire",
+                "Central Bedfordshire",
+                "Essex",
+                "Hertfordshire",
+                "Luton",
+                "Norfolk",
+                "Peterborough",
+                "Southend-on-Sea",
+                "Suffolk",
+                "Thurrock",
+                "Derby",
+                "Derbyshire",
+                "Leicester",
+                "Leicestershire",
+                "Lincolnshire",
+                "Northamptonshire",
+                "Nottingham",
+                "Nottinghamshire",
+                "Barking and Dagenham",
+                "Barnet",
+                "Bexley",
+                "Brent",
+                "Bromley",
+                "Camden",
+                "Croydon",
+                "Ealing",
+                "Enfield",
+                "Greenwich",
+                "Hackney",
+                "Hammersmith and Fulham",
+                "Haringey",
+                "Harrow",
+                "Havering",
+                "Hillingdon",
+                "Hounslow",
+                "Islington",
+                "Kensington and Chelsea",
+                "Kingston upon Thames",
+                "Lambeth",
+                "Lewisham",
+                "Merton",
+                "Newham",
+                "Redbridge",
+                "Richmond upon Thames",
+                "Southwark",
+                "Sutton",
+                "Tower Hamlets",
+                "Waltham Forest",
+                "Wandsworth",
+                "Westminster",
                 "County Durham",
                 "Darlington",
                 "Gateshead",
@@ -15380,86 +15431,6 @@
                 "Warrington",
                 "Wigan",
                 "Wirral",
-                "Barnsley",
-                "Bradford",
-                "Calderdale",
-                "Doncaster",
-                "East Riding of Yorkshire",
-                "Kingston upon Hull, City of",
-                "Kirklees",
-                "Leeds",
-                "North East Lincolnshire",
-                "North Lincolnshire",
-                "North Yorkshire",
-                "Rotherham",
-                "Sheffield",
-                "Wakefield",
-                "York",
-                "Derby",
-                "Derbyshire",
-                "Leicester",
-                "Leicestershire",
-                "Lincolnshire",
-                "Northamptonshire",
-                "Nottingham",
-                "Nottinghamshire",
-                "Birmingham",
-                "Coventry",
-                "Dudley",
-                "Herefordshire, County of",
-                "Sandwell",
-                "Shropshire",
-                "Solihull",
-                "Staffordshire",
-                "Stoke-on-Trent",
-                "Telford and Wrekin",
-                "Walsall",
-                "Warwickshire",
-                "Wolverhampton",
-                "Worcestershire",
-                "Bedford",
-                "Cambridgeshire",
-                "Central Bedfordshire",
-                "Essex",
-                "Hertfordshire",
-                "Luton",
-                "Norfolk",
-                "Peterborough",
-                "Southend-on-Sea",
-                "Suffolk",
-                "Thurrock",
-                "Barking and Dagenham",
-                "Barnet",
-                "Bexley",
-                "Brent",
-                "Bromley",
-                "Camden",
-                "Croydon",
-                "Ealing",
-                "Enfield",
-                "Greenwich",
-                "Hackney",
-                "Hammersmith and Fulham",
-                "Haringey",
-                "Harrow",
-                "Havering",
-                "Hillingdon",
-                "Hounslow",
-                "Islington",
-                "Kensington and Chelsea",
-                "Kingston upon Thames",
-                "Lambeth",
-                "Lewisham",
-                "Merton",
-                "Newham",
-                "Redbridge",
-                "Richmond upon Thames",
-                "Southwark",
-                "Sutton",
-                "Tower Hamlets",
-                "Waltham Forest",
-                "Wandsworth",
-                "Westminster",
                 "Bracknell Forest",
                 "Brighton and Hove",
                 "Buckinghamshire",
@@ -15494,6 +15465,35 @@
                 "Swindon",
                 "Torbay",
                 "Wiltshire",
+                "Birmingham",
+                "Coventry",
+                "Dudley",
+                "Herefordshire, County of",
+                "Sandwell",
+                "Shropshire",
+                "Solihull",
+                "Staffordshire",
+                "Stoke-on-Trent",
+                "Telford and Wrekin",
+                "Walsall",
+                "Warwickshire",
+                "Wolverhampton",
+                "Worcestershire",
+                "Barnsley",
+                "Bradford",
+                "Calderdale",
+                "Doncaster",
+                "East Riding of Yorkshire",
+                "Kingston upon Hull, City of",
+                "Kirklees",
+                "Leeds",
+                "North East Lincolnshire",
+                "North Lincolnshire",
+                "North Yorkshire",
+                "Rotherham",
+                "Sheffield",
+                "Wakefield",
+                "York",
                 ""
               ]
             }
@@ -15503,8 +15503,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -17801,15 +17807,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "East",
+                "East Midlands",
+                "London",
                 "North East",
                 "North West",
-                "Yorkshire and the Humber",
-                "East Midlands",
-                "West Midlands",
-                "East of England",
-                "London",
                 "South East",
                 "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             }
@@ -17819,13 +17825,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Betsi Cadwaladr University",
-                "Powys Teaching",
-                "Hywel Dda University",
                 "Abertawe Bro Morgannwg University",
-                "Cwm Taf University",
                 "Aneurin Bevan University",
+                "Betsi Cadwaladr University",
                 "Cardiff and Vale University",
+                "Cwm Taf University",
+                "Hywel Dda University",
+                "Powys Teaching",
                 ""
               ]
             }

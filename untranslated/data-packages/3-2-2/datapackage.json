@@ -30,11 +30,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Wales",
-                "England",
                 "England and Wales",
+                "England",
                 "Northern Ireland",
                 "Scotland",
+                "Wales",
                 ""
               ]
             }
@@ -44,15 +44,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "East",
                 "East Midlands",
-                "East of England",
                 "London",
                 "North East",
                 "North West",
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and the Humber",
+                "Yorkshire and The Humber",
                 ""
               ]
             }
@@ -62,13 +62,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Powys Teaching",
-                "Hywel Dda University",
-                "Cwm Taf University",
-                "Cardiff and Vale University",
-                "Betsi Cadwaladr University",
-                "Aneurin Bevan University",
                 "Abertawe Bro Morgannwg University",
+                "Aneurin Bevan University",
+                "Betsi Cadwaladr University",
+                "Cardiff and Vale University",
+                "Cwm Taf University",
+                "Hywel Dda University",
+                "Powys Teaching",
                 ""
               ]
             }
@@ -98,12 +98,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "19 and under",
                 "20 to 24",
                 "25 to 29",
                 "30 to 34",
                 "35 to 39",
                 "40 and over",
-                "19 and under",
                 ""
               ]
             }
