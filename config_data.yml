@@ -108,3 +108,6 @@ docs_metadata_fields:
       label: Units
     - key: graph_type
       label: Graph type
+
+datapackage:
+  sorting: default
