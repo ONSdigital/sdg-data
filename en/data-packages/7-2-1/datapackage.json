@@ -16,14 +16,58 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
+            "name": "Renewable and waste source",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "",
+                "Biodiesel",
+                "Bioethanol",
+                "Biogas from autogen",
+                "Biomass",
+                "Charcoal",
+                "Cross-boundary Adjustment",
+                "Geothermal aquifers",
+                "Hydroelectric power",
+                "Landfill gas",
+                "Liquid bio-fuels",
+                "Municipal solid waste (MSW)",
+                "Poultry litter",
+                "Sewage gas",
+                "Solar photovoltaic",
+                "Straw",
+                "Wind, wave, tidal",
+                "Wood"
+              ]
+            },
+            "title": "Renewable and waste source"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Renewable energy share in the total final energy consumption"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage (%)"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
