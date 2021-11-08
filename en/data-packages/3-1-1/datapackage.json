@@ -27,6 +27,17 @@
             "title": "Age"
           },
           {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "England"
+              ]
+            },
+            "title": "Country"
+          },
+          {
             "name": "Country of birth",
             "type": "string",
             "constraints": {
@@ -81,9 +92,48 @@
             "title": "Ethnicity"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Observation status",
             "type": "string",
             "title": "Observation status"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Maternal mortality rate",
+                "Maternal mortality ratio"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Rate per 100,000 live births",
+                "Rate per 100,000 maternities"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

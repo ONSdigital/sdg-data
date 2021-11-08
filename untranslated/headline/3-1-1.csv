@@ -1,14 +1,26 @@
-Year,Value,Observation status
-2003 - 05,13.95,Undefined
-2004 - 06,12.56,Undefined
-2005 - 07,11.66,Undefined
-2006 - 08,11.39,Undefined
-2007 - 09,10.89,Undefined
-2008 - 10,11.03,Undefined
-2009 - 11,10.63,Undefined
-2010 - 12,10.12,Undefined
-2011 - 13,9.02,Undefined
-2012 - 14,8.54,Undefined
-2013 - 15,8.76,Undefined
-2014 - 16,9.78,Undefined
-2015 - 17,9.19,Undefined
+Year,Value,Units,Series,GeoCode,Observation status,Unit multiplier,Unit measure
+2003-05,13.95,"Rate per 100,000 maternities",Maternal mortality rate,,Definition differs,Units,Units
+2004-06,12.56,"Rate per 100,000 maternities",Maternal mortality rate,,Definition differs,Units,Units
+2005-07,11.66,"Rate per 100,000 maternities",Maternal mortality rate,,Definition differs,Units,Units
+2006-08,11.39,"Rate per 100,000 maternities",Maternal mortality rate,,Definition differs,Units,Units
+2007-09,10.89,"Rate per 100,000 maternities",Maternal mortality rate,,Definition differs,Units,Units
+2008-10,11.03,"Rate per 100,000 maternities",Maternal mortality rate,,Definition differs,Units,Units
+2009-11,10.63,"Rate per 100,000 maternities",Maternal mortality rate,,Definition differs,Units,Units
+2010-12,10.12,"Rate per 100,000 maternities",Maternal mortality rate,,Definition differs,Units,Units
+2011-13,9.02,"Rate per 100,000 maternities",Maternal mortality rate,,Definition differs,Units,Units
+2012-14,8.54,"Rate per 100,000 maternities",Maternal mortality rate,,Definition differs,Units,Units
+2013-15,8.76,"Rate per 100,000 maternities",Maternal mortality rate,,Definition differs,Units,Units
+2014-16,9.78,"Rate per 100,000 maternities",Maternal mortality rate,,Definition differs,Units,Units
+2015-17,9.19,"Rate per 100,000 maternities",Maternal mortality rate,,Definition differs,Units,Units
+2016-18,9.71,"Rate per 100,000 maternities",Maternal mortality rate,,Definition differs,Units,Units
+1985-87,7.67,"Rate per 100,000 live births",Maternal mortality ratio,,Normal value,Units,Units
+1988-90,7.24,"Rate per 100,000 live births",Maternal mortality ratio,,Normal value,Units,Units
+1991-93,6.48,"Rate per 100,000 live births",Maternal mortality ratio,,Normal value,Units,Units
+1994-96,7.19,"Rate per 100,000 live births",Maternal mortality ratio,,Normal value,Units,Units
+1997-99,6.03,"Rate per 100,000 live births",Maternal mortality ratio,,Normal value,Units,Units
+2000-02,6.81,"Rate per 100,000 live births",Maternal mortality ratio,,Normal value,Units,Units
+2003-05,7.05,"Rate per 100,000 live births",Maternal mortality ratio,,Normal value,Units,Units
+2006-08,6.76,"Rate per 100,000 live births",Maternal mortality ratio,,Normal value,Units,Units
+2009-11,5.57,"Rate per 100,000 live births",Maternal mortality ratio,,Normal value,Units,Units
+2012-14,4.65,"Rate per 100,000 live births",Maternal mortality ratio,,Normal value,Units,Units
+2015-17,4.1,"Rate per 100,000 live births",Maternal mortality ratio,,Normal value,Units,Units

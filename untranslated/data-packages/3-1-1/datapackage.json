@@ -15,12 +15,37 @@
             "type": "string"
           },
           {
-            "name": "Death classification",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Direct",
-                "Indirect",
+                "Maternal mortality rate",
+                "Maternal mortality ratio",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "19 and under",
+                "20 to 24",
+                "25 to 29",
+                "30 to 34",
+                "35 to 39",
+                "40 and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
                 ""
               ]
             }
@@ -37,16 +62,12 @@
             }
           },
           {
-            "name": "Age",
+            "name": "Death classification",
             "type": "string",
             "constraints": {
               "enum": [
-                "19 and under",
-                "20 to 24",
-                "25 to 29",
-                "30 to 34",
-                "35 to 39",
-                "40 and over",
+                "Direct",
+                "Indirect",
                 ""
               ]
             }
@@ -81,6 +102,29 @@
           },
           {
             "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate per 100,000 maternities",
+                "Rate per 100,000 live births",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
             "type": "string"
           },
           {
