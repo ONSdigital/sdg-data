@@ -15,12 +15,25 @@
             "type": "integer"
           },
           {
-            "name": "Flow of Official Development Assistance (ODA)",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bilateral",
-                "Multilateral",
+                "Value of all resources made available to strengthen statistical capacity in developing countries",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country income classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LDCs",
+                "LMICs",
+                "Other LICs",
+                "UMICs",
+                "Unspecified",
                 ""
               ]
             }
@@ -34,8 +47,15 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GBP (£ thousands)",
+                "USD ($ thousands)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
