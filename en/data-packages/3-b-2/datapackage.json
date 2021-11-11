@@ -16,45 +16,26 @@
             "constraints": {
               "enum": [
                 "",
-                "Basic health care (12220)",
-                "Basic health infrastructure (12230)",
-                "Basic nutrition (12240)",
-                "Health education (12261)",
-                "Health personnel development (12281)",
-                "Health policy and administrative management (12110)",
-                "Infectious disease control (12250)",
-                "Malaria control (12262)",
-                "Medical education/training (12181)",
-                "Medical research (12182)",
-                "Medical services (12191)",
-                "Tuberculosis control (12263)"
+                "Basic health",
+                "Medical research"
               ]
             },
             "title": "Aid description (CRS code)"
           },
           {
-            "name": "Aid sub-category (DAC 5 code)",
+            "name": "Country income classification",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Basic health (122)",
-                "Health, general (121)"
+                "LDCs",
+                "LMICs",
+                "Other LICs",
+                "UMICs",
+                "Unspecified"
               ]
             },
-            "title": "Aid sub-category (DAC 5 code)"
-          },
-          {
-            "name": "Flow of Official Development Assistance (ODA)",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Bilateral",
-                "Multilateral"
-              ]
-            },
-            "title": "Flow of Official Development Assistance (ODA)"
+            "title": "Country income classification"
           },
           {
             "name": "Observation status",
@@ -62,14 +43,32 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
+            "name": "Series",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "",
+                "Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Constant USD ($ thousands)",
+                "GBP (£ thousands)"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
