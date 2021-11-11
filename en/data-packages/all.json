@@ -4256,18 +4256,19 @@
       "schema": {
         "fields": [
           {
-            "name": "DAC classification",
+            "name": "Country income classification",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Least developed countries",
-                "Lower middle income countries and territories",
-                "Other low income countries",
-                "Upper middle income countries and territories"
+                "LDCs",
+                "LMICs",
+                "Other LICs",
+                "UMICs",
+                "Unspecified"
               ]
             },
-            "title": "DAC classification"
+            "title": "Country income classification"
           },
           {
             "name": "Observation status",
@@ -4275,14 +4276,21 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "GBP (£ thousands)",
+                "USD ($ thousands)"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
