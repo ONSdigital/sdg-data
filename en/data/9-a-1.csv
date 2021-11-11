@@ -1,26 +1,73 @@
-Year,Flow of Official Development Assistance (ODA),Observation status,Unit multiplier,Unit measure,Value
-2010,,Undefined,Thousands,GBP (£),781564.550552
-2011,,Undefined,Thousands,GBP (£),1222251.446403455
-2012,,Undefined,Thousands,GBP (£),1238533.343286151
-2013,,Undefined,Thousands,GBP (£),1539733.0013319843
-2014,,Undefined,Thousands,GBP (£),1513471.2539387252
-2015,,Undefined,Thousands,GBP (£),1960319.01800474
-2016,,Undefined,Thousands,GBP (£),1695378.0815540445
-2017,,Undefined,Thousands,GBP (£),1590446.0159123992
-2009,Bilateral,Undefined,Thousands,GBP (£),525824.5700000003
-2010,Bilateral,Undefined,Thousands,GBP (£),358522.6119940001
-2011,Bilateral,Undefined,Thousands,GBP (£),546585.3488539999
-2012,Bilateral,Undefined,Thousands,GBP (£),597359.9084409998
-2013,Bilateral,Undefined,Thousands,GBP (£),487080.958214
-2014,Bilateral,Undefined,Thousands,GBP (£),396384.184512
-2015,Bilateral,Undefined,Thousands,GBP (£),888545.0512679997
-2016,Bilateral,Undefined,Thousands,GBP (£),826408.6217200004
-2017,Bilateral,Undefined,Thousands,GBP (£),773448.5910585002
-2010,Multilateral,Undefined,Thousands,GBP (£),423041.9385583482
-2011,Multilateral,Undefined,Thousands,GBP (£),675666.0975494552
-2012,Multilateral,Undefined,Thousands,GBP (£),641173.4348451513
-2013,Multilateral,Undefined,Thousands,GBP (£),1052652.0431179844
-2014,Multilateral,Undefined,Thousands,GBP (£),1117087.0694267252
-2015,Multilateral,Undefined,Thousands,GBP (£),1071773.96673674
-2016,Multilateral,Undefined,Thousands,GBP (£),868969.459834044
-2017,Multilateral,Undefined,Thousands,GBP (£),816997.424853899
+Year,Country income classification,Observation status,Unit multiplier,Unit measure,Value
+2009,LDCs,Definition differs,Thousands,GBP (£ thousands),170340.01
+2010,LDCs,Definition differs,Thousands,GBP (£ thousands),64896.323498
+2011,LDCs,Definition differs,Thousands,GBP (£ thousands),151648.682875
+2012,LDCs,Definition differs,Thousands,GBP (£ thousands),66316.617713
+2013,LDCs,Definition differs,Thousands,GBP (£ thousands),81229.621918
+2014,LDCs,Definition differs,Thousands,GBP (£ thousands),76021.196362
+2015,LDCs,Definition differs,Thousands,GBP (£ thousands),149462.41496
+2016,LDCs,Definition differs,Thousands,GBP (£ thousands),67188.4796
+2017,LDCs,Definition differs,Thousands,GBP (£ thousands),149255.752597
+2018,LDCs,Definition differs,Thousands,GBP (£ thousands),107701.222255
+2019,LDCs,Definition differs,Thousands,GBP (£ thousands),110808.181777
+2020,LDCs,Definition differs,Thousands,GBP (£ thousands),77985.810966
+2009,LMICs,Definition differs,Thousands,GBP (£ thousands),120976.72
+2010,LMICs,Definition differs,Thousands,GBP (£ thousands),148989.409791
+2011,LMICs,Definition differs,Thousands,GBP (£ thousands),119329.696731
+2012,LMICs,Definition differs,Thousands,GBP (£ thousands),120928.683361
+2013,LMICs,Definition differs,Thousands,GBP (£ thousands),144944.442384
+2014,LMICs,Definition differs,Thousands,GBP (£ thousands),151638.919332
+2015,LMICs,Definition differs,Thousands,GBP (£ thousands),112395.842098
+2016,LMICs,Definition differs,Thousands,GBP (£ thousands),130169.20029
+2017,LMICs,Definition differs,Thousands,GBP (£ thousands),138192.301782
+2018,LMICs,Definition differs,Thousands,GBP (£ thousands),164053.380345
+2019,LMICs,Definition differs,Thousands,GBP (£ thousands),128000.103345
+2020,LMICs,Definition differs,Thousands,GBP (£ thousands),56816.105978
+2009,Other LICs,Definition differs,Thousands,GBP (£ thousands),48751.11
+2010,Other LICs,Definition differs,Thousands,GBP (£ thousands),70351.727835
+2011,Other LICs,Definition differs,Thousands,GBP (£ thousands),4011.78046
+2012,Other LICs,Definition differs,Thousands,GBP (£ thousands),-305.67161
+2013,Other LICs,Definition differs,Thousands,GBP (£ thousands),38453.20437
+2014,Other LICs,Definition differs,Thousands,GBP (£ thousands),23218.168823
+2015,Other LICs,Definition differs,Thousands,GBP (£ thousands),20465.60651
+2016,Other LICs,Definition differs,Thousands,GBP (£ thousands),19119.76906
+2017,Other LICs,Definition differs,Thousands,GBP (£ thousands),19978.232447
+2018,Other LICs,Definition differs,Thousands,GBP (£ thousands),2402.518826
+2019,Other LICs,Definition differs,Thousands,GBP (£ thousands),1342.191385
+2020,Other LICs,Definition differs,Thousands,GBP (£ thousands),1064.432107
+2009,UMICs,Definition differs,Thousands,GBP (£ thousands),55032.28
+2010,UMICs,Definition differs,Thousands,GBP (£ thousands),14092.115028
+2011,UMICs,Definition differs,Thousands,GBP (£ thousands),60209.286574
+2012,UMICs,Definition differs,Thousands,GBP (£ thousands),115884.76719
+2013,UMICs,Definition differs,Thousands,GBP (£ thousands),78164.852192
+2014,UMICs,Definition differs,Thousands,GBP (£ thousands),-32502.085496
+2015,UMICs,Definition differs,Thousands,GBP (£ thousands),38545.45054
+2016,UMICs,Definition differs,Thousands,GBP (£ thousands),53490.06899
+2017,UMICs,Definition differs,Thousands,GBP (£ thousands),33575.412644
+2018,UMICs,Definition differs,Thousands,GBP (£ thousands),21333.627488
+2019,UMICs,Definition differs,Thousands,GBP (£ thousands),20290.166748
+2020,UMICs,Definition differs,Thousands,GBP (£ thousands),54211.844923
+2009,Unspecified,Definition differs,Thousands,GBP (£ thousands),130724.45
+2010,Unspecified,Definition differs,Thousands,GBP (£ thousands),60193.035842
+2011,Unspecified,Definition differs,Thousands,GBP (£ thousands),211385.902214
+2012,Unspecified,Definition differs,Thousands,GBP (£ thousands),294535.511787
+2013,Unspecified,Definition differs,Thousands,GBP (£ thousands),144288.83735
+2014,Unspecified,Definition differs,Thousands,GBP (£ thousands),294419.936482
+2015,Unspecified,Definition differs,Thousands,GBP (£ thousands),733194.583161
+2016,Unspecified,Definition differs,Thousands,GBP (£ thousands),622466.58266
+2017,Unspecified,Definition differs,Thousands,GBP (£ thousands),434146.891602
+2018,Unspecified,Definition differs,Thousands,GBP (£ thousands),838640.6062
+2019,Unspecified,Definition differs,Thousands,GBP (£ thousands),1101196.022663
+2020,Unspecified,Definition differs,Thousands,GBP (£ thousands),744139.251145
+2009,,Definition differs,Thousands,GBP (£ thousands),525824.57
+2010,,Definition differs,Thousands,GBP (£ thousands),358522.611994
+2011,,Definition differs,Thousands,GBP (£ thousands),546585.348854
+2012,,Definition differs,Thousands,GBP (£ thousands),597359.908441
+2013,,Definition differs,Thousands,GBP (£ thousands),487080.958214
+2014,,Definition differs,Thousands,GBP (£ thousands),512796.135503
+2015,,Definition differs,Thousands,GBP (£ thousands),1054063.897269
+2016,,Definition differs,Thousands,GBP (£ thousands),892434.1006
+2017,,Definition differs,Thousands,GBP (£ thousands),775148.591072
+2018,,Definition differs,Thousands,GBP (£ thousands),1134131.355114
+2019,,Definition differs,Thousands,GBP (£ thousands),1361636.665918
+2020,,Definition differs,Thousands,GBP (£ thousands),934217.445119

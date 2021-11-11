@@ -5874,12 +5874,15 @@
             "type": "integer"
           },
           {
-            "name": "Flow of Official Development Assistance (ODA)",
+            "name": "Country income classification",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bilateral",
-                "Multilateral",
+                "LDCs",
+                "LMICs",
+                "Other LICs",
+                "UMICs",
+                "Unspecified",
                 ""
               ]
             }

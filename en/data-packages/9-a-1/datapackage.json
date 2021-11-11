@@ -11,16 +11,19 @@
       "schema": {
         "fields": [
           {
-            "name": "Flow of Official Development Assistance (ODA)",
+            "name": "Country income classification",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Bilateral",
-                "Multilateral"
+                "LDCs",
+                "LMICs",
+                "Other LICs",
+                "UMICs",
+                "Unspecified"
               ]
             },
-            "title": "Flow of Official Development Assistance (ODA)"
+            "title": "Country income classification"
           },
           {
             "name": "Observation status",
