@@ -15,32 +15,25 @@
             "type": "integer"
           },
           {
-            "name": "Flow of Official Development Assistance (ODA)",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bilateral",
-                "Multilateral",
+                "Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries",
                 ""
               ]
             }
           },
           {
-            "name": "Aid description (CRS code)",
+            "name": "Country income classification",
             "type": "string",
             "constraints": {
               "enum": [
-                "Basic drinking water supply (14031)",
-                "Basic drinking water supply and basic sanitation (14030)",
-                "Basic sanitation (14032)",
-                "Education and training in water supply and sanitation (14081)",
-                "River basins development (14040)",
-                "Sanitation - large systems (14022)",
-                "Waste management/disposal (14050)",
-                "Water resources policy/administrative management (14010)",
-                "Water resources protection (14015)",
-                "Water supply - large systems (14021)",
-                "Water supply & sanit. - large systems (14020)",
+                "LDCs",
+                "LMICs",
+                "Other LICs",
+                "UMICs",
+                "Unspecified",
                 ""
               ]
             }
@@ -54,8 +47,15 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GBP (£ thousands)",
+                "Constant USD ($ thousands)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
