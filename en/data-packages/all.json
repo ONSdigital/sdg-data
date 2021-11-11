@@ -5166,18 +5166,35 @@
         "fields": [
           {
             "name": "Observation status",
-            "type": "number",
+            "type": "string",
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
+            "name": "Series",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "",
+                "Degree of integrated water resources management implementation"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Integrated Water Resources Management score"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -5209,7 +5226,6 @@
                 "Basin and aquifer level organizations for leading implementation of integrated water resources management (IWRM) plans",
                 "Basin and aquifer management plans",
                 "Basin management instruments",
-                "Business participation in water resources development, management and use at national level",
                 "Coordination between national government authorities representing different sectors on water resources, policy, planning and management",
                 "Data and information sharing within countries at all levels",
                 "Developing integrated water resources management (IWRM) capacity at the national level",
@@ -5224,13 +5240,17 @@
                 "National water resources law",
                 "National water resources policy",
                 "Organizational framework for transboundary water management for most important basins and aquifers",
+                "Participation of vulnerable groups in water resources planning and management",
                 "Pollution control from the national level",
-                "Provincial and state water resources laws",
+                "Private Sector participation in water resources development, management and use at national level",
                 "Public participation in water resources, policy, planning and management at national level",
                 "Public participation in water resources, policy, planning and management at the local level",
                 "Revenues raised from dedicated levies on water users at basin, aquifer or sub-national levels",
+                "Sub-national authorities for leading IWRM implementation",
+                "Sub-national or basin budgets for IWRM elements",
                 "Sub-national or basin budgets for investment including water resources infrastructure",
                 "Sub-national water resources policies",
+                "Sub-national water resources regulations",
                 "Sustainable and efficient water use management from the national level",
                 "Transboundary data and information sharing between countries"
               ]
