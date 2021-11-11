@@ -1,26 +1,145 @@
-Year,Flow of Official Development Assistance (ODA),Observation status,Unit multiplier,Unit measure,Value
-2009,Bilateral,Undefined,Thousands,GBP (£),160291.48
-2010,Bilateral,Undefined,Thousands,GBP (£),165969.27042099994
-2011,Bilateral,Undefined,Thousands,GBP (£),209016.488383
-2012,Bilateral,Undefined,Thousands,GBP (£),242893.298955
-2013,Bilateral,Undefined,Thousands,GBP (£),261434.32825000008
-2014,Bilateral,Undefined,Thousands,GBP (£),256415.39129500007
-2015,Bilateral,Undefined,Thousands,GBP (£),355763.7823940001
-2016,Bilateral,Undefined,Thousands,GBP (£),309352.5331700001
-2017,Bilateral,Undefined,Thousands,GBP (£),325307.61805083015
-2010,Multilateral,Undefined,Thousands,GBP (£),213907.58041013012
-2011,Multilateral,Undefined,Thousands,GBP (£),253542.80846653547
-2012,Multilateral,Undefined,Thousands,GBP (£),158221.25333482708
-2013,Multilateral,Undefined,Thousands,GBP (£),261785.74582403596
-2014,Multilateral,Undefined,Thousands,GBP (£),327933.43013462366
-2015,Multilateral,Undefined,Thousands,GBP (£),248258.32706892863
-2016,Multilateral,Undefined,Thousands,GBP (£),343963.0873720694
-2017,Multilateral,Undefined,Thousands,GBP (£),300972.91048683424
-2010,,Undefined,Thousands,GBP (£),379876.85083113005
-2011,,Undefined,Thousands,GBP (£),462559.2968495354
-2012,,Undefined,Thousands,GBP (£),401114.552289827
-2013,,Undefined,Thousands,GBP (£),523220.074074036
-2014,,Undefined,Thousands,GBP (£),584348.8214296238
-2015,,Undefined,Thousands,GBP (£),604022.1094629287
-2016,,Undefined,Thousands,GBP (£),653315.6205420695
-2017,,Undefined,Thousands,GBP (£),626280.5285376643
+Year,Series,Country income classification,Observation status,Unit multiplier,Units,Value
+2009,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,GBP (£ thousands),14690.83
+2010,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,GBP (£ thousands),18775.20427
+2011,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,GBP (£ thousands),51152.81294
+2012,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,GBP (£ thousands),30455.070548
+2013,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,GBP (£ thousands),72682.19245
+2014,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,GBP (£ thousands),61756.229761
+2015,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,GBP (£ thousands),138264.45568
+2016,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,GBP (£ thousands),99699.6324
+2017,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,GBP (£ thousands),124843.954596
+2018,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,GBP (£ thousands),105981.987417
+2019,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,GBP (£ thousands),96708.542158
+2020,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,GBP (£ thousands),66825.463907
+2009,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,GBP (£ thousands),10232.88
+2010,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,GBP (£ thousands),16953.971695
+2011,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,GBP (£ thousands),6508.25279
+2012,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,GBP (£ thousands),6167.68383
+2013,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,GBP (£ thousands),19178.45738
+2014,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,GBP (£ thousands),16195.336782
+2015,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,GBP (£ thousands),25483.30857
+2016,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,GBP (£ thousands),28523.8247
+2017,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,GBP (£ thousands),17660.832655
+2018,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,GBP (£ thousands),23101.14972
+2019,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,GBP (£ thousands),17106.054361
+2020,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,GBP (£ thousands),12020.948923
+2009,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,GBP (£ thousands),14194.11
+2010,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,GBP (£ thousands),317.061806
+2011,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,GBP (£ thousands),9013.46617
+2012,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,GBP (£ thousands),11270.44344
+2013,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,GBP (£ thousands),1046.46575
+2014,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,GBP (£ thousands),-514.540994
+2015,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,GBP (£ thousands),18201.17524
+2016,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,GBP (£ thousands),19062.01195
+2017,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,GBP (£ thousands),11074.14735
+2018,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,GBP (£ thousands),5202.93774
+2019,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,GBP (£ thousands),6565.12745
+2020,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,GBP (£ thousands),399.086564
+2009,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,GBP (£ thousands),134.52
+2010,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,GBP (£ thousands),311.12904
+2011,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,GBP (£ thousands),519.893433
+2012,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,GBP (£ thousands),31805.516257
+2013,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,GBP (£ thousands),-4883.57542
+2014,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,GBP (£ thousands),6504.696482
+2015,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,GBP (£ thousands),5952.18295
+2016,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,GBP (£ thousands),7522.23227
+2017,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,GBP (£ thousands),10938.9699
+2018,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,GBP (£ thousands),16883.88958
+2019,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,GBP (£ thousands),18759.866239
+2020,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,GBP (£ thousands),14818.687414
+2009,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,GBP (£ thousands),28927.87
+2010,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,GBP (£ thousands),33640.78305
+2011,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,GBP (£ thousands),32431.46721
+2012,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,GBP (£ thousands),69915.05994
+2013,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,GBP (£ thousands),54089.77556
+2014,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,GBP (£ thousands),70530.189044
+2015,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,GBP (£ thousands),111391.041104
+2016,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,GBP (£ thousands),123523.98196
+2017,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,GBP (£ thousands),121335.450328
+2018,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,GBP (£ thousands),103759.604129
+2019,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,GBP (£ thousands),154670.574599
+2020,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,GBP (£ thousands),96294.607526
+2009,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,GBP (£ thousands),68180.21
+2010,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,GBP (£ thousands),69998.149861
+2011,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,GBP (£ thousands),99625.892543
+2012,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,GBP (£ thousands),149613.774015
+2013,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,GBP (£ thousands),142113.31572
+2014,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,GBP (£ thousands),154471.911075
+2015,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,GBP (£ thousands),299292.163544
+2016,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,GBP (£ thousands),278331.68328
+2017,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,GBP (£ thousands),285853.354829
+2018,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,GBP (£ thousands),254929.568586
+2019,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,GBP (£ thousands),293810.164807
+2020,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,GBP (£ thousands),190358.794334
+2009,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,Constant USD ($ thousands),22394.74582973932
+2010,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,Constant USD ($ thousands),28168.377960163907
+2011,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,Constant USD ($ thousands),75189.95897239774
+2012,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,Constant USD ($ thousands),44036.96620223812
+2013,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,Constant USD ($ thousands),103257.4387706861
+2014,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,Constant USD ($ thousands),86242.1153733921
+2015,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,Constant USD ($ thousands),191817.0352086632
+2016,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,Constant USD ($ thousands),135402.45563466445
+2017,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,Constant USD ($ thousands),166327.58174402642
+2018,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,Constant USD ($ thousands),138091.56415702376
+2019,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,Constant USD ($ thousands),123415.6995380296
+2020,"Total official flows (disbursements) for agriculture, by recipient countries",LDCs,Definition differs,Thousands,Constant USD ($ thousands),80510.53722083173
+2009,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,Constant USD ($ thousands),15599.033322570807
+2010,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,Constant USD ($ thousands),25435.988645607464
+2011,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,Constant USD ($ thousands),9566.536660184953
+2012,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,Constant USD ($ thousands),8918.254973001107
+2013,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,Constant USD ($ thousands),27246.266545878843
+2014,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,Constant USD ($ thousands),22616.66731712036
+2015,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,Constant USD ($ thousands),35353.50190448108
+2016,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,Constant USD ($ thousands),38738.31643608644
+2017,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,Constant USD ($ thousands),23529.24173699797
+2018,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,Constant USD ($ thousands),30100.1516994452
+2019,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,Constant USD ($ thousands),21830.08468734048
+2020,"Total official flows (disbursements) for agriculture, by recipient countries",LMICs,Definition differs,Thousands,Constant USD ($ thousands),14482.69864675836
+2009,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,Constant USD ($ thousands),21637.54435449605
+2010,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,Constant USD ($ thousands),475.6867973154768
+2011,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,Constant USD ($ thousands),13248.97131886634
+2012,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,Constant USD ($ thousands),16296.6667921283
+2013,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,Constant USD ($ thousands),1486.6829062783052
+2014,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,Constant USD ($ thousands),-718.5526697569125
+2015,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,Constant USD ($ thousands),25250.853190572725
+2016,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,Constant USD ($ thousands),25888.192014711167
+2017,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,Constant USD ($ thousands),14753.907424377072
+2018,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,Constant USD ($ thousands),6779.2822935207805
+2019,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,Constant USD ($ thousands),8378.161625829505
+2020,"Total official flows (disbursements) for agriculture, by recipient countries",Other LICs,Definition differs,Thousands,Constant USD ($ thousands),480.8148239714673
+2009,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,Constant USD ($ thousands),205.06269618643285
+2010,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,Constant USD ($ thousands),466.7858877629646
+2011,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,Constant USD ($ thousands),764.1958213156481
+2012,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,Constant USD ($ thousands),45989.66343705362
+2013,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,Constant USD ($ thousands),-6937.951001678647
+2014,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,Constant USD ($ thousands),9083.760239907137
+2015,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,Constant USD ($ thousands),8257.582043580174
+2016,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,Constant USD ($ thousands),10215.972684091024
+2017,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,Constant USD ($ thousands),14573.812693818576
+2018,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,Constant USD ($ thousands),21999.235700147743
+2019,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,Constant USD ($ thousands),23940.615414752425
+2020,"Total official flows (disbursements) for agriculture, by recipient countries",UMICs,Definition differs,Thousands,Constant USD ($ thousands),17853.3812540244
+2009,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,Constant USD ($ thousands),44097.73280650182
+2010,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,Constant USD ($ thousands),50471.157501194815
+2011,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,Constant USD ($ thousands),47671.29213001131
+2012,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,Constant USD ($ thousands),101094.72991542362
+2013,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,Constant USD ($ thousands),76843.7425969097
+2014,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,Constant USD ($ thousands),98494.88423079065
+2015,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,Constant USD ($ thousands),154535.01153490107
+2016,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,Constant USD ($ thousands),167758.3967416513
+2017,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,Constant USD ($ thousands),161653.2582469579
+2018,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,Constant USD ($ thousands),135195.86091653968
+2019,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,Constant USD ($ thousands),197384.60260209293
+2020,"Total official flows (disbursements) for agriculture, by recipient countries",Unspecified,Definition differs,Thousands,Constant USD ($ thousands),116014.6167361706
+2009,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,Constant USD ($ thousands),103934.11900949445
+2010,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,Constant USD ($ thousands),105017.99679204464
+2011,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,Constant USD ($ thousands),146440.954902776
+2012,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,Constant USD ($ thousands),216336.2813198448
+2013,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,Constant USD ($ thousands),201896.17981807436
+2014,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,Constant USD ($ thousands),215718.87449145332
+2015,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,Constant USD ($ thousands),415213.9838821982
+2016,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,Constant USD ($ thousands),378003.33351120434
+2017,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,Constant USD ($ thousands),380837.801846178
+2018,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,Constant USD ($ thousands),332166.0947666772
+2019,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,Constant USD ($ thousands),374949.16386804497
+2020,"Total official flows (disbursements) for agriculture, by recipient countries",,Definition differs,Thousands,Constant USD ($ thousands),229342.04868175657

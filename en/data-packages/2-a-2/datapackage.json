@@ -11,16 +11,19 @@
       "schema": {
         "fields": [
           {
-            "name": "Flow of Official Development Assistance (ODA)",
+            "name": "Country income classification",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Bilateral",
-                "Multilateral"
+                "LDCs",
+                "LMICs",
+                "Other LICs",
+                "UMICs",
+                "Unspecified"
               ]
             },
-            "title": "Flow of Official Development Assistance (ODA)"
+            "title": "Country income classification"
           },
           {
             "name": "Observation status",
@@ -28,14 +31,32 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
+            "name": "Series",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "",
+                "Total official flows (disbursements) for agriculture, by recipient countries"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Constant USD ($ thousands)",
+                "GBP (£ thousands)"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
