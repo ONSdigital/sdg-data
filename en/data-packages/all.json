@@ -15729,13 +15729,24 @@
             "title": "Observation status"
           },
           {
-            "name": "Series",
+            "name": "Seasonally adjusted or not",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
                 "Not seasonally adjusted",
                 "Seasonally adjusted"
+              ]
+            },
+            "title": "Seasonally adjusted or not"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Proportion of youth not in education, employment or training"
               ]
             },
             "title": "Series"
@@ -15753,14 +15764,20 @@
             "title": "Sex"
           },
           {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage (%)"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
