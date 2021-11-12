@@ -19021,7 +19021,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of children under 5 years of age whose births have been registered with a civil authority",
+                ""
+              ]
+            }
           },
           {
             "name": "Sex",
@@ -19035,8 +19045,14 @@
             }
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Observation status",
@@ -19338,12 +19354,12 @@
             "type": "integer"
           },
           {
-            "name": "Developing country participation",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Membership in international organisations",
-                "Voting rights in international organisations",
+                "Proportion of members of developing countries in international organizations, by organization",
+                "Proportion of voting rights of developing countries in international organizations, by organization",
                 ""
               ]
             }
@@ -19377,8 +19393,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

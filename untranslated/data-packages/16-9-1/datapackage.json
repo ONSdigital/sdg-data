@@ -12,7 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of children under 5 years of age whose births have been registered with a civil authority",
+                ""
+              ]
+            }
           },
           {
             "name": "Sex",
@@ -26,8 +36,14 @@
             }
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Observation status",

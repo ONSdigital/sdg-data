@@ -11,18 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Developing country participation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Membership in international organisations",
-                "Voting rights in international organisations"
-              ]
-            },
-            "title": "Developing country participation"
-          },
-          {
             "name": "Institution",
             "type": "string",
             "constraints": {
@@ -49,14 +37,32 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
+            "name": "Series",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "",
+                "Proportion of members of developing countries in international organizations, by organization",
+                "Proportion of voting rights of developing countries in international organizations, by organization"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage (%)"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
