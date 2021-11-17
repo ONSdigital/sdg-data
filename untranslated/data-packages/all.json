@@ -10708,15 +10708,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "North East",
-                "North West",
-                "Yorkshire and the Humber",
+                "England",
                 "East Midlands",
-                "West Midlands",
                 "East of England",
                 "London",
+                "North East",
+                "North West",
                 "South East",
                 "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             }
@@ -10729,7 +10730,7 @@
                 "2",
                 "3",
                 "4",
-                "3 to 4",
+                "3 and 4",
                 ""
               ]
             }
@@ -10752,7 +10753,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },

@@ -11590,7 +11590,7 @@
                 "",
                 "2",
                 "3",
-                "3 to 4",
+                "3 and 4",
                 "4"
               ]
             },
@@ -11614,13 +11614,14 @@
                 "",
                 "East Midlands",
                 "East of England",
+                "England",
                 "London",
                 "North East",
                 "North West",
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and the Humber"
+                "Yorkshire and The Humber"
               ]
             },
             "title": "Region"
@@ -11637,7 +11638,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
