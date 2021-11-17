@@ -15,6 +15,16 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Research and development expenditure as a proportion of GDP",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Performing/Funding",
             "type": "string",
             "constraints": {
@@ -45,12 +55,12 @@
               "enum": [
                 "North East",
                 "West Midlands",
-                "Yorkshire and the Humber",
+                "Yorkshire and The Humber",
                 "East Midlands",
                 "North West",
                 "South West",
                 "London",
-                "East of England",
+                "East",
                 "South East",
                 ""
               ]
@@ -141,8 +151,14 @@
             }
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Observation status",

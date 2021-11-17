@@ -1449,15 +1449,15 @@
             "constraints": {
               "enum": [
                 "",
+                "East",
                 "East Midlands",
-                "East of England",
                 "London",
                 "North East",
                 "North West",
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and the Humber"
+                "Yorkshire and The Humber"
               ]
             },
             "title": "Region"
@@ -1478,6 +1478,17 @@
               ]
             },
             "title": "Sector"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Research and development expenditure as a proportion of GDP"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Source",
@@ -1507,14 +1518,20 @@
             "title": "Source sub-category"
           },
           {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage (%)"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
