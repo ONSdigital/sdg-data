@@ -28,9 +28,16 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
+            "name": "Series",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "",
+                "Freight (thousand tonnes)",
+                "Passengers (thousands)"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",
@@ -43,8 +50,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Freight (thousand tonnes)",
-                "Passengers (thousands)"
+                "Number",
+                "Tonnes"
               ]
             },
             "title": "Units"

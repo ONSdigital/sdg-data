@@ -1,25 +1,25 @@
-Year,Value,Units,Observation status,Unit multiplier,Unit measure
-2008,2281.726932,Freight (thousand tonnes),Undefined,Thousands,Tonnes
-2009,2047.513524,Freight (thousand tonnes),Undefined,Thousands,Tonnes
-2010,2324.471423,Freight (thousand tonnes),Undefined,Thousands,Tonnes
-2011,2297.316193,Freight (thousand tonnes),Undefined,Thousands,Tonnes
-2012,2302.107922,Freight (thousand tonnes),Undefined,Thousands,Tonnes
-2013,2262.256617,Freight (thousand tonnes),Undefined,Thousands,Tonnes
-2014,2304.349653,Freight (thousand tonnes),Undefined,Thousands,Tonnes
-2015,2299.213004,Freight (thousand tonnes),Undefined,Thousands,Tonnes
-2016,2409.832211,Freight (thousand tonnes),Undefined,Thousands,Tonnes
-2017,2640.336523,Freight (thousand tonnes),Undefined,Thousands,Tonnes
-2018,2630.921151,Freight (thousand tonnes),Undefined,Thousands,Tonnes
-2019,2535.0948270000004,Freight (thousand tonnes),Undefined,Thousands,Tonnes
-2008,234972.281,Passengers (thousands),Undefined,Thousands,Number
-2009,217738.755,Passengers (thousands),Undefined,Thousands,Number
-2010,210294.006,Passengers (thousands),Undefined,Thousands,Number
-2011,218998.803,Passengers (thousands),Undefined,Thousands,Number
-2012,220428.273,Passengers (thousands),Undefined,Thousands,Number
-2013,228246.23,Passengers (thousands),Undefined,Thousands,Number
-2014,238249.686,Passengers (thousands),Undefined,Thousands,Number
-2015,251329.689,Passengers (thousands),Undefined,Thousands,Number
-2016,268330.985,Passengers (thousands),Undefined,Thousands,Number
-2017,284397.095,Passengers (thousands),Undefined,Thousands,Number
-2018,292065.291,Passengers (thousands),Undefined,Thousands,Number
-2019,296658.404,Passengers (thousands),Undefined,Thousands,Number
+Year,Value,Units,Series,Observation status,Unit multiplier
+2008,2281.726932,Tonnes,Freight (thousand tonnes),Definition differs,Thousands
+2009,2047.513524,Tonnes,Freight (thousand tonnes),Definition differs,Thousands
+2010,2324.471423,Tonnes,Freight (thousand tonnes),Definition differs,Thousands
+2011,2297.316193,Tonnes,Freight (thousand tonnes),Definition differs,Thousands
+2012,2302.107922,Tonnes,Freight (thousand tonnes),Definition differs,Thousands
+2013,2262.256617,Tonnes,Freight (thousand tonnes),Definition differs,Thousands
+2014,2304.349653,Tonnes,Freight (thousand tonnes),Definition differs,Thousands
+2015,2299.213004,Tonnes,Freight (thousand tonnes),Definition differs,Thousands
+2016,2409.832211,Tonnes,Freight (thousand tonnes),Definition differs,Thousands
+2017,2640.336523,Tonnes,Freight (thousand tonnes),Definition differs,Thousands
+2018,2630.921151,Tonnes,Freight (thousand tonnes),Definition differs,Thousands
+2019,2535.0948270000004,Tonnes,Freight (thousand tonnes),Definition differs,Thousands
+2008,234972.281,Number,Passengers (thousands),Definition differs,Thousands
+2009,217738.755,Number,Passengers (thousands),Definition differs,Thousands
+2010,210294.006,Number,Passengers (thousands),Definition differs,Thousands
+2011,218998.803,Number,Passengers (thousands),Definition differs,Thousands
+2012,220428.273,Number,Passengers (thousands),Definition differs,Thousands
+2013,228246.23,Number,Passengers (thousands),Definition differs,Thousands
+2014,238249.686,Number,Passengers (thousands),Definition differs,Thousands
+2015,251329.689,Number,Passengers (thousands),Definition differs,Thousands
+2016,268330.985,Number,Passengers (thousands),Definition differs,Thousands
+2017,284397.095,Number,Passengers (thousands),Definition differs,Thousands
+2018,292065.291,Number,Passengers (thousands),Definition differs,Thousands
+2019,296658.404,Number,Passengers (thousands),Definition differs,Thousands
