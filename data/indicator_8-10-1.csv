@@ -1,4 +1,4 @@
-Year,Series,Country,Region,Local Authority,Urban or rural,Observation status,Unit multiplier,Unit measure,GeoCode,Value
+Year,Series,Country,Region,Local Authority,Urban or rural,Observation status,Unit multiplier,Units,GeoCode,Value
 2010,"Number of commercial bank branches and building societies per 100,000 adults",England,East,Babergh,,Normal value,Units,"Number per 100,000 people",E07000200,20.953525081369524
 2011,"Number of commercial bank branches and building societies per 100,000 adults",England,East,Babergh,,Normal value,Units,"Number per 100,000 people",E07000200,20.840280093364456
 2012,"Number of commercial bank branches and building societies per 100,000 adults",England,East,Babergh,,Normal value,Units,"Number per 100,000 people",E07000200,20.743158214982092
@@ -3599,26 +3599,26 @@ Year,Series,Country,Region,Local Authority,Urban or rural,Observation status,Uni
 2016,"Number of commercial bank branches and building societies per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 people",K02000001,23.123305311917992
 2017,"Number of commercial bank branches and building societies per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 people",K02000001,21.808215026646558
 2018,"Number of commercial bank branches and building societies per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 people",K02000001,20.562568457882257
-1998,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,52.94602897034523
-1999,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,59.34888997007187
-2000,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,67.12608898494337
-2001,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,76.82558706018384
-2002,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,88.50790824467143
-2003,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,99.20987583978028
-2004,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,113.80810051232925
-2005,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,118.82731599877437
-2006,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,123.89124204265777
-2007,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,128.92374637822476
+1998,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,52.8900697527343
+1999,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,59.24176200983709
+2000,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,67.06215937638628
+2001,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,76.84675113375413
+2002,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,88.42381522021094
+2003,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,99.24538253218608
+2004,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,113.7977354758527
+2005,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,118.84373428077767
+2006,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,123.7976624509671
+2007,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,128.88345770748157
 2008,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,127.51470370252413
-2009,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,124.95079938511533
-2010,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,124.24946355833897
-2011,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,126.6481156034661
-2012,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,127.60654493968995
-2013,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,129.6903101068235
-2014,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,131.57008821545597
-2015,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,133.5801374585024
-2016,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,131.43575897963942
-2017,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,128.1407752315164
-2018,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,117.44729566544588
-2019,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,112.20176442912381
-2020,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,100.45320770917655
+2009,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,124.95475979080108
+2010,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,124.18665182320679
+2011,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,126.58586153742448
+2012,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,127.66261448216346
+2013,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,129.68454609304098
+2014,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,131.5662745897106
+2015,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,133.55743261927432
+2016,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,131.47331205363358
+2017,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,128.15945464481544
+2018,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,117.37296193401205
+2019,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,112.13152279735598
+2020,"Number of automated teller machines (ATMs) per 100,000 adults",,,,,Normal value,Units,"Number per 100,000 adults",,100.40537284836267
