@@ -16,6 +16,19 @@
             "title": "Observation status"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Proportion of population covered by at least a 2G mobile network",
+                "Proportion of population covered by at least a 3G mobile network",
+                "Proportion of population covered by at least a 4G mobile network"
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Technology",
             "type": "string",
             "constraints": {
@@ -29,14 +42,20 @@
             "title": "Technology"
           },
           {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage (%)"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
