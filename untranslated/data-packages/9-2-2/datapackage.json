@@ -15,6 +15,27 @@
             "type": "string"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacturing employment as a proportion of total employment",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Age",
             "type": "string",
             "constraints": {
@@ -25,17 +46,6 @@
                 "45 to 54",
                 "55 to 64",
                 "65 and over",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
                 ""
               ]
             }
@@ -87,6 +97,18 @@
             }
           },
           {
+            "name": "Nationality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UK nationality",
+                "EU nationality",
+                "Non-EU nationality",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Country of birth",
             "type": "string",
             "constraints": {
@@ -99,13 +121,19 @@
             }
           },
           {
-            "name": "Nationality",
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "UK nationality",
-                "EU nationality",
-                "Non-EU nationality",
+                "Percentage (%)",
                 ""
               ]
             }
