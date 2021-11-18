@@ -15,6 +15,16 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of medium and high-tech manufacturing value added in total value added",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Manufacturing industry",
             "type": "string",
             "constraints": {
@@ -41,8 +51,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -2634,14 +2634,31 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
+            "name": "Series",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "",
+                "Proportion of medium and high-tech manufacturing value added in total value added"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage (%)"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
