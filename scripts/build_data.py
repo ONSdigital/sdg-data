@@ -42,7 +42,7 @@ def alter_meta(meta):
         meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/metadata/?Text=&Goal='+goal_id+'&Target='+target_id
         meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
         
-        if 'computation_units' in meta:
+        if 'computation_units' in meta and 'computation_units' is not None:
             if 'Percentage (%)' in meta['computation_units']:
                 meta['graph_limits']=[{"minimum":0, "maximum":100}]
 
