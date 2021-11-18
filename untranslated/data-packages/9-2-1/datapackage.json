@@ -15,12 +15,11 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage (%) of GDP",
-                "GBP per capita",
+                "Manufacturing value added as a proportion of GDP",
                 ""
               ]
             }
@@ -133,8 +132,15 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                "GBP per capita",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

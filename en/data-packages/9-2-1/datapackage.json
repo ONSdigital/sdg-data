@@ -118,9 +118,15 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
+            "name": "Series",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "",
+                "Manufacturing value added as a proportion of GDP"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",
@@ -134,7 +140,7 @@
               "enum": [
                 "",
                 "GBP per capita",
-                "Percentage (%) of GDP"
+                "Percentage (%)"
               ]
             },
             "title": "Units"
