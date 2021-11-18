@@ -8096,6 +8096,17 @@
             "title": "Region"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Researchers (in full-time equivalent) per million inhabitants"
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -8108,11 +8119,6 @@
             "title": "Sex"
           },
           {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
@@ -8123,8 +8129,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Full time equivalent (World Bank Data)",
-                "Headcount (ONS data)"
+                "Per million population"
               ]
             },
             "title": "Units"

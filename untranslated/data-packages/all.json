@@ -7388,23 +7388,22 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Headcount (ONS data)",
-                "Full time equivalent (World Bank Data)",
+                "Researchers (in full-time equivalent) per million inhabitants",
                 ""
               ]
             }
           },
           {
-            "name": "Disability status",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Non-disabled (GSS harmonised)",
-                "Disabled (GSS harmonised)",
+                "Male",
+                "Female",
                 ""
               ]
             }
@@ -7425,12 +7424,12 @@
             }
           },
           {
-            "name": "Sex",
+            "name": "Disability status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "Non-disabled (GSS harmonised)",
+                "Disabled (GSS harmonised)",
                 ""
               ]
             }
@@ -7457,18 +7456,6 @@
             }
           },
           {
-            "name": "Country of birth",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Born in UK",
-                "Born in European Economic Area",
-                "Other country of birth",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Nationality",
             "type": "string",
             "constraints": {
@@ -7481,8 +7468,26 @@
             }
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Country of birth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Born in UK",
+                "Born in European Economic Area",
+                "Other country of birth",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per million population",
+                ""
+              ]
+            }
           },
           {
             "name": "Unit multiplier",
