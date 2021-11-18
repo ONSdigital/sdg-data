@@ -19,10 +19,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Food and inedible waste (Kilotonnes)",
-                "Food and inedible waste (Kilogrammes per person)",
-                "Food (Kilotonnes)",
                 "Food (Kilogrammes per person)",
+                "Food (Kilotonnes)",
+                "Food and inedible waste (Kilogrammes per person)",
+                "Food and inedible waste (Kilotonnes)",
                 ""
               ]
             }
@@ -43,9 +43,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Retail",
-                "Manufacture",
                 "Hospitality and Food Serivces",
+                "Manufacture",
+                "Retail",
                 ""
               ]
             }
@@ -55,11 +55,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LA collected residual waste",
-                "LA collected organics",
-                "LA collected other",
                 "Disposed to sewer",
                 "Home composted",
+                "LA collected organics",
+                "LA collected other",
+                "LA collected residual waste",
                 ""
               ]
             }
