@@ -1,5 +1,4 @@
 Year,Age,Sex,Country,Region,Police Force Area,Unit measure,Unit multiplier,Observation status,GeoCode,Value
-<<<<<<< HEAD
 2019/20,,,England,East,,"Rate per 100,000 population",Units,Undefined,E12000006,1.53943059028
 2019/20,,,England,East Midlands,,"Rate per 100,000 population",Units,Undefined,E12000004,1.0546062720536784
 2019/20,,,England,London,,"Rate per 100,000 population",Units,Undefined,E12000007,1.6514191213579932
@@ -10,9 +9,6 @@ Year,Age,Sex,Country,Region,Police Force Area,Unit measure,Unit multiplier,Obser
 2019/20,,,England,West Midlands,,"Rate per 100,000 population",Units,Undefined,E12000005,1.297598919588806
 2019/20,,,England,Yorkshire and The Humber,,"Rate per 100,000 population",Units,Undefined,E12000003,0.944944790692003
 2019/20,,,England,South West,Avon and Somerset,"Rate per 100,000 population",Units,Undefined,E23000036,0.40720662653160594
-=======
-2019/20,,,England,South West,Avon and Somerset,"Rate per 100,000 population",Units,Undefined,E23000036,0.407206626532
->>>>>>> origin/develop
 2019/20,,,England,East,Bedfordshire,"Rate per 100,000 population",Units,Undefined,E23000026,0.5925996159954489
 2019/20,,,England,East,Cambridgeshire,"Rate per 100,000 population",Units,Undefined,E23000023,0.9348022192204685
 2019/20,,,England,North West,Cheshire,"Rate per 100,000 population",Units,Undefined,E23000006,0.8437655569274558
@@ -55,18 +51,6 @@ Year,Age,Sex,Country,Region,Police Force Area,Unit measure,Unit multiplier,Obser
 2019/20,,,England,West Midlands,West Midlands,"Rate per 100,000 population",Units,Undefined,E23000014,1.7073050803935819
 2019/20,,,England,Yorkshire and The Humber,West Yorkshire,"Rate per 100,000 population",Units,Undefined,E23000010,0.9860795577561803
 2019/20,,,England,South West,Wiltshire,"Rate per 100,000 population",Units,Undefined,E23000038,0.41538761895662935
-<<<<<<< HEAD
-=======
-2019/20,,,England,East,,"Rate per 100,000 population",Units,Undefined,E12000006,1.5394305902818313
-2019/20,,,England,East Midlands,,"Rate per 100,000 population",Units,Undefined,E12000004,1.0546062720536784
-2019/20,,,England,London,,"Rate per 100,000 population",Units,Undefined,E12000007,1.6514191213579932
-2019/20,,,England,North East,,"Rate per 100,000 population",Units,Undefined,E12000001,1.0487123123694495
-2019/20,,,England,North West,,"Rate per 100,000 population",Units,Undefined,E12000002,1.2259582770981732
-2019/20,,,England,South East,,"Rate per 100,000 population",Units,Undefined,E12000008,0.8278745356141277
-2019/20,,,England,South West,,"Rate per 100,000 population",Units,Undefined,E12000009,0.6044771130741999
-2019/20,,,England,West Midlands,,"Rate per 100,000 population",Units,Undefined,E12000005,1.297598919588806
-2019/20,,,England,Yorkshire and The Humber,,"Rate per 100,000 population",Units,Undefined,E12000003,0.944944790692003
->>>>>>> origin/develop
 2019/20,,,England,,,"Rate per 100,000 population",Units,Undefined,E92000001,1.1583499773597654
 2019/20,,,Wales,,,"Rate per 100,000 population",Units,Undefined,W92000004,1.2369646916358035
 2009/10,,Female,,,,"Rate per 100,000 population",Units,Undefined,,0.6865029256407065
