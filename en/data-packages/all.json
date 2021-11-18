@@ -7851,10 +7851,10 @@
             "constraints": {
               "enum": [
                 "",
-                "Health associate professionals",
-                "Health professionals",
-                "Nursing and midwifery professionals",
-                "Therapy professionals"
+                "221 Health Professionals",
+                "222 Therapy Professionals",
+                "223 Nursing and Midwifery Professionals",
+                "321 Health Associate Professionals"
               ]
             },
             "title": "Occupation minor group"
@@ -7865,28 +7865,39 @@
             "constraints": {
               "enum": [
                 "",
-                "Dental practitioners",
-                "Dispensing opticians",
-                "Health associate professionals not elsewhere classified",
-                "Health professionals not elsewhere classifed",
-                "Medical and dental technicians",
-                "Medical practitioners",
-                "Medical radiographers",
-                "Midwives",
-                "Nurses",
-                "Occupational therapists",
-                "Ophthalmic opticians",
-                "Paramedics",
-                "Pharmaceutical technicians",
-                "Pharmacists",
-                "Physiotherapists",
-                "Podiatrists",
-                "Psychologists",
-                "Speech and language therapists",
-                "Therapy professionals not elsewhere classifed"
+                "2211 Medical practitioners",
+                "2212 Psychologists",
+                "2213 Pharmacists",
+                "2214 Ophthalmic opticians",
+                "2215 Dental practitioners",
+                "2217 Medical radiographers",
+                "2218 Podiatrists",
+                "2219 Health professionals n.e.c.",
+                "2221 Physiotherapists",
+                "2222 Occupational therapists",
+                "2223 Speech and language therapists",
+                "2229 Therapy professionals n.e.c.",
+                "2231 Nurses",
+                "2232 Midwives",
+                "3213 Paramedics",
+                "3216 Dispensing opticians",
+                "3217 Pharmaceutical technicians",
+                "3218 Medical and dental technicians",
+                "3219 Health associate professionals n.e.c."
               ]
             },
             "title": "Occupation unit group"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Health worker density"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Sex",
@@ -7894,21 +7905,28 @@
             "constraints": {
               "enum": [
                 "",
-                "Female",
-                "Male"
+                "All persons",
+                "Females",
+                "Males"
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Rate per 10,000 population"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

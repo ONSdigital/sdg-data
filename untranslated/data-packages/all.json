@@ -7235,12 +7235,23 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Health worker density",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "All persons",
+                "Males",
+                "Females",
                 ""
               ]
             }
@@ -7250,10 +7261,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Health professionals",
-                "Therapy professionals",
-                "Nursing and midwifery professionals",
-                "Health associate professionals",
+                "221 Health Professionals",
+                "222 Therapy Professionals",
+                "223 Nursing and Midwifery Professionals",
+                "321 Health Associate Professionals",
                 ""
               ]
             }
@@ -7263,32 +7274,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Medical practitioners",
-                "Psychologists",
-                "Pharmacists",
-                "Ophthalmic opticians",
-                "Dental practitioners",
-                "Medical radiographers",
-                "Podiatrists",
-                "Health professionals not elsewhere classifed",
-                "Physiotherapists",
-                "Occupational therapists",
-                "Speech and language therapists",
-                "Therapy professionals not elsewhere classifed",
-                "Nurses",
-                "Midwives",
-                "Paramedics",
-                "Pharmaceutical technicians",
-                "Medical and dental technicians",
-                "Health associate professionals not elsewhere classified",
-                "Dispensing opticians",
+                "2211 Medical practitioners",
+                "2212 Psychologists",
+                "2213 Pharmacists",
+                "2214 Ophthalmic opticians",
+                "2215 Dental practitioners",
+                "2217 Medical radiographers",
+                "2218 Podiatrists",
+                "2219 Health professionals n.e.c.",
+                "2221 Physiotherapists",
+                "2222 Occupational therapists",
+                "2223 Speech and language therapists",
+                "2229 Therapy professionals n.e.c.",
+                "2231 Nurses",
+                "2232 Midwives",
+                "3213 Paramedics",
+                "3216 Dispensing opticians",
+                "3217 Pharmaceutical technicians",
+                "3218 Medical and dental technicians",
+                "3219 Health associate professionals n.e.c.",
                 ""
               ]
             }
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate per 10,000 population",
+                ""
+              ]
+            }
           },
           {
             "name": "Observation status",
