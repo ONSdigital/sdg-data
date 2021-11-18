@@ -14143,19 +14143,70 @@
             "type": "integer"
           },
           {
-            "name": "Flow of Official Development Assistance (ODA)",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bilateral",
-                "Multilateral",
+                "Total official flows for scholarships, by recipient countries",
                 ""
               ]
             }
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Education",
+                "Economic Infrastructure & Services",
+                "Government and Civil Society",
+                "Health",
+                "Multisector",
+                "Multisector / Cross-Cutting",
+                "Other social infrastructure and services",
+                "Production Sectors",
+                "Production Services",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of study",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Advanced technical and managerial training",
+                "Education policy and administrative management",
+                "Higher education",
+                "Primary education",
+                "Upper Secondary Education",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country income classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LDCs",
+                "LMICs",
+                "Other LICs",
+                "UMICs",
+                "Unspecified",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GBP (£ thousands)",
+                ""
+              ]
+            }
           },
           {
             "name": "Unit multiplier",

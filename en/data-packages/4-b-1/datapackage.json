@@ -11,16 +11,19 @@
       "schema": {
         "fields": [
           {
-            "name": "Flow of Official Development Assistance (ODA)",
+            "name": "Country income classification",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Bilateral",
-                "Multilateral"
+                "LDCs",
+                "LMICs",
+                "Other LICs",
+                "UMICs",
+                "Unspecified"
               ]
             },
-            "title": "Flow of Official Development Assistance (ODA)"
+            "title": "Country income classification"
           },
           {
             "name": "Observation status",
@@ -28,14 +31,65 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
+            "name": "Sector",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "",
+                "Economic Infrastructure & Services",
+                "Education",
+                "Government and Civil Society",
+                "Health",
+                "Multisector",
+                "Multisector / Cross-Cutting",
+                "Other social infrastructure and services",
+                "Production Sectors",
+                "Production Services"
+              ]
+            },
+            "title": "Sector"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total official flows for scholarships, by recipient countries"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Type of study",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Advanced technical and managerial training",
+                "Education policy and administrative management",
+                "Higher education",
+                "Primary education",
+                "Upper Secondary Education"
+              ]
+            },
+            "title": "Type of study"
           },
           {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "GBP (£ thousands)"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
