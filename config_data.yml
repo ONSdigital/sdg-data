@@ -109,3 +109,8 @@ docs_metadata_fields:
     - key: graph_type
       label: Graph type
       
+sdmx_output_global:
+  column_map: column_mapping.csv
+  code_map: code_mapping.csv
+  sender_id: UK_ONS
+  default_values: {REF_AREA: 826}
