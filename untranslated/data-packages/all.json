@@ -10151,6 +10151,16 @@
             "type": "string"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GBP (£ Millions)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Unit multiplier",
             "type": "string"
           },

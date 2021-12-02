@@ -21,6 +21,17 @@
             "title": "Observation status"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GBP (£ Millions)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
