@@ -117,22 +117,12 @@ prose:
             element: text
             label: "Other information"
             scope: national
-      - name: "national_data_update_url"
+      - name: "national_data_updated_date"
         field:
             element: hidden
             label: "Data last updated"
             scope: national
-      - name: "national_data_update_url_text"
-        field:
-            element: hidden
-            label: "Data last updated"
-            scope: national
-      - name: "national_metadata_update_url"
-        field:
-            element: hidden
-            label: "Metadata last updated"
-            scope: national
-      - name: "national_metadata_update_url_text"
+      - name: "national_metadata_updated_date"
         field:
             element: hidden
             label: "Metadata last updated"
@@ -145,7 +135,7 @@ prose:
             options:
               - name: 'complete'
                 value: 'complete'
-                translation_key: 'status.reported_online'
+                translation_key: 'status.reported'
               - name: 'notstarted'
                 value: 'notstarted'
                 translation_key: 'status.exploring_data_sources'

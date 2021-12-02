@@ -34,7 +34,7 @@ src_dir: ''
 translations:
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    branch: 2020-review
+    tag: 1.6.0
 
 # Reporting status extra fields
 # -----------------------------
@@ -90,3 +90,24 @@ docs_intro: This is a list of outputs that are
   available on this service. Click each of the links below for more information
   on the available output.
 docs_indicator_url: https://sdgdata.gov.uk/[id]
+
+docs_metadata_fields:
+    - key: reporting_status
+      label: Reporting status
+    - key: un_designated_tier
+      label: UN designated tier
+    - key: un_custodian_agency
+      label: UN custodian agency
+    - key: data_non_statistical
+      label: Non-statistical
+    - key: data_show_map
+      label: Show map
+    - key: national_geographical_coverage
+      label: Geographical coverage
+    - key: computation_units
+      label: Units
+    - key: graph_type
+      label: Graph type
+      
+datapackage:
+  sorting: default
