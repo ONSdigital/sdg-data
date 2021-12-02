@@ -11,17 +11,34 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "18 to 24",
                 "25 to 34",
                 "35 to 44",
                 "45 to 54",
                 "55 to 64",
-                "65 and over"
+                "65 and over",
+                ""
               ]
             },
             "title": "Age"
@@ -31,55 +48,83 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "England",
-                "Northern Ireland",
+                "Wales",
                 "Scotland",
-                "Wales"
+                "Northern Ireland",
+                ""
               ]
             },
             "title": "Country"
           },
           {
-            "name": "Country of birth",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "England",
-                "India",
-                "Northern Ireland",
-                "Other",
-                "Pakistan",
-                "Poland",
-                "Republic of Ireland",
-                "Scotland",
-                "UK (but do not know the country)",
-                "Wales"
+                "North East",
+                "North West",
+                "Yorkshire and The Humber",
+                "East Midlands",
+                "West Midlands",
+                "East",
+                "London",
+                "South East",
+                "South West",
+                ""
               ]
             },
-            "title": "Country of birth"
+            "title": "Region"
+          },
+          {
+            "name": "Socio-economic classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Managerial and professional occupations",
+                "Intermediate occupations",
+                "Routine and manual",
+                "Never worked, long term unemployed, and not elsewhere classified",
+                ""
+              ]
+            },
+            "title": "Socio-economic classification"
           },
           {
             "name": "Ethnicity",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Asian",
-                "Black",
-                "Chinese",
+                "White",
                 "Mixed",
+                "Asian",
+                "Chinese",
+                "Black",
                 "Other",
-                "White"
+                ""
               ]
             },
             "title": "Ethnicity"
           },
           {
-            "name": "GeoCode",
+            "name": "Country of birth",
             "type": "string",
-            "title": "GeoCode"
+            "constraints": {
+              "enum": [
+                "India",
+                "Republic of Ireland",
+                "Pakistan",
+                "Poland",
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
+                "UK (but do not know the country)",
+                "Other",
+                ""
+              ]
+            },
+            "title": "Country of birth"
           },
           {
             "name": "Observation status",
@@ -87,49 +132,9 @@
             "title": "Observation status"
           },
           {
-            "name": "Region",
+            "name": "Unit multiplier",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "East",
-                "East Midlands",
-                "London",
-                "North East",
-                "North West",
-                "South East",
-                "South West",
-                "West Midlands",
-                "Yorkshire and The Humber"
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Socio-economic classification",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Intermediate occupations",
-                "Managerial and professional occupations",
-                "Never worked, long term unemployed, and not elsewhere classified",
-                "Routine and manual"
-              ]
-            },
-            "title": "Socio-economic classification"
+            "title": "Unit multiplier"
           },
           {
             "name": "Unit measure",
@@ -137,19 +142,14 @@
             "title": "Unit measure"
           },
           {
-            "name": "Unit multiplier",
+            "name": "GeoCode",
             "type": "string",
-            "title": "Unit multiplier"
+            "title": "GeoCode"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

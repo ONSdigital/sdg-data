@@ -11,11 +11,15 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "18 to 24",
                 "24 to 29",
                 "30 to 34",
@@ -29,34 +33,33 @@
                 "70 to 74",
                 "75 to 79",
                 "80 to 84",
-                "85 and over"
+                "85 and over",
+                ""
               ]
             },
             "title": "Age"
           },
           {
-            "name": "Country",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "England",
-                "Northern Ireland",
-                "Scotland",
-                "Wales"
+                "Female",
+                "Male",
+                ""
               ]
             },
-            "title": "Country"
+            "title": "Sex"
           },
           {
             "name": "Country of birth",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Born in EU",
                 "Born in UK",
-                "Not born in EU"
+                "Born in EU",
+                "Not born in EU",
+                ""
               ]
             },
             "title": "Country of birth"
@@ -66,42 +69,45 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Limiting long-term health condition"
+                "Limiting long-term health condition",
+                ""
               ]
             },
             "title": "Disability status"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
           },
           {
             "name": "Income quartile",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "1st",
                 "2nd",
                 "3rd",
-                "4th"
+                "4th",
+                ""
               ]
             },
             "title": "Income quartile"
           },
           {
-            "name": "Observation status",
+            "name": "Country",
             "type": "string",
-            "title": "Observation status"
+            "constraints": {
+              "enum": [
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
+                ""
+              ]
+            },
+            "title": "Country"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "East",
                 "East Midlands",
                 "London",
@@ -110,27 +116,16 @@
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and The Humber"
+                "Yorkshire and The Humber",
+                ""
               ]
             },
             "title": "Region"
           },
           {
-            "name": "Sex",
+            "name": "Observation status",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
+            "title": "Observation status"
           },
           {
             "name": "Unit multiplier",
@@ -138,14 +133,19 @@
             "title": "Unit multiplier"
           },
           {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

@@ -11,56 +11,39 @@
       "schema": {
         "fields": [
           {
-            "name": "Bioenergy",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "AD",
-                "Biomass and waste"
-              ]
-            },
-            "title": "Bioenergy"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Country",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "England",
                 "Northern Ireland",
                 "Scotland",
-                "Wales"
+                "Wales",
+                ""
               ]
             },
             "title": "Country"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Observation status",
-            "type": "number",
-            "title": "Observation status"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "East Midlands",
                 "East of England",
-                "London",
                 "North East",
                 "North West",
+                "London",
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and The Humber"
+                "Yorkshire and The Humber",
+                ""
               ]
             },
             "title": "Region"
@@ -70,22 +53,41 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Hydro",
                 "Landfill gas",
                 "Other bioenergy",
                 "Sewage gas",
                 "Solar PV",
                 "Wave and tidal",
-                "Wind"
+                "Wind",
+                ""
               ]
             },
             "title": "Renewable Source"
           },
           {
-            "name": "Unit multiplier",
+            "name": "Wind",
             "type": "string",
-            "title": "Unit multiplier"
+            "constraints": {
+              "enum": [
+                "Onshore Wind",
+                "Offshore Wind",
+                ""
+              ]
+            },
+            "title": "Wind"
+          },
+          {
+            "name": "Bioenergy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AD",
+                "Biomass and waste",
+                ""
+              ]
+            },
+            "title": "Bioenergy"
           },
           {
             "name": "Units",
@@ -98,26 +100,24 @@
             "title": "Units"
           },
           {
+            "name": "Observation status",
+            "type": "number",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Wind",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Offshore Wind",
-                "Onshore Wind"
-              ]
-            },
-            "title": "Wind"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

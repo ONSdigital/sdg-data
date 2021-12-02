@@ -11,47 +11,52 @@
       "schema": {
         "fields": [
           {
-            "name": "Aid description (CRS code)",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Basic health",
-                "Medical research"
-              ]
-            },
-            "title": "Aid description (CRS code)"
-          },
-          {
-            "name": "Country income classification",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "LDCs",
-                "LMICs",
-                "Other LICs",
-                "UMICs",
-                "Unspecified"
-              ]
-            },
-            "title": "Country income classification"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries"
+                "Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries",
+                ""
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "Country income classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LDCs",
+                "LMICs",
+                "Other LICs",
+                "UMICs",
+                "Unspecified",
+                ""
+              ]
+            },
+            "title": "Country income classification"
+          },
+          {
+            "name": "Aid description (CRS code)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Basic health",
+                "Medical research",
+                ""
+              ]
+            },
+            "title": "Aid description (CRS code)"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "Unit multiplier",
@@ -63,9 +68,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "GBP (£ thousands)",
                 "Constant USD ($ thousands)",
-                "GBP (£ thousands)"
+                ""
               ]
             },
             "title": "Units"
@@ -74,11 +79,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

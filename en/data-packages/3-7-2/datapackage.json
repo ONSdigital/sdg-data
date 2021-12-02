@@ -11,35 +11,35 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "10 to 14",
-                "10 to 19",
-                "15 to 19"
-              ]
-            },
-            "title": "Age"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Country",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "England and Wales",
                 "Northern Ireland",
-                "Scotland"
+                "Scotland",
+                ""
               ]
             },
             "title": "Country"
           },
           {
-            "name": "GeoCode",
+            "name": "Age",
             "type": "string",
-            "title": "GeoCode"
+            "constraints": {
+              "enum": [
+                "10 to 14",
+                "10 to 19",
+                "15 to 19",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Observation status",
@@ -47,24 +47,24 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
           },
           {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

@@ -11,19 +11,24 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
             "name": "Age at which FGM took place",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Not Recorded",
+                "Not Known",
+                "under 1",
                 "1 to 4",
+                "5 to 9",
                 "10 to 14",
                 "15 to 17",
                 "18 and over",
-                "5 to 9",
-                "Not Known",
-                "Not Recorded",
-                "under 1"
+                ""
               ]
             },
             "title": "Age at which FGM took place"
@@ -33,50 +38,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Born elsewhere in Africa",
-                "Born elsewhere in Asia",
+                "Country of birth not recorded",
+                "Country of birth not known",
                 "Born in Eastern Africa",
                 "Born in Northern Africa",
-                "Born in UK",
                 "Born in Western Africa",
+                "Born elsewhere in Africa",
+                "Born in UK",
                 "Born in Western Asia",
-                "Country of birth not known",
-                "Country of birth not recorded",
-                "Other country of birth"
+                "Born elsewhere in Asia",
+                "Other country of birth",
+                ""
               ]
             },
             "title": "Country of birth"
           },
           {
-            "name": "FGM type",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "History of type 3",
-                "Not known",
-                "Not recorded",
-                "Type 1",
-                "Type 2",
-                "Type 3",
-                "Type 3 reinfibulation identified",
-                "Type 4"
+                "Percentage",
+                "Individuals",
+                ""
               ]
             },
-            "title": "FGM type"
-          },
-          {
-            "name": "GeoCode",
-            "type": "number",
-            "title": "GeoCode"
+            "title": "Units"
           },
           {
             "name": "Local Authority",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Adur District Council",
                 "Allerdale Borough Council",
                 "Amber Valley Borough Council",
@@ -393,7 +386,6 @@
                 "Torridge District Council",
                 "Trafford Metropolitan Borough Council",
                 "Tunbridge Wells Borough Council",
-                "Unknown",
                 "Uttlesford District Council",
                 "Vale of White Horse District Council",
                 "Wakefield Council",
@@ -431,15 +423,30 @@
                 "Wycombe District Council",
                 "Wyre Borough Council",
                 "Wyre Forest District Council",
-                "York City Council"
+                "York City Council",
+                "Unknown",
+                ""
               ]
             },
             "title": "Local Authority"
           },
           {
-            "name": "Observation status",
-            "type": "number",
-            "title": "Observation status"
+            "name": "FGM type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Not recorded",
+                "Not known",
+                "Type 1",
+                "Type 2",
+                "Type 3",
+                "Type 4",
+                "History of type 3",
+                "Type 3 reinfibulation identified",
+                ""
+              ]
+            },
+            "title": "FGM type"
           },
           {
             "name": "Unit measure",
@@ -452,26 +459,19 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Individuals",
-                "Percentage"
-              ]
-            },
-            "title": "Units"
+            "name": "Observation status",
+            "type": "number",
+            "title": "Observation status"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

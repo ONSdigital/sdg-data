@@ -11,13 +11,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
             "name": "Abuse type",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Contact sexual abuse",
-                "Non-contact sexual abuse"
+                "Non-contact sexual abuse",
+                ""
               ]
             },
             "title": "Abuse type"
@@ -27,26 +32,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Rape or assault by penetration (including attempts)",
                 "Other contact sexual abuse",
-                "Rape or assault by penetration (including attempts)"
+                ""
               ]
             },
             "title": "Contact sexual abuse type"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Female",
-                "Male"
+                "Male",
+                ""
               ]
             },
             "title": "Sex"
@@ -62,14 +62,14 @@
             "title": "Unit multiplier"
           },
           {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

@@ -11,11 +11,26 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mechanisms in place to enhance policy coherence for sustainable development (Percent)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Mechanism",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Alignment across government levels",
                 "Financing for policy coherence",
                 "Institutionalization of Political Commitment",
@@ -23,7 +38,8 @@
                 "Long-term considerations in decision-making",
                 "Monitoring and reporting for policy coherence",
                 "Participatory processes",
-                "Policy linkages"
+                "Policy linkages",
+                ""
               ]
             },
             "title": "Mechanism"
@@ -32,17 +48,6 @@
             "name": "Observation status",
             "type": "string",
             "title": "Observation status"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Mechanisms in place to enhance policy coherence for sustainable development (Percent)"
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Unit multiplier",
@@ -54,8 +59,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Percentage (%)"
+                "Percentage (%)",
+                ""
               ]
             },
             "title": "Units"
@@ -64,11 +69,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

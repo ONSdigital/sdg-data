@@ -11,20 +11,44 @@
       "schema": {
         "fields": [
           {
-            "name": "Observation status",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
             "type": "string",
-            "title": "Observation status"
+            "constraints": {
+              "enum": [
+                "Health worker density",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All persons",
+                "Males",
+                "Females",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Occupation minor group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "221 Health Professionals",
                 "222 Therapy Professionals",
                 "223 Nursing and Midwifery Professionals",
-                "321 Health Associate Professionals"
+                "321 Health Associate Professionals",
+                ""
               ]
             },
             "title": "Occupation minor group"
@@ -34,7 +58,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "2211 Medical practitioners",
                 "2212 Psychologists",
                 "2213 Pharmacists",
@@ -53,34 +76,27 @@
                 "3216 Dispensing opticians",
                 "3217 Pharmaceutical technicians",
                 "3218 Medical and dental technicians",
-                "3219 Health associate professionals n.e.c."
+                "3219 Health associate professionals n.e.c.",
+                ""
               ]
             },
             "title": "Occupation unit group"
           },
           {
-            "name": "Series",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Health worker density"
+                "Rate per 10,000 population",
+                ""
               ]
             },
-            "title": "Series"
+            "title": "Units"
           },
           {
-            "name": "Sex",
+            "name": "Observation status",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "All persons",
-                "Females",
-                "Males"
-              ]
-            },
-            "title": "Sex"
+            "title": "Observation status"
           },
           {
             "name": "Unit multiplier",
@@ -88,25 +104,9 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Rate per 10,000 population"
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

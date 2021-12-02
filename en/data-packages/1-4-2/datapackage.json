@@ -11,18 +11,18 @@
       "schema": {
         "fields": [
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Security",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Documented",
-                "Perceived"
+                "Perceived",
+                ""
               ]
             },
             "title": "Security"
@@ -32,10 +32,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Formal",
                 "Informal Documentation",
-                "No Documentation"
+                "No Documentation",
+                ""
               ]
             },
             "title": "Type of documentation"
@@ -46,6 +46,11 @@
             "title": "Unit measure"
           },
           {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
@@ -54,11 +59,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

@@ -11,69 +11,80 @@
       "schema": {
         "fields": [
           {
-            "name": "Country income classification",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "LDCs",
-                "LMICs",
-                "Other LICs",
-                "UMICs",
-                "Unspecified"
-              ]
-            },
-            "title": "Country income classification"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Sector",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Economic Infrastructure & Services",
-                "Education",
-                "Government and Civil Society",
-                "Health",
-                "Multisector",
-                "Multisector / Cross-Cutting",
-                "Other social infrastructure and services",
-                "Production Sectors",
-                "Production Services"
-              ]
-            },
-            "title": "Sector"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Total official flows for scholarships, by recipient countries"
+                "Total official flows for scholarships, by recipient countries",
+                ""
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Education",
+                "Economic Infrastructure & Services",
+                "Government and Civil Society",
+                "Health",
+                "Multisector",
+                "Multisector / Cross-Cutting",
+                "Other social infrastructure and services",
+                "Production Sectors",
+                "Production Services",
+                ""
+              ]
+            },
+            "title": "Sector"
           },
           {
             "name": "Type of study",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Advanced technical and managerial training",
                 "Education policy and administrative management",
                 "Higher education",
                 "Primary education",
-                "Upper Secondary Education"
+                "Upper Secondary Education",
+                ""
               ]
             },
             "title": "Type of study"
+          },
+          {
+            "name": "Country income classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LDCs",
+                "LMICs",
+                "Other LICs",
+                "UMICs",
+                "Unspecified",
+                ""
+              ]
+            },
+            "title": "Country income classification"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GBP (£ thousands)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Unit multiplier",
@@ -81,25 +92,14 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Units",
+            "name": "Observation status",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "GBP (£ thousands)"
-              ]
-            },
-            "title": "Units"
+            "title": "Observation status"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

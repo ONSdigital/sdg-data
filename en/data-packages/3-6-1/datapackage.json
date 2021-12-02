@@ -11,65 +11,40 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "0 to 4",
-                "15 to 24",
-                "25 to 34",
-                "35 to 44",
-                "45 to 54",
-                "5 to 14",
-                "55 to 64",
-                "65 to 74",
-                "75 to 84",
-                "85 and over"
-              ]
-            },
-            "title": "Age"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Country",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "England",
                 "Great Britain",
-                "Northern Ireland",
+                "England",
+                "Wales",
                 "Scotland",
-                "Wales"
+                "Northern Ireland",
+                ""
               ]
             },
             "title": "Country"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "East Midlands",
-                "East of England",
-                "London",
                 "North East",
                 "North West",
+                "Yorkshire and the Humber",
+                "East Midlands",
+                "West Midlands",
+                "East of England",
+                "London",
                 "South East",
                 "South West",
-                "West Midlands",
-                "Yorkshire and the Humber"
+                ""
               ]
             },
             "title": "Region"
@@ -79,17 +54,37 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Male",
                 "Female",
-                "Male"
+                ""
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "Unit measure",
+            "name": "Age",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "0 to 4",
+                "5 to 14",
+                "15 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "55 to 64",
+                "65 to 74",
+                "75 to 84",
+                "85 and over",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "Unit multiplier",
@@ -97,14 +92,19 @@
             "title": "Unit multiplier"
           },
           {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

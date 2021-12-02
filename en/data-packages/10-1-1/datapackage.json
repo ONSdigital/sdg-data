@@ -11,27 +11,32 @@
       "schema": {
         "fields": [
           {
-            "name": "Income group",
+            "name": "Year",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Bottom 40%"
-              ]
-            },
-            "title": "Income group"
+            "title": "Year"
           },
           {
             "name": "Income/expenditure",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Income",
                 "Expenditure",
-                "Income"
+                ""
               ]
             },
             "title": "Income/expenditure"
+          },
+          {
+            "name": "Income group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bottom 40%",
+                ""
+              ]
+            },
+            "title": "Income group"
           },
           {
             "name": "Observation status",
@@ -39,24 +44,19 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
           },
           {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

@@ -11,20 +11,25 @@
       "schema": {
         "fields": [
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Proportion of population below international poverty line"
+                "Proportion of population below international poverty line",
+                ""
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "Unit multiplier",
@@ -36,8 +41,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Percentage (%)"
+                "Percentage (%)",
+                ""
               ]
             },
             "title": "Units"
@@ -46,11 +51,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

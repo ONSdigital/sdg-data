@@ -11,71 +11,141 @@
       "schema": {
         "fields": [
           {
-            "name": "Ethnic group",
+            "name": "Year",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Any other Asian background",
-                "Any other black background",
-                "Any other mixed background",
-                "Any other white background",
-                "Bangladeshi",
-                "Black African",
-                "Black Caribbean",
-                "Gypsy / Roma",
-                "Indian",
-                "Irish",
-                "Pakistani",
-                "Traveller of Irish heritage",
-                "White British",
-                "White and Asian",
-                "White and black African",
-                "White and black Caribbean"
-              ]
-            },
-            "title": "Ethnic group"
+            "title": "Year"
           },
           {
-            "name": "Ethnicity",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Asian",
-                "Black/African/Caribbean/Black British",
-                "Chinese",
-                "Mixed",
-                "Other",
-                "Unclassified",
-                "White"
+                "Attainment at age 16",
+                "Attainment at age 11",
+                "Attainment at age 7",
+                ""
               ]
             },
-            "title": "Ethnicity"
+            "title": "Series"
+          },
+          {
+            "name": "Subject",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "English",
+                "Maths",
+                "Reading",
+                ""
+              ]
+            },
+            "title": "Subject"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Special educational needs",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "No special educational needs",
+                "Special educational needs",
+                ""
+              ]
+            },
+            "title": "Special educational needs"
           },
           {
             "name": "Free school meals",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Free school meals",
-                "No free school meals"
+                "No free school meals",
+                ""
               ]
             },
             "title": "Free school meals"
           },
           {
-            "name": "GeoCode",
+            "name": "Ethnicity",
             "type": "string",
-            "title": "GeoCode"
+            "constraints": {
+              "enum": [
+                "White",
+                "Mixed",
+                "Asian",
+                "Black/African/Caribbean/Black British",
+                "Chinese",
+                "Other",
+                "Unclassified",
+                ""
+              ]
+            },
+            "title": "Ethnicity"
+          },
+          {
+            "name": "Ethnic group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "White British",
+                "Irish",
+                "Traveller of Irish heritage",
+                "Gypsy / Roma",
+                "Any other white background",
+                "White and black Caribbean",
+                "White and black African",
+                "White and Asian",
+                "Any other mixed background",
+                "Indian",
+                "Pakistani",
+                "Bangladeshi",
+                "Any other Asian background",
+                "Black Caribbean",
+                "Black African",
+                "Any other black background",
+                ""
+              ]
+            },
+            "title": "Ethnic group"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "London",
+                "Yorkshire and The Humber",
+                "South West",
+                "East of England",
+                "West Midlands",
+                "North West",
+                "South East",
+                "North East",
+                "East Midlands",
+                "Inner London",
+                "Outer London",
+                ""
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Local Authority",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Barking and Dagenham",
                 "Barnet",
                 "Barnsley",
@@ -227,86 +297,11 @@
                 "Wokingham",
                 "Wolverhampton",
                 "Worcestershire",
-                "York"
+                "York",
+                ""
               ]
             },
             "title": "Local Authority"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "East Midlands",
-                "East of England",
-                "Inner London",
-                "London",
-                "North East",
-                "North West",
-                "Outer London",
-                "South East",
-                "South West",
-                "West Midlands",
-                "Yorkshire and The Humber"
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Attainment at age 11",
-                "Attainment at age 16",
-                "Attainment at age 7"
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Special educational needs",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "No special educational needs",
-                "Special educational needs"
-              ]
-            },
-            "title": "Special educational needs"
-          },
-          {
-            "name": "Subject",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "English",
-                "Maths",
-                "Reading"
-              ]
-            },
-            "title": "Subject"
           },
           {
             "name": "Unit measure",
@@ -319,14 +314,19 @@
             "title": "Unit multiplier"
           },
           {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

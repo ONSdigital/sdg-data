@@ -11,37 +11,51 @@
       "schema": {
         "fields": [
           {
-            "name": "Country income classification",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "LDCs",
-                "LMICs",
-                "Other LICs",
-                "UMICs",
-                "Unspecified"
+                "GBP (£ Millions)",
+                "USD ($ Millions)",
+                "Percentage (%)",
+                "Percent of GDP (%)",
+                ""
               ]
             },
-            "title": "Country income classification"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
+            "title": "Units"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Total official development assistance for biodiversity, by recipient countries",
                 "Tax revenue from biodiversity-relevant taxes",
                 "Tax revenue from biodiversity-relevant taxes out of total tax revenue",
-                "Total official development assistance for biodiversity, by recipient countries"
+                ""
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "Country income classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LDCs",
+                "LMICs",
+                "UMICs",
+                "Other LICs",
+                "Unspecified",
+                ""
+              ]
+            },
+            "title": "Country income classification"
           },
           {
             "name": "Unit measure",
@@ -54,28 +68,14 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Units",
+            "name": "Observation status",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "GBP (£ Millions)",
-                "Percent of GDP (%)",
-                "Percentage (%)",
-                "USD ($ Millions)"
-              ]
-            },
-            "title": "Units"
+            "title": "Observation status"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

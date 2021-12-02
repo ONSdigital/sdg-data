@@ -11,19 +11,19 @@
       "schema": {
         "fields": [
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Proportion of population covered by at least a 2G mobile network",
                 "Proportion of population covered by at least a 3G mobile network",
-                "Proportion of population covered by at least a 4G mobile network"
+                "Proportion of population covered by at least a 4G mobile network",
+                ""
               ]
             },
             "title": "Series"
@@ -33,13 +33,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "2G",
                 "3G",
-                "4G"
+                "4G",
+                ""
               ]
             },
             "title": "Technology"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "Unit multiplier",
@@ -51,8 +56,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Percentage (%)"
+                "Percentage (%)",
+                ""
               ]
             },
             "title": "Units"
@@ -61,11 +66,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

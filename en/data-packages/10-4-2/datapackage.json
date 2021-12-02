@@ -11,21 +11,25 @@
       "schema": {
         "fields": [
           {
-            "name": "Observation status",
-            "type": "number",
-            "title": "Observation status"
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           },
           {
-            "name": "Retirment status",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "non-retired",
-                "retired"
+                "Gini coefficient",
+                ""
               ]
             },
-            "title": "Retirment status"
+            "title": "Units"
+          },
+          {
+            "name": "Observation status",
+            "type": "number",
+            "title": "Observation status"
           },
           {
             "name": "Unit multiplier",
@@ -33,25 +37,21 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Units",
+            "name": "Retirment status",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Gini coefficient"
+                "retired",
+                "non-retired",
+                ""
               ]
             },
-            "title": "Units"
+            "title": "Retirment status"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

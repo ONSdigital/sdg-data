@@ -11,18 +11,18 @@
       "schema": {
         "fields": [
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Male",
                 "Female",
-                "Male"
+                ""
               ]
             },
             "title": "Sex"
@@ -38,14 +38,14 @@
             "title": "Unit multiplier"
           },
           {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

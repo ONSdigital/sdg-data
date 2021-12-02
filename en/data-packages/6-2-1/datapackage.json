@@ -11,26 +11,39 @@
       "schema": {
         "fields": [
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Treatment connection",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Independent",
-                "Public sewage"
+                "Public sewage",
+                ""
               ]
             },
             "title": "Treatment connection"
           },
           {
-            "name": "Unit measure",
+            "name": "Water treatment category",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Primary",
+                "Secondary",
+                "Tertiary",
+                ""
+              ]
+            },
+            "title": "Water treatment category"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "Unit multiplier",
@@ -38,27 +51,14 @@
             "title": "Unit multiplier"
           },
           {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Water treatment category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Primary",
-                "Secondary",
-                "Tertiary"
-              ]
-            },
-            "title": "Water treatment category"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

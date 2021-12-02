@@ -11,136 +11,55 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "19 to 24",
-                "25 to 34",
-                "35 to 44",
-                "45 to 54",
-                "55 to 64",
-                "65 and over"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "Country of birth",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Born in UK",
-                "Not born in UK"
-              ]
-            },
-            "title": "Country of birth"
-          },
-          {
-            "name": "Deprivation quantile",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Quintile 1 (most deprived)",
-                "Quintile 2",
-                "Quintile 3",
-                "Quintile 4",
-                "Quintile 5 (least deprived)"
-              ]
-            },
-            "title": "Deprivation quantile"
-          },
-          {
-            "name": "Disability status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Disability and/or work-limiting disabled",
-                "No disability"
-              ]
-            },
-            "title": "Disability status"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Education category",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Formal",
-                "Non-formal learning"
+                "Non-formal learning",
+                ""
               ]
             },
             "title": "Education category"
           },
           {
-            "name": "Employment status",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Fulfilling domestic tasks",
-                "Full-time",
-                "Mature student",
-                "Other inactive",
-                "Part-time",
-                "Permanently disabled",
-                "Retired",
-                "Unemployed"
+                "19 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "55 to 64",
+                "65 and over",
+                ""
               ]
             },
-            "title": "Employment status"
+            "title": "Age"
           },
           {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Highest qualification",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "A level or equivalent",
-                "Degree or equivalent",
-                "GCSE or equivalent",
-                "Higher Education",
-                "No qualification",
-                "Other qualification"
+                "Female",
+                "Male",
+                ""
               ]
             },
-            "title": "Highest qualification"
-          },
-          {
-            "name": "Household income",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Less than £14,999",
-                "£15,000 to £29,999",
-                "£30,000 to £44,999",
-                "£45,000 or more"
-              ]
-            },
-            "title": "Household income"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
+            "title": "Sex"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "East Midlands",
                 "East of England",
                 "London",
@@ -149,27 +68,103 @@
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and the Humber"
+                "Yorkshire and the Humber",
+                ""
               ]
             },
             "title": "Region"
           },
           {
-            "name": "Sex",
+            "name": "Household income",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Female",
-                "Male"
+                "Less than £14,999",
+                "£15,000 to £29,999",
+                "£30,000 to £44,999",
+                "£45,000 or more",
+                ""
               ]
             },
-            "title": "Sex"
+            "title": "Household income"
           },
           {
-            "name": "Unit measure",
+            "name": "Deprivation quantile",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Quintile 1 (most deprived)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (least deprived)",
+                ""
+              ]
+            },
+            "title": "Deprivation quantile"
+          },
+          {
+            "name": "Employment status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fulfilling domestic tasks",
+                "Full-time",
+                "Mature student",
+                "Other inactive",
+                "Part-time",
+                "Permanently disabled",
+                "Retired",
+                "Unemployed",
+                ""
+              ]
+            },
+            "title": "Employment status"
+          },
+          {
+            "name": "Highest qualification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A level or equivalent",
+                "Degree or equivalent",
+                "GCSE or equivalent",
+                "Higher Education",
+                "No qualification",
+                "Other qualification",
+                ""
+              ]
+            },
+            "title": "Highest qualification"
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disability and/or work-limiting disabled",
+                "No disability",
+                ""
+              ]
+            },
+            "title": "Disability status"
+          },
+          {
+            "name": "Country of birth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Born in UK",
+                "Not born in UK",
+                ""
+              ]
+            },
+            "title": "Country of birth"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "Unit multiplier",
@@ -177,14 +172,19 @@
             "title": "Unit multiplier"
           },
           {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

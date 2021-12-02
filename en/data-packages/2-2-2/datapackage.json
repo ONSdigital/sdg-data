@@ -11,28 +11,20 @@
       "schema": {
         "fields": [
           {
-            "name": "BMI",
+            "name": "Year",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Obese",
-                "Overweight",
-                "Underweight"
-              ]
-            },
-            "title": "BMI"
+            "title": "Year"
           },
           {
             "name": "Country",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "England",
-                "Northern Ireland",
                 "Scotland",
-                "Wales"
+                "Wales",
+                "Northern Ireland",
+                ""
               ]
             },
             "title": "Country"
@@ -42,22 +34,42 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Any other ethnic group",
                 "Asian",
                 "Black",
                 "Chinese",
                 "Mixed",
                 "Not stated",
-                "White"
+                "White",
+                ""
               ]
             },
             "title": "Ethnicity"
           },
           {
-            "name": "GeoCode",
+            "name": "Sex",
             "type": "string",
-            "title": "GeoCode"
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "BMI",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obese",
+                "Overweight",
+                "Underweight",
+                ""
+              ]
+            },
+            "title": "BMI"
           },
           {
             "name": "Observation status",
@@ -65,16 +77,9 @@
             "title": "Observation status"
           },
           {
-            "name": "Sex",
+            "name": "Unit multiplier",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
+            "title": "Unit multiplier"
           },
           {
             "name": "Unit measure",
@@ -82,19 +87,14 @@
             "title": "Unit measure"
           },
           {
-            "name": "Unit multiplier",
+            "name": "GeoCode",
             "type": "string",
-            "title": "Unit multiplier"
+            "title": "GeoCode"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

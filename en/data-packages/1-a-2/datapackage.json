@@ -11,28 +11,33 @@
       "schema": {
         "fields": [
           {
-            "name": "Observation status",
+            "name": "Year",
             "type": "string",
-            "title": "Observation status"
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Proportion of total government spending on essential services, education"
+                "Proportion of total government spending on essential services, education",
+                ""
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Percentage (%)"
+                "Percentage (%)",
+                ""
               ]
             },
             "title": "Units"
@@ -41,11 +46,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

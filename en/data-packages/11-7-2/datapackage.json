@@ -11,81 +11,137 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of adults aged 16 to 59 (%)",
+                "Percentage of adults aged 16 to 74 (%)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Relationship to perpetrator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Partner",
+                "Family member",
+                ""
+              ]
+            },
+            "title": "Relationship to perpetrator"
+          },
+          {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "16 to 19",
                 "20 to 24",
                 "25 to 34",
                 "35 to 44",
                 "45 to 54",
-                "55 to 59"
+                "55 to 59",
+                ""
               ]
             },
             "title": "Age"
-          },
-          {
-            "name": "Country of birth",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Born in UK",
-                "Not born in UK"
-              ]
-            },
-            "title": "Country of birth"
-          },
-          {
-            "name": "Disability status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Disabled (GSS harmonised)",
-                "Non-disabled (GSS harmonised)"
-              ]
-            },
-            "title": "Disability status"
           },
           {
             "name": "Ethnicity",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "White",
+                "Mixed/Multiple ethnic groups",
                 "Asian/Asian British",
                 "Black/African/Caribbean/Black British",
-                "Mixed/Multiple ethnic groups",
                 "Other ethnic group",
-                "White"
+                ""
               ]
             },
             "title": "Ethnicity"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
           },
           {
             "name": "Income",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Less than £10,000",
-                "No income stated or not enough information provided",
                 "£10,000 to less than £20,000",
                 "£20,000 to less than £30,000",
                 "£30,000 to less than £40,000",
                 "£40,000 to less than £50,000",
-                "£50,000 or more"
+                "£50,000 or more",
+                "No income stated or not enough information provided",
+                ""
               ]
             },
             "title": "Income"
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disabled (GSS harmonised)",
+                "Non-disabled (GSS harmonised)",
+                ""
+              ]
+            },
+            "title": "Disability status"
+          },
+          {
+            "name": "Country of birth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Born in UK",
+                "Not born in UK",
+                ""
+              ]
+            },
+            "title": "Country of birth"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "North East",
+                "North West",
+                "Yorkshire and the Humber",
+                "East Midlands",
+                "West Midlands",
+                "East of England",
+                "London",
+                "South East",
+                "South West",
+                "Wales",
+                ""
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Observation status",
@@ -93,48 +149,9 @@
             "title": "Observation status"
           },
           {
-            "name": "Region",
+            "name": "Unit multiplier",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "East Midlands",
-                "East of England",
-                "London",
-                "North East",
-                "North West",
-                "South East",
-                "South West",
-                "Wales",
-                "West Midlands",
-                "Yorkshire and the Humber"
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Relationship to perpetrator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Family member",
-                "Partner"
-              ]
-            },
-            "title": "Relationship to perpetrator"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Men",
-                "Women"
-              ]
-            },
-            "title": "Sex"
+            "title": "Unit multiplier"
           },
           {
             "name": "Unit measure",
@@ -142,31 +159,14 @@
             "title": "Unit measure"
           },
           {
-            "name": "Unit multiplier",
+            "name": "GeoCode",
             "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Percentage of adults aged 16 to 59 (%)",
-                "Percentage of adults aged 16 to 74 (%)"
-              ]
-            },
-            "title": "Units"
+            "title": "GeoCode"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

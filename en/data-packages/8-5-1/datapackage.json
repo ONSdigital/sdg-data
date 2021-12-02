@@ -11,17 +11,34 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1. Annual survey of hours and earnings (ASHE)",
+                "2. Annual population survey (APS)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "18 to 21",
                 "22 to 29",
                 "30 to 39",
                 "40 to 49",
                 "50 to 59",
-                "60 and over"
+                "60 and over",
+                ""
               ]
             },
             "title": "Age"
@@ -31,62 +48,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "England",
                 "Northern Ireland",
                 "Scotland",
-                "Wales"
+                "Wales",
+                ""
               ]
             },
             "title": "Country"
-          },
-          {
-            "name": "Disability status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Disabled (GSS harmonised)",
-                "Non-disabled (GSS harmonised)"
-              ]
-            },
-            "title": "Disability status"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Occupation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Administrative and secretarial occupations",
-                "Associate professional and technical occupations",
-                "Caring, leisure and other service occupations",
-                "Elementary occupations",
-                "Managers, directors and senior officials",
-                "Process, plant and machine operatives",
-                "Professional occupations",
-                "Sales and customer service occupations",
-                "Skilled trades occupations"
-              ]
-            },
-            "title": "Occupation"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "East",
                 "East Midlands",
                 "London",
@@ -95,31 +70,32 @@
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and The Humber"
+                "Yorkshire and The Humber",
+                ""
               ]
             },
             "title": "Region"
           },
           {
-            "name": "Series",
+            "name": "Disability status",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "1. Annual survey of hours and earnings (ASHE)",
-                "2. Annual population survey (APS)"
+                "Disabled (GSS harmonised)",
+                "Non-disabled (GSS harmonised)",
+                ""
               ]
             },
-            "title": "Series"
+            "title": "Disability status"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Men",
-                "Women"
+                "Women",
+                ""
               ]
             },
             "title": "Sex"
@@ -129,19 +105,50 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Female, Disabled (GSS harmonised)",
                 "Female, Non-disabled (GSS harmonised)",
                 "Male, Disabled (GSS harmonised)",
-                "Male, Non-disabled (GSS harmonised)"
+                "Male, Non-disabled (GSS harmonised)",
+                ""
               ]
             },
             "title": "Sex by disability"
           },
           {
-            "name": "Unit measure",
+            "name": "Occupation",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Administrative and secretarial occupations",
+                "Associate professional and technical occupations",
+                "Caring, leisure and other service occupations",
+                "Elementary occupations",
+                "Managers, directors and senior officials",
+                "Process, plant and machine operatives",
+                "Professional occupations",
+                "Sales and customer service occupations",
+                "Skilled trades occupations",
+                ""
+              ]
+            },
+            "title": "Occupation"
+          },
+          {
+            "name": "Working Pattern",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Full Time",
+                "Part Time",
+                ""
+              ]
+            },
+            "title": "Working Pattern"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "Unit multiplier",
@@ -149,26 +156,19 @@
             "title": "Unit multiplier"
           },
           {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Working Pattern",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Full Time",
-                "Part Time"
-              ]
-            },
-            "title": "Working Pattern"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

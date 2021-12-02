@@ -11,16 +11,26 @@
       "schema": {
         "fields": [
           {
-            "name": "GeoCode",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Size of particulate matter",
             "type": "string",
-            "title": "GeoCode"
+            "constraints": {
+              "enum": [
+                "PM 10",
+                ""
+              ]
+            },
+            "title": "Size of particulate matter"
           },
           {
             "name": "Local Authority",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Aberdeen City",
                 "Armagh",
                 "Barnstaple",
@@ -94,7 +104,8 @@
                 "Wigan",
                 "Wirral",
                 "Wrexham",
-                "York"
+                "York",
+                ""
               ]
             },
             "title": "Local Authority"
@@ -105,15 +116,9 @@
             "title": "Observation status"
           },
           {
-            "name": "Size of particulate matter",
+            "name": "Unit multiplier",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "PM 10"
-              ]
-            },
-            "title": "Size of particulate matter"
+            "title": "Unit multiplier"
           },
           {
             "name": "Unit measure",
@@ -121,19 +126,14 @@
             "title": "Unit measure"
           },
           {
-            "name": "Unit multiplier",
+            "name": "GeoCode",
             "type": "string",
-            "title": "Unit multiplier"
+            "title": "GeoCode"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

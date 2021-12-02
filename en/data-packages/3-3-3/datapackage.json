@@ -11,40 +11,33 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "10 to 14",
-                "15 to 19",
-                "20 to 24",
-                "25 to 29",
-                "30 to 34",
-                "35 to 39",
-                "4 and under",
-                "40 to 44",
-                "45 to 49",
-                "5 to 9",
-                "50 to 54",
-                "55 to 59",
-                "60 to 64",
-                "65 to 69",
-                "70 and over"
+                "Rate per 100,000 population",
+                "Number of cases",
+                "Percentage (%) of total cases",
+                ""
               ]
             },
-            "title": "Age"
+            "title": "Units"
           },
           {
             "name": "Country",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "England",
                 "Northern Ireland",
                 "Scotland",
-                "Wales"
+                "Wales",
+                ""
               ]
             },
             "title": "Country"
@@ -54,26 +47,63 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Born in Africa",
-                "Born in Europe (non-UK)",
-                "Born in Indian subcontinent",
                 "Born in UK",
-                "Other country of birth"
+                "Born in Indian subcontinent",
+                "Born in Europe (non-UK)",
+                "Other country of birth",
+                ""
               ]
             },
             "title": "Country of birth"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "4 and under",
+                "5 to 9",
+                "10 to 14",
+                "15 to 19",
+                "20 to 24",
+                "25 to 29",
+                "30 to 34",
+                "35 to 39",
+                "40 to 44",
+                "45 to 49",
+                "50 to 54",
+                "55 to 59",
+                "60 to 64",
+                "65 to 69",
+                "70 and over",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Ethnic Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Black African/African descent",
+                "White British",
                 "Indian/Pakistani/Bangladesh (ISC)/ISC descent",
+                "Black African/African descent",
                 "Other/Mixed",
-                "White British"
+                ""
               ]
             },
             "title": "Ethnic Group"
@@ -83,46 +113,35 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Fatal",
-                "Non-fatal"
+                "Non-fatal",
+                ""
               ]
             },
             "title": "Fatality"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
           },
           {
             "name": "Malaria species",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Mixed",
                 "P. falciparum",
-                "P. knowlesi",
                 "P. malariae",
+                "P. knowlesi",
                 "P. ovale",
                 "P. unspecified",
-                "P. vivax"
+                "P. vivax",
+                "Mixed",
+                ""
               ]
             },
             "title": "Malaria species"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "East",
                 "East Midlands",
                 "London",
@@ -131,7 +150,8 @@
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and The Humber"
+                "Yorkshire and The Humber",
+                ""
               ]
             },
             "title": "Region"
@@ -141,41 +161,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Africa unspecified",
-                "Caribbean",
-                "Central America",
+                "Western Africa",
                 "Eastern Africa",
                 "Middle Africa",
                 "Northern Africa",
-                "Not stated",
-                "Oceania",
-                "South America",
-                "South-Eastern Asia",
                 "Southern Africa",
+                "Africa unspecified",
                 "Southern Asia",
-                "Western Africa",
-                "Western Asia"
+                "South-Eastern Asia",
+                "Western Asia",
+                "Caribbean",
+                "Central America",
+                "South America",
+                "Oceania",
+                "Not stated",
+                ""
               ]
             },
             "title": "Region of travel"
           },
           {
-            "name": "Sex",
+            "name": "Observation status",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
+            "title": "Observation status"
           },
           {
             "name": "Unit multiplier",
@@ -183,27 +191,19 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Units",
+            "name": "Unit measure",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Number of cases",
-                "Percentage (%) of total cases",
-                "Rate per 100,000 population"
-              ]
-            },
-            "title": "Units"
+            "title": "Unit measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

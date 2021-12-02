@@ -11,21 +11,26 @@
       "schema": {
         "fields": [
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Proportion of population using basic drinking water services",
-                "Proportion of population using basic sanitation services"
+                "Proportion of population using basic sanitation services",
+                ""
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "Unit measure",
@@ -41,11 +46,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

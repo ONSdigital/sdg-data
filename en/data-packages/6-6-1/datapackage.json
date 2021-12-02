@@ -11,17 +11,46 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent change in spatial extent from baseline (%)",
+                "Proportion of land area (%)",
+                "Spatial extent (square km)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Water type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ephemeral",
+                "Permanent",
+                "Seasonal",
+                ""
+              ]
+            },
+            "title": "Water type"
+          },
+          {
             "name": "Geography (HydroBASINs ID)",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "2060048790 (Central South East England)",
                 "2060048980 (Central South West England)",
                 "2060048990 (South West England)",
                 "2060049660 (Severn)",
                 "2060049670 (South Anglian)",
-                "2060049670 (South East Wye)",
                 "2060049680 (Wye)",
                 "2060049690 (Wales & Dee)",
                 "2060050410 (Mersey)",
@@ -53,15 +82,12 @@
                 "2060055320 (North West Northern Ireland)",
                 "2060055600 (Central Northern Ireland)",
                 "2060055610 (East Northern Ireland)",
-                "2060059370 (Shetland)"
+                "2060059370 (Shetland)",
+                "2060049670 (South East Wye)",
+                ""
               ]
             },
             "title": "Geography (HydroBASINs ID)"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
           },
           {
             "name": "Unit measure",
@@ -69,45 +95,19 @@
             "title": "Unit measure"
           },
           {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Percent change in spatial extent from baseline (%)",
-                "Proportion of land area (%)",
-                "Spatial extent (square km)"
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Water type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Ephemeral",
-                "Permanent",
-                "Seasonal"
-              ]
-            },
-            "title": "Water type"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

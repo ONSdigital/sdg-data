@@ -11,9 +11,28 @@
       "schema": {
         "fields": [
           {
-            "name": "Observation status",
+            "name": "Year",
             "type": "string",
-            "title": "Observation status"
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "House of Commons",
+                "House of Lords",
+                "Welsh Assembly",
+                "Scottish Parliament",
+                "Northern Ireland Assembly",
+                "English Local Authority Councillors",
+                "Welsh Local Authority Councillors",
+                "Northern Ireland Local Authority Councils",
+                "Scottish Local Authority Councils",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Unit measure",
@@ -21,38 +40,19 @@
             "title": "Unit measure"
           },
           {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "English Local Authority Councillors",
-                "House of Commons",
-                "House of Lords",
-                "Northern Ireland Assembly",
-                "Northern Ireland Local Authority Councils",
-                "Scottish Local Authority Councils",
-                "Scottish Parliament",
-                "Welsh Assembly",
-                "Welsh Local Authority Councillors"
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

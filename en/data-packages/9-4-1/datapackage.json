@@ -11,11 +11,15 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Industry sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Accommodation and food services",
                 "Activities of households as employers; undifferentiated goods and services-producing activities of households for own use",
                 "Administrative and support service activities",
@@ -35,7 +39,8 @@
                 "Real estate activities",
                 "Transport and storage",
                 "Water supply; sewerage, waste management and remediation activities",
-                "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+                ""
               ]
             },
             "title": "Industry sector"
@@ -46,24 +51,19 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
           },
           {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

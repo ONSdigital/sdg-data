@@ -11,31 +11,48 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "16 to 24",
                 "25 to 34",
                 "35 to 49",
                 "50 to 64",
                 "65 to 74",
-                "75 and over"
+                "75 and over",
+                ""
               ]
             },
             "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Citizenship",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "United Kingdom",
+                "Republic of Ireland",
                 "EU Member State",
                 "Elsewhere in the world",
-                "Republic of Ireland",
-                "United Kingdom"
+                ""
               ]
             },
             "title": "Citizenship"
@@ -45,9 +62,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Disabled (GSS harmonised)",
-                "Non-disabled (GSS harmonised)"
+                "Non-disabled (GSS harmonised)",
+                ""
               ]
             },
             "title": "Disability status"
@@ -57,27 +74,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "White",
                 "Asian",
                 "Black",
                 "Mixed",
                 "Other",
-                "White"
+                ""
               ]
             },
             "title": "Ethnicity"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
           },
           {
             "name": "Household income",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Band A1",
                 "Band A2",
                 "Band A3",
@@ -86,6 +97,7 @@
                 "Band A6",
                 "Band A7",
                 "Band A8",
+                "No income",
                 "Band B1",
                 "Band B2",
                 "Band B3",
@@ -94,22 +106,16 @@
                 "Band B6",
                 "Band B7",
                 "Band B8",
-                "No income"
+                ""
               ]
             },
             "title": "Household income"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "East",
                 "East Midlands",
                 "London",
@@ -118,27 +124,28 @@
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and The Humber"
+                "Yorkshire and The Humber",
+                ""
               ]
             },
             "title": "Region"
           },
           {
-            "name": "Sex",
+            "name": "Urban or rural",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Female",
-                "Male"
+                "Rural",
+                "Urban",
+                ""
               ]
             },
-            "title": "Sex"
+            "title": "Urban or rural"
           },
           {
-            "name": "Unit measure",
+            "name": "Observation status",
             "type": "string",
-            "title": "Unit measure"
+            "title": "Observation status"
           },
           {
             "name": "Unit multiplier",
@@ -146,26 +153,19 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Urban or rural",
+            "name": "Unit measure",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Rural",
-                "Urban"
-              ]
-            },
-            "title": "Urban or rural"
+            "title": "Unit measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

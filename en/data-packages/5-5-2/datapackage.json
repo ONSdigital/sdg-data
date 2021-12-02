@@ -11,17 +11,22 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "16 to 24",
                 "25 to 34",
                 "35 to 44",
                 "45 to 54",
                 "55 to 64",
-                "65 and over"
+                "65 and over",
+                ""
               ]
             },
             "title": "Age"
@@ -31,17 +36,34 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Disabled (GSS harmonised)",
-                "Non-disabled (GSS harmonised)"
+                "Non-disabled (GSS harmonised)",
+                ""
               ]
             },
             "title": "Disability status"
           },
           {
-            "name": "GeoCode",
+            "name": "Region",
             "type": "string",
-            "title": "GeoCode"
+            "constraints": {
+              "enum": [
+                "North East",
+                "North West",
+                "Yorkshire and the Humber",
+                "East Midlands",
+                "West Midlands",
+                "East of England",
+                "London",
+                "South East",
+                "South West",
+                "Wales",
+                "Scotland",
+                "Northern Ireland",
+                ""
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Observation status",
@@ -49,26 +71,9 @@
             "title": "Observation status"
           },
           {
-            "name": "Region",
+            "name": "Unit multiplier",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "East Midlands",
-                "East of England",
-                "London",
-                "North East",
-                "North West",
-                "Northern Ireland",
-                "Scotland",
-                "South East",
-                "South West",
-                "Wales",
-                "West Midlands",
-                "Yorkshire and the Humber"
-              ]
-            },
-            "title": "Region"
+            "title": "Unit multiplier"
           },
           {
             "name": "Unit measure",
@@ -76,19 +81,14 @@
             "title": "Unit measure"
           },
           {
-            "name": "Unit multiplier",
+            "name": "GeoCode",
             "type": "string",
-            "title": "Unit multiplier"
+            "title": "GeoCode"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

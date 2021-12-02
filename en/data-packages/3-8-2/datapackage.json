@@ -11,28 +11,18 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
+            "name": "Year",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "29 and under",
-                "30 to 49",
-                "50 to 64",
-                "65 to 74",
-                "75 and over"
-              ]
-            },
-            "title": "Age"
+            "title": "Year"
           },
           {
             "name": "Health product or service",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Hospital services",
-                "Medical products appliances and equipment"
+                "Medical products appliances and equipment",
+                ""
               ]
             },
             "title": "Health product or service"
@@ -42,11 +32,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Inpatient hospital services",
-                "Medicines prescriptions and healthcare products",
                 "Outpatient services",
-                "Spectacles lenses accessories and repairs"
+                "Medicines prescriptions and healthcare products",
+                "Spectacles lenses accessories and repairs",
+                ""
               ]
             },
             "title": "Health product or service category"
@@ -56,26 +46,55 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Accessories or repairs to spectacles or lenses",
-                "Medicines and medical goods (not NHS)",
                 "National Health Service (NHS) medical optical dental and medical auxiliary services",
+                "Other services",
+                "Private medical optical dental and medical auxiliary services",
+                "Medicines and medical goods (not NHS)",
                 "National Health Service (NHS) prescription charges and payments",
                 "Nonoptical appliances and equipment (wheelchairs batteries for hearing aids shoe buildup)",
                 "Other medical products (plasters condoms hot water bottles)",
-                "Other services",
-                "Private medical optical dental and medical auxiliary services",
-                "Purchase of spectacles lenses prescription sunglasses"
+                "Accessories or repairs to spectacles or lenses",
+                "Purchase of spectacles lenses prescription sunglasses",
+                ""
               ]
             },
             "title": "Health product or service sub-category"
+          },
+          {
+            "name": "Tenure category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Owner occupied",
+                "Private rented",
+                "Social rented",
+                ""
+              ]
+            },
+            "title": "Tenure category"
+          },
+          {
+            "name": "Tenure sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Owned outright",
+                "Owner occupied buying with a mortgage",
+                "Rent free",
+                "Rent paid furnished",
+                "Rent paid unfurnished",
+                "Council",
+                "Registered social landlord",
+                ""
+              ]
+            },
+            "title": "Tenure sub-category"
           },
           {
             "name": "Occupation category",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Higher professional",
                 "Intermediate occupations",
                 "Large employers and higher managerial",
@@ -86,50 +105,31 @@
                 "Routine",
                 "Semiroutine",
                 "Small employers",
-                "Students"
+                "Students",
+                ""
               ]
             },
             "title": "Occupation category"
           },
           {
-            "name": "Tenure category",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Owner occupied",
-                "Private rented",
-                "Social rented"
+                "29 and under",
+                "30 to 49",
+                "50 to 64",
+                "65 to 74",
+                "75 and over",
+                ""
               ]
             },
-            "title": "Tenure category"
-          },
-          {
-            "name": "Tenure sub-category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Council",
-                "Owned outright",
-                "Owner occupied buying with a mortgage",
-                "Registered social landlord",
-                "Rent free",
-                "Rent paid furnished",
-                "Rent paid unfurnished"
-              ]
-            },
-            "title": "Tenure sub-category"
+            "title": "Age"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

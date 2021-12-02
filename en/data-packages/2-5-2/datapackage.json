@@ -11,19 +11,19 @@
       "schema": {
         "fields": [
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Risk of extinction category",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Critical",
+                "Not at risk",
                 "Endangered",
-                "Not at risk"
+                "Critical",
+                ""
               ]
             },
             "title": "Risk of extinction category"
@@ -39,14 +39,14 @@
             "title": "Unit multiplier"
           },
           {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

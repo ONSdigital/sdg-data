@@ -11,32 +11,37 @@
       "schema": {
         "fields": [
           {
-            "name": "Aid description (CRS code)",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Forestry development (31220)",
-                "Forestry education/training (31281)",
-                "Forestry policy and administrative management (31210)",
-                "Forestry research (31282)",
-                "Forestry services (31291)",
-                "Fuelwood/charcoal (31261)"
-              ]
-            },
-            "title": "Aid description (CRS code)"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Flow of Official Development Assistance (ODA)",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Bilateral",
-                "Multilateral"
+                "Multilateral",
+                ""
               ]
             },
             "title": "Flow of Official Development Assistance (ODA)"
+          },
+          {
+            "name": "Aid description (CRS code)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Forestry development (31220)",
+                "Forestry education/training (31281)",
+                "Forestry policy and administrative management (31210)",
+                "Forestry research (31282)",
+                "Forestry services (31291)",
+                "Fuelwood/charcoal (31261)",
+                ""
+              ]
+            },
+            "title": "Aid description (CRS code)"
           },
           {
             "name": "Observation status",
@@ -44,24 +49,19 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
           },
           {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

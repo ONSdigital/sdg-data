@@ -11,11 +11,38 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate per 100,000 workers",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non-fatal injury",
+                "Fatal injury",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "16 to 19",
                 "16 to 24",
                 "20 to 24",
@@ -25,36 +52,62 @@
                 "55 and over",
                 "55 to 59",
                 "60 to 64",
-                "65 and over"
+                "65 and over",
+                ""
               ]
             },
             "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Country",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "England",
                 "England and Wales",
                 "Scotland",
-                "Wales"
+                "Wales",
+                ""
               ]
             },
             "title": "Country"
           },
           {
-            "name": "GeoCode",
+            "name": "Region",
             "type": "string",
-            "title": "GeoCode"
+            "constraints": {
+              "enum": [
+                "East",
+                "East Midlands",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
+                ""
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Industry sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Accommodation and food service activities",
                 "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",
                 "Administrative and support service activities",
@@ -76,22 +129,17 @@
                 "Service industries",
                 "Transportation and storage",
                 "Water supply; sewerage, waste management and remediation activities",
-                "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+                ""
               ]
             },
             "title": "Industry sector"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
           },
           {
             "name": "Occupation",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Administrative and secretarial occupations",
                 "Associate professional and technical occupations",
                 "Caring, leisure and other service occupations",
@@ -100,53 +148,11 @@
                 "Process, plant and machine operatives",
                 "Professional occupations",
                 "Sales and customer service occupations",
-                "Skilled trades occupations"
+                "Skilled trades occupations",
+                ""
               ]
             },
             "title": "Occupation"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "East",
-                "East Midlands",
-                "London",
-                "North East",
-                "North West",
-                "South East",
-                "South West",
-                "West Midlands",
-                "Yorkshire and The Humber"
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Fatal injury",
-                "Non-fatal injury"
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "Unit multiplier",
@@ -154,25 +160,19 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Units",
+            "name": "Observation status",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Rate per 100,000 workers"
-              ]
-            },
-            "title": "Units"
+            "title": "Observation status"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

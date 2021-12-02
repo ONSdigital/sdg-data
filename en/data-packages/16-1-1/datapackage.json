@@ -11,53 +11,78 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Under 1",
                 "1 to 4",
+                "5 to 15",
                 "16 to 24",
                 "25 to 34",
                 "35 to 44",
                 "45 to 54",
-                "5 to 15",
                 "55 to 64",
                 "65 to 74",
                 "75 and over",
-                "Under 1"
+                ""
               ]
             },
             "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Country",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "England",
-                "Wales"
+                "Wales",
+                ""
               ]
             },
             "title": "Country"
           },
           {
-            "name": "GeoCode",
+            "name": "Region",
             "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
+            "constraints": {
+              "enum": [
+                "East",
+                "East Midlands",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
+                ""
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Police Force Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Avon and Somerset",
                 "Bedfordshire",
                 "Cambridgeshire",
@@ -100,41 +125,11 @@
                 "West Mercia",
                 "West Midlands",
                 "West Yorkshire",
-                "Wiltshire"
+                "Wiltshire",
+                ""
               ]
             },
             "title": "Police Force Area"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "East",
-                "East Midlands",
-                "London",
-                "North East",
-                "North West",
-                "South East",
-                "South West",
-                "West Midlands",
-                "Yorkshire and The Humber"
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "Unit measure",
@@ -147,14 +142,19 @@
             "title": "Unit multiplier"
           },
           {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

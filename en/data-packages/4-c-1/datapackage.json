@@ -11,16 +11,61 @@
       "schema": {
         "fields": [
           {
-            "name": "GeoCode",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
             "type": "string",
-            "title": "GeoCode"
+            "constraints": {
+              "enum": [
+                "All public schools (%)",
+                "Nursery (%)",
+                "Primary (%)",
+                "Secondary (%)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Outer London",
+                "Yorkshire and the Humber",
+                "South West",
+                "East of England",
+                "West Midlands",
+                "North West",
+                "South East",
+                "Inner London",
+                "North East",
+                "East Midlands",
+                ""
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Local Authority",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Barking and Dagenham",
                 "Barnet",
                 "Barnsley",
@@ -173,7 +218,8 @@
                 "Wokingham",
                 "Wolverhampton",
                 "Worcestershire",
-                "York"
+                "York",
+                ""
               ]
             },
             "title": "Local Authority"
@@ -184,36 +230,9 @@
             "title": "Observation status"
           },
           {
-            "name": "Region",
+            "name": "Unit multiplier",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "East Midlands",
-                "East of England",
-                "Inner London",
-                "North East",
-                "North West",
-                "Outer London",
-                "South East",
-                "South West",
-                "West Midlands",
-                "Yorkshire and the Humber"
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
+            "title": "Unit multiplier"
           },
           {
             "name": "Unit measure",
@@ -221,33 +240,14 @@
             "title": "Unit measure"
           },
           {
-            "name": "Unit multiplier",
+            "name": "GeoCode",
             "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "All public schools (%)",
-                "Nursery (%)",
-                "Primary (%)",
-                "Secondary (%)"
-              ]
-            },
-            "title": "Units"
+            "title": "GeoCode"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

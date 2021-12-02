@@ -11,24 +11,29 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "IHR core capacity",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Chemical Events",
-                "Food Safety",
-                "Health Service Provision",
-                "Human Resources",
-                "IHR Coordination and National IHR Focal Point Functions",
-                "Laboratory",
                 "Legislation and financing",
-                "National Health Emergency Framework",
-                "Points of Entry",
-                "Radiation Emergencies",
-                "Risk Communication",
+                "IHR Coordination and National IHR Focal Point Functions",
+                "Zoonotic Events and the Human–animal Interface",
+                "Food Safety",
+                "Laboratory",
                 "Surveillance",
-                "Zoonotic Events and the Human–animal Interface"
+                "Human Resources",
+                "National Health Emergency Framework",
+                "Health Service Provision",
+                "Risk Communication",
+                "Points of Entry",
+                "Chemical Events",
+                "Radiation Emergencies",
+                ""
               ]
             },
             "title": "IHR core capacity"
@@ -39,24 +44,19 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
           },
           {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

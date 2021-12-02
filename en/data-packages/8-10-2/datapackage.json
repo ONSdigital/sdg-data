@@ -11,11 +11,26 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "16 to 24",
                 "25 to 34",
                 "35 to 44",
@@ -24,17 +39,29 @@
                 "60 to 64",
                 "65 to 74",
                 "75 to 84",
-                "85 and over"
+                "85 and over",
+                ""
               ]
             },
             "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Bank account category",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Any Direct Payment Account (excluding POCAs)",
                 "Any Direct Payment Account (including POCAs)",
                 "Any other type of asset",
@@ -46,46 +73,30 @@
                 "Current account",
                 "Endowment Policy (not linked)",
                 "ISA",
-                "NS&I Savings Account",
                 "National Savings Bonds",
                 "No accounts (excluding POCAs)",
                 "No accounts (including POCAs)",
+                "NS&I Savings Account",
                 "Other Bank / Building Society account",
                 "Post Office Card Account (POCA)",
                 "Premium Bonds",
                 "Stocks and shares / member of a Share Club",
-                "Unit trusts"
+                "Unit trusts",
+                ""
               ]
             },
             "title": "Bank account category"
           },
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Series",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider"
+                "Percentage (%)",
+                ""
               ]
             },
-            "title": "Series"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Men",
-                "Women"
-              ]
-            },
-            "title": "Sex"
+            "title": "Units"
           },
           {
             "name": "Unit multiplier",
@@ -93,25 +104,14 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Units",
+            "name": "Observation status",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Percentage (%)"
-              ]
-            },
-            "title": "Units"
+            "title": "Observation status"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

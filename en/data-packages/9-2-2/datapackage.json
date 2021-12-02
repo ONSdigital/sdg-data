@@ -11,90 +11,54 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacturing employment as a proportion of total employment",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "16 to 24",
                 "25 to 34",
                 "35 to 44",
                 "45 to 54",
                 "55 to 64",
-                "65 and over"
+                "65 and over",
+                ""
               ]
             },
             "title": "Age"
-          },
-          {
-            "name": "Country of birth",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Born in EU",
-                "Born in UK",
-                "Not born in EU"
-              ]
-            },
-            "title": "Country of birth"
-          },
-          {
-            "name": "Disability status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Disabled (GSS harmonised)",
-                "Non-disabled (GSS harmonised)"
-              ]
-            },
-            "title": "Disability status"
-          },
-          {
-            "name": "Ethnicity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Asian",
-                "Black",
-                "Mixed",
-                "Other",
-                "White"
-              ]
-            },
-            "title": "Ethnicity"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Nationality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "EU nationality",
-                "Non-EU nationality",
-                "UK nationality"
-              ]
-            },
-            "title": "Nationality"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "East",
                 "East Midlands",
                 "London",
@@ -106,33 +70,69 @@
                 "South West",
                 "Wales",
                 "West Midlands",
-                "Yorkshire and The Humber"
+                "Yorkshire and The Humber",
+                ""
               ]
             },
             "title": "Region"
           },
           {
-            "name": "Series",
+            "name": "Disability status",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Manufacturing employment as a proportion of total employment"
+                "Non-disabled (GSS harmonised)",
+                "Disabled (GSS harmonised)",
+                ""
               ]
             },
-            "title": "Series"
+            "title": "Disability status"
           },
           {
-            "name": "Sex",
+            "name": "Ethnicity",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Female",
-                "Male"
+                "White",
+                "Mixed",
+                "Asian",
+                "Black",
+                "Other",
+                ""
               ]
             },
-            "title": "Sex"
+            "title": "Ethnicity"
+          },
+          {
+            "name": "Nationality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UK nationality",
+                "EU nationality",
+                "Non-EU nationality",
+                ""
+              ]
+            },
+            "title": "Nationality"
+          },
+          {
+            "name": "Country of birth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Born in UK",
+                "Born in EU",
+                "Not born in EU",
+                ""
+              ]
+            },
+            "title": "Country of birth"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "Unit multiplier",
@@ -144,21 +144,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Percentage (%)"
+                "Percentage (%)",
+                ""
               ]
             },
             "title": "Units"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

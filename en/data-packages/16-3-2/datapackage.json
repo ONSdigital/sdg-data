@@ -11,11 +11,15 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "15 to 17",
                 "18 to 20",
                 "21 to 24",
@@ -25,40 +29,36 @@
                 "50 to 59",
                 "60 and over",
                 "60 to 69",
-                "70 and over"
+                "70 and over",
+                ""
               ]
             },
             "title": "Age"
-          },
-          {
-            "name": "Nationality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "British nationals",
-                "Foreign nationals",
-                "Nationality not recorded"
-              ]
-            },
-            "title": "Nationality"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Female",
-                "Male"
+                "Male",
+                ""
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "Nationality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "British nationals",
+                "Foreign nationals",
+                "Nationality not recorded",
+                ""
+              ]
+            },
+            "title": "Nationality"
           },
           {
             "name": "Unit measure",
@@ -71,14 +71,14 @@
             "title": "Unit multiplier"
           },
           {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

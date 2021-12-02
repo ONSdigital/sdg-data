@@ -11,57 +11,68 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
+            "name": "Year",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "16 to 17",
-                "18 to 24"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Seasonally adjusted or not",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Not seasonally adjusted",
-                "Seasonally adjusted"
-              ]
-            },
-            "title": "Seasonally adjusted or not"
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Proportion of youth not in education, employment or training (quarterly)",
                 "Proportion of youth not in education, employment or training",
-                "Proportion of youth not in education, employment or training (quarterly)"
+                ""
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "Seasonally adjusted or not",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Seasonally adjusted",
+                "Not seasonally adjusted",
+                ""
+              ]
+            },
+            "title": "Seasonally adjusted or not"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 to 17",
+                "18 to 24",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Female",
-                "Male"
+                "Male",
+                ""
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Unit multiplier",
@@ -69,25 +80,14 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Units",
+            "name": "Observation status",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Percentage (%)"
-              ]
-            },
-            "title": "Units"
+            "title": "Observation status"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

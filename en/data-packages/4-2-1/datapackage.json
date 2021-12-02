@@ -11,138 +11,36 @@
       "schema": {
         "fields": [
           {
-            "name": "Ethnic group",
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Any other Asian background",
-                "Any other Black background",
-                "Any other Mixed background",
-                "Any other White background",
-                "Bangladeshi",
-                "Black African",
-                "Black Caribbean",
-                "Gypsy/Roma",
-                "Indian",
-                "Irish",
-                "Pakistani",
-                "Traveller of Irish heritage",
-                "White British",
-                "White and Asian",
-                "White and Black African",
-                "White and Black Caribbean"
+                "East Midlands",
+                "East of England",
+                "Inner London",
+                "London",
+                "North East",
+                "North West",
+                "Outer London",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
+                ""
               ]
             },
-            "title": "Ethnic group"
-          },
-          {
-            "name": "Ethnicity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Any other ethnic group",
-                "Asian",
-                "Black/African/Caribbean/Black British",
-                "Chinese",
-                "Mixed",
-                "White"
-              ]
-            },
-            "title": "Ethnicity"
-          },
-          {
-            "name": "Free School Meals",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Free school meals",
-                "No free school meals"
-              ]
-            },
-            "title": "Free School Meals"
-          },
-          {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Boys",
-                "Girls"
-              ]
-            },
-            "title": "Gender"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Learning category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Prime areas of learning",
-                "Specific areas of learning"
-              ]
-            },
-            "title": "Learning category"
-          },
-          {
-            "name": "Learning sub-category (higher)",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Communication and Language",
-                "Expressive arts and design",
-                "Literacy",
-                "Mathematics",
-                "Personal, Social and Emotional Development",
-                "Physical Development",
-                "Understanding the world"
-              ]
-            },
-            "title": "Learning sub-category (higher)"
-          },
-          {
-            "name": "Learning sub-category (lower)",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Being imaginative",
-                "Exploring and using media and materials",
-                "Health and Self-Care",
-                "Listening and Attention",
-                "Making relationships",
-                "Managing feelings and behaviour",
-                "Moving and Handling",
-                "Numbers",
-                "People and communities",
-                "Reading",
-                "Self-confidence and Self-awareness",
-                "Shape, space and measures",
-                "Speaking",
-                "Technology",
-                "The World",
-                "Understanding",
-                "Writing"
-              ]
-            },
-            "title": "Learning sub-category (lower)"
+            "title": "Region"
           },
           {
             "name": "Local Authority",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Barking and Dagenham",
                 "Barnet",
                 "Barnsley",
@@ -295,10 +193,145 @@
                 "Wokingham",
                 "Wolverhampton",
                 "Worcestershire",
-                "York"
+                "York",
+                ""
               ]
             },
             "title": "Local Authority"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Boys",
+                "Girls",
+                ""
+              ]
+            },
+            "title": "Gender"
+          },
+          {
+            "name": "Ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "White",
+                "Mixed",
+                "Asian",
+                "Black/African/Caribbean/Black British",
+                "Chinese",
+                "Any other ethnic group",
+                ""
+              ]
+            },
+            "title": "Ethnicity"
+          },
+          {
+            "name": "Ethnic group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "White British",
+                "Irish",
+                "Traveller of Irish heritage",
+                "Gypsy/Roma",
+                "Any other White background",
+                "White and Black Caribbean",
+                "White and Black African",
+                "White and Asian",
+                "Any other Mixed background",
+                "Indian",
+                "Pakistani",
+                "Bangladeshi",
+                "Any other Asian background",
+                "Black Caribbean",
+                "Black African",
+                "Any other Black background",
+                ""
+              ]
+            },
+            "title": "Ethnic group"
+          },
+          {
+            "name": "Free School Meals",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Free school meals",
+                "No free school meals",
+                ""
+              ]
+            },
+            "title": "Free School Meals"
+          },
+          {
+            "name": "Special educational needs",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "No special educational needs",
+                "Special educational needs",
+                ""
+              ]
+            },
+            "title": "Special educational needs"
+          },
+          {
+            "name": "Learning category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prime areas of learning",
+                "Specific areas of learning",
+                ""
+              ]
+            },
+            "title": "Learning category"
+          },
+          {
+            "name": "Learning sub-category (higher)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Communication and Language",
+                "Personal, Social and Emotional Development",
+                "Physical Development",
+                "Expressive arts and design",
+                "Literacy",
+                "Mathematics",
+                "Understanding the world",
+                ""
+              ]
+            },
+            "title": "Learning sub-category (higher)"
+          },
+          {
+            "name": "Learning sub-category (lower)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Listening and Attention",
+                "Speaking",
+                "Understanding",
+                "Making relationships",
+                "Managing feelings and behaviour",
+                "Self-confidence and Self-awareness",
+                "Health and Self-Care",
+                "Moving and Handling",
+                "Being imaginative",
+                "Exploring and using media and materials",
+                "Reading",
+                "Writing",
+                "Numbers",
+                "Shape, space and measures",
+                "People and communities",
+                "Technology",
+                "The World",
+                ""
+              ]
+            },
+            "title": "Learning sub-category (lower)"
           },
           {
             "name": "Observation status",
@@ -306,37 +339,9 @@
             "title": "Observation status"
           },
           {
-            "name": "Region",
+            "name": "Unit multiplier",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "East Midlands",
-                "East of England",
-                "Inner London",
-                "London",
-                "North East",
-                "North West",
-                "Outer London",
-                "South East",
-                "South West",
-                "West Midlands",
-                "Yorkshire and The Humber"
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Special educational needs",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "No special educational needs",
-                "Special educational needs"
-              ]
-            },
-            "title": "Special educational needs"
+            "title": "Unit multiplier"
           },
           {
             "name": "Unit measure",
@@ -344,19 +349,14 @@
             "title": "Unit measure"
           },
           {
-            "name": "Unit multiplier",
+            "name": "GeoCode",
             "type": "string",
-            "title": "Unit multiplier"
+            "title": "GeoCode"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

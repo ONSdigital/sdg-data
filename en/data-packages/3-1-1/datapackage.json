@@ -11,17 +11,34 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Maternal mortality rate",
+                "Maternal mortality ratio",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "19 and under",
                 "20 to 24",
                 "25 to 29",
                 "30 to 34",
                 "35 to 39",
-                "40 and over"
+                "40 and over",
+                ""
               ]
             },
             "title": "Age"
@@ -31,8 +48,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "England"
+                "England",
+                ""
               ]
             },
             "title": "Country"
@@ -42,9 +59,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Born in UK",
-                "Not born in UK"
+                "Not born in UK",
+                ""
               ]
             },
             "title": "Country of birth"
@@ -54,9 +71,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Direct",
-                "Indirect"
+                "Indirect",
+                ""
               ]
             },
             "title": "Death classification"
@@ -66,12 +83,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Quintile 1 (least deprived)",
                 "Quintile 2",
                 "Quintile 3",
                 "Quintile 4",
-                "Quintile 5 (most deprived)"
+                "Quintile 5 (most deprived)",
+                ""
               ]
             },
             "title": "Deprivation quintile"
@@ -81,42 +98,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "White (inc. not known)",
+                "Mixed/multiple ethnic groups",
                 "Asian",
                 "Black",
                 "Chinese or other",
-                "Mixed/multiple ethnic groups",
-                "White (inc. not known)"
+                ""
               ]
             },
             "title": "Ethnicity"
           },
           {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
             "name": "Observation status",
             "type": "string",
             "title": "Observation status"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Maternal mortality rate",
-                "Maternal mortality ratio"
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
           },
           {
             "name": "Unit multiplier",
@@ -128,22 +123,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Rate per 100,000 maternities",
                 "Rate per 100,000 live births",
-                "Rate per 100,000 maternities"
+                ""
               ]
             },
             "title": "Units"
           },
           {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

@@ -11,50 +11,70 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Vaccine",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "12 to 13",
-                "13 to 14",
-                "By 1st birthday",
-                "By 2nd birthday",
-                "By 5th birthday"
+                "Diphtheria Tetanus Polio Pertussis Hib (primary)",
+                "Pneumococcal disease (primary)",
+                "Rotavirus (primary)",
+                "Meningococcal group B (primary)",
+                "Measles mumps rubella (first dose)",
+                "Hib Meningococcal group C (booster)",
+                "Pneumococcal disease (booster)",
+                "Diphtheria Tetanus Polio Pertussis (booster)",
+                "Measles mumps rubella (first and second dose)",
+                "Meningococcal group B (booster)",
+                "Meningococcal group C (primary)",
+                "Hib (primary)",
+                "Human papillomavirus (At least 1 dose)",
+                "Human papillomavirus (At least 2 doses)",
+                "Human papillomavirus (3 doses)",
+                "Human papillomavirus (2 doses)",
+                ""
               ]
             },
-            "title": "Age"
+            "title": "Vaccine"
           },
           {
             "name": "Country",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "England",
                 "Northern Ireland",
                 "Scotland",
-                "Wales"
+                "Wales",
+                ""
               ]
             },
             "title": "Country"
           },
           {
-            "name": "GeoCode",
+            "name": "Age",
             "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
+            "constraints": {
+              "enum": [
+                "By 1st birthday",
+                "By 2nd birthday",
+                "By 5th birthday",
+                "12 to 13",
+                "13 to 14",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "East",
                 "East Midlands",
                 "London",
@@ -63,7 +83,8 @@
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and The Humber"
+                "Yorkshire and The Humber",
+                ""
               ]
             },
             "title": "Region"
@@ -79,40 +100,19 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Vaccine",
+            "name": "Observation status",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Diphtheria Tetanus Polio Pertussis (booster)",
-                "Diphtheria Tetanus Polio Pertussis Hib (primary)",
-                "Hib (primary)",
-                "Hib Meningococcal group C (booster)",
-                "Human papillomavirus (2 doses)",
-                "Human papillomavirus (3 doses)",
-                "Human papillomavirus (At least 1 dose)",
-                "Human papillomavirus (At least 2 doses)",
-                "Measles mumps rubella (first and second dose)",
-                "Measles mumps rubella (first dose)",
-                "Meningococcal group B (booster)",
-                "Meningococcal group B (primary)",
-                "Meningococcal group C (primary)",
-                "Pneumococcal disease (booster)",
-                "Pneumococcal disease (primary)",
-                "Rotavirus (primary)"
-              ]
-            },
-            "title": "Vaccine"
+            "title": "Observation status"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

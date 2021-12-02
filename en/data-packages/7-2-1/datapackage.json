@@ -11,47 +11,52 @@
       "schema": {
         "fields": [
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Renewable and waste source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Biodiesel",
-                "Bioethanol",
-                "Biogas from autogen",
-                "Biomass",
-                "Charcoal",
-                "Cross-boundary Adjustment",
-                "Geothermal aquifers",
-                "Hydroelectric power",
-                "Landfill gas",
-                "Liquid bio-fuels",
-                "Municipal solid waste (MSW)",
-                "Poultry litter",
-                "Sewage gas",
-                "Solar photovoltaic",
-                "Straw",
-                "Wind, wave, tidal",
-                "Wood"
-              ]
-            },
-            "title": "Renewable and waste source"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Renewable energy share in the total final energy consumption"
+                "Renewable energy share in the total final energy consumption",
+                ""
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "Renewable and waste source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hydroelectric power",
+                "Wind, wave, tidal",
+                "Solar photovoltaic",
+                "Geothermal aquifers",
+                "Landfill gas",
+                "Sewage gas",
+                "Biogas from autogen",
+                "Municipal solid waste (MSW)",
+                "Poultry litter",
+                "Straw",
+                "Wood",
+                "Charcoal",
+                "Liquid bio-fuels",
+                "Bioethanol",
+                "Biodiesel",
+                "Biomass",
+                "Cross-boundary Adjustment",
+                ""
+              ]
+            },
+            "title": "Renewable and waste source"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "Unit multiplier",
@@ -63,8 +68,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Percentage (%)"
+                "Percentage (%)",
+                ""
               ]
             },
             "title": "Units"
@@ -73,11 +78,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

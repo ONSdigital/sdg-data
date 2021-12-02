@@ -11,34 +11,51 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "1.5 to 3",
-                "11 to 18",
-                "19 to 64",
-                "4 to 10",
-                "65 and over",
-                "65 to 74",
-                "75 and over"
-              ]
-            },
-            "title": "Age"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Measure",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Mean",
                 "Median",
-                "Percentile (2.5th)"
+                "Percentile (2.5th)",
+                "Mean",
+                ""
               ]
             },
             "title": "Measure"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1.5 to 3",
+                "4 to 10",
+                "11 to 18",
+                "19 to 64",
+                "65 and over",
+                "65 to 74",
+                "75 and over",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Observation status",
@@ -46,16 +63,9 @@
             "title": "Observation status"
           },
           {
-            "name": "Sex",
+            "name": "Unit multiplier",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
+            "title": "Unit multiplier"
           },
           {
             "name": "Unit measure",
@@ -63,19 +73,9 @@
             "title": "Unit measure"
           },
           {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

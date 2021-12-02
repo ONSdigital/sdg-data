@@ -11,32 +11,32 @@
       "schema": {
         "fields": [
           {
-            "name": "Mountain elevation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "5.0",
-                "6.0"
-              ]
-            },
-            "title": "Mountain elevation"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Mountain Green Cover Index"
+                "Mountain Green Cover Index",
+                ""
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "Mountain elevation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5.0",
+                "6.0",
+                ""
+              ]
+            },
+            "title": "Mountain elevation"
           },
           {
             "name": "Unit multiplier",
@@ -44,12 +44,17 @@
             "title": "Unit multiplier"
           },
           {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Percentage (%)"
+                "Percentage (%)",
+                ""
               ]
             },
             "title": "Units"
@@ -58,11 +63,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

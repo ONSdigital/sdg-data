@@ -11,43 +11,48 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "15 to 24",
-                "25 to 34",
-                "35 to 49",
-                "50 to 64",
-                "Over 65",
-                "Under 15"
-              ]
-            },
-            "title": "Age"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Country",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "England",
                 "Northern Ireland",
                 "Scotland",
-                "Wales"
+                "Wales",
+                ""
               ]
             },
             "title": "Country"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under 15",
+                "15 to 24",
+                "25 to 34",
+                "35 to 49",
+                "50 to 64",
+                "Over 65",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Ethnicity",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Non Black African",
                 "Black African",
-                "Non Black African"
+                ""
               ]
             },
             "title": "Ethnicity"
@@ -57,32 +62,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Heterosexual contact",
                 "Injecting drug use",
-                "Sex between men"
+                "Sex between men",
+                ""
               ]
             },
             "title": "Exposure category"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Female",
-                "Male"
+                "Male",
+                ""
               ]
             },
             "title": "Sex"
@@ -93,19 +88,24 @@
             "title": "Unit measure"
           },
           {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

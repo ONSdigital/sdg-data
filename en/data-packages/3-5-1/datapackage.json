@@ -11,36 +11,40 @@
       "schema": {
         "fields": [
           {
-            "name": "Deprivation decile",
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Decile 1 (least deprived)",
-                "Decile 10 (most deprived)",
-                "Decile 2",
-                "Decile 3",
-                "Decile 4",
-                "Decile 5",
-                "Decile 6",
-                "Decile 7",
-                "Decile 8",
-                "Decile 9"
+                "Alcohol - Estimated prevalence",
+                "Alcohol - Met need",
+                "Alcohol - People in treatment",
+                ""
               ]
             },
-            "title": "Deprivation decile"
+            "title": "Series"
           },
           {
-            "name": "GeoCode",
+            "name": "Units",
             "type": "string",
-            "title": "GeoCode"
+            "constraints": {
+              "enum": [
+                "Number",
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Local Authority",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Barking and Dagenham",
                 "Barnet",
                 "Barnsley",
@@ -193,28 +197,31 @@
                 "Wokingham",
                 "Wolverhampton",
                 "Worcestershire",
-                "York"
+                "York",
+                ""
               ]
             },
             "title": "Local Authority"
           },
           {
-            "name": "Series",
+            "name": "Deprivation decile",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Alcohol - Estimated prevalence",
-                "Alcohol - Met need",
-                "Alcohol - People in treatment"
+                "Decile 10 (most deprived)",
+                "Decile 9",
+                "Decile 8",
+                "Decile 7",
+                "Decile 6",
+                "Decile 5",
+                "Decile 4",
+                "Decile 3",
+                "Decile 2",
+                "Decile 1 (least deprived)",
+                ""
               ]
             },
-            "title": "Series"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
+            "title": "Deprivation decile"
           },
           {
             "name": "Unit multiplier",
@@ -222,26 +229,19 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Units",
+            "name": "Unit measure",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Number",
-                "Percentage (%)"
-              ]
-            },
-            "title": "Units"
+            "title": "Unit measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

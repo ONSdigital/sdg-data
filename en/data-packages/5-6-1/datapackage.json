@@ -11,18 +11,23 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "15 and under",
                 "16 to 17",
                 "18 to 19",
                 "20 to 24",
                 "25 to 34",
                 "35 to 44",
-                "45 and over"
+                "45 and over",
+                "15 and under",
+                ""
               ]
             },
             "title": "Age"
@@ -32,17 +37,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Contraceptive patch",
                 "Female condom",
-                "IU device",
-                "IU system",
                 "Implant",
                 "Injectable contraceptive",
+                "IU device",
+                "IU system",
                 "Male condom",
                 "Natural family planning incl. rhythm method",
                 "Oral contraceptives",
-                "Other methods"
+                "Other methods",
+                ""
               ]
             },
             "title": "Main method of contraception"
@@ -53,24 +58,19 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
           },
           {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

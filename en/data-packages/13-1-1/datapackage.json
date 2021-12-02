@@ -11,42 +11,54 @@
       "schema": {
         "fields": [
           {
-            "name": "Cause of death",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Exposure to excessive natural cold",
-                "Exposure to excessive natural heat",
-                "Exposure to other and unspecified forces of nature",
-                "Exposure to sunlight",
-                "Victim of avalanche, landslide and other earth movements",
-                "Victim of cataclysmic storm",
-                "Victim of earthquake",
-                "Victim of flood",
-                "Victim of lightning",
-                "Victim of volcanic eruption"
-              ]
-            },
-            "title": "Cause of death"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Country",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "England",
                 "England and Wales",
-                "Wales"
+                "England",
+                "Wales",
+                ""
               ]
             },
             "title": "Country"
           },
           {
-            "name": "GeoCode",
+            "name": "Sex",
             "type": "string",
-            "title": "GeoCode"
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Cause of death",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Exposure to excessive natural heat",
+                "Exposure to excessive natural cold",
+                "Exposure to sunlight",
+                "Victim of lightning",
+                "Victim of earthquake",
+                "Victim of volcanic eruption",
+                "Victim of avalanche, landslide and other earth movements",
+                "Victim of cataclysmic storm",
+                "Victim of flood",
+                "Exposure to other and unspecified forces of nature",
+                ""
+              ]
+            },
+            "title": "Cause of death"
           },
           {
             "name": "Observation status",
@@ -54,16 +66,9 @@
             "title": "Observation status"
           },
           {
-            "name": "Sex",
+            "name": "Unit multiplier",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
+            "title": "Unit multiplier"
           },
           {
             "name": "Unit measure",
@@ -71,31 +76,26 @@
             "title": "Unit measure"
           },
           {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Deaths",
-                "Rate per 100,000 population"
+                "Rate per 100,000 population",
+                ""
               ]
             },
             "title": "Units"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }
