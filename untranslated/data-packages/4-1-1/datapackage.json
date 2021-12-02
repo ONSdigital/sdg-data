@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Attainment at age 16",
                 "Attainment at age 11",
                 "Attainment at age 7",
-                "Attainment at age 16",
                 ""
               ]
             }
@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "English",
                 "Maths",
                 "Reading",
-                "English",
                 ""
               ]
             }
@@ -79,7 +79,7 @@
                 "White",
                 "Mixed",
                 "Asian",
-                "Black",
+                "Black/African/Caribbean/Black British",
                 "Chinese",
                 "Other",
                 "Unclassified",
@@ -118,7 +118,7 @@
             "constraints": {
               "enum": [
                 "London",
-                "Yorkshire and the Humber",
+                "Yorkshire and The Humber",
                 "South West",
                 "East of England",
                 "West Midlands",

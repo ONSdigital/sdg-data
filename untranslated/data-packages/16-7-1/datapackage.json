@@ -25,6 +25,32 @@
             }
           },
           {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 to 17",
+                "65 and over",
+                "18 to 24",
+                "25 to 34",
+                "50 to 64",
+                "35 to 49",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Country",
             "type": "string",
             "constraints": {
@@ -52,32 +78,6 @@
                 "South West",
                 "West Midlands",
                 "Yorkshire and The Humber",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16 to 17",
-                "65 and over",
-                "18 to 24",
-                "25 to 34",
-                "50 to 64",
-                "35 to 49",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
                 ""
               ]
             }

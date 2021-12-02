@@ -45,7 +45,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Proportion of youth not in education, employment or training"
+                "Proportion of youth not in education, employment or training",
+                "Proportion of youth not in education, employment or training (quarterly)"
               ]
             },
             "title": "Series"

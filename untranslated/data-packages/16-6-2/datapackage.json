@@ -15,17 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Age",
             "type": "string",
             "constraints": {
@@ -44,6 +33,52 @@
                 "75 to 79",
                 "80 to 84",
                 "85 and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country of birth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Born in UK",
+                "Born in EU",
+                "Not born in EU",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Limiting long-term health condition",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Income quartile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1st",
+                "2nd",
+                "3rd",
+                "4th",
                 ""
               ]
             }
@@ -75,41 +110,6 @@
                 "South West",
                 "West Midlands",
                 "Yorkshire and The Humber",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Income quartile",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1st",
-                "2nd",
-                "3rd",
-                "4th",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Disability status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Limiting long-term health condition",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Country of birth",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Born in UK",
-                "Born in EU",
-                "Not born in EU",
                 ""
               ]
             }

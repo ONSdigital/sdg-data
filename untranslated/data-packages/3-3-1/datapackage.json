@@ -20,20 +20,9 @@
             "constraints": {
               "enum": [
                 "England",
+                "Northern Ireland",
                 "Scotland",
                 "Wales",
-                "Northern Ireland",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
                 ""
               ]
             }
@@ -54,24 +43,35 @@
             }
           },
           {
-            "name": "Exposure category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sex between men",
-                "Heterosexual contact",
-                "Injecting drug use",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Ethnicity",
             "type": "string",
             "constraints": {
               "enum": [
                 "Non Black African",
                 "Black African",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Exposure category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Heterosexual contact",
+                "Injecting drug use",
+                "Sex between men",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
                 ""
               ]
             }

@@ -20,9 +20,9 @@
             "constraints": {
               "enum": [
                 "England",
-                "Wales",
                 "Northern Ireland",
                 "Scotland",
+                "Wales",
                 ""
               ]
             }
@@ -43,11 +43,20 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "White",
+                "Indian",
+                "Pakistani",
+                "Bangledeshi",
+                "Chinese",
+                "Black African",
+                "Black Caribbean",
+                "Black Other",
+                "Mixed/Other",
                 "London",
                 "West Midlands",
                 "South East",
                 "North West",
-                "East of England",
+                "East",
                 "East Midlands",
                 "Yorkshire and The Humber",
                 "South West",

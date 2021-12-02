@@ -15,12 +15,14 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "Country",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
                 ""
               ]
             }
@@ -52,32 +54,30 @@
             }
           },
           {
-            "name": "Country",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "England",
-                "Wales",
-                "Scotland",
-                "Northern Ireland",
+                "East",
+                "East Midlands",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             }
           },
           {
-            "name": "Region",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "North East",
-                "North West",
-                "Yorkshire and the Humber",
-                "East Midlands",
-                "West Midlands",
-                "East of England",
-                "London",
-                "South East",
-                "South West",
+                "Female",
+                "Male",
                 ""
               ]
             }

@@ -61,8 +61,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "East Midlands",
                 "East",
+                "East Midlands",
                 "London",
                 "North East",
                 "North West",
@@ -79,10 +79,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Born in UK",
-                "Not born in UK",
                 "Born in EU (Non-UK)",
+                "Born in UK",
                 "Not born in EU (Non-UK)",
+                "Not born in UK",
                 ""
               ]
             }

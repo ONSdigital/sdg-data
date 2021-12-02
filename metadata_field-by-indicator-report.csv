@@ -9,7 +9,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #1-5-2,notstarted,Tier II,United Nations International Strategy for Disaster Reduction (UNISDR),,,,,line
 #1-5-3,complete,Tier II,United Nations International Strategy for Disaster Reduction (UNISDR),True,,United Kingdom,,line
 #1-5-4,complete,Tier II,United Nations International Strategy for Disaster Reduction (UNISDR),True,,,,line
-#1-a-1,complete,Tier I,Organisation for Economic Co-operation and Development (OECD),,,UK,Percentage (%),line
+#1-a-1,complete,Tier I,Organisation for Economic Co-operation and Development (OECD),,,United Kingdom,Percentage (%),line
 #1-a-2,complete,Tier II,UNESCO Institute for Statistics (UNESCO-UIS),,,United Kingdom,Percentage (%),line
 #1-b-1,complete,Tier II,United Nations Children’s Fund (UNICEF),,,United Kingdom,Percentage (%),line
 #10-1-1,complete,Tier II,World Bank (WB),,,United Kingdom,Percentage (%),line
@@ -21,8 +21,8 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #10-6-1,complete,Tier I,United Nations Department of Economic and Social Affairs (DESA) / Financing for Development Office (FFDO),,,United Kingdom,Percentage (%),line
 #10-7-1,notstarted,Tier II,"International Labour Organization (ILO), World Bank (WB)",,,,,line
 #10-7-2,notstarted,Tier II,"United Nations Department of Economic and Social Affairs (DESA), International Organization for Migration (IOM)",True,,,,line
-#10-7-3,notstarted,Tier I,International Organization for Migration,,,,,
-#10-7-4,notstarted,Tier I,UN High Commissioner for Refugees (UNHCR),,,,,
+#10-7-3,notstarted,Tier I,International Organization for Migration,,,,,line
+#10-7-4,notstarted,Tier I,UN High Commissioner for Refugees (UNHCR),,,,,line
 #10-a-1,complete,Tier I,"The International Trade Centre (ITC), United Nations Conference on Trade and Development (UNCTAD), World Trade Organization (WTO)",,,United Kingdom,Percentage,line
 #10-b-1,complete,Tier I,Organisation for Economic Co-operation and Development (OECD),,,United Kingdom,GBP (£000s),line
 #10-c-1,complete,Tier I,World Bank (WB),,,United Kingdom,Percentage (%),line
@@ -62,7 +62,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #13-a-1,complete,Tier II,UN Climate Change (UNFCCC Secretariat),,,United Kingdom,USD ($m),line
 #13-b-1,complete,Tier II,UN Climate Change (UNFCCC Secretariat),True,,,,line
 #14-1-1,notstarted,Tier II,UN Environment (UNEP),,,,,line
-#14-2-1,complete,Tier II,UN Environment (UNEP),,,United Kingdom,Million hectares / Percentage (%),line
+#14-2-1,complete,Tier II,United Nations Environment Programme (UNEP),,,United Kingdom,Million hectares / Percentage (%),line
 #14-3-1,notstarted,Tier II,"Intergovernmental Oceanographic Commission of United Nations Educational, Scientific and Cultural Organization",,,,,line
 #14-4-1,complete,Tier I,Food and Agriculture Organization (FAO),,,United Kingdom,Percentage (%),line
 #14-5-1,complete,Tier I,"UN Environment World Conservation Monitoring Centre (UNEP-WCMC), BirdLife International (BLI), International Union for Conservation of Nature (IUCN)",,,United Kingdom,Million hectares / Percentage (%),line
@@ -76,7 +76,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #15-2-1,complete,Tier I,Food and Agriculture Organization (FAO),,,United Kingdom,"Hectares, Percentage (%), Growth rate (%)",line
 #15-3-1,notstarted,Tier I,United Nations Convention to Combat Desertification (UNCCD),,,,,line
 #15-4-1,notstarted,Tier I,"UN Environment (UNEP)-World Conservation Monitoring Centre (WCMC), UN Environment (UNEP)",,,,,line
-#15-4-2,complete,Tier I,Food and Agriculture Organization (FAO),,True,United Kingdom,"Square Km, Index",line
+#15-4-2,complete,Tier I,Food and Agriculture Organization (FAO),,,United Kingdom,"Square Km, Index",line
 #15-5-1,complete,Tier I,"International Union for Conservation of Nature (IUCN), BirdLife International (BLI)",,,United Kingdom,Red List Index,line
 #15-6-1,complete,Tier I,Convention on Biological Diversity (CBD) Secretariat,,,United Kingdom,Number,line
 #15-7-1,complete,Tier II,United Nations Office on Drugs and Crime (UNODC),,,United Kingdom,Number of seizures,line
@@ -88,7 +88,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #16-1-1,complete,Tier II,"United Nations Office on Drugs and Crime (UNODC), World Health Organization (WHO)",,True,England and Wales,"Rate per 100,000 population",line
 #16-1-2,complete,Tier II,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,United Kingdom,"Rate per 1,000,000 population",line
 #16-1-3,complete,Tier II,UNODC,,,England and Wales,Percentage (%),line
-#16-1-4,complete,Tier II,United Nations Office on Drugs and Crime (UNODC),,,England and Wales,Percentage (%),line
+#16-1-4,complete,Tier II,United Nations Office on Drugs and Crime (UNODC),,True,England and Wales,Percentage (%),line
 #16-10-1,notstarted,Tier II,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
 #16-10-2,complete,Tier I,"United Nations Educational, Scientific and Cultural Organization - Institute for Statistics (UNESCO-UIS)",True,,,,line
 #16-2-1,notstarted,Tier II,United Nations Children's Fund (UNICEFF),,,,,line
@@ -114,7 +114,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #17-10-1,complete,Tier I,"World Trade Organization (WTO), The International Trade Centre (ITC), United Nations Conference on Trade and Development (UNCTAD)",,,,Percentage,line
 #17-11-1,complete,Tier I,"World Trade Organization (WTO), The International Trade Centre (ITC), United Nations Conference on Trade and Development (UNCTAD)",,,United Kingdom,Percentage (%),line
 #17-12-1,complete,Tier I,"World Trade Organization (WTO), The International Trade Centre (ITC), United Nations Conference on Trade and Development (UNCTAD)",,,,Percentage,line
-#17-13-1,complete,Tier II,World Bank (WB),True,,UK,N/A,line
+#17-13-1,complete,Tier II,World Bank (WB),True,,United Kingdom,N/A,line
 #17-14-1,complete,Tier II,UN Environment (UNEP),,,United Kingdom,Percentage (%),bar
 #17-15-1,notstarted,Tier II,"Organisation for Economic Co-operation and Development (OECD), United Nations Development Programme (UNDP)",,,,,line
 #17-16-1,complete,Tier II,"Organisation for Economic Co-operation and Development (OECD), United Nations Development Programme (UNDP)",True,,United Kingdom,,line
@@ -125,12 +125,12 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #17-19-1,complete,Tier I,Partnership in Statistics for Development in the 21st Century (PARIS21),,,United Kingdom,"GBP, USD",line
 #17-19-2,complete,Tier I,"United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations",True,,United Kingdom,,line
 #17-2-1,complete,Tier I,Organisation for Economic Co-operation and Development (OECD),,,United Kingdom,Percentage (%),line
-#17-3-1,complete,"Tier I (FDI)/Tier II (ODA, SSC)","Organisation for Economic Co-operation and Development (OECD), United Nations Conference on Trade and Development (UNCTAD)",,,UK,Percent of GNI (%),line
+#17-3-1,complete,"Tier I (FDI)/Tier II (ODA, SSC)","Organisation for Economic Co-operation and Development (OECD), United Nations Conference on Trade and Development (UNCTAD)",,,United Kingdom,Percent of GNI (%),line
 #17-3-2,complete,Tier I,World Bank (WB),,,United Kingdom,Percentage (%),line
 #17-4-1,notstarted,Tier I,World Bank (WB),,,,,line
 #17-5-1,complete,Tier II,United Nations Conference on Trade and Development (UNCTAD),,,United Kingdom,Pounds (£Millions),line
 #17-6-1,complete,Tier I,International Telecommunication Union (ITU),,,United Kingdom,,line
-#17-7-1,notstarted,Tier II,UN Environment (UNEP)-Climate Technology Centre and Network (CTCN),,,,,
+#17-7-1,notstarted,Tier II,UN Environment (UNEP)-Climate Technology Centre and Network (CTCN),,,,,line
 #17-8-1,complete,Tier I,International Telecommunication Union (ITU),,True,United Kingdom,Percentage (%),line
 #17-9-1,complete,Tier I,"Organisation for Economic Co-operation and Development (OECD), United Nations Environment (UNEP), World Bank (WB)",,,United Kingdom,"GBP, USD at average 2020 rate",line
 #2-1-1,complete,Tier I,Food and Agriculture Organization (FAO),,,United Kingdom,Calories per day (kcal/day),line
@@ -148,9 +148,9 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #2-b-1,notstarted,Tier I,World Trade Organization (WTO),,,,,line
 #2-c-1,notstarted,Tier I,Food and Agriculture Organization (FAO),,,,,line
 #3-1-1,complete,Tier I,World Health Organisation (WHO),,,United Kingdom,"Rate per 100,000 maternities, Rate per 100,000 live births",line
-#3-1-2,complete,Tier I,United Nations Children's Fund (UNICEF),,,England and Wales,Percentage (%),line
+#3-1-2,complete,Tier I,United Nations Children's Fund (UNICEF),,True,England and Wales,Percentage (%),line
 #3-2-1,complete,Tier I,United Nations Children's Fund (UNICEFF),,,United Kingdom,"Rate per 1,000 live births",line
-#3-2-2,complete,Tier I,United Nations Children's Fund (UNICEF),,,United Kingdom,"Rate per 1,000 live births",line
+#3-2-2,complete,Tier I,United Nations Children's Fund (UNICEF),,True,United Kingdom,"Rate per 1,000 live births",line
 #3-3-1,complete,Tier I,The Joint United Nations Programme on HIV/AIDS (UNAIDS),,,United Kingdom,"Rate per 100,000 population",line
 #3-3-2,complete,Tier I,World Health Organisation (WHO),,,United Kingdom,"Rate per 100,000 population",line
 #3-3-3,complete,Tier I,World Health Organisation (WHO),,True,United Kingdom,"Rate per 100,000 population, Number of cases, Percentage of total cases",line
@@ -158,10 +158,10 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #3-3-5,complete,Tier I,World Health Organisation (WHO),,,United Kingdom,Number of cases,line
 #3-4-1,complete,Tier I,World Health Organisation (WHO),,,England and Wales,"Rate per 100,000 population",line
 #3-4-2,complete,Tier I,World Health Organisation (WHO),,,United Kingdom,"Rate per 100,000 population",line
-#3-5-1,complete,Tier II,"World Health Organisation (WHO), United Nations Office on Drugs and Crime (UNODC)",,,England,,line
+#3-5-1,complete,Tier II,"World Health Organisation (WHO), United Nations Office on Drugs and Crime (UNODC)",,,England,"Number, Percentage (%)",line
 #3-5-2,complete,Tier I,World Health Organisation (WHO),,,United Kingdom,Litres of pure alcohol,line
 #3-6-1,complete,Tier I,World Health Organisation (WHO),,,United Kingdom,"Rate per 100,000 population",line
-#3-7-1,complete,Tier I,United Nations Population Fund UNFPA,,,England,Percentage (%),line
+#3-7-1,complete,Tier I,United Nations Population Fund UNFPA,,True,England,Percentage (%),line
 #3-7-2,complete,Tier I,"Department of Economic and Social Affairs (DESA), United Nations Population Fund (UNFPA)",,,United Kingdom,"Birth rate per 1,000 women in age group",line
 #3-8-1,notstarted,Tier I,World Health Organisation (WHO),,,,,line
 #3-8-2,complete,Tier I,World Health Organisation (WHO),,,United Kingdom,GBP (£),line

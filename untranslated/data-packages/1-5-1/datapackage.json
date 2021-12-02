@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "England and Wales",
                 "England",
                 "Wales",
+                "England and Wales",
                 ""
               ]
             }
@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             }
@@ -42,16 +42,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Exposure to excessive natural heat",
                 "Exposure to excessive natural cold",
+                "Exposure to excessive natural heat",
+                "Exposure to other and unspecified forces of nature",
                 "Exposure to sunlight",
-                "Victim of lightning",
-                "Victim of earthquake",
-                "Victim of volcanic eruption",
                 "Victim of avalanche, landslide and other earth movements",
                 "Victim of cataclysmic storm",
+                "Victim of earthquake",
                 "Victim of flood",
-                "Exposure to other and unspecified forces of nature",
+                "Victim of lightning",
+                "Victim of volcanic eruption",
                 ""
               ]
             }
@@ -73,8 +73,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Rate per 100,000 population",
                 "Deaths",
+                "Rate per 100,000 population",
                 ""
               ]
             }

@@ -20,9 +20,9 @@
             "constraints": {
               "enum": [
                 "England",
-                "Wales",
                 "Northern Ireland",
                 "Scotland",
+                "Wales",
                 ""
               ]
             }
@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             }

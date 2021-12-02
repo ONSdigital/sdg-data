@@ -71,14 +71,23 @@
             "constraints": {
               "enum": [
                 "",
+                "Bangledeshi",
+                "Black African",
+                "Black Caribbean",
+                "Black Other",
+                "Chinese",
+                "East",
                 "East Midlands",
-                "East of England",
+                "Indian",
                 "London",
+                "Mixed/Other",
                 "North East",
                 "North West",
+                "Pakistani",
                 "South East",
                 "South West",
                 "West Midlands",
+                "White",
                 "Yorkshire and The Humber"
               ]
             },

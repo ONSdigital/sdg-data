@@ -199,6 +199,19 @@
             "title": "Local Authority"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Alcohol - Estimated prevalence",
+                "Alcohol - Met need",
+                "Alcohol - People in treatment"
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Unit measure",
             "type": "string",
             "title": "Unit measure"
@@ -214,9 +227,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Estimated prevalence",
-                "Met need (%)",
-                "Number of people in treatment"
+                "Number",
+                "Percentage (%)"
               ]
             },
             "title": "Units"

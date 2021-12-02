@@ -15,19 +15,32 @@
             "type": "integer"
           },
           {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "21 to 40",
+                "41 to 60",
+                "61 and over",
+                "20 and under",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "London",
+                "East",
                 "East Midlands",
-                "East of England",
+                "London",
+                "North East",
                 "North West",
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and the Humber",
-                "North East",
+                "Yorkshire and The Humber",
                 ""
               ]
             }
@@ -37,21 +50,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "20 and under",
-                "21 to 40",
-                "41 to 60",
-                "61 and over",
+                "Male",
                 ""
               ]
             }

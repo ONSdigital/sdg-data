@@ -28,7 +28,7 @@
             "title": "Age"
           },
           {
-            "name": "Disability Status",
+            "name": "Disability status",
             "type": "string",
             "constraints": {
               "enum": [
@@ -37,7 +37,7 @@
                 "Non-disabled (GSS harmonised)"
               ]
             },
-            "title": "Disability Status"
+            "title": "Disability status"
           },
           {
             "name": "Number of hours",
@@ -47,6 +47,7 @@
                 "",
                 "10 to 19 hours",
                 "2 to 4 hours",
+                "20 to 34  hours",
                 "20 to 34 hours",
                 "35 to 49 hours",
                 "5 to 9 hours",
@@ -55,6 +56,11 @@
               ]
             },
             "title": "Number of hours"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "Sex",
@@ -69,9 +75,15 @@
             "title": "Sex"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

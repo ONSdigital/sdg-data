@@ -27,32 +27,18 @@
             }
           },
           {
-            "name": "Region",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "East of England",
-                "East Midlands",
-                "London",
-                "North East",
-                "North West",
-                "South East",
-                "South West",
-                "West Midlands",
-                "Yorkshire and the Humber",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Type of disease",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Cancer",
-                "Diabetes",
-                "Cardiovascular disease",
-                "Chronic respiratory disease",
+                "30 to 34",
+                "35 to 39",
+                "40 to 44",
+                "45 to 49",
+                "50 to 54",
+                "55 to 59",
+                "60 to 64",
+                "65 to 69",
                 ""
               ]
             }
@@ -75,10 +61,30 @@
             }
           },
           {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "East",
+                "East Midlands",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
+                "Female",
+                "Male",
                 "Men",
                 "Women",
                 ""
@@ -86,18 +92,14 @@
             }
           },
           {
-            "name": "Age",
+            "name": "Type of disease",
             "type": "string",
             "constraints": {
               "enum": [
-                "30 to 34",
-                "35 to 39",
-                "40 to 44",
-                "45 to 49",
-                "50 to 54",
-                "55 to 59",
-                "60 to 64",
-                "65 to 69",
+                "Cancer",
+                "Diabetes",
+                "Cardiovascular disease",
+                "Chronic respiratory disease",
                 ""
               ]
             }

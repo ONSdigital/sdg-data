@@ -32,9 +32,9 @@
             "constraints": {
               "enum": [
                 "Biomass",
+                "Fossil fuels",
                 "Metal ores",
                 "Non-metallic minerals",
-                "Fossil fuels",
                 ""
               ]
             }

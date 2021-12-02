@@ -27,12 +27,39 @@
             }
           },
           {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country of birth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Born in Africa",
+                "Born in UK",
+                "Born in Indian subcontinent",
+                "Born in Europe (non-UK)",
+                "Other country of birth",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             }
@@ -62,48 +89,14 @@
             }
           },
           {
-            "name": "Country",
+            "name": "Ethnic Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "England",
-                "Scotland",
-                "Wales",
-                "Northern Ireland",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "London",
-                "South East",
-                "West Midlands",
-                "North West",
-                "East of England",
-                "Yorkshire and the Humber",
-                "South West",
-                "East Midlands",
-                "North East",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Malaria species",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "P. falciparum",
-                "P. vivax",
-                "P. ovale",
-                "P. malariae",
-                "P. knowlesi",
-                "Mixed",
-                "P. unspecified",
+                "White British",
+                "Indian/Pakistani/Bangladesh (ISC)/ISC descent",
+                "Black African/African descent",
+                "Other/Mixed",
                 ""
               ]
             }
@@ -120,28 +113,35 @@
             }
           },
           {
-            "name": "Country of birth",
+            "name": "Malaria species",
             "type": "string",
             "constraints": {
               "enum": [
-                "Born in Africa",
-                "Born in UK",
-                "Born in Indian subcontinent",
-                "Born in Europe (non-UK)",
-                "Other country of birth",
+                "P. falciparum",
+                "P. malariae",
+                "P. knowlesi",
+                "P. ovale",
+                "P. unspecified",
+                "P. vivax",
+                "Mixed",
                 ""
               ]
             }
           },
           {
-            "name": "Ethnic Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Black African/African descent",
-                "Indian/Pakistani/Bangladesh (ISC)/ISC descent",
-                "Other/Mixed",
-                "White British",
+                "East",
+                "East Midlands",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             }

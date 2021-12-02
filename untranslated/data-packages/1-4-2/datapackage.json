@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Perceived",
                 "Documented",
+                "Perceived",
                 ""
               ]
             }

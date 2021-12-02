@@ -75,15 +75,15 @@
             "constraints": {
               "enum": [
                 "",
+                "East",
                 "East Midlands",
-                "East of England",
                 "London",
                 "North East",
                 "North West",
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and the Humber"
+                "Yorkshire and The Humber"
               ]
             },
             "title": "Region"
@@ -94,6 +94,8 @@
             "constraints": {
               "enum": [
                 "",
+                "Female",
+                "Male",
                 "Men",
                 "Women"
               ]

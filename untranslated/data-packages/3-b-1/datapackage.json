@@ -23,18 +23,31 @@
                 "Pneumococcal disease (primary)",
                 "Rotavirus (primary)",
                 "Meningococcal group B (primary)",
-                "Meningococcal group C (primary)",
                 "Measles mumps rubella (first dose)",
                 "Hib Meningococcal group C (booster)",
                 "Pneumococcal disease (booster)",
                 "Diphtheria Tetanus Polio Pertussis (booster)",
                 "Measles mumps rubella (first and second dose)",
                 "Meningococcal group B (booster)",
+                "Meningococcal group C (primary)",
                 "Hib (primary)",
                 "Human papillomavirus (At least 1 dose)",
                 "Human papillomavirus (At least 2 doses)",
                 "Human papillomavirus (3 doses)",
                 "Human papillomavirus (2 doses)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
                 ""
               ]
             }
@@ -54,32 +67,19 @@
             }
           },
           {
-            "name": "Country",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "England",
-                "Wales",
-                "Scotland",
-                "Northern Ireland",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "East",
+                "East Midlands",
+                "London",
                 "North East",
                 "North West",
-                "Yorkshire and the Humber",
-                "East Midlands",
-                "West Midlands",
-                "East of England",
-                "London",
                 "South East",
                 "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             }

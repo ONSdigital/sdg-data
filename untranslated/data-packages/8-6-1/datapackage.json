@@ -19,6 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of youth not in education, employment or training (quarterly)",
                 "Proportion of youth not in education, employment or training",
                 ""
               ]

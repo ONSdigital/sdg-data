@@ -15,6 +15,16 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Energy intensity level of primary energy",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Industry sector",
             "type": "string",
             "constraints": {

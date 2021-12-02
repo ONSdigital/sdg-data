@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Hazardous waste generated (absolute number)",
                 "Hazardous waste generated (tonnes per capita)",
                 "Percentage of hazardous waste treated (%)",
-                "Hazardous waste generated (absolute number)",
                 ""
               ]
             }
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Deposit onto or into land",
                 "Energy recovery",
                 "Incineration",
-                "Recovery other than energy recovery - Except backfilling",
-                "Recovery other than energy recovery - Backfilling",
-                "Deposit onto or into land",
                 "Land treatment and release into water bodies",
+                "Recovery other than energy recovery - Backfilling",
+                "Recovery other than energy recovery - Except backfilling",
                 ""
               ]
             }
@@ -47,22 +47,22 @@
             "constraints": {
               "enum": [
                 "Agriculture, forestry and fishing",
-                "Mining and quarrying",
+                "Construction",
+                "Electricity, gas, steam and air conditioning supply",
+                "Households",
+                "Manufacture of basic metals and fabricated metal products, except machinery and equipment",
+                "Manufacture of chemical, pharmaceutical, rubber and plastic products",
+                "Manufacture of coke and refined petroleum products",
+                "Manufacture of computer, electronic and optical products, electrical equipment, motor vehicles and other transport equipment",
                 "Manufacture of food products, beverages and tobacco products",
+                "Manufacture of furniture, jewellery, musical instruments, toys, repair and installation or machinery and equipment",
+                "Manufacture of other non-metallic mineral products",
+                "Manufacture of paper and paper products, printing and reproduction or recorded media",
                 "Manufacture of textiles, wearing apparel, leather and related products",
                 "Manufacture of wood and of products of wood and cork, except furniture, manufacture of articles of straw and plaiting materials",
-                "Manufacture of paper and paper products, printing and reproduction or recorded media",
-                "Manufacture of coke and refined petroleum products",
-                "Manufacture of chemical, pharmaceutical, rubber and plastic products",
-                "Manufacture of other non-metallic mineral products",
-                "Manufacture of basic metals and fabricated metal products, except machinery and equipment",
-                "Manufacture of computer, electronic and optical products, electrical equipment, motor vehicles and other transport equipment",
-                "Manufacture of furniture, jewellery, musical instruments, toys, repair and installation or machinery and equipment",
-                "Electricity, gas, steam and air conditioning supply",
-                "Water collection, treatment and supply, sewerage, remediation activities and other waste management services",
-                "Construction",
+                "Mining and quarrying",
                 "Services (except wholesale of waste and scrap)",
-                "Households",
+                "Water collection, treatment and supply, sewerage, remediation activities and other waste management services",
                 ""
               ]
             }

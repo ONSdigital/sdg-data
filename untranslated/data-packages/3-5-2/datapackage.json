@@ -19,20 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total alcohol consumption per capita (aged 15 years and older) within a calendar year",
                 "Recorded alcohol consumption per capita (aged 15 years and older) within a calendar year",
+                "Total alcohol consumption per capita (aged 15 years and older) within a calendar year",
                 "Unrecorded alcohol consumption per capita (aged 15 years and older) within a calendar year",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
                 ""
               ]
             }
@@ -46,6 +35,17 @@
                 "Wine",
                 "Spirits",
                 "Other alcoholic beverages",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
                 ""
               ]
             }

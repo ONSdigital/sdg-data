@@ -19,17 +19,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "London",
-                "Outer London",
-                "Yorkshire and the Humber",
-                "South West",
-                "East of England",
-                "West Midlands",
-                "North West",
-                "South East",
-                "Inner London",
-                "North East",
                 "East Midlands",
+                "East of England",
+                "Inner London",
+                "London",
+                "North East",
+                "North West",
+                "Outer London",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             }
@@ -55,7 +55,7 @@
                 "Bradford",
                 "Brent",
                 "Brighton and Hove",
-                "Bristol",
+                "Bristol, City of",
                 "Bromley",
                 "Buckinghamshire",
                 "Bury",
@@ -103,7 +103,7 @@
                 "Islington",
                 "Kensington and Chelsea",
                 "Kent",
-                "Kingston upon Hull",
+                "Kingston upon Hull, City of",
                 "Kingston upon Thames",
                 "Kirklees",
                 "Knowsley",
@@ -215,7 +215,7 @@
                 "White",
                 "Mixed",
                 "Asian",
-                "Black",
+                "Black/African/Caribbean/Black British",
                 "Chinese",
                 "Any other ethnic group",
                 ""
@@ -286,12 +286,12 @@
             "constraints": {
               "enum": [
                 "Communication and Language",
+                "Personal, Social and Emotional Development",
+                "Physical Development",
+                "Expressive arts and design",
                 "Literacy",
                 "Mathematics",
                 "Understanding the world",
-                "Expressive arts and design",
-                "Physical Development",
-                "Personal, Social and Emotional Development",
                 ""
               ]
             }
@@ -301,23 +301,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1: Listening and Attention",
-                "10: Writing",
-                "11: Numbers",
-                "12: Shape, space and measures",
-                "13: People and communities",
-                "14: The World",
-                "15: Technology",
-                "16: Exploring and using media and materials",
-                "17: Being imaginative",
-                "2: Understanding",
-                "3: Speaking",
-                "4: Moving and Handling",
-                "5: Health and Self-Care",
-                "6: Self-confidence and Self-awareness",
-                "7: Managing feelings and behaviour",
-                "8: Making relationships",
-                "9: Reading",
+                "Listening and Attention",
+                "Speaking",
+                "Understanding",
+                "Making relationships",
+                "Managing feelings and behaviour",
+                "Self-confidence and Self-awareness",
+                "Health and Self-Care",
+                "Moving and Handling",
+                "Being imaginative",
+                "Exploring and using media and materials",
+                "Reading",
+                "Writing",
+                "Numbers",
+                "Shape, space and measures",
+                "People and communities",
+                "Technology",
+                "The World",
                 ""
               ]
             }

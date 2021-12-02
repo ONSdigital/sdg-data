@@ -50,13 +50,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Wind",
-                "Wave and tidal",
-                "Solar PV",
                 "Hydro",
                 "Landfill gas",
-                "Sewage gas",
                 "Other bioenergy",
+                "Sewage gas",
+                "Solar PV",
+                "Wave and tidal",
+                "Wind",
                 ""
               ]
             }

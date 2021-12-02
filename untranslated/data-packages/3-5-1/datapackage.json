@@ -15,13 +15,24 @@
             "type": "string"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alcohol - Estimated prevalence",
+                "Alcohol - Met need",
+                "Alcohol - People in treatment",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Estimated prevalence",
-                "Met need (%)",
-                "Number of people in treatment",
+                "Number",
+                "Percentage (%)",
                 ""
               ]
             }

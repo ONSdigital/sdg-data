@@ -15,16 +15,22 @@
             "type": "integer"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            }
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             }
@@ -46,7 +52,7 @@
             }
           },
           {
-            "name": "Disability Status",
+            "name": "Disability status",
             "type": "string",
             "constraints": {
               "enum": [
@@ -61,16 +67,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Less than 2 hours",
-                "2 to 4 hours",
-                "5 to 9 hours",
                 "10 to 19 hours",
+                "2 to 4 hours",
+                "20 to 34  hours",
                 "20 to 34 hours",
                 "35 to 49 hours",
+                "5 to 9 hours",
                 "50 or more hours",
+                "Less than 2 hours",
                 ""
               ]
             }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
           },
           {
             "name": "Value",

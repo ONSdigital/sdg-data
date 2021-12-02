@@ -28,17 +28,6 @@
             }
           },
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Men",
-                "Women",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Age",
             "type": "string",
             "constraints": {
@@ -55,15 +44,12 @@
             }
           },
           {
-            "name": "Ethnicity",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "White",
-                "Mixed/multiple ethnic groups",
-                "Asian/Asian British",
-                "Black/African/Caribbean/Black British",
-                "Other ethnic group",
+                "Men",
+                "Women",
                 ""
               ]
             }
@@ -77,6 +63,20 @@
                 "Long-term health condition",
                 "Long-term health condition - Does not limit activities",
                 "No long-term health condition",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "White",
+                "Mixed/multiple ethnic groups",
+                "Asian/Asian British",
+                "Black/African/Caribbean/Black British",
+                "Other ethnic group",
                 ""
               ]
             }

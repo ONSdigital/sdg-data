@@ -44,7 +44,7 @@
                 "",
                 "Any other ethnic group",
                 "Asian",
-                "Black",
+                "Black/African/Caribbean/Black British",
                 "Chinese",
                 "Mixed",
                 "White"
@@ -116,23 +116,23 @@
             "constraints": {
               "enum": [
                 "",
-                "10: Writing",
-                "11: Numbers",
-                "12: Shape, space and measures",
-                "13: People and communities",
-                "14: The World",
-                "15: Technology",
-                "16: Exploring and using media and materials",
-                "17: Being imaginative",
-                "1: Listening and Attention",
-                "2: Understanding",
-                "3: Speaking",
-                "4: Moving and Handling",
-                "5: Health and Self-Care",
-                "6: Self-confidence and Self-awareness",
-                "7: Managing feelings and behaviour",
-                "8: Making relationships",
-                "9: Reading"
+                "Being imaginative",
+                "Exploring and using media and materials",
+                "Health and Self-Care",
+                "Listening and Attention",
+                "Making relationships",
+                "Managing feelings and behaviour",
+                "Moving and Handling",
+                "Numbers",
+                "People and communities",
+                "Reading",
+                "Self-confidence and Self-awareness",
+                "Shape, space and measures",
+                "Speaking",
+                "Technology",
+                "The World",
+                "Understanding",
+                "Writing"
               ]
             },
             "title": "Learning sub-category (lower)"
@@ -159,7 +159,7 @@
                 "Bradford",
                 "Brent",
                 "Brighton and Hove",
-                "Bristol",
+                "Bristol, City of",
                 "Bromley",
                 "Buckinghamshire",
                 "Bury",
@@ -207,7 +207,7 @@
                 "Islington",
                 "Kensington and Chelsea",
                 "Kent",
-                "Kingston upon Hull",
+                "Kingston upon Hull, City of",
                 "Kingston upon Thames",
                 "Kirklees",
                 "Knowsley",
@@ -321,7 +321,7 @@
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and the Humber"
+                "Yorkshire and The Humber"
               ]
             },
             "title": "Region"

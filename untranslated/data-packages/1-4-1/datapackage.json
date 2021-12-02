@@ -26,7 +26,15 @@
             }
           },
           {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
             "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
             "type": "string"
           },
           {

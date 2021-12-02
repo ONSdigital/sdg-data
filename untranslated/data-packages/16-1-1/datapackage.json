@@ -60,15 +60,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "South West",
                 "East",
-                "North West",
+                "East Midlands",
                 "London",
                 "North East",
-                "East Midlands",
+                "North West",
                 "South East",
-                "Yorkshire and The Humber",
+                "South West",
                 "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             }
