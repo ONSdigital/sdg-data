@@ -12,20 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Sex",
+            "name": "Food security level",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Low",
+                "Very low",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Food security level"
           },
           {
             "name": "Age",
@@ -36,13 +36,27 @@
                 "25 to 34",
                 "35 to 44",
                 "45 to 54",
-                "55 to 64",
+                "55 to 59",
+                "60 to 64",
                 "65 to 74",
-                "75 and over",
+                "75 to 84",
+                "85 or over",
                 ""
               ]
             },
             "title": "Age"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Working age",
+                "State Pension age",
+                ""
+              ]
+            },
+            "title": "Age group"
           },
           {
             "name": "Country",
@@ -50,91 +64,223 @@
             "constraints": {
               "enum": [
                 "England",
-                "Wales",
+                "Great Britain",
                 "Northern Ireland",
+                "Scotland",
+                "Wales",
                 ""
               ]
             },
             "title": "Country"
           },
           {
-            "name": "Household size",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "1",
-                "2",
-                "3",
-                "4",
-                "5 or more",
+                "East",
+                "East Midlands",
+                "Inner London",
+                "London",
+                "North East",
+                "North West",
+                "Outer London",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             },
-            "title": "Household size"
+            "title": "Region"
           },
           {
-            "name": "Children under 16 in the household",
+            "name": "Ethnic group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Yes",
-                "No",
+                "White",
+                "Mixed/multiple ethnic groups",
+                "Asian/Asian British",
+                "Black/African/Caribbean/Black British",
+                "Other ethnic group",
                 ""
               ]
             },
-            "title": "Children under 16 in the household"
+            "title": "Ethnic group"
           },
           {
-            "name": "Children under 6 in the household",
+            "name": "Ethnicity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Yes",
-                "No",
+                "Indian",
+                "Pakistani",
+                "Bangladeshi",
+                "Chinese",
+                "Any other Asian background",
                 ""
               ]
             },
-            "title": "Children under 6 in the household"
+            "title": "Ethnicity"
           },
           {
-            "name": "Working Status",
+            "name": "Highest qualification",
             "type": "string",
             "constraints": {
               "enum": [
-                "In work",
-                "Retired",
-                "Unemployed",
-                "Other",
+                "Entry level",
+                "Level 1",
+                "Level 2",
+                "Level 3",
+                "Level 4 or higher",
+                "Other qualification",
+                "No reported qualifications",
                 ""
               ]
             },
-            "title": "Working Status"
+            "title": "Highest qualification"
           },
           {
-            "name": "Household income",
+            "name": "Household composition - children",
             "type": "string",
             "constraints": {
               "enum": [
-                "£10,399 or less",
-                "£10,400 to £25,999",
-                "£26,000 to £51,999",
-                "£52,000 or more",
+                "without children",
+                "with children",
                 ""
               ]
             },
-            "title": "Household income"
+            "title": "Household composition - children"
           },
           {
-            "name": "Food insecurity category",
+            "name": "Number of adults",
             "type": "string",
             "constraints": {
               "enum": [
-                "Low or very low food security",
-                "Very low food security",
+                "One adult",
+                "Two adults",
+                "Three or more adults",
                 ""
               ]
             },
-            "title": "Food insecurity category"
+            "title": "Number of adults"
+          },
+          {
+            "name": "Number of children",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "one child",
+                "two children",
+                "three or more children",
+                ""
+              ]
+            },
+            "title": "Number of children"
+          },
+          {
+            "name": "Household composition - adults over State Pension age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "One or more adults over State Pension age",
+                ""
+              ]
+            },
+            "title": "Household composition - adults over State Pension age"
+          },
+          {
+            "name": "Household composition - disabled adults",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "No disabled adults",
+                "One or more disabled adults",
+                "One or more disabled adults under State Pension age",
+                ""
+              ]
+            },
+            "title": "Household composition - disabled adults"
+          },
+          {
+            "name": "Household composition - unemployed adults",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "One or more unemployed adults under State Pension age",
+                ""
+              ]
+            },
+            "title": "Household composition - unemployed adults"
+          },
+          {
+            "name": "State support",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "In receipt of state support (benefit and/or Tax Credits)",
+                "In receipt of benefit",
+                "In receipt of Tax Credits",
+                ""
+              ]
+            },
+            "title": "State support"
+          },
+          {
+            "name": "State support detail",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Income-related benefit",
+                "Non-income-related benefit",
+                "Working Tax Credit",
+                "Child Tax Credit",
+                ""
+              ]
+            },
+            "title": "State support detail"
+          },
+          {
+            "name": "Total gross weekly income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Less than £200",
+                "£200 but less than £400",
+                "£400 but less than £600",
+                "£600 but less than £800",
+                "£800 but less than £1,000",
+                "£1,000 or more",
+                ""
+              ]
+            },
+            "title": "Total gross weekly income"
+          },
+          {
+            "name": "Tenure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Occupier owned",
+                "Social rented",
+                "Private rented",
+                ""
+              ]
+            },
+            "title": "Tenure"
+          },
+          {
+            "name": "Tenure sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Owned outright",
+                "Buying with a mortgage",
+                ""
+              ]
+            },
+            "title": "Tenure sub-category"
           },
           {
             "name": "Observation status",
@@ -142,14 +288,15 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit multiplier",
+            "name": "Units",
             "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "GeoCode",

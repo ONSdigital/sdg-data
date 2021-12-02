@@ -61,7 +61,7 @@ Indicator,Disaggregations,Number of disaggregations
 #17-8-1,"Age, Sex, Region, Employment status, Disability status, Ethnicity, Ethnic group, Local Authority",8
 #17-9-1,Country income classification,1
 #2-1-1,"Age, Sex, Measure",3
-#2-1-2,"Age, Sex, Household income, Country, Household size, Children under 16 in the household, Children under 6 in the household, Working Status, Food insecurity category",9
+#2-1-2,"Age, Region, Highest qualification, Country, Ethnicity, Ethnic group, Food security level, Age group, Household composition - children, Number of adults, Number of children, Household composition - adults over State Pension age, Household composition - disabled adults, Household composition - unemployed adults, State support, State support detail, Total gross weekly income, Tenure, Tenure sub-category",19
 #2-2-2,"Sex, Country, Ethnicity, BMI",4
 #2-3-1,"Productivity, Outputs, Inputs",3
 #2-3-2,Sex,1
@@ -83,7 +83,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-6-1,"Age, Sex, Region, Country",4
 #3-7-1,"Age, Region, Local Authority, Contraceptive method, Types of contraception",5
 #3-7-2,"Age, Country",2
-#3-8-2,"Age, Health product or service, Health product or service category, Health product or service sub-category, Tenure category, Tenure sub-category, Occupation category",7
+#3-8-2,"Age, Tenure sub-category, Health product or service, Health product or service category, Health product or service sub-category, Tenure category, Occupation category",7
 #3-9-1,"Region, Local Authority, County",3
 #3-9-2,"Sex, Country",2
 #3-9-3,"Age, Sex, Region, Country, Unintentional poisoning category",5

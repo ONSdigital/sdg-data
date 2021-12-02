@@ -12,15 +12,15 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Sex",
+            "name": "Food security level",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Low",
+                "Very low",
                 ""
               ]
             }
@@ -34,9 +34,22 @@
                 "25 to 34",
                 "35 to 44",
                 "45 to 54",
-                "55 to 64",
+                "55 to 59",
+                "60 to 64",
                 "65 to 74",
-                "75 and over",
+                "75 to 84",
+                "85 or over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Working age",
+                "State Pension age",
                 ""
               ]
             }
@@ -47,81 +60,204 @@
             "constraints": {
               "enum": [
                 "England",
-                "Wales",
+                "Great Britain",
                 "Northern Ireland",
+                "Scotland",
+                "Wales",
                 ""
               ]
             }
           },
           {
-            "name": "Household size",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "1",
-                "2",
-                "3",
-                "4",
-                "5 or more",
+                "East",
+                "East Midlands",
+                "Inner London",
+                "London",
+                "North East",
+                "North West",
+                "Outer London",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             }
           },
           {
-            "name": "Children under 16 in the household",
+            "name": "Ethnic group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Yes",
-                "No",
+                "White",
+                "Mixed/multiple ethnic groups",
+                "Asian/Asian British",
+                "Black/African/Caribbean/Black British",
+                "Other ethnic group",
                 ""
               ]
             }
           },
           {
-            "name": "Children under 6 in the household",
+            "name": "Ethnicity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Yes",
-                "No",
+                "Indian",
+                "Pakistani",
+                "Bangladeshi",
+                "Chinese",
+                "Any other Asian background",
                 ""
               ]
             }
           },
           {
-            "name": "Working Status",
+            "name": "Highest qualification",
             "type": "string",
             "constraints": {
               "enum": [
-                "In work",
-                "Retired",
-                "Unemployed",
-                "Other",
+                "Entry level",
+                "Level 1",
+                "Level 2",
+                "Level 3",
+                "Level 4 or higher",
+                "Other qualification",
+                "No reported qualifications",
                 ""
               ]
             }
           },
           {
-            "name": "Household income",
+            "name": "Household composition - children",
             "type": "string",
             "constraints": {
               "enum": [
-                "£10,399 or less",
-                "£10,400 to £25,999",
-                "£26,000 to £51,999",
-                "£52,000 or more",
+                "without children",
+                "with children",
                 ""
               ]
             }
           },
           {
-            "name": "Food insecurity category",
+            "name": "Number of adults",
             "type": "string",
             "constraints": {
               "enum": [
-                "Low or very low food security",
-                "Very low food security",
+                "One adult",
+                "Two adults",
+                "Three or more adults",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Number of children",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "one child",
+                "two children",
+                "three or more children",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Household composition - adults over State Pension age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "One or more adults over State Pension age",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Household composition - disabled adults",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "No disabled adults",
+                "One or more disabled adults",
+                "One or more disabled adults under State Pension age",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Household composition - unemployed adults",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "One or more unemployed adults under State Pension age",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "State support",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "In receipt of state support (benefit and/or Tax Credits)",
+                "In receipt of benefit",
+                "In receipt of Tax Credits",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "State support detail",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Income-related benefit",
+                "Non-income-related benefit",
+                "Working Tax Credit",
+                "Child Tax Credit",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Total gross weekly income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Less than £200",
+                "£200 but less than £400",
+                "£400 but less than £600",
+                "£600 but less than £800",
+                "£800 but less than £1,000",
+                "£1,000 or more",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Tenure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Occupier owned",
+                "Social rented",
+                "Private rented",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Tenure sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Owned outright",
+                "Buying with a mortgage",
                 ""
               ]
             }
@@ -131,12 +267,14 @@
             "type": "string"
           },
           {
-            "name": "Unit multiplier",
-            "type": "string"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
