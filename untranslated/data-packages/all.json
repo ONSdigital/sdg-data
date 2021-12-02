@@ -14866,6 +14866,88 @@
         "fields": [
           {
             "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "East",
+                "East Midlands",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ecosystem type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Arable",
+                "Broadleaf woodland",
+                "Built-up areas and gardens",
+                "Coastal",
+                "Coniferous woodland",
+                "Improved grassland",
+                "Mountain, heath, bog",
+                "Saltwater",
+                "Semi-natural grassland",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average proportion of terrestrial Key Biodiversity Areas (KBAs) covered by protected areas",
+                "Average proportion of freshwater Key Biodiversity Areas (KBAs) covered by protected areas",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
             "type": "string"
           },
           {
