@@ -1362,6 +1362,17 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average of 13 International Health Regulations (IHR) core capacities",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "IHR core capacity",
             "type": "string",
             "constraints": {
@@ -1395,9 +1406,15 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
