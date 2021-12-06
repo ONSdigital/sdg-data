@@ -639,16 +639,16 @@
             "title": "Year"
           },
           {
-            "name": "Income/expenditure",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Income",
-                "Expenditure",
+                "Growth rates of household income per capita",
+                "Growth rates of household expenditure per capita",
                 ""
               ]
             },
-            "title": "Income/expenditure"
+            "title": "Series"
           },
           {
             "name": "Income group",
@@ -672,9 +672,15 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
