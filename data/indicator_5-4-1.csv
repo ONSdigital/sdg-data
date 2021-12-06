@@ -1,76 +1,76 @@
-Year,Unit measure,Sex,Age,Disability Status,Number of hours,Value
-2021,percentage,,,,Less than 2 hours,35.0
-2021,percentage,,,,2 to 4 hours,21.0
-2021,percentage,,,,5 to 9 hours,13.0
-2021,percentage,,,,10 to 19 hours,9.0
-2021,percentage,,,,20 to 34 hours,5.0
-2021,percentage,,,,35 to 49 hours,5.0
-2021,percentage,,,,50 or more hours,11.0
-2021,percentage,Male,,,Less than 2 hours,34.0
-2021,percentage,Male,,,2 to 4 hours,23.0
-2021,percentage,Male,,,5 to 9 hours,13.0
-2021,percentage,Male,,,10 to 19 hours,8.0
-2021,percentage,Male,,,20 to 34 hours,6.0
-2021,percentage,Male,,,35 to 49 hours,5.0
-2021,percentage,Male,,,50 or more hours,10.0
-2021,percentage,Female,,,Less than 2 hours,36.0
-2021,percentage,Female,,,2 to 4 hours,19.0
-2021,percentage,Female,,,5 to 9 hours,13.0
-2021,percentage,Female,,,10 to 19 hours,10.0
-2021,percentage,Female,,,20 to 34 hours,5.0
-2021,percentage,Female,,,35 to 49 hours,5.0
-2021,percentage,Female,,,50 or more hours,12.0
-2021,percentage,,,Disabled (GSS harmonised),,32.0
-2021,percentage,,,Non-disabled (GSS harmonised),,68.0
-2021,percentage,,,Disabled (GSS harmonised),Less than 2 hours,26.0
-2021,percentage,,,Disabled (GSS harmonised),2 to 4 hours,32.0
-2021,percentage,,,Disabled (GSS harmonised),5 to 9 hours,35.0
-2021,percentage,,,Disabled (GSS harmonised),10 to 19 hours,31.0
-2021,percentage,,,Disabled (GSS harmonised),20 to 34 hours,35.0
-2021,percentage,,,Disabled (GSS harmonised),35 to 49 hours,42.0
-2021,percentage,,,Disabled (GSS harmonised),50 or more hours,48.0
-2021,percentage,,,Non-disabled (GSS harmonised),Less than 2 hours,74.0
-2021,percentage,,,Non-disabled (GSS harmonised),2 to 4 hours,68.0
-2021,percentage,,,Non-disabled (GSS harmonised),5 to 9 hours,65.0
-2021,percentage,,,Non-disabled (GSS harmonised),10 to 19 hours,69.0
-2021,percentage,,,Non-disabled (GSS harmonised),20 to 34 hours,65.0
-2021,percentage,,,Non-disabled (GSS harmonised),35 to 49 hours,58.0
-2021,percentage,,,Non-disabled (GSS harmonised),50 or more hours,52.0
-2021,percentage,,16 to 24,Disabled (GSS harmonised),,32.0
-2021,percentage,,25 to 34,Disabled (GSS harmonised),,36.0
-2021,percentage,,35 to 44,Disabled (GSS harmonised),,23.0
-2021,percentage,,45 to 54,Disabled (GSS harmonised),,32.0
-2021,percentage,,55 to 64,Disabled (GSS harmonised),,27.0
-2021,percentage,,65 to 74,Disabled (GSS harmonised),,38.0
-2021,percentage,,75 and over,Disabled (GSS harmonised),,49.0
-2021,percentage,,16 to 24,Non-disabled (GSS harmonised),,68.0
-2021,percentage,,25 to 34,Non-disabled (GSS harmonised),,64.0
-2021,percentage,,35 to 44,Non-disabled (GSS harmonised),,77.0
-2021,percentage,,45 to 54,Non-disabled (GSS harmonised),,68.0
-2021,percentage,,55 to 64,Non-disabled (GSS harmonised),,73.0
-2021,percentage,,65 to 74,Non-disabled (GSS harmonised),,62.0
-2021,percentage,,75 and over,Non-disabled (GSS harmonised),,51.0
-2021,percentage,Male,16 to 24,,,48.0
-2021,percentage,Male,25 to 34,,,40.0
-2021,percentage,Male,35 to 44,,,47.0
-2021,percentage,Male,45 to 54,,,39.0
-2021,percentage,Male,55 to 64,,,39.0
-2021,percentage,Male,65 to 74,,,47.0
-2021,percentage,Male,75 and over,,,44.0
-2021,percentage,Female,16 to 24,,,52.0
-2021,percentage,Female,25 to 34,,,60.0
-2021,percentage,Female,35 to 44,,,53.0
-2021,percentage,Female,45 to 54,,,61.0
-2021,percentage,Female,55 to 64,,,61.0
-2021,percentage,Female,65 to 74,,,53.0
-2021,percentage,Female,75 and over,,,56.0
-2021,percentage,Male,,,,43.0
-2021,percentage,Female,,,,57.0
-2021,percentage,,16 to 24,,,7.0
-2021,percentage,,25 to 34,,,9.0
-2021,percentage,,35 to 44,,,16.0
-2021,percentage,,45 to 54,,,20.0
-2021,percentage,,55 to 64,,,24.0
-2021,percentage,,65 to 74,,,13.0
-2021,percentage,,75 and over,,,10.0
-2021,percentage,,,,,17.0
+Year,Units,Sex,Age,Disability status,Number of hours,Observation status,Value
+2021,Percentage,,,Disabled (GSS harmonised),10 to 19 hours,Normal value,31.0
+2021,Percentage,,,Non-disabled (GSS harmonised),10 to 19 hours,Normal value,69.0
+2021,Percentage,Female,,,10 to 19 hours,Normal value,10.0
+2021,Percentage,Male,,,10 to 19 hours,Normal value,8.0
+2021,Percentage,,,,10 to 19 hours,Normal value,9.0
+2021,Percentage,,,Disabled (GSS harmonised),2 to 4 hours,Normal value,32.0
+2021,Percentage,,,Non-disabled (GSS harmonised),2 to 4 hours,Normal value,68.0
+2021,Percentage,Female,,,2 to 4 hours,Normal value,19.0
+2021,Percentage,Male,,,2 to 4 hours,Normal value,23.0
+2021,Percentage,,,,2 to 4 hours,Normal value,21.0
+2021,Percentage,,,Disabled (GSS harmonised),20 to 34  hours,Normal value,35.0
+2021,Percentage,,,Non-disabled (GSS harmonised),20 to 34 hours,Normal value,65.0
+2021,Percentage,Female,,,20 to 34 hours,Normal value,5.0
+2021,Percentage,Male,,,20 to 34 hours,Normal value,6.0
+2021,Percentage,,,,20 to 34 hours,Normal value,5.0
+2021,Percentage,,,Disabled (GSS harmonised),35 to 49 hours,Normal value,42.0
+2021,Percentage,,,Non-disabled (GSS harmonised),35 to 49 hours,Normal value,58.0
+2021,Percentage,Female,,,35 to 49 hours,Normal value,5.0
+2021,Percentage,Male,,,35 to 49 hours,Normal value,5.0
+2021,Percentage,,,,35 to 49 hours,Normal value,5.0
+2021,Percentage,,,Disabled (GSS harmonised),5 to 9 hours,Normal value,35.0
+2021,Percentage,,,Non-disabled (GSS harmonised),5 to 9 hours,Normal value,65.0
+2021,Percentage,Female,,,5 to 9 hours,Normal value,13.0
+2021,Percentage,Male,,,5 to 9 hours,Normal value,13.0
+2021,Percentage,,,,5 to 9 hours,Normal value,13.0
+2021,Percentage,,,Disabled (GSS harmonised),50 or more hours,Normal value,48.0
+2021,Percentage,,,Non-disabled (GSS harmonised),50 or more hours,Normal value,52.0
+2021,Percentage,Male,,,50 or more hours,Normal value,10.0
+2021,Percentage,,,,50 or more hours,Normal value,11.0
+2021,Percentage,Female,,,50 or more hours,Normal value,12.0
+2021,Percentage,,,Disabled (GSS harmonised),Less than 2 hours,Normal value,26.0
+2021,Percentage,,,Non-disabled (GSS harmonised),Less than 2 hours,Normal value,74.0
+2021,Percentage,Female,,,Less than 2 hours,Normal value,36.0
+2021,Percentage,Male,,,Less than 2 hours,Normal value,34.0
+2021,Percentage,,,,Less than 2 hours,Normal value,35.0
+2021,Percentage,,16 to 24,Disabled (GSS harmonised),,Normal value,32.0
+2021,Percentage,,25 to 34,Disabled (GSS harmonised),,Normal value,36.0
+2021,Percentage,,35 to 44,Disabled (GSS harmonised),,Normal value,23.0
+2021,Percentage,,45 to 54,Disabled (GSS harmonised),,Normal value,32.0
+2021,Percentage,,55 to 64,Disabled (GSS harmonised),,Normal value,27.0
+2021,Percentage,,65 to 74,Disabled (GSS harmonised),,Normal value,38.0
+2021,Percentage,,75 and over,Disabled (GSS harmonised),,Normal value,49.0
+2021,Percentage,,,Disabled (GSS harmonised),,Normal value,32.0
+2021,Percentage,,16 to 24,Non-disabled (GSS harmonised),,Normal value,68.0
+2021,Percentage,,25 to 34,Non-disabled (GSS harmonised),,Normal value,64.0
+2021,Percentage,,35 to 44,Non-disabled (GSS harmonised),,Normal value,77.0
+2021,Percentage,,45 to 54,Non-disabled (GSS harmonised),,Normal value,68.0
+2021,Percentage,,55 to 64,Non-disabled (GSS harmonised),,Normal value,73.0
+2021,Percentage,,65 to 74,Non-disabled (GSS harmonised),,Normal value,62.0
+2021,Percentage,,75 and over,Non-disabled (GSS harmonised),,Normal value,51.0
+2021,Percentage,,,Non-disabled (GSS harmonised),,Normal value,68.0
+2021,Percentage,Female,16 to 24,,,Normal value,52.0
+2021,Percentage,Male,16 to 24,,,Normal value,48.0
+2021,Percentage,,16 to 24,,,Normal value,7.0
+2021,Percentage,,25 to 34,,,Normal value,9.0
+2021,Percentage,Female,25 to 34,,,Normal value,60.0
+2021,Percentage,Male,25 to 34,,,Normal value,40.0
+2021,Percentage,Female,35 to 44,,,Normal value,53.0
+2021,Percentage,Male,35 to 44,,,Normal value,47.0
+2021,Percentage,,35 to 44,,,Normal value,16.0
+2021,Percentage,Female,45 to 54,,,Normal value,61.0
+2021,Percentage,Male,45 to 54,,,Normal value,39.0
+2021,Percentage,,45 to 54,,,Normal value,20.0
+2021,Percentage,Female,55 to 64,,,Normal value,61.0
+2021,Percentage,Male,55 to 64,,,Normal value,39.0
+2021,Percentage,,55 to 64,,,Normal value,24.0
+2021,Percentage,Female,65 to 74,,,Normal value,53.0
+2021,Percentage,Male,65 to 74,,,Normal value,47.0
+2021,Percentage,,65 to 74,,,Normal value,13.0
+2021,Percentage,Female,75 and over,,,Normal value,56.0
+2021,Percentage,Male,75 and over,,,Normal value,44.0
+2021,Percentage,,75 and over,,,Normal value,10.0
+2021,Percentage,Female,,,,Normal value,57.0
+2021,Percentage,Male,,,,Normal value,43.0
+2021,Percentage,,,,,Normal value,17.0

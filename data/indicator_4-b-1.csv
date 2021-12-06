@@ -1,26 +1,122 @@
-Year,Flow of Official Development Assistance (ODA),Unit measure,Unit multiplier,Observation status,Value
-2010,,GBP (£),Thousands,Undefined,95949.6508003
-2011,,GBP (£),Thousands,Undefined,72678.00437849708
-2012,,GBP (£),Thousands,Undefined,87684.06863128021
-2013,,GBP (£),Thousands,Undefined,116742.79443489837
-2014,,GBP (£),Thousands,Undefined,114929.42927026584
-2015,,GBP (£),Thousands,Undefined,159683.70607039524
-2016,,GBP (£),Thousands,Undefined,154847.00151382477
-2017,,GBP (£),Thousands,Undefined,153418.8620016522
-2009,Bilateral,GBP (£),Thousands,Undefined,36920.49000000001
-2010,Bilateral,GBP (£),Thousands,Undefined,59094.60585999998
-2011,Bilateral,GBP (£),Thousands,Undefined,47196.208557999955
-2012,Bilateral,GBP (£),Thousands,Undefined,55339.385562
-2013,Bilateral,GBP (£),Thousands,Undefined,75738.98788160701
-2014,Bilateral,GBP (£),Thousands,Undefined,74854.59222000004
-2015,Bilateral,GBP (£),Thousands,Undefined,121959.69717400002
-2016,Bilateral,GBP (£),Thousands,Undefined,112284.79866256593
-2017,Bilateral,GBP (£),Thousands,Undefined,110433.98543549996
-2010,Multilateral,GBP (£),Thousands,Undefined,36855.04494033752
-2011,Multilateral,GBP (£),Thousands,Undefined,25481.795820497122
-2012,Multilateral,GBP (£),Thousands,Undefined,32344.683069280214
-2013,Multilateral,GBP (£),Thousands,Undefined,41003.80655329136
-2014,Multilateral,GBP (£),Thousands,Undefined,40074.83705026581
-2015,Multilateral,GBP (£),Thousands,Undefined,37724.00889639522
-2016,Multilateral,GBP (£),Thousands,Undefined,42562.20285125884
-2017,Multilateral,GBP (£),Thousands,Undefined,42984.876566152234
+Year,Series,Sector,Type of study,Country income classification,Units,Unit multiplier,Observation status,Value
+2009,"Total official flows for scholarships, by recipient countries",,,,GBP (£ thousands),Thousands,Normal value,15458.77
+2010,"Total official flows for scholarships, by recipient countries",,,,GBP (£ thousands),Thousands,Normal value,12554.15
+2011,"Total official flows for scholarships, by recipient countries",,,,GBP (£ thousands),Thousands,Normal value,8557.21
+2012,"Total official flows for scholarships, by recipient countries",,,,GBP (£ thousands),Thousands,Normal value,21928.49
+2013,"Total official flows for scholarships, by recipient countries",,,,GBP (£ thousands),Thousands,Normal value,16979.52
+2014,"Total official flows for scholarships, by recipient countries",,,,GBP (£ thousands),Thousands,Normal value,18372.0
+2015,"Total official flows for scholarships, by recipient countries",,,,GBP (£ thousands),Thousands,Normal value,70076.54
+2016,"Total official flows for scholarships, by recipient countries",,,,GBP (£ thousands),Thousands,Normal value,92909.42
+2017,"Total official flows for scholarships, by recipient countries",,,,GBP (£ thousands),Thousands,Normal value,94532.49935
+2018,"Total official flows for scholarships, by recipient countries",,,,GBP (£ thousands),Thousands,Normal value,95956.719305411
+2019,"Total official flows for scholarships, by recipient countries",,,,GBP (£ thousands),Thousands,Normal value,105578.83291
+2020,"Total official flows for scholarships, by recipient countries",,,,GBP (£ thousands),Thousands,Normal value,78277.317945824
+2009,"Total official flows for scholarships, by recipient countries",,,LDCs,GBP (£ thousands),Thousands,Normal value,33.47
+2010,"Total official flows for scholarships, by recipient countries",,,LDCs,GBP (£ thousands),Thousands,Normal value,30.57
+2011,"Total official flows for scholarships, by recipient countries",,,LDCs,GBP (£ thousands),Thousands,Normal value,1098.9
+2012,"Total official flows for scholarships, by recipient countries",,,LDCs,GBP (£ thousands),Thousands,Normal value,3072.08
+2013,"Total official flows for scholarships, by recipient countries",,,LDCs,GBP (£ thousands),Thousands,Normal value,2457.87
+2014,"Total official flows for scholarships, by recipient countries",,,LDCs,GBP (£ thousands),Thousands,Normal value,2157.01
+2015,"Total official flows for scholarships, by recipient countries",,,LDCs,GBP (£ thousands),Thousands,Normal value,5050.66
+2016,"Total official flows for scholarships, by recipient countries",,,LDCs,GBP (£ thousands),Thousands,Normal value,82.57
+2017,"Total official flows for scholarships, by recipient countries",,,LDCs,GBP (£ thousands),Thousands,Normal value,8603.58368
+2018,"Total official flows for scholarships, by recipient countries",,,LDCs,GBP (£ thousands),Thousands,Normal value,11063.349519194
+2019,"Total official flows for scholarships, by recipient countries",,,LDCs,GBP (£ thousands),Thousands,Normal value,11724.01215
+2020,"Total official flows for scholarships, by recipient countries",,,LDCs,GBP (£ thousands),Thousands,Normal value,7962.71882048
+2009,"Total official flows for scholarships, by recipient countries",,,LMICs,GBP (£ thousands),Thousands,Normal value,1.11
+2010,"Total official flows for scholarships, by recipient countries",,,LMICs,GBP (£ thousands),Thousands,Normal value,9.14
+2011,"Total official flows for scholarships, by recipient countries",,,LMICs,GBP (£ thousands),Thousands,Normal value,2815.51
+2012,"Total official flows for scholarships, by recipient countries",,,LMICs,GBP (£ thousands),Thousands,Normal value,7186.1
+2013,"Total official flows for scholarships, by recipient countries",,,LMICs,GBP (£ thousands),Thousands,Normal value,6090.38
+2014,"Total official flows for scholarships, by recipient countries",,,LMICs,GBP (£ thousands),Thousands,Normal value,6876.64
+2015,"Total official flows for scholarships, by recipient countries",,,LMICs,GBP (£ thousands),Thousands,Normal value,16174.48
+2016,"Total official flows for scholarships, by recipient countries",,,LMICs,GBP (£ thousands),Thousands,Normal value,2612.1
+2017,"Total official flows for scholarships, by recipient countries",,,LMICs,GBP (£ thousands),Thousands,Normal value,26449.82584
+2018,"Total official flows for scholarships, by recipient countries",,,LMICs,GBP (£ thousands),Thousands,Normal value,27340.51588647
+2019,"Total official flows for scholarships, by recipient countries",,,LMICs,GBP (£ thousands),Thousands,Normal value,24590.67731
+2020,"Total official flows for scholarships, by recipient countries",,,LMICs,GBP (£ thousands),Thousands,Normal value,22095.62754743
+2010,"Total official flows for scholarships, by recipient countries",,,Other LICs,GBP (£ thousands),Thousands,Normal value,36.63
+2011,"Total official flows for scholarships, by recipient countries",,,Other LICs,GBP (£ thousands),Thousands,Normal value,354.94
+2012,"Total official flows for scholarships, by recipient countries",,,Other LICs,GBP (£ thousands),Thousands,Normal value,745.08
+2013,"Total official flows for scholarships, by recipient countries",,,Other LICs,GBP (£ thousands),Thousands,Normal value,570.43
+2014,"Total official flows for scholarships, by recipient countries",,,Other LICs,GBP (£ thousands),Thousands,Normal value,429.25
+2015,"Total official flows for scholarships, by recipient countries",,,Other LICs,GBP (£ thousands),Thousands,Normal value,1558.87
+2017,"Total official flows for scholarships, by recipient countries",,,Other LICs,GBP (£ thousands),Thousands,Normal value,866.33305
+2018,"Total official flows for scholarships, by recipient countries",,,Other LICs,GBP (£ thousands),Thousands,Normal value,711.5312315
+2019,"Total official flows for scholarships, by recipient countries",,,Other LICs,GBP (£ thousands),Thousands,Normal value,965.2356
+2020,"Total official flows for scholarships, by recipient countries",,,Other LICs,GBP (£ thousands),Thousands,Normal value,455.1118969
+2017,"Total official flows for scholarships, by recipient countries",Education,Advanced technical and managerial training,,GBP (£ thousands),Thousands,Normal value,5995.89878
+2018,"Total official flows for scholarships, by recipient countries",Education,Advanced technical and managerial training,,GBP (£ thousands),Thousands,Normal value,6663.92261
+2019,"Total official flows for scholarships, by recipient countries",Education,Advanced technical and managerial training,,GBP (£ thousands),Thousands,Normal value,8467.62463
+2020,"Total official flows for scholarships, by recipient countries",Education,Advanced technical and managerial training,,GBP (£ thousands),Thousands,Normal value,8296.65898
+2017,"Total official flows for scholarships, by recipient countries",Education,Education policy and administrative management,,GBP (£ thousands),Thousands,Normal value,21.56313
+2017,"Total official flows for scholarships, by recipient countries",Education,Higher education,,GBP (£ thousands),Thousands,Normal value,80249.44897
+2018,"Total official flows for scholarships, by recipient countries",Education,Higher education,,GBP (£ thousands),Thousands,Normal value,82906.035735411
+2019,"Total official flows for scholarships, by recipient countries",Education,Higher education,,GBP (£ thousands),Thousands,Normal value,91472.16385
+2020,"Total official flows for scholarships, by recipient countries",Education,Higher education,,GBP (£ thousands),Thousands,Normal value,60753.034305824
+2017,"Total official flows for scholarships, by recipient countries",Education,Primary education,,GBP (£ thousands),Thousands,Normal value,86.2694
+2018,"Total official flows for scholarships, by recipient countries",Education,Primary education,,GBP (£ thousands),Thousands,Normal value,44.823448
+2010,"Total official flows for scholarships, by recipient countries",Economic Infrastructure & Services,,,GBP (£ thousands),Thousands,Normal value,17.95
+2009,"Total official flows for scholarships, by recipient countries",Education,,,GBP (£ thousands),Thousands,Normal value,15428.77
+2010,"Total official flows for scholarships, by recipient countries",Education,,,GBP (£ thousands),Thousands,Normal value,12489.12
+2011,"Total official flows for scholarships, by recipient countries",Education,,,GBP (£ thousands),Thousands,Normal value,8505.37
+2012,"Total official flows for scholarships, by recipient countries",Education,,,GBP (£ thousands),Thousands,Normal value,21624.7
+2013,"Total official flows for scholarships, by recipient countries",Education,,,GBP (£ thousands),Thousands,Normal value,16702.45
+2014,"Total official flows for scholarships, by recipient countries",Education,,,GBP (£ thousands),Thousands,Normal value,17984.9
+2015,"Total official flows for scholarships, by recipient countries",Education,,,GBP (£ thousands),Thousands,Normal value,65132.03
+2016,"Total official flows for scholarships, by recipient countries",Education,,,GBP (£ thousands),Thousands,Normal value,86818.51
+2017,"Total official flows for scholarships, by recipient countries",Education,,,GBP (£ thousands),Thousands,Normal value,86374.74763
+2018,"Total official flows for scholarships, by recipient countries",Education,,,GBP (£ thousands),Thousands,Normal value,89625.987655411
+2019,"Total official flows for scholarships, by recipient countries",Education,,,GBP (£ thousands),Thousands,Normal value,99939.78848
+2020,"Total official flows for scholarships, by recipient countries",Education,,,GBP (£ thousands),Thousands,Normal value,69049.693285824
+2010,"Total official flows for scholarships, by recipient countries",Government and Civil Society,,,GBP (£ thousands),Thousands,Normal value,47.08
+2011,"Total official flows for scholarships, by recipient countries",Government and Civil Society,,,GBP (£ thousands),Thousands,Normal value,51.84
+2012,"Total official flows for scholarships, by recipient countries",Government and Civil Society,,,GBP (£ thousands),Thousands,Normal value,303.79
+2013,"Total official flows for scholarships, by recipient countries",Government and Civil Society,,,GBP (£ thousands),Thousands,Normal value,277.07
+2014,"Total official flows for scholarships, by recipient countries",Government and Civil Society,,,GBP (£ thousands),Thousands,Normal value,317.87
+2015,"Total official flows for scholarships, by recipient countries",Government and Civil Society,,,GBP (£ thousands),Thousands,Normal value,131.38
+2016,"Total official flows for scholarships, by recipient countries",Government and Civil Society,,,GBP (£ thousands),Thousands,Normal value,179.36
+2017,"Total official flows for scholarships, by recipient countries",Government and Civil Society,,,GBP (£ thousands),Thousands,Normal value,183.75
+2018,"Total official flows for scholarships, by recipient countries",Government and Civil Society,,,GBP (£ thousands),Thousands,Normal value,178.94226
+2015,"Total official flows for scholarships, by recipient countries",Health,,,GBP (£ thousands),Thousands,Normal value,134.24
+2016,"Total official flows for scholarships, by recipient countries",Health,,,GBP (£ thousands),Thousands,Normal value,66.07
+2014,"Total official flows for scholarships, by recipient countries",Multisector,,,GBP (£ thousands),Thousands,Normal value,69.23
+2015,"Total official flows for scholarships, by recipient countries",Multisector,,,GBP (£ thousands),Thousands,Normal value,3192.45
+2016,"Total official flows for scholarships, by recipient countries",Multisector,,,GBP (£ thousands),Thousands,Normal value,3584.76
+2017,"Total official flows for scholarships, by recipient countries",Multisector / Cross-Cutting,,,GBP (£ thousands),Thousands,Normal value,4774.30439
+2018,"Total official flows for scholarships, by recipient countries",Multisector / Cross-Cutting,,,GBP (£ thousands),Thousands,Normal value,3690.56544
+2019,"Total official flows for scholarships, by recipient countries",Multisector / Cross-Cutting,,,GBP (£ thousands),Thousands,Normal value,2903.23144
+2020,"Total official flows for scholarships, by recipient countries",Multisector / Cross-Cutting,,,GBP (£ thousands),Thousands,Normal value,3472.22941
+2009,"Total official flows for scholarships, by recipient countries",Other social infrastructure and services,,,GBP (£ thousands),Thousands,Normal value,30.0
+2017,"Total official flows for scholarships, by recipient countries",Production Sectors,,,GBP (£ thousands),Thousands,Normal value,3199.69733
+2018,"Total official flows for scholarships, by recipient countries",Production Sectors,,,GBP (£ thousands),Thousands,Normal value,2461.22395
+2019,"Total official flows for scholarships, by recipient countries",Production Sectors,,,GBP (£ thousands),Thousands,Normal value,2735.81299
+2020,"Total official flows for scholarships, by recipient countries",Production Sectors,,,GBP (£ thousands),Thousands,Normal value,5755.39525
+2015,"Total official flows for scholarships, by recipient countries",Production Services,,,GBP (£ thousands),Thousands,Normal value,1486.44
+2016,"Total official flows for scholarships, by recipient countries",Production Services,,,GBP (£ thousands),Thousands,Normal value,2260.72
+2017,"Total official flows for scholarships, by recipient countries",Education,Upper Secondary Education,,GBP (£ thousands),Thousands,Normal value,21.56735
+2018,"Total official flows for scholarships, by recipient countries",Education,Upper Secondary Education,,GBP (£ thousands),Thousands,Normal value,11.205862
+2009,"Total official flows for scholarships, by recipient countries",,,UMICs,GBP (£ thousands),Thousands,Normal value,0.12
+2010,"Total official flows for scholarships, by recipient countries",,,UMICs,GBP (£ thousands),Thousands,Normal value,31.32
+2011,"Total official flows for scholarships, by recipient countries",,,UMICs,GBP (£ thousands),Thousands,Normal value,4145.82
+2012,"Total official flows for scholarships, by recipient countries",,,UMICs,GBP (£ thousands),Thousands,Normal value,10790.3
+2013,"Total official flows for scholarships, by recipient countries",,,UMICs,GBP (£ thousands),Thousands,Normal value,7815.06
+2014,"Total official flows for scholarships, by recipient countries",,,UMICs,GBP (£ thousands),Thousands,Normal value,8874.31
+2015,"Total official flows for scholarships, by recipient countries",,,UMICs,GBP (£ thousands),Thousands,Normal value,21468.73
+2016,"Total official flows for scholarships, by recipient countries",,,UMICs,GBP (£ thousands),Thousands,Normal value,3544.69
+2017,"Total official flows for scholarships, by recipient countries",,,UMICs,GBP (£ thousands),Thousands,Normal value,29993.64724
+2018,"Total official flows for scholarships, by recipient countries",,,UMICs,GBP (£ thousands),Thousands,Normal value,28793.890156588
+2019,"Total official flows for scholarships, by recipient countries",,,UMICs,GBP (£ thousands),Thousands,Normal value,28944.90382
+2020,"Total official flows for scholarships, by recipient countries",,,UMICs,GBP (£ thousands),Thousands,Normal value,23754.061541014
+2009,"Total official flows for scholarships, by recipient countries",,,Unspecified,GBP (£ thousands),Thousands,Normal value,15424.07
+2010,"Total official flows for scholarships, by recipient countries",,,Unspecified,GBP (£ thousands),Thousands,Normal value,12446.49
+2011,"Total official flows for scholarships, by recipient countries",,,Unspecified,GBP (£ thousands),Thousands,Normal value,142.04
+2012,"Total official flows for scholarships, by recipient countries",,,Unspecified,GBP (£ thousands),Thousands,Normal value,134.93
+2013,"Total official flows for scholarships, by recipient countries",,,Unspecified,GBP (£ thousands),Thousands,Normal value,45.78
+2014,"Total official flows for scholarships, by recipient countries",,,Unspecified,GBP (£ thousands),Thousands,Normal value,34.79
+2015,"Total official flows for scholarships, by recipient countries",,,Unspecified,GBP (£ thousands),Thousands,Normal value,25823.8
+2016,"Total official flows for scholarships, by recipient countries",,,Unspecified,GBP (£ thousands),Thousands,Normal value,86670.06
+2017,"Total official flows for scholarships, by recipient countries",,,Unspecified,GBP (£ thousands),Thousands,Normal value,28619.10954
+2018,"Total official flows for scholarships, by recipient countries",,,Unspecified,GBP (£ thousands),Thousands,Normal value,28047.432511659
+2019,"Total official flows for scholarships, by recipient countries",,,Unspecified,GBP (£ thousands),Thousands,Normal value,39354.00403
+2020,"Total official flows for scholarships, by recipient countries",,,Unspecified,GBP (£ thousands),Thousands,Normal value,24009.79814
