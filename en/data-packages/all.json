@@ -6753,6 +6753,18 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of deaths from exposure to forces of nature",
+                "Age-standardised mortality rates per 100,000 population",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Country",
             "type": "string",
             "constraints": {
@@ -6804,25 +6816,13 @@
           },
           {
             "name": "Unit multiplier",
-            "type": "string",
+            "type": "number",
             "title": "Unit multiplier"
           },
           {
             "name": "Unit measure",
             "type": "string",
             "title": "Unit measure"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deaths",
-                "Rate per 100,000 population",
-                ""
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "GeoCode",
