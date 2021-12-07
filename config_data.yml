@@ -58,7 +58,7 @@ map_layers:
     output_subfolder: country
     filename_prefix: indicator_
 #Region (link: https://hub.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4)
-  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4.geojson
+  - geojson_file: Regions-and-Countries.geojson
     name_property: rgn17nm
     id_property: rgn17cd
     output_subfolder: regions
