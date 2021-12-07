@@ -12,7 +12,50 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of Tables",
+                "Number of tables reported",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Standard accounting tools",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "System of environmental and economic accounts tables (SEEA)",
+                "Tourism satellite account tables(TSA)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 3",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
           },
           {
             "name": "Value",

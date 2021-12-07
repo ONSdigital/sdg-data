@@ -22003,6 +22003,79 @@
       "title": "Proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting, by age"
     },
     {
+      "path": "12-b-1/data.csv",
+      "name": "12-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of Tables",
+                "Number of tables reported",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Standard accounting tools",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "System of environmental and economic accounts tables (SEEA)",
+                "Tourism satellite account tables(TSA)",
+                ""
+              ]
+            },
+            "title": "Standard accounting tools"
+          },
+          {
+            "name": "Unnamed: 3",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 3"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability"
+    },
+    {
       "path": "6-a-1/data.csv",
       "name": "6-a-1",
       "profile": "tabular-data-resource",
@@ -22217,30 +22290,6 @@
         ]
       },
       "title": "Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
-    },
-    {
-      "path": "12-b-1/data.csv",
-      "name": "12-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability"
     },
     {
       "path": "2-2-3/data.csv",
