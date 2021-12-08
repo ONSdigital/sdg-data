@@ -33,36 +33,39 @@ change_types = {
 archived_indicators=pd.read_csv('archived_indicators.csv')
 changed_indicators=pd.read_csv('changed_indicators.csv')
 
-def alter_meta(meta):
-    if 'indicator_number' in meta:
-        indicator_id = meta['indicator_number']
-        id_parts = indicator_id.split('.')
-        target_id = id_parts[0] + '.' + id_parts[1]
-        goal_id = id_parts[0]
-        meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/metadata/?Text=&Goal='+goal_id+'&Target='+target_id
-        meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
+def alter_meta(meta, indicator_id=indicator_id):
+    id_parts = indicator_id.split('.')
+    target_id = id_parts[0] + '.' + id_parts[1]
+    goal_id = id_parts[0]
+    meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/metadata/?Text=&Goal='+goal_id+'&Target='+target_id
+    meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
 
-        if 'standalone' not in meta:
-            if tier_df is not None:
-                if indicator_id in list(tier_df.index):
-                    meta['un_designated_tier']=tier_df.loc[indicator_id][0]
-                if indicator_id in changed_indicators['number'].values:
-                    meta['change_notice']=change_types[changed_indicators.loc[changed_indicators['number']==indicator_id]['change_type'].values[0]]
-        elif 'standalone' in meta:
-            if indicator_id in archived_indicators['number'].values:
-                meta['indicator_name']=archived_indicators.loc[archived_indicators['number']==indicator_id]['name'].values[0]
-                meta['archive_type']=archived_indicators.loc[archived_indicators['number']==indicator_id]['archive_type'].values[0]
-                meta['un_designated_tier']=archived_indicators.loc[archived_indicators['number']==indicator_id]['tier'].values[0]
-                meta["permalink"]='archived-indicators/'+id_parts[0]+'-'+id_parts[1]+'-'+id_parts[2]+'-archived'
-                meta['data_notice_class']="blank"
-                meta['data_notice_heading']="This is an <a href='https://sdgdata.gov.uk/archived-indicators'>archived</a> indicator"
-                meta['data_notice_text']=archive_types[meta['archive_type']]
-                meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/iaeg-sdgs/metadata-compilation/'
-                meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals compilation of previous metadata'
-                if meta['reporting_status']=="notstarted":
-                    meta['page_content']="<strong>No data was sourced for this indicator</strong>"+meta['page_content']
+    if 'standalone' not in meta:
+        if tier_df is not None:
+            if indicator_id in list(tier_df.index):
+                meta['un_designated_tier']=tier_df.loc[indicator_id][0]
+            if indicator_id in changed_indicators['number'].values:
+                meta['change_notice']=change_types[changed_indicators.loc[changed_indicators['number']==indicator_id]['change_type'].values[0]]
+    elif 'standalone' in meta:
+        if indicator_id in archived_indicators['number'].values:
+            meta['indicator_name']=archived_indicators.loc[archived_indicators['number']==indicator_id]['name'].values[0]
+            meta['archive_type']=archived_indicators.loc[archived_indicators['number']==indicator_id]['archive_type'].values[0]
+            meta['un_designated_tier']=archived_indicators.loc[archived_indicators['number']==indicator_id]['tier'].values[0]
+            meta["permalink"]='archived-indicators/'+id_parts[0]+'-'+id_parts[1]+'-'+id_parts[2]+'-archived'
+            meta['data_notice_class']="blank"
+            meta['data_notice_heading']="This is an <a href='https://sdgdata.gov.uk/archived-indicators'>archived</a> indicator"
+            meta['data_notice_text']=archive_types[meta['archive_type']]
+            meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/iaeg-sdgs/metadata-compilation/'
+            meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals compilation of previous metadata'
+            if meta['reporting_status']=="notstarted":
+                meta['page_content']="<strong>No data was sourced for this indicator</strong>"+meta['page_content']
 
     return meta
+
+def alter_data(data, indicator_id=indicator_id)
+        if indicator_id == '1-2-1':
+        df = df.drop('Age', axis='columns')
+    return data
   
-open_sdg_build(config='config_data.yml', alter_meta=alter_meta)
+open_sdg_build(config='config_data.yml', alter_meta=alter_meta, alter_data=alter_data)
 
