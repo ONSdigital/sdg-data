@@ -62,10 +62,10 @@ def alter_meta(meta, indicator_id=indicator_id):
 
     return meta
 
-def alter_data(data, indicator_id=indicator_id):
-        if indicator_id == '1-2-1':
+def alter_data(df, indicator_id=indicator_id):
+    if indicator_id == '1-2-1':
         df = df.drop('Age', axis='columns')
-    return data
+    return df
   
 open_sdg_build(config='config_data.yml', alter_meta=alter_meta, alter_data=alter_data)
 
