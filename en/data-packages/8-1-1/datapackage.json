@@ -16,26 +16,9 @@
             "title": "Year"
           },
           {
-            "name": "Series",
+            "name": "Unit measure",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Annual growth rate of real GDP per capita",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage (%)",
-                ""
-              ]
-            },
-            "title": "Units"
+            "title": "Unit measure"
           },
           {
             "name": "Unit multiplier",

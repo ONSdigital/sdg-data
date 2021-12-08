@@ -10792,24 +10792,8 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Annual growth rate of real GDP per capita",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage (%)",
-                ""
-              ]
-            }
+            "name": "Unit measure",
+            "type": "string"
           },
           {
             "name": "Unit multiplier",
@@ -16203,14 +16187,8 @@
             "type": "string"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage (%)",
-                ""
-              ]
-            }
+            "name": "Unit measure",
+            "type": "string"
           },
           {
             "name": "GeoCode",

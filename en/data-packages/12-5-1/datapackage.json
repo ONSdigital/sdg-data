@@ -40,15 +40,9 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Units",
+            "name": "Unit measure",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage (%)",
-                ""
-              ]
-            },
-            "title": "Units"
+            "title": "Unit measure"
           },
           {
             "name": "GeoCode",

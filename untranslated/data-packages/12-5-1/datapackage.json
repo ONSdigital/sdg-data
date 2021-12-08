@@ -36,14 +36,8 @@
             "type": "string"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage (%)",
-                ""
-              ]
-            }
+            "name": "Unit measure",
+            "type": "string"
           },
           {
             "name": "GeoCode",
