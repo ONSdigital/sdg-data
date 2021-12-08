@@ -59,8 +59,8 @@ map_layers:
     filename_prefix: indicator_
 #Region (link: https://hub.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4)
   - geojson_file: Regions-and-Countries.geojson
-    name_property: rgn17nm
-    id_property: rgn17cd
+    name_property: RGN20NM
+    id_property: RGN20CD
     output_subfolder: regions
     filename_prefix: indicator_
 #Local Authority (link: https://hub.arcgis.com/datasets/686603e943f948acaa13fb5d2b0f1275_4)
