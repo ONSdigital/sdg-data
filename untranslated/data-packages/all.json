@@ -11986,12 +11986,12 @@
             "type": "integer"
           },
           {
-            "name": "Developing country participation",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Voting rights in international organisations",
-                "Membership in international organisations",
+                "Proportion of voting rights of developing countries in international organisations, by organisation",
+                "Proportion of members of developing countries in international organisations, by organisation",
                 ""
               ]
             }
@@ -12025,8 +12025,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
