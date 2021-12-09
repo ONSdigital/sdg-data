@@ -16818,6 +16818,17 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population with access to electricity",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Urban or Rural",
             "type": "string",
             "constraints": {
@@ -16840,9 +16851,15 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

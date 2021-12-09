@@ -15486,6 +15486,16 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population with access to electricity",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Urban or Rural",
             "type": "string",
             "constraints": {
@@ -15505,8 +15515,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
