@@ -15,7 +15,17 @@
             "type": "integer"
           },
           {
-            "name": "Urban/Rural",
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population with primary reliance on clean fuels and technology for cooking",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Urban or Rural",
             "type": "string",
             "constraints": {
               "enum": [
@@ -34,8 +44,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
