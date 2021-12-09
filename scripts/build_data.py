@@ -33,7 +33,7 @@ change_types = {
 archived_indicators=pd.read_csv('archived_indicators.csv')
 changed_indicators=pd.read_csv('changed_indicators.csv')
 
-def alter_meta(meta, indicator_id=indicator_id):
+def alter_meta(meta, indicator_id=context['indicator_id']):
     id_parts = indicator_id.split('.')
     target_id = id_parts[0] + '.' + id_parts[1]
     goal_id = id_parts[0]
