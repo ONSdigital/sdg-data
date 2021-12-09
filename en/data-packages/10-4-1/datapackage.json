@@ -16,9 +16,26 @@
             "title": "Year"
           },
           {
-            "name": "Unit measure",
+            "name": "Series",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Labour share of GDP",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Unit multiplier",
