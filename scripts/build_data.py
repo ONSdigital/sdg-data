@@ -35,7 +35,7 @@ changed_indicators=pd.read_csv('changed_indicators.csv')
 
 def alter_meta(meta, context):
     indicator_id=context['indicator_id']
-    id_parts = indicator_id.split('.')
+    id_parts = indicator_id.split('-')
     target_id = id_parts[0] + '.' + id_parts[1]
     goal_id = id_parts[0]
     meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/metadata/?Text=&Goal='+goal_id+'&Target='+target_id
