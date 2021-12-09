@@ -63,7 +63,8 @@ def alter_meta(meta, context):
 
     return meta
 
-def alter_data(df, indicator_id=indicator_id):
+def alter_data(df, context):
+    indicator_id=context['indicator_id']
     if indicator_id == '1-2-1':
         df = df.drop('Age', axis='columns')
     return df
