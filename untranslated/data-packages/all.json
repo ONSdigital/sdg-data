@@ -10792,8 +10792,24 @@
             "type": "integer"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual growth rate of real GDP per capita",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Unit multiplier",
@@ -16187,8 +16203,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -20333,33 +20355,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Series",
+            "name": "Units",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of Tables",
-                "Number of tables reported",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Standard accounting tools",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "System of environmental and economic accounts tables (SEEA)",
-                "Tourism satellite account tables(TSA)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unnamed: 3",
-            "type": "number",
             "constraints": {
               "enum": [
                 ""
@@ -20371,16 +20371,8 @@
             "type": "string"
           },
           {
-            "name": "Unit multiplier",
-            "type": "string"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string"
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       },
