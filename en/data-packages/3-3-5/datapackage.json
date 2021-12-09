@@ -20,23 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Chikungunya and Dengue fever",
-                "Rabies",
+                "England, Wales and Northern Ireland",
+                "United Kingdom (UK)",
                 ""
               ]
             },
             "title": "Series"
-          },
-          {
-            "name": "Country",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "England, Wales and Northern Ireland",
-                ""
-              ]
-            },
-            "title": "Country"
           },
           {
             "name": "Type of Neglected Tropical Disease (NTD)",
@@ -62,9 +51,9 @@
                 "Sub-Saharan and Southern Africa",
                 "Other",
                 "Country not stated",
+                "Eastern Africa",
                 "Southern and Central America",
                 "Southern Europe",
-                "Eastern Africa",
                 "Other Africa",
                 "No travel",
                 "Southern Africa",
@@ -75,9 +64,15 @@
             "title": "Region of travel"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Number",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Unit multiplier",

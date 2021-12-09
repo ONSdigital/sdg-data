@@ -8855,18 +8855,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Chikungunya and Dengue fever",
-                "Rabies",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Country",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "England, Wales and Northern Ireland",
+                "United Kingdom (UK)",
                 ""
               ]
             }
@@ -8894,9 +8884,9 @@
                 "Sub-Saharan and Southern Africa",
                 "Other",
                 "Country not stated",
+                "Eastern Africa",
                 "Southern and Central America",
                 "Southern Europe",
-                "Eastern Africa",
                 "Other Africa",
                 "No travel",
                 "Southern Africa",
@@ -8906,8 +8896,14 @@
             }
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                ""
+              ]
+            }
           },
           {
             "name": "Unit multiplier",
