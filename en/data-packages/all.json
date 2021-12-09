@@ -12431,6 +12431,17 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture orientation index for government expenditures",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Observation status",
             "type": "string",
             "title": "Observation status"
@@ -12441,9 +12452,15 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Index",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
