@@ -21694,9 +21694,16 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Number per 100,000 people",
+                "Number per 100,000 adults",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "GeoCode",

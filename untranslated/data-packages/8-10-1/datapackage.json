@@ -467,8 +467,15 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number per 100,000 people",
+                "Number per 100,000 adults",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
