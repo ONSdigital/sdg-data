@@ -57,18 +57,21 @@ map_layers:
     id_property: ctry19cd
     output_subfolder: country
     filename_prefix: indicator_
+    exclude_columns: ['Units', 'Observation status', 'Unit measure', 'Unit multiplier', 'Region']
 #Region (link: https://hub.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4)
   - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4.geojson
     name_property: rgn17nm
     id_property: rgn17cd
     output_subfolder: regions
     filename_prefix: indicator_
+    exclude_columns: ['Units', 'Observation status', 'Unit measure', 'Unit multiplier', 'Region']
 #Local Authority (link: https://hub.arcgis.com/datasets/686603e943f948acaa13fb5d2b0f1275_4)
   - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/686603e943f948acaa13fb5d2b0f1275_4.geojson
     name_property: lad16nm
     id_property: lad16cd
     output_subfolder: local_authorities
     filename_prefix: indicator_
+    exclude_columns: ['Units', 'Observation status', 'Unit measure', 'Unit multiplier', 'Region']
 
 # Git
 # ---
