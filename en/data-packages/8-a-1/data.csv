@@ -1,10 +1,143 @@
-Year,Observation status,Unit multiplier,Unit measure,Value
-2009,Undefined,Thousands,GBP (£),820643.0
-2010,Undefined,Thousands,GBP (£),784772.0
-2011,Undefined,Thousands,GBP (£),843898.0
-2012,Undefined,Thousands,GBP (£),959304.0
-2013,Undefined,Thousands,GBP (£),912792.0
-2014,Undefined,Thousands,GBP (£),1045836.0
-2015,Undefined,Thousands,GBP (£),1462161.0
-2016,Undefined,Thousands,GBP (£),1382059.0
-2017,Undefined,Thousands,GBP (£),1490295.0
+Year,Country income classification,Observation status,Unit multiplier,Units,Value
+2009,LDCs,Definition differs,Thousands,GBP (£ thousands),7738.51
+2010,LDCs,Definition differs,Thousands,GBP (£ thousands),14507.84757
+2011,LDCs,Definition differs,Thousands,GBP (£ thousands),13377.10146
+2012,LDCs,Definition differs,Thousands,GBP (£ thousands),15928.56437
+2013,LDCs,Definition differs,Thousands,GBP (£ thousands),22611.17059
+2014,LDCs,Definition differs,Thousands,GBP (£ thousands),18483.66476
+2015,LDCs,Definition differs,Thousands,GBP (£ thousands),30349.81915
+2016,LDCs,Definition differs,Thousands,GBP (£ thousands),23776.76115
+2017,LDCs,Definition differs,Thousands,GBP (£ thousands),14169.0545011
+2018,LDCs,Definition differs,Thousands,GBP (£ thousands),13833.9430825
+2019,LDCs,Definition differs,Thousands,GBP (£ thousands),19741.0796285
+2020,LDCs,Definition differs,Thousands,GBP (£ thousands),16940.4299475
+2009,LMICs,Definition differs,Thousands,GBP (£ thousands),2730.24
+2010,LMICs,Definition differs,Thousands,GBP (£ thousands),939.84316
+2011,LMICs,Definition differs,Thousands,GBP (£ thousands),2958.229999
+2012,LMICs,Definition differs,Thousands,GBP (£ thousands),10540.226181
+2013,LMICs,Definition differs,Thousands,GBP (£ thousands),6478.16097
+2014,LMICs,Definition differs,Thousands,GBP (£ thousands),4886.196228
+2015,LMICs,Definition differs,Thousands,GBP (£ thousands),329.84539
+2016,LMICs,Definition differs,Thousands,GBP (£ thousands),917.41066
+2017,LMICs,Definition differs,Thousands,GBP (£ thousands),22824.7432395
+2018,LMICs,Definition differs,Thousands,GBP (£ thousands),21711.560723
+2019,LMICs,Definition differs,Thousands,GBP (£ thousands),17325.6122475
+2020,LMICs,Definition differs,Thousands,GBP (£ thousands),9462.518178
+2009,Other LICs,Definition differs,Thousands,GBP (£ thousands),3740.71
+2010,Other LICs,Definition differs,Thousands,GBP (£ thousands),4961.06679
+2011,Other LICs,Definition differs,Thousands,GBP (£ thousands),162.59821
+2012,Other LICs,Definition differs,Thousands,GBP (£ thousands),4693.01398
+2013,Other LICs,Definition differs,Thousands,GBP (£ thousands),4673.16513
+2014,Other LICs,Definition differs,Thousands,GBP (£ thousands),1508.901863
+2015,Other LICs,Definition differs,Thousands,GBP (£ thousands),1800.0
+2016,Other LICs,Definition differs,Thousands,GBP (£ thousands),97.15036
+2017,Other LICs,Definition differs,Thousands,GBP (£ thousands),3833.7350347
+2019,Other LICs,Definition differs,Thousands,GBP (£ thousands),67.631785
+2020,Other LICs,Definition differs,Thousands,GBP (£ thousands),71.419057
+2009,UMICs,Definition differs,Thousands,GBP (£ thousands),265.14
+2010,UMICs,Definition differs,Thousands,GBP (£ thousands),259.13409
+2011,UMICs,Definition differs,Thousands,GBP (£ thousands),201.616304
+2012,UMICs,Definition differs,Thousands,GBP (£ thousands),4221.114707
+2013,UMICs,Definition differs,Thousands,GBP (£ thousands),3098.32015
+2014,UMICs,Definition differs,Thousands,GBP (£ thousands),7799.852333
+2015,UMICs,Definition differs,Thousands,GBP (£ thousands),829.92696
+2016,UMICs,Definition differs,Thousands,GBP (£ thousands),1806.11037
+2017,UMICs,Definition differs,Thousands,GBP (£ thousands),5845.703749
+2018,UMICs,Definition differs,Thousands,GBP (£ thousands),1366.069781
+2019,UMICs,Definition differs,Thousands,GBP (£ thousands),1225.6901426
+2020,UMICs,Definition differs,Thousands,GBP (£ thousands),4403.9557558
+2009,Unspecified,Definition differs,Thousands,GBP (£ thousands),32846.86
+2010,Unspecified,Definition differs,Thousands,GBP (£ thousands),114440.30838
+2011,Unspecified,Definition differs,Thousands,GBP (£ thousands),31354.989619
+2012,Unspecified,Definition differs,Thousands,GBP (£ thousands),24914.702921
+2013,Unspecified,Definition differs,Thousands,GBP (£ thousands),39767.8793
+2014,Unspecified,Definition differs,Thousands,GBP (£ thousands),27326.31342
+2015,Unspecified,Definition differs,Thousands,GBP (£ thousands),20839.86185
+2016,Unspecified,Definition differs,Thousands,GBP (£ thousands),19774.8357
+2017,Unspecified,Definition differs,Thousands,GBP (£ thousands),32895.6484808
+2018,Unspecified,Definition differs,Thousands,GBP (£ thousands),34378.5918983
+2019,Unspecified,Definition differs,Thousands,GBP (£ thousands),52438.5039837
+2020,Unspecified,Definition differs,Thousands,GBP (£ thousands),44730.5338983
+2009,,Definition differs,Thousands,GBP (£ thousands),47321.46
+2010,,Definition differs,Thousands,GBP (£ thousands),135108.19999
+2011,,Definition differs,Thousands,GBP (£ thousands),48054.535592
+2012,,Definition differs,Thousands,GBP (£ thousands),60297.622159
+2013,,Definition differs,Thousands,GBP (£ thousands),76628.69614
+2014,,Definition differs,Thousands,GBP (£ thousands),60004.928604
+2015,,Definition differs,Thousands,GBP (£ thousands),54149.45335
+2016,,Definition differs,Thousands,GBP (£ thousands),46372.26824
+2017,,Definition differs,Thousands,GBP (£ thousands),79568.8850051
+2018,,Definition differs,Thousands,GBP (£ thousands),71290.1654848
+2019,,Definition differs,Thousands,GBP (£ thousands),90798.5177873
+2020,,Definition differs,Thousands,GBP (£ thousands),75608.8568366
+2009,LDCs,Definition differs,Thousands,Constant USD ($ thousands),11796.608125674047
+2010,LDCs,Definition differs,Thousands,Constant USD ($ thousands),21766.076569041
+2011,LDCs,Definition differs,Thousands,Constant USD ($ thousands),19663.11630069668
+2012,LDCs,Definition differs,Thousands,Constant USD ($ thousands),23032.14664061675
+2013,LDCs,Definition differs,Thousands,Constant USD ($ thousands),32123.02056430967
+2014,LDCs,Definition differs,Thousands,Constant USD ($ thousands),25812.30031244073
+2015,LDCs,Definition differs,Thousands,Constant USD ($ thousands),42104.909029878814
+2016,LDCs,Definition differs,Thousands,Constant USD ($ thousands),32291.31110365947
+2017,LDCs,Definition differs,Thousands,Constant USD ($ thousands),18877.202171251825
+2018,LDCs,Definition differs,Thousands,Constant USD ($ thousands),18025.240753460665
+2019,LDCs,Definition differs,Thousands,Constant USD ($ thousands),25192.801976135783
+2020,LDCs,Definition differs,Thousands,Constant USD ($ thousands),20409.631839192123
+2009,LMICs,Definition differs,Thousands,Constant USD ($ thousands),4161.98614061884
+2010,LMICs,Definition differs,Thousands,Constant USD ($ thousands),1410.0436391233363
+2011,LMICs,Definition differs,Thousands,Constant USD ($ thousands),4348.327676849871
+2012,LMICs,Definition differs,Thousands,Constant USD ($ thousands),15240.798190405898
+2013,LMICs,Definition differs,Thousands,Constant USD ($ thousands),9203.331478568014
+2014,LMICs,Definition differs,Thousands,Constant USD ($ thousands),6823.5366774013655
+2015,LMICs,Definition differs,Thousands,Constant USD ($ thousands),457.6010839219415
+2016,LMICs,Definition differs,Thousands,Constant USD ($ thousands),1245.938958842322
+2017,LMICs,Definition differs,Thousands,Constant USD ($ thousands),30409.036298470368
+2018,LMICs,Definition differs,Thousands,Constant USD ($ thousands),28289.55611798944
+2019,LMICs,Definition differs,Thousands,Constant USD ($ thousands),22110.275966692192
+2020,LMICs,Definition differs,Thousands,Constant USD ($ thousands),11400.331212558383
+2009,Other LICs,Definition differs,Thousands,Constant USD ($ thousands),5702.349674781083
+2010,Other LICs,Definition differs,Thousands,Constant USD ($ thousands),7443.07238508341
+2011,Other LICs,Definition differs,Thousands,Constant USD ($ thousands),239.0045050547969
+2012,Other LICs,Definition differs,Thousands,Constant USD ($ thousands),6785.933977666089
+2013,Other LICs,Definition differs,Thousands,Constant USD ($ thousands),6639.027332702322
+2014,Other LICs,Definition differs,Thousands,Constant USD ($ thousands),2107.170224924448
+2015,Other LICs,Definition differs,Thousands,Constant USD ($ thousands),2497.1758770358883
+2016,Other LICs,Definition differs,Thousands,Constant USD ($ thousands),131.94027894722387
+2017,Other LICs,Definition differs,Thousands,Constant USD ($ thousands),5107.623187942757
+2019,Other LICs,Definition differs,Thousands,Constant USD ($ thousands),86.30906712608473
+2020,Other LICs,Definition differs,Thousands,Constant USD ($ thousands),86.04484444548523
+2009,UMICs,Definition differs,Thousands,Constant USD ($ thousands),404.1802205387363
+2010,UMICs,Definition differs,Thousands,Constant USD ($ thousands),388.7780332247288
+2011,UMICs,Definition differs,Thousands,Constant USD ($ thousands),296.35753646056423
+2012,UMICs,Definition differs,Thousands,Constant USD ($ thousands),6103.584143565099
+2013,UMICs,Definition differs,Thousands,Constant USD ($ thousands),4401.691699114505
+2014,UMICs,Definition differs,Thousands,Constant USD ($ thousands),10892.435749418311
+2015,UMICs,Definition differs,Thousands,Constant USD ($ thousands),1151.3742134520717
+2016,UMICs,Definition differs,Thousands,Constant USD ($ thousands),2452.8854656562644
+2017,UMICs,Definition differs,Thousands,Constant USD ($ thousands),7788.136568643364
+2018,UMICs,Definition differs,Thousands,Constant USD ($ thousands),1779.950701091247
+2019,UMICs,Definition differs,Thousands,Constant USD ($ thousands),1564.17833409903
+2020,UMICs,Definition differs,Thousands,Constant USD ($ thousands),5305.834379087508
+2009,Unspecified,Definition differs,Thousands,Constant USD ($ thousands),50071.853054254345
+2010,Unspecified,Definition differs,Thousands,Constant USD ($ thousands),171694.42281255953
+2011,Unspecified,Definition differs,Thousands,Constant USD ($ thousands),46088.96847565167
+2012,Unspecified,Definition differs,Thousands,Constant USD ($ thousands),36025.788505124045
+2013,Unspecified,Definition differs,Thousands,Constant USD ($ thousands),56497.04863656442
+2014,Unspecified,Definition differs,Thousands,Constant USD ($ thousands),38160.99337374691
+2015,Unspecified,Definition differs,Thousands,Constant USD ($ thousands),28911.555718100284
+2016,Unspecified,Definition differs,Thousands,Constant USD ($ thousands),26856.28070131208
+2017,Unspecified,Definition differs,Thousands,Constant USD ($ thousands),43826.340485759705
+2018,Unspecified,Definition differs,Thousands,Constant USD ($ thousands),44794.34330734892
+2019,Unspecified,Definition differs,Thousands,Constant USD ($ thousands),66919.98976990812
+2020,Unspecified,Definition differs,Thousands,Constant USD ($ thousands),53890.82400293702
+2009,,Definition differs,Thousands,Constant USD ($ thousands),72136.97721586705
+2010,,Definition differs,Thousands,Constant USD ($ thousands),202702.393439032
+2011,,Definition differs,Thousands,Constant USD ($ thousands),70635.77449471358
+2012,,Definition differs,Thousands,Constant USD ($ thousands),87188.25145737789
+2013,,Definition differs,Thousands,Constant USD ($ thousands),108864.11971125891
+2014,,Definition differs,Thousands,Constant USD ($ thousands),83796.43633793175
+2015,,Definition differs,Thousands,Constant USD ($ thousands),75122.615922389
+2016,,Definition differs,Thousands,Constant USD ($ thousands),62978.35650841737
+2017,,Definition differs,Thousands,Constant USD ($ thousands),106008.33871206804
+2018,,Definition differs,Thousands,Constant USD ($ thousands),92889.09087989028
+2019,,Definition differs,Thousands,Constant USD ($ thousands),115873.55511396122
+2020,,Definition differs,Thousands,Constant USD ($ thousands),91092.66627822054

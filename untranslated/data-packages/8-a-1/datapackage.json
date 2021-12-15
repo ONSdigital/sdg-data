@@ -15,6 +15,20 @@
             "type": "integer"
           },
           {
+            "name": "Country income classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LDCs",
+                "LMICs",
+                "Other LICs",
+                "UMICs",
+                "Unspecified",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Observation status",
             "type": "string"
           },
@@ -23,8 +37,15 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GBP (£ thousands)",
+                "Constant USD ($ thousands)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -6172,6 +6172,21 @@
             "title": "Year"
           },
           {
+            "name": "Country income classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LDCs",
+                "LMICs",
+                "Other LICs",
+                "UMICs",
+                "Unspecified",
+                ""
+              ]
+            },
+            "title": "Country income classification"
+          },
+          {
             "name": "Observation status",
             "type": "string",
             "title": "Observation status"
@@ -6182,9 +6197,16 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "GBP (£ thousands)",
+                "Constant USD ($ thousands)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
