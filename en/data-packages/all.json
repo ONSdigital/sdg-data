@@ -21218,6 +21218,17 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Remittance costs as a proportion of the amount remitted",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Observation status",
             "type": "string",
             "title": "Observation status"
@@ -21228,9 +21239,15 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
