@@ -3154,7 +3154,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage (%)",
+                "Index",
                 ""
               ]
             }
