@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Recorded alcohol consumption per capita (aged 15 years and older) within a calendar year",
+                "Alcohol consumption per capita (aged 15 years and older) within a calendar year",
                 "Total alcohol consumption per capita (aged 15 years and older) within a calendar year",
                 "Unrecorded alcohol consumption per capita (aged 15 years and older) within a calendar year",
                 ""
