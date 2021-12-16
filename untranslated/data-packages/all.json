@@ -5929,18 +5929,6 @@
             }
           },
           {
-            "name": "Technology",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2G",
-                "3G",
-                "4G",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Observation status",
             "type": "string"
           },

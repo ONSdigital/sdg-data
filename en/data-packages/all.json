@@ -6460,19 +6460,6 @@
             "title": "Series"
           },
           {
-            "name": "Technology",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2G",
-                "3G",
-                "4G",
-                ""
-              ]
-            },
-            "title": "Technology"
-          },
-          {
             "name": "Observation status",
             "type": "string",
             "title": "Observation status"
