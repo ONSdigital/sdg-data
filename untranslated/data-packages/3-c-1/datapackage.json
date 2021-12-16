@@ -29,7 +29,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All persons",
                 "Males",
                 "Females",
                 ""
