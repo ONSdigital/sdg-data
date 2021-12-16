@@ -7711,6 +7711,87 @@
             "type": "string"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Index of Multiple Deprivation (IMD)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IMD 1",
+                "IMD 2",
+                "IMD 3",
+                "IMD 4",
+                "IMD 5",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "White - British",
+                "White - Irish",
+                "Any other White background",
+                "White and Black Caribbean",
+                "White and Black African",
+                "White and Asian",
+                "Any other Mixed background",
+                "Indian",
+                "Pakistani",
+                "Bangladeshi",
+                "Chinese",
+                "Any other Asian background",
+                "Black - African",
+                "Black - Caribbean",
+                "Any other Black background",
+                "Any other Ethnic group",
+                "Not stated / Invalid",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Rural or Urban",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                "Not Classified",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
