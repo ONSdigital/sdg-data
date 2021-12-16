@@ -20760,6 +20760,11 @@
             "title": "Observation status"
           },
           {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
