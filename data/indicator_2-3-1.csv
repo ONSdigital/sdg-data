@@ -1,233 +1,289 @@
 Year,Productivity,Outputs,Inputs,Observation status,Unit multiplier,Unit measure,Value
 1973,,All outputs,,Undefined,Units,Index,100.0
-1974,,All outputs,,Undefined,Units,Index,103.1
-1975,,All outputs,,Undefined,Units,Index,99.1
-1976,,All outputs,,Undefined,Units,Index,96.5
-1977,,All outputs,,Undefined,Units,Index,103.0
-1978,,All outputs,,Undefined,Units,Index,107.6
-1979,,All outputs,,Undefined,Units,Index,110.1
-1980,,All outputs,,Undefined,Units,Index,113.1
-1981,,All outputs,,Undefined,Units,Index,113.1
-1982,,All outputs,,Undefined,Units,Index,120.2
-1983,,All outputs,,Undefined,Units,Index,118.9
-1984,,All outputs,,Undefined,Units,Index,128.6
-1985,,All outputs,,Undefined,Units,Index,124.5
-1986,,All outputs,,Undefined,Units,Index,125.7
-1987,,All outputs,,Undefined,Units,Index,123.9
-1988,,All outputs,,Undefined,Units,Index,123.9
-1989,,All outputs,,Undefined,Units,Index,125.8
-1990,,All outputs,,Undefined,Units,Index,125.3
-1991,,All outputs,,Undefined,Units,Index,127.7
-1992,,All outputs,,Undefined,Units,Index,128.1
-1993,,All outputs,,Undefined,Units,Index,125.0
-1994,,All outputs,,Undefined,Units,Index,127.2
-1995,,All outputs,,Undefined,Units,Index,127.3
-1996,,All outputs,,Undefined,Units,Index,126.1
-1997,,All outputs,,Undefined,Units,Index,126.5
-1998,,All outputs,,Undefined,Units,Index,126.3
-1999,,All outputs,,Undefined,Units,Index,128.1
-2000,,All outputs,,Undefined,Units,Index,123.9
-2001,,All outputs,,Undefined,Units,Index,119.3
-2002,,All outputs,,Undefined,Units,Index,123.6
-2003,,All outputs,,Undefined,Units,Index,122.4
-2004,,All outputs,,Undefined,Units,Index,123.4
-2005,,All outputs,,Undefined,Units,Index,124.9
-2006,,All outputs,,Undefined,Units,Index,121.0
-2007,,All outputs,,Undefined,Units,Index,120.0
-2008,,All outputs,,Undefined,Units,Index,125.4
-2009,,All outputs,,Undefined,Units,Index,122.5
-2010,,All outputs,,Undefined,Units,Index,124.2
-2011,,All outputs,,Undefined,Units,Index,129.7
-2012,,All outputs,,Undefined,Units,Index,123.0
-2013,,All outputs,,Undefined,Units,Index,125.3
-2014,,All outputs,,Undefined,Units,Index,134.1
-2015,,All outputs,,Undefined,Units,Index,137.0
-2016,,All outputs,,Undefined,Units,Index,133.5
-2017,,All outputs,,Undefined,Units,Index,138.0
-2018,,All outputs,,Undefined,Units,Index,135.5
+1974,,All outputs,,Undefined,Units,Index,103.10825660080656
+1975,,All outputs,,Undefined,Units,Index,99.13265927436134
+1976,,All outputs,,Undefined,Units,Index,96.5322123587075
+1977,,All outputs,,Undefined,Units,Index,102.98124312104244
+1978,,All outputs,,Undefined,Units,Index,107.59707476059836
+1979,,All outputs,,Undefined,Units,Index,110.11518304039718
+1980,,All outputs,,Undefined,Units,Index,113.13397829849958
+1981,,All outputs,,Undefined,Units,Index,113.09318256524026
+1982,,All outputs,,Undefined,Units,Index,120.22498419888055
+1983,,All outputs,,Undefined,Units,Index,118.90254657786323
+1984,,All outputs,,Undefined,Units,Index,128.55596818710424
+1985,,All outputs,,Undefined,Units,Index,124.5193219610772
+1986,,All outputs,,Undefined,Units,Index,125.66545740114057
+1987,,All outputs,,Undefined,Units,Index,123.88690829773962
+1988,,All outputs,,Undefined,Units,Index,123.93862786963157
+1989,,All outputs,,Undefined,Units,Index,125.8229685693222
+1990,,All outputs,,Undefined,Units,Index,125.25633527571311
+1991,,All outputs,,Undefined,Units,Index,127.73657033265656
+1992,,All outputs,,Undefined,Units,Index,128.12493680153366
+1993,,All outputs,,Undefined,Units,Index,124.953225963259
+1994,,All outputs,,Undefined,Units,Index,127.16526511749511
+1995,,All outputs,,Undefined,Units,Index,127.34281890230987
+1996,,All outputs,,Undefined,Units,Index,126.14773640368038
+1997,,All outputs,,Undefined,Units,Index,126.5329440354655
+1998,,All outputs,,Undefined,Units,Index,126.32514949074998
+1999,,All outputs,,Undefined,Units,Index,128.1169564280194
+2000,,All outputs,,Undefined,Units,Index,123.92642894313161
+2001,,All outputs,,Undefined,Units,Index,119.32847478179774
+2002,,All outputs,,Undefined,Units,Index,123.62005869559292
+2003,,All outputs,,Undefined,Units,Index,122.39725155286958
+2004,,All outputs,,Undefined,Units,Index,123.36030553210848
+2005,,All outputs,,Undefined,Units,Index,124.86130902263714
+2006,,All outputs,,Undefined,Units,Index,121.0482998777207
+2007,,All outputs,,Undefined,Units,Index,120.04886347950945
+2008,,All outputs,,Undefined,Units,Index,125.39563459642156
+2009,,All outputs,,Undefined,Units,Index,122.54189141444982
+2010,,All outputs,,Undefined,Units,Index,124.16531626455978
+2011,,All outputs,,Undefined,Units,Index,129.7890187958802
+2012,,All outputs,,Undefined,Units,Index,123.04961589250256
+2013,,All outputs,,Undefined,Units,Index,125.2947937481822
+2014,,All outputs,,Undefined,Units,Index,134.18867607713818
+2015,,All outputs,,Undefined,Units,Index,136.80239959170078
+2016,,All outputs,,Undefined,Units,Index,133.10026518062477
+2017,,All outputs,,Undefined,Units,Index,138.39919999877182
+2018,,All outputs,,Undefined,Units,Index,135.23205263077216
+2019,,All outputs,,Undefined,Units,Index,140.55237949535154
+2020,,All outputs,,Undefined,Units,Index,132.6037749043071
 1973,,,All inputs,Undefined,Units,Index,100.0
-1974,,,All inputs,Undefined,Units,Index,97.0
-1975,,,All inputs,Undefined,Units,Index,96.7
-1976,,,All inputs,Undefined,Units,Index,98.3
-1977,,,All inputs,Undefined,Units,Index,97.9
-1978,,,All inputs,Undefined,Units,Index,98.4
-1979,,,All inputs,Undefined,Units,Index,100.5
-1980,,,All inputs,Undefined,Units,Index,98.6
-1981,,,All inputs,Undefined,Units,Index,96.9
-1982,,,All inputs,Undefined,Units,Index,100.6
-1983,,,All inputs,Undefined,Units,Index,101.9
-1984,,,All inputs,Undefined,Units,Index,100.8
-1985,,,All inputs,Undefined,Units,Index,101.4
-1986,,,All inputs,Undefined,Units,Index,101.9
-1987,,,All inputs,Undefined,Units,Index,101.7
-1988,,,All inputs,Undefined,Units,Index,102.2
-1989,,,All inputs,Undefined,Units,Index,100.6
-1990,,,All inputs,Undefined,Units,Index,99.6
-1991,,,All inputs,Undefined,Units,Index,98.9
-1992,,,All inputs,Undefined,Units,Index,98.1
-1993,,,All inputs,Undefined,Units,Index,98.0
-1994,,,All inputs,Undefined,Units,Index,98.8
-1995,,,All inputs,Undefined,Units,Index,100.1
-1996,,,All inputs,Undefined,Units,Index,99.9
-1997,,,All inputs,Undefined,Units,Index,98.8
-1998,,,All inputs,Undefined,Units,Index,96.3
-1999,,,All inputs,Undefined,Units,Index,93.7
-2000,,,All inputs,Undefined,Units,Index,88.9
-2001,,,All inputs,Undefined,Units,Index,87.3
-2002,,,All inputs,Undefined,Units,Index,85.3
-2003,,,All inputs,Undefined,Units,Index,84.3
-2004,,,All inputs,Undefined,Units,Index,84.7
-2005,,,All inputs,Undefined,Units,Index,83.2
-2006,,,All inputs,Undefined,Units,Index,81.8
-2007,,,All inputs,Undefined,Units,Index,82.3
-2008,,,All inputs,Undefined,Units,Index,82.6
-2009,,,All inputs,Undefined,Units,Index,83.0
-2010,,,All inputs,Undefined,Units,Index,84.4
-2011,,,All inputs,Undefined,Units,Index,84.3
-2012,,,All inputs,Undefined,Units,Index,84.4
-2013,,,All inputs,Undefined,Units,Index,85.6
-2014,,,All inputs,Undefined,Units,Index,86.4
-2015,,,All inputs,Undefined,Units,Index,87.4
-2016,,,All inputs,Undefined,Units,Index,87.6
-2017,,,All inputs,Undefined,Units,Index,88.2
-2018,,,All inputs,Undefined,Units,Index,88.4
+1974,,,All inputs,Undefined,Units,Index,97.02446137783687
+1975,,,All inputs,Undefined,Units,Index,96.74653065340195
+1976,,,All inputs,Undefined,Units,Index,98.2718076008926
+1977,,,All inputs,Undefined,Units,Index,97.92577038157224
+1978,,,All inputs,Undefined,Units,Index,98.4223118185258
+1979,,,All inputs,Undefined,Units,Index,100.46010400798463
+1980,,,All inputs,Undefined,Units,Index,98.63383151620721
+1981,,,All inputs,Undefined,Units,Index,96.8815454278417
+1982,,,All inputs,Undefined,Units,Index,100.58753854637472
+1983,,,All inputs,Undefined,Units,Index,101.90848799265655
+1984,,,All inputs,Undefined,Units,Index,100.75852034407016
+1985,,,All inputs,Undefined,Units,Index,101.40610087333415
+1986,,,All inputs,Undefined,Units,Index,101.91923990758696
+1987,,,All inputs,Undefined,Units,Index,101.72807369183859
+1988,,,All inputs,Undefined,Units,Index,102.19548786112527
+1989,,,All inputs,Undefined,Units,Index,100.59033488204012
+1990,,,All inputs,Undefined,Units,Index,99.55260482734923
+1991,,,All inputs,Undefined,Units,Index,98.89239516870293
+1992,,,All inputs,Undefined,Units,Index,98.05430527733407
+1993,,,All inputs,Undefined,Units,Index,97.97837684937328
+1994,,,All inputs,Undefined,Units,Index,98.84047066840323
+1995,,,All inputs,Undefined,Units,Index,100.09431303328181
+1996,,,All inputs,Undefined,Units,Index,99.9321733953426
+1997,,,All inputs,Undefined,Units,Index,98.80598174043587
+1998,,,All inputs,Undefined,Units,Index,96.27478803679541
+1999,,,All inputs,Undefined,Units,Index,93.6925465297186
+2000,,,All inputs,Undefined,Units,Index,88.88553855024817
+2001,,,All inputs,Undefined,Units,Index,87.25753607736291
+2002,,,All inputs,Undefined,Units,Index,85.32878267729305
+2003,,,All inputs,Undefined,Units,Index,84.33118263915456
+2004,,,All inputs,Undefined,Units,Index,84.70528467662899
+2005,,,All inputs,Undefined,Units,Index,83.21997053409083
+2006,,,All inputs,Undefined,Units,Index,81.77042966949489
+2007,,,All inputs,Undefined,Units,Index,82.3353599886089
+2008,,,All inputs,Undefined,Units,Index,82.58114826696551
+2009,,,All inputs,Undefined,Units,Index,82.99042938186865
+2010,,,All inputs,Undefined,Units,Index,84.42603956242904
+2011,,,All inputs,Undefined,Units,Index,84.2997417065371
+2012,,,All inputs,Undefined,Units,Index,84.36082942727249
+2013,,,All inputs,Undefined,Units,Index,85.60826054709615
+2014,,,All inputs,Undefined,Units,Index,86.43778904350212
+2015,,,All inputs,Undefined,Units,Index,87.35819621988601
+2016,,,All inputs,Undefined,Units,Index,87.67608914701992
+2017,,,All inputs,Undefined,Units,Index,88.07000735800602
+2018,,,All inputs,Undefined,Units,Index,86.87627429025147
+2019,,,All inputs,Undefined,Units,Index,87.06104970426219
+2020,,,All inputs,Undefined,Units,Index,86.00305591977246
 1973,,,Labour inputs,Undefined,Units,Index,100.0
-1974,,,Labour inputs,Undefined,Units,Index,98.3
-1975,,,Labour inputs,Undefined,Units,Index,96.6
-1976,,,Labour inputs,Undefined,Units,Index,94.7
-1977,,,Labour inputs,Undefined,Units,Index,93.0
-1978,,,Labour inputs,Undefined,Units,Index,91.9
-1979,,,Labour inputs,Undefined,Units,Index,90.3
-1980,,,Labour inputs,Undefined,Units,Index,88.1
-1981,,,Labour inputs,Undefined,Units,Index,86.3
-1982,,,Labour inputs,Undefined,Units,Index,85.2
-1983,,,Labour inputs,Undefined,Units,Index,84.3
-1984,,,Labour inputs,Undefined,Units,Index,83.3
-1985,,,Labour inputs,Undefined,Units,Index,82.3
-1986,,,Labour inputs,Undefined,Units,Index,80.9
-1987,,,Labour inputs,Undefined,Units,Index,79.4
-1988,,,Labour inputs,Undefined,Units,Index,77.6
-1989,,,Labour inputs,Undefined,Units,Index,75.9
-1990,,,Labour inputs,Undefined,Units,Index,74.3
-1991,,,Labour inputs,Undefined,Units,Index,73.0
-1992,,,Labour inputs,Undefined,Units,Index,71.8
-1993,,,Labour inputs,Undefined,Units,Index,70.6
-1994,,,Labour inputs,Undefined,Units,Index,69.2
-1995,,,Labour inputs,Undefined,Units,Index,67.7
-1996,,,Labour inputs,Undefined,Units,Index,66.6
-1997,,,Labour inputs,Undefined,Units,Index,65.5
-1998,,,Labour inputs,Undefined,Units,Index,64.0
-1999,,,Labour inputs,Undefined,Units,Index,61.6
-2000,,,Labour inputs,Undefined,Units,Index,59.1
-2001,,,Labour inputs,Undefined,Units,Index,57.3
-2002,,,Labour inputs,Undefined,Units,Index,55.7
-2003,,,Labour inputs,Undefined,Units,Index,54.1
-2004,,,Labour inputs,Undefined,Units,Index,53.2
-2005,,,Labour inputs,Undefined,Units,Index,52.6
-2006,,,Labour inputs,Undefined,Units,Index,51.9
-2007,,,Labour inputs,Undefined,Units,Index,51.5
-2008,,,Labour inputs,Undefined,Units,Index,51.3
-2009,,,Labour inputs,Undefined,Units,Index,50.5
-2010,,,Labour inputs,Undefined,Units,Index,50.3
-2011,,,Labour inputs,Undefined,Units,Index,51.1
-2012,,,Labour inputs,Undefined,Units,Index,51.1
-2013,,,Labour inputs,Undefined,Units,Index,50.7
-2014,,,Labour inputs,Undefined,Units,Index,50.8
-2015,,,Labour inputs,Undefined,Units,Index,50.9
-2016,,,Labour inputs,Undefined,Units,Index,50.5
-2017,,,Labour inputs,Undefined,Units,Index,50.9
-2018,,,Labour inputs,Undefined,Units,Index,51.3
+1974,,,Labour inputs,Undefined,Units,Index,98.27706252514665
+1975,,,Labour inputs,Undefined,Units,Index,96.59201678355782
+1976,,,Labour inputs,Undefined,Units,Index,94.7129889375699
+1977,,,Labour inputs,Undefined,Units,Index,93.0382891768192
+1978,,,Labour inputs,Undefined,Units,Index,91.9274825485839
+1979,,,Labour inputs,Undefined,Units,Index,90.32055032284278
+1980,,,Labour inputs,Undefined,Units,Index,88.1284317035283
+1981,,,Labour inputs,Undefined,Units,Index,86.33810482671016
+1982,,,Labour inputs,Undefined,Units,Index,85.21754643894928
+1983,,,Labour inputs,Undefined,Units,Index,84.29851080168282
+1984,,,Labour inputs,Undefined,Units,Index,83.29883126061617
+1985,,,Labour inputs,Undefined,Units,Index,82.27276718667696
+1986,,,Labour inputs,Undefined,Units,Index,80.90954549294808
+1987,,,Labour inputs,Undefined,Units,Index,79.3511891935288
+1988,,,Labour inputs,Undefined,Units,Index,77.5819537252491
+1989,,,Labour inputs,Undefined,Units,Index,75.91554312590729
+1990,,,Labour inputs,Undefined,Units,Index,74.2643622915662
+1991,,,Labour inputs,Undefined,Units,Index,72.95060014975134
+1992,,,Labour inputs,Undefined,Units,Index,71.76756071811768
+1993,,,Labour inputs,Undefined,Units,Index,70.5672477650144
+1994,,,Labour inputs,Undefined,Units,Index,69.20829918519757
+1995,,,Labour inputs,Undefined,Units,Index,67.70423104143713
+1996,,,Labour inputs,Undefined,Units,Index,66.5937326282721
+1997,,,Labour inputs,Undefined,Units,Index,65.53606707325032
+1998,,,Labour inputs,Undefined,Units,Index,63.98622888542979
+1999,,,Labour inputs,Undefined,Units,Index,61.606545300384155
+2000,,,Labour inputs,Undefined,Units,Index,59.08071363320941
+2001,,,Labour inputs,Undefined,Units,Index,57.3080989267398
+2002,,,Labour inputs,Undefined,Units,Index,55.69831802238924
+2003,,,Labour inputs,Undefined,Units,Index,54.07844991358167
+2004,,,Labour inputs,Undefined,Units,Index,53.22804306661497
+2005,,,Labour inputs,Undefined,Units,Index,52.63119198803125
+2006,,,Labour inputs,Undefined,Units,Index,51.87509030028122
+2007,,,Labour inputs,Undefined,Units,Index,51.51159938420308
+2008,,,Labour inputs,Undefined,Units,Index,51.281895234544585
+2009,,,Labour inputs,Undefined,Units,Index,50.52835837139015
+2010,,,Labour inputs,Undefined,Units,Index,50.29695638972619
+2011,,,Labour inputs,Undefined,Units,Index,51.085074099582314
+2012,,,Labour inputs,Undefined,Units,Index,51.103466649039845
+2013,,,Labour inputs,Undefined,Units,Index,50.70132485965143
+2014,,,Labour inputs,Undefined,Units,Index,50.774530283099786
+2015,,,Labour inputs,Undefined,Units,Index,50.90692760278894
+2016,,,Labour inputs,Undefined,Units,Index,50.47713312120285
+2017,,,Labour inputs,Undefined,Units,Index,50.9095577139229
+2018,,,Labour inputs,Undefined,Units,Index,51.27304412195891
+2019,,,Labour inputs,Undefined,Units,Index,51.40593452863933
+2020,,,Labour inputs,Undefined,Units,Index,50.88462347097074
 1973,Total factor productivity,,,Undefined,Units,Index,100.0
-1974,Total factor productivity,,,Undefined,Units,Index,106.3
-1975,Total factor productivity,,,Undefined,Units,Index,102.5
-1976,Total factor productivity,,,Undefined,Units,Index,98.2
-1977,Total factor productivity,,,Undefined,Units,Index,105.2
-1978,Total factor productivity,,,Undefined,Units,Index,109.3
-1979,Total factor productivity,,,Undefined,Units,Index,109.6
-1980,Total factor productivity,,,Undefined,Units,Index,114.7
-1981,Total factor productivity,,,Undefined,Units,Index,116.7
-1982,Total factor productivity,,,Undefined,Units,Index,119.5
-1983,Total factor productivity,,,Undefined,Units,Index,116.7
-1984,Total factor productivity,,,Undefined,Units,Index,127.6
-1985,Total factor productivity,,,Undefined,Units,Index,122.8
-1986,Total factor productivity,,,Undefined,Units,Index,123.3
-1987,Total factor productivity,,,Undefined,Units,Index,121.8
-1988,Total factor productivity,,,Undefined,Units,Index,121.3
-1989,Total factor productivity,,,Undefined,Units,Index,125.1
-1990,Total factor productivity,,,Undefined,Units,Index,125.8
-1991,Total factor productivity,,,Undefined,Units,Index,129.2
-1992,Total factor productivity,,,Undefined,Units,Index,130.7
-1993,Total factor productivity,,,Undefined,Units,Index,127.5
-1994,Total factor productivity,,,Undefined,Units,Index,128.7
-1995,Total factor productivity,,,Undefined,Units,Index,127.2
-1996,Total factor productivity,,,Undefined,Units,Index,126.2
-1997,Total factor productivity,,,Undefined,Units,Index,128.1
-1998,Total factor productivity,,,Undefined,Units,Index,131.2
-1999,Total factor productivity,,,Undefined,Units,Index,136.7
-2000,Total factor productivity,,,Undefined,Units,Index,139.4
-2001,Total factor productivity,,,Undefined,Units,Index,136.8
-2002,Total factor productivity,,,Undefined,Units,Index,144.9
-2003,Total factor productivity,,,Undefined,Units,Index,145.1
-2004,Total factor productivity,,,Undefined,Units,Index,145.6
-2005,Total factor productivity,,,Undefined,Units,Index,150.0
-2006,Total factor productivity,,,Undefined,Units,Index,148.0
-2007,Total factor productivity,,,Undefined,Units,Index,145.8
-2008,Total factor productivity,,,Undefined,Units,Index,151.8
-2009,Total factor productivity,,,Undefined,Units,Index,147.7
-2010,Total factor productivity,,,Undefined,Units,Index,147.1
-2011,Total factor productivity,,,Undefined,Units,Index,153.9
-2012,Total factor productivity,,,Undefined,Units,Index,145.9
-2013,Total factor productivity,,,Undefined,Units,Index,146.4
-2014,Total factor productivity,,,Undefined,Units,Index,155.2
-2015,Total factor productivity,,,Undefined,Units,Index,156.8
-2016,Total factor productivity,,,Undefined,Units,Index,152.5
-2017,Total factor productivity,,,Undefined,Units,Index,156.5
-2018,Total factor productivity,,,Undefined,Units,Index,153.2
-1973,Labour productivity,,,Undefined,Units,Index,100.0
-1974,Labour productivity,,,Undefined,Units,Index,104.9
-1975,Labour productivity,,,Undefined,Units,Index,102.6
-1976,Labour productivity,,,Undefined,Units,Index,101.9
-1977,Labour productivity,,,Undefined,Units,Index,110.7
-1978,Labour productivity,,,Undefined,Units,Index,117.0
-1979,Labour productivity,,,Undefined,Units,Index,121.9
-1980,Labour productivity,,,Undefined,Units,Index,128.4
-1981,Labour productivity,,,Undefined,Units,Index,131.0
-1982,Labour productivity,,,Undefined,Units,Index,141.1
-1983,Labour productivity,,,Undefined,Units,Index,141.0
-1984,Labour productivity,,,Undefined,Units,Index,154.3
-1985,Labour productivity,,,Undefined,Units,Index,151.3
-1986,Labour productivity,,,Undefined,Units,Index,155.3
-1987,Labour productivity,,,Undefined,Units,Index,156.1
-1988,Labour productivity,,,Undefined,Units,Index,159.8
-1989,Labour productivity,,,Undefined,Units,Index,165.7
-1990,Labour productivity,,,Undefined,Units,Index,168.7
-1991,Labour productivity,,,Undefined,Units,Index,175.1
-1992,Labour productivity,,,Undefined,Units,Index,178.5
-1993,Labour productivity,,,Undefined,Units,Index,177.1
-1994,Labour productivity,,,Undefined,Units,Index,183.7
-1995,Labour productivity,,,Undefined,Units,Index,188.1
-1996,Labour productivity,,,Undefined,Units,Index,189.4
-1997,Labour productivity,,,Undefined,Units,Index,193.1
-1998,Labour productivity,,,Undefined,Units,Index,197.4
-1999,Labour productivity,,,Undefined,Units,Index,208.0
-2000,Labour productivity,,,Undefined,Units,Index,209.8
-2001,Labour productivity,,,Undefined,Units,Index,208.2
-2002,Labour productivity,,,Undefined,Units,Index,221.9
-2003,Labour productivity,,,Undefined,Units,Index,226.3
-2004,Labour productivity,,,Undefined,Units,Index,231.8
-2005,Labour productivity,,,Undefined,Units,Index,237.2
-2006,Labour productivity,,,Undefined,Units,Index,233.3
-2007,Labour productivity,,,Undefined,Units,Index,233.1
-2008,Labour productivity,,,Undefined,Units,Index,244.5
-2009,Labour productivity,,,Undefined,Units,Index,242.5
-2010,Labour productivity,,,Undefined,Units,Index,246.8
-2011,Labour productivity,,,Undefined,Units,Index,254.0
-2012,Labour productivity,,,Undefined,Units,Index,240.8
-2013,Labour productivity,,,Undefined,Units,Index,247.1
-2014,Labour productivity,,,Undefined,Units,Index,264.2
-2015,Labour productivity,,,Undefined,Units,Index,269.1
-2016,Labour productivity,,,Undefined,Units,Index,264.5
-2017,Labour productivity,,,Undefined,Units,Index,270.9
-2018,Labour productivity,,,Undefined,Units,Index,264.1
-2013,,,,Undefined,,,
-2016,,,,Undefined,,,
+1974,Total factor productivity,,,Undefined,Units,Index,106.2703725808669
+1975,Total factor productivity,,,Undefined,Units,Index,102.46637125367086
+1976,Total factor productivity,,,Undefined,Units,Index,98.2298125122008
+1977,Total factor productivity,,,Undefined,Units,Index,105.16255600519793
+1978,Total factor productivity,,,Undefined,Units,Index,109.32183238998621
+1979,Total factor productivity,,,Undefined,Units,Index,109.61085908456269
+1980,Total factor productivity,,,Undefined,Units,Index,114.70098703395675
+1981,Total factor productivity,,,Undefined,Units,Index,116.73346256586414
+1982,Total factor productivity,,,Undefined,Units,Index,119.5227420178417
+1983,Total factor productivity,,,Undefined,Units,Index,116.6758028893837
+1984,Total factor productivity,,,Undefined,Units,Index,127.58818584087119
+1985,Total factor productivity,,,Undefined,Units,Index,122.7927322800959
+1986,Total factor productivity,,,Undefined,Units,Index,123.29905277461346
+1987,Total factor productivity,,,Undefined,Units,Index,121.78241836469455
+1988,Total factor productivity,,,Undefined,Units,Index,121.27602740940317
+1989,Total factor productivity,,,Undefined,Units,Index,125.08455083370762
+1990,Total factor productivity,,,Undefined,Units,Index,125.8192445018802
+1991,Total factor productivity,,,Undefined,Units,Index,129.16723284409042
+1992,Total factor productivity,,,Undefined,Units,Index,130.66732402942293
+1993,Total factor productivity,,,Undefined,Units,Index,127.5314308945487
+1994,Total factor productivity,,,Undefined,Units,Index,128.65708171718225
+1995,Total factor productivity,,,Undefined,Units,Index,127.22283119118649
+1996,Total factor productivity,,,Undefined,Units,Index,126.23335620313803
+1997,Total factor productivity,,,Undefined,Units,Index,128.0620280337567
+1998,Total factor productivity,,,Undefined,Units,Index,131.21311619244443
+1999,Total factor productivity,,,Undefined,Units,Index,136.74188734680362
+2000,Total factor productivity,,,Undefined,Units,Index,139.4224875771826
+2001,Total factor productivity,,,Undefined,Units,Index,136.75434827314007
+2002,Total factor productivity,,,Undefined,Units,Index,144.87498217701585
+2003,Total factor productivity,,,Undefined,Units,Index,145.13878226586272
+2004,Total factor productivity,,,Undefined,Units,Index,145.63472161512584
+2005,Total factor productivity,,,Undefined,Units,Index,150.03767511728213
+2006,Total factor productivity,,,Undefined,Units,Index,148.03432043463837
+2007,Total factor productivity,,,Undefined,Units,Index,145.80474719017224
+2008,Total factor productivity,,,Undefined,Units,Index,151.8453511823871
+2009,Total factor productivity,,,Undefined,Units,Index,147.65785925819316
+2010,Total factor productivity,,,Undefined,Units,Index,147.0699287898557
+2011,Total factor productivity,,,Undefined,Units,Index,153.96134812334253
+2012,Total factor productivity,,,Undefined,Units,Index,145.86107880622924
+2013,Total factor productivity,,,Undefined,Units,Index,146.3582987756807
+2014,Total factor productivity,,,Undefined,Units,Index,155.2430685259709
+2015,Total factor productivity,,,Undefined,Units,Index,156.59938679063455
+2016,Total factor productivity,,,Undefined,Units,Index,151.80908098835835
+2017,Total factor productivity,,,Undefined,Units,Index,157.1468019029189
+2018,Total factor productivity,,,Undefined,Units,Index,155.66051115286692
+2019,Total factor productivity,,,Undefined,Units,Index,161.44117257119473
+2020,Total factor productivity,,,Undefined,Units,Index,154.18495713455331
+1973,Productivity by labour,,,Undefined,Units,Index,100.0
+1974,Productivity by labour,,,Undefined,Units,Index,104.91589181801572
+1975,Productivity by labour,,,Undefined,Units,Index,102.63028206202232
+1976,Productivity by labour,,,Undefined,Units,Index,101.92077500831142
+1977,Productivity by labour,,,Undefined,Units,Index,110.68694838672994
+1978,Productivity by labour,,,Undefined,Units,Index,117.04560135619187
+1979,Productivity by labour,,,Undefined,Units,Index,121.91597886283934
+1980,Productivity by labour,,,Undefined,Units,Index,128.37398341444685
+1981,Productivity by labour,,,Undefined,Units,Index,130.98872484198068
+1982,Productivity by labour,,,Undefined,Units,Index,141.08008177049655
+1983,Productivity by labour,,,Undefined,Units,Index,141.04940342017238
+1984,Productivity by labour,,,Undefined,Units,Index,154.33105872145137
+1985,Productivity by labour,,,Undefined,Units,Index,151.34937868145695
+1986,Productivity by labour,,,Undefined,Units,Index,155.3159848266522
+1987,Productivity by labour,,,Undefined,Units,Index,156.1248288234132
+1988,Productivity by labour,,,Undefined,Units,Index,159.75187774795066
+1989,Productivity by labour,,,Undefined,Units,Index,165.74072105450466
+1990,Productivity by labour,,,Undefined,Units,Index,168.6627763447957
+1991,Productivity by labour,,,Undefined,Units,Index,175.10009522943167
+1992,Productivity by labour,,,Undefined,Units,Index,178.5276460834046
+1993,Productivity by labour,,,Undefined,Units,Index,177.06971707235533
+1994,Productivity by labour,,,Undefined,Units,Index,183.74279763357265
+1995,Productivity by labour,,,Undefined,Units,Index,188.08694367176557
+1996,Productivity by labour,,,Undefined,Units,Index,189.42884176179194
+1997,Productivity by labour,,,Undefined,Units,Index,193.0737526468262
+1998,Productivity by labour,,,Undefined,Units,Index,197.4255268535059
+1999,Productivity by labour,,,Undefined,Units,Index,207.95997536193687
+2000,Productivity by labour,,,Undefined,Units,Index,209.75784028693968
+2001,Productivity by labour,,,Undefined,Units,Index,208.22270676670342
+2002,Productivity by labour,,,Undefined,Units,Index,221.94576620051785
+2003,Productivity by labour,,,Undefined,Units,Index,226.33276609899607
+2004,Productivity by labour,,,Undefined,Units,Index,231.75810799153908
+2005,Productivity by labour,,,Undefined,Units,Index,237.23823137243704
+2006,Productivity by labour,,,Undefined,Units,Index,233.3457140547174
+2007,Productivity by labour,,,Undefined,Units,Index,233.05209877898778
+2008,Productivity by labour,,,Undefined,Units,Index,244.522231526171
+2009,Productivity by labour,,,Undefined,Units,Index,242.52102257855003
+2010,Productivity by labour,,,Undefined,Units,Index,246.86447287677663
+2011,Productivity by labour,,,Undefined,Units,Index,254.06446223974712
+2012,Productivity by labour,,,Undefined,Units,Index,240.7852616683774
+2013,Productivity by labour,,,Undefined,Units,Index,247.1233130396813
+2014,Productivity by labour,,,Undefined,Units,Index,264.2834415777996
+2015,Productivity by labour,,,Undefined,Units,Index,268.73041849849534
+2016,Productivity by labour,,,Undefined,Units,Index,263.68428028793136
+2017,Productivity by labour,,,Undefined,Units,Index,271.85307870180526
+2018,Productivity by labour,,,Undefined,Units,Index,263.7488273742962
+2019,Productivity by labour,,,Undefined,Units,Index,273.4166410631964
+2020,Productivity by labour,,,Undefined,Units,Index,260.59694630531453
+1973,Productivity by land,,,Undefined,Units,Index,100.0
+1974,Productivity by land,,,Undefined,Units,Index,100.7404380503195
+1975,Productivity by land,,,Undefined,Units,Index,97.07419368512154
+1976,Productivity by land,,,Undefined,Units,Index,94.57077119399221
+1977,Productivity by land,,,Undefined,Units,Index,101.35126615636143
+1978,Productivity by land,,,Undefined,Units,Index,105.92403967562127
+1979,Productivity by land,,,Undefined,Units,Index,108.46796815236237
+1980,Productivity by land,,,Undefined,Units,Index,111.8746321755993
+1981,Productivity by land,,,Undefined,Units,Index,112.09187262925755
+1982,Productivity by land,,,Undefined,Units,Index,119.37269030272415
+1983,Productivity by land,,,Undefined,Units,Index,117.93460942110379
+1984,Productivity by land,,,Undefined,Units,Index,127.49300522453547
+1985,Productivity by land,,,Undefined,Units,Index,123.70833997929734
+1986,Productivity by land,,,Undefined,Units,Index,125.11115763879997
+1987,Productivity by land,,,Undefined,Units,Index,121.53044790910725
+1988,Productivity by land,,,Undefined,Units,Index,121.74768989279434
+1989,Productivity by land,,,Undefined,Units,Index,124.3883770389829
+1990,Productivity by land,,,Undefined,Units,Index,124.02035162584465
+1991,Productivity by land,,,Undefined,Units,Index,126.74349085433833
+1992,Productivity by land,,,Undefined,Units,Index,127.1829370224846
+1993,Productivity by land,,,Undefined,Units,Index,124.17402089826174
+1994,Productivity by land,,,Undefined,Units,Index,126.88284776949399
+1995,Productivity by land,,,Undefined,Units,Index,127.94344253908463
+1996,Productivity by land,,,Undefined,Units,Index,126.83587341931958
+1997,Productivity by land,,,Undefined,Units,Index,127.99622549555691
+1998,Productivity by land,,,Undefined,Units,Index,128.2113467961091
+1999,Productivity by land,,,Undefined,Units,Index,130.3283088076688
+2000,Productivity by land,,,Undefined,Units,Index,127.92061112675653
+2001,Productivity by land,,,Undefined,Units,Index,121.62690993669747
+2002,Productivity by land,,,Undefined,Units,Index,126.38634915963279
+2003,Productivity by land,,,Undefined,Units,Index,125.54094578979867
+2004,Productivity by land,,,Undefined,Units,Index,126.80098734996521
+2005,Productivity by land,,,Undefined,Units,Index,128.28774359106845
+2006,Productivity by land,,,Undefined,Units,Index,122.40382771553962
+2007,Productivity by land,,,Undefined,Units,Index,122.48599955736192
+2008,Productivity by land,,,Undefined,Units,Index,128.18477025757502
+2009,Productivity by land,,,Undefined,Units,Index,125.2257066828483
+2010,Productivity by land,,,Undefined,Units,Index,127.55125923579982
+2011,Productivity by land,,,Undefined,Units,Index,133.80871049278724
+2012,Productivity by land,,,Undefined,Units,Index,126.73306070668737
+2013,Productivity by land,,,Undefined,Units,Index,128.5252156439409
+2014,Productivity by land,,,Undefined,Units,Index,137.79856246422807
+2015,Productivity by land,,,Undefined,Units,Index,141.24519646062905
+2016,Productivity by land,,,Undefined,Units,Index,135.73607226270278
+2017,Productivity by land,,,Undefined,Units,Index,140.20328726430512
+2018,Productivity by land,,,Undefined,Units,Index,137.90346826554782
+2019,Productivity by land,,,Undefined,Units,Index,141.93562306862114
+2020,Productivity by land,,,Undefined,Units,Index,135.94405283509616
