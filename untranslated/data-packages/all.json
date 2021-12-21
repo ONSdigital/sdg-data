@@ -2804,6 +2804,30 @@
         "fields": [
           {
             "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies",
+                "Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula",
+                "Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Unit measure",
             "type": "string"
           },
           {
