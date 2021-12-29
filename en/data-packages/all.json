@@ -4661,16 +4661,55 @@
             "title": "Year"
           },
           {
-            "name": "Sex",
+            "name": "Neonatal period",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "Early neonatal",
+                "Late neonatal",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Neonatal period"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "19 and under",
+                "20 to 24",
+                "25 to 29",
+                "30 to 34",
+                "35 to 39",
+                "40 and over",
+                "Not stated",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Birthweight (grams)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under 2500",
+                "Under 1500",
+                "Under 1000",
+                "1000 to 1499",
+                "1500 to 1999",
+                "2000 to 2499",
+                "2500 to 2999",
+                "3000 to 3499",
+                "3500 to 3999",
+                "4000 and over",
+                "Not stated",
+                "Implausible birthweight",
+                ""
+              ]
+            },
+            "title": "Birthweight (grams)"
           },
           {
             "name": "Country",
@@ -4701,69 +4740,54 @@
                 "South West",
                 "West Midlands",
                 "Yorkshire and The Humber",
+                "Inner London",
+                "Outer London",
                 ""
               ]
             },
             "title": "Region"
           },
           {
-            "name": "Health Board",
+            "name": "Country of birth",
             "type": "string",
             "constraints": {
               "enum": [
-                "Abertawe Bro Morgannwg University",
-                "Aneurin Bevan University",
-                "Betsi Cadwaladr University",
-                "Cardiff and Vale University",
-                "Cwm Taf University",
-                "Hywel Dda University",
-                "Powys Teaching",
+                "Born in UK‚ Isle of Man and Channel Islands",
+                "Not born in UK",
+                "Born in EU",
+                "Born in Rest of Europe (non EU)",
+                "Born in Africa",
+                "Born in the Americas and the Caribbean",
+                "Born in Middle East and Asia",
+                "Born in Antarctica and Oceania",
+                "Other/Not stated",
                 ""
               ]
             },
-            "title": "Health Board"
+            "title": "Country of birth"
           },
           {
-            "name": "Birth weight",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "1000 to 1499",
-                "1500 to 1999",
-                "2000 to 2499",
-                "2500 to 2999",
-                "3000 to 3499",
-                "3500 to 3999",
-                "4000 and over",
-                "Not stated",
-                "Under 1000",
-                "Under 1500",
-                "Under 2500",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Birth weight"
+            "title": "Sex"
           },
           {
-            "name": "Age",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "19 and under",
-                "20 to 24",
-                "25 to 29",
-                "30 to 34",
-                "35 to 39",
-                "40 and over",
+                "Rate per 1,000 live births",
                 ""
               ]
             },
-            "title": "Age"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
+            "title": "Units"
           },
           {
             "name": "Unit multiplier",
