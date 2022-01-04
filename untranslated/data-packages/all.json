@@ -854,13 +854,12 @@
             "type": "integer"
           },
           {
-            "name": "Measure",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "Median",
                 "Percentile (2.5th)",
-                "Mean",
                 ""
               ]
             }
@@ -882,9 +881,9 @@
             "constraints": {
               "enum": [
                 "1.5 to 3",
-                "4 to 10",
                 "11 to 18",
                 "19 to 64",
+                "4 to 10",
                 "65 and over",
                 "65 to 74",
                 "75 and over",
