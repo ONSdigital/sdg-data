@@ -13756,6 +13756,7 @@
                 "Northern Ireland",
                 "Scotland",
                 "Wales",
+                "United Kingdom",
                 ""
               ]
             },
@@ -13797,8 +13798,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Male",
+                "Female",
                 ""
               ]
             },
@@ -22005,8 +22006,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Male",
+                "Female",
                 ""
               ]
             },
