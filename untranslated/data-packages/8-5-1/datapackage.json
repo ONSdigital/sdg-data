@@ -49,7 +49,6 @@
                 "Northern Ireland",
                 "Scotland",
                 "Wales",
-                "United Kingdom",
                 ""
               ]
             }
@@ -88,8 +87,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Men",
+                "Women",
                 ""
               ]
             }
