@@ -42,7 +42,7 @@ inputs:
   #  path_pattern: data/*-*.csv
   - class:  InputSdmxMl_UnitedNationsApi
     reference_area: 826
-  - class: InputYamlMeta
+  - class: InputYamlMdMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
     path_pattern: meta/*-*.yml
     # This specifies whether or not to use Git to calculate the "last updated"
