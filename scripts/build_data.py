@@ -63,10 +63,6 @@ def alter_meta(meta):
                 if meta['reporting_status']=="notstarted":
                     meta['page_content']="<strong>No data was sourced for this indicator</strong>"+meta['page_content']
     
-    if 'reporting_status' in meta:
-        meta['rs']=meta['reporting_status']
-        del meta['reporting_status']    
-
     return meta
   
 open_sdg_build(config='config_data.yml', alter_meta=alter_meta)
