@@ -36,6 +36,7 @@ changed_indicators=pd.read_csv('changed_indicators.csv')
 def alter_meta(meta):
     if 'indicator_number' in meta:
         indicator_id = meta['indicator_number']
+        print(indicator_id)
         id_parts = indicator_id.split('.')
         target_id = id_parts[0] + '.' + id_parts[1]
         goal_id = id_parts[0]
