@@ -112,6 +112,8 @@ docs_indicator_url: https://sdgdata.gov.uk/[id]
 docs_metadata_fields:
     - key: reporting_status
       label: Reporting status
+    - key: un_designated_tier
+      label: UN designated tier
     - key: un_custodian_agency
       label: UN custodian agency
     - key: data_non_statistical
