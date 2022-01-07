@@ -34,8 +34,6 @@ archived_indicators=pd.read_csv('archived_indicators.csv')
 changed_indicators=pd.read_csv('changed_indicators.csv')
 
 def alter_meta(meta):
-    if 'reporting_status' in meta:
-        del meta['reporting_status']
     if 'indicator_number' in meta:
         indicator_id = meta['indicator_number']
         print(indicator_id)
@@ -64,6 +62,9 @@ def alter_meta(meta):
                 meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals compilation of previous metadata'
                 if meta['reporting_status']=="notstarted":
                     meta['page_content']="<strong>No data was sourced for this indicator</strong>"+meta['page_content']
+    
+    if 'reporting_status' in meta:
+        del meta['reporting_status']    
 
     return meta
   
