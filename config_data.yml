@@ -42,6 +42,18 @@ inputs:
   #  path_pattern: data/*-*.csv
   - class:  InputSdmxMl_UnitedNationsApi
     reference_area: 826
+  - class: InputYamlMeta
+    # This describes the meta files, relative to the "src_dir" indicated above.
+    path_pattern: meta/*-*.yml
+    # This specifies whether or not to use Git to calculate the "last updated"
+    # dates for data files.
+    git: true
+    # This specifies an alternate folder to look in for Git-versioned data files,
+    # when calculating the "last updated" dates for data files. This defaults to
+    # "data" (the folder where the data files actually exist.) Most sites will not
+    # need to change this setting. It is intended for sites where the data needs
+    # to be "built" before being processed by sdg-build.
+    git_data_dir: data
     
 
 # Translation repositories
