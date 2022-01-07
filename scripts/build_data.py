@@ -64,6 +64,7 @@ def alter_meta(meta):
                     meta['page_content']="<strong>No data was sourced for this indicator</strong>"+meta['page_content']
     
     if 'reporting_status' in meta:
+        meta['rs']=meta['reporting_status']
         del meta['reporting_status']    
 
     return meta
