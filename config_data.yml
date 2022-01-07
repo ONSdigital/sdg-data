@@ -26,6 +26,24 @@ schema_file: _prose.yml
 # The default, '', points to the root of this repository.
 src_dir: ''
 
+# Inputs
+# ------
+# The allows control over the inputs of data and metadata. This can be omitted
+# if you are using the standard Open SDG approach of CSV data and YAML metadata.
+# But if you would like to use non-standard inputs (such as SDMX) then you can
+# use this as needed.
+#
+# Each item must have a "class" which corresponds to classes in the sdg/inputs
+# folder. Further, each item can have any/all of the parameters that class uses.
+# The defaults below show what is used when this is omitted.
+inputs:
+ # - class: InputCsvData
+    # This describes the data files, relative to the "src_dir" indicated above.
+  #  path_pattern: data/*-*.csv
+  - class:  InputSdmxMl_UnitedNationsApi
+    reference_area: 826
+    
+
 # Translation repositories
 # ------------------------
 # This tells sdg-build to import translations from Git repositories. Specific
