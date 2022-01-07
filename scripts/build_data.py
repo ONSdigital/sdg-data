@@ -34,6 +34,8 @@ archived_indicators=pd.read_csv('archived_indicators.csv')
 changed_indicators=pd.read_csv('changed_indicators.csv')
 
 def alter_meta(meta):
+    if 'reporting_status' in meta:
+        del meta['reporting_status']
     if 'indicator_number' in meta:
         indicator_id = meta['indicator_number']
         print(indicator_id)
