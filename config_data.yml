@@ -42,7 +42,7 @@ inputs:
   #  path_pattern: data/*-*.csv
   - class:  InputSdmxMl_UnitedNationsApi
     reference_area: 826
-    prefix: 'https://data.un.org/ws/rest/data/IAEG-SDGs,DF_SDG_GLH,1.7'
+    kwargs['prefix']: 'https://data.un.org/ws/rest/data/IAEG-SDGs,DF_SDG_GLH,1.7'
     
 
 # Translation repositories
