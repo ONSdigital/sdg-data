@@ -15,24 +15,60 @@
             "type": "integer"
           },
           {
-            "name": "Treatment connection",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Independent",
-                "Public sewage",
+                "Proportion of population using safely managed sanitation services (%)",
                 ""
               ]
             }
           },
           {
-            "name": "Water treatment category",
+            "name": "Safely managed element",
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary",
-                "Secondary",
-                "Tertiary",
+                "Disposed insitu",
+                "Faecal sludge treated",
+                "Sewage treated",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Service level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Basic service",
+                "Limited service",
+                "Open defecation",
+                "Safely managed service",
+                "Unimproved",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Facility type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Improved latrine and other",
+                "Septic tank",
+                "Sewer",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Residence type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
                 ""
               ]
             }
@@ -42,11 +78,17 @@
             "type": "string"
           },
           {
-            "name": "Unit multiplier",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
-            "name": "Unit measure",
+            "name": "Unit multiplier",
             "type": "string"
           },
           {

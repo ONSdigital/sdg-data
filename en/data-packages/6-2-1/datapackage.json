@@ -16,29 +16,68 @@
             "title": "Year"
           },
           {
-            "name": "Treatment connection",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Independent",
-                "Public sewage",
+                "Proportion of population using safely managed sanitation services (%)",
                 ""
               ]
             },
-            "title": "Treatment connection"
+            "title": "Series"
           },
           {
-            "name": "Water treatment category",
+            "name": "Safely managed element",
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary",
-                "Secondary",
-                "Tertiary",
+                "Disposed insitu",
+                "Faecal sludge treated",
+                "Sewage treated",
                 ""
               ]
             },
-            "title": "Water treatment category"
+            "title": "Safely managed element"
+          },
+          {
+            "name": "Service level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Basic service",
+                "Limited service",
+                "Open defecation",
+                "Safely managed service",
+                "Unimproved",
+                ""
+              ]
+            },
+            "title": "Service level"
+          },
+          {
+            "name": "Facility type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Improved latrine and other",
+                "Septic tank",
+                "Sewer",
+                ""
+              ]
+            },
+            "title": "Facility type"
+          },
+          {
+            "name": "Residence type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Residence type"
           },
           {
             "name": "Observation status",
@@ -46,14 +85,20 @@
             "title": "Observation status"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
           },
           {
             "name": "Value",
