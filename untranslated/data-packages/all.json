@@ -2999,7 +2999,10 @@
             "constraints": {
               "enum": [
                 "Total factor productivity",
-                "Labour productivity",
+                "Productivity by labour",
+                "Productivity by land",
+                "Productivity by intermediate consumption",
+                "Productivity by capital consumption",
                 ""
               ]
             }
