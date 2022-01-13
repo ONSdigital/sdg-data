@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Age",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Series"
           },
           {
             "name": "Unit measure",
