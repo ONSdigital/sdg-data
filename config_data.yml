@@ -2,6 +2,15 @@
 # which are helpers for implementations of Open SDG. This file allows easy use
 # of those functions without altering Python code.
 
+inputs:
+  - class: InputCsvData
+    path_pattern: data/*-*.csv
+  - class: InputYamlMdMeta
+    path_pattern: meta/*-*.md
+    git: true
+    git_data_dir: data
+  - class: InputSdmxMeta
+
 # Languages
 # ---------
 # This tells sdg-build to perform "translated builds" for each of the specified
