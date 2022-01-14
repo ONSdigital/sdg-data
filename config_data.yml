@@ -10,6 +10,7 @@ inputs:
     git: true
     git_data_dir: data
   - class: InputSdmxMeta
+    meta_suffix: __GLOBAL
 
 # Languages
 # ---------
