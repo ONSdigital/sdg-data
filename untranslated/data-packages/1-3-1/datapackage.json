@@ -12,6 +12,57 @@
         "fields": [
           {
             "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population covered by at least one social protection benefit",
+                "Proportion of children/households receiving child/family cash benefit",
+                "Proportion of population with severe disabilities receiving disability cash benefit",
+                "Proportion of mothers with newborns receiving maternity cash benefit",
+                "Proportion of population above statutory pensionable age receiving a pension",
+                "Proportion of poor population receiving social assistance cash benefit",
+                "Proportion of unemployed persons receiving unemployment cash benefit",
+                "Proportion of vulnerable population receiving social assistance cash benefit",
+                "Proportion of employed population covered in the event of work injury",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
             "type": "string"
           },
           {
