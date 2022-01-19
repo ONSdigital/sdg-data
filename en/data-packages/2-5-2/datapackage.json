@@ -16,22 +16,26 @@
             "title": "Year"
           },
           {
-            "name": "Risk of extinction category",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Not at risk",
-                "Endangered",
-                "Critical",
+                "Proportion of local breeds classified as being at risk as a percentage of local breeds with known level of extinction risk",
                 ""
               ]
             },
-            "title": "Risk of extinction category"
+            "title": "Series"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Unit multiplier",
