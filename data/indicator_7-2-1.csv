@@ -1,30 +1,541 @@
-Year,Observation status,Unit multiplier,Unit measure,Value
-1990,Undefined,Units,Percentage (%),0.7
-1991,Undefined,Units,Percentage (%),0.7
-1992,Undefined,Units,Percentage (%),0.7
-1993,Undefined,Units,Percentage (%),0.8
-1994,Undefined,Units,Percentage (%),1.0
-1995,Undefined,Units,Percentage (%),1.1
-1996,Undefined,Units,Percentage (%),1.1
-1997,Undefined,Units,Percentage (%),1.2
-1998,Undefined,Units,Percentage (%),1.3
-1999,Undefined,Units,Percentage (%),1.3
-2000,Undefined,Units,Percentage (%),1.4
-2001,Undefined,Units,Percentage (%),1.4
-2002,Undefined,Units,Percentage (%),1.6
-2003,Undefined,Units,Percentage (%),1.7
-2004,Undefined,Units,Percentage (%),1.9
-2005,Undefined,Units,Percentage (%),2.2
-2006,Undefined,Units,Percentage (%),2.3
-2007,Undefined,Units,Percentage (%),2.5
-2008,Undefined,Units,Percentage (%),3.0
-2009,Undefined,Units,Percentage (%),3.6
-2010,Undefined,Units,Percentage (%),3.9
-2011,Undefined,Units,Percentage (%),4.5
-2012,Undefined,Units,Percentage (%),4.9
-2013,Undefined,Units,Percentage (%),5.9
-2014,Undefined,Units,Percentage (%),7.2
-2015,Undefined,Units,Percentage (%),8.6
-2016,Undefined,Units,Percentage (%),9.0
-2017,Undefined,Units,Percentage (%),10.1
-2018,Undefined,Units,Percentage (%),11.4
+Year,Series,Renewable and waste source,Observation status,Unit multiplier,Units,Value
+1990,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),0.7
+1991,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),0.7000000000000001
+1992,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),0.7000000000000001
+1993,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),0.8
+1994,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),1.0
+1995,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),1.0999999999999999
+1996,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),1.0999999999999999
+1997,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),1.2
+1998,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),1.2
+1999,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),1.3
+2000,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),1.4000000000000001
+2001,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),1.4000000000000001
+2002,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),1.6
+2003,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),1.7000000000000002
+2004,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),1.9
+2005,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),2.1
+2006,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),2.3
+2007,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),2.5
+2008,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),3.0
+2009,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),3.5999999999999996
+2010,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),3.9
+2011,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),4.5
+2012,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),4.9
+2013,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),5.800000000000001
+2014,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),7.199999999999999
+2015,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),8.5
+2016,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),9.0
+2017,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),10.100000000000001
+2018,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),11.200000000000001
+2019,Renewable energy share in the total final energy consumption,,Normal Value,Units,Percentage (%),12.5
+1990,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.19943907759426613
+1990,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.00044517651248720115
+1990,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.0
+1990,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.00044517651248720115
+1990,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.035614120998976095
+1990,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.061434358723233766
+1990,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.0
+1990,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.0814673017851578
+1990,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.0
+1990,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.0031162355874104083
+1990,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),0.24084049325557585
+1990,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.017361883987000844
+1990,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.0
+1990,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.0
+1990,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.0
+1990,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.028936473311668078
+1990,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.0
+1991,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.17259098970958747
+1991,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.0004336457027879082
+1991,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.0
+1991,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.0004336457027879082
+1991,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.04553279879273036
+1991,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.06548050112097414
+1991,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.0
+1991,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.08022445501576302
+1991,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.0
+1991,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.0030355199195153575
+1991,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),0.24717805058910766
+1991,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.015611245300364694
+1991,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.0
+1991,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.0
+1991,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.0
+1991,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.028186970681214035
+1991,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.0
+1992,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.20489196007458596
+1992,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.0013162224415926291
+1992,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.0
+1992,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.0004387408138642097
+1992,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.06800482614895251
+1992,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.06624986289349566
+1992,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.0
+1992,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.09213557091148403
+1992,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.007019853021827355
+1992,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.003071185697049468
+1992,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),0.25183722715805634
+1992,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.014478446857518921
+1992,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.0
+1992,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.0
+1992,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.0
+1992,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.02851815290117363
+1992,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.0
+1993,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.1604760500338301
+1993,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.008240662028764249
+1993,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.0
+1993,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.00043371905414548676
+1993,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.07026248677156886
+1993,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.0685276105549869
+1993,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.0
+1993,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.11623670651099045
+1993,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.018649919328255927
+1993,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.003036033379018407
+1993,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),0.2758453184365296
+1993,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.014746447840946551
+1993,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.0
+1993,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.0
+1993,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.0
+1993,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.02819173851945664
+1993,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.0
+1994,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.18974674441373454
+1994,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.012996352357105105
+1994,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.0
+1994,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.00043321174523683684
+1994,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.08144380810452533
+1994,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.07364599669026227
+1994,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.0
+1994,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.16678652191618218
+1994,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.043754386268920524
+1994,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.0030324822166578583
+1994,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),0.42498072207733695
+1994,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.014729199338052454
+1994,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.0
+1994,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.0
+1994,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.0
+1994,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.028158763440394394
+1994,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.0
+1995,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.1802762213063959
+1995,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.014734114241388128
+1995,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.0
+1995,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.0004333563012172978
+1995,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.08623790394224227
+1995,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.0836377661349385
+1995,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.0
+1995,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.1781094398003094
+1995,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.04376898642294709
+1995,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.0030334941085210848
+1995,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),0.4701915868207681
+1995,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.015167470542605426
+1995,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.0
+1995,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.0
+1995,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.0
+1995,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.028168159579124358
+1995,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.0
+1996,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.11981453366706331
+1996,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.01723359730827623
+1996,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.0
+1996,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.0004103237454351484
+1996,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.10217061261335192
+1996,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.07919248286898363
+1996,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.0
+1996,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.16248820319231874
+1996,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.04144269828894998
+1996,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.0028722662180460383
+1996,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),0.4911575232858726
+1996,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.016823273562841082
+1996,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.0
+1996,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.0
+1996,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.0
+1996,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.02667104345328464
+1996,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.0
+1997,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.15868084999202398
+1997,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.02392806468133695
+1997,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.0
+1997,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.0004197906084445079
+1997,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.133073622876909
+1997,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.08059979682134552
+1997,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.0
+1997,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.19520263292669618
+1997,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.0423988514528953
+1997,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.002938534259111555
+1997,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),0.48905605883785175
+1997,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.0159520431208913
+1997,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.0
+1997,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.0
+1997,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.0
+1997,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.027286389548893012
+1997,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.0
+1998,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.18086453246518358
+1998,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.030829181670201745
+1998,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.0
+1998,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.0004110557556026899
+1998,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.16524441375228135
+1998,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.07440109176408687
+1998,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.0
+1998,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.26677518538614575
+1998,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.04603824462750127
+1998,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.0028773902892188295
+1998,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),0.4480507736069321
+1998,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.0164422302241076
+1998,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.0
+1998,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.0
+1998,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.0
+1998,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.011920616912478008
+1998,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.0
+1999,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.18865830651426035
+1999,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.03000448012100437
+1999,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.0
+1999,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.00041102027563019684
+1999,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.2351035976604726
+1999,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.0776828320941072
+1999,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.0
+1999,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.2601758344739146
+1999,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.060831000793269134
+1999,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.002877141929411378
+1999,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),0.4237619041747329
+1999,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.013563669095796496
+1999,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.0
+1999,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.0
+1999,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.0
+1999,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.030415500396634567
+1999,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.0
+2000,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.17830330330330332
+2000,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.03304935370152762
+2000,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.0
+2000,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.0004080167123645385
+2000,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.29826021673847763
+2000,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.068954824389607
+2000,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.0
+2000,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.2766353309831571
+2000,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.06487465726596162
+2000,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.006120250685468077
+2000,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),0.37415132523828176
+2000,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.014688601645123384
+2000,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.0
+2000,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.0
+2000,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.0
+2000,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.03672150411280846
+2000,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.0
+2001,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.13946610132132106
+2001,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.03326346669445302
+2001,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.0
+2001,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.00040076465896931343
+2001,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.3350392548983461
+2001,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.06732846270684467
+2001,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.0
+2001,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.2929589657065681
+2001,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.07975216713489339
+2001,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.03045811408166782
+2001,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),0.38473407261054093
+2001,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.013225233745987344
+2001,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.0
+2001,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.0
+2001,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.0
+2001,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.03125964339960645
+2001,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.0
+2002,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.16928747231615668
+2002,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.044376327694526506
+2002,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.0
+2002,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.0004108919230974677
+2002,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.36651559540294115
+2002,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.07149519461895937
+2002,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.0
+2002,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.32665907886248685
+2002,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.0801239250040062
+2002,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.02506440730894553
+2002,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),0.38541662386542463
+2002,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.014381217308411371
+2002,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.0
+2002,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.0
+2002,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.0008217838461949354
+2002,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.07519322192683658
+2002,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.0
+2003,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.1123581882040069
+2003,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.044862442052679016
+2003,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.0
+2003,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.0004041661446187298
+2003,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.4397327653451781
+2003,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.06668741386209043
+2003,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.0012124984338561897
+2003,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.32979957400888354
+2003,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.0731540721759901
+2003,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.03435412229259204
+2003,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),0.4134619659449606
+2003,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.014954147350893003
+2003,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.0
+2003,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.0
+2003,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.006466658313899677
+2003,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.12165400953023768
+2003,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.0
+2004,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.1672528519012008
+2004,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.0664209890325343
+2004,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.0
+2004,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.0004001264399550258
+2004,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.5309677858203192
+2004,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.07082237987203956
+2004,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.0020006321997751287
+2004,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.3160998875644704
+2004,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.06562073615262423
+2004,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.03201011519640206
+2004,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),0.43093617583156274
+2004,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.01600505759820103
+2004,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.004401390839505284
+2004,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.0
+2004,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.006802149479235439
+2004,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.1736548749404812
+2004,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.0
+2005,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.168726889800998
+2005,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.09972038404314303
+2005,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.00039888153617257207
+2005,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.00039888153617257207
+2005,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.5668106629012251
+2005,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.08216959645154985
+2005,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.0019944076808628606
+2005,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.3167119397210223
+2005,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.0630232827152664
+2005,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.02832058906825262
+2005,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),0.5364956661521094
+2005,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.014359735302212597
+2005,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.06900650575785497
+2005,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.019146313736283463
+2005,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.010769801476659447
+2005,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.15676044371582085
+2005,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.00039888153617257207
+2006,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.16129295701032276
+2006,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.1482261858094865
+2006,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.0004083366000261336
+2006,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.0004083366000261336
+2006,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.5982131190382857
+2006,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.07758395400496539
+2006,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.0024500196001568018
+2006,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.34953612962237035
+2006,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.06002548020384163
+2006,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.030625245001960018
+2006,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),0.5300209068339213
+2006,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.014291781000914675
+2006,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.08248399320527898
+2006,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.022050176401411214
+2006,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.05675878740363257
+2006,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.18701816281196917
+2006,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.0012250098000784009
+2007,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.18253510772495257
+2007,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.18921831533044284
+2007,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.00041770047534314095
+2007,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.00041770047534314095
+2007,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.646182635355839
+2007,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.08813480029740273
+2007,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.002923903327401987
+2007,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.3684118192526503
+2007,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.06349047225215743
+2007,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.029656733749363
+2007,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),0.5831098635790246
+2007,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.014201816161666794
+2007,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.025062028520588454
+2007,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.03592224087951011
+2007,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.11904463547279516
+2007,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.16123238348245242
+2007,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.0025062028520588457
+2008,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.18693802285549946
+2008,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.25926019911859993
+2008,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.0004229367032929852
+2008,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.0004229367032929852
+2008,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.657243636917299
+2008,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.09727544175738659
+2008,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.002960556923050896
+2008,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.3848723999966165
+2008,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.07570566988944434
+2008,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.03341199956014583
+2008,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),0.7756659138393348
+2008,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.01311103780208254
+2008,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.011842227692203585
+2008,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.04906065758198628
+2008,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.3083208567005862
+2008,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.1370314918669272
+2008,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.005498177142808807
+2009,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.20248562352073005
+2009,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.35907450571009464
+2009,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.0008999361045365779
+2009,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.00044996805226828895
+2009,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.7316480529882378
+2009,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.11204204501480396
+2009,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.007199488836292623
+2009,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.49001520892016664
+2009,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.07919437719921885
+2009,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.034197571972389956
+2009,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),0.8580890756756271
+2009,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.014848945724853535
+2009,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.0062995527317560454
+2009,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.08099424940829202
+2009,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.3865225568984602
+2009,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.2078852401479495
+2009,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.005849584679487756
+2010,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.1349875496920187
+2010,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.3861779738761959
+2010,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.001310558734873968
+2010,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.000436852911624656
+2010,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.7535712725525316
+2010,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.12887160892927352
+2010,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.018784675199860205
+2010,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.477480232405749
+2010,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.07950722991568739
+2010,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.03756935039972041
+2010,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),1.0414573413131798
+2010,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.021842645581232802
+2010,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.006989646585994496
+2010,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.15551963653837753
+2010,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.3770040627320781
+2010,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.271722511030536
+2010,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.00655279367436984
+2011,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.22718403300440432
+2011,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.6378807307056178
+2011,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.009756369515526565
+2011,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.00046458902454888404
+2011,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.8167475051569382
+2011,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.14773930980654515
+2011,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.0408838341603018
+2011,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.505008269684637
+2011,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.09849287320436342
+2011,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.037167121963910726
+2011,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),1.1089740015981862
+2011,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.022300273178346434
+2011,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.007433424392782145
+2011,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.17050417200944046
+2011,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.3554106037798963
+2011,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.31313300254594784
+2011,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.006504246343684377
+2012,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.21061169563153553
+2012,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),0.7866830731794993
+2012,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.05345942383645103
+2012,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.000460857102038371
+2012,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.7935959297100748
+2012,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.1410222732237415
+2012,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.08157170706079166
+2012,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.5806799485683474
+2012,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.09032799199952071
+2012,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.04239885338753013
+2012,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),1.340633309829621
+2012,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.022581997999880178
+2012,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.022581997999880178
+2012,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.21291598114172738
+2012,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.24010655016199126
+2012,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.2700622617944854
+2012,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.004608571020383709
+2013,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.1862839153153321
+2013,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),1.1372633030001027
+2013,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.08056779337388113
+2013,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.00046570978828833025
+2013,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.7968294477613331
+2013,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.1490271322522657
+2013,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.11735886664865922
+2013,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.5504689697568064
+2013,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.09640192617568435
+2013,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.048899527770274676
+2013,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),1.77668284231998
+2013,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.038188202639643086
+2013,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.02561403835585816
+2013,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.2291292158378585
+2013,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.29339716662164805
+2013,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.305971330905433
+2013,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.0055885174594599634
+2014,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.2513714530748643
+2014,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),1.354448535391622
+2014,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.1720169355355444
+2014,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.0004928852021075771
+2014,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.8201609763070083
+2014,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.16905962432289895
+2014,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.18631060639666414
+2014,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.721583935885493
+2014,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.10252012203837604
+2014,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.06358219107187746
+2014,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),2.154894103614327
+2014,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.04041658657282132
+2014,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.0014786556063227313
+2014,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.23116315978845367
+2014,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.38691488365444804
+2014,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.5190081178192787
+2014,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.006407507627398503
+2015,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.26383419486598203
+2015,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),1.6919589200386955
+2015,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.3166010338391784
+2015,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.0004885818423444111
+2015,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.7875939298591906
+2015,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.17882095429805447
+2015,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.2960805964607131
+2015,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),0.9537117562562903
+2015,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.10846516900045926
+2015,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.08159316767151666
+2015,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),2.7008804244799043
+2015,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.03908654738755289
+2015,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.0019543273693776444
+2015,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.22572481116311793
+2015,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.27067434065880375
+2015,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.5980241750295592
+2015,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.0048858184234441115
+2016,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.22717507790623598
+2016,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),1.5778790737183128
+2016,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.4415098253221195
+2016,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.0004938588650135565
+2016,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.7684443939610939
+2016,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.19112338076024635
+2016,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.37582659627531645
+2016,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),1.181310405112427
+2016,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.11210596235807732
+2016,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.12198313965834844
+2016,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),2.76758507953597
+2016,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.02617451984571849
+2016,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.0004938588650135565
+2016,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.22273034812111395
+2016,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.2894012948979441
+2016,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.6775743627985995
+2016,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.004444729785122008
+2017,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.2572418628346036
+2017,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),2.152761314858996
+2017,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.49682987233742065
+2017,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.0005043958094796149
+2017,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.7157376536515735
+2017,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.2007495321728867
+2017,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.4665661237686437
+2017,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),1.2917576680772935
+2017,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.1089494948475968
+2017,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.13164730627417948
+2017,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),2.8463055528934667
+2017,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.04489122704368572
+2017,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.0005043958094796149
+2017,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.22798690588478593
+2017,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.2895231946412989
+2017,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),0.8831970623988056
+2017,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.004539562285316533
+2018,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.2340124673876242
+2018,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),2.436219155165203
+2018,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.5451992591264863
+2018,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.0004978988667821792
+2018,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.6462727290832687
+2018,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.20264483878034692
+2018,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.4874429905797535
+2018,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),1.4598394774053494
+2018,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.10655035749138635
+2018,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.12895580649658442
+2018,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),3.197506522475155
+2018,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.05327517874569317
+2018,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.0
+2018,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.22206289458485193
+2018,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.4675270359084663
+2018,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),1.0286590587719822
+2018,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.006472685268168329
+2019,Renewable energy share in the total final energy consumption,Hydroelectric power,Normal Value,Units,Percentage (%),0.26115543356922666
+2019,Renewable energy share in the total final energy consumption,"Wind, wave, tidal",Normal Value,Units,Percentage (%),2.8327683500097294
+2019,Renewable energy share in the total final energy consumption,Solar photovoltaic,Normal Value,Units,Percentage (%),0.5689091895988447
+2019,Renewable energy share in the total final energy consumption,Geothermal aquifers,Normal Value,Units,Percentage (%),0.000512069477586719
+2019,Renewable energy share in the total final energy consumption,Landfill gas,Normal Value,Units,Percentage (%),0.6155075120592362
+2019,Renewable energy share in the total final energy consumption,Sewage gas,Normal Value,Units,Percentage (%),0.22018987536228915
+2019,Renewable energy share in the total final energy consumption,Biogas from autogen,Normal Value,Units,Percentage (%),0.5212867281832799
+2019,Renewable energy share in the total final energy consumption,Municipal solid waste (MSW),Normal Value,Units,Percentage (%),1.668834427455117
+2019,Renewable energy share in the total final energy consumption,Poultry litter,Normal Value,Units,Percentage (%),0.11367942402425162
+2019,Renewable energy share in the total final energy consumption,Straw,Normal Value,Units,Percentage (%),0.17103120551396414
+2019,Renewable energy share in the total final energy consumption,Wood,Normal Value,Units,Percentage (%),3.531231117438014
+2019,Renewable energy share in the total final energy consumption,Charcoal,Normal Value,Units,Percentage (%),0.03482072447589689
+2019,Renewable energy share in the total final energy consumption,Liquid bio-fuels,Normal Value,Units,Percentage (%),0.0
+2019,Renewable energy share in the total final energy consumption,Bioethanol,Normal Value,Units,Percentage (%),0.2268467785709165
+2019,Renewable energy share in the total final energy consumption,Biodiesel,Normal Value,Units,Percentage (%),0.675931710414469
+2019,Renewable energy share in the total final energy consumption,Biomass,Normal Value,Units,Percentage (%),1.0804665977079768
+2019,Renewable energy share in the total final energy consumption,Cross-boundary Adjustment,Normal Value,Units,Percentage (%),0.00921725059656094
