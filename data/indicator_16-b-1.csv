@@ -1,4 +1,19 @@
 Year,Type of hate crime,Age,Sex,Disability status,Ethnicity,Household income,Urban or rural,GeoCode,Observation status,Unit multiplier,Unit measure,Value
+2007/08 to 2008/09,Disability,,,,,,,,Normal Value,Units,Percentage (%),0.050195412582026123
+2007/08 to 2008/09,Race,,,,,,,,Normal Value,Units,Percentage (%),0.1625374552930453
+2007/08 to 2008/09,Religion,,,,,,,,Normal Value,Units,Percentage (%),0.028651953214628382
+2007/08 to 2008/09,Sexual orientation,,,,,,,,Normal Value,Units,Percentage (%),0.0691941737152112
+2007/08 to 2008/09,,,,,,,,,Normal Value,Units,Percentage (%),0.2871760101585322
+2009/10 to 2011/12,Disability,,,,,,,,Normal Value,Units,Percentage (%),0.04518994382185085
+2009/10 to 2011/12,Race,,,,,,,,Normal Value,Units,Percentage (%),0.14947526529116495
+2009/10 to 2011/12,Religion,,,,,,,,Normal Value,Units,Percentage (%),0.03811517627252059
+2009/10 to 2011/12,Sexual orientation,,,,,,,,Normal Value,Units,Percentage (%),0.03559162243971714
+2009/10 to 2011/12,,,,,,,,,Normal Value,Units,Percentage (%),0.26548725411789453
+2012/13 to 2014/15,Disability,,,,,,,,Normal Value,Units,Percentage (%),0.0640559444379131
+2012/13 to 2014/15,Race,,,,,,,,Normal Value,Units,Percentage (%),0.10882200320261919
+2012/13 to 2014/15,Religion,,,,,,,,Normal Value,Units,Percentage (%),0.03056589391106636
+2012/13 to 2014/15,Sexual orientation,,,,,,,,Normal Value,Units,Percentage (%),0.026221922327764158
+2012/13 to 2014/15,,,,,,,,,Normal Value,Units,Percentage (%),0.20815248327309177
 2015/16 to 2017/18,,,,,,,Rural,,Normal Value,Units,Percentage (%),0.05567737274378033
 2015/16 to 2017/18,,,,,,,Urban,,Normal Value,Units,Percentage (%),0.18641085446884278
 2015/16 to 2017/18,,,,Disabled (GSS harmonised),,,,,Normal Value,Units,Percentage (%),0.3638352657792506
@@ -7,33 +22,18 @@ Year,Type of hate crime,Age,Sex,Disability status,Ethnicity,Household income,Urb
 2015/16 to 2017/18,,,,No long-term health condition,,,,,Normal Value,Units,Percentage (%),0.12366021057851391
 2015/16 to 2017/18,,,Male,,,,,,Normal Value,Units,Percentage (%),0.22599762053607936
 2015/16 to 2017/18,,,Female,,,,,,Normal Value,Units,Percentage (%),0.10069322448801023
-2007/08 to 2008/09,Disability,,,,,,,,Normal Value,Units,Percentage (%),0.050195412582026123
-2009/10 to 2011/12,Disability,,,,,,,,Normal Value,Units,Percentage (%),0.04518994382185085
-2012/13 to 2014/15,Disability,,,,,,,,Normal Value,Units,Percentage (%),0.0640559444379131
 2015/16 to 2017/18,Disability,,,,,,,,Normal Value,Units,Percentage (%),0.03456495111047771
-2007/08 to 2008/09,Race,,,,,,,,Normal Value,Units,Percentage (%),0.1625374552930453
-2009/10 to 2011/12,Race,,,,,,,,Normal Value,Units,Percentage (%),0.14947526529116495
-2012/13 to 2014/15,Race,,,,,,,,Normal Value,Units,Percentage (%),0.10882200320261919
 2015/16 to 2017/18,Race,,,,,,,,Normal Value,Units,Percentage (%),0.09502122898068319
-2007/08 to 2008/09,Religion,,,,,,,,Normal Value,Units,Percentage (%),0.028651953214628382
-2009/10 to 2011/12,Religion,,,,,,,,Normal Value,Units,Percentage (%),0.03811517627252059
-2012/13 to 2014/15,Religion,,,,,,,,Normal Value,Units,Percentage (%),0.03056589391106636
 2015/16 to 2017/18,Religion,,,,,,,,Normal Value,Units,Percentage (%),0.03255105412655042
-2007/08 to 2008/09,Sexual orientation,,,,,,,,Normal Value,Units,Percentage (%),0.0691941737152112
-2009/10 to 2011/12,Sexual orientation,,,,,,,,Normal Value,Units,Percentage (%),0.03559162243971714
-2012/13 to 2014/15,Sexual orientation,,,,,,,,Normal Value,Units,Percentage (%),0.026221922327764158
 2015/16 to 2017/18,Sexual orientation,,,,,,,,Normal Value,Units,Percentage (%),0.02486069269473341
-2007/08 to 2008/09,,,,,,,,,Normal Value,Units,Percentage (%),0.2871760101585322
-2009/10 to 2011/12,,,,,,,,,Normal Value,Units,Percentage (%),0.26548725411789453
-2012/13 to 2014/15,,,,,,,,,Normal Value,Units,Percentage (%),0.20815248327309177
 2015/16 to 2017/18,,,,,,,,,Normal Value,Units,Percentage (%),0.16201904630946332
-2015/16 to 2017/18,,16 to 24,,,,,,,Normal Value,Units,Percentage (%),0.33619293730375177
-2015/16 to 2017/18,,25 to 34,,,,,,,Normal Value,Units,Percentage (%),0.21691732120561596
-2015/16 to 2017/18,,35 to 44,,,,,,,Normal Value,Units,Percentage (%),0.20420876686102907
-2015/16 to 2017/18,,45 to 54,,,,,,,Normal Value,Units,Percentage (%),0.1405507039701664
-2015/16 to 2017/18,,55 to 64,,,,,,,Normal Value,Units,Percentage (%),0.10583697810431754
-2015/16 to 2017/18,,65 to 74,,,,,,,Normal Value,Units,Percentage (%),0.042918249621871074
-2015/16 to 2017/18,,75 and over,,,,,,,Normal Value,Units,Percentage (%),0.02913040771547024
+2015/16 to 2017/18,,16-24,,,,,,,Normal Value,Units,Percentage (%),0.33619293730375177
+2015/16 to 2017/18,,25-34,,,,,,,Normal Value,Units,Percentage (%),0.21691732120561596
+2015/16 to 2017/18,,35-44,,,,,,,Normal Value,Units,Percentage (%),0.20420876686102907
+2015/16 to 2017/18,,45-54,,,,,,,Normal Value,Units,Percentage (%),0.1405507039701664
+2015/16 to 2017/18,,55-64,,,,,,,Normal Value,Units,Percentage (%),0.10583697810431754
+2015/16 to 2017/18,,65-74,,,,,,,Normal Value,Units,Percentage (%),0.042918249621871074
+2015/16 to 2017/18,,75+,,,,,,,Normal Value,Units,Percentage (%),0.02913040771547024
 2015/16 to 2017/18,,,,,White,,,,Normal Value,Units,Percentage (%),0.12760959446930095
 2015/16 to 2017/18,,,,,Mixed/multiple ethnic groups,,,,Normal Value,Units,Percentage (%),0.2999048008028006
 2015/16 to 2017/18,,,,,Asian/Asian British,,,,Normal Value,Units,Percentage (%),0.38569637618025865
@@ -46,6 +46,20 @@ Year,Type of hate crime,Age,Sex,Disability status,Ethnicity,Household income,Urb
 2015/16 to 2017/18,,,,,,"£40,000 to less than £50,000",,,Normal Value,Units,Percentage (%),0.12829201391262007
 2015/16 to 2017/18,,,,,,"£50,000 or more",,,Normal Value,Units,Percentage (%),0.07208133704466059
 2015/16 to 2017/18,,,,,,No income stated or not enough information provided,,,Normal Value,Units,Percentage (%),0.19993571248909212
+2015/16 to 2017/18,,16-24,Male,,,,,,Normal Value,Units,Percentage (%),0.5169475926008921
+2015/16 to 2017/18,,25-34,Male,,,,,,Normal Value,Units,Percentage (%),0.2863935937997315
+2015/16 to 2017/18,,35-44,Male,,,,,,Normal Value,Units,Percentage (%),0.25168703240824447
+2015/16 to 2017/18,,45-54,Male,,,,,,Normal Value,Units,Percentage (%),0.20265123270562768
+2015/16 to 2017/18,,55-64,Male,,,,,,Normal Value,Units,Percentage (%),0.14474670892059271
+2015/16 to 2017/18,,65-74,Male,,,,,,Normal Value,Units,Percentage (%),0.04208991396711355
+2015/16 to 2017/18,,75+,Male,,,,,,Normal Value,Units,Percentage (%),0.026920779698990347
+2015/16 to 2017/18,,16-24,Female,,,,,,Normal Value,Units,Percentage (%),0.14734729993712423
+2015/16 to 2017/18,,25-34,Female,,,,,,Normal Value,Units,Percentage (%),0.14767319231582834
+2015/16 to 2017/18,,35-44,Female,,,,,,Normal Value,Units,Percentage (%),0.15754125237354075
+2015/16 to 2017/18,,45-54,Female,,,,,,Normal Value,Units,Percentage (%),0.08027818432065183
+2015/16 to 2017/18,,55-64,Female,,,,,,Normal Value,Units,Percentage (%),0.06823868219040306
+2015/16 to 2017/18,,65-74,Female,,,,,,Normal Value,Units,Percentage (%),0.04368823246526427
+2015/16 to 2017/18,,75+,Female,,,,,,Normal Value,Units,Percentage (%),0.030818089653581335
 2017/18 to 2019/20,Race,,,,,,,,Normal Value,Units,Percentage (%),0.09032876219487966
 2017/18 to 2019/20,Religion,,,,,,,,Normal Value,Units,Percentage (%),0.04578827735442207
 2017/18 to 2019/20,Sexual orientation,,,,,,,,Normal Value,Units,Percentage (%),0.03421092553286103
@@ -84,17 +98,3 @@ Year,Type of hate crime,Age,Sex,Disability status,Ethnicity,Household income,Urb
 2017/18 to 2019/20,,55-64,Female,,,,,,Normal Value,Units,Percentage (%),0.06730217329827641
 2017/18 to 2019/20,,65-74,Female,,,,,,Normal Value,Units,Percentage (%),0.0265623293311672
 2017/18 to 2019/20,,75+,Female,,,,,,Normal Value,Units,Percentage (%),0.03135848150810372
-2015/16 to 2017/18,,16-24,Male,,,,,,Normal Value,Units,Percentage (%),0.5169475926008921
-2015/16 to 2017/18,,25-34,Male,,,,,,Normal Value,Units,Percentage (%),0.2863935937997315
-2015/16 to 2017/18,,35-44,Male,,,,,,Normal Value,Units,Percentage (%),0.25168703240824447
-2015/16 to 2017/18,,45-54,Male,,,,,,Normal Value,Units,Percentage (%),0.20265123270562768
-2015/16 to 2017/18,,55-64,Male,,,,,,Normal Value,Units,Percentage (%),0.14474670892059271
-2015/16 to 2017/18,,65-74,Male,,,,,,Normal Value,Units,Percentage (%),0.04208991396711355
-2015/16 to 2017/18,,75+,Male,,,,,,Normal Value,Units,Percentage (%),0.026920779698990347
-2015/16 to 2017/18,,16-24,Female,,,,,,Normal Value,Units,Percentage (%),0.14734729993712423
-2015/16 to 2017/18,,25-34,Female,,,,,,Normal Value,Units,Percentage (%),0.14767319231582834
-2015/16 to 2017/18,,35-44,Female,,,,,,Normal Value,Units,Percentage (%),0.15754125237354075
-2015/16 to 2017/18,,45-54,Female,,,,,,Normal Value,Units,Percentage (%),0.08027818432065183
-2015/16 to 2017/18,,55-64,Female,,,,,,Normal Value,Units,Percentage (%),0.06823868219040306
-2015/16 to 2017/18,,65-74,Female,,,,,,Normal Value,Units,Percentage (%),0.04368823246526427
-2015/16 to 2017/18,,75+,Female,,,,,,Normal Value,Units,Percentage (%),0.030818089653581335
