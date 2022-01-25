@@ -260,7 +260,7 @@ Year,Series,Age,Disposable income decile,Health product or service,Health produc
 2018/19,Average weekly household expenditure on health,,,Hospital services,Outpatient services,,,,,Normal value,Units,GBP (£),3.6
 2018/19,Average weekly household expenditure on health,,,Hospital services,Outpatient services,National Health Service (NHS) medical optical dental and medical auxiliary services,,,,Normal value,Units,GBP (£),0.9
 2018/19,Average weekly household expenditure on health,,,Hospital services,Outpatient services,Private medical optical dental and medical auxiliary services,,,,Normal value,Units,GBP (£),2.7
-2018/19,Average weekly household expenditure on health,,,Hospital services,Inpatient hospital services,,,,,Normal value,Units,GBP (£),0.1
+2018/19,Average weekly household expenditure on health,,,Hospital services,Inpatient hospital services,,,,,Low reliabilitly,Units,GBP (£),0.1
 2018/19,Average weekly household expenditure on health,,,,,,Owner occupied,Owned outright,,Normal value,Units,GBP (£),12.3
 2018/19,Average weekly household expenditure on health,,,,,,Owner occupied,Owner occupied buying with a mortgage,,Normal value,Units,GBP (£),7.7
 2018/19,Average weekly household expenditure on health,,,,,,Owner occupied,,,Normal value,Units,GBP (£),10.2
@@ -302,7 +302,7 @@ Year,Series,Age,Disposable income decile,Health product or service,Health produc
 2018/19,Average weekly household expenditure on health,50 to 64,,Medical products appliances and equipment,Spectacles lenses accessories and repairs,,,,,Normal value,Units,GBP (£),2.1
 2018/19,Average weekly household expenditure on health,65 to 74,,Medical products appliances and equipment,Spectacles lenses accessories and repairs,,,,,Normal value,Units,GBP (£),2.3
 2018/19,Average weekly household expenditure on health,75 and over,,Medical products appliances and equipment,Spectacles lenses accessories and repairs,,,,,Normal value,Units,GBP (£),1.8
-2018/19,Average weekly household expenditure on health,29 and under,,Hospital services,,,,,,Normal value,Units,GBP (£),1.3
+2018/19,Average weekly household expenditure on health,29 and under,,Hospital services,,,,,,Low reliabilitly,Units,GBP (£),1.3
 2018/19,Average weekly household expenditure on health,30 to 49,,Hospital services,,,,,,Normal value,Units,GBP (£),2.4
 2018/19,Average weekly household expenditure on health,50 to 64,,Hospital services,,,,,,Normal value,Units,GBP (£),4.1
 2018/19,Average weekly household expenditure on health,65 to 74,,Hospital services,,,,,,Normal value,Units,GBP (£),6.6
@@ -367,11 +367,11 @@ Year,Series,Age,Disposable income decile,Health product or service,Health produc
 2019/20,Average weekly household expenditure on health,50 to 64,,Hospital services,,,,,,Normal value,Units,GBP (£),2.9
 2019/20,Average weekly household expenditure on health,65 to 74,,Hospital services,,,,,,Normal value,Units,GBP (£),1.8
 2019/20,Average weekly household expenditure on health,75 and over,,Hospital services,,,,,,Low reliabilitly,Units,GBP (£),0.5
-2018/19,Average weekly household expenditure on health,,Lowest ten,,,,,,,Normal value,Units,GBP (£),2.8
-2018/19,Average weekly household expenditure on health,,Second,,,,,,,Normal value,Units,GBP (£),5.0
-2018/19,Average weekly household expenditure on health,,Third,,,,,,,Normal value,Units,GBP (£),4.3
-2018/19,Average weekly household expenditure on health,,Fourth,,,,,,,Normal value,Units,GBP (£),4.7
-2018/19,Average weekly household expenditure on health,,Fifth,,,,,,,Normal value,Units,GBP (£),3.7
+2018/19,Average weekly household expenditure on health,,Lowest ten,,,,,,,Normal value,Units,GBP (£),3.7
+2018/19,Average weekly household expenditure on health,,Second,,,,,,,Normal value,Units,GBP (£),4.9
+2018/19,Average weekly household expenditure on health,,Third,,,,,,,Normal value,Units,GBP (£),3.9
+2018/19,Average weekly household expenditure on health,,Fourth,,,,,,,Normal value,Units,GBP (£),8.4
+2018/19,Average weekly household expenditure on health,,Fifth,,,,,,,Normal value,Units,GBP (£),8.3
 2018/19,Average weekly household expenditure on health,,Sixth,,,,,,,Normal value,Units,GBP (£),8.0
 2018/19,Average weekly household expenditure on health,,Seventh,,,,,,,Normal value,Units,GBP (£),7.3
 2018/19,Average weekly household expenditure on health,,Eighth,,,,,,,Normal value,Units,GBP (£),8.4
@@ -398,7 +398,7 @@ Year,Series,Age,Disposable income decile,Health product or service,Health produc
 2018/19,Average weekly household expenditure on health,,Ninth,Medical products appliances and equipment,Medicines prescriptions and healthcare products,,,,,Normal value,Units,GBP (£),3.9
 2018/19,Average weekly household expenditure on health,,Highest ten,Medical products appliances and equipment,Medicines prescriptions and healthcare products,,,,,Normal value,Units,GBP (£),4.0
 2018/19,Average weekly household expenditure on health,,Lowest ten,Medical products appliances and equipment,Spectacles lenses accessories and repairs,,,,,Normal value,Units,GBP (£),1.2
-2018/19,Average weekly household expenditure on health,,Second,Medical products appliances and equipment,Spectacles lenses accessories and repairs,,,,,Normal value,Units,GBP (£),1.3
+2018/19,Average weekly household expenditure on health,,Second,Medical products appliances and equipment,Spectacles lenses accessories and repairs,,,,,Low reliabilitly,Units,GBP (£),1.3
 2018/19,Average weekly household expenditure on health,,Third,Medical products appliances and equipment,Spectacles lenses accessories and repairs,,,,,Normal value,Units,GBP (£),0.7
 2018/19,Average weekly household expenditure on health,,Fourth,Medical products appliances and equipment,Spectacles lenses accessories and repairs,,,,,Normal value,Units,GBP (£),1.4
 2018/19,Average weekly household expenditure on health,,Fifth,Medical products appliances and equipment,Spectacles lenses accessories and repairs,,,,,Normal value,Units,GBP (£),1.4
@@ -407,7 +407,7 @@ Year,Series,Age,Disposable income decile,Health product or service,Health produc
 2018/19,Average weekly household expenditure on health,,Eighth,Medical products appliances and equipment,Spectacles lenses accessories and repairs,,,,,Normal value,Units,GBP (£),1.6
 2018/19,Average weekly household expenditure on health,,Ninth,Medical products appliances and equipment,Spectacles lenses accessories and repairs,,,,,Normal value,Units,GBP (£),1.4
 2018/19,Average weekly household expenditure on health,,Highest ten,Medical products appliances and equipment,Spectacles lenses accessories and repairs,,,,,Normal value,Units,GBP (£),4.5
-2018/19,Average weekly household expenditure on health,,Lowest ten,Hospital services,,,,,,Normal value,Units,GBP (£),1.0
+2018/19,Average weekly household expenditure on health,,Lowest ten,Hospital services,,,,,,Low reliabilitly,Units,GBP (£),1.0
 2018/19,Average weekly household expenditure on health,,Second,Hospital services,,,,,,Normal value,Units,GBP (£),1.9
 2018/19,Average weekly household expenditure on health,,Third,Hospital services,,,,,,Normal value,Units,GBP (£),1.7
 2018/19,Average weekly household expenditure on health,,Fourth,Hospital services,,,,,,Normal value,Units,GBP (£),4.7
@@ -448,7 +448,7 @@ Year,Series,Age,Disposable income decile,Health product or service,Health produc
 2018/19,Average weekly household expenditure on health,,Ninth,Medical products appliances and equipment,Medicines prescriptions and healthcare products,,,,,Normal value,Units,Percentage (%) of total expenditure,0.4
 2018/19,Average weekly household expenditure on health,,Highest ten,Medical products appliances and equipment,Medicines prescriptions and healthcare products,,,,,Normal value,Units,Percentage (%) of total expenditure,0.3
 2018/19,Average weekly household expenditure on health,,Lowest ten,Medical products appliances and equipment,Spectacles lenses accessories and repairs,,,,,Normal value,Units,Percentage (%) of total expenditure,0.5
-2018/19,Average weekly household expenditure on health,,Second,Medical products appliances and equipment,Spectacles lenses accessories and repairs,,,,,Normal value,Units,Percentage (%) of total expenditure,0.5
+2018/19,Average weekly household expenditure on health,,Second,Medical products appliances and equipment,Spectacles lenses accessories and repairs,,,,,Low reliabilitly,Units,Percentage (%) of total expenditure,0.5
 2018/19,Average weekly household expenditure on health,,Third,Medical products appliances and equipment,Spectacles lenses accessories and repairs,,,,,Normal value,Units,Percentage (%) of total expenditure,0.2
 2018/19,Average weekly household expenditure on health,,Fourth,Medical products appliances and equipment,Spectacles lenses accessories and repairs,,,,,Normal value,Units,Percentage (%) of total expenditure,0.3
 2018/19,Average weekly household expenditure on health,,Fifth,Medical products appliances and equipment,Spectacles lenses accessories and repairs,,,,,Normal value,Units,Percentage (%) of total expenditure,0.3
@@ -457,7 +457,7 @@ Year,Series,Age,Disposable income decile,Health product or service,Health produc
 2018/19,Average weekly household expenditure on health,,Eighth,Medical products appliances and equipment,Spectacles lenses accessories and repairs,,,,,Normal value,Units,Percentage (%) of total expenditure,0.2
 2018/19,Average weekly household expenditure on health,,Ninth,Medical products appliances and equipment,Spectacles lenses accessories and repairs,,,,,Normal value,Units,Percentage (%) of total expenditure,0.2
 2018/19,Average weekly household expenditure on health,,Highest ten,Medical products appliances and equipment,Spectacles lenses accessories and repairs,,,,,Normal value,Units,Percentage (%) of total expenditure,0.4
-2018/19,Average weekly household expenditure on health,,Lowest ten,Hospital services,,,,,,Normal value,Units,Percentage (%) of total expenditure,0.4
+2018/19,Average weekly household expenditure on health,,Lowest ten,Hospital services,,,,,,Low reliabilitly,Units,Percentage (%) of total expenditure,0.4
 2018/19,Average weekly household expenditure on health,,Second,Hospital services,,,,,,Normal value,Units,Percentage (%) of total expenditure,0.7
 2018/19,Average weekly household expenditure on health,,Third,Hospital services,,,,,,Normal value,Units,Percentage (%) of total expenditure,0.5
 2018/19,Average weekly household expenditure on health,,Fourth,Hospital services,,,,,,Normal value,Units,Percentage (%) of total expenditure,1.1
