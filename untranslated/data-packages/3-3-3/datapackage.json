@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -49,6 +49,7 @@
                 "Born in Indian subcontinent",
                 "Born in Europe (non-UK)",
                 "Other country of birth",
+                "Born in Southern Asia",
                 ""
               ]
             }
@@ -178,8 +179,16 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate per 100,000 population",
+                "Number",
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",

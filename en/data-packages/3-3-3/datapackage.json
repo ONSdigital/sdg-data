@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,7 +26,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Series"
           },
           {
             "name": "Country",
@@ -52,6 +52,7 @@
                 "Born in Indian subcontinent",
                 "Born in Europe (non-UK)",
                 "Other country of birth",
+                "Born in Southern Asia",
                 ""
               ]
             },
@@ -191,9 +192,17 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Rate per 100,000 population",
+                "Number",
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "GeoCode",
