@@ -2,6 +2,10 @@ from sdg.open_sdg import open_sdg_build
 import pandas as pd
 import http
 
+y_limit_percentage_exclusions=['1.a.1', '1.1.1', '3.9.1', '4.1.2','5.2.1', '5.2.2', '9.2.1', '9.2.2', '9.3.1', '9.5.1',
+                               '10.1.1', '10.2.1', '10.3.1', '10.6.1', '10.c.1', '11.7.2', '15.a.1', '15.b.1', '16.1.3',
+                               '17.2.1', '17.3.1', '17.3.2', '17.10.1', '17.12.1']
+
 tier_spreadsheet_url = 'https://unstats.un.org/sdgs/files/Tier%20Classification%20of%20SDG%20Indicators_28%20Dec%202020_web.xlsx'
 
 while True:
@@ -43,7 +47,7 @@ def alter_meta(meta):
         meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
         
         if 'computation_units' in meta and meta['computation_units'] is not None:
-            if 'Percentage (%)' in meta['computation_units']:
+            if 'Percentage (%)' in meta['computation_units'] and meta['indicator_number'] not in y_limit_percentage_exclusions:
                 meta['graph_limits']=[{"unit":"Percentage (%)", "minimum":0, "maximum":100}]
 
         if 'standalone' not in meta:
