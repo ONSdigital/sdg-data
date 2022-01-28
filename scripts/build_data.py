@@ -44,7 +44,7 @@ def alter_meta(meta):
         
         if 'computation_units' in meta and meta['computation_units'] is not None:
             if 'Percentage (%)' in meta['computation_units']:
-                meta['graph_limits']=[{"unit:":"Percentage (%)", "minimum":0, "maximum":100}]
+                meta['graph_limits']=[{"unit":"Percentage (%)", "minimum":0, "maximum":100}]
 
         if 'standalone' not in meta:
             if tier_df is not None:
