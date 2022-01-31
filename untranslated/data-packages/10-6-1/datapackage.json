@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of voting rights of developing countries in international organisations, by organisation",
                 "Proportion of members of developing countries in international organisations, by organisation",
+                "Proportion of voting rights of developing countries in international organisations, by organisation",
                 ""
               ]
             }
@@ -30,17 +30,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Asian Development Bank",
                 "African Development Bank",
-                "UN Economic and Social Council",
+                "Asian Development Bank",
+                "Financial Stability Board",
                 "Inter-American Development Bank",
                 "International Bank for Reconstruction and Development",
                 "International Finance Corporation",
                 "International Monetary Fund",
+                "UN Economic and Social Council",
                 "UN General Assembly",
                 "UN Security Council",
                 "World Trade Organisation",
-                "Financial Stability Board",
                 ""
               ]
             }
