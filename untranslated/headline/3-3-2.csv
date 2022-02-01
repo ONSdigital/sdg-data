@@ -1,21 +1,23 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,Unit measure
-2000,11.4,,Undefined,Units,"Rate per 100,000 population"
-2001,11.4,,Undefined,Units,"Rate per 100,000 population"
-2002,12.3,,Undefined,Units,"Rate per 100,000 population"
-2003,12.1,,Undefined,Units,"Rate per 100,000 population"
-2004,12.7,,Undefined,Units,"Rate per 100,000 population"
-2005,13.7,,Undefined,Units,"Rate per 100,000 population"
-2006,13.7,,Undefined,Units,"Rate per 100,000 population"
-2007,13.5,,Undefined,Units,"Rate per 100,000 population"
-2008,13.7,,Undefined,Units,"Rate per 100,000 population"
-2009,14.2,,Undefined,Units,"Rate per 100,000 population"
-2010,13.4,,Undefined,Units,"Rate per 100,000 population"
-2011,14.1,,Undefined,Units,"Rate per 100,000 population"
-2012,13.7,,Undefined,Units,"Rate per 100,000 population"
-2013,12.3,,Undefined,Units,"Rate per 100,000 population"
-2014,10.9,,Undefined,Units,"Rate per 100,000 population"
-2015,9.6,,Undefined,Units,"Rate per 100,000 population"
-2016,9.3,,Undefined,Units,"Rate per 100,000 population"
-2017,8.4,,Undefined,Units,"Rate per 100,000 population"
-2018,7.6,,Undefined,Units,"Rate per 100,000 population"
-2019,7.7,,Undefined,Units,"Rate per 100,000 population"
+Year,Value,Units,Series,GeoCode,Observation status,Unit multiplier
+2000,11.4,"Rate per 100,000 population","Number of tuberculosis case notifications per 100,000 population",,Normal value,Units
+2001,11.4,"Rate per 100,000 population","Number of tuberculosis case notifications per 100,000 population",,Normal value,Units
+2002,12.3,"Rate per 100,000 population","Number of tuberculosis case notifications per 100,000 population",,Normal value,Units
+2003,12.1,"Rate per 100,000 population","Number of tuberculosis case notifications per 100,000 population",,Normal value,Units
+2004,12.7,"Rate per 100,000 population","Number of tuberculosis case notifications per 100,000 population",,Normal value,Units
+2005,13.7,"Rate per 100,000 population","Number of tuberculosis case notifications per 100,000 population",,Normal value,Units
+2006,13.7,"Rate per 100,000 population","Number of tuberculosis case notifications per 100,000 population",,Normal value,Units
+2007,13.5,"Rate per 100,000 population","Number of tuberculosis case notifications per 100,000 population",,Normal value,Units
+2008,13.7,"Rate per 100,000 population","Number of tuberculosis case notifications per 100,000 population",,Normal value,Units
+2009,14.2,"Rate per 100,000 population","Number of tuberculosis case notifications per 100,000 population",,Normal value,Units
+2010,13.4,"Rate per 100,000 population","Number of tuberculosis case notifications per 100,000 population",,Normal value,Units
+2011,14.1,"Rate per 100,000 population","Number of tuberculosis case notifications per 100,000 population",,Normal value,Units
+2012,13.7,"Rate per 100,000 population","Number of tuberculosis case notifications per 100,000 population",,Normal value,Units
+2013,12.3,"Rate per 100,000 population","Number of tuberculosis case notifications per 100,000 population",,Normal value,Units
+2014,10.9,"Rate per 100,000 population","Number of tuberculosis case notifications per 100,000 population",,Normal value,Units
+2015,9.6,"Rate per 100,000 population","Number of tuberculosis case notifications per 100,000 population",,Normal value,Units
+2016,9.3,"Rate per 100,000 population","Number of tuberculosis case notifications per 100,000 population",,Normal value,Units
+2017,8.4,"Rate per 100,000 population","Number of tuberculosis case notifications per 100,000 population",,Normal value,Units
+2018,7.6,"Rate per 100,000 population","Number of tuberculosis case notifications per 100,000 population",,Normal value,Units
+2019,7.7,"Rate per 100,000 population","Number of tuberculosis case notifications per 100,000 population",,Normal value,Units
+2020,6.6,"Rate per 100,000 population","Number of tuberculosis case notifications per 100,000 population",,Normal value,Units
+=======,,,,,,

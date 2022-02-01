@@ -4329,7 +4329,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of tuberculosis case notifications per 100,000 population",
+                "Country",
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
+                ""
+              ]
+            }
           },
           {
             "name": "Country",
@@ -4340,6 +4355,9 @@
                 "Northern Ireland",
                 "Scotland",
                 "Wales",
+                "Country of birth",
+                "Born in UK",
+                "Not born in UK",
                 ""
               ]
             }
@@ -4351,15 +4369,7 @@
               "enum": [
                 "Born in UK",
                 "Not born in UK",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
+                "Region",
                 "White",
                 "Indian",
                 "Pakistani",
@@ -4388,14 +4398,35 @@
             "constraints": {
               "enum": [
                 "White",
-                "Black Caribbean",
-                "Black African",
-                "Black Other",
                 "Indian",
                 "Pakistani",
                 "Bangledeshi",
                 "Chinese",
+                "Black African",
+                "Black Caribbean",
+                "Black Other",
                 "Mixed/Other",
+                "Ethnic group",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "East",
+                "East Midlands",
+                "West Midlands",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "Yorkshire and The Humber",
+                "Observation status",
+                "Undefined",
                 ""
               ]
             }
@@ -4409,8 +4440,28 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate per 100,000 population",
+                "GeoCode",
+                "E92000001",
+                "N92000002",
+                "S92000003",
+                "W92000004",
+                "E12000007",
+                "E12000005",
+                "E12000008",
+                "E12000002",
+                "E12000006",
+                "E12000004",
+                "E12000003",
+                "E12000009",
+                "E12000001",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
