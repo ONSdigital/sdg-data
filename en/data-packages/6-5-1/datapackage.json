@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Degree of integrated water resources management implementation",
+                "Degree of integrated water resources management implementation (%)",
                 ""
               ]
             },
@@ -87,7 +87,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Integrated Water Resources Management score",
+                "Percentage (%)",
                 ""
               ]
             },
