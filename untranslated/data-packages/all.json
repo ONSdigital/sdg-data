@@ -4065,6 +4065,7 @@
                 "Race",
                 "Religion",
                 "Sexual orientation",
+                "Gender Identity",
                 ""
               ]
             }
@@ -4090,8 +4091,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Male",
+                "Female",
                 ""
               ]
             }
@@ -4105,6 +4106,8 @@
                 "Long-term health condition",
                 "Long-term health condition - Does not limit activities",
                 "No long-term health condition",
+                "Long-standing illness or disability",
+                "No long-standing illness or disability",
                 ""
               ]
             }
