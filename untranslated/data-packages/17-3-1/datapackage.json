@@ -30,6 +30,16 @@
             "type": "string"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Observation status",
             "type": "string"
           },
