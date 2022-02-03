@@ -87,7 +87,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #15-c-1,complete,Tier II,United Nations Office on Drugs and Crime (UNODC),,,United Kingdom,Number of seizures,line
 #16-1-1,complete,Tier II,"United Nations Office on Drugs and Crime (UNODC), World Health Organization (WHO)",,True,England and Wales,"Rate per 100,000 population",line
 #16-1-2,complete,Tier II,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,United Kingdom,"Rate per 1,000,000 population",line
-#16-1-3,complete,Tier II,UNODC,,,England and Wales,Percentage (%),line
+#16-1-3,complete,Tier II,UNODC,,True,England and Wales,Percentage (%),line
 #16-1-4,complete,Tier II,United Nations Office on Drugs and Crime (UNODC),,True,England and Wales,Percentage (%),line
 #16-10-1,notstarted,Tier II,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
 #16-10-2,complete,Tier I,"United Nations Educational, Scientific and Cultural Organization - Institute for Statistics (UNESCO-UIS)",True,,,,line
@@ -103,7 +103,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #16-5-2,complete,Tier I,"World Bank (WB), United Nations Office on Drugs and Crime (UNODC)",,,England and Wales,Number of offences,line
 #16-6-1,notstarted,Tier II,World Bank (WB),,,,,line
 #16-6-2,complete,Tier II,United Nations Development Programme (UNDP),,True,United Kingdom,Mean quality rating,line
-#16-7-1,complete,"Tier I (a)/Tier II (b, c)",United Nations Development Programme (UNDP),,,United Kingdom,Percentage (%),line
+#16-7-1,complete,"Tier I (a)/Tier II (b, c)",United Nations Development Programme (UNDP),,True,United Kingdom,Percentage (%),line
 #16-7-2,complete,Tier II,United Nations Development Programme (UNDP),,,England,Percentage (%),line
 #16-8-1,complete,Tier I,United Nations Department of Economic and Social Affairs (DESA)/Financing for Development Office (FFDO),,,United Kingdom,Percentage (%),line
 #16-9-1,complete,Tier I,"United Nations Statistics Division (UNSD), United Nations Children's Fund (UNICEFF)",,,United Kingdom,Percentage (%),line
