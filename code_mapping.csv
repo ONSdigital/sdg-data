@@ -27,7 +27,7 @@ Proportion of domestic budget funded by domestic taxes,SERIES,GC_GOB_TAXD
 Value of all resources made available to strengthen statistical capacity in developing countries,SERIES,SG_STT_CAPTY
 Tourism direct GDP as a proportion of total GDP,SERIES,ST_GDP_ZS
 Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,SERIES,FB_BNK_ACCSS
-Degree of integrated water resources management implementation,SERIES,ER_H2O_IWRMD
+Degree of integrated water resources management implementation (%),SERIES,ER_H2O_IWRMD
 Alcohol consumption per capita (aged 15 years and older) within a calendar year,SERIES,SH_ALC_CONSPT
 Renewable energy share in the total final energy consumption,SERIES,EG_FEC_RNEW
 Proportion of population below international poverty line,SERIES,SI_POV_DAY1
@@ -51,3 +51,17 @@ Agriculture orientation index for government expenditures,SERIES,AG_PRD_ORTIND
 Proportion of population with access to electricity,SERIES,EG_ACS_ELEC
 Proportion of population with primary reliance on clean fuels and technology for cooking,SERIES,EG_CFT_COOK
 Research and development expenditure as a proportion of GDP,SERIES,GB_XPD_RSDV
+African Development Bank,COMP_BREAKDOWN,IO_AFDB
+Asian Development Bank,COMP_BREAKDOWN,IO_ADB
+Financial Stability Board,COMP_BREAKDOWN,IO_FSB
+Inter-American Development Bank,COMP_BREAKDOWN,IO_IADB
+International Bank for Reconstruction and Development,COMP_BREAKDOWN,IO_IBRD
+International Finance Corporation,COMP_BREAKDOWN,IO_IFC
+International Monetary Fund,COMP_BREAKDOWN,IO_IMF
+UN Economic and Social Council,COMP_BREAKDOWN,IO_ECOSOC
+UN General Assembly,COMP_BREAKDOWN,IO_UNGA
+UN Security Council,COMP_BREAKDOWN,IO_UNSC
+World Trade Organisation,COMP_BREAKDOWN,IO_WTO
+Under 5 years old,AGE,Y0T4
+15 years old and over,AGE,Y_GE15
+"Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries",SERIES,DC_TOF_HLTHNT
