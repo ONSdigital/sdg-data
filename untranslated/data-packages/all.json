@@ -6860,8 +6860,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "GBP (£ thousands)",
-                "Constant USD ($ thousands)",
+                "GBP",
+                "Constant USD",
                 ""
               ]
             }
