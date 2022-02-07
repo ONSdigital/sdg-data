@@ -9792,10 +9792,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage",
-                "Misconduct in a public office",
-                "Offering, promising or giving bribes",
                 "Requesting, agreeing to receive and accepting bribes",
+                "Offering, promising or giving bribes",
+                "Misconduct in a public office",
+                "Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage",
                 ""
               ]
             }
