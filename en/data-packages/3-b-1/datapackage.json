@@ -16,10 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Vaccine",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of children vaccinated by 1st birthday (%)",
+                "Proportion of children vaccinated by 2nd birthday (%)",
+                "Proportion of children vaccinated by 5th birthday (%)",
+                "Proportion of girls vaccinated against HPV (%)",
+                "Proportion of boys vaccinated against HPV (%)",
+                "Vaccine",
                 "Diphtheria Tetanus Polio Pertussis Hib (primary)",
                 "Pneumococcal disease (primary)",
                 "Rotavirus (primary)",
@@ -39,7 +45,7 @@
                 ""
               ]
             },
-            "title": "Vaccine"
+            "title": "Series"
           },
           {
             "name": "Country",
@@ -50,21 +56,61 @@
                 "Northern Ireland",
                 "Scotland",
                 "Wales",
+                "Country",
                 ""
               ]
             },
             "title": "Country"
           },
           {
-            "name": "Age",
+            "name": "Vaccine",
             "type": "string",
             "constraints": {
               "enum": [
+                "Diphtheria Tetanus Polio Pertussis Hib (primary)",
+                "Pneumococcal disease (primary)",
+                "Rotavirus (primary)",
+                "Meningococcal group B (primary)",
+                "Measles mumps rubella (first dose)",
+                "Hib Meningococcal group C (booster)",
+                "Pneumococcal disease (booster)",
+                "Meningococcal group B (booster)",
+                "Diphtheria Tetanus Polio Pertussis (booster)",
+                "Measles mumps rubella (first and second dose)",
+                "Meningococcal group C (primary)",
+                "Hib (primary)",
+                "Human papillomavirus (At least 1 dose)",
+                "Human papillomavirus (At least 2 doses)",
+                "Human papillomavirus (3 doses)",
+                "Human papillomavirus (2 doses)",
+                "Age",
                 "By 1st birthday",
                 "By 2nd birthday",
                 "By 5th birthday",
                 "12 to 13",
                 "13 to 14",
+                ""
+              ]
+            },
+            "title": "Vaccine"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12 to 13",
+                "13 to 14",
+                "Region",
+                "East",
+                "East Midlands",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             },
@@ -84,15 +130,25 @@
                 "South West",
                 "West Midlands",
                 "Yorkshire and The Humber",
+                "Unit measure",
+                "Percentage (%)",
                 ""
               ]
             },
             "title": "Region"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                "Unit multiplier",
+                "Units",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Unit multiplier",
