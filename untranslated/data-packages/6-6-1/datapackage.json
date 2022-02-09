@@ -15,13 +15,37 @@
             "type": "string"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent change in spatial extent from baseline (%)",
-                "Proportion of land area (%)",
-                "Spatial extent (square km)",
+                "Open water area",
+                "Nationally derived quantity of groundwater",
+                "Lake water quality",
+                "Reservoir area",
+                "Wetlands area",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Water area extent",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Minimum water area",
+                "Maximum water area",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Quality measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Turbidity",
+                "Trophic state",
                 ""
               ]
             }
@@ -34,6 +58,19 @@
                 "Ephemeral",
                 "Permanent",
                 "Seasonal",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Deviation level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Low",
+                "Medium",
+                "High",
+                "Extreme",
                 ""
               ]
             }
@@ -86,8 +123,17 @@
             }
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "% change from baseline",
+                "% of total land area",
+                "Square km",
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Observation status",
