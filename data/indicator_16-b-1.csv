@@ -1,48 +1,100 @@
-Year,Type of hate crime,Sex,Age,Ethnicity,Disability status,Household income,Urban or rural,GeoCode,Observation status,Unit multiplier,Unit measure,Value
-2007/08 to 2008/09,,,,,,,,,Undefined,Units,Percentage (%),0.287176010159
-2009/10 to 2011/12,,,,,,,,,Undefined,Units,Percentage (%),0.26548725411789453
-2012/13 to 2014/15,,,,,,,,,Undefined,Units,Percentage (%),0.20815248327309177
-2015/16 to 2017/18,,,,,,,,,Undefined,Units,Percentage (%),0.16201904630946332
-2007/08 to 2008/09,Race,,,,,,,,Undefined,Units,Percentage (%),0.1625374552930453
-2009/10 to 2011/12,Race,,,,,,,,Undefined,Units,Percentage (%),0.14947526529116495
-2012/13 to 2014/15,Race,,,,,,,,Undefined,Units,Percentage (%),0.10882200320261919
-2015/16 to 2017/18,Race,,,,,,,,Undefined,Units,Percentage (%),0.09502122898068319
-2007/08 to 2008/09,Religion,,,,,,,,Undefined,Units,Percentage (%),0.028651953214628382
-2009/10 to 2011/12,Religion,,,,,,,,Undefined,Units,Percentage (%),0.03811517627252059
-2012/13 to 2014/15,Religion,,,,,,,,Undefined,Units,Percentage (%),0.03056589391106636
-2015/16 to 2017/18,Religion,,,,,,,,Undefined,Units,Percentage (%),0.03255105412655042
-2007/08 to 2008/09,Sexual orientation,,,,,,,,Undefined,Units,Percentage (%),0.0691941737152112
-2009/10 to 2011/12,Sexual orientation,,,,,,,,Undefined,Units,Percentage (%),0.03559162243971714
-2012/13 to 2014/15,Sexual orientation,,,,,,,,Undefined,Units,Percentage (%),0.026221922327764158
-2015/16 to 2017/18,Sexual orientation,,,,,,,,Undefined,Units,Percentage (%),0.02486069269473341
-2007/08 to 2008/09,Disability,,,,,,,,Undefined,Units,Percentage (%),0.050195412582026123
-2009/10 to 2011/12,Disability,,,,,,,,Undefined,Units,Percentage (%),0.04518994382185085
-2012/13 to 2014/15,Disability,,,,,,,,Undefined,Units,Percentage (%),0.0640559444379131
-2015/16 to 2017/18,Disability,,,,,,,,Undefined,Units,Percentage (%),0.03456495111047771
-2015/16 to 2017/18,,Men,,,,,,,Undefined,Units,Percentage (%),0.22599762053607936
-2015/16 to 2017/18,,Women,,,,,,,Undefined,Units,Percentage (%),0.10069322448801023
-2015/16 to 2017/18,,,16 to 24,,,,,,Undefined,Units,Percentage (%),0.33619293730375177
-2015/16 to 2017/18,,,25 to 34,,,,,,Undefined,Units,Percentage (%),0.21691732120561596
-2015/16 to 2017/18,,,35 to 44,,,,,,Undefined,Units,Percentage (%),0.20420876686102907
-2015/16 to 2017/18,,,45 to 54,,,,,,Undefined,Units,Percentage (%),0.1405507039701664
-2015/16 to 2017/18,,,55 to 64,,,,,,Undefined,Units,Percentage (%),0.10583697810431754
-2015/16 to 2017/18,,,65 to 74,,,,,,Undefined,Units,Percentage (%),0.042918249621871074
-2015/16 to 2017/18,,,75 and over,,,,,,Undefined,Units,Percentage (%),0.02913040771547024
-2015/16 to 2017/18,,,,White,,,,,Undefined,Units,Percentage (%),0.12760959446930095
-2015/16 to 2017/18,,,,Mixed/multiple ethnic groups,,,,,Undefined,Units,Percentage (%),0.2999048008028006
-2015/16 to 2017/18,,,,Asian/Asian British,,,,,Undefined,Units,Percentage (%),0.38569637618025865
-2015/16 to 2017/18,,,,Black/African/Caribbean/Black British,,,,,Undefined,Units,Percentage (%),0.36336501378524816
-2015/16 to 2017/18,,,,Other ethnic group,,,,,Undefined,Units,Percentage (%),0.6262869838531681
-2015/16 to 2017/18,,,,,Long-term health condition,,,,Undefined,Units,Percentage (%),0.3089117283086101
-2015/16 to 2017/18,,,,,Disabled (GSS harmonised),,,,Undefined,Units,Percentage (%),0.3638352657792506
-2015/16 to 2017/18,,,,,Long-term health condition - Does not limit activities,,,,Undefined,Units,Percentage (%),0.11513896397556507
-2015/16 to 2017/18,,,,,No long-term health condition,,,,Undefined,Units,Percentage (%),0.12366021057851391
-2015/16 to 2017/18,,,,,,"Less than £10,000",,,Undefined,Units,Percentage (%),0.2987746637072328
-2015/16 to 2017/18,,,,,,"£10,000 to less than £20,000",,,Undefined,Units,Percentage (%),0.15352083053401297
-2015/16 to 2017/18,,,,,,"£20,000 to less than £30,000",,,Undefined,Units,Percentage (%),0.17649846189643992
-2015/16 to 2017/18,,,,,,"£30,000 to less than £40,000",,,Undefined,Units,Percentage (%),0.21261250615543892
-2015/16 to 2017/18,,,,,,"£40,000 to less than £50,000",,,Undefined,Units,Percentage (%),0.12829201391262007
-2015/16 to 2017/18,,,,,,"£50,000 or more",,,Undefined,Units,Percentage (%),0.07208133704466059
-2015/16 to 2017/18,,,,,,No income stated or not enough information provided,,,Undefined,Units,Percentage (%),0.19993571248909212
-2015/16 to 2017/18,,,,,,,Urban,,Undefined,Units,Percentage (%),0.18641085446884278
-2015/16 to 2017/18,,,,,,,Rural,,Undefined,Units,Percentage (%),0.05567737274378033
+Year,Type of hate crime,Age,Sex,Disability status,Ethnicity,Household income,Urban or rural,GeoCode,Observation status,Unit multiplier,Unit measure,Value
+2007/08 to 2008/09,Disability,,,,,,,,Normal Value,Units,Percentage (%),0.050195412582026123
+2007/08 to 2008/09,Race,,,,,,,,Normal Value,Units,Percentage (%),0.1625374552930453
+2007/08 to 2008/09,Religion,,,,,,,,Normal Value,Units,Percentage (%),0.028651953214628382
+2007/08 to 2008/09,Sexual orientation,,,,,,,,Normal Value,Units,Percentage (%),0.0691941737152112
+2007/08 to 2008/09,,,,,,,,,Normal Value,Units,Percentage (%),0.2871760101585322
+2009/10 to 2011/12,Disability,,,,,,,,Normal Value,Units,Percentage (%),0.04518994382185085
+2009/10 to 2011/12,Race,,,,,,,,Normal Value,Units,Percentage (%),0.14947526529116495
+2009/10 to 2011/12,Religion,,,,,,,,Normal Value,Units,Percentage (%),0.03811517627252059
+2009/10 to 2011/12,Sexual orientation,,,,,,,,Normal Value,Units,Percentage (%),0.03559162243971714
+2009/10 to 2011/12,,,,,,,,,Normal Value,Units,Percentage (%),0.26548725411789453
+2012/13 to 2014/15,Disability,,,,,,,,Normal Value,Units,Percentage (%),0.0640559444379131
+2012/13 to 2014/15,Race,,,,,,,,Normal Value,Units,Percentage (%),0.10882200320261919
+2012/13 to 2014/15,Religion,,,,,,,,Normal Value,Units,Percentage (%),0.03056589391106636
+2012/13 to 2014/15,Sexual orientation,,,,,,,,Normal Value,Units,Percentage (%),0.026221922327764158
+2012/13 to 2014/15,,,,,,,,,Normal Value,Units,Percentage (%),0.20815248327309177
+2015/16 to 2017/18,,,,,,,Rural,,Normal Value,Units,Percentage (%),0.05567737274378033
+2015/16 to 2017/18,,,,,,,Urban,,Normal Value,Units,Percentage (%),0.18641085446884278
+2015/16 to 2017/18,,,,Disabled (GSS harmonised),,,,,Normal Value,Units,Percentage (%),0.3638352657792506
+2015/16 to 2017/18,,,,Long-term health condition,,,,,Normal Value,Units,Percentage (%),0.3089117283086101
+2015/16 to 2017/18,,,,Long-term health condition - Does not limit activities,,,,,Normal Value,Units,Percentage (%),0.11513896397556507
+2015/16 to 2017/18,,,,No long-term health condition,,,,,Normal Value,Units,Percentage (%),0.12366021057851391
+2015/16 to 2017/18,,,Male,,,,,,Normal Value,Units,Percentage (%),0.22599762053607936
+2015/16 to 2017/18,,,Female,,,,,,Normal Value,Units,Percentage (%),0.10069322448801023
+2015/16 to 2017/18,Disability,,,,,,,,Normal Value,Units,Percentage (%),0.03456495111047771
+2015/16 to 2017/18,Race,,,,,,,,Normal Value,Units,Percentage (%),0.09502122898068319
+2015/16 to 2017/18,Religion,,,,,,,,Normal Value,Units,Percentage (%),0.03255105412655042
+2015/16 to 2017/18,Sexual orientation,,,,,,,,Normal Value,Units,Percentage (%),0.02486069269473341
+2015/16 to 2017/18,,,,,,,,,Normal Value,Units,Percentage (%),0.16201904630946332
+2015/16 to 2017/18,,16 to 24,,,,,,,Normal Value,Units,Percentage (%),0.33619293730375177
+2015/16 to 2017/18,,25 to 34,,,,,,,Normal Value,Units,Percentage (%),0.21691732120561596
+2015/16 to 2017/18,,35 to 44,,,,,,,Normal Value,Units,Percentage (%),0.20420876686102907
+2015/16 to 2017/18,,45 to 54,,,,,,,Normal Value,Units,Percentage (%),0.1405507039701664
+2015/16 to 2017/18,,55 to 64,,,,,,,Normal Value,Units,Percentage (%),0.10583697810431754
+2015/16 to 2017/18,,65 to 74,,,,,,,Normal Value,Units,Percentage (%),0.042918249621871074
+2015/16 to 2017/18,,75 and over,,,,,,,Normal Value,Units,Percentage (%),0.02913040771547024
+2015/16 to 2017/18,,,,,White,,,,Normal Value,Units,Percentage (%),0.12760959446930095
+2015/16 to 2017/18,,,,,Mixed/multiple ethnic groups,,,,Normal Value,Units,Percentage (%),0.2999048008028006
+2015/16 to 2017/18,,,,,Asian/Asian British,,,,Normal Value,Units,Percentage (%),0.38569637618025865
+2015/16 to 2017/18,,,,,Black/African/Caribbean/Black British,,,,Normal Value,Units,Percentage (%),0.36336501378524816
+2015/16 to 2017/18,,,,,Other ethnic group,,,,Normal Value,Units,Percentage (%),0.6262869838531681
+2015/16 to 2017/18,,,,,,"Less than £10,000",,,Normal Value,Units,Percentage (%),0.2987746637072328
+2015/16 to 2017/18,,,,,,"£10,000 to less than £20,000",,,Normal Value,Units,Percentage (%),0.15352083053401297
+2015/16 to 2017/18,,,,,,"£20,000 to less than £30,000",,,Normal Value,Units,Percentage (%),0.17649846189643992
+2015/16 to 2017/18,,,,,,"£30,000 to less than £40,000",,,Normal Value,Units,Percentage (%),0.21261250615543892
+2015/16 to 2017/18,,,,,,"£40,000 to less than £50,000",,,Normal Value,Units,Percentage (%),0.12829201391262007
+2015/16 to 2017/18,,,,,,"£50,000 or more",,,Normal Value,Units,Percentage (%),0.07208133704466059
+2015/16 to 2017/18,,,,,,No income stated or not enough information provided,,,Normal Value,Units,Percentage (%),0.19993571248909212
+2015/16 to 2017/18,,16 to 24,Male,,,,,,Normal Value,Units,Percentage (%),0.5169475926008921
+2015/16 to 2017/18,,25 to 34,Male,,,,,,Normal Value,Units,Percentage (%),0.2863935937997315
+2015/16 to 2017/18,,35 to 44,Male,,,,,,Normal Value,Units,Percentage (%),0.25168703240824447
+2015/16 to 2017/18,,45 to 54,Male,,,,,,Normal Value,Units,Percentage (%),0.20265123270562768
+2015/16 to 2017/18,,55 to 64,Male,,,,,,Normal Value,Units,Percentage (%),0.14474670892059271
+2015/16 to 2017/18,,65 to 74,Male,,,,,,Normal Value,Units,Percentage (%),0.04208991396711355
+2015/16 to 2017/18,,75 and over,Male,,,,,,Normal Value,Units,Percentage (%),0.026920779698990347
+2015/16 to 2017/18,,16 to 24,Female,,,,,,Normal Value,Units,Percentage (%),0.14734729993712423
+2015/16 to 2017/18,,25 to 34,Female,,,,,,Normal Value,Units,Percentage (%),0.14767319231582834
+2015/16 to 2017/18,,35 to 44,Female,,,,,,Normal Value,Units,Percentage (%),0.15754125237354075
+2015/16 to 2017/18,,45 to 54,Female,,,,,,Normal Value,Units,Percentage (%),0.08027818432065183
+2015/16 to 2017/18,,55 to 64,Female,,,,,,Normal Value,Units,Percentage (%),0.06823868219040306
+2015/16 to 2017/18,,65 to 74,Female,,,,,,Normal Value,Units,Percentage (%),0.04368823246526427
+2015/16 to 2017/18,,75 and over,Female,,,,,,Normal Value,Units,Percentage (%),0.030818089653581335
+2017/18 to 2019/20,Race,,,,,,,,Normal Value,Units,Percentage (%),0.09032876219487966
+2017/18 to 2019/20,Religion,,,,,,,,Normal Value,Units,Percentage (%),0.04578827735442207
+2017/18 to 2019/20,Sexual orientation,,,,,,,,Normal Value,Units,Percentage (%),0.03421092553286103
+2017/18 to 2019/20,Disability,,,,,,,,Normal Value,Units,Percentage (%),0.029944026646420353
+2017/18 to 2019/20,Gender Identity,,,,,,,,Normal Value,Units,Percentage (%),0.0065715078655506414
+2017/18 to 2019/20,,16 to 24,,,,,,,Normal Value,Units,Percentage (%),0.38643312051211204
+2017/18 to 2019/20,,25 to 34,,,,,,,Normal Value,Units,Percentage (%),0.21974308495756306
+2017/18 to 2019/20,,35 to 44,,,,,,,Normal Value,Units,Percentage (%),0.187578444698652
+2017/18 to 2019/20,,45 to 54,,,,,,,Normal Value,Units,Percentage (%),0.1484999598889328
+2017/18 to 2019/20,,55 to 64,,,,,,,Normal Value,Units,Percentage (%),0.12031613580983323
+2017/18 to 2019/20,,65 to 74,,,,,,,Normal Value,Units,Percentage (%),0.06131474537894165
+2017/18 to 2019/20,,75 and over,,,,,,,Normal Value,Units,Percentage (%),0.041247513830978536
+2017/18 to 2019/20,,,Male,,,,,,Normal Value,Units,Percentage (%),0.20133058114263958
+2017/18 to 2019/20,,,Female,,,,,,Normal Value,Units,Percentage (%),0.14306905178857082
+2017/18 to 2019/20,,,,Long-standing illness or disability,,,,,Normal Value,Units,Percentage (%),0.3101927565650289
+2017/18 to 2019/20,,,,No long-standing illness or disability,,,,,Normal Value,Units,Percentage (%),0.14172031988943362
+2017/18 to 2019/20,,,,,White,,,,Normal Value,Units,Percentage (%),0.12525773563811435
+2017/18 to 2019/20,,,,,Mixed/multiple ethnic groups,,,,Normal Value,Units,Percentage (%),
+2017/18 to 2019/20,,,,,Asian/Asian British,,,,Normal Value,Units,Percentage (%),0.43816525460941447
+2017/18 to 2019/20,,,,,Black/African/Caribbean/Black British,,,,Normal Value,Units,Percentage (%),0.46822989220045247
+2017/18 to 2019/20,,,,,Other ethnic group,,,,Normal Value,Units,Percentage (%),1.077809110648997
+2017/18 to 2019/20,,,,,,,Urban,,Normal Value,Units,Percentage (%),0.058154296809274815
+2017/18 to 2019/20,,,,,,,Rural,,Normal Value,Units,Percentage (%),0.19829100026571497
+2017/18 to 2019/20,,,,,,,,,Normal Value,Units,Percentage (%),0.171625609741123
+2017/18 to 2019/20,,16 to 24,Male,,,,,,Normal Value,Units,Percentage (%),0.42410926414166455
+2017/18 to 2019/20,,25 to 34,Male,,,,,,Normal Value,Units,Percentage (%),0.2839331140374518
+2017/18 to 2019/20,,35 to 44,Male,,,,,,Normal Value,Units,Percentage (%),0.13741656667162105
+2017/18 to 2019/20,,45 to 54,Male,,,,,,Normal Value,Units,Percentage (%),0.1749924978715356
+2017/18 to 2019/20,,55 to 64,Male,,,,,,Normal Value,Units,Percentage (%),0.17523345778903532
+2017/18 to 2019/20,,65 to 74,Male,,,,,,Normal Value,Units,Percentage (%),0.09869004294513961
+2017/18 to 2019/20,,75 and over,Male,,,,,,Normal Value,Units,Percentage (%),0.05389484257608118
+2017/18 to 2019/20,,16 to 24,Female,,,,,,Normal Value,Units,Percentage (%),0.34684721244856476
+2017/18 to 2019/20,,25 to 34,Female,,,,,,Normal Value,Units,Percentage (%),0.15497384268460165
+2017/18 to 2019/20,,35 to 44,Female,,,,,,Normal Value,Units,Percentage (%),0.23683538911992733
+2017/18 to 2019/20,,45 to 54,Female,,,,,,Normal Value,Units,Percentage (%),0.12281977279495189
+2017/18 to 2019/20,,55 to 64,Female,,,,,,Normal Value,Units,Percentage (%),0.06730217329827641
+2017/18 to 2019/20,,65 to 74,Female,,,,,,Normal Value,Units,Percentage (%),0.0265623293311672
+2017/18 to 2019/20,,75 and over,Female,,,,,,Normal Value,Units,Percentage (%),0.03135848150810372
