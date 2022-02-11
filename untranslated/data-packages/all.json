@@ -18066,7 +18066,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of people living below 50 percent of median income",
+                "Percentage of people in households at risk of poverty (below 50% of median UK household income)",
                 ""
               ]
             }
