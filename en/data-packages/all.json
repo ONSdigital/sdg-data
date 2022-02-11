@@ -12471,33 +12471,30 @@
             "title": "Year"
           },
           {
-            "name": "Age",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "21 to 40",
-                "41 to 60",
-                "61 and over",
-                "20 and under",
+                "Hepatitis B incidence per 100,000 population",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Series"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "East",
-                "East Midlands",
                 "London",
-                "North East",
+                "East Midlands",
+                "East",
                 "North West",
                 "South East",
                 "South West",
                 "West Midlands",
                 "Yorkshire and The Humber",
+                "North East",
                 ""
               ]
             },
@@ -12514,6 +12511,20 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "20 and under",
+                "21 to 40",
+                "41 to 60",
+                "61 and over",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Observation status",
