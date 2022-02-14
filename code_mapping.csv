@@ -42,8 +42,8 @@ Per million population,UNIT_MEASURE,PER_1000000_POP
 Growth rates of household expenditure or income per capita,SERIES,SI_HEI_TOTL
 Proportion of people living below 50 percent of median income,SERIES,SI_POV_50MI
 Labour share of GDP,SERIES,SL_EMP_GTOTL
-"Proportion of members of developing countries in international organizations, by organization",SERIES,SG_INT_MBRDEV
-"Proportion of voting rights of developing countries in international organizations, by organization",SERIES,SG_INT_VRTDEV
+"Proportion of members of developing countries in international organisations, by organisation",SERIES,SG_INT_MBRDEV
+"Proportion of voting rights of developing countries in international organisations, by organisation",SERIES,SG_INT_VRTDEV
 Proportion of children under 5 years of age whose births have been registered with a civil authority,SERIES,SG_REG_BRTH
 Total government revenue as a proportion of GDP,SERIES,GR_G14_GDP
 Agriculture orientation index for government expenditures,SERIES,AG_PRD_ORTIND
@@ -68,13 +68,13 @@ Under 5 years old,AGE,Y0T4
 "Degree of integrated water resources management implementation, institutions and participation (%)",SERIES,ER_H2O_IWRMD_IP
 "Degree of integrated water resources management implementation, management instruments (%)",SERIES,ER_H2O_IWRMD_MI
 "Degree of integrated water resources management implementation, financing (%)",SERIES,ER_H2O_IWRMD_FI
-16 to 24 years old,AGE,Y16T24
-25 to 34 years old,AGE,Y25T34
-35 to 44 years old,AGE,Y35T44
-45 to 54 years old,AGE,Y45T54
-55 to 59 years old,AGE,Y55T59
-60 to 64 years old,AGE,Y60T64
-65 to 74 years old,AGE,Y65T74
-75 to 84 years old,AGE,Y75T84
-85 years old and over,AGE,Y_GE85
+16 to 24,AGE,Y16T24
+25 to 34,AGE,Y25T34
+35 to 44,AGE,Y35T44
+45 to 54,AGE,Y45T54
+55 to 59,AGE,Y55T59
+60 to 64,AGE,Y60T64
+65 to 74,AGE,Y65T74
+75 to 84,AGE,Y75T84
+85 and over,AGE,Y_GE85
 Manufacturing,ACTIVITY,ISIC4_C
