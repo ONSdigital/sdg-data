@@ -42,8 +42,10 @@ Per million population,UNIT_MEASURE,PER_1000000_POP
 Growth rates of household expenditure or income per capita,SERIES,SI_HEI_TOTL
 Proportion of people living below 50 percent of median income,SERIES,SI_POV_50MI
 Labour share of GDP,SERIES,SL_EMP_GTOTL
+"""Proportion of members of developing countries in international organisations, by organisation""",SERIES,SG_INT_MBRDEV
 "Proportion of members of developing countries in international organisations, by organisation",SERIES,SG_INT_MBRDEV
 "Proportion of voting rights of developing countries in international organisations, by organisation",SERIES,SG_INT_VRTDEV
+"""Proportion of voting rights of developing countries in international organisations, by organisation""",SERIES,SG_INT_VRTDEV
 Proportion of children under 5 years of age whose births have been registered with a civil authority,SERIES,SG_REG_BRTH
 Total government revenue as a proportion of GDP,SERIES,GR_G14_GDP
 Agriculture orientation index for government expenditures,SERIES,AG_PRD_ORTIND
