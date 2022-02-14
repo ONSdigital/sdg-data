@@ -1,59 +1,64 @@
-Year,Poverty reduction aid type,Observation status,Units,Value
-2009,Basic education,Undefined,Percentage (%),0.014760967305
-2010,Basic education,Undefined,Percentage (%),0.011753022622669711
-2011,Basic education,Undefined,Percentage (%),0.017068192825419867
-2012,Basic education,Undefined,Percentage (%),0.015501460525771513
-2013,Basic education,Undefined,Percentage (%),0.01395825278242245
-2014,Basic education,Undefined,Percentage (%),0.011814819701492538
-2015,Basic education,Undefined,Percentage (%),0.012276398609617413
-2016,Basic education,Undefined,Percentage (%),0.02350396994512667
-2017,Basic education,Undefined,Percentage (%),0.01830434532593253
-2018,Basic education,Undefined,Percentage (%),0.011681453406240046
-2019,Basic education,Undefined,Percentage (%),0.010098039449993027
-2009,Basic health,Undefined,Percentage (%),0.01775775327147998
-2010,Basic health,Undefined,Percentage (%),0.018241430068970804
-2011,Basic health,Undefined,Percentage (%),0.027562674289049044
-2012,Basic health,Undefined,Percentage (%),0.03034943663632351
-2013,Basic health,Undefined,Percentage (%),0.04559180287630742
-2014,Basic health,Undefined,Percentage (%),0.035046136119402986
-2015,Basic health,Undefined,Percentage (%),0.026564613962213122
-2016,Basic health,Undefined,Percentage (%),0.025673545044515102
-2017,Basic health,Undefined,Percentage (%),0.02587554672029365
-2018,Basic health,Undefined,Percentage (%),0.020832353688200418
-2019,Basic health,Undefined,Percentage (%),0.022628508402826396
-2015,Basic social services,Undefined,Percentage (%),2.94838184330743e-07
-2016,Basic social services,Undefined,Percentage (%),2.616831353546021e-07
-2019,Basic social services,Undefined,Percentage (%),0.0006936328912900672
-2009,Development food aid,Undefined,Percentage (%),0.0006481432544263566
-2010,Development food aid,Undefined,Percentage (%),0.007249224608778767
-2011,Development food aid,Undefined,Percentage (%),0.0061869157793782385
-2012,Development food aid,Undefined,Percentage (%),0.004201785898530521
-2013,Development food aid,Undefined,Percentage (%),0.005782987962320451
-2014,Development food aid,Undefined,Percentage (%),0.0014197462686567166
-2015,Development food aid,Undefined,Percentage (%),0.0013782060025107677
-2016,Development food aid,Undefined,Percentage (%),0.0018522858678697892
-2017,Development food aid,Undefined,Percentage (%),0.0024153771412763697
-2018,Development food aid,Undefined,Percentage (%),0.0017000409355670818
-2019,Development food aid,Undefined,Percentage (%),0.0032909554803575354
-2009,Water supply and sanitation,Undefined,Percentage (%),0.005142358136079346
-2010,Water supply and sanitation,Undefined,Percentage (%),0.006260005526101362
-2011,Water supply and sanitation,Undefined,Percentage (%),0.007148302124757241
-2012,Water supply and sanitation,Undefined,Percentage (%),0.006837252062412725
-2013,Water supply and sanitation,Undefined,Percentage (%),0.007911775553496295
-2014,Water supply and sanitation,Undefined,Percentage (%),0.010796531343283582
-2015,Water supply and sanitation,Undefined,Percentage (%),0.010599914450495334
-2016,Water supply and sanitation,Undefined,Percentage (%),0.008898126792042093
-2017,Water supply and sanitation,Undefined,Percentage (%),0.00879822539541695
-2018,Water supply and sanitation,Undefined,Percentage (%),0.009877375578530457
-2019,Water supply and sanitation,Undefined,Percentage (%),0.008141867061141216
-2009,,Undefined,Percentage (%),0.03830922196697385
-2010,,Undefined,Percentage (%),0.043503682826520645
-2011,,Undefined,Percentage (%),0.05796608501860439
-2012,,Undefined,Percentage (%),0.05688993512303828
-2013,,Undefined,Percentage (%),0.07324481917454662
-2014,,Undefined,Percentage (%),0.05907723343283582
-2015,,Undefined,Percentage (%),0.05081942786302096
-2016,,Undefined,Percentage (%),0.059928189332689015
-2017,,Undefined,Percentage (%),0.0553934945829195
-2018,,Undefined,Percentage (%),0.044091223608538004
-2019,,Undefined,Percentage (%),0.04485300328560824
+Year,Series,Poverty reduction aid type,Observation status,Unit multiplier,Units,Value
+2009,Official development assistance grants for poverty reduction (percentage of GNI),Basic education,Normal value,Units,Percentage (%),0.0147609672832
+2009,Official development assistance grants for poverty reduction (percentage of GNI),Basic health,Normal value,Units,Percentage (%),0.01775775327147998
+2009,Official development assistance grants for poverty reduction (percentage of GNI),Development food aid,Normal value,Units,Percentage (%),0.0006481432544263566
+2009,Official development assistance grants for poverty reduction (percentage of GNI),Water supply and sanitation,Normal value,Units,Percentage (%),0.005142358136079346
+2009,Official development assistance grants for poverty reduction (percentage of GNI),,Normal value,Units,Percentage (%),0.03830922194519098
+2010,Official development assistance grants for poverty reduction (percentage of GNI),Basic education,Normal value,Units,Percentage (%),0.011753022101679002
+2010,Official development assistance grants for poverty reduction (percentage of GNI),Basic health,Normal value,Units,Percentage (%),0.018241430428718616
+2010,Official development assistance grants for poverty reduction (percentage of GNI),Development food aid,Normal value,Units,Percentage (%),0.007249224251063431
+2010,Official development assistance grants for poverty reduction (percentage of GNI),Water supply and sanitation,Normal value,Units,Percentage (%),0.006260004477209535
+2010,Official development assistance grants for poverty reduction (percentage of GNI),,Normal value,Units,Percentage (%),0.04350368125867058
+2011,Official development assistance grants for poverty reduction (percentage of GNI),Basic education,Normal value,Units,Percentage (%),0.017068195531061325
+2011,Official development assistance grants for poverty reduction (percentage of GNI),Basic health,Normal value,Units,Percentage (%),0.02756267263170105
+2011,Official development assistance grants for poverty reduction (percentage of GNI),Development food aid,Normal value,Units,Percentage (%),0.006186915785897072
+2011,Official development assistance grants for poverty reduction (percentage of GNI),Water supply and sanitation,Normal value,Units,Percentage (%),0.007148303501730245
+2011,Official development assistance grants for poverty reduction (percentage of GNI),,Normal value,Units,Percentage (%),0.05796608745038969
+2012,Official development assistance grants for poverty reduction (percentage of GNI),Basic education,Normal value,Units,Percentage (%),0.015501453256985386
+2012,Official development assistance grants for poverty reduction (percentage of GNI),Basic health,Normal value,Units,Percentage (%),0.030349438686748702
+2012,Official development assistance grants for poverty reduction (percentage of GNI),Development food aid,Normal value,Units,Percentage (%),0.004201784413430442
+2012,Official development assistance grants for poverty reduction (percentage of GNI),Water supply and sanitation,Normal value,Units,Percentage (%),0.006837249644590319
+2012,Official development assistance grants for poverty reduction (percentage of GNI),,Normal value,Units,Percentage (%),0.05688992600175485
+2013,Official development assistance grants for poverty reduction (percentage of GNI),Basic education,Normal value,Units,Percentage (%),0.0139582466052745
+2013,Official development assistance grants for poverty reduction (percentage of GNI),Basic health,Normal value,Units,Percentage (%),0.045591799429310916
+2013,Official development assistance grants for poverty reduction (percentage of GNI),Development food aid,Normal value,Units,Percentage (%),0.005782988898756352
+2013,Official development assistance grants for poverty reduction (percentage of GNI),Water supply and sanitation,Normal value,Units,Percentage (%),0.007911776781528107
+2013,Official development assistance grants for poverty reduction (percentage of GNI),,Normal value,Units,Percentage (%),0.07324481171486988
+2014,Official development assistance grants for poverty reduction (percentage of GNI),Basic education,Normal value,Units,Percentage (%),0.011814819230925373
+2014,Official development assistance grants for poverty reduction (percentage of GNI),Basic health,Normal value,Units,Percentage (%),0.03504613667719403
+2014,Official development assistance grants for poverty reduction (percentage of GNI),Development food aid,Normal value,Units,Percentage (%),0.0014197466334328356
+2014,Official development assistance grants for poverty reduction (percentage of GNI),Water supply and sanitation,Normal value,Units,Percentage (%),0.010796528265611942
+2014,Official development assistance grants for poverty reduction (percentage of GNI),,Normal value,Units,Percentage (%),0.05907723080716418
+2015,Official development assistance grants for poverty reduction (percentage of GNI),Basic education,Normal value,Units,Percentage (%),0.012276395605518117
+2015,Official development assistance grants for poverty reduction (percentage of GNI),Basic health,Normal value,Units,Percentage (%),0.026564612990175734
+2015,Official development assistance grants for poverty reduction (percentage of GNI),Basic social services,Normal value,Units,Percentage (%),2.9483818433074343e-07
+2015,Official development assistance grants for poverty reduction (percentage of GNI),Development food aid,Normal value,Units,Percentage (%),0.0013782068916684419
+2015,Official development assistance grants for poverty reduction (percentage of GNI),Water supply and sanitation,Normal value,Units,Percentage (%),0.010599914069179019
+2015,Official development assistance grants for poverty reduction (percentage of GNI),,Normal value,Units,Percentage (%),0.05081942439472565
+2016,Official development assistance grants for poverty reduction (percentage of GNI),Basic education,Normal value,Units,Percentage (%),0.023503946577869413
+2016,Official development assistance grants for poverty reduction (percentage of GNI),Basic health,Normal value,Units,Percentage (%),0.025673543724637704
+2016,Official development assistance grants for poverty reduction (percentage of GNI),Basic social services,Normal value,Units,Percentage (%),2.616831353546021e-07
+2016,Official development assistance grants for poverty reduction (percentage of GNI),Development food aid,Normal value,Units,Percentage (%),0.0018522839978821043
+2016,Official development assistance grants for poverty reduction (percentage of GNI),Water supply and sanitation,Normal value,Units,Percentage (%),0.00889812523607417
+2016,Official development assistance grants for poverty reduction (percentage of GNI),,Normal value,Units,Percentage (%),0.05992816121959875
+2017,Official development assistance grants for poverty reduction (percentage of GNI),Basic education,Normal value,Units,Percentage (%),0.01830434532593253
+2017,Official development assistance grants for poverty reduction (percentage of GNI),Basic health,Normal value,Units,Percentage (%),0.02587554672029365
+2017,Official development assistance grants for poverty reduction (percentage of GNI),Development food aid,Normal value,Units,Percentage (%),0.0024153771412763697
+2017,Official development assistance grants for poverty reduction (percentage of GNI),Water supply and sanitation,Normal value,Units,Percentage (%),0.00879822539541695
+2017,Official development assistance grants for poverty reduction (percentage of GNI),,Normal value,Units,Percentage (%),0.0553934945829195
+2018,Official development assistance grants for poverty reduction (percentage of GNI),Basic education,Normal value,Units,Percentage (%),0.011681453406240046
+2018,Official development assistance grants for poverty reduction (percentage of GNI),Basic health,Normal value,Units,Percentage (%),0.020832353688200418
+2018,Official development assistance grants for poverty reduction (percentage of GNI),Development food aid,Normal value,Units,Percentage (%),0.0017000409355670818
+2018,Official development assistance grants for poverty reduction (percentage of GNI),Water supply and sanitation,Normal value,Units,Percentage (%),0.009877375578530457
+2018,Official development assistance grants for poverty reduction (percentage of GNI),,Normal value,Units,Percentage (%),0.044091223608538004
+2019,Official development assistance grants for poverty reduction (percentage of GNI),Basic education,Normal value,Units,Percentage (%),0.015288449335665305
+2019,Official development assistance grants for poverty reduction (percentage of GNI),Basic health,Normal value,Units,Percentage (%),0.02262850840299323
+2019,Official development assistance grants for poverty reduction (percentage of GNI),Basic social services,Normal value,Units,Percentage (%),0.0006936328912900672
+2019,Official development assistance grants for poverty reduction (percentage of GNI),Development food aid,Normal value,Units,Percentage (%),0.003290955480403879
+2019,Official development assistance grants for poverty reduction (percentage of GNI),Water supply and sanitation,Normal value,Units,Percentage (%),0.00814186706134049
+2019,Official development assistance grants for poverty reduction (percentage of GNI),,Normal value,Units,Percentage (%),0.05004341317169298
+2020,Official development assistance grants for poverty reduction (percentage of GNI),Basic education,Provisional value,Units,Percentage (%),0.006956500151358806
+2020,Official development assistance grants for poverty reduction (percentage of GNI),Basic health,Provisional value,Units,Percentage (%),0.03554491540291628
+2020,Official development assistance grants for poverty reduction (percentage of GNI),Development food aid,Provisional value,Units,Percentage (%),0.0031495727208903116
+2020,Official development assistance grants for poverty reduction (percentage of GNI),Water supply and sanitation,Provisional value,Units,Percentage (%),0.005298272108800895
+2020,Official development assistance grants for poverty reduction (percentage of GNI),,Provisional value,Units,Percentage (%),0.05094926038396628
