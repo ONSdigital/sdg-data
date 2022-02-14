@@ -15,21 +15,35 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Official development assistance grants for poverty reduction (percentage of GNI)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Poverty reduction aid type",
             "type": "string",
             "constraints": {
               "enum": [
                 "Basic education",
                 "Basic health",
-                "Basic social services",
                 "Development food aid",
                 "Water supply and sanitation",
+                "Basic social services",
                 ""
               ]
             }
           },
           {
             "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
             "type": "string"
           },
           {
