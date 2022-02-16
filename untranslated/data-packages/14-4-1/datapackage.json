@@ -19,19 +19,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1) Proportion of fish stocks that are not overexploited",
-                "2) Proportion of fish stocks that are overexploited",
-                "3) Proportion of fish stocks with unknown level of exploitation",
-                "4) Proportion of fish stocks within biologically sustainable levels (not overexploited)",
-                "5) Proportion of fish stocks not within biologically sustainable levels (overexploited)",
-                "6) Proportion of fish stocks where biologically sustainable status is unknown",
+                "Proportion of fish stocks that are overexploited",
+                "Proportion of fish stocks that are fully exploited",
+                "Proportion of fish stocks that are not fully exploited",
+                "Proportion of fish stocks with unknown level of exploitation",
+                "Proportion of fish stocks that are not within biologically sustainable levels",
+                "Proportion of fish stocks within biologically sustainable levels",
+                "Proportion of fish stocks where biologically sustainable status is unknown",
                 ""
               ]
             }
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Unit multiplier",
