@@ -15216,6 +15216,7 @@
             "constraints": {
               "enum": [
                 "PM 10",
+                "PM 2.5",
                 ""
               ]
             },
@@ -15274,7 +15275,6 @@
                 "Port Talbot",
                 "Portsmouth",
                 "Preston",
-                "Prestonpans",
                 "Reading",
                 "Rochester",
                 "Salford",
@@ -15300,6 +15300,7 @@
                 "Wirral",
                 "Wrexham",
                 "York",
+                "Prestonpans",
                 ""
               ]
             },
