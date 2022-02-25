@@ -1,151 +1,581 @@
-Year,Units,Material category,Observation status,Unit multiplier,Unit measure,Value
-2008,Material footprint (Million metric tonnes),Biomass,Undefined,Units,Million metric tonnes,198.2213
-2009,Material footprint (Million metric tonnes),Biomass,Undefined,Units,Million metric tonnes,189.0115
-2010,Material footprint (Million metric tonnes),Biomass,Undefined,Units,Million metric tonnes,186.5766
-2011,Material footprint (Million metric tonnes),Biomass,Undefined,Units,Million metric tonnes,190.8936
-2012,Material footprint (Million metric tonnes),Biomass,Undefined,Units,Million metric tonnes,183.9892
-2013,Material footprint (Million metric tonnes),Biomass,Undefined,Units,Million metric tonnes,193.6239
-2014,Material footprint (Million metric tonnes),Biomass,Undefined,Units,Million metric tonnes,207.4374
-2015,Material footprint (Million metric tonnes),Biomass,Undefined,Units,Million metric tonnes,206.3617
-2016,Material footprint (Million metric tonnes),Biomass,Undefined,Units,Million metric tonnes,193.3899
-2017,Material footprint (Million metric tonnes),Biomass,Undefined,Units,Million metric tonnes,213.284
-2008,Material footprint (Million metric tonnes),Fossil fuels,Undefined,Units,Million metric tonnes,276.2666
-2009,Material footprint (Million metric tonnes),Fossil fuels,Undefined,Units,Million metric tonnes,241.3901
-2010,Material footprint (Million metric tonnes),Fossil fuels,Undefined,Units,Million metric tonnes,240.5768
-2011,Material footprint (Million metric tonnes),Fossil fuels,Undefined,Units,Million metric tonnes,231.5124
-2012,Material footprint (Million metric tonnes),Fossil fuels,Undefined,Units,Million metric tonnes,233.3593
-2013,Material footprint (Million metric tonnes),Fossil fuels,Undefined,Units,Million metric tonnes,242.4056
-2014,Material footprint (Million metric tonnes),Fossil fuels,Undefined,Units,Million metric tonnes,229.3598
-2015,Material footprint (Million metric tonnes),Fossil fuels,Undefined,Units,Million metric tonnes,220.5161
-2016,Material footprint (Million metric tonnes),Fossil fuels,Undefined,Units,Million metric tonnes,205.2857
-2017,Material footprint (Million metric tonnes),Fossil fuels,Undefined,Units,Million metric tonnes,204.7406
-2008,Material footprint (Million metric tonnes),Metal ores excluding precious metals,Undefined,Units,Million metric tonnes,83.9489
-2009,Material footprint (Million metric tonnes),Metal ores excluding precious metals,Undefined,Units,Million metric tonnes,43.3942
-2010,Material footprint (Million metric tonnes),Metal ores excluding precious metals,Undefined,Units,Million metric tonnes,68.1133
-2011,Material footprint (Million metric tonnes),Metal ores excluding precious metals,Undefined,Units,Million metric tonnes,66.1541
-2012,Material footprint (Million metric tonnes),Metal ores excluding precious metals,Undefined,Units,Million metric tonnes,50.6117
-2013,Material footprint (Million metric tonnes),Metal ores excluding precious metals,Undefined,Units,Million metric tonnes,100.907
-2014,Material footprint (Million metric tonnes),Metal ores excluding precious metals,Undefined,Units,Million metric tonnes,91.7047
-2015,Material footprint (Million metric tonnes),Metal ores excluding precious metals,Undefined,Units,Million metric tonnes,92.9516
-2016,Material footprint (Million metric tonnes),Metal ores excluding precious metals,Undefined,Units,Million metric tonnes,66.1992
-2017,Material footprint (Million metric tonnes),Metal ores excluding precious metals,Undefined,Units,Million metric tonnes,73.4321
-2008,Material footprint (Million metric tonnes),Non-metallic minerals,Undefined,Units,Million metric tonnes,288.7147
-2009,Material footprint (Million metric tonnes),Non-metallic minerals,Undefined,Units,Million metric tonnes,239.9092
-2010,Material footprint (Million metric tonnes),Non-metallic minerals,Undefined,Units,Million metric tonnes,231.3202
-2011,Material footprint (Million metric tonnes),Non-metallic minerals,Undefined,Units,Million metric tonnes,231.1939
-2012,Material footprint (Million metric tonnes),Non-metallic minerals,Undefined,Units,Million metric tonnes,213.1983
-2013,Material footprint (Million metric tonnes),Non-metallic minerals,Undefined,Units,Million metric tonnes,229.0438
-2014,Material footprint (Million metric tonnes),Non-metallic minerals,Undefined,Units,Million metric tonnes,241.3646
-2015,Material footprint (Million metric tonnes),Non-metallic minerals,Undefined,Units,Million metric tonnes,260.4413
-2016,Material footprint (Million metric tonnes),Non-metallic minerals,Undefined,Units,Million metric tonnes,264.4014
-2017,Material footprint (Million metric tonnes),Non-metallic minerals,Undefined,Units,Million metric tonnes,244.8792
-2008,Material footprint (Million metric tonnes),,Undefined,Units,Million metric tonnes,847.1514
-2009,Material footprint (Million metric tonnes),,Undefined,Units,Million metric tonnes,713.705
-2010,Material footprint (Million metric tonnes),,Undefined,Units,Million metric tonnes,726.587
-2011,Material footprint (Million metric tonnes),,Undefined,Units,Million metric tonnes,719.7539
-2012,Material footprint (Million metric tonnes),,Undefined,Units,Million metric tonnes,681.1585
-2013,Material footprint (Million metric tonnes),,Undefined,Units,Million metric tonnes,765.9803
-2014,Material footprint (Million metric tonnes),,Undefined,Units,Million metric tonnes,769.8665
-2015,Material footprint (Million metric tonnes),,Undefined,Units,Million metric tonnes,780.2707
-2016,Material footprint (Million metric tonnes),,Undefined,Units,Million metric tonnes,729.2763
-2017,Material footprint (Million metric tonnes),,Undefined,Units,Million metric tonnes,736.3359
-2008,Material footprint per capita (Tonnes),Biomass,Undefined,Units,Material footprint per capita (Tonnes),3.2
-2009,Material footprint per capita (Tonnes),Biomass,Undefined,Units,Material footprint per capita (Tonnes),3
-2010,Material footprint per capita (Tonnes),Biomass,Undefined,Units,Material footprint per capita (Tonnes),3
-2011,Material footprint per capita (Tonnes),Biomass,Undefined,Units,Material footprint per capita (Tonnes),3
-2012,Material footprint per capita (Tonnes),Biomass,Undefined,Units,Material footprint per capita (Tonnes),2.9
-2013,Material footprint per capita (Tonnes),Biomass,Undefined,Units,Material footprint per capita (Tonnes),3
-2014,Material footprint per capita (Tonnes),Biomass,Undefined,Units,Material footprint per capita (Tonnes),3.2
-2015,Material footprint per capita (Tonnes),Biomass,Undefined,Units,Material footprint per capita (Tonnes),3.2
-2016,Material footprint per capita (Tonnes),Biomass,Undefined,Units,Material footprint per capita (Tonnes),2.9
-2017,Material footprint per capita (Tonnes),Biomass,Undefined,Units,Material footprint per capita (Tonnes),3.2
-2008,Material footprint per capita (Tonnes),Fossil fuels,Undefined,Units,Material footprint per capita (Tonnes),4.5
-2009,Material footprint per capita (Tonnes),Fossil fuels,Undefined,Units,Material footprint per capita (Tonnes),3.9
-2010,Material footprint per capita (Tonnes),Fossil fuels,Undefined,Units,Material footprint per capita (Tonnes),3.8
-2011,Material footprint per capita (Tonnes),Fossil fuels,Undefined,Units,Material footprint per capita (Tonnes),3.7
-2012,Material footprint per capita (Tonnes),Fossil fuels,Undefined,Units,Material footprint per capita (Tonnes),3.7
-2013,Material footprint per capita (Tonnes),Fossil fuels,Undefined,Units,Material footprint per capita (Tonnes),3.8
-2014,Material footprint per capita (Tonnes),Fossil fuels,Undefined,Units,Material footprint per capita (Tonnes),3.6
-2015,Material footprint per capita (Tonnes),Fossil fuels,Undefined,Units,Material footprint per capita (Tonnes),3.4
-2016,Material footprint per capita (Tonnes),Fossil fuels,Undefined,Units,Material footprint per capita (Tonnes),3.1
-2017,Material footprint per capita (Tonnes),Fossil fuels,Undefined,Units,Material footprint per capita (Tonnes),3.1
-2008,Material footprint per capita (Tonnes),Metal ores excluding precious metals,Undefined,Units,Material footprint per capita (Tonnes),1.4
-2009,Material footprint per capita (Tonnes),Metal ores excluding precious metals,Undefined,Units,Material footprint per capita (Tonnes),0.7
-2010,Material footprint per capita (Tonnes),Metal ores excluding precious metals,Undefined,Units,Material footprint per capita (Tonnes),1.1
-2011,Material footprint per capita (Tonnes),Metal ores excluding precious metals,Undefined,Units,Material footprint per capita (Tonnes),1
-2012,Material footprint per capita (Tonnes),Metal ores excluding precious metals,Undefined,Units,Material footprint per capita (Tonnes),0.8
-2013,Material footprint per capita (Tonnes),Metal ores excluding precious metals,Undefined,Units,Material footprint per capita (Tonnes),1.6
-2014,Material footprint per capita (Tonnes),Metal ores excluding precious metals,Undefined,Units,Material footprint per capita (Tonnes),1.4
-2015,Material footprint per capita (Tonnes),Metal ores excluding precious metals,Undefined,Units,Material footprint per capita (Tonnes),1.4
-2016,Material footprint per capita (Tonnes),Metal ores excluding precious metals,Undefined,Units,Material footprint per capita (Tonnes),1
-2017,Material footprint per capita (Tonnes),Metal ores excluding precious metals,Undefined,Units,Material footprint per capita (Tonnes),1.1
-2008,Material footprint per capita (Tonnes),Non-metallic minerals,Undefined,Units,Material footprint per capita (Tonnes),4.7
-2009,Material footprint per capita (Tonnes),Non-metallic minerals,Undefined,Units,Material footprint per capita (Tonnes),3.9
-2010,Material footprint per capita (Tonnes),Non-metallic minerals,Undefined,Units,Material footprint per capita (Tonnes),3.7
-2011,Material footprint per capita (Tonnes),Non-metallic minerals,Undefined,Units,Material footprint per capita (Tonnes),3.7
-2012,Material footprint per capita (Tonnes),Non-metallic minerals,Undefined,Units,Material footprint per capita (Tonnes),3.3
-2013,Material footprint per capita (Tonnes),Non-metallic minerals,Undefined,Units,Material footprint per capita (Tonnes),3.6
-2014,Material footprint per capita (Tonnes),Non-metallic minerals,Undefined,Units,Material footprint per capita (Tonnes),3.7
-2015,Material footprint per capita (Tonnes),Non-metallic minerals,Undefined,Units,Material footprint per capita (Tonnes),4
-2016,Material footprint per capita (Tonnes),Non-metallic minerals,Undefined,Units,Material footprint per capita (Tonnes),4
-2017,Material footprint per capita (Tonnes),Non-metallic minerals,Undefined,Units,Material footprint per capita (Tonnes),3.7
-2008,Material footprint per capita (Tonnes),,Undefined,Units,Material footprint per capita (Tonnes),13.7
-2009,Material footprint per capita (Tonnes),,Undefined,Units,Material footprint per capita (Tonnes),11.5
-2010,Material footprint per capita (Tonnes),,Undefined,Units,Material footprint per capita (Tonnes),11.6
-2011,Material footprint per capita (Tonnes),,Undefined,Units,Material footprint per capita (Tonnes),11.4
-2012,Material footprint per capita (Tonnes),,Undefined,Units,Material footprint per capita (Tonnes),10.7
-2013,Material footprint per capita (Tonnes),,Undefined,Units,Material footprint per capita (Tonnes),11.9
-2014,Material footprint per capita (Tonnes),,Undefined,Units,Material footprint per capita (Tonnes),11.9
-2015,Material footprint per capita (Tonnes),,Undefined,Units,Material footprint per capita (Tonnes),12
-2016,Material footprint per capita (Tonnes),,Undefined,Units,Material footprint per capita (Tonnes),11.1
-2017,Material footprint per capita (Tonnes),,Undefined,Units,Material footprint per capita (Tonnes),11.1
-2008,Material footprint per GDP (Tonnes per £m),Biomass,Undefined,Units,Tonnes of Material Footprint per GDP (£m),109
-2009,Material footprint per GDP (Tonnes per £m),Biomass,Undefined,Units,Tonnes of Material Footprint per GDP (£m),104
-2010,Material footprint per GDP (Tonnes per £m),Biomass,Undefined,Units,Tonnes of Material Footprint per GDP (£m),103
-2011,Material footprint per GDP (Tonnes per £m),Biomass,Undefined,Units,Tonnes of Material Footprint per GDP (£m),105
-2012,Material footprint per GDP (Tonnes per £m),Biomass,Undefined,Units,Tonnes of Material Footprint per GDP (£m),101
-2013,Material footprint per GDP (Tonnes per £m),Biomass,Undefined,Units,Tonnes of Material Footprint per GDP (£m),107
-2014,Material footprint per GDP (Tonnes per £m),Biomass,Undefined,Units,Tonnes of Material Footprint per GDP (£m),114
-2015,Material footprint per GDP (Tonnes per £m),Biomass,Undefined,Units,Tonnes of Material Footprint per GDP (£m),114
-2016,Material footprint per GDP (Tonnes per £m),Biomass,Undefined,Units,Tonnes of Material Footprint per GDP (£m),107
-2017,Material footprint per GDP (Tonnes per £m),Biomass,Undefined,Units,Tonnes of Material Footprint per GDP (£m),118
-2008,Material footprint per GDP (Tonnes per £m),Fossil fuels,Undefined,Units,Tonnes of Material Footprint per GDP (£m),152
-2009,Material footprint per GDP (Tonnes per £m),Fossil fuels,Undefined,Units,Tonnes of Material Footprint per GDP (£m),133
-2010,Material footprint per GDP (Tonnes per £m),Fossil fuels,Undefined,Units,Tonnes of Material Footprint per GDP (£m),133
-2011,Material footprint per GDP (Tonnes per £m),Fossil fuels,Undefined,Units,Tonnes of Material Footprint per GDP (£m),128
-2012,Material footprint per GDP (Tonnes per £m),Fossil fuels,Undefined,Units,Tonnes of Material Footprint per GDP (£m),129
-2013,Material footprint per GDP (Tonnes per £m),Fossil fuels,Undefined,Units,Tonnes of Material Footprint per GDP (£m),134
-2014,Material footprint per GDP (Tonnes per £m),Fossil fuels,Undefined,Units,Tonnes of Material Footprint per GDP (£m),126
-2015,Material footprint per GDP (Tonnes per £m),Fossil fuels,Undefined,Units,Tonnes of Material Footprint per GDP (£m),122
-2016,Material footprint per GDP (Tonnes per £m),Fossil fuels,Undefined,Units,Tonnes of Material Footprint per GDP (£m),113
-2017,Material footprint per GDP (Tonnes per £m),Fossil fuels,Undefined,Units,Tonnes of Material Footprint per GDP (£m),113
-2008,Material footprint per GDP (Tonnes per £m),Metal ores excluding precious metals,Undefined,Units,Tonnes of Material Footprint per GDP (£m),46
-2009,Material footprint per GDP (Tonnes per £m),Metal ores excluding precious metals,Undefined,Units,Tonnes of Material Footprint per GDP (£m),24
-2010,Material footprint per GDP (Tonnes per £m),Metal ores excluding precious metals,Undefined,Units,Tonnes of Material Footprint per GDP (£m),38
-2011,Material footprint per GDP (Tonnes per £m),Metal ores excluding precious metals,Undefined,Units,Tonnes of Material Footprint per GDP (£m),36
-2012,Material footprint per GDP (Tonnes per £m),Metal ores excluding precious metals,Undefined,Units,Tonnes of Material Footprint per GDP (£m),28
-2013,Material footprint per GDP (Tonnes per £m),Metal ores excluding precious metals,Undefined,Units,Tonnes of Material Footprint per GDP (£m),56
-2014,Material footprint per GDP (Tonnes per £m),Metal ores excluding precious metals,Undefined,Units,Tonnes of Material Footprint per GDP (£m),51
-2015,Material footprint per GDP (Tonnes per £m),Metal ores excluding precious metals,Undefined,Units,Tonnes of Material Footprint per GDP (£m),51
-2016,Material footprint per GDP (Tonnes per £m),Metal ores excluding precious metals,Undefined,Units,Tonnes of Material Footprint per GDP (£m),36
-2017,Material footprint per GDP (Tonnes per £m),Metal ores excluding precious metals,Undefined,Units,Tonnes of Material Footprint per GDP (£m),40
-2008,Material footprint per GDP (Tonnes per £m),Non-metallic minerals,Undefined,Units,Tonnes of Material Footprint per GDP (£m),159
-2009,Material footprint per GDP (Tonnes per £m),Non-metallic minerals,Undefined,Units,Tonnes of Material Footprint per GDP (£m),132
-2010,Material footprint per GDP (Tonnes per £m),Non-metallic minerals,Undefined,Units,Tonnes of Material Footprint per GDP (£m),127
-2011,Material footprint per GDP (Tonnes per £m),Non-metallic minerals,Undefined,Units,Tonnes of Material Footprint per GDP (£m),127
-2012,Material footprint per GDP (Tonnes per £m),Non-metallic minerals,Undefined,Units,Tonnes of Material Footprint per GDP (£m),117
-2013,Material footprint per GDP (Tonnes per £m),Non-metallic minerals,Undefined,Units,Tonnes of Material Footprint per GDP (£m),126
-2014,Material footprint per GDP (Tonnes per £m),Non-metallic minerals,Undefined,Units,Tonnes of Material Footprint per GDP (£m),133
-2015,Material footprint per GDP (Tonnes per £m),Non-metallic minerals,Undefined,Units,Tonnes of Material Footprint per GDP (£m),144
-2016,Material footprint per GDP (Tonnes per £m),Non-metallic minerals,Undefined,Units,Tonnes of Material Footprint per GDP (£m),146
-2017,Material footprint per GDP (Tonnes per £m),Non-metallic minerals,Undefined,Units,Tonnes of Material Footprint per GDP (£m),135
-2008,Material footprint per GDP (Tonnes per £m),,Undefined,Units,Tonnes of Material Footprint per GDP (£m),467
-2009,Material footprint per GDP (Tonnes per £m),,Undefined,Units,Tonnes of Material Footprint per GDP (£m),393
-2010,Material footprint per GDP (Tonnes per £m),,Undefined,Units,Tonnes of Material Footprint per GDP (£m),400
-2011,Material footprint per GDP (Tonnes per £m),,Undefined,Units,Tonnes of Material Footprint per GDP (£m),397
-2012,Material footprint per GDP (Tonnes per £m),,Undefined,Units,Tonnes of Material Footprint per GDP (£m),375
-2013,Material footprint per GDP (Tonnes per £m),,Undefined,Units,Tonnes of Material Footprint per GDP (£m),422
-2014,Material footprint per GDP (Tonnes per £m),,Undefined,Units,Tonnes of Material Footprint per GDP (£m),424
-2015,Material footprint per GDP (Tonnes per £m),,Undefined,Units,Tonnes of Material Footprint per GDP (£m),430
-2016,Material footprint per GDP (Tonnes per £m),,Undefined,Units,Tonnes of Material Footprint per GDP (£m),402
-2017,Material footprint per GDP (Tonnes per £m),,Undefined,Units,Tonnes of Material Footprint per GDP (£m),406
+Year,Series,Material category,Observation status,Unit multiplier,Units,Value
+1990,Material footprint,,Normal value,Millions,Metric tons,1085.413
+1991,Material footprint,,Normal value,Millions,Metric tons,1062.829
+1992,Material footprint,,Normal value,Millions,Metric tons,965.168
+1993,Material footprint,,Normal value,Millions,Metric tons,933.888
+1994,Material footprint,,Normal value,Millions,Metric tons,927.691
+1995,Material footprint,,Normal value,Millions,Metric tons,866.457
+1996,Material footprint,,Normal value,Millions,Metric tons,941.921
+1997,Material footprint,,Normal value,Millions,Metric tons,1145.467
+1998,Material footprint,,Normal value,Millions,Metric tons,1331.521
+1999,Material footprint,,Normal value,Millions,Metric tons,1393.502
+2000,Material footprint,,Normal value,Millions,Metric tons,1365.742
+2001,Material footprint,,Normal value,Millions,Metric tons,1427.904
+2002,Material footprint,,Normal value,Millions,Metric tons,1344.47
+2003,Material footprint,,Normal value,Millions,Metric tons,1309.612
+2004,Material footprint,,Normal value,Millions,Metric tons,1464.399
+2005,Material footprint,,Normal value,Millions,Metric tons,1365.497
+2006,Material footprint,,Normal value,Millions,Metric tons,1352.15
+2007,Material footprint,,Normal value,Millions,Metric tons,1302.617
+2008,Material footprint,,Normal value,Millions,Metric tons,1156.109
+2009,Material footprint,,Normal value,Millions,Metric tons,1012.619
+2010,Material footprint,,Normal value,Millions,Metric tons,954.336
+2011,Material footprint,,Normal value,Millions,Metric tons,964.866
+2012,Material footprint,,Normal value,Millions,Metric tons,951.984
+2013,Material footprint,,Normal value,Millions,Metric tons,1024.069
+2014,Material footprint,,Normal value,Millions,Metric tons,1112.38
+2015,Material footprint,,Normal value,Millions,Metric tons,1195.637
+2016,Material footprint,,Normal value,Millions,Metric tons,1070.756
+2017,Material footprint,,Normal value,Millions,Metric tons,970.509
+2018,Material footprint,,Normal value,Millions,Metric tons,971.213
+1990,Material footprint per capita,,Normal value,Units,Metric tons,19.0
+1991,Material footprint per capita,,Normal value,Units,Metric tons,18.5
+1992,Material footprint per capita,,Normal value,Units,Metric tons,16.8
+1993,Material footprint per capita,,Normal value,Units,Metric tons,16.2
+1994,Material footprint per capita,,Normal value,Units,Metric tons,16.0
+1995,Material footprint per capita,,Normal value,Units,Metric tons,14.9
+1996,Material footprint per capita,,Normal value,Units,Metric tons,16.2
+1997,Material footprint per capita,,Normal value,Units,Metric tons,19.6
+1998,Material footprint per capita,,Normal value,Units,Metric tons,22.8
+1999,Material footprint per capita,,Normal value,Units,Metric tons,23.7
+2000,Material footprint per capita,,Normal value,Units,Metric tons,23.2
+2001,Material footprint per capita,,Normal value,Units,Metric tons,24.2
+2002,Material footprint per capita,,Normal value,Units,Metric tons,22.6
+2003,Material footprint per capita,,Normal value,Units,Metric tons,22.0
+2004,Material footprint per capita,,Normal value,Units,Metric tons,24.4
+2005,Material footprint per capita,,Normal value,Units,Metric tons,22.6
+2006,Material footprint per capita,,Normal value,Units,Metric tons,22.2
+2007,Material footprint per capita,,Normal value,Units,Metric tons,21.2
+2008,Material footprint per capita,,Normal value,Units,Metric tons,18.7
+2009,Material footprint per capita,,Normal value,Units,Metric tons,16.3
+2010,Material footprint per capita,,Normal value,Units,Metric tons,15.2
+2011,Material footprint per capita,,Normal value,Units,Metric tons,15.2
+2012,Material footprint per capita,,Normal value,Units,Metric tons,14.9
+2013,Material footprint per capita,,Normal value,Units,Metric tons,16.0
+2014,Material footprint per capita,,Normal value,Units,Metric tons,17.2
+2015,Material footprint per capita,,Normal value,Units,Metric tons,18.4
+2016,Material footprint per capita,,Normal value,Units,Metric tons,16.3
+2017,Material footprint per capita,,Normal value,Units,Metric tons,14.7
+2018,Material footprint per capita,,Normal value,Units,Metric tons,14.6
+1990,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,373.87821257518283
+1991,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,394.75416491297557
+1992,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,368.2829031348742
+1993,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,357.15418647574165
+1994,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,346.24033628312407
+1995,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,323.07945482109835
+1996,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,356.7989514358406
+1997,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,413.05278457078043
+1998,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,467.765560991485
+1999,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,478.3602880281936
+2000,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,461.2367523640409
+2001,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,474.64815085687593
+2002,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,446.594163919912
+2003,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,431.00116825999555
+2004,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,483.1065659043429
+2005,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,449.36516153966426
+2006,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,445.46317854042553
+2007,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,430.5686070926187
+2008,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,395.01181926737854
+2009,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,366.662668728655
+2010,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,343.97685018858635
+2011,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,350.490671476701
+2012,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,346.5802112819903
+2013,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,371.34337097914414
+2014,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,398.92962629268897
+2015,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,421.6587959894439
+2016,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,379.2097010578036
+2017,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,344.3750369267354
+2018,Material footprint per unit of GDP,,Normal value,Thousandths,Kilograms per constant USD,348.01831929575997
+1990,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),889.0
+1991,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),880.0
+1992,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),796.0
+1993,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),752.0
+1994,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),719.0
+1995,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),655.0
+1996,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),695.0
+1997,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),805.0
+1998,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),902.0
+1999,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),914.0
+2000,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),865.0
+2001,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),881.0
+2002,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),812.0
+2003,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),765.0
+2004,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),836.0
+2005,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),758.0
+2006,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),731.0
+2007,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),688.0
+2008,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),612.0
+2009,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),559.0
+2010,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),516.0
+2011,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),515.0
+2012,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),501.0
+2013,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),528.0
+2014,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),557.0
+2015,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),585.0
+2016,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),515.0
+2017,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),459.0
+2018,Material footprint per unit of GDP,,Normal value,Units,Tons per GDP (£m),453.0
+1990,Material footprint,Biomass,Normal value,Millions,Metric tons,223.076
+1991,Material footprint,Biomass,Normal value,Millions,Metric tons,223.854
+1992,Material footprint,Biomass,Normal value,Millions,Metric tons,219.603
+1993,Material footprint,Biomass,Normal value,Millions,Metric tons,211.72
+1994,Material footprint,Biomass,Normal value,Millions,Metric tons,210.079
+1995,Material footprint,Biomass,Normal value,Millions,Metric tons,200.69
+1996,Material footprint,Biomass,Normal value,Millions,Metric tons,223.534
+1997,Material footprint,Biomass,Normal value,Millions,Metric tons,252.335
+1998,Material footprint,Biomass,Normal value,Millions,Metric tons,269.067
+1999,Material footprint,Biomass,Normal value,Millions,Metric tons,273.075
+2000,Material footprint,Biomass,Normal value,Millions,Metric tons,270.481
+2001,Material footprint,Biomass,Normal value,Millions,Metric tons,260.938
+2002,Material footprint,Biomass,Normal value,Millions,Metric tons,280.069
+2003,Material footprint,Biomass,Normal value,Millions,Metric tons,276.739
+2004,Material footprint,Biomass,Normal value,Millions,Metric tons,295.43
+2005,Material footprint,Biomass,Normal value,Millions,Metric tons,288.585
+2006,Material footprint,Biomass,Normal value,Millions,Metric tons,280.28
+2007,Material footprint,Biomass,Normal value,Millions,Metric tons,272.537
+2008,Material footprint,Biomass,Normal value,Millions,Metric tons,270.041
+2009,Material footprint,Biomass,Normal value,Millions,Metric tons,256.694
+2010,Material footprint,Biomass,Normal value,Millions,Metric tons,252.072
+2011,Material footprint,Biomass,Normal value,Millions,Metric tons,261.938
+2012,Material footprint,Biomass,Normal value,Millions,Metric tons,259.161
+2013,Material footprint,Biomass,Normal value,Millions,Metric tons,263.203
+2014,Material footprint,Biomass,Normal value,Millions,Metric tons,281.113
+2015,Material footprint,Biomass,Normal value,Millions,Metric tons,281.6
+2016,Material footprint,Biomass,Normal value,Millions,Metric tons,257.725
+2017,Material footprint,Biomass,Normal value,Millions,Metric tons,252.425
+2018,Material footprint,Biomass,Normal value,Millions,Metric tons,246.871
+1990,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,40.586
+1991,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,39.776
+1992,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,36.859
+1993,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,36.046
+1994,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,37.369
+1995,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,35.285
+1996,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,38.388
+1997,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,47.843
+1998,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,59.356
+1999,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,64.45
+2000,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,66.102
+2001,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,72.74
+2002,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,68.274
+2003,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,63.767
+2004,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,66.314
+2005,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,64.027
+2006,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,64.375
+2007,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,67.796
+2008,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,56.26
+2009,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,48.37
+2010,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,49.132
+2011,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,48.749
+2012,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,50.674
+2013,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,54.02
+2014,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,54.803
+2015,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,53.56
+2016,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,51.249
+2017,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,45.174
+2018,Material footprint,Metal ores excluding precious metals,Normal value,Millions,Metric tons,49.497
+1990,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,369.919
+1991,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,364.13
+1992,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,357.659
+1993,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,356.035
+1994,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,377.765
+1995,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,349.157
+1996,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,310.765
+1997,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,418.479
+1998,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,463.243
+1999,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,490.312
+2000,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,552.788
+2001,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,595.119
+2002,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,571.586
+2003,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,596.932
+2004,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,639.17
+2005,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,615.696
+2006,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,600.033
+2007,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,580.562
+2008,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,482.148
+2009,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,392.241
+2010,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,374.938
+2011,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,396.114
+2012,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,386.379
+2013,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,422.311
+2014,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,516.363
+2015,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,594.097
+2016,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,545.295
+2017,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,497.023
+2018,Material footprint,Non-metallic minerals,Normal value,Millions,Metric tons,496.62
+1990,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,451.833
+1991,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,435.069
+1992,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,351.046
+1993,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,330.087
+1994,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,302.478
+1995,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,281.326
+1996,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,369.234
+1997,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,426.81
+1998,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,539.855
+1999,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,565.664
+2000,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,476.371
+2001,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,499.106
+2002,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,424.54
+2003,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,372.173
+2004,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,463.485
+2005,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,397.19
+2006,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,407.463
+2007,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,381.722
+2008,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,347.659
+2009,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,315.314
+2010,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,278.194
+2011,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,258.064
+2012,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,255.77
+2013,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,284.535
+2014,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,260.102
+2015,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,266.38
+2016,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,216.487
+2017,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,175.888
+2018,Material footprint,Fossil fuels,Normal value,Millions,Metric tons,178.226
+1990,Material footprint per capita,Biomass,Normal value,Units,Metric tons,3.9
+1991,Material footprint per capita,Biomass,Normal value,Units,Metric tons,3.9
+1992,Material footprint per capita,Biomass,Normal value,Units,Metric tons,3.8
+1993,Material footprint per capita,Biomass,Normal value,Units,Metric tons,3.7
+1994,Material footprint per capita,Biomass,Normal value,Units,Metric tons,3.6
+1995,Material footprint per capita,Biomass,Normal value,Units,Metric tons,3.5
+1996,Material footprint per capita,Biomass,Normal value,Units,Metric tons,3.8
+1997,Material footprint per capita,Biomass,Normal value,Units,Metric tons,4.3
+1998,Material footprint per capita,Biomass,Normal value,Units,Metric tons,4.6
+1999,Material footprint per capita,Biomass,Normal value,Units,Metric tons,4.7
+2000,Material footprint per capita,Biomass,Normal value,Units,Metric tons,4.6
+2001,Material footprint per capita,Biomass,Normal value,Units,Metric tons,4.4
+2002,Material footprint per capita,Biomass,Normal value,Units,Metric tons,4.7
+2003,Material footprint per capita,Biomass,Normal value,Units,Metric tons,4.6
+2004,Material footprint per capita,Biomass,Normal value,Units,Metric tons,4.9
+2005,Material footprint per capita,Biomass,Normal value,Units,Metric tons,4.8
+2006,Material footprint per capita,Biomass,Normal value,Units,Metric tons,4.6
+2007,Material footprint per capita,Biomass,Normal value,Units,Metric tons,4.4
+2008,Material footprint per capita,Biomass,Normal value,Units,Metric tons,4.4
+2009,Material footprint per capita,Biomass,Normal value,Units,Metric tons,4.1
+2010,Material footprint per capita,Biomass,Normal value,Units,Metric tons,4.0
+2011,Material footprint per capita,Biomass,Normal value,Units,Metric tons,4.1
+2012,Material footprint per capita,Biomass,Normal value,Units,Metric tons,4.1
+2013,Material footprint per capita,Biomass,Normal value,Units,Metric tons,4.1
+2014,Material footprint per capita,Biomass,Normal value,Units,Metric tons,4.4
+2015,Material footprint per capita,Biomass,Normal value,Units,Metric tons,4.3
+2016,Material footprint per capita,Biomass,Normal value,Units,Metric tons,3.9
+2017,Material footprint per capita,Biomass,Normal value,Units,Metric tons,3.8
+2018,Material footprint per capita,Biomass,Normal value,Units,Metric tons,3.7
+1990,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,0.7
+1991,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,0.7
+1992,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,0.6
+1993,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,0.6
+1994,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,0.6
+1995,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,0.6
+1996,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,0.7
+1997,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,0.8
+1998,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,1.0
+1999,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,1.1
+2000,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,1.1
+2001,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,1.2
+2002,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,1.2
+2003,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,1.1
+2004,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,1.1
+2005,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,1.1
+2006,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,1.1
+2007,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,1.1
+2008,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,0.9
+2009,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,0.8
+2010,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,0.8
+2011,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,0.8
+2012,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,0.8
+2013,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,0.8
+2014,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,0.8
+2015,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,0.8
+2016,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,0.8
+2017,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,0.7
+2018,Material footprint per capita,Metal ores excluding precious metals,Normal value,Units,Metric tons,0.7
+1990,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,6.5
+1991,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,6.3
+1992,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,6.2
+1993,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,6.2
+1994,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,6.5
+1995,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,6.0
+1996,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,5.3
+1997,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,7.2
+1998,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,7.9
+1999,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,8.4
+2000,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,9.4
+2001,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,10.1
+2002,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,9.6
+2003,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,10.0
+2004,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,10.7
+2005,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,10.2
+2006,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,9.9
+2007,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,9.5
+2008,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,7.8
+2009,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,6.3
+2010,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,6.0
+2011,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,6.3
+2012,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,6.1
+2013,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,6.6
+2014,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,8.0
+2015,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,9.1
+2016,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,8.3
+2017,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,7.5
+2018,Material footprint per capita,Non-metallic minerals,Normal value,Units,Metric tons,7.5
+1990,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,7.9
+1991,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,7.6
+1992,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,6.1
+1993,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,5.7
+1994,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,5.2
+1995,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,4.8
+1996,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,6.3
+1997,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,7.3
+1998,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,9.2
+1999,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,9.6
+2000,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,8.1
+2001,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,8.4
+2002,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,7.2
+2003,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,6.2
+2004,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,7.7
+2005,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,6.6
+2006,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,6.7
+2007,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,6.2
+2008,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,5.6
+2009,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,5.1
+2010,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,4.4
+2011,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,4.1
+2012,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,4.0
+2013,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,4.4
+2014,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,4.0
+2015,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,4.1
+2016,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,3.3
+2017,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,2.7
+2018,Material footprint per capita,Fossil fuels,Normal value,Units,Metric tons,2.7
+1990,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,76.84011168875026
+1991,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,83.14347729731615
+1992,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,83.79476979875811
+1993,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,80.96975693085683
+1994,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,78.40738306830876
+1995,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,74.83212183414321
+1996,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,84.67450753328485
+1997,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,90.99142480286895
+1998,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,94.52368847302888
+1999,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,93.74097464754193
+2000,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,91.34651933980074
+2001,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,86.73814149150888
+2002,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,93.03084553384295
+2003,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,91.07646562730253
+2004,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,97.46262648712545
+2005,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,94.96911757618216
+2006,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,92.33769898407016
+2007,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,90.08471137041896
+2008,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,92.2658561491885
+2009,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,92.94720629045412
+2010,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,90.85577048412439
+2011,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,95.14981925496815
+2012,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,94.35040309086276
+2013,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,95.44150762480231
+2014,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,100.81474319568552
+2015,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,99.31033996993017
+2016,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,91.2736610442738
+2017,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,89.57038903939188
+2018,Material footprint per unit of GDP,Biomass,Normal value,Thousandths,Kilograms per constant USD,88.46219161282187
+1990,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,13.980135796767103
+1991,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,14.773535219285996
+1992,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,14.064431815651085
+1993,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,13.785357350886384
+1994,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,13.947160343868878
+1995,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,13.156865907208845
+1996,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,14.541344919286278
+1997,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,17.25207655237545
+1998,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,20.851862372587878
+1999,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,22.124346117491815
+2000,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,22.323888263499132
+2001,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,24.179431175575637
+2002,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,22.678654003040656
+2003,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,20.986102369583616
+2004,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,21.877049090705878
+2005,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,21.070352551415407
+2006,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,21.20821811081603
+2007,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,22.409372276310826
+2008,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,19.22255163828213
+2009,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,17.514458336654794
+2010,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,17.708931239590274
+2011,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,17.708230722004608
+2012,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,18.44842521145689
+2013,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,19.58849345141135
+2014,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,19.653841591648746
+2015,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,18.88871380962166
+2016,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,18.149903404240906
+2017,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,16.029524628961035
+2018,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Thousandths,Kilograms per constant USD,17.73644169732307
+1990,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,127.42122539309835
+1991,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,135.2445539872941
+1992,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,136.4733340230053
+1993,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,136.16128570223697
+1994,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,140.9925078889354
+1995,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,130.1916346765855
+1996,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,117.71754334276336
+1997,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,150.9025718195248
+1998,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,162.73804301274893
+1999,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,168.31392387214348
+2000,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,186.6869012345036
+2001,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,197.82291588915862
+2002,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,189.86438654512693
+2003,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,196.45390342465987
+2004,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,210.8627660419591
+2005,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,202.61658026295564
+2006,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,197.67970077960814
+2007,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,191.89966941234832
+2008,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,164.737199205376
+2009,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,142.02788200181544
+2010,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,135.14107427154397
+2011,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,143.88968192611404
+2012,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,140.66551061249362
+2013,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,153.13654679672302
+2014,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,185.18177117655094
+2015,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,209.51695683634802
+2016,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,193.1169696348328
+2017,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,176.36344843627086
+2018,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Thousandths,Kilograms per constant USD,177.9556675298419
+1990,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,155.63708415366554
+1991,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,161.59259840907933
+1992,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,133.949985923575
+1993,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,126.23778649176147
+1994,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,112.89328498201104
+1995,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,104.899205277354
+1996,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,139.86555564050613
+1997,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,153.90671139601125
+1998,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,189.65196713311929
+1999,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,194.18070011179037
+2000,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,160.8794435262374
+2001,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,165.90732989162572
+2002,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,141.01994566673815
+2003,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,122.48436773244849
+2004,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,152.9041242845525
+2005,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,130.70944023453677
+2006,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,134.23789011397952
+2007,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,126.17485403354064
+2008,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,118.78587060102252
+2009,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,114.1731220997306
+2010,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,100.2710741933277
+2011,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,93.74257632040445
+2012,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,93.11587236717703
+2013,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,103.17682310620748
+2014,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,93.27962895591523
+2015,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,93.94278537354403
+2016,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,76.66916697445612
+2017,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,62.41202966172352
+2018,Material footprint per unit of GDP,Fossil fuels,Normal value,Thousandths,Kilograms per constant USD,63.86437678944384
+1990,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),183.0
+1991,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),185.0
+1992,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),181.0
+1993,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),170.0
+1994,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),163.0
+1995,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),152.0
+1996,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),165.0
+1997,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),177.0
+1998,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),182.0
+1999,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),179.0
+2000,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),171.0
+2001,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),161.0
+2002,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),169.0
+2003,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),162.0
+2004,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),169.0
+2005,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),160.0
+2006,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),151.0
+2007,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),144.0
+2008,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),143.0
+2009,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),142.0
+2010,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),136.0
+2011,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),140.0
+2012,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),136.0
+2013,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),136.0
+2014,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),141.0
+2015,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),138.0
+2016,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),124.0
+2017,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),119.0
+2018,Material footprint per unit of GDP,Biomass,Normal value,Units,Tons per GDP (£m),115.0
+1990,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),33.0
+1991,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),33.0
+1992,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),30.0
+1993,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),29.0
+1994,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),29.0
+1995,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),27.0
+1996,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),28.0
+1997,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),34.0
+1998,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),40.0
+1999,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),42.0
+2000,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),42.0
+2001,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),45.0
+2002,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),41.0
+2003,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),37.0
+2004,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),38.0
+2005,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),36.0
+2006,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),35.0
+2007,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),36.0
+2008,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),30.0
+2009,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),27.0
+2010,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),27.0
+2011,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),26.0
+2012,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),27.0
+2013,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),28.0
+2014,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),27.0
+2015,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),26.0
+2016,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),25.0
+2017,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),21.0
+2018,Material footprint per unit of GDP,Metal ores excluding precious metals,Normal value,Units,Tons per GDP (£m),23.0
+1990,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),303.0
+1991,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),302.0
+1992,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),295.0
+1993,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),287.0
+1994,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),293.0
+1995,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),264.0
+1996,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),229.0
+1997,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),294.0
+1998,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),314.0
+1999,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),322.0
+2000,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),350.0
+2001,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),367.0
+2002,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),345.0
+2003,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),349.0
+2004,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),365.0
+2005,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),342.0
+2006,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),324.0
+2007,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),306.0
+2008,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),255.0
+2009,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),217.0
+2010,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),203.0
+2011,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),212.0
+2012,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),203.0
+2013,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),218.0
+2014,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),259.0
+2015,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),291.0
+2016,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),262.0
+2017,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),235.0
+2018,Material footprint per unit of GDP,Non-metallic minerals,Normal value,Units,Tons per GDP (£m),232.0
+1990,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),370.0
+1991,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),360.0
+1992,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),290.0
+1993,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),266.0
+1994,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),234.0
+1995,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),213.0
+1996,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),272.0
+1997,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),300.0
+1998,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),366.0
+1999,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),371.0
+2000,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),302.0
+2001,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),308.0
+2002,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),256.0
+2003,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),217.0
+2004,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),265.0
+2005,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),220.0
+2006,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),220.0
+2007,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),201.0
+2008,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),184.0
+2009,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),174.0
+2010,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),150.0
+2011,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),138.0
+2012,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),135.0
+2013,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),147.0
+2014,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),130.0
+2015,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),130.0
+2016,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),104.0
+2017,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),83.0
+2018,Material footprint per unit of GDP,Fossil fuels,Normal value,Units,Tons per GDP (£m),83.0
