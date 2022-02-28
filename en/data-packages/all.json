@@ -13388,6 +13388,17 @@
             "title": "Series"
           },
           {
+            "name": "Age (default)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 and over",
+                ""
+              ]
+            },
+            "title": "Age (default)"
+          },
+          {
             "name": "Beverage",
             "type": "string",
             "constraints": {
@@ -13428,7 +13439,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Litres of pure alcohol",
+                "Litres pure alcohol",
                 ""
               ]
             },
