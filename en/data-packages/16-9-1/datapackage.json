@@ -27,6 +27,17 @@
             "title": "Series"
           },
           {
+            "name": "Age (default)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under 5 years old",
+                ""
+              ]
+            },
+            "title": "Age (default)"
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {

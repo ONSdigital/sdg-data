@@ -25,6 +25,16 @@
             }
           },
           {
+            "name": "Age (default)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under 5 years old",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
