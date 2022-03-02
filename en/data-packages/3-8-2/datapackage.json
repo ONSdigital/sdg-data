@@ -16,100 +16,15 @@
             "title": "Year"
           },
           {
-            "name": "Health product or service",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Hospital services",
-                "Medical products appliances and equipment",
+                "Average weekly household expenditure on health",
                 ""
               ]
             },
-            "title": "Health product or service"
-          },
-          {
-            "name": "Health product or service category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Inpatient hospital services",
-                "Outpatient services",
-                "Medicines prescriptions and healthcare products",
-                "Spectacles lenses accessories and repairs",
-                ""
-              ]
-            },
-            "title": "Health product or service category"
-          },
-          {
-            "name": "Health product or service sub-category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National Health Service (NHS) medical optical dental and medical auxiliary services",
-                "Other services",
-                "Private medical optical dental and medical auxiliary services",
-                "Medicines and medical goods (not NHS)",
-                "National Health Service (NHS) prescription charges and payments",
-                "Nonoptical appliances and equipment (wheelchairs batteries for hearing aids shoe buildup)",
-                "Other medical products (plasters condoms hot water bottles)",
-                "Accessories or repairs to spectacles or lenses",
-                "Purchase of spectacles lenses prescription sunglasses",
-                ""
-              ]
-            },
-            "title": "Health product or service sub-category"
-          },
-          {
-            "name": "Tenure category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Owner occupied",
-                "Private rented",
-                "Social rented",
-                ""
-              ]
-            },
-            "title": "Tenure category"
-          },
-          {
-            "name": "Tenure sub-category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Owned outright",
-                "Owner occupied buying with a mortgage",
-                "Rent free",
-                "Rent paid furnished",
-                "Rent paid unfurnished",
-                "Council",
-                "Registered social landlord",
-                ""
-              ]
-            },
-            "title": "Tenure sub-category"
-          },
-          {
-            "name": "Occupation category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Higher professional",
-                "Intermediate occupations",
-                "Large employers and higher managerial",
-                "Long term unemployed",
-                "Lower managerial and professional",
-                "Lower supervisory",
-                "Occupation not stated",
-                "Routine",
-                "Semiroutine",
-                "Small employers",
-                "Students",
-                ""
-              ]
-            },
-            "title": "Occupation category"
+            "title": "Series"
           },
           {
             "name": "Age",
@@ -125,6 +40,144 @@
               ]
             },
             "title": "Age"
+          },
+          {
+            "name": "Disposable income decile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lowest ten",
+                "Second",
+                "Third",
+                "Fourth",
+                "Fifth",
+                "Sixth",
+                "Seventh",
+                "Eighth",
+                "Ninth",
+                "Highest ten",
+                ""
+              ]
+            },
+            "title": "Disposable income decile"
+          },
+          {
+            "name": "Health product or service",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Medical products appliances and equipment",
+                "Hospital services",
+                ""
+              ]
+            },
+            "title": "Health product or service"
+          },
+          {
+            "name": "Health product or service category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Medicines prescriptions and healthcare products",
+                "Spectacles lenses accessories and repairs",
+                "Outpatient services",
+                "Inpatient hospital services",
+                ""
+              ]
+            },
+            "title": "Health product or service category"
+          },
+          {
+            "name": "Health product or service sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National Health Service (NHS) prescription charges and payments",
+                "Medicines and medical goods (not NHS)",
+                "Other medical products (plasters condoms hot water bottles)",
+                "Nonoptical appliances and equipment (wheelchairs batteries for hearing aids shoe buildup)",
+                "Purchase of spectacles lenses prescription sunglasses",
+                "Accessories or repairs to spectacles or lenses",
+                "National Health Service (NHS) medical optical dental and medical auxiliary services",
+                "Private medical optical dental and medical auxiliary services",
+                "Other services",
+                ""
+              ]
+            },
+            "title": "Health product or service sub-category"
+          },
+          {
+            "name": "Tenure category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Owner occupied",
+                "Social rented",
+                "Private rented",
+                ""
+              ]
+            },
+            "title": "Tenure category"
+          },
+          {
+            "name": "Tenure sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Owned outright",
+                "Owner occupied buying with a mortgage",
+                "Council",
+                "Registered social landlord",
+                "Rent free",
+                "Rent paid unfurnished",
+                "Rent paid furnished",
+                ""
+              ]
+            },
+            "title": "Tenure sub-category"
+          },
+          {
+            "name": "Occupation category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Large employers and higher managerial",
+                "Higher professional",
+                "Lower managerial and professional",
+                "Intermediate occupations",
+                "Small employers",
+                "Lower supervisory",
+                "Semiroutine",
+                "Routine",
+                "Long term unemployed",
+                "Students",
+                "Occupation not stated",
+                ""
+              ]
+            },
+            "title": "Occupation category"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GBP (£)",
+                "Percentage of total expenditure (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
