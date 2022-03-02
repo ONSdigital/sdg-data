@@ -4906,8 +4906,52 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of companies publishing sustainability reports",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Level of reporting",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Advanced",
+                "Minimum",
+                ""
+              ]
+            },
+            "title": "Level of reporting"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",
