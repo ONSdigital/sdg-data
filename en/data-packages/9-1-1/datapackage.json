@@ -27,6 +27,17 @@
             "title": "Series"
           },
           {
+            "name": "Urbanisation (default)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Urbanisation (default)"
+          },
+          {
             "name": "Country",
             "type": "string",
             "constraints": {

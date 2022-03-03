@@ -5230,6 +5230,16 @@
             }
           },
           {
+            "name": "Urbanisation (default)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Country",
             "type": "string",
             "constraints": {
