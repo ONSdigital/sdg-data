@@ -27,6 +27,17 @@
             "title": "Series"
           },
           {
+            "name": "Activity (default)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacturing",
+                ""
+              ]
+            },
+            "title": "Activity (default)"
+          },
+          {
             "name": "Industry higher sub-category",
             "type": "string",
             "constraints": {

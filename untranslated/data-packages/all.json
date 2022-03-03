@@ -18481,6 +18481,16 @@
             }
           },
           {
+            "name": "Activity (default)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacturing",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Industry higher sub-category",
             "type": "string",
             "constraints": {
