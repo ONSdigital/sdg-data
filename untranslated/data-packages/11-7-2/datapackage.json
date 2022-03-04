@@ -15,7 +15,7 @@
             "type": "string"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -124,7 +124,7 @@
                 "Yorkshire and the Humber",
                 "East Midlands",
                 "West Midlands",
-                "East of England",
+                "East",
                 "London",
                 "South East",
                 "South West",
@@ -134,15 +134,17 @@
             }
           },
           {
-            "name": "Observation status",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Unit multiplier",
-            "type": "string"
-          },
-          {
-            "name": "Unit measure",
             "type": "string"
           },
           {

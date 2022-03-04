@@ -22662,7 +22662,7 @@
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -22671,7 +22671,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Series"
           },
           {
             "name": "Sex",
@@ -22779,7 +22779,7 @@
                 "Yorkshire and the Humber",
                 "East Midlands",
                 "West Midlands",
-                "East of England",
+                "East",
                 "London",
                 "South East",
                 "South West",
@@ -22790,19 +22790,20 @@
             "title": "Region"
           },
           {
-            "name": "Observation status",
+            "name": "Units",
             "type": "string",
-            "title": "Observation status"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
           },
           {
             "name": "GeoCode",
