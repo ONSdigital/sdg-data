@@ -16,16 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Dwelling (%)",
-                "Household (%)",
+                "Dwellings (%)",
+                "Households (%)",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Series"
           },
           {
             "name": "Decent homes criteria",
@@ -46,12 +46,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "city centre",
-                "Other Rural Area",
-                "other urban centre",
-                "rural residential",
-                "suburban residential",
-                "village centre",
+                "City centre",
+                "Other rural area",
+                "Other urban centre",
+                "Rural residential",
+                "Suburban residential",
+                "Village centre",
                 ""
               ]
             },
@@ -62,9 +62,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "North",
+                "London and South East",
+                "Northern",
                 "Rest of England",
-                "South East",
                 ""
               ]
             },
@@ -88,16 +88,43 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "4 and under",
                 "15 and under",
                 "16 and over",
+                "4 and under",
                 ""
               ]
             },
             "title": "Age of youngest person"
           },
           {
-            "name": "Income group",
+            "name": "Disability status (household)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disabled (GSS harmonised)",
+                "Non-disabled (GSS harmonised)",
+                ""
+              ]
+            },
+            "title": "Disability status (household)"
+          },
+          {
+            "name": "Ethnicity of household reference person (HRP)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All minority",
+                "Asian",
+                "Black",
+                "other",
+                "White",
+                ""
+              ]
+            },
+            "title": "Ethnicity of household reference person (HRP)"
+          },
+          {
+            "name": "Income quintile (household)",
             "type": "string",
             "constraints": {
               "enum": [
@@ -109,39 +136,18 @@
                 ""
               ]
             },
-            "title": "Income group"
+            "title": "Income quintile (household)"
           },
           {
-            "name": "Disability status",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Non-disabled (GSS harmonised)",
-                "Disabled (GSS harmonised)",
+                "Percentage (%)",
                 ""
               ]
             },
-            "title": "Disability status"
-          },
-          {
-            "name": "Ethnicity of household reference person (HRP)",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "White",
-                "Asian",
-                "Black",
-                "Other",
-                "All minority",
-                ""
-              ]
-            },
-            "title": "Ethnicity of household reference person (HRP)"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
+            "title": "Units"
           },
           {
             "name": "Observation status",

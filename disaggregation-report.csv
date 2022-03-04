@@ -36,7 +36,8 @@ Deprivation decile,1,10
 Deprivation quantile,1,5
 Deprivation quintile,1,5
 Deviation level,1,4
-Disability status,19,11
+Disability status (household),1,2
+Disability status,18,11
 Disposable income decile,1,10
 Disposal Method,1,5
 Economic activity,1,17
@@ -76,8 +77,9 @@ Household income,8,38
 Household Waste disposal routes,1,5
 IHR core capacity,1,13
 Import type,2,10
-Income group,2,6
+Income group,1,1
 Income quartile,1,4
+Income quintile (household),1,5
 Income,1,7
 Index of Multiple Deprivation (IMD),1,5
 Industry higher sub-category,2,61
