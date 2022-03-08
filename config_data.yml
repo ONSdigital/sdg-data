@@ -2,6 +2,19 @@
 # which are helpers for implementations of Open SDG. This file allows easy use
 # of those functions without altering Python code.
 
+# Each item must have a "class" which corresponds to classes in the sdg/inputs
+# folder. Further, each item can have any/all of the parameters that class uses.
+# The defaults below show what is used when this is omitted.
+inputs:
+  - class: InputCsvData
+    path_pattern: data/*-*.csv
+  - class: InputYamlMdMeta
+    path_pattern: meta/*-*.md
+    git: true
+    git_data_dir: data
+  - class: InputSdmxMeta
+    meta_suffix: __GLOBAL
+
 # Languages
 # ---------
 # This tells sdg-build to perform "translated builds" for each of the specified
