@@ -25,56 +25,36 @@ prose:
             label: "Layout"
             scope: page
     ######### Global Metadata #########
-      - name: "indicator_name"
+      - name: SDG_INDICATOR__GLOBAL
         field:
             element: text
-            label: "Indicator name"
+            label: Indicator (global)
+            translation_key: metadata_fields.SDG_INDICATOR
             scope: global
-      - name: "indicator"
-        field:
-            element: hidden
-            label: "Indicator number"
-            scope: data
-      - name: "indicator_sort_order"
-        field:
-            element: hidden
-            label: "Indicator display order (within Goal page)"
-            scope: data
-      - name: "target_name"
+      - name: SDG_TARGET__GLOBAL
         field:
             element: text
-            label: "Target name"
+            label: Target (global)
+            translation_key: metadata_fields.SDG_TARGET
             scope: global
-      - name: "target_id"
-        field:
-            element: hidden
-            label: "Target number"
-            scope: data
-      - name: "indicator_definition"
-        field:
-            element: textarea
-            label: "Global indicator description"
-            scope: global
-      - name: "un_designated_tier"
-        field: 
-            element: text
-            label: "UN designated tier"
-            scope: global
-      - name: "un_custodian_agency"
-        field: 
-            element: text
-            label: "UN custodian agency"
-            scope: global
-      - name: "goal_meta_link"
+      - name: META_LAST_UPDATE__GLOBAL
         field:
             element: text
-            label: "Link to UN metadata"
+            label: Metadata update (global)
+            translation_key: metadata_fields.META_LAST_UPDATE
             scope: global
-      - name: "goal_meta_link_text"
+
+      - name: SDG_CUSTODIAN_AGENCIES__GLOBAL
         field:
             element: text
-            label: "Link to UN metadata text"
-            value: "UN metadata"
+            label: International organisations(s) responsible for global monitoring (global)
+            translation_key: metadata_fields.SDG_CUSTODIAN_AGENCIES
+            scope: global
+      - name: SDG_RELATED_INDICATORS__GLOBAL
+        field:
+            element: text
+            label: Related indicators (global)
+            translation_key: metadata_fields.SDG_RELATED_INDICATORS
             scope: global
       ######### National Metadata #########
       - name: "indicator_available"
