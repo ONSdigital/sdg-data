@@ -45,7 +45,7 @@ def alter_meta(meta):
         target_id = id_parts[0] + '.' + id_parts[1]
         goal_id = id_parts[0]
         meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/metadata/?Text=&Goal='+goal_id+'&Target='+target_id
-        meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
+        meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals metadata for target '+target_id+'(last updated: '+META_LAST_UPDATE__GLOBAL+')'
         
         if 'computation_units' in meta and meta['computation_units'] is not None:
             if 'Percentage (%)' in meta['computation_units'] and meta['indicator_number'] not in y_limit_percentage_exclusions:
