@@ -45,11 +45,11 @@ def alter_meta(meta):
         target_id = id_parts[0] + '.' + id_parts[1]
         goal_id = id_parts[0]
         if 'META_LAST_UPDATE__GLOBAL' in meta:
-            global_meta_last_updated=meta['META_LAST_UPDATE__GLOBAL']
+            global_meta_last_updated=' (last updated: '+meta['META_LAST_UPDATE__GLOBAL']+')'
         else:
             global_meta_last_updated=''
         meta['goal_meta_link'] = 'https://unstats.un.org/sdgs/metadata/?Text=&Goal='+goal_id+'&Target='+target_id
-        meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals metadata for target '+target_id+'(last updated: '+global_meta_last_updated+')'
+        meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals metadata for target '+target_id+global_meta_last_updated
         
         if 'computation_units' in meta and meta['computation_units'] is not None:
             if 'Percentage (%)' in meta['computation_units'] and meta['indicator_number'] not in y_limit_percentage_exclusions:
