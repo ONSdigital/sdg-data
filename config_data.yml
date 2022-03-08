@@ -8,12 +8,13 @@
 inputs:
   - class: InputCsvData
     path_pattern: data/*-*.csv
+  - class: InputSdmxMeta
+    meta_suffix: __GLOBAL
   - class: InputYamlMdMeta
     path_pattern: meta/*-*.md
     git: true
     git_data_dir: data
-  - class: InputSdmxMeta
-    meta_suffix: __GLOBAL
+
 
 # Languages
 # ---------
