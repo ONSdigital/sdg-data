@@ -14072,18 +14072,18 @@
             "title": "Year"
           },
           {
-            "name": "Area of law",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area 1 overarching legal frameworks and public life",
-                "Area 2 violence against women",
-                "Area 3 employment and economic benefits",
-                "Area 4 marriage and family",
+                "Area 1: overarching legal frameworks and public life.",
+                "Area 2: violence against women.",
+                "Area 3: employment and economic benefits.",
+                "Area 4: marriage and family.",
                 ""
               ]
             },
-            "title": "Area of law"
+            "title": "Series"
           },
           {
             "name": "Observation status",
@@ -14096,9 +14096,15 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -15971,28 +15977,36 @@
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National parliament",
+                "Devolved administration",
+                "Local Government",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Legislative authority",
             "type": "string",
             "constraints": {
               "enum": [
                 "House of Commons",
                 "House of Lords",
-                "Welsh Assembly",
-                "Scottish Parliament",
+                "Senedd Cymru/Welsh Parliament",
+                "Scottish Parliament/Pàrlamaid na h-Alba",
                 "Northern Ireland Assembly",
                 "English Local Authority Councillors",
                 "Welsh Local Authority Councillors",
-                "Northern Ireland Local Authority Councils",
-                "Scottish Local Authority Councils",
+                "Northern Ireland Local Authority Councillors",
+                "Scottish Local Authority Councillors",
                 ""
               ]
             },
-            "title": "Units"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
+            "title": "Legislative authority"
           },
           {
             "name": "Observation status",
@@ -16003,6 +16017,17 @@
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
