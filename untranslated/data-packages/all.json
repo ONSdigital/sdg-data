@@ -13676,8 +13676,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of marine protected area",
-                "Marine protected area extent",
+                "Coverage of protected areas in relation to marine area (%)",
+                "Protected marine area (square kilometres)",
+                "Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%)",
                 ""
               ]
             }
@@ -13688,7 +13689,7 @@
             "constraints": {
               "enum": [
                 "Percentage (%)",
-                "Hectares",
+                "Square km",
                 ""
               ]
             }
