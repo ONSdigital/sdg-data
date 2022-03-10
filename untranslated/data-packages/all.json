@@ -4433,19 +4433,7 @@
               "enum": [
                 "Material footprint",
                 "Material footprint per capita",
-                "Material footprint per GDP",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Million metric tonnes",
-                "Tonnes",
-                "Tonnes per £m",
+                "Material footprint per unit of GDP",
                 ""
               ]
             }
@@ -4456,9 +4444,9 @@
             "constraints": {
               "enum": [
                 "Biomass",
-                "Fossil fuels",
                 "Metal ores excluding precious metals",
                 "Non-metallic minerals",
+                "Fossil fuels",
                 ""
               ]
             }
@@ -4472,8 +4460,16 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Metric tons",
+                "Kilograms per constant USD",
+                "Tons per GDP (millions of pounds)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
