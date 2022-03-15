@@ -1,37 +1,41 @@
-Year,Value,Units,GeoCode,Observation status,Unit multiplier,Unit measure
-2001,0.2482812349539184,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
-2002,0.1806010070730388,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
-2003,0.1778173330963949,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
-2004,0.1787326171711774,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
-2005,0.1679877252489078,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
-2006,0.1723791063622459,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
-2007,0.2004140959728313,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
-2008,0.2115178006816708,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
-2009,0.2244943098205778,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
-2010,0.2316293546790018,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
-2011,0.1406421510544057,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
-2012,0.1449588030617279,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
-2013,0.1703301431902298,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
-2014,0.1236747337779422,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
-2015,0.0673744869022529,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
-2016,0.0907826227740336,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
-2017,0.1106484775322734,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
-2018,0.0964209083225098,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
-2001,130.0,Deaths,,Undefined,Units,Number of Deaths
-2002,95.0,Deaths,,Undefined,Units,Number of Deaths
-2003,94.0,Deaths,,Undefined,Units,Number of Deaths
-2004,95.0,Deaths,,Undefined,Units,Number of Deaths
-2005,90.0,Deaths,,Undefined,Units,Number of Deaths
-2006,93.0,Deaths,,Undefined,Units,Number of Deaths
-2007,109.0,Deaths,,Undefined,Units,Number of Deaths
-2008,116.0,Deaths,,Undefined,Units,Number of Deaths
-2009,124.0,Deaths,,Undefined,Units,Number of Deaths
-2010,129.0,Deaths,,Undefined,Units,Number of Deaths
-2011,79.0,Deaths,,Undefined,Units,Number of Deaths
-2012,82.0,Deaths,,Undefined,Units,Number of Deaths
-2013,97.0,Deaths,,Undefined,Units,Number of Deaths
-2014,71.0,Deaths,,Undefined,Units,Number of Deaths
-2015,39.0,Deaths,,Undefined,Units,Number of Deaths
-2016,53.0,Deaths,,Undefined,Units,Number of Deaths
-2017,65.0,Deaths,,Undefined,Units,Number of Deaths
-2018,57.0,Deaths,,Undefined,Units,Number of Deaths
+Year,Value,Series,GeoCode,Observation status,Unit multiplier,Unit measure
+2001,0.2483,"Age-standardised mortality rates per 100,000 population",,Normal value,,"Rate per 100,000 population"
+2002,0.1806,"Age-standardised mortality rates per 100,000 population",,Normal value,,"Rate per 100,000 population"
+2003,0.1778,"Age-standardised mortality rates per 100,000 population",,Normal value,,"Rate per 100,000 population"
+2004,0.1787,"Age-standardised mortality rates per 100,000 population",,Normal value,,"Rate per 100,000 population"
+2005,0.168,"Age-standardised mortality rates per 100,000 population",,Normal value,,"Rate per 100,000 population"
+2006,0.1724,"Age-standardised mortality rates per 100,000 population",,Normal value,,"Rate per 100,000 population"
+2007,0.2004,"Age-standardised mortality rates per 100,000 population",,Normal value,,"Rate per 100,000 population"
+2008,0.2115,"Age-standardised mortality rates per 100,000 population",,Normal value,,"Rate per 100,000 population"
+2009,0.2245,"Age-standardised mortality rates per 100,000 population",,Normal value,,"Rate per 100,000 population"
+2010,0.2316,"Age-standardised mortality rates per 100,000 population",,Normal value,,"Rate per 100,000 population"
+2011,0.1406,"Age-standardised mortality rates per 100,000 population",,Normal value,,"Rate per 100,000 population"
+2012,0.145,"Age-standardised mortality rates per 100,000 population",,Normal value,,"Rate per 100,000 population"
+2013,0.18,"Age-standardised mortality rates per 100,000 population",,Normal value,,"Rate per 100,000 population"
+2014,0.13,"Age-standardised mortality rates per 100,000 population",,Normal value,,"Rate per 100,000 population"
+2015,0.07,"Age-standardised mortality rates per 100,000 population",,Normal value,,"Rate per 100,000 population"
+2016,0.09,"Age-standardised mortality rates per 100,000 population",,Normal value,,"Rate per 100,000 population"
+2017,0.12,"Age-standardised mortality rates per 100,000 population",,Normal value,,"Rate per 100,000 population"
+2018,0.1,"Age-standardised mortality rates per 100,000 population",,Normal value,,"Rate per 100,000 population"
+2019,0.08,"Age-standardised mortality rates per 100,000 population",,Normal value,,"Rate per 100,000 population"
+2020,0.08,"Age-standardised mortality rates per 100,000 population",,Normal value,,"Rate per 100,000 population"
+2001,130.0,Number of deaths from exposure to forces of nature,,Normal value,,Number
+2002,95.0,Number of deaths from exposure to forces of nature,,Normal value,,Number
+2003,94.0,Number of deaths from exposure to forces of nature,,Normal value,,Number
+2004,95.0,Number of deaths from exposure to forces of nature,,Normal value,,Number
+2005,90.0,Number of deaths from exposure to forces of nature,,Normal value,,Number
+2006,93.0,Number of deaths from exposure to forces of nature,,Normal value,,Number
+2007,109.0,Number of deaths from exposure to forces of nature,,Normal value,,Number
+2008,116.0,Number of deaths from exposure to forces of nature,,Normal value,,Number
+2009,124.0,Number of deaths from exposure to forces of nature,,Normal value,,Number
+2010,129.0,Number of deaths from exposure to forces of nature,,Normal value,,Number
+2011,79.0,Number of deaths from exposure to forces of nature,,Normal value,,Number
+2012,82.0,Number of deaths from exposure to forces of nature,,Normal value,,Number
+2013,97.0,Number of deaths from exposure to forces of nature,,Normal value,,Number
+2014,71.0,Number of deaths from exposure to forces of nature,,Normal value,,Number
+2015,39.0,Number of deaths from exposure to forces of nature,,Normal value,,Number
+2016,53.0,Number of deaths from exposure to forces of nature,,Normal value,,Number
+2017,65.0,Number of deaths from exposure to forces of nature,,Normal value,,Number
+2018,57.0,Number of deaths from exposure to forces of nature,,Normal value,,Number
+2019,46.0,Number of deaths from exposure to forces of nature,,Normal value,,Number
+2020,49.0,Number of deaths from exposure to forces of nature,,Normal value,,Number

@@ -121,16 +121,6 @@
             }
           },
           {
-            "name": "Activity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ISIC4_C",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Observation status",
             "type": "string"
           },

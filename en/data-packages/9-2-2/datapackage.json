@@ -130,17 +130,6 @@
             "title": "Country of birth"
           },
           {
-            "name": "Activity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ISIC4_C",
-                ""
-              ]
-            },
-            "title": "Activity"
-          },
-          {
             "name": "Observation status",
             "type": "string",
             "title": "Observation status"

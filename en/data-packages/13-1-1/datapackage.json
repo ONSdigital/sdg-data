@@ -16,13 +16,25 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of deaths from exposure to forces of nature",
+                "Age-standardised mortality rates per 100,000 population",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Country",
             "type": "string",
             "constraints": {
               "enum": [
-                "England and Wales",
                 "England",
                 "Wales",
+                "England and Wales",
                 ""
               ]
             },
@@ -45,16 +57,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Exposure to excessive natural heat",
                 "Exposure to excessive natural cold",
+                "Exposure to excessive natural heat",
+                "Exposure to other and unspecified forces of nature",
                 "Exposure to sunlight",
-                "Victim of lightning",
-                "Victim of earthquake",
-                "Victim of volcanic eruption",
                 "Victim of avalanche, landslide and other earth movements",
                 "Victim of cataclysmic storm",
+                "Victim of earthquake",
                 "Victim of flood",
-                "Exposure to other and unspecified forces of nature",
+                "Victim of lightning",
+                "Victim of volcanic eruption",
                 ""
               ]
             },
@@ -67,25 +79,13 @@
           },
           {
             "name": "Unit multiplier",
-            "type": "string",
+            "type": "number",
             "title": "Unit multiplier"
           },
           {
             "name": "Unit measure",
             "type": "string",
             "title": "Unit measure"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deaths",
-                "Rate per 100,000 population",
-                ""
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "GeoCode",
