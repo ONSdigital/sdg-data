@@ -4318,8 +4318,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             }
@@ -4329,11 +4329,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "IMD 1",
+                "IMD 1 (most deprived)",
                 "IMD 2",
                 "IMD 3",
                 "IMD 4",
-                "IMD 5",
+                "IMD 5 (least deprived)",
                 ""
               ]
             }
@@ -4346,18 +4346,18 @@
                 "White - British",
                 "White - Irish",
                 "Any other White background",
-                "White and Black Caribbean",
-                "White and Black African",
-                "White and Asian",
-                "Any other Mixed background",
                 "Indian",
-                "Pakistani",
                 "Bangladeshi",
+                "Pakistani",
                 "Chinese",
                 "Any other Asian background",
                 "Black - African",
                 "Black - Caribbean",
                 "Any other Black background",
+                "White and Black Caribbean",
+                "White and Black African",
+                "White and Asian",
+                "Any other Mixed background",
                 "Any other Ethnic group",
                 "Not stated / Invalid",
                 ""
