@@ -1,433 +1,610 @@
-Year,Sex,Occupation minor group,Occupation unit group,Unit measure,Observation status,Unit multiplier,Value
-2011,,Health professionals,,"Rate per 10,000 population",Undefined,Units,75.673050919
-2011,,Health professionals,Medical practitioners,"Rate per 10,000 population",Undefined,Units,38.1214264421769
-2011,,Health professionals,Psychologists,"Rate per 10,000 population",Undefined,Units,3.89096050897884
-2011,,Health professionals,Pharmacists,"Rate per 10,000 population",Undefined,Units,9.84528043666487
-2011,,Health professionals,Ophthalmic opticians,"Rate per 10,000 population",Undefined,Units,3.01618966030653
-2011,,Health professionals,Dental practitioners,"Rate per 10,000 population",Undefined,Units,5.32810661964984
-2011,,Health professionals,Medical radiographers,"Rate per 10,000 population",Undefined,Units,4.13303943603194
-2011,,Health professionals,Podiatrists,"Rate per 10,000 population",Undefined,Units,1.83155146440764
-2011,,Health professionals,Health professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,6.19766297446264
-2011,,Therapy professionals,,"Rate per 10,000 population",Undefined,Units,21.0170965081931
-2011,,Therapy professionals,Physiotherapists,"Rate per 10,000 population",Undefined,Units,7.25415103339022
-2011,,Therapy professionals,Occupational therapists,"Rate per 10,000 population",Undefined,Units,5.23061138597375
-2011,,Therapy professionals,Speech and language therapists,"Rate per 10,000 population",Undefined,Units,2.19277367540202
-2011,,Therapy professionals,Therapy professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,6.33956041342719
-2011,,Nursing and midwifery professionals,,"Rate per 10,000 population",Undefined,Units,95.3512866250049
-2011,,Nursing and midwifery professionals,Nurses,"Rate per 10,000 population",Undefined,Units,89.7654575967235
-2011,,Nursing and midwifery professionals,Midwives,"Rate per 10,000 population",Undefined,Units,5.58582902828143
-2011,,Health associate professionals,,"Rate per 10,000 population",Undefined,Units,21.0550200998986
-2011,,Health associate professionals,Paramedics,"Rate per 10,000 population",Undefined,Units,2.14268293135774
-2011,,Health associate professionals,Pharmaceutical technicians,"Rate per 10,000 population",Undefined,Units,4.65812316618694
-2011,,Health associate professionals,Medical and dental technicians,"Rate per 10,000 population",Undefined,Units,5.08081319873723
-2011,,Health associate professionals,Health associate professionals not elsewhere classified,"Rate per 10,000 population",Undefined,Units,8.03837930686577
-2011,Male,Health professionals,,"Rate per 10,000 population",Undefined,Units,74.0814487862097
-2011,Male,Health professionals,Medical practitioners,"Rate per 10,000 population",Undefined,Units,45.7416520214852
-2011,Male,Health professionals,Pharmacists,"Rate per 10,000 population",Undefined,Units,7.71450628494299
-2011,Male,Health professionals,Dental practitioners,"Rate per 10,000 population",Undefined,Units,6.32338689400245
-2011,Male,Health professionals,Health professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,3.29611043854379
-2011,Male,Therapy professionals,,"Rate per 10,000 population",Undefined,Units,6.9269770689436
-2011,Male,Therapy professionals,Therapy professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,4.18943676032669
-2011,Male,Nursing and midwifery professionals,,"Rate per 10,000 population",Undefined,Units,22.840598266233
-2011,Male,Nursing and midwifery professionals,Nurses,"Rate per 10,000 population",Undefined,Units,22.4772221886179
-2011,Male,Health associate professionals,,"Rate per 10,000 population",Undefined,Units,11.4994057836415
-2011,Male,Health associate professionals,Medical and dental technicians,"Rate per 10,000 population",Undefined,Units,3.6488746484055
-2011,Male,Health associate professionals,Health associate professionals not elsewhere classified,"Rate per 10,000 population",Undefined,Units,3.47683376210102
-2011,Female,Health professionals,,"Rate per 10,000 population",Undefined,Units,77.2107245564371
-2011,Female,Health professionals,Medical practitioners,"Rate per 10,000 population",Undefined,Units,30.7593981164218
-2011,Female,Health professionals,Psychologists,"Rate per 10,000 population",Undefined,Units,5.2814900611988
-2011,Female,Health professionals,Pharmacists,"Rate per 10,000 population",Undefined,Units,11.9038572461701
-2011,Female,Health professionals,Ophthalmic opticians,"Rate per 10,000 population",Undefined,Units,3.5075307524079
-2011,Female,Health professionals,Dental practitioners,"Rate per 10,000 population",Undefined,Units,4.36654957706759
-2011,Female,Health professionals,Medical radiographers,"Rate per 10,000 population",Undefined,Units,6.23557570696006
-2011,Female,Health professionals,Health professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,9.00090176782656
-2011,Female,Therapy professionals,,"Rate per 10,000 population",Undefined,Units,34.6297983036226
-2011,Female,Therapy professionals,Physiotherapists,"Rate per 10,000 population",Undefined,Units,12.5071898166906
-2011,Female,Therapy professionals,Occupational therapists,"Rate per 10,000 population",Undefined,Units,9.39452811532885
-2011,Female,Therapy professionals,Speech and language therapists,"Rate per 10,000 population",Undefined,Units,4.31124926936798
-2011,Female,Therapy professionals,Therapy professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,8.41683110223517
-2011,Female,Nursing and midwifery professionals,,"Rate per 10,000 population",Undefined,Units,165.405084384852
-2011,Female,Nursing and midwifery professionals,Nurses,"Rate per 10,000 population",Undefined,Units,154.773755567544
-2011,Female,Nursing and midwifery professionals,Midwives,"Rate per 10,000 population",Undefined,Units,10.6313288173072
-2011,Female,Health associate professionals,,"Rate per 10,000 population",Undefined,Units,30.2868600938874
-2011,Female,Health associate professionals,Pharmaceutical technicians,"Rate per 10,000 population",Undefined,Units,7.77870283248797
-2011,Female,Health associate professionals,Medical and dental technicians,"Rate per 10,000 population",Undefined,Units,6.46423315902137
-2011,Female,Health associate professionals,Health associate professionals not elsewhere classified,"Rate per 10,000 population",Undefined,Units,12.445365315386
-2012,,Health professionals,,"Rate per 10,000 population",Undefined,Units,74.27765
-2012,,Health professionals,Medical practitioners,"Rate per 10,000 population",Undefined,Units,35.43708
-2012,,Health professionals,Psychologists,"Rate per 10,000 population",Undefined,Units,5.133347
-2012,,Health professionals,Pharmacists,"Rate per 10,000 population",Undefined,Units,9.012004
-2012,,Health professionals,Ophthalmic opticians,"Rate per 10,000 population",Undefined,Units,4.134838
-2012,,Health professionals,Dental practitioners,"Rate per 10,000 population",Undefined,Units,5.509141
-2012,,Health professionals,Medical radiographers,"Rate per 10,000 population",Undefined,Units,4.26701
-2012,,Health professionals,Podiatrists,"Rate per 10,000 population",Undefined,Units,1.324699
-2012,,Health professionals,Health professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,7.873005
-2012,,Therapy professionals,,"Rate per 10,000 population",Undefined,Units,19.33395
-2012,,Therapy professionals,Physiotherapists,"Rate per 10,000 population",Undefined,Units,6.643588
-2012,,Therapy professionals,Occupational therapists,"Rate per 10,000 population",Undefined,Units,4.439838
-2012,,Therapy professionals,Speech and language therapists,"Rate per 10,000 population",Undefined,Units,1.871281
-2012,,Therapy professionals,Therapy professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,6.379245
-2012,,Nursing and midwifery professionals,,"Rate per 10,000 population",Undefined,Units,95.7838
-2012,,Nursing and midwifery professionals,Nurses,"Rate per 10,000 population",Undefined,Units,89.98348
-2012,,Nursing and midwifery professionals,Midwives,"Rate per 10,000 population",Undefined,Units,5.800327
-2012,,Health associate professionals,,"Rate per 10,000 population",Undefined,Units,23.43033
-2012,,Health associate professionals,Paramedics,"Rate per 10,000 population",Undefined,Units,3.765637
-2012,,Health associate professionals,Dispensing opticians,"Rate per 10,000 population",Undefined,Units,0.856604
-2012,,Health associate professionals,Pharmaceutical technicians,"Rate per 10,000 population",Undefined,Units,5.971899
-2012,,Health associate professionals,Medical and dental technicians,"Rate per 10,000 population",Undefined,Units,5.357034
-2012,,Health associate professionals,Health associate professionals not elsewhere classified,"Rate per 10,000 population",Undefined,Units,7.479158
-2012,Male,Health professionals,,"Rate per 10,000 population",Undefined,Units,64.77712
-2012,Male,Health professionals,Medical practitioners,"Rate per 10,000 population",Undefined,Units,38.75559
-2012,Male,Health professionals,Psychologists,"Rate per 10,000 population",Undefined,Units,2.361152
-2012,Male,Health professionals,Pharmacists,"Rate per 10,000 population",Undefined,Units,7.617701
-2012,Male,Health professionals,Ophthalmic opticians,"Rate per 10,000 population",Undefined,Units,3.951433
-2012,Male,Health professionals,Dental practitioners,"Rate per 10,000 population",Undefined,Units,4.754237
-2012,Male,Health professionals,Medical radiographers,"Rate per 10,000 population",Undefined,Units,1.712266
-2012,Male,Health professionals,Health professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,3.262311
-2012,Male,Therapy professionals,,"Rate per 10,000 population",Undefined,Units,7.144449
-2012,Male,Therapy professionals,Physiotherapists,"Rate per 10,000 population",Undefined,Units,2.25194
-2012,Male,Therapy professionals,Therapy professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,3.529274
-2012,Male,Nursing and midwifery professionals,,"Rate per 10,000 population",Undefined,Units,22.28661
-2012,Male,Nursing and midwifery professionals,Nurses,"Rate per 10,000 population",Undefined,Units,22.10554
-2012,Male,Health associate professionals,,"Rate per 10,000 population",Undefined,Units,14.55299
-2012,Male,Health associate professionals,Paramedics,"Rate per 10,000 population",Undefined,Units,4.054578
-2012,Male,Health associate professionals,Pharmaceutical technicians,"Rate per 10,000 population",Undefined,Units,1.631156
-2012,Male,Health associate professionals,Medical and dental technicians,"Rate per 10,000 population",Undefined,Units,6.065102
-2012,Male,Health associate professionals,Health associate professionals not elsewhere classified,"Rate per 10,000 population",Undefined,Units,2.802152
-2012,Female,Health professionals,,"Rate per 10,000 population",Undefined,Units,83.46298
-2012,Female,Health professionals,Medical practitioners,"Rate per 10,000 population",Undefined,Units,32.22866
-2012,Female,Health professionals,Psychologists,"Rate per 10,000 population",Undefined,Units,7.813569
-2012,Female,Health professionals,Pharmacists,"Rate per 10,000 population",Undefined,Units,10.36005
-2012,Female,Health professionals,Ophthalmic opticians,"Rate per 10,000 population",Undefined,Units,4.312159
-2012,Female,Health professionals,Dental practitioners,"Rate per 10,000 population",Undefined,Units,6.239
-2012,Female,Health professionals,Medical radiographers,"Rate per 10,000 population",Undefined,Units,6.736996
-2012,Female,Health professionals,Podiatrists,"Rate per 10,000 population",Undefined,Units,1.574878
-2012,Female,Health professionals,Health professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,12.33073
-2012,Female,Therapy professionals,,"Rate per 10,000 population",Undefined,Units,31.11905
-2012,Female,Therapy professionals,Physiotherapists,"Rate per 10,000 population",Undefined,Units,10.88954
-2012,Female,Therapy professionals,Occupational therapists,"Rate per 10,000 population",Undefined,Units,7.414369
-2012,Female,Therapy professionals,Speech and language therapists,"Rate per 10,000 population",Undefined,Units,3.680479
-2012,Female,Therapy professionals,Therapy professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,9.134664
-2012,Female,Nursing and midwifery professionals,,"Rate per 10,000 population",Undefined,Units,166.8426
-2012,Female,Nursing and midwifery professionals,Nurses,"Rate per 10,000 population",Undefined,Units,155.6094
-2012,Female,Nursing and midwifery professionals,Midwives,"Rate per 10,000 population",Undefined,Units,11.23316
-2012,Female,Health associate professionals,,"Rate per 10,000 population",Undefined,Units,32.01316
-2012,Female,Health associate professionals,Paramedics,"Rate per 10,000 population",Undefined,Units,3.486282
-2012,Female,Health associate professionals,Dispensing opticians,"Rate per 10,000 population",Undefined,Units,1.684789
-2012,Female,Health associate professionals,Pharmaceutical technicians,"Rate per 10,000 population",Undefined,Units,10.16863
-2012,Female,Health associate professionals,Medical and dental technicians,"Rate per 10,000 population",Undefined,Units,4.672457
-2012,Female,Health associate professionals,Health associate professionals not elsewhere classified,"Rate per 10,000 population",Undefined,Units,12.001
-2013,,Health professionals,,"Rate per 10,000 population",Undefined,Units,76.22385
-2013,,Health professionals,Medical practitioners,"Rate per 10,000 population",Undefined,Units,37.57781
-2013,,Health professionals,Psychologists,"Rate per 10,000 population",Undefined,Units,5.978412
-2013,,Health professionals,Pharmacists,"Rate per 10,000 population",Undefined,Units,7.083931
-2013,,Health professionals,Ophthalmic opticians,"Rate per 10,000 population",Undefined,Units,3.167427
-2013,,Health professionals,Dental practitioners,"Rate per 10,000 population",Undefined,Units,6.666651
-2013,,Health professionals,Medical radiographers,"Rate per 10,000 population",Undefined,Units,3.693122
-2013,,Health professionals,Podiatrists,"Rate per 10,000 population",Undefined,Units,2.311185
-2013,,Health professionals,Health professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,6.761962
-2013,,Therapy professionals,,"Rate per 10,000 population",Undefined,Units,23.29436
-2013,,Therapy professionals,Physiotherapists,"Rate per 10,000 population",Undefined,Units,8.088054
-2013,,Therapy professionals,Occupational therapists,"Rate per 10,000 population",Undefined,Units,6.106638
-2013,,Therapy professionals,Speech and language therapists,"Rate per 10,000 population",Undefined,Units,3.106278
-2013,,Therapy professionals,Therapy professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,5.993387
-2013,,Nursing and midwifery professionals,,"Rate per 10,000 population",Undefined,Units,99.78777
-2013,,Nursing and midwifery professionals,Nurses,"Rate per 10,000 population",Undefined,Units,92.53895
-2013,,Nursing and midwifery professionals,Midwives,"Rate per 10,000 population",Undefined,Units,7.248815
-2013,,Health associate professionals,,"Rate per 10,000 population",Undefined,Units,23.77263
-2013,,Health associate professionals,Paramedics,"Rate per 10,000 population",Undefined,Units,4.917039
-2013,,Health associate professionals,Dispensing opticians,"Rate per 10,000 population",Undefined,Units,0.728641
-2013,,Health associate professionals,Pharmaceutical technicians,"Rate per 10,000 population",Undefined,Units,4.216477
-2013,,Health associate professionals,Medical and dental technicians,"Rate per 10,000 population",Undefined,Units,6.248279
-2013,,Health associate professionals,Health associate professionals not elsewhere classified,"Rate per 10,000 population",Undefined,Units,7.662195
-2013,Male,Health professionals,,"Rate per 10,000 population",Undefined,Units,67.19147
-2013,Male,Health professionals,Medical practitioners,"Rate per 10,000 population",Undefined,Units,42.17071
-2013,Male,Health professionals,Psychologists,"Rate per 10,000 population",Undefined,Units,2.086701
-2013,Male,Health professionals,Pharmacists,"Rate per 10,000 population",Undefined,Units,4.642752
-2013,Male,Health professionals,Ophthalmic opticians,"Rate per 10,000 population",Undefined,Units,2.646432
-2013,Male,Health professionals,Dental practitioners,"Rate per 10,000 population",Undefined,Units,6.733259
-2013,Male,Health professionals,Medical radiographers,"Rate per 10,000 population",Undefined,Units,1.900864
-2013,Male,Health professionals,Health professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,3.051722
-2013,Male,Therapy professionals,,"Rate per 10,000 population",Undefined,Units,8.62461
-2013,Male,Therapy professionals,Physiotherapists,"Rate per 10,000 population",Undefined,Units,4.796876
-2013,Male,Therapy professionals,Therapy professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,2.667997
-2013,Male,Nursing and midwifery professionals,,"Rate per 10,000 population",Undefined,Units,19.74153
-2013,Male,Nursing and midwifery professionals,Nurses,"Rate per 10,000 population",Undefined,Units,19.4818
-2013,Male,Health associate professionals,,"Rate per 10,000 population",Undefined,Units,14.17466
-2013,Male,Health associate professionals,Paramedics,"Rate per 10,000 population",Undefined,Units,5.061678
-2013,Male,Health associate professionals,Medical and dental technicians,"Rate per 10,000 population",Undefined,Units,5.345507
-2013,Male,Health associate professionals,Health associate professionals not elsewhere classified,"Rate per 10,000 population",Undefined,Units,2.242094
-2013,Female,Health professionals,,"Rate per 10,000 population",Undefined,Units,84.96795
-2013,Female,Health professionals,Medical practitioners,"Rate per 10,000 population",Undefined,Units,33.13149
-2013,Female,Health professionals,Psychologists,"Rate per 10,000 population",Undefined,Units,9.745912
-2013,Female,Health professionals,Pharmacists,"Rate per 10,000 population",Undefined,Units,9.447195
-2013,Female,Health professionals,Ophthalmic opticians,"Rate per 10,000 population",Undefined,Units,3.671794
-2013,Female,Health professionals,Dental practitioners,"Rate per 10,000 population",Undefined,Units,6.602168
-2013,Female,Health professionals,Medical radiographers,"Rate per 10,000 population",Undefined,Units,5.428176
-2013,Female,Health professionals,Podiatrists,"Rate per 10,000 population",Undefined,Units,3.40562
-2013,Female,Health professionals,Health professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,10.35378
-2013,Female,Therapy professionals,,"Rate per 10,000 population",Undefined,Units,37.49589
-2013,Female,Therapy professionals,Physiotherapists,"Rate per 10,000 population",Undefined,Units,11.27419
-2013,Female,Therapy professionals,Occupational therapists,"Rate per 10,000 population",Undefined,Units,11.23151
-2013,Female,Therapy professionals,Speech and language therapists,"Rate per 10,000 population",Undefined,Units,5.77755
-2013,Female,Therapy professionals,Therapy professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,9.212642
-2013,Female,Nursing and midwifery professionals,,"Rate per 10,000 population",Undefined,Units,177.2792
-2013,Female,Nursing and midwifery professionals,Nurses,"Rate per 10,000 population",Undefined,Units,163.2644
-2013,Female,Nursing and midwifery professionals,Midwives,"Rate per 10,000 population",Undefined,Units,14.01483
-2013,Female,Health associate professionals,,"Rate per 10,000 population",Undefined,Units,33.06426
-2013,Female,Health associate professionals,Paramedics,"Rate per 10,000 population",Undefined,Units,4.777016
-2013,Female,Health associate professionals,Pharmaceutical technicians,"Rate per 10,000 population",Undefined,Units,7.188243
-2013,Female,Health associate professionals,Medical and dental technicians,"Rate per 10,000 population",Undefined,Units,7.122237
-2013,Female,Health associate professionals,Health associate professionals not elsewhere classified,"Rate per 10,000 population",Undefined,Units,12.9093
-2014,,Health professionals,,"Rate per 10,000 population",Undefined,Units,81.58692
-2014,,Health professionals,Medical practitioners,"Rate per 10,000 population",Undefined,Units,38.29837
-2014,,Health professionals,Psychologists,"Rate per 10,000 population",Undefined,Units,6.075228
-2014,,Health professionals,Pharmacists,"Rate per 10,000 population",Undefined,Units,9.238855
-2014,,Health professionals,Ophthalmic opticians,"Rate per 10,000 population",Undefined,Units,3.392895
-2014,,Health professionals,Dental practitioners,"Rate per 10,000 population",Undefined,Units,7.94204
-2014,,Health professionals,Medical radiographers,"Rate per 10,000 population",Undefined,Units,3.592131
-2014,,Health professionals,Podiatrists,"Rate per 10,000 population",Undefined,Units,2.525669
-2014,,Health professionals,Health professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,7.382415
-2014,,Therapy professionals,,"Rate per 10,000 population",Undefined,Units,22.88366
-2014,,Therapy professionals,Physiotherapists,"Rate per 10,000 population",Undefined,Units,8.082759
-2014,,Therapy professionals,Occupational therapists,"Rate per 10,000 population",Undefined,Units,6.461935
-2014,,Therapy professionals,Speech and language therapists,"Rate per 10,000 population",Undefined,Units,1.705968
-2014,,Therapy professionals,Therapy professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,6.632996
-2014,,Nursing and midwifery professionals,,"Rate per 10,000 population",Undefined,Units,97.64268
-2014,,Nursing and midwifery professionals,Nurses,"Rate per 10,000 population",Undefined,Units,91.36713
-2014,,Nursing and midwifery professionals,Midwives,"Rate per 10,000 population",Undefined,Units,6.275548
-2014,,Health associate professionals,,"Rate per 10,000 population",Undefined,Units,23.45489
-2014,,Health associate professionals,Paramedics,"Rate per 10,000 population",Undefined,Units,3.410543
-2014,,Health associate professionals,Dispensing opticians,"Rate per 10,000 population",Undefined,Units,0.96429
-2014,,Health associate professionals,Pharmaceutical technicians,"Rate per 10,000 population",Undefined,Units,3.863197
-2014,,Health associate professionals,Medical and dental technicians,"Rate per 10,000 population",Undefined,Units,7.119708
-2014,,Health associate professionals,Health associate professionals not elsewhere classified,"Rate per 10,000 population",Undefined,Units,8.097156
-2014,Male,Health professionals,,"Rate per 10,000 population",Undefined,Units,75.74255
-2014,Male,Health professionals,Medical practitioners,"Rate per 10,000 population",Undefined,Units,40.85583
-2014,Male,Health professionals,Psychologists,"Rate per 10,000 population",Undefined,Units,1.929939
-2014,Male,Health professionals,Pharmacists,"Rate per 10,000 population",Undefined,Units,7.22815
-2014,Male,Health professionals,Ophthalmic opticians,"Rate per 10,000 population",Undefined,Units,4.438608
-2014,Male,Health professionals,Dental practitioners,"Rate per 10,000 population",Undefined,Units,10.53415
-2014,Male,Health professionals,Health professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,5.287202
-2014,Male,Therapy professionals,,"Rate per 10,000 population",Undefined,Units,7.458069
-2014,Male,Therapy professionals,Physiotherapists,"Rate per 10,000 population",Undefined,Units,3.517987
-2014,Male,Therapy professionals,Therapy professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,2.351405
-2014,Male,Nursing and midwifery professionals,,"Rate per 10,000 population",Undefined,Units,21.43755
-2014,Male,Nursing and midwifery professionals,Nurses,"Rate per 10,000 population",Undefined,Units,21.43755
-2014,Male,Health associate professionals,,"Rate per 10,000 population",Undefined,Units,16.56174
-2014,Male,Health associate professionals,Paramedics,"Rate per 10,000 population",Undefined,Units,4.384195
-2014,Male,Health associate professionals,Pharmaceutical technicians,"Rate per 10,000 population",Undefined,Units,1.524828
-2014,Male,Health associate professionals,Medical and dental technicians,"Rate per 10,000 population",Undefined,Units,6.870218
-2014,Male,Health associate professionals,Health associate professionals not elsewhere classified,"Rate per 10,000 population",Undefined,Units,3.584038
-2014,Female,Health professionals,,"Rate per 10,000 population",Undefined,Units,87.25147
-2014,Female,Health professionals,Medical practitioners,"Rate per 10,000 population",Undefined,Units,35.81959
-2014,Female,Health professionals,Psychologists,"Rate per 10,000 population",Undefined,Units,10.09298
-2014,Female,Health professionals,Pharmacists,"Rate per 10,000 population",Undefined,Units,11.1877
-2014,Female,Health professionals,Ophthalmic opticians,"Rate per 10,000 population",Undefined,Units,2.379356
-2014,Female,Health professionals,Dental practitioners,"Rate per 10,000 population",Undefined,Units,5.429686
-2014,Female,Health professionals,Medical radiographers,"Rate per 10,000 population",Undefined,Units,6.076883
-2014,Female,Health professionals,Podiatrists,"Rate per 10,000 population",Undefined,Units,3.691126
-2014,Female,Health professionals,Health professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,9.413163
-2014,Female,Therapy professionals,,"Rate per 10,000 population",Undefined,Units,37.83465
-2014,Female,Therapy professionals,Physiotherapists,"Rate per 10,000 population",Undefined,Units,12.50709
-2014,Female,Therapy professionals,Occupational therapists,"Rate per 10,000 population",Undefined,Units,11.57638
-2014,Female,Therapy professionals,Speech and language therapists,"Rate per 10,000 population",Undefined,Units,2.968326
-2014,Female,Therapy professionals,Therapy professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,10.78286
-2014,Female,Nursing and midwifery professionals,,"Rate per 10,000 population",Undefined,Units,171.5032
-2014,Female,Nursing and midwifery professionals,Nurses,"Rate per 10,000 population",Undefined,Units,159.1452
-2014,Female,Nursing and midwifery professionals,Midwives,"Rate per 10,000 population",Undefined,Units,12.35802
-2014,Female,Health associate professionals,,"Rate per 10,000 population",Undefined,Units,30.13596
-2014,Female,Health associate professionals,Paramedics,"Rate per 10,000 population",Undefined,Units,2.466848
-2014,Female,Health associate professionals,Dispensing opticians,"Rate per 10,000 population",Undefined,Units,1.706551
-2014,Female,Health associate professionals,Pharmaceutical technicians,"Rate per 10,000 population",Undefined,Units,6.129622
-2014,Female,Health associate professionals,Medical and dental technicians,"Rate per 10,000 population",Undefined,Units,7.361522
-2014,Female,Health associate professionals,Health associate professionals not elsewhere classified,"Rate per 10,000 population",Undefined,Units,12.47142
-2015,,Health professionals,,"Rate per 10,000 population",Undefined,Units,78.3549
-2015,,Health professionals,Medical practitioners,"Rate per 10,000 population",Undefined,Units,35.59006
-2015,,Health professionals,Psychologists,"Rate per 10,000 population",Undefined,Units,5.590383
-2015,,Health professionals,Pharmacists,"Rate per 10,000 population",Undefined,Units,10.01366
-2015,,Health professionals,Ophthalmic opticians,"Rate per 10,000 population",Undefined,Units,2.030409
-2015,,Health professionals,Dental practitioners,"Rate per 10,000 population",Undefined,Units,7.031942
-2015,,Health professionals,Medical radiographers,"Rate per 10,000 population",Undefined,Units,4.502839
-2015,,Health professionals,Podiatrists,"Rate per 10,000 population",Undefined,Units,2.463215
-2015,,Health professionals,Health professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,7.915063
-2015,,Therapy professionals,,"Rate per 10,000 population",Undefined,Units,21.41682
-2015,,Therapy professionals,Physiotherapists,"Rate per 10,000 population",Undefined,Units,8.038239
-2015,,Therapy professionals,Occupational therapists,"Rate per 10,000 population",Undefined,Units,4.878357
-2015,,Therapy professionals,Speech and language therapists,"Rate per 10,000 population",Undefined,Units,3.169711
-2015,,Therapy professionals,Therapy professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,5.330515
-2015,,Nursing and midwifery professionals,,"Rate per 10,000 population",Undefined,Units,105.1756
-2015,,Nursing and midwifery professionals,Nurses,"Rate per 10,000 population",Undefined,Units,98.40972
-2015,,Nursing and midwifery professionals,Midwives,"Rate per 10,000 population",Undefined,Units,6.765931
-2015,,Health associate professionals,,"Rate per 10,000 population",Undefined,Units,22.53324
-2015,,Health associate professionals,Paramedics,"Rate per 10,000 population",Undefined,Units,3.721393
-2015,,Health associate professionals,Dispensing opticians,"Rate per 10,000 population",Undefined,Units,0.940715
-2015,,Health associate professionals,Pharmaceutical technicians,"Rate per 10,000 population",Undefined,Units,4.342649
-2015,,Health associate professionals,Medical and dental technicians,"Rate per 10,000 population",Undefined,Units,6.15988
-2015,,Health associate professionals,Health associate professionals not elsewhere classified,"Rate per 10,000 population",Undefined,Units,7.368603
-2015,Male,Health professionals,,"Rate per 10,000 population",Undefined,Units,70.63505
-2015,Male,Health professionals,Medical practitioners,"Rate per 10,000 population",Undefined,Units,37.21841
-2015,Male,Health professionals,Psychologists,"Rate per 10,000 population",Undefined,Units,2.398171
-2015,Male,Health professionals,Pharmacists,"Rate per 10,000 population",Undefined,Units,8.697578
-2015,Male,Health professionals,Ophthalmic opticians,"Rate per 10,000 population",Undefined,Units,2.218589
-2015,Male,Health professionals,Dental practitioners,"Rate per 10,000 population",Undefined,Units,8.893996
-2015,Male,Health professionals,Medical radiographers,"Rate per 10,000 population",Undefined,Units,1.905255
-2015,Male,Health professionals,Health professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,6.00291
-2015,Male,Therapy professionals,,"Rate per 10,000 population",Undefined,Units,4.963453
-2015,Male,Therapy professionals,Physiotherapists,"Rate per 10,000 population",Undefined,Units,2.524751
-2015,Male,Therapy professionals,Therapy professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,1.580074
-2015,Male,Nursing and midwifery professionals,,"Rate per 10,000 population",Undefined,Units,20.04524
-2015,Male,Nursing and midwifery professionals,Nurses,"Rate per 10,000 population",Undefined,Units,20.04524
-2015,Male,Health associate professionals,,"Rate per 10,000 population",Undefined,Units,16.76412
-2015,Male,Health associate professionals,Paramedics,"Rate per 10,000 population",Undefined,Units,5.785603
-2015,Male,Health associate professionals,Pharmaceutical technicians,"Rate per 10,000 population",Undefined,Units,1.516472
-2015,Male,Health associate professionals,Medical and dental technicians,"Rate per 10,000 population",Undefined,Units,6.396681
-2015,Male,Health associate professionals,Health associate professionals not elsewhere classified,"Rate per 10,000 population",Undefined,Units,2.811896
-2015,Female,Health professionals,,"Rate per 10,000 population",Undefined,Units,85.85014
-2015,Female,Health professionals,Medical practitioners,"Rate per 10,000 population",Undefined,Units,34.00908
-2015,Female,Health professionals,Psychologists,"Rate per 10,000 population",Undefined,Units,8.689719
-2015,Female,Health professionals,Pharmacists,"Rate per 10,000 population",Undefined,Units,11.29146
-2015,Female,Health professionals,Ophthalmic opticians,"Rate per 10,000 population",Undefined,Units,1.847704
-2015,Female,Health professionals,Dental practitioners,"Rate per 10,000 population",Undefined,Units,5.224063
-2015,Female,Health professionals,Medical radiographers,"Rate per 10,000 population",Undefined,Units,7.024848
-2015,Female,Health professionals,Podiatrists,"Rate per 10,000 population",Undefined,Units,4.045637
-2015,Female,Health professionals,Health professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,9.771583
-2015,Female,Therapy professionals,,"Rate per 10,000 population",Undefined,Units,37.39149
-2015,Female,Therapy professionals,Physiotherapists,"Rate per 10,000 population",Undefined,Units,13.39132
-2015,Female,Therapy professionals,Occupational therapists,"Rate per 10,000 population",Undefined,Units,9.213397
-2015,Female,Therapy professionals,Speech and language therapists,"Rate per 10,000 population",Undefined,Units,5.814941
-2015,Female,Therapy professionals,Therapy professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,8.971839
-2015,Female,Nursing and midwifery professionals,,"Rate per 10,000 population",Undefined,Units,187.8293
-2015,Female,Nursing and midwifery professionals,Nurses,"Rate per 10,000 population",Undefined,Units,174.4942
-2015,Female,Nursing and midwifery professionals,Midwives,"Rate per 10,000 population",Undefined,Units,13.33501
-2015,Female,Health associate professionals,,"Rate per 10,000 population",Undefined,Units,28.13451
-2015,Female,Health associate professionals,Paramedics,"Rate per 10,000 population",Undefined,Units,1.717239
-2015,Female,Health associate professionals,Dispensing opticians,"Rate per 10,000 population",Undefined,Units,1.607963
-2015,Female,Health associate professionals,Pharmaceutical technicians,"Rate per 10,000 population",Undefined,Units,7.0866
-2015,Female,Health associate professionals,Medical and dental technicians,"Rate per 10,000 population",Undefined,Units,5.929968
-2015,Female,Health associate professionals,Health associate professionals not elsewhere classified,"Rate per 10,000 population",Undefined,Units,11.79274
-2016,,Health professionals,,"Rate per 10,000 population",Undefined,Units,83.15159
-2016,,Health professionals,Medical practitioners,"Rate per 10,000 population",Undefined,Units,42.28016
-2016,,Health professionals,Psychologists,"Rate per 10,000 population",Undefined,Units,4.215662
-2016,,Health professionals,Pharmacists,"Rate per 10,000 population",Undefined,Units,9.338281
-2016,,Health professionals,Ophthalmic opticians,"Rate per 10,000 population",Undefined,Units,2.885539
-2016,,Health professionals,Dental practitioners,"Rate per 10,000 population",Undefined,Units,6.127067
-2016,,Health professionals,Medical radiographers,"Rate per 10,000 population",Undefined,Units,5.78829
-2016,,Health professionals,Podiatrists,"Rate per 10,000 population",Undefined,Units,1.812697
-2016,,Health professionals,Health professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,7.326036
-2016,,Therapy professionals,,"Rate per 10,000 population",Undefined,Units,18.83255
-2016,,Therapy professionals,Physiotherapists,"Rate per 10,000 population",Undefined,Units,7.40418
-2016,,Therapy professionals,Occupational therapists,"Rate per 10,000 population",Undefined,Units,4.25679
-2016,,Therapy professionals,Speech and language therapists,"Rate per 10,000 population",Undefined,Units,2.063275
-2016,,Therapy professionals,Therapy professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,5.108301
-2016,,Nursing and midwifery professionals,,"Rate per 10,000 population",Undefined,Units,109.3213
-2016,,Nursing and midwifery professionals,Nurses,"Rate per 10,000 population",Undefined,Units,102.7864
-2016,,Nursing and midwifery professionals,Midwives,"Rate per 10,000 population",Undefined,Units,6.534847
-2016,,Health associate professionals,,"Rate per 10,000 population",Undefined,Units,24.76006
-2016,,Health associate professionals,Paramedics,"Rate per 10,000 population",Undefined,Units,2.971908
-2016,,Health associate professionals,Dispensing opticians,"Rate per 10,000 population",Undefined,Units,1.015415
-2016,,Health associate professionals,Pharmaceutical technicians,"Rate per 10,000 population",Undefined,Units,4.747437
-2016,,Health associate professionals,Medical and dental technicians,"Rate per 10,000 population",Undefined,Units,7.050933
-2016,,Health associate professionals,Health associate professionals not elsewhere classified,"Rate per 10,000 population",Undefined,Units,8.974371
-2016,Male,Health professionals,,"Rate per 10,000 population",Undefined,Units,74.03311
-2016,Male,Health professionals,Medical practitioners,"Rate per 10,000 population",Undefined,Units,45.67283
-2016,Male,Health professionals,Psychologists,"Rate per 10,000 population",Undefined,Units,2.625575
-2016,Male,Health professionals,Pharmacists,"Rate per 10,000 population",Undefined,Units,7.406029
-2016,Male,Health professionals,Ophthalmic opticians,"Rate per 10,000 population",Undefined,Units,2.062532
-2016,Male,Health professionals,Dental practitioners,"Rate per 10,000 population",Undefined,Units,6.814572
-2016,Male,Health professionals,Medical radiographers,"Rate per 10,000 population",Undefined,Units,2.934738
-2016,Male,Health professionals,Health professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,3.82702
-2016,Male,Therapy professionals,,"Rate per 10,000 population",Undefined,Units,8.860118
-2016,Male,Therapy professionals,Physiotherapists,"Rate per 10,000 population",Undefined,Units,4.402416
-2016,Male,Therapy professionals,Therapy professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,3.60588
-2016,Male,Nursing and midwifery professionals,,"Rate per 10,000 population",Undefined,Units,24.75595
-2016,Male,Nursing and midwifery professionals,Nurses,"Rate per 10,000 population",Undefined,Units,24.75595
-2016,Male,Health associate professionals,,"Rate per 10,000 population",Undefined,Units,18.70208
-2016,Male,Health associate professionals,Paramedics,"Rate per 10,000 population",Undefined,Units,5.05132
-2016,Male,Health associate professionals,Pharmaceutical technicians,"Rate per 10,000 population",Undefined,Units,2.034427
-2016,Male,Health associate professionals,Medical and dental technicians,"Rate per 10,000 population",Undefined,Units,7.827616
-2016,Male,Health associate professionals,Health associate professionals not elsewhere classified,"Rate per 10,000 population",Undefined,Units,2.610441
-2016,Female,Health professionals,,"Rate per 10,000 population",Undefined,Units,92.0254
-2016,Female,Health professionals,Medical practitioners,"Rate per 10,000 population",Undefined,Units,38.97851
-2016,Female,Health professionals,Psychologists,"Rate per 10,000 population",Undefined,Units,5.763084
-2016,Female,Health professionals,Pharmacists,"Rate per 10,000 population",Undefined,Units,11.21869
-2016,Female,Health professionals,Ophthalmic opticians,"Rate per 10,000 population",Undefined,Units,3.686462
-2016,Female,Health professionals,Dental practitioners,"Rate per 10,000 population",Undefined,Units,5.458008
-2016,Female,Health professionals,Medical radiographers,"Rate per 10,000 population",Undefined,Units,8.565276
-2016,Female,Health professionals,Podiatrists,"Rate per 10,000 population",Undefined,Units,3.576755
-2016,Female,Health professionals,Health professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,10.73117
-2016,Female,Therapy professionals,,"Rate per 10,000 population",Undefined,Units,28.5374
-2016,Female,Therapy professionals,Physiotherapists,"Rate per 10,000 population",Undefined,Units,10.3254
-2016,Female,Therapy professionals,Occupational therapists,"Rate per 10,000 population",Undefined,Units,8.004718
-2016,Female,Therapy professionals,Speech and language therapists,"Rate per 10,000 population",Undefined,Units,3.636869
-2016,Female,Therapy professionals,Therapy professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,6.570409
-2016,Female,Nursing and midwifery professionals,,"Rate per 10,000 population",Undefined,Units,191.6176
-2016,Female,Nursing and midwifery professionals,Nurses,"Rate per 10,000 population",Undefined,Units,178.7232
-2016,Female,Nursing and midwifery professionals,Midwives,"Rate per 10,000 population",Undefined,Units,12.89435
-2016,Female,Health associate professionals,,"Rate per 10,000 population",Undefined,Units,30.6555
-2016,Female,Health associate professionals,Pharmaceutical technicians,"Rate per 10,000 population",Undefined,Units,7.387652
-2016,Female,Health associate professionals,Medical and dental technicians,"Rate per 10,000 population",Undefined,Units,6.295089
-2016,Female,Health associate professionals,Health associate professionals not elsewhere classified,"Rate per 10,000 population",Undefined,Units,15.16755
-2017,,Health professionals,,"Rate per 10,000 population",Undefined,Units,85.21533
-2017,,Health professionals,Medical practitioners,"Rate per 10,000 population",Undefined,Units,41.111
-2017,,Health professionals,Psychologists,"Rate per 10,000 population",Undefined,Units,4.340536
-2017,,Health professionals,Pharmacists,"Rate per 10,000 population",Undefined,Units,8.385949
-2017,,Health professionals,Ophthalmic opticians,"Rate per 10,000 population",Undefined,Units,3.267402
-2017,,Health professionals,Dental practitioners,"Rate per 10,000 population",Undefined,Units,6.978474
-2017,,Health professionals,Medical radiographers,"Rate per 10,000 population",Undefined,Units,5.046318
-2017,,Health professionals,Podiatrists,"Rate per 10,000 population",Undefined,Units,1.86129
-2017,,Health professionals,Health professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,10.59248
-2017,,Therapy professionals,,"Rate per 10,000 population",Undefined,Units,23.27354
-2017,,Therapy professionals,Physiotherapists,"Rate per 10,000 population",Undefined,Units,8.119293
-2017,,Therapy professionals,Occupational therapists,"Rate per 10,000 population",Undefined,Units,6.059186
-2017,,Therapy professionals,Speech and language therapists,"Rate per 10,000 population",Undefined,Units,2.18806
-2017,,Therapy professionals,Therapy professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,6.907002
-2017,,Nursing and midwifery professionals,,"Rate per 10,000 population",Undefined,Units,106.3184
-2017,,Nursing and midwifery professionals,Nurses,"Rate per 10,000 population",Undefined,Units,99.83142
-2017,,Nursing and midwifery professionals,Midwives,"Rate per 10,000 population",Undefined,Units,6.486955
-2017,,Health associate professionals,,"Rate per 10,000 population",Undefined,Units,27.18737
-2017,,Health associate professionals,Paramedics,"Rate per 10,000 population",Undefined,Units,3.506499
-2017,,Health associate professionals,Dispensing opticians,"Rate per 10,000 population",Undefined,Units,1.123406
-2017,,Health associate professionals,Pharmaceutical technicians,"Rate per 10,000 population",Undefined,Units,5.07312
-2017,,Health associate professionals,Medical and dental technicians,"Rate per 10,000 population",Undefined,Units,6.164727
-2017,,Health associate professionals,Health associate professionals not elsewhere classified,"Rate per 10,000 population",Undefined,Units,11.31962
-2017,Male,Health professionals,,"Rate per 10,000 population",Undefined,Units,71.68265
-2017,Male,Health professionals,Medical practitioners,"Rate per 10,000 population",Undefined,Units,44.68476
-2017,Male,Health professionals,Pharmacists,"Rate per 10,000 population",Undefined,Units,4.66334
-2017,Male,Health professionals,Ophthalmic opticians,"Rate per 10,000 population",Undefined,Units,2.837781
-2017,Male,Health professionals,Dental practitioners,"Rate per 10,000 population",Undefined,Units,6.525729
-2017,Male,Health professionals,Medical radiographers,"Rate per 10,000 population",Undefined,Units,3.339594
-2017,Male,Health professionals,Health professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,5.610494
-2017,Male,Therapy professionals,,"Rate per 10,000 population",Undefined,Units,8.188007
-2017,Male,Therapy professionals,Physiotherapists,"Rate per 10,000 population",Undefined,Units,5.011693
-2017,Male,Therapy professionals,Therapy professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,2.701815
-2017,Male,Nursing and midwifery professionals,,"Rate per 10,000 population",Undefined,Units,29.06285
-2017,Male,Nursing and midwifery professionals,Nurses,"Rate per 10,000 population",Undefined,Units,28.75194
-2017,Male,Health associate professionals,,"Rate per 10,000 population",Undefined,Units,15.60564
-2017,Male,Health associate professionals,Paramedics,"Rate per 10,000 population",Undefined,Units,3.139176
-2017,Male,Health associate professionals,Pharmaceutical technicians,"Rate per 10,000 population",Undefined,Units,2.056056
-2017,Male,Health associate professionals,Medical and dental technicians,"Rate per 10,000 population",Undefined,Units,5.342246
-2017,Male,Health associate professionals,Health associate professionals not elsewhere classified,"Rate per 10,000 population",Undefined,Units,4.48195
-2017,Female,Health professionals,,"Rate per 10,000 population",Undefined,Units,98.39345
-2017,Female,Health professionals,Medical practitioners,"Rate per 10,000 population",Undefined,Units,37.63088
-2017,Female,Health professionals,Psychologists,"Rate per 10,000 population",Undefined,Units,7.473752
-2017,Female,Health professionals,Pharmacists,"Rate per 10,000 population",Undefined,Units,12.01102
-2017,Female,Health professionals,Ophthalmic opticians,"Rate per 10,000 population",Undefined,Units,3.685768
-2017,Female,Health professionals,Dental practitioners,"Rate per 10,000 population",Undefined,Units,7.419356
-2017,Female,Health professionals,Medical radiographers,"Rate per 10,000 population",Undefined,Units,6.708325
-2017,Female,Health professionals,Podiatrists,"Rate per 10,000 population",Undefined,Units,3.498371
-2017,Female,Health professionals,Health professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,15.44394
-2017,Female,Therapy professionals,,"Rate per 10,000 population",Undefined,Units,37.96383
-2017,Female,Therapy professionals,Physiotherapists,"Rate per 10,000 population",Undefined,Units,11.14547
-2017,Female,Therapy professionals,Occupational therapists,"Rate per 10,000 population",Undefined,Units,11.49755
-2017,Female,Therapy professionals,Speech and language therapists,"Rate per 10,000 population",Undefined,Units,4.318792
-2017,Female,Therapy professionals,Therapy professionals not elsewhere classifed,"Rate per 10,000 population",Undefined,Units,11.00201
-2017,Female,Nursing and midwifery professionals,,"Rate per 10,000 population",Undefined,Units,181.5498
-2017,Female,Nursing and midwifery professionals,Nurses,"Rate per 10,000 population",Undefined,Units,169.0486
-2017,Female,Nursing and midwifery professionals,Midwives,"Rate per 10,000 population",Undefined,Units,12.50119
-2017,Female,Health associate professionals,,"Rate per 10,000 population",Undefined,Units,38.46564
-2017,Female,Health associate professionals,Paramedics,"Rate per 10,000 population",Undefined,Units,3.864198
-2017,Female,Health associate professionals,Dispensing opticians,"Rate per 10,000 population",Undefined,Units,1.646521
-2017,Female,Health associate professionals,Pharmaceutical technicians,"Rate per 10,000 population",Undefined,Units,8.011135
-2017,Female,Health associate professionals,Medical and dental technicians,"Rate per 10,000 population",Undefined,Units,6.965659
-2017,Female,Health associate professionals,Health associate professionals not elsewhere classified,"Rate per 10,000 population",Undefined,Units,17.97813
+Year,Series,Sex,Occupation minor group,Occupation unit group,Units,Observation status,Unit multiplier,Value
+2012,Health worker density,,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,75.4571499299
+2012,Health worker density,,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,20.720498836591
+2012,Health worker density,,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,96.3974116329589
+2012,Health worker density,,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,21.9605892972658
+2012,Health worker density,,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,35.9469260119648
+2012,Health worker density,,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,4.92896714749212
+2012,Health worker density,,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,8.24110749182599
+2012,Health worker density,,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,3.51620586317909
+2012,Health worker density,,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,5.90220269890776
+2012,Health worker density,,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,4.77199367145734
+2012,Health worker density,,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,1.91507640762432
+2012,Health worker density,,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,7.61321358768687
+2012,Health worker density,,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,6.90683294553036
+2012,Health worker density,,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,4.55223080500864
+2012,Health worker density,,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,2.52727296415997
+2012,Health worker density,,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,6.7341621218921
+2012,Health worker density,,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,90.5266036292581
+2012,Health worker density,,223 Nursing and Midwifery Professionals,2232 Midwives,"Rate per 10,000 population",Normal value,Units,5.8708080037008
+2012,Health worker density,,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,3.45341647276518
+2012,Health worker density,,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,0.690683294553036
+2012,Health worker density,,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,4.75629632385386
+2012,Health worker density,,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,5.7295318752695
+2012,Health worker density,,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,7.33066133082426
+2012,Health worker density,Males,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,68.0819059816979
+2012,Health worker density,Males,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,7.88753788812354
+2012,Health worker density,Males,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,21.427279040206
+2012,Health worker density,Males,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,13.028807523702
+2012,Health worker density,Males,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,38.8948224604634
+2012,Health worker density,Males,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,2.3311346794859
+2012,Health worker density,Males,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,6.57827046539858
+2012,Health worker density,Males,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,3.92780226817488
+2012,Health worker density,Males,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,5.90767007814921
+2012,Health worker density,Males,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,2.3311346794859
+2012,Health worker density,Males,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,1.11766731208228
+2012,Health worker density,Males,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,4.72613606251937
+2012,Health worker density,Males,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,3.06560177028283
+2012,Health worker density,Males,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,1.27733407095118
+2012,Health worker density,Males,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,3.54460204688952
+2012,Health worker density,Males,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,21.2995456331109
+2012,Health worker density,Males,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,4.02360232349622
+2012,Health worker density,Males,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,0.287400165964015
+2012,Health worker density,Males,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,1.05380060853472
+2012,Health worker density,Males,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,4.94966952493582
+2012,Health worker density,Males,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,2.74626825254504
+2012,Health worker density,Females,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,82.556833927512
+2012,Health worker density,Females,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,33.096830953737
+2012,Health worker density,Females,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,168.880284810579
+2012,Health worker density,Females,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,30.5960442865237
+2012,Health worker density,Females,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,33.096830953737
+2012,Health worker density,Females,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,7.44061218269648
+2012,Health worker density,Females,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,9.84877712149451
+2012,Health worker density,Females,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,3.11826485664873
+2012,Health worker density,Females,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,5.86604279963623
+2012,Health worker density,Females,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,7.13187308797878
+2012,Health worker density,Females,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,2.68603012404395
+2012,Health worker density,Females,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,10.4045074919863
+2012,Health worker density,Females,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,10.6206248582887
+2012,Health worker density,Females,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,7.74935127741417
+2012,Health worker density,Females,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,4.93982551548314
+2012,Health worker density,Females,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,9.81790321202274
+2012,Health worker density,Females,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,157.456938306025
+2012,Health worker density,Females,223 Nursing and Midwifery Professionals,2232 Midwives,"Rate per 10,000 population",Normal value,Units,11.3924725950829
+2012,Health worker density,Females,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,2.90214749034634
+2012,Health worker density,Females,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,1.08058683151193
+2012,Health worker density,Females,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,8.36682946684957
+2012,Health worker density,Females,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,6.48352098907162
+2012,Health worker density,Females,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,11.7629595087442
+2013,Health worker density,,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,76.6859035554024
+2013,Health worker density,,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,21.7297525737745
+2013,Health worker density,,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,100.771142589076
+2013,Health worker density,,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,21.5581608449076
+2013,Health worker density,,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,38.4833450104104
+2013,Health worker density,,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,5.3349428429511
+2013,Health worker density,,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,7.83082253555981
+2013,Health worker density,,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,3.72822029083425
+2013,Health worker density,,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,6.05250825457611
+2013,Health worker density,,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,4.14939998896197
+2013,Health worker density,,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,2.152696234875
+2013,Health worker density,,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,6.0369090064973
+2013,Health worker density,,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,8.42359396255438
+2013,Health worker density,,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,5.49093532373915
+2013,Health worker density,,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,2.10589849063859
+2013,Health worker density,,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,5.6937255487636
+2013,Health worker density,,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,93.3770989997231
+2013,Health worker density,,223 Nursing and Midwifery Professionals,2232 Midwives,"Rate per 10,000 population",Normal value,Units,7.39404358935328
+2013,Health worker density,,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,3.61902555428262
+2013,Health worker density,,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,0.764363155861415
+2013,Health worker density,,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,4.11820149280436
+2013,Health worker density,,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,5.6781263006848
+2013,Health worker density,,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,7.37844434127448
+2013,Health worker density,Males,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,69.5778561781314
+2013,Health worker density,Males,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,7.89648413325193
+2013,Health worker density,Males,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,21.8501107140987
+2013,Health worker density,Males,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,14.3976056084191
+2013,Health worker density,Males,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,42.5902738592664
+2013,Health worker density,Males,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,2.47359743933193
+2013,Health worker density,Males,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,5.6448762077062
+2013,Health worker density,Males,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,3.93238567278409
+2013,Health worker density,Males,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,6.62797262590222
+2013,Health worker density,Males,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,1.87105447334081
+2013,Health worker density,Males,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,0.856245267461053
+2013,Health worker density,Males,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,2.88586367922058
+2013,Health worker density,Males,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,4.15437518657029
+2013,Health worker density,Males,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,0.983096418196023
+2013,Health worker density,Males,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,2.6004485900669
+2013,Health worker density,Males,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,21.6598339879962
+2013,Health worker density,Males,223 Nursing and Midwifery Professionals,2232 Midwives,"Rate per 10,000 population",Normal value,Units,0.190276726102456
+2013,Health worker density,Males,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,4.66177978951017
+2013,Health worker density,Males,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,0.443979027572397
+2013,Health worker density,Males,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,1.68077774723836
+2013,Health worker density,Males,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,4.9789076663476
+2013,Health worker density,Males,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,2.63216137775064
+2013,Health worker density,Females,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,83.5670852890523
+2013,Health worker density,Females,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,35.1215082919455
+2013,Health worker density,Females,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,177.173273035679
+2013,Health worker density,Females,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,28.4901745585013
+2013,Health worker density,Females,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,34.5074959092192
+2013,Health worker density,Females,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,8.13566407112375
+2013,Health worker density,Females,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,9.9470006001664
+2013,Health worker density,Females,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,3.49987058154003
+2013,Health worker density,Females,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,5.49541082540057
+2013,Health worker density,Females,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,6.35502816121742
+2013,Health worker density,Females,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,3.40776872413108
+2013,Health worker density,Females,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,9.08738326434955
+2013,Health worker density,Females,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,12.5565532267532
+2013,Health worker density,Females,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,9.85489874275745
+2013,Health worker density,Females,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,4.0217811068574
+2013,Health worker density,Females,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,8.71897583471376
+2013,Health worker density,Females,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,162.805383279884
+2013,Health worker density,Females,223 Nursing and Midwifery Professionals,2232 Midwives,"Rate per 10,000 population",Normal value,Units,14.3678897557959
+2013,Health worker density,Females,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,2.57885200745054
+2013,Health worker density,Females,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,1.07452166977106
+2013,Health worker density,Females,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,6.47783063776268
+2013,Health worker density,Females,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,6.35502816121742
+2013,Health worker density,Females,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,12.0039420822995
+2014,Health worker density,,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,79.555083512558
+2014,Health worker density,,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,22.2302198723551
+2014,Health worker density,,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,95.0202573652619
+2014,Health worker density,,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,22.6172362350354
+2014,Health worker density,,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,37.5251065254797
+2014,Health worker density,,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,5.80524544020417
+2014,Health worker density,,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,8.9013763416464
+2014,Health worker density,,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,2.95680501087732
+2014,Health worker density,,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,7.26042696388202
+2014,Health worker density,,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,4.0404508263821
+2014,Health worker density,,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,2.32209817608167
+2014,Health worker density,,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,7.84869183515604
+2014,Health worker density,,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,8.31311147037238
+2014,Health worker density,,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,5.78976478569696
+2014,Health worker density,,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,1.96604312241581
+2014,Health worker density,,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,6.14581983936282
+2014,Health worker density,,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,88.1778080730746
+2014,Health worker density,,223 Nursing and Midwifery Professionals,2232 Midwives,"Rate per 10,000 population",Normal value,Units,6.84244929218732
+2014,Health worker density,,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,3.59151184567298
+2014,Health worker density,,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,0.897877961418245
+2014,Health worker density,,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,4.70611897019218
+2014,Health worker density,,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,5.85168740372581
+2014,Health worker density,,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,7.55455939951903
+2014,Health worker density,Males,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,72.0267302833588
+2014,Health worker density,Males,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,7.957538323882
+2014,Health worker density,Males,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,20.790248348166
+2014,Health worker density,Males,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,15.6320021619342
+2014,Health worker density,Males,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,41.3917803724455
+2014,Health worker density,Males,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,2.2331431659906
+2014,Health worker density,Males,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,6.51071317408527
+2014,Health worker density,Males,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,3.64851559513957
+2014,Health worker density,Males,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,8.20916008906404
+2014,Health worker density,Males,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,2.20169044534284
+2014,Health worker density,Males,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,0.975034340080403
+2014,Health worker density,Males,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,4.34047544939018
+2014,Health worker density,Males,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,3.99449552226487
+2014,Health worker density,Males,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,0.975034340080403
+2014,Health worker density,Males,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,0.251621765182039
+2014,Health worker density,Males,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,2.70493397570692
+2014,Health worker density,Males,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,20.790248348166
+2014,Health worker density,Males,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,4.62354993521997
+2014,Health worker density,Males,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,0.283074485829794
+2014,Health worker density,Males,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,2.48476493117264
+2014,Health worker density,Males,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,5.69294243724364
+2014,Health worker density,Males,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,2.54767037246815
+2014,Health worker density,Females,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,86.8518123342377
+2014,Health worker density,Females,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,36.0637746547571
+2014,Health worker density,Females,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,166.966435996707
+2014,Health worker density,Females,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,29.3570709996036
+2014,Health worker density,Females,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,33.7773984086821
+2014,Health worker density,Females,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,9.26744505075755
+2014,Health worker density,Females,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,11.1880010974605
+2014,Health worker density,Females,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,2.28637624607505
+2014,Health worker density,Females,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,6.34088345578148
+2014,Health worker density,Females,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,5.8226381733378
+2014,Health worker density,Females,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,3.65820199372008
+2014,Health worker density,Females,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,11.2489711306892
+2014,Health worker density,Females,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,12.4988568118769
+2014,Health worker density,Females,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,10.4563606987165
+2014,Health worker density,Females,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,3.62771697710575
+2014,Health worker density,Females,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,9.48084016705789
+2014,Health worker density,Females,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,153.522543669786
+2014,Health worker density,Females,223 Nursing and Midwifery Professionals,2232 Midwives,"Rate per 10,000 population",Normal value,Units,13.4743773435356
+2014,Health worker density,Females,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,2.59122641221839
+2014,Health worker density,Females,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,1.49376581410236
+2014,Health worker density,Females,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,6.85912873822516
+2014,Health worker density,Females,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,6.03603328963814
+2014,Health worker density,Females,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,12.4074017620339
+2015,Health worker density,,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,79.2658163870717
+2015,Health worker density,,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,20.7341313936343
+2015,Health worker density,,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,100.860030268145
+2015,Health worker density,,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,24.6812956663484
+2015,Health worker density,,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,38.6422774713955
+2015,Health worker density,,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,5.28336385141497
+2015,Health worker density,,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,8.60082487439647
+2015,Health worker density,,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,2.82598531587312
+2015,Health worker density,,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,5.91306710114757
+2015,Health worker density,,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,4.51543305905814
+2015,Health worker density,,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,2.33450960876475
+2015,Health worker density,,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,8.37044563668942
+2015,Health worker density,,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,7.66394930772114
+2015,Health worker density,,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,5.31408108310924
+2015,Health worker density,,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,2.1041303710577
+2015,Health worker density,,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,5.66732924759338
+2015,Health worker density,,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,93.6568394358387
+2015,Health worker density,,223 Nursing and Midwifery Professionals,2232 Midwives,"Rate per 10,000 population",Normal value,Units,7.20319083230704
+2015,Health worker density,,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,4.59222613829383
+2015,Health worker density,,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,0.936875566675329
+2015,Health worker density,,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,4.19290212626827
+2015,Health worker density,,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,5.7594809426762
+2015,Health worker density,,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,9.19981089243479
+2015,Health worker density,Males,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,71.4587578990065
+2015,Health worker density,Males,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,6.57844586243035
+2015,Health worker density,Males,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,21.0759687346109
+2015,Health worker density,Males,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,18.768836062479
+2015,Health worker density,Males,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,41.7778078467141
+2015,Health worker density,Males,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,2.55655242047056
+2015,Health worker density,Males,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,7.70083472995401
+2015,Health worker density,Males,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,2.93068204297845
+2015,Health worker density,Males,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,7.01493042202289
+2015,Health worker density,Males,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,1.71476076982781
+2015,Health worker density,Males,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,0.592371902304155
+2015,Health worker density,Males,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,4.95721749822951
+2015,Health worker density,Males,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,2.55655242047056
+2015,Health worker density,Males,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,0.935324056269718
+2015,Health worker density,Males,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,0.311774685423239
+2015,Health worker density,Males,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,2.80597216880915
+2015,Health worker density,Males,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,20.982436328984
+2015,Health worker density,Males,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,6.640800799515
+2015,Health worker density,Males,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,0.436484559592535
+2015,Health worker density,Males,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,1.21592127315063
+2015,Health worker density,Males,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,6.640800799515
+2015,Health worker density,Males,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,3.83482863070584
+2015,Health worker density,Females,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,86.8457347619865
+2015,Health worker density,Females,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,34.4779685932041
+2015,Health worker density,Females,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,178.322838439478
+2015,Health worker density,Females,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,30.4520073790723
+2015,Health worker density,Females,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,35.5979728407445
+2015,Health worker density,Females,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,7.93084088798901
+2015,Health worker density,Females,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,9.44436014142202
+2015,Health worker density,Females,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,2.72433465617943
+2015,Health worker density,Females,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,4.84326161098565
+2015,Health worker density,Females,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,7.23462203140982
+2015,Health worker density,Females,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,4.02596121413182
+2015,Health worker density,Females,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,11.7146390215715
+2015,Health worker density,Females,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,12.6227505736313
+2015,Health worker density,Females,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,9.56544168169666
+2015,Health worker density,Females,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,3.84433890371986
+2015,Health worker density,Females,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,8.44543743415623
+2015,Health worker density,Females,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,164.216838997482
+2015,Health worker density,Females,223 Nursing and Midwifery Professionals,2232 Midwives,"Rate per 10,000 population",Normal value,Units,14.1059994419957
+2015,Health worker density,Females,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,2.60325311590479
+2015,Health worker density,Females,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,1.42270809822703
+2015,Health worker density,Females,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,7.11354049113518
+2015,Health worker density,Females,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,4.90380238112297
+2015,Health worker density,Females,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,14.4087032926823
+2016,Health worker density,,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,80.3679572893356
+2016,Health worker density,,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,21.2192123775672
+2016,Health worker density,,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,104.816511392706
+2016,Health worker density,,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,24.6313470312463
+2016,Health worker density,,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,40.3972370605227
+2016,Health worker density,,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,4.95064179663269
+2016,Health worker density,,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,8.68266407409426
+2016,Health worker density,,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,2.75712666212466
+2016,Health worker density,,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,5.72751174010428
+2016,Health worker density,,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,5.01157277259124
+2016,Health worker density,,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,1.72130007082921
+2016,Health worker density,,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,7.73823394673663
+2016,Health worker density,,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,7.60113925082988
+2016,Health worker density,,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,4.7221506367881
+2016,Health worker density,,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,2.25444611046657
+2016,Health worker density,,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,6.65670912347226
+2016,Health worker density,,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,98.0988712932755
+2016,Health worker density,,223 Nursing and Midwifery Professionals,2232 Midwives,"Rate per 10,000 population",Normal value,Units,6.70240735544118
+2016,Health worker density,,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,3.83865148538904
+2016,Health worker density,,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,1.23385226316076
+2016,Health worker density,,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,4.7221506367881
+2016,Health worker density,,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,5.91030466797995
+2016,Health worker density,,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,8.94162072191812
+2016,Health worker density,Males,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,72.4882213589524
+2016,Health worker density,Males,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,9.14210205464419
+2016,Health worker density,Males,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,22.5155148575527
+2016,Health worker density,Males,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,16.1222205152847
+2016,Health worker density,Males,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,44.5368620364761
+2016,Health worker density,Males,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,2.71792223246178
+2016,Health worker density,Males,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,6.60949270166843
+2016,Health worker density,Males,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,2.53260935297575
+2016,Health worker density,Males,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,6.70214914141145
+2016,Health worker density,Males,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,2.43995291323274
+2016,Health worker density,Males,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,0.710366038029785
+2016,Health worker density,Males,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,3.86068498929231
+2016,Health worker density,Males,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,2.93412059186215
+2016,Health worker density,Males,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,0.895678917515816
+2016,Health worker density,Males,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,0.216198359400369
+2016,Health worker density,Males,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,5.06521870595151
+2016,Health worker density,Males,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,22.3919729378954
+2016,Health worker density,Males,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,5.18876062560886
+2016,Health worker density,Males,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,0.61770959828677
+2016,Health worker density,Males,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,1.88401427477464
+2016,Health worker density,Males,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,5.18876062560886
+2016,Health worker density,Males,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,3.24297539100554
+2016,Health worker density,Females,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,88.0362652906278
+2016,Health worker density,Females,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,33.0023281970329
+2016,Health worker density,Females,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,184.909219552046
+2016,Health worker density,Females,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,32.9121579014126
+2016,Health worker density,Females,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,36.3686859001911
+2016,Health worker density,Females,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,7.0933965887976
+2016,Health worker density,Females,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,10.7302651788167
+2016,Health worker density,Females,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,3.00567652067695
+2016,Health worker density,Females,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,4.80908243308312
+2016,Health worker density,Females,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,7.4841345364856
+2016,Health worker density,Females,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,2.73516563381602
+2016,Health worker density,Females,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,11.5117410741927
+2016,Health worker density,Females,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,12.1429331435348
+2016,Health worker density,Females,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,8.41589425789546
+2016,Health worker density,Females,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,4.26806065936127
+2016,Health worker density,Females,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,8.1754401362413
+2016,Health worker density,Females,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,171.804469921894
+2016,Health worker density,Females,223 Nursing and Midwifery Professionals,2232 Midwives,"Rate per 10,000 population",Normal value,Units,13.1047496301515
+2016,Health worker density,Females,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,2.52476827736863
+2016,Health worker density,Females,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,1.83346267761294
+2016,Health worker density,Females,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,7.4841345364856
+2016,Health worker density,Females,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,6.61248834548929
+2016,Health worker density,Females,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,14.5174175948696
+2017,Health worker density,,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,88.8700734214595
+2017,Health worker density,,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,25.1816207360516
+2017,Health worker density,,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,101.725873785204
+2017,Health worker density,,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,26.6201378556697
+2017,Health worker density,,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,41.3232970467137
+2017,Health worker density,,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,5.22408848703416
+2017,Health worker density,,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,9.90305469716042
+2017,Health worker density,,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,3.05874166487218
+2017,Health worker density,,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,6.8594553177579
+2017,Health worker density,,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,5.49664962548812
+2017,Health worker density,,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,2.2864851059193
+2017,Health worker density,,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,10.6298843997043
+2017,Health worker density,,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,7.96484215704339
+2017,Health worker density,,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,6.66260560665227
+2017,Health worker density,,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,2.33191196232829
+2017,Health worker density,,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,8.22226101002769
+2017,Health worker density,,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,94.2758693341296
+2017,Health worker density,,223 Nursing and Midwifery Professionals,2232 Midwives,"Rate per 10,000 population",Normal value,Units,7.43486216560515
+2017,Health worker density,,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,4.5729702118386
+2017,Health worker density,,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,1.31737883586079
+2017,Health worker density,,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,5.10295020327685
+2017,Health worker density,,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,6.32947532631965
+2017,Health worker density,,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,9.28222099290419
+2017,Health worker density,Males,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,75.0725842319152
+2017,Health worker density,Males,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,8.77790641468837
+2017,Health worker density,Males,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,24.7070442791053
+2017,Health worker density,Males,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,16.1132897472426
+2017,Health worker density,Males,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,43.6746882101452
+2017,Health worker density,Males,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,2.39397447673319
+2017,Health worker density,Males,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,7.1205394692577
+2017,Health worker density,Males,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,2.91573814473914
+2017,Health worker density,Males,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,6.78292768407737
+2017,Health worker density,Males,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,3.2840419103904
+2017,Health worker density,Males,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,0.73660753130252
+2017,Health worker density,Males,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,4.32756924640231
+2017,Health worker density,Males,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,4.29687726593137
+2017,Health worker density,Males,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,1.22767921883753
+2017,Health worker density,Males,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,0.153459902354691
+2017,Health worker density,Males,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,3.06919804709383
+2017,Health worker density,Males,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,24.5535843767506
+2017,Health worker density,Males,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,4.81864093393732
+2017,Health worker density,Males,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,0.890067433657212
+2017,Health worker density,Males,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,2.11774665249474
+2017,Health worker density,Males,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,4.84933291440826
+2017,Health worker density,Males,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,3.46819379321603
+2017,Health worker density,Females,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,102.306061719337
+2017,Health worker density,Females,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,41.1555498064643
+2017,Health worker density,Females,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,176.726772698346
+2017,Health worker density,Females,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,36.8517014606902
+2017,Health worker density,Females,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,39.0036256335772
+2017,Health worker density,Females,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,7.98005214112271
+2017,Health worker density,Females,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,12.6126666799767
+2017,Health worker density,Females,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,3.19799842359599
+2017,Health worker density,Females,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,6.90409005467919
+2017,Health worker density,Females,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,7.65128594804274
+2017,Health worker density,Females,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,3.79575513828683
+2017,Health worker density,Females,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,16.767075847078
+2017,Health worker density,Females,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,11.5665924292677
+2017,Health worker density,Females,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,11.9551342938167
+2017,Health worker density,Females,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,4.42339968871221
+2017,Health worker density,Females,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,13.240311230402
+2017,Health worker density,Females,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,162.171396695624
+2017,Health worker density,Females,223 Nursing and Midwifery Professionals,2232 Midwives,"Rate per 10,000 population",Normal value,Units,14.5553760027219
+2017,Health worker density,Females,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,4.33373618150858
+2017,Health worker density,Females,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,1.73349447260343
+2017,Health worker density,Females,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,8.03982781259179
+2017,Health worker density,Females,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,7.77083729098091
+2017,Health worker density,Females,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,14.9738057030055
+2018,Health worker density,,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,84.5180027861589
+2018,Health worker density,,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,28.5690417254015
+2018,Health worker density,,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,102.836508465723
+2018,Health worker density,,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,26.4767884062072
+2018,Health worker density,,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,40.6258396295356
+2018,Health worker density,,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,5.13279411399469
+2018,Health worker density,,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,8.76037001274167
+2018,Health worker density,,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,2.87496679112312
+2018,Health worker density,,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,4.96722011031744
+2018,Health worker density,,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,5.41878557489175
+2018,Health worker density,,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,2.34814041578642
+2018,Health worker density,,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,10.7773624211736
+2018,Health worker density,,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,8.79047437704662
+2018,Health worker density,,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,7.91744781220295
+2018,Health worker density,,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,2.46855787300624
+2018,Health worker density,,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,9.39256166314571
+2018,Health worker density,,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,96.4393310509207
+2018,Health worker density,,223 Nursing and Midwifery Professionals,2232 Midwives,"Rate per 10,000 population",Normal value,Units,6.39717741480276
+2018,Health worker density,,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,3.67273244520441
+2018,Health worker density,,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,1.3095398472655
+2018,Health worker density,,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,5.11774193184221
+2018,Health worker density,,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,6.18644686466808
+2018,Health worker density,,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,10.1903273172269
+2018,Health worker density,Males,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,70.9053271462005
+2018,Health worker density,Males,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,10.7044171304586
+2018,Health worker density,Males,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,24.1535566020605
+2018,Health worker density,Males,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,14.9434883017799
+2018,Health worker density,Males,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,43.7325759688824
+2018,Health worker density,Males,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,2.10428712820982
+2018,Health worker density,Males,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,6.00789223561355
+2018,Health worker density,Males,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,2.71422542624165
+2018,Health worker density,Males,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,4.20857425641964
+2018,Health worker density,Males,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,2.8972069156512
+2018,Health worker density,Males,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,1.31136734076844
+2018,Health worker density,Males,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,5.67242617169604
+2018,Health worker density,Males,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,4.54404032033715
+2018,Health worker density,Males,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,0.914907447047749
+2018,Health worker density,Males,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,5.24546936307376
+2018,Health worker density,Males,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,24.0925627722573
+2018,Health worker density,Males,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,3.78161744779736
+2018,Health worker density,Males,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,0.640435212933424
+2018,Health worker density,Males,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,1.89080872389868
+2018,Health worker density,Males,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,4.84900946935307
+2018,Health worker density,Males,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,3.78161744779736
+2018,Health worker density,Females,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,97.7846922552264
+2018,Health worker density,Females,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,45.9796106136277
+2018,Health worker density,Females,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,179.519617392573
+2018,Health worker density,Females,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,37.7169527270159
+2018,Health worker density,Females,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,37.5980655631797
+2018,Health worker density,Females,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,8.08432714085763
+2018,Health worker density,Females,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,11.4428895192286
+2018,Health worker density,Females,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,3.03162267782161
+2018,Health worker density,Females,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,5.73630565509383
+2018,Health worker density,Females,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,7.87627460414438
+2018,Health worker density,Females,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,3.358562378371
+2018,Health worker density,Females,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,15.7525492082887
+2018,Health worker density,Females,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,12.9289790671804
+2018,Health worker density,Females,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,14.7420083156815
+2018,Health worker density,Females,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,4.8743737172818
+2018,Health worker density,Females,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,13.434249513484
+2018,Health worker density,Females,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,166.917578025942
+2018,Health worker density,Females,223 Nursing and Midwifery Professionals,2232 Midwives,"Rate per 10,000 population",Normal value,Units,12.5723175756719
+2018,Health worker density,Females,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,3.53689312412521
+2018,Health worker density,Females,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,1.96163820329633
+2018,Health worker density,Females,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,8.26265788661184
+2018,Health worker density,Females,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,7.48989132167692
+2018,Health worker density,Females,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,16.4361504003465
+2019,Health worker density,,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,89.5102665610947
+2019,Health worker density,,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,30.4056449883899
+2019,Health worker density,,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,106.741629132063
+2019,Health worker density,,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,24.8514872874088
+2019,Health worker density,,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,44.3733785059516
+2019,Health worker density,,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,5.32959606886598
+2019,Health worker density,,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,10.4496012810911
+2019,Health worker density,,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,2.66479803443299
+2019,Health worker density,,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,6.13801794448049
+2019,Health worker density,,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,5.07509288580216
+2019,Health worker density,,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,1.81146383239546
+2019,Health worker density,,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,9.61123785452798
+2019,Health worker density,,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,10.9286660962701
+2019,Health worker density,,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,7.08117679936407
+2019,Health worker density,,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,2.99415509486853
+2019,Health worker density,,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,9.38667622241284
+2019,Health worker density,,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,100.049692495031
+2019,Health worker density,,223 Nursing and Midwifery Professionals,2232 Midwives,"Rate per 10,000 population",Normal value,Units,6.67696586155682
+2019,Health worker density,,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,4.25170023471331
+2019,Health worker density,,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,1.30245746626781
+2019,Health worker density,,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,4.94035590653307
+2019,Health worker density,,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,6.28772569922391
+2019,Health worker density,,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,8.06924798067069
+2019,Health worker density,Males,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,73.8365908005551
+2019,Health worker density,Males,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,12.3111523059652
+2019,Health worker density,Males,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,23.2577680262939
+2019,Health worker density,Males,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,14.9492563715292
+2019,Health worker density,Males,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,45.9697214183332
+2019,Health worker density,Males,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,1.97099729036389
+2019,Health worker density,Males,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,6.85300596341907
+2019,Health worker density,Males,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,2.48648888938214
+2019,Health worker density,Males,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,5.91299187109168
+2019,Health worker density,Males,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,2.21358157225483
+2019,Health worker density,Males,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,0.87936802185466
+2019,Health worker density,Males,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,4.42716314450967
+2019,Health worker density,Males,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,5.88266883585531
+2019,Health worker density,Males,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,1.24324444469107
+2019,Health worker density,Males,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,5.00330081400065
+2019,Health worker density,Males,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,23.2577680262939
+2019,Health worker density,Males,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,4.82136260258244
+2019,Health worker density,Males,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,1.00066016280013
+2019,Health worker density,Males,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,1.51615176181838
+2019,Health worker density,Males,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,5.21556206065522
+2019,Health worker density,Males,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,2.4258428189094
+2019,Health worker density,Females,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,104.794471251866
+2019,Health worker density,Females,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,48.0505123544816
+2019,Health worker density,Females,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,188.151021607117
+2019,Health worker density,Females,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,34.5076602570338
+2019,Health worker density,Females,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,42.8167027011011
+2019,Health worker density,Females,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,8.60473790471024
+2019,Health worker density,Females,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,13.9568257423478
+2019,Health worker density,Females,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,2.83867642217245
+2019,Health worker density,Females,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,6.38702194988801
+2019,Health worker density,Females,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,7.86549925310283
+2019,Health worker density,Females,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,2.72039823791526
+2019,Health worker density,Females,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,14.666494847891
+2019,Health worker density,Females,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,15.8492766904628
+2019,Health worker density,Females,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,12.774043899776
+2019,Health worker density,Females,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,5.79563102860209
+2019,Health worker density,Females,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,13.6611302817049
+2019,Health worker density,Females,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,174.963004062441
+2019,Health worker density,Females,223 Nursing and Midwifery Professionals,2232 Midwives,"Rate per 10,000 population",Normal value,Units,13.1880175446761
+2019,Health worker density,Females,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,3.72576280410134
+2019,Health worker density,Females,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,1.596755487472
+2019,Health worker density,Females,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,8.27947289800298
+2019,Health worker density,Females,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,7.3332474239455
+2019,Health worker density,Females,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,13.572421643512
+2020,Health worker density,,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,95.4663416000964
+2020,Health worker density,,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,33.153832560683
+2020,Health worker density,,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,100.132326128645
+2020,Health worker density,,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,26.8778597603019
+2020,Health worker density,,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,47.897151086994
+2020,Health worker density,,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,5.11320349294707
+2020,Health worker density,,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,10.8525135360509
+2020,Health worker density,,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,3.68210280687442
+2020,Health worker density,,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,6.85735745409811
+2020,Health worker density,,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,4.9641305048145
+2020,Health worker density,,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,2.14665102910897
+2020,Health worker density,,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,9.70465152743016
+2020,Health worker density,,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,11.5680638790872
+2020,Health worker density,,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,7.05115233867045
+2020,Health worker density,,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,3.45849332467557
+2020,Health worker density,,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,11.0761230182497
+2020,Health worker density,,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,92.9619153994692
+2020,Health worker density,,223 Nursing and Midwifery Professionals,2232 Midwives,"Rate per 10,000 population",Normal value,Units,7.1704107291765
+2020,Health worker density,,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,5.26227648107964
+2020,Health worker density,,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,1.72924666233778
+2020,Health worker density,,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,4.26348746059143
+2020,Health worker density,,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,6.90207935053788
+2020,Health worker density,,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,8.72076980575521
+2020,Health worker density,Males,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,79.0750923445324
+2020,Health worker density,Males,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,14.0289652576144
+2020,Health worker density,Males,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,25.0107789216396
+2020,Health worker density,Males,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,17.4984942998202
+2020,Health worker density,Males,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,47.5476327870977
+2020,Health worker density,Males,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,1.87052870101526
+2020,Health worker density,Males,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,7.93466207043572
+2020,Health worker density,Males,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,2.68511378048965
+2020,Health worker density,Males,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,7.05973735544471
+2020,Health worker density,Males,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,2.38341560290654
+2020,Health worker density,Males,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,1.1464530748158
+2020,Health worker density,Males,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,4.64615193477985
+2020,Health worker density,Males,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,6.93905808441146
+2020,Health worker density,Males,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,1.08611343929918
+2020,Health worker density,Males,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,0.452547266374661
+2020,Health worker density,Males,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,5.55124646752917
+2020,Health worker density,Males,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,25.0107789216396
+2020,Health worker density,Males,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,5.46073701425424
+2020,Health worker density,Males,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,0.935264350507632
+2020,Health worker density,Males,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,1.65933997670709
+2020,Health worker density,Males,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,6.54685045355342
+2020,Health worker density,Males,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,2.89630250479783
+2020,Health worker density,Females,221 Health Professionals,,"Rate per 10,000 population",Normal value,Units,111.476100634954
+2020,Health worker density,Females,222 Therapy Professionals,,"Rate per 10,000 population",Normal value,Units,51.8335873689886
+2020,Health worker density,Females,223 Nursing and Midwifery Professionals,,"Rate per 10,000 population",Normal value,Units,173.505493137353
+2020,Health worker density,Females,321 Health Associate Professionals,,"Rate per 10,000 population",Normal value,Units,36.068397350564
+2020,Health worker density,Females,221 Health Professionals,2211 Medical practitioners,"Rate per 10,000 population",Normal value,Units,48.2385346918899
+2020,Health worker density,Females,221 Health Professionals,2212 Psychologists,"Rate per 10,000 population",Normal value,Units,8.28040821528472
+2020,Health worker density,Females,221 Health Professionals,2213 Pharmacists,"Rate per 10,000 population",Normal value,Units,13.702454875827
+2020,Health worker density,Females,221 Health Professionals,2214 Ophthalmic opticians,"Rate per 10,000 population",Normal value,Units,4.65588789329176
+2020,Health worker density,Females,221 Health Professionals,2215 Dental practitioners,"Rate per 10,000 population",Normal value,Units,6.65968774610087
+2020,Health worker density,Females,221 Health Professionals,2217 Medical radiographers,"Rate per 10,000 population",Normal value,Units,7.48478180313992
+2020,Health worker density,Females,221 Health Professionals,2218 Podiatrists,"Rate per 10,000 population",Normal value,Units,3.12357035879067
+2020,Health worker density,Females,221 Health Professionals,2219 Health professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,14.645419512443
+2020,Health worker density,Females,222 Therapy Professionals,2221 Physiotherapists,"Rate per 10,000 population",Normal value,Units,16.0598664673671
+2020,Health worker density,Females,222 Therapy Professionals,2222 Occupational therapists,"Rate per 10,000 population",Normal value,Units,12.9068284636822
+2020,Health worker density,Females,222 Therapy Professionals,2223 Speech and language therapists,"Rate per 10,000 population",Normal value,Units,6.39447894205261
+2020,Health worker density,Females,222 Therapy Professionals,2229 Therapy professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,16.4724134958866
+2020,Health worker density,Females,223 Nursing and Midwifery Professionals,2231 Nurses,"Rate per 10,000 population",Normal value,Units,159.331555943218
+2020,Health worker density,Females,223 Nursing and Midwifery Professionals,2232 Midwives,"Rate per 10,000 population",Normal value,Units,14.173937194135
+2020,Health worker density,Females,321 Health Associate Professionals,3213 Paramedics,"Rate per 10,000 population",Normal value,Units,5.06843492181128
+2020,Health worker density,Females,321 Health Associate Professionals,3216 Dispensing opticians,"Rate per 10,000 population",Normal value,Units,2.50474981601139
+2020,Health worker density,Females,321 Health Associate Professionals,3217 Pharmaceutical technicians,"Rate per 10,000 population",Normal value,Units,6.80702597057213
+2020,Health worker density,Females,321 Health Associate Professionals,3218 Medical and dental technicians,"Rate per 10,000 population",Normal value,Units,7.24904064398591
+2020,Health worker density,Females,321 Health Associate Professionals,3219 Health associate professionals n.e.c.,"Rate per 10,000 population",Normal value,Units,14.4391459981833
