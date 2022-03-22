@@ -16113,7 +16113,41 @@
         "fields": [
           {
             "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Liquid assets to short term liabilities (%)",
+                "Net open position in foreign exchange to capital (%)",
+                "Non-performing loans to total gross loans (%)",
+                "Regulatory capital to assets (%)",
+                "Regulatory Tier 1 capital to risk-weighted assets (%)",
+                "Return on assets (%)",
+                "Non-performing loans net of provisions to capital (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
             "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
