@@ -16678,6 +16678,17 @@
             "type": "string"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "WHO Child Growth Standards",
+                "BMI classifications",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Country",
             "type": "string",
             "constraints": {
@@ -16695,13 +16706,31 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Any other ethnic group",
+                "White - British",
+                "White - Irish",
+                "Any other White background",
+                "Indian",
+                "Pakistani",
+                "Bangladeshi",
+                "Chinese",
+                "Any other Asian background",
+                "Black - African",
+                "Black - Caribbean",
+                "Any other Black background",
+                "White and Black Caribbean",
+                "White and Black African",
+                "White and Asian",
+                "Any other Mixed background",
+                "Any other Ethnic group",
+                "Not stated / Invalid",
+                "White",
                 "Asian",
                 "Black",
-                "Chinese",
                 "Mixed",
+                "Any other ethnic group",
                 "Not stated",
-                "White",
+                "Chinese or other",
+                "Not known",
                 ""
               ]
             }
@@ -16718,13 +16747,69 @@
             }
           },
           {
-            "name": "BMI",
+            "name": "Type (wasting or overweight)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wasting",
+                "Overweight",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "BMI Classifications",
             "type": "string",
             "constraints": {
               "enum": [
                 "Obese",
                 "Overweight",
                 "Underweight",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "IMD Deciles (England)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1 (Most deprived)",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10 (Least deprived)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "IMD Quintiles",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1 (Most deprived)",
+                "2",
+                "3",
+                "4",
+                "5 (Least deprived)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Urban or rural",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                "Not classified",
                 ""
               ]
             }
@@ -16738,8 +16823,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",

@@ -65,7 +65,7 @@ Indicator,Disaggregations,Number of disaggregations
 #2-1-1,"Age, Sex",2
 #2-1-2,"Age, Ethnicity, Country, Region, Ethnic group, Highest qualification, Tenure sub-category, Food security level, Age group, Household composition - children, Number of adults, Number of children, Household composition - adults over State Pension age, Household composition - disabled adults, Household composition - unemployed adults, State support, State support detail, Total gross weekly income, Tenure",19
 #2-2-1,"Sex, Ethnicity, Index of Multiple Deprivation (IMD), Rural or Urban",4
-#2-2-2,"Sex, Ethnicity, Country, BMI",4
+#2-2-2,"Sex, Ethnicity, Urban or rural, Country, Type (wasting or overweight), BMI Classifications, IMD Deciles (England), IMD Quintiles",8
 #2-3-1,"Productivity, Outputs, Inputs",3
 #2-3-2,Sex,1
 #2-a-2,Country income classification,1

@@ -1,4 +1,8 @@
 From,To
-Country,BMI
-BMI,Ethnicity
-BMI,Sex
+Country,Ethnicity
+Country,Sex
+Country,Type (wasting or overweight)
+Country,BMI Classifications
+Country,IMD Quintiles
+Type (wasting or overweight),Urban or rural
+BMI Classifications,IMD Deciles (England)

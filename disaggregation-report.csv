@@ -14,7 +14,7 @@ Bank account category,1,20
 Beverage,1,4
 Bioenergy,2,2
 Birthweight (grams),1,12
-BMI,1,3
+BMI Classifications,1,3
 Cause of death,3,10
 Chronic respiratory disease type,1,8
 Citizenship,1,4
@@ -48,7 +48,7 @@ Employment status,2,14
 Ethnic group,9,39
 Ethnic Group,1,4
 Ethnicity of household reference person (HRP),1,5
-Ethnicity,18,35
+Ethnicity,18,36
 Exposure category,1,3
 Facility type,1,3
 Fatality,1,2
@@ -74,6 +74,8 @@ Household composition - unemployed adults,1,1
 Household income,8,34
 Household Waste disposal routes,1,5
 IHR core capacity,1,13
+IMD Deciles (England),1,10
+IMD Quintiles,1,5
 Import type,2,10
 Income group,1,1
 Income quartile,1,4
@@ -166,9 +168,10 @@ Type of Neglected Tropical Disease (NTD),1,2
 Type of partner abuse,1,3
 Type of study,1,5
 Type of violence,1,5
+Type (wasting or overweight),1,2
 Types of contraception,1,10
 Unintentional poisoning category,1,6
-Urban or rural,5,2
+Urban or rural,6,3
 Urban or Rural,3,2
 Urbanisation (default),1,1
 Urbanisation sub-category,1,6

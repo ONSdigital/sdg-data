@@ -18099,6 +18099,18 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "WHO Child Growth Standards",
+                "BMI classifications",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Country",
             "type": "string",
             "constraints": {
@@ -18117,13 +18129,31 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Any other ethnic group",
+                "White - British",
+                "White - Irish",
+                "Any other White background",
+                "Indian",
+                "Pakistani",
+                "Bangladeshi",
+                "Chinese",
+                "Any other Asian background",
+                "Black - African",
+                "Black - Caribbean",
+                "Any other Black background",
+                "White and Black Caribbean",
+                "White and Black African",
+                "White and Asian",
+                "Any other Mixed background",
+                "Any other Ethnic group",
+                "Not stated / Invalid",
+                "White",
                 "Asian",
                 "Black",
-                "Chinese",
                 "Mixed",
+                "Any other ethnic group",
                 "Not stated",
-                "White",
+                "Chinese or other",
+                "Not known",
                 ""
               ]
             },
@@ -18142,7 +18172,19 @@
             "title": "Sex"
           },
           {
-            "name": "BMI",
+            "name": "Type (wasting or overweight)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wasting",
+                "Overweight",
+                ""
+              ]
+            },
+            "title": "Type (wasting or overweight)"
+          },
+          {
+            "name": "BMI Classifications",
             "type": "string",
             "constraints": {
               "enum": [
@@ -18152,7 +18194,55 @@
                 ""
               ]
             },
-            "title": "BMI"
+            "title": "BMI Classifications"
+          },
+          {
+            "name": "IMD Deciles (England)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1 (Most deprived)",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10 (Least deprived)",
+                ""
+              ]
+            },
+            "title": "IMD Deciles (England)"
+          },
+          {
+            "name": "IMD Quintiles",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1 (Most deprived)",
+                "2",
+                "3",
+                "4",
+                "5 (Least deprived)",
+                ""
+              ]
+            },
+            "title": "IMD Quintiles"
+          },
+          {
+            "name": "Urban or rural",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                "Not classified",
+                ""
+              ]
+            },
+            "title": "Urban or rural"
           },
           {
             "name": "Observation status",
@@ -18165,9 +18255,15 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "GeoCode",
