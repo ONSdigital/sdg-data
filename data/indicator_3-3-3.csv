@@ -119,18 +119,18 @@ Year,Series,Country,Country of birth,Sex,Age,Ethnic Group,Fatality,Malaria speci
 2017,Number of cases,England,,,,,,,,,Normal value,Units,Number,E92000001,1708.0
 2018,Number of cases,England,,,,,,,,,Normal value,Units,Number,E92000001,1597.0
 2019,Number of cases,England,,,,,,,,,Normal value,Units,Number,E92000001,1626.0
-2014,"Rate per 100,000 population",Northern Ireland,,,,,,,,,Normal value,Units,"Rate per 100,000 population",N92000002,0.10866624141944192
-2015,"Rate per 100,000 population",Northern Ireland,,,,,,,,,Normal value,Units,"Rate per 100,000 population",N92000002,0.5940740572719795
-2016,"Rate per 100,000 population",Northern Ireland,,,,,,,,,Normal value,Units,"Rate per 100,000 population",N92000002,0.3222104496070912
-2017,"Rate per 100,000 population",Northern Ireland,,,,,,,,,Normal value,Units,"Rate per 100,000 population",N92000002,0.5345209676539981
-2018,"Rate per 100,000 population",Northern Ireland,,,,,,,,,Normal value,Units,"Rate per 100,000 population",N92000002,0.5845961052081667
-2019,"Rate per 100,000 population",Northern Ireland,,,,,,,,,Normal value,Units,"Rate per 100,000 population",N92000002,0.5280759499954322
-2014,Number of cases,Northern Ireland,,,,,,,,,Normal value,Units,Number,N92000002,2.0
-2015,Number of cases,Northern Ireland,,,,,,,,,Normal value,Units,Number,N92000002,11.0
-2016,Number of cases,Northern Ireland,,,,,,,,,Normal value,Units,Number,N92000002,6.0
-2017,Number of cases,Northern Ireland,,,,,,,,,Normal value,Units,Number,N92000002,10.0
-2018,Number of cases,Northern Ireland,,,,,,,,,Normal value,Units,Number,N92000002,11.0
-2019,Number of cases,Northern Ireland,,,,,,,,,Normal value,Units,Number,N92000002,10.0
+2014,"Rate per 100,000 population",Northern Ireland,,,,,,,,,Normal value,Units,"Rate per 100,000 population",,0.10866624141944192
+2015,"Rate per 100,000 population",Northern Ireland,,,,,,,,,Normal value,Units,"Rate per 100,000 population",,0.5940740572719795
+2016,"Rate per 100,000 population",Northern Ireland,,,,,,,,,Normal value,Units,"Rate per 100,000 population",,0.3222104496070912
+2017,"Rate per 100,000 population",Northern Ireland,,,,,,,,,Normal value,Units,"Rate per 100,000 population",,0.5345209676539981
+2018,"Rate per 100,000 population",Northern Ireland,,,,,,,,,Normal value,Units,"Rate per 100,000 population",,0.5845961052081667
+2019,"Rate per 100,000 population",Northern Ireland,,,,,,,,,Normal value,Units,"Rate per 100,000 population",,0.5280759499954322
+2014,Number of cases,Northern Ireland,,,,,,,,,Normal value,Units,Number,,2.0
+2015,Number of cases,Northern Ireland,,,,,,,,,Normal value,Units,Number,,11.0
+2016,Number of cases,Northern Ireland,,,,,,,,,Normal value,Units,Number,,6.0
+2017,Number of cases,Northern Ireland,,,,,,,,,Normal value,Units,Number,,10.0
+2018,Number of cases,Northern Ireland,,,,,,,,,Normal value,Units,Number,,11.0
+2019,Number of cases,Northern Ireland,,,,,,,,,Normal value,Units,Number,,10.0
 2014,"Rate per 100,000 population",Scotland,,,,,,,,,Normal value,Units,"Rate per 100,000 population",S92000003,1.4211982945620465
 2015,"Rate per 100,000 population",Scotland,,,,,,,,,Normal value,Units,"Rate per 100,000 population",S92000003,0.9119672436255352
 2016,"Rate per 100,000 population",Scotland,,,,,,,,,Normal value,Units,"Rate per 100,000 population",S92000003,1.0731400447758432
