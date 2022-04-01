@@ -16,13 +16,25 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic material consumption",
+                "Domestic material consumption per capita",
+                "Domestic material consumption per unit of GDP",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Domestic material consumption (Million metric tonnes)",
-                "Domestic material consumption per capita (Tonnes)",
-                "Domestic material consumption per GDP (Tonnes per £m)",
+                "Metric tons",
+                "Kilograms per constant USD",
                 ""
               ]
             },
@@ -51,11 +63,6 @@
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
           },
           {
             "name": "Value",
