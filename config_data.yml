@@ -129,3 +129,5 @@ indicator_downloads:
     indicator_id_pattern: indicator_(.*)
 
 indicator_export_filename: big_package
+logging:
+  - debug
