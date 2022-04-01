@@ -128,3 +128,4 @@ indicator_downloads:
     output_folder: data-xml
     indicator_id_pattern: indicator_(.*)
 
+indicator_export_filename: big_package
