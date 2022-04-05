@@ -16,18 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Country",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "England",
-                "Northern Ireland",
-                "Scotland",
-                "Wales",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Country"
+            "title": "Sex"
           },
           {
             "name": "Age",
@@ -57,35 +55,38 @@
             "title": "Age"
           },
           {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
+                "England and Wales",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "East",
-                "East Midlands",
-                "London",
                 "North East",
                 "North West",
+                "Yorkshire and The Humber",
+                "East Midlands",
+                "West Midlands",
+                "East",
+                "London",
                 "South East",
                 "South West",
-                "West Midlands",
-                "Yorkshire and The Humber",
                 ""
               ]
             },
             "title": "Region"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "Observation status",
