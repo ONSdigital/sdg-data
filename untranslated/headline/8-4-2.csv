@@ -1,58 +1,61 @@
-Year,Value,Units,Series,Observation status,Unit multiplier,Unit measure
-2000,738.8485,Million metric tonnes,Domestic material consumption,Undefined,Units,Million metric tonnes
-2001,743.2789,Million metric tonnes,Domestic material consumption,Undefined,Units,Million metric tonnes
-2002,721.972,Million metric tonnes,Domestic material consumption,Undefined,Units,Million metric tonnes
-2003,723.0251,Million metric tonnes,Domestic material consumption,Undefined,Units,Million metric tonnes
-2004,751.9634,Million metric tonnes,Domestic material consumption,Undefined,Units,Million metric tonnes
-2005,732.6655,Million metric tonnes,Domestic material consumption,Undefined,Units,Million metric tonnes
-2006,724.2632,Million metric tonnes,Domestic material consumption,Undefined,Units,Million metric tonnes
-2007,718.9227,Million metric tonnes,Domestic material consumption,Undefined,Units,Million metric tonnes
-2008,674.9295,Million metric tonnes,Domestic material consumption,Undefined,Units,Million metric tonnes
-2009,591.6201,Million metric tonnes,Domestic material consumption,Undefined,Units,Million metric tonnes
-2010,575.3487,Million metric tonnes,Domestic material consumption,Undefined,Units,Million metric tonnes
-2011,575.5522,Million metric tonnes,Domestic material consumption,Undefined,Units,Million metric tonnes
-2012,557.4719,Million metric tonnes,Domestic material consumption,Undefined,Units,Million metric tonnes
-2013,572.7743,Million metric tonnes,Domestic material consumption,Undefined,Units,Million metric tonnes
-2014,588.3881,Million metric tonnes,Domestic material consumption,Undefined,Units,Million metric tonnes
-2015,566.5515,Million metric tonnes,Domestic material consumption,Undefined,Units,Million metric tonnes
-2016,558.3661,Million metric tonnes,Domestic material consumption,Undefined,Units,Million metric tonnes
-2017,569.638,Million metric tonnes,Domestic material consumption,Undefined,Units,Million metric tonnes
-2018,565.6744,Million metric tonnes,Domestic material consumption,Undefined,Units,Million metric tonnes
-2000,12.5,Tonnes,Domestic material consumption per capita,Undefined,Units,DMC per capita (Tonnes)
-2001,12.6,Tonnes,Domestic material consumption per capita,Undefined,Units,DMC per capita (Tonnes)
-2002,12.2,Tonnes,Domestic material consumption per capita,Undefined,Units,DMC per capita (Tonnes)
-2003,12.1,Tonnes,Domestic material consumption per capita,Undefined,Units,DMC per capita (Tonnes)
-2004,12.5,Tonnes,Domestic material consumption per capita,Undefined,Units,DMC per capita (Tonnes)
-2005,12.1,Tonnes,Domestic material consumption per capita,Undefined,Units,DMC per capita (Tonnes)
-2006,11.9,Tonnes,Domestic material consumption per capita,Undefined,Units,DMC per capita (Tonnes)
-2007,11.7,Tonnes,Domestic material consumption per capita,Undefined,Units,DMC per capita (Tonnes)
-2008,10.9,Tonnes,Domestic material consumption per capita,Undefined,Units,DMC per capita (Tonnes)
-2009,9.5,Tonnes,Domestic material consumption per capita,Undefined,Units,DMC per capita (Tonnes)
-2010,9.2,Tonnes,Domestic material consumption per capita,Undefined,Units,DMC per capita (Tonnes)
-2011,9.1,Tonnes,Domestic material consumption per capita,Undefined,Units,DMC per capita (Tonnes)
-2012,8.8,Tonnes,Domestic material consumption per capita,Undefined,Units,DMC per capita (Tonnes)
-2013,8.9,Tonnes,Domestic material consumption per capita,Undefined,Units,DMC per capita (Tonnes)
-2014,9.1,Tonnes,Domestic material consumption per capita,Undefined,Units,DMC per capita (Tonnes)
-2015,8.7,Tonnes,Domestic material consumption per capita,Undefined,Units,DMC per capita (Tonnes)
-2016,8.5,Tonnes,Domestic material consumption per capita,Undefined,Units,DMC per capita (Tonnes)
-2017,8.6,Tonnes,Domestic material consumption per capita,Undefined,Units,DMC per capita (Tonnes)
-2018,8.5,Tonnes,Domestic material consumption per capita,Undefined,Units,DMC per capita (Tonnes)
-2000,491.44909432436174,Tonnes per £m,Domestic material consumption per GDP,Undefined,Units,Tonnes of DMC per GDP (£m)
-2001,480.1158692714537,Tonnes per £m,Domestic material consumption per GDP,Undefined,Units,Tonnes of DMC per GDP (£m)
-2002,455.758754126923,Tonnes per £m,Domestic material consumption per GDP,Undefined,Units,Tonnes of DMC per GDP (£m)
-2003,441.90123391899,Tonnes per £m,Domestic material consumption per GDP,Undefined,Units,Tonnes of DMC per GDP (£m)
-2004,448.9304249345228,Tonnes per £m,Domestic material consumption per GDP,Undefined,Units,Tonnes of DMC per GDP (£m)
-2005,423.9292634902009,Tonnes per £m,Domestic material consumption per GDP,Undefined,Units,Tonnes of DMC per GDP (£m)
-2006,407.69979881359694,Tonnes per £m,Domestic material consumption per GDP,Undefined,Units,Tonnes of DMC per GDP (£m)
-2007,395.0904051953105,Tonnes per £m,Domestic material consumption per GDP,Undefined,Units,Tonnes of DMC per GDP (£m)
-2008,371.9591232090364,Tonnes per £m,Domestic material consumption per GDP,Undefined,Units,Tonnes of DMC per GDP (£m)
-2009,340.5109678102596,Tonnes per £m,Domestic material consumption per GDP,Undefined,Units,Tonnes of DMC per GDP (£m)
-2010,324.8133455200949,Tonnes per £m,Domestic material consumption per GDP,Undefined,Units,Tonnes of DMC per GDP (£m)
-2011,319.99957744983186,Tonnes per £m,Domestic material consumption per GDP,Undefined,Units,Tonnes of DMC per GDP (£m)
-2012,305.42991358774145,Tonnes per £m,Domestic material consumption per GDP,Undefined,Units,Tonnes of DMC per GDP (£m)
-2013,307.2403185186576,Tonnes per £m,Domestic material consumption per GDP,Undefined,Units,Tonnes of DMC per GDP (£m)
-2014,307.5950432492396,Tonnes per £m,Domestic material consumption per GDP,Undefined,Units,Tonnes of DMC per GDP (£m)
-2015,289.3639678842854,Tonnes per £m,Domestic material consumption per GDP,Undefined,Units,Tonnes of DMC per GDP (£m)
-2016,279.8157133278342,Tonnes per £m,Domestic material consumption per GDP,Undefined,Units,Tonnes of DMC per GDP (£m)
-2017,280.16352274258645,Tonnes per £m,Domestic material consumption per GDP,Undefined,Units,Tonnes of DMC per GDP (£m)
-2018,274.53338859516214,Tonnes per £m,Domestic material consumption per GDP,Undefined,Units,Tonnes of DMC per GDP (£m)
+Year,Value,Units,Series,Observation status,Unit multiplier
+2000,738.8485,Tonnes,Domestic material consumption,Normal value,Millions
+2001,743.2789,Tonnes,Domestic material consumption,Normal value,Millions
+2002,721.972,Tonnes,Domestic material consumption,Normal value,Millions
+2003,723.0251,Tonnes,Domestic material consumption,Normal value,Millions
+2004,751.9634,Tonnes,Domestic material consumption,Normal value,Millions
+2005,732.6655,Tonnes,Domestic material consumption,Normal value,Millions
+2006,724.2632,Tonnes,Domestic material consumption,Normal value,Millions
+2007,718.9227,Tonnes,Domestic material consumption,Normal value,Millions
+2008,674.9295,Tonnes,Domestic material consumption,Normal value,Millions
+2009,591.6201,Tonnes,Domestic material consumption,Normal value,Millions
+2010,575.3487,Tonnes,Domestic material consumption,Normal value,Millions
+2011,575.5522,Tonnes,Domestic material consumption,Normal value,Millions
+2012,557.4719,Tonnes,Domestic material consumption,Normal value,Millions
+2013,572.7743,Tonnes,Domestic material consumption,Normal value,Millions
+2014,588.3881,Tonnes,Domestic material consumption,Normal value,Millions
+2015,566.5515,Tonnes,Domestic material consumption,Normal value,Millions
+2016,558.3661,Tonnes,Domestic material consumption,Normal value,Millions
+2017,569.638,Tonnes,Domestic material consumption,Normal value,Millions
+2018,565.6744,Tonnes,Domestic material consumption,Normal value,Millions
+2019,566.7899,Tonnes,Domestic material consumption,Normal value,Millions
+2000,12.5,Tonnes,Domestic material consumption per capita,Normal value,Units
+2001,12.6,Tonnes,Domestic material consumption per capita,Normal value,Units
+2002,12.2,Tonnes,Domestic material consumption per capita,Normal value,Units
+2003,12.1,Tonnes,Domestic material consumption per capita,Normal value,Units
+2004,12.5,Tonnes,Domestic material consumption per capita,Normal value,Units
+2005,12.1,Tonnes,Domestic material consumption per capita,Normal value,Units
+2006,11.9,Tonnes,Domestic material consumption per capita,Normal value,Units
+2007,11.7,Tonnes,Domestic material consumption per capita,Normal value,Units
+2008,10.9,Tonnes,Domestic material consumption per capita,Normal value,Units
+2009,9.5,Tonnes,Domestic material consumption per capita,Normal value,Units
+2010,9.2,Tonnes,Domestic material consumption per capita,Normal value,Units
+2011,9.1,Tonnes,Domestic material consumption per capita,Normal value,Units
+2012,8.8,Tonnes,Domestic material consumption per capita,Normal value,Units
+2013,8.9,Tonnes,Domestic material consumption per capita,Normal value,Units
+2014,9.1,Tonnes,Domestic material consumption per capita,Normal value,Units
+2015,8.7,Tonnes,Domestic material consumption per capita,Normal value,Units
+2016,8.5,Tonnes,Domestic material consumption per capita,Normal value,Units
+2017,8.6,Tonnes,Domestic material consumption per capita,Normal value,Units
+2018,8.5,Tonnes,Domestic material consumption per capita,Normal value,Units
+2019,8.485285223244228,Tonnes,Domestic material consumption per capita,Normal value,Units
+2000,225.78715161168867,Tonnes per $m,Domestic material consumption per unit of GDP,Normal value,Units
+2001,236.91811289248335,Tonnes per $m,Domestic material consumption per unit of GDP,Normal value,Units
+2002,219.30871120010315,Tonnes per $m,Domestic material consumption per unit of GDP,Normal value,Units
+2003,199.00891115292737,Tonnes per $m,Domestic material consumption per unit of GDP,Normal value,Units
+2004,185.00461834873764,Tonnes per $m,Domestic material consumption per unit of GDP,Normal value,Units
+2005,181.59592444715952,Tonnes per $m,Domestic material consumption per unit of GDP,Normal value,Units
+2006,177.7374393470094,Tonnes per $m,Domestic material consumption per unit of GDP,Normal value,Units
+2007,162.64364696310022,Tonnes per $m,Domestic material consumption per unit of GDP,Normal value,Units
+2008,172.65631029789475,Tonnes per $m,Domestic material consumption per unit of GDP,Normal value,Units
+2009,184.47724461255984,Tonnes per $m,Domestic material consumption per unit of GDP,Normal value,Units
+2010,180.05327115061235,Tonnes per $m,Domestic material consumption per unit of GDP,Normal value,Units
+2011,174.4619578520407,Tonnes per $m,Domestic material consumption per unit of GDP,Normal value,Units
+2012,171.69827676037542,Tonnes per $m,Domestic material consumption per unit of GDP,Normal value,Units
+2013,178.11409301814066,Tonnes per $m,Domestic material consumption per unit of GDP,Normal value,Units
+2014,172.47587656311867,Tonnes per $m,Domestic material consumption per unit of GDP,Normal value,Units
+2015,176.49939626826756,Tonnes per $m,Domestic material consumption per unit of GDP,Normal value,Units
+2016,195.25964807311613,Tonnes per $m,Domestic material consumption per unit of GDP,Normal value,Units
+2017,208.74707576139664,Tonnes per $m,Domestic material consumption per unit of GDP,Normal value,Units
+2018,202.20795008221344,Tonnes per $m,Domestic material consumption per unit of GDP,Normal value,Units
+2019,212.5544518331731,Tonnes per $m,Domestic material consumption per unit of GDP,Normal value,Units

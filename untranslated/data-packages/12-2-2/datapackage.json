@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Metric tons",
-                "Kilograms per constant USD",
+                "Tonnes",
+                "Tonnes per $m",
                 ""
               ]
             }

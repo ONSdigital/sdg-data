@@ -22,7 +22,7 @@
               "enum": [
                 "Domestic material consumption",
                 "Domestic material consumption per capita",
-                "Domestic material consumption per GDP",
+                "Domestic material consumption per unit of GDP",
                 ""
               ]
             },
@@ -33,9 +33,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million metric tonnes",
                 "Tonnes",
-                "Tonnes per £m",
+                "Tonnes per $m",
                 ""
               ]
             },
@@ -64,11 +63,6 @@
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
           },
           {
             "name": "Value",
