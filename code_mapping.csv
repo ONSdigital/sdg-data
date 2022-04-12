@@ -84,3 +84,13 @@ Area 1: Overarching legal frameworks and public life,SERIES,SG_LGL_GENEQLFP
 Area 2: Violence against women,SERIES,SG_LGL_GENEQVAW
 Area 3: Employment and economic benefits,SERIES,SG_LGL_GENEQEMP
 Area 4: Marriage and family,SERIES,SG_LGL_GENEQMAR
+Metric tons,UNIT_MEASURE,T
+Kilograms per constant USD,UNIT_MEASURE,KG_PER_CON_USD
+Domestic material consumption,SERIES,EN_MAT_DOMCMPT
+Domestic material consumption per capita,SERIES,EN_MAT_DOMCMPC
+Domestic material consumption per unit of GDP,SERIES,EN_MAT_DOMCMPG
+Biomass,PRODUCT,MF1
+Metal ores,PRODUCT,MF2
+Non-metallic minerals,PRODUCT,MF3
+Fossil fuels,PRODUCT,MF4
+Millions,UNIT_MULT,6
