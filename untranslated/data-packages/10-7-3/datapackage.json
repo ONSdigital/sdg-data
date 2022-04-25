@@ -12,7 +12,78 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Cause of death",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Drowning",
+                "Sickness/lack of acess to adequate healthcare",
+                "Vehicle accident/death linked to hazardous transport",
+                "Violence",
+                "Mixed or Unknown",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region of origin",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Eastern Africa",
+                "Europe",
+                "Middle Africa",
+                "Northern Africa",
+                "Sub-Saharan Africa",
+                "Southern Asia",
+                "Western Africa",
+                "Western Asia",
+                "Unknown",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under 18",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

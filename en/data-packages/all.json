@@ -17809,7 +17809,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -17818,15 +17818,16 @@
             "title": "Year"
           },
           {
-            "name": "Use a smartphone",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Yes",
+                "Percentage of individuals who use a mobile telephone",
+                "Percentage of individuals who use a smartphone",
                 ""
               ]
             },
-            "title": "Use a smartphone"
+            "title": "Series"
           },
           {
             "name": "Sex",
@@ -17848,6 +17849,7 @@
                 "16 to 24",
                 "25 to 34",
                 "35 to 54",
+                "55 +",
                 "55 to 64",
                 "65 and over",
                 ""
@@ -17870,6 +17872,69 @@
             "title": "Country"
           },
           {
+            "name": "Deprivation level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Low",
+                "Medium/high",
+                ""
+              ]
+            },
+            "title": "Deprivation level"
+          },
+          {
+            "name": "Household income (£)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under 10.4K",
+                "Under 11.5K",
+                "10.4K- 15.59K",
+                "11.5K- 17.5K",
+                "15.6K- 25.99K",
+                "17.5K- 29.9K",
+                "26K+",
+                "30K+",
+                ""
+              ]
+            },
+            "title": "Household income (£)"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "London",
+                "South East",
+                "South West",
+                "East Midlands",
+                "West Midlands",
+                "East of England",
+                "Yorkshire and the Humber",
+                "North East",
+                "North West",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Socio-economic classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AB",
+                "DE",
+                "C2",
+                "C1",
+                ""
+              ]
+            },
+            "title": "Socio-economic classification"
+          },
+          {
             "name": "Urban or rural",
             "type": "string",
             "constraints": {
@@ -17882,18 +17947,16 @@
             "title": "Urban or rural"
           },
           {
-            "name": "Socio-economic classification",
+            "name": "Working status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Higher and intermediate managerial, administrative, professional occupations",
-                "Semi-skilled and unskilled manual occupations, unemployed and lowest grade occupations",
-                "Skilled manual occupations",
-                "Supervisory, clerical and junior managerial, administrative, professional occupations",
+                "Working",
+                "Not-working",
                 ""
               ]
             },
-            "title": "Socio-economic classification"
+            "title": "Working status"
           },
           {
             "name": "Unit measure",
@@ -17917,7 +17980,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -20690,6 +20753,108 @@
       "title": "Manufacturing value added as a proportion of GDP and per capita"
     },
     {
+      "path": "10-7-3/data.csv",
+      "name": "10-7-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Cause of death",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Drowning",
+                "Sickness/lack of acess to adequate healthcare",
+                "Vehicle accident/death linked to hazardous transport",
+                "Violence",
+                "Mixed or Unknown",
+                ""
+              ]
+            },
+            "title": "Cause of death"
+          },
+          {
+            "name": "Region of origin",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Eastern Africa",
+                "Europe",
+                "Middle Africa",
+                "Northern Africa",
+                "Sub-Saharan Africa",
+                "Southern Asia",
+                "Western Africa",
+                "Western Asia",
+                "Unknown",
+                ""
+              ]
+            },
+            "title": "Region of origin"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under 18",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of people who died or disappeared in the process of migration towards an international destination"
+    },
+    {
       "path": "8-3-1/data.csv",
       "name": "8-3-1",
       "profile": "tabular-data-resource",
@@ -23050,30 +23215,6 @@
         ]
       },
       "title": "Amount in United States dollars committed to public-private partnerships for infrastructure"
-    },
-    {
-      "path": "10-7-3/data.csv",
-      "name": "10-7-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of people who died or disappeared in the process of migration towards an international destination"
     },
     {
       "path": "6-3-1/data.csv",

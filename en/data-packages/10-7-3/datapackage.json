@@ -12,8 +12,86 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Cause of death",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Drowning",
+                "Sickness/lack of acess to adequate healthcare",
+                "Vehicle accident/death linked to hazardous transport",
+                "Violence",
+                "Mixed or Unknown",
+                ""
+              ]
+            },
+            "title": "Cause of death"
+          },
+          {
+            "name": "Region of origin",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Eastern Africa",
+                "Europe",
+                "Middle Africa",
+                "Northern Africa",
+                "Sub-Saharan Africa",
+                "Southern Asia",
+                "Western Africa",
+                "Western Asia",
+                "Unknown",
+                ""
+              ]
+            },
+            "title": "Region of origin"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under 18",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
