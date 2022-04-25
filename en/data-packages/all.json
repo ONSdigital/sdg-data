@@ -19930,28 +19930,34 @@
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "House of Commons",
                 "House of Lords",
-                "Welsh Assembly",
-                "Scottish Parliament",
-                "Northern Ireland Assembly",
-                "English Local Authority Councillors",
-                "Welsh Local Authority Councillors",
-                "Northern Ireland Local Authority Councils",
-                "Scottish Local Authority Councils",
+                "Devolved administration",
+                "Local Government",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Series"
           },
           {
-            "name": "Unit measure",
+            "name": "Legislative authority",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Senedd Cymru/Welsh Parliament",
+                "Scottish Parliament/Pàrlamaid na h-Alba",
+                "Northern Ireland Assembly",
+                "English Local Authority Councillors",
+                "Welsh Local Authority Councillors",
+                "Northern Ireland Local Authority Councillors",
+                ""
+              ]
+            },
+            "title": "Legislative authority"
           },
           {
             "name": "Observation status",
@@ -19962,6 +19968,17 @@
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
