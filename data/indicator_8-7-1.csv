@@ -1,16 +1,4 @@
 Year,Type of exploitation,Sex,Observation status,Unit multiplier,Unit measure,Value
-2020,,Female,Normal value,Units,Number of children,1009.0
-2020,,Male,Normal value,Units,Number of children,3631.0
-2020,,,Normal value,Units,Number of children,4669.0
-2020,Criminal,Female,Normal value,Units,Number of children,167.0
-2020,Criminal,Male,Normal value,Units,Number of children,2325.0
-2020,Criminal,,Normal value,Units,Number of children,2501.0
-2020,Domestic,Female,Normal value,Units,Number of children,29.0
-2020,Domestic,Male,Normal value,Units,Number of children,23.0
-2020,Domestic,,Normal value,Units,Number of children,54.0
-2020,Domestic and criminal,Female,Normal value,Units,Number of children,0.0
-2020,Domestic and criminal,Male,Normal value,Units,Number of children,8.0
-2020,Domestic and criminal,,Normal value,Units,Number of children,9.0
 2020,Labour,Female,Normal value,Units,Number of children,32.0
 2020,Labour,Male,Normal value,Units,Number of children,398.0
 2020,Labour,,Normal value,Units,Number of children,431.0
@@ -23,60 +11,27 @@ Year,Type of exploitation,Sex,Observation status,Unit multiplier,Unit measure,Va
 2020,Labour and organ harvesting,Female,Normal value,Units,Number of children,
 2020,Labour and organ harvesting,Male,Normal value,Units,Number of children,
 2020,Labour and organ harvesting,,Normal value,Units,Number of children,
+2020,Labour and sexual,Male,Normal value,Units,Number of children,53.0
+2020,Labour and sexual,Male,Normal value,Units,Number of children,22.0
+2020,Labour and sexual,,Normal value,Units,Number of children,30.0
 2020,"Labour, domestic and criminal",Female,Normal value,Units,Number of children,18.0
 2020,"Labour, domestic and criminal",Male,Normal value,Units,Number of children,22.0
 2020,"Labour, domestic and criminal",,Normal value,Units,Number of children,
-2020,Organ harvesting,Female,Normal value,Units,Number of children,
-2020,Organ harvesting,Male,Normal value,Units,Number of children,0.0
-2020,Organ harvesting,,Normal value,Units,Number of children,0.0
-2020,Sexual,Female,Normal value,Units,Number of children,63.0
-2020,Sexual,Male,Normal value,Units,Number of children,436.0
-2020,Sexual,,Normal value,Units,Number of children,370.0
-2020,Sexual and criminal,Female,Normal value,Units,Number of children,49.0
-2020,Sexual and criminal,Male,Normal value,Units,Number of children,208.0
-2020,Sexual and criminal,,Normal value,Units,Number of children,156.0
-2020,Sexual and domestic,Female,Normal value,Units,Number of children,
-2020,Sexual and domestic,Male,Normal value,Units,Number of children,20.0
-2020,Sexual and domestic,,Normal value,Units,Number of children,18.0
-2020,Sexual and labour,Male,Normal value,Units,Number of children,53.0
-2020,Sexual and labour,Male,Normal value,Units,Number of children,22.0
-2020,Sexual and labour,,Normal value,Units,Number of children,30.0
-2020,Sexual and organ harvesting,Female,Normal value,Units,Number of children,0.0
-2020,Sexual and organ harvesting,Male,Normal value,Units,Number of children,
-2020,Sexual and organ harvesting,,Normal value,Units,Number of children,0.0
-2020,"Sexual, domestic and criminal",Female,Normal value,Units,Number of children,
-2020,"Sexual, domestic and criminal",Male,Normal value,Units,Number of children,
-2020,"Sexual, domestic and criminal",,Normal value,Units,Number of children,0.0
-2020,"Sexual, labour and criminal",Female,Normal value,Units,Number of children,34.0
-2020,"Sexual, labour and criminal",Male,Normal value,Units,Number of children,18.0
-2020,"Sexual, labour and criminal",,Normal value,Units,Number of children,16.0
-2020,"Sexual, labour and domestic",Female,Normal value,Units,Number of children,34.0
-2020,"Sexual, labour and domestic",Male,Normal value,Units,Number of children,21.0
-2020,"Sexual, labour and domestic",,Normal value,Units,Number of children,12.0
-2020,"Sexual, labour and organ harvesting",Female,Normal value,Units,Number of children,
-2020,"Sexual, labour and organ harvesting",Male,Normal value,Units,Number of children,
-2020,"Sexual, labour and organ harvesting",,Normal value,Units,Number of children,0.0
-2020,"Sexual, labour, domestic and criminal",Female,Normal value,Units,Number of children,13.0
-2020,"Sexual, labour, domestic and criminal",Male,Normal value,Units,Number of children,5.0
-2020,"Sexual, labour, domestic and criminal",,Normal value,Units,Number of children,8.0
-2020,"Sexual, labour, domestic, organ harvesting and criminal",Female,Normal value,Units,Number of children,0.0
-2020,"Sexual, labour, domestic, organ harvesting and criminal",Male,Normal value,Units,Number of children,
-2020,"Sexual, labour, domestic, organ harvesting and criminal",,Normal value,Units,Number of children,0.0
-2020,Not specified or unknown,Female,Normal value,Units,Number of children,244.0
-2020,Not specified or unknown,Male,Normal value,Units,Number of children,358.0
-2020,Not specified or unknown,,Normal value,Units,Number of children,109.0
-2021,,Female,Normal value,Units,Number of children,1041.0
-2021,,Male,Normal value,Units,Number of children,3914.0
-2021,,,Normal value,Units,Number of children,4964.0
-2021,Criminal,Female,Normal value,Units,Number of children,172.0
-2021,Criminal,Male,Normal value,Units,Number of children,2436.0
-2021,Criminal,,Normal value,Units,Number of children,2613.0
-2021,Domestic,Female,Normal value,Units,Number of children,21.0
-2021,Domestic,Male,Normal value,Units,Number of children,21.0
-2021,Domestic,,Normal value,Units,Number of children,42.0
-2021,Domestic and criminal,Female,Normal value,Units,Number of children,
-2021,Domestic and criminal,Male,Normal value,Units,Number of children,
-2021,Domestic and criminal,,Normal value,Units,Number of children,5.0
+2020,"Labour, sexual and criminal",Female,Normal value,Units,Number of children,34.0
+2020,"Labour, sexual and criminal",Male,Normal value,Units,Number of children,18.0
+2020,"Labour, sexual and criminal",,Normal value,Units,Number of children,16.0
+2020,"Labour, sexual and domestic",Female,Normal value,Units,Number of children,34.0
+2020,"Labour, sexual and domestic",Male,Normal value,Units,Number of children,21.0
+2020,"Labour, sexual and domestic",,Normal value,Units,Number of children,12.0
+2020,"Labour, sexual and organ harvesting",Female,Normal value,Units,Number of children,
+2020,"Labour, sexual and organ harvesting",Male,Normal value,Units,Number of children,
+2020,"Labour, sexual and organ harvesting",,Normal value,Units,Number of children,0.0
+2020,"Labour, sexual, domestic and criminal",Female,Normal value,Units,Number of children,13.0
+2020,"Labour, sexual, domestic and criminal",Male,Normal value,Units,Number of children,5.0
+2020,"Labour, sexual, domestic and criminal",,Normal value,Units,Number of children,8.0
+2020,"Labour, sexual, domestic, organ harvesting and criminal",Female,Normal value,Units,Number of children,0.0
+2020,"Labour, sexual, domestic, organ harvesting and criminal",Male,Normal value,Units,Number of children,
+2020,"Labour, sexual, domestic, organ harvesting and criminal",,Normal value,Units,Number of children,0.0
 2021,Labour,Female,Normal value,Units,Number of children,29.0
 2021,Labour,Male,Normal value,Units,Number of children,550.0
 2021,Labour,,Normal value,Units,Number of children,579.0
@@ -89,45 +44,24 @@ Year,Type of exploitation,Sex,Observation status,Unit multiplier,Unit measure,Va
 2021,Labour and organ harvesting,Male,Normal value,Units,Number of children,0.0
 2021,Labour and organ harvesting,,Normal value,Units,Number of children,0.0
 2021,Labour and organ harvesting,,Normal value,Units,Number of children,
+2021,Labour and sexual,Male,Normal value,Units,Number of children,65.0
+2021,Labour and sexual,Male,Normal value,Units,Number of children,38.0
+2021,Labour and sexual,,Normal value,Units,Number of children,27.0
 2021,"Labour, domestic and criminal",Female,Normal value,Units,Number of children,14.0
 2021,"Labour, domestic and criminal",Male,Normal value,Units,Number of children,16.0
 2021,"Labour, domestic and criminal",,Normal value,Units,Number of children,
-2021,Organ harvesting,Female,Normal value,Units,Number of children,
-2021,Organ harvesting,Male,Normal value,Units,Number of children,
-2021,Organ harvesting,,Normal value,Units,Number of children,
-2021,Sexual,Female,Normal value,Units,Number of children,74.0
-2021,Sexual,Male,Normal value,Units,Number of children,511.0
-2021,Sexual,,Normal value,Units,Number of children,435.0
-2021,Sexual and criminal,Female,Normal value,Units,Number of children,57.0
-2021,Sexual and criminal,Male,Normal value,Units,Number of children,184.0
-2021,Sexual and criminal,,Normal value,Units,Number of children,127.0
-2021,Sexual and domestic,Female,Normal value,Units,Number of children,
-2021,Sexual and domestic,Male,Normal value,Units,Number of children,20.0
-2021,Sexual and domestic,,Normal value,Units,Number of children,16.0
-2021,Sexual and labour,Male,Normal value,Units,Number of children,65.0
-2021,Sexual and labour,Male,Normal value,Units,Number of children,38.0
-2021,Sexual and labour,,Normal value,Units,Number of children,27.0
-2021,Sexual and organ harvesting,Female,Normal value,Units,Number of children,
-2021,Sexual and organ harvesting,Male,Normal value,Units,Number of children,
-2021,Sexual and organ harvesting,,Normal value,Units,Number of children,
-2021,"Sexual, domestic and criminal",Female,Normal value,Units,Number of children,
-2021,"Sexual, domestic and criminal",Male,Normal value,Units,Number of children,
-2021,"Sexual, domestic and criminal",,Normal value,Units,Number of children,
-2021,"Sexual, labour and criminal",Female,Normal value,Units,Number of children,42.0
-2021,"Sexual, labour and criminal",Male,Normal value,Units,Number of children,18.0
-2021,"Sexual, labour and criminal",,Normal value,Units,Number of children,24.0
-2021,"Sexual, labour and domestic",Female,Normal value,Units,Number of children,50.0
-2021,"Sexual, labour and domestic",Male,Normal value,Units,Number of children,36.0
-2021,"Sexual, labour and domestic",,Normal value,Units,Number of children,14.0
-2021,"Sexual, labour and organ harvesting",Female,Normal value,Units,Number of children,
-2021,"Sexual, labour and organ harvesting",Male,Normal value,Units,Number of children,0.0
-2021,"Sexual, labour and organ harvesting",,Normal value,Units,Number of children,
-2021,"Sexual, labour, domestic and criminal",Female,Normal value,Units,Number of children,7.0
-2021,"Sexual, labour, domestic and criminal",Male,Normal value,Units,Number of children,
-2021,"Sexual, labour, domestic and criminal",,Normal value,Units,Number of children,6.0
-2021,"Sexual, labour, domestic, organ harvesting and criminal",Female,Normal value,Units,Number of children,
-2021,"Sexual, labour, domestic, organ harvesting and criminal",Male,Normal value,Units,Number of children,
-2021,"Sexual, labour, domestic, organ harvesting and criminal",,Normal value,Units,Number of children,
-2021,Not specified or unknown,Female,Normal value,Units,Number of children,240.0
-2021,Not specified or unknown,Male,Normal value,Units,Number of children,335.0
-2021,Not specified or unknown,,Normal value,Units,Number of children,94.0
+2021,"Labour, sexual and criminal",Female,Normal value,Units,Number of children,42.0
+2021,"Labour, sexual and criminal",Male,Normal value,Units,Number of children,18.0
+2021,"Labour, sexual and criminal",,Normal value,Units,Number of children,24.0
+2021,"Labour, sexual and domestic",Female,Normal value,Units,Number of children,50.0
+2021,"Labour, sexual and domestic",Male,Normal value,Units,Number of children,36.0
+2021,"Labour, sexual and domestic",,Normal value,Units,Number of children,14.0
+2021,"Labour, sexual and organ harvesting",Female,Normal value,Units,Number of children,
+2021,"Labour, sexual and organ harvesting",Male,Normal value,Units,Number of children,0.0
+2021,"Labour, sexual and organ harvesting",,Normal value,Units,Number of children,
+2021,"Labour, sexual, domestic and criminal",Female,Normal value,Units,Number of children,7.0
+2021,"Labour, sexual, domestic and criminal",Male,Normal value,Units,Number of children,
+2021,"Labour, sexual, domestic and criminal",,Normal value,Units,Number of children,6.0
+2021,"Labour, sexual, domestic, organ harvesting and criminal",Female,Normal value,Units,Number of children,
+2021,"Labour, sexual, domestic, organ harvesting and criminal",Male,Normal value,Units,Number of children,
+2021,"Labour, sexual, domestic, organ harvesting and criminal",,Normal value,Units,Number of children,
