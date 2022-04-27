@@ -12491,6 +12491,16 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Installed capacity of sites generating electricity from renewable sources",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Country",
             "type": "string",
             "constraints": {
@@ -12508,30 +12518,30 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "East Midlands",
-                "East of England",
                 "North East",
                 "North West",
+                "Yorkshire and the Humber",
+                "East Midlands",
+                "West Midlands",
+                "East of England",
                 "London",
                 "South East",
                 "South West",
-                "West Midlands",
-                "Yorkshire and the Humber",
                 ""
               ]
             }
           },
           {
-            "name": "Renewable Source",
+            "name": "Renewable source",
             "type": "string",
             "constraints": {
               "enum": [
-                "Wind",
-                "Wave and tidal",
-                "Solar PV",
                 "Hydro",
                 "Landfill gas",
                 "Sewage gas",
+                "Solar PV",
+                "Wave and tidal",
+                "Wind",
                 "Other bioenergy",
                 ""
               ]
@@ -12542,8 +12552,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Onshore Wind",
                 "Offshore Wind",
+                "Onshore Wind",
                 ""
               ]
             }
@@ -12553,11 +12563,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AD",
+                "Anaerobic Digestion (AD)",
                 "Biomass and waste",
                 ""
               ]
             }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Watts per capita",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
           },
           {
             "name": "GeoCode",
