@@ -52,19 +52,19 @@ Agriculture orientation index for government expenditures,SERIES,AG_PRD_ORTIND
 Proportion of population with access to electricity,SERIES,EG_ACS_ELEC
 Proportion of population with primary reliance on clean fuels and technology for cooking,SERIES,EG_CFT_COOK
 Research and development expenditure as a proportion of GDP,SERIES,GB_XPD_RSDV
-African Development Bank,COMP_BREAKDOWN,IO_AFDB
-Asian Development Bank,COMP_BREAKDOWN,IO_ADB
-Financial Stability Board,COMP_BREAKDOWN,IO_FSB
-Inter-American Development Bank,COMP_BREAKDOWN,IO_IADB
-International Bank for Reconstruction and Development,COMP_BREAKDOWN,IO_IBRD
-International Finance Corporation,COMP_BREAKDOWN,IO_IFC
-International Monetary Fund,COMP_BREAKDOWN,IO_IMF
-UN Economic and Social Council,COMP_BREAKDOWN,IO_ECOSOC
-UN General Assembly,COMP_BREAKDOWN,IO_UNGA
-UN Security Council,COMP_BREAKDOWN,IO_UNSC
-World Trade Organisation,COMP_BREAKDOWN,IO_WTO
+African Development Bank,COMPOSITE_BREAKDOWN,IO_AFDB
+Asian Development Bank,COMPOSITE_BREAKDOWN,IO_ADB
+Financial Stability Board,COMPOSITE_BREAKDOWN,IO_FSB
+Inter-American Development Bank,COMPOSITE_BREAKDOWN,IO_IADB
+International Bank for Reconstruction and Development,COMPOSITE_BREAKDOWN,IO_IBRD
+International Finance Corporation,COMPOSITE_BREAKDOWN,IO_IFC
+International Monetary Fund,COMPOSITE_BREAKDOWN,IO_IMF
+UN Economic and Social Council,COMPOSITE_BREAKDOWN,IO_ECOSOC
+UN General Assembly,COMPOSITE_BREAKDOWN,IO_UNGA
+UN Security Council,COMPOSITE_BREAKDOWN,IO_UNSC
+World Trade Organisation,COMPOSITE_BREAKDOWN,IO_WTO
 Under 5 years old,AGE,Y0T4
-15 years old and over,AGE,Y_GE15
+15 and over,AGE,Y_GE15
 "Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries",SERIES,DC_TOF_HLTHNT
 "Degree of integrated water resources management implementation, enabling environment (%)",SERIES,ER_H2O_IWRMD_EE
 "Degree of integrated water resources management implementation, institutions and participation (%)",SERIES,ER_H2O_IWRMD_IP
@@ -80,3 +80,17 @@ Under 5 years old,AGE,Y0T4
 75 to 84,AGE,Y75T84
 85 and over,AGE,Y_GE85
 Manufacturing,ACTIVITY,ISIC4_C
+Area 1: Overarching legal frameworks and public life,SERIES,SG_LGL_GENEQLFP
+Area 2: Violence against women,SERIES,SG_LGL_GENEQVAW
+Area 3: Employment and economic benefits,SERIES,SG_LGL_GENEQEMP
+Area 4: Marriage and family,SERIES,SG_LGL_GENEQMAR
+Metric tons,UNIT_MEASURE,T
+Kilograms per constant USD,UNIT_MEASURE,KG_PER_CON_USD
+Domestic material consumption,SERIES,EN_MAT_DOMCMPT
+Domestic material consumption per capita,SERIES,EN_MAT_DOMCMPC
+Domestic material consumption per unit of GDP,SERIES,EN_MAT_DOMCMPG
+Biomass,PRODUCT,MF1
+Metal ores,PRODUCT,MF2
+Non-metallic minerals,PRODUCT,MF3
+Fossil fuels,PRODUCT,MF4
+Millions,UNIT_MULT,6

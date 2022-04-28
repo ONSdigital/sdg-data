@@ -6,7 +6,11 @@ Urban or Rural,URBANISATION
 Age,AGE
 Frequency,FREQ
 Activity,ACTIVITY
-Institution,COMP_BREAKDOWN
-Level of government,COMP_BREAKDOWN
+Institution,COMPOSITE_BREAKDOWN
+Level of government,COMPOSITE_BREAKDOWN
 Area,AREA
 Occupation,OCCUPATION
+Age (default),AGE
+Urbanisation (default),URBANISATION
+Activity (default),ACTIVITY
+Material category,PRODUCT
