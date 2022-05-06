@@ -2409,7 +2409,7 @@
             "title": "Year"
           },
           {
-            "name": "DAC classification",
+            "name": "Country income classification",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2419,7 +2419,7 @@
                 ""
               ]
             },
-            "title": "DAC classification"
+            "title": "Country income classification"
           },
           {
             "name": "Observation status",
@@ -2432,9 +2432,15 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

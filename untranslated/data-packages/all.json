@@ -2228,7 +2228,7 @@
             "type": "integer"
           },
           {
-            "name": "DAC classification",
+            "name": "Country income classification",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2248,8 +2248,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
