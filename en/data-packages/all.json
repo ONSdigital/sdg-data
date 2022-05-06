@@ -5414,8 +5414,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "without children",
-                "with children",
+                "Without children",
+                "With children",
                 ""
               ]
             },
@@ -5439,9 +5439,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "one child",
-                "two children",
-                "three or more children",
+                "One child",
+                "Two children",
+                "Three or more children",
                 ""
               ]
             },
