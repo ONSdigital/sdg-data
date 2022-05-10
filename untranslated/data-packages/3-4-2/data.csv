@@ -1,5 +1,4 @@
 Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoCode,Value
-1981,Female,,England,,Normal value,Units,"Rate per 100,000 population",E92000001,10.6
 1982,Female,,England,,Normal value,Units,"Rate per 100,000 population",E92000001,10.1
 1983,Female,,England,,Normal value,Units,"Rate per 100,000 population",E92000001,9.6
 1984,Female,,England,,Normal value,Units,"Rate per 100,000 population",E92000001,9.5
@@ -36,15 +35,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,,England,,Normal value,Units,"Rate per 100,000 population",E92000001,5.0
 2016,Female,,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.5
 2017,Female,,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.6
-1981,Female,,England,North East,Normal value,Units,"Rate per 100,000 population",E12000001,10.7
-1981,Female,,England,North West,Normal value,Units,"Rate per 100,000 population",E12000002,11.7
-1981,Female,,England,Yorkshire and The Humber,Normal value,Units,"Rate per 100,000 population",E12000003,10.0
-1981,Female,,England,East Midlands,Normal value,Units,"Rate per 100,000 population",E12000004,8.6
-1981,Female,,England,West Midlands,Normal value,Units,"Rate per 100,000 population",E12000005,8.4
-1981,Female,,England,East,Normal value,Units,"Rate per 100,000 population",E12000006,9.7
-1981,Female,,England,London,Normal value,Units,"Rate per 100,000 population",E12000007,12.8
-1981,Female,,England,South East,Normal value,Units,"Rate per 100,000 population",E12000008,10.7
-1981,Female,,England,South West,Normal value,Units,"Rate per 100,000 population",E12000009,10.5
 1982,Female,,England,North East,Normal value,Units,"Rate per 100,000 population",E12000001,8.5
 1982,Female,,England,North West,Normal value,Units,"Rate per 100,000 population",E12000002,11.5
 1982,Female,,England,Yorkshire and The Humber,Normal value,Units,"Rate per 100,000 population",E12000003,11.4
@@ -379,7 +369,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2014,Female,10 to 14,England,,Low reliability,Units,"Rate per 100,000 population",E92000001,0.3
 2015,Female,10 to 14,England,,Low reliability,Units,"Rate per 100,000 population",E92000001,0.3
 2017,Female,10 to 14,England,,Low reliability,Units,"Rate per 100,000 population",E92000001,0.3
-1981,Female,15 to 19,England,,Normal value,Units,"Rate per 100,000 population",E92000001,2.6
 1982,Female,15 to 19,England,,Normal value,Units,"Rate per 100,000 population",E92000001,1.8
 1983,Female,15 to 19,England,,Normal value,Units,"Rate per 100,000 population",E92000001,2.1
 1984,Female,15 to 19,England,,Normal value,Units,"Rate per 100,000 population",E92000001,1.8
@@ -416,7 +405,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,15 to 19,England,,Normal value,Units,"Rate per 100,000 population",E92000001,3.1
 2016,Female,15 to 19,England,,Normal value,Units,"Rate per 100,000 population",E92000001,2.6
 2017,Female,15 to 19,England,,Normal value,Units,"Rate per 100,000 population",E92000001,3.4
-1981,Female,20 to 24,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.3
 1982,Female,20 to 24,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.7
 1983,Female,20 to 24,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.6
 1984,Female,20 to 24,England,,Normal value,Units,"Rate per 100,000 population",E92000001,3.2
@@ -453,7 +441,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,20 to 24,England,,Normal value,Units,"Rate per 100,000 population",E92000001,3.5
 2016,Female,20 to 24,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.4
 2017,Female,20 to 24,England,,Normal value,Units,"Rate per 100,000 population",E92000001,3.6
-1981,Female,25 to 29,England,,Normal value,Units,"Rate per 100,000 population",E92000001,5.6
 1982,Female,25 to 29,England,,Normal value,Units,"Rate per 100,000 population",E92000001,5.8
 1983,Female,25 to 29,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.9
 1984,Female,25 to 29,England,,Normal value,Units,"Rate per 100,000 population",E92000001,5.3
@@ -490,7 +477,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,25 to 29,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.7
 2016,Female,25 to 29,England,,Normal value,Units,"Rate per 100,000 population",E92000001,3.7
 2017,Female,25 to 29,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.0
-1981,Female,30 to 34,England,,Normal value,Units,"Rate per 100,000 population",E92000001,7.0
 1982,Female,30 to 34,England,,Normal value,Units,"Rate per 100,000 population",E92000001,6.4
 1983,Female,30 to 34,England,,Normal value,Units,"Rate per 100,000 population",E92000001,5.2
 1984,Female,30 to 34,England,,Normal value,Units,"Rate per 100,000 population",E92000001,5.5
@@ -527,7 +513,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,30 to 34,England,,Normal value,Units,"Rate per 100,000 population",E92000001,5.0
 2016,Female,30 to 34,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.6
 2017,Female,30 to 34,England,,Normal value,Units,"Rate per 100,000 population",E92000001,5.0
-1981,Female,35 to 39,England,,Normal value,Units,"Rate per 100,000 population",E92000001,7.6
 1982,Female,35 to 39,England,,Normal value,Units,"Rate per 100,000 population",E92000001,7.6
 1983,Female,35 to 39,England,,Normal value,Units,"Rate per 100,000 population",E92000001,8.5
 1984,Female,35 to 39,England,,Normal value,Units,"Rate per 100,000 population",E92000001,8.1
@@ -564,7 +549,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,35 to 39,England,,Normal value,Units,"Rate per 100,000 population",E92000001,5.3
 2016,Female,35 to 39,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.2
 2017,Female,35 to 39,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.8
-1981,Female,40 to 44,England,,Normal value,Units,"Rate per 100,000 population",E92000001,11.7
 1982,Female,40 to 44,England,,Normal value,Units,"Rate per 100,000 population",E92000001,10.2
 1983,Female,40 to 44,England,,Normal value,Units,"Rate per 100,000 population",E92000001,9.0
 1984,Female,40 to 44,England,,Normal value,Units,"Rate per 100,000 population",E92000001,8.6
@@ -601,7 +585,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,40 to 44,England,,Normal value,Units,"Rate per 100,000 population",E92000001,5.2
 2016,Female,40 to 44,England,,Normal value,Units,"Rate per 100,000 population",E92000001,6.2
 2017,Female,40 to 44,England,,Normal value,Units,"Rate per 100,000 population",E92000001,5.8
-1981,Female,45 to 49,England,,Normal value,Units,"Rate per 100,000 population",E92000001,12.0
 1982,Female,45 to 49,England,,Normal value,Units,"Rate per 100,000 population",E92000001,12.2
 1983,Female,45 to 49,England,,Normal value,Units,"Rate per 100,000 population",E92000001,11.0
 1984,Female,45 to 49,England,,Normal value,Units,"Rate per 100,000 population",E92000001,12.2
@@ -638,7 +621,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,45 to 49,England,,Normal value,Units,"Rate per 100,000 population",E92000001,6.9
 2016,Female,45 to 49,England,,Normal value,Units,"Rate per 100,000 population",E92000001,6.3
 2017,Female,45 to 49,England,,Normal value,Units,"Rate per 100,000 population",E92000001,6.3
-1981,Female,50 to 54,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.8
 1982,Female,50 to 54,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.9
 1983,Female,50 to 54,England,,Normal value,Units,"Rate per 100,000 population",E92000001,12.8
 1984,Female,50 to 54,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.1
@@ -675,7 +657,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,50 to 54,England,,Normal value,Units,"Rate per 100,000 population",E92000001,8.1
 2016,Female,50 to 54,England,,Normal value,Units,"Rate per 100,000 population",E92000001,8.0
 2017,Female,50 to 54,England,,Normal value,Units,"Rate per 100,000 population",E92000001,6.2
-1981,Female,55 to 59,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.9
 1982,Female,55 to 59,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.2
 1983,Female,55 to 59,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.7
 1984,Female,55 to 59,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.6
@@ -712,7 +693,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,55 to 59,England,,Normal value,Units,"Rate per 100,000 population",E92000001,6.0
 2016,Female,55 to 59,England,,Normal value,Units,"Rate per 100,000 population",E92000001,5.8
 2017,Female,55 to 59,England,,Normal value,Units,"Rate per 100,000 population",E92000001,5.2
-1981,Female,60 to 64,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.4
 1982,Female,60 to 64,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.9
 1983,Female,60 to 64,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.9
 1984,Female,60 to 64,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.6
@@ -749,7 +729,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,60 to 64,England,,Normal value,Units,"Rate per 100,000 population",E92000001,6.0
 2016,Female,60 to 64,England,,Normal value,Units,"Rate per 100,000 population",E92000001,5.0
 2017,Female,60 to 64,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.4
-1981,Female,65 to 69,England,,Normal value,Units,"Rate per 100,000 population",E92000001,17.8
 1982,Female,65 to 69,England,,Normal value,Units,"Rate per 100,000 population",E92000001,15.0
 1983,Female,65 to 69,England,,Normal value,Units,"Rate per 100,000 population",E92000001,15.3
 1984,Female,65 to 69,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.9
@@ -786,7 +765,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,65 to 69,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.5
 2016,Female,65 to 69,England,,Normal value,Units,"Rate per 100,000 population",E92000001,3.8
 2017,Female,65 to 69,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.4
-1981,Female,70 to 74,England,,Normal value,Units,"Rate per 100,000 population",E92000001,18.0
 1982,Female,70 to 74,England,,Normal value,Units,"Rate per 100,000 population",E92000001,17.8
 1983,Female,70 to 74,England,,Normal value,Units,"Rate per 100,000 population",E92000001,15.8
 1984,Female,70 to 74,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.2
@@ -823,7 +801,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,70 to 74,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.7
 2016,Female,70 to 74,England,,Normal value,Units,"Rate per 100,000 population",E92000001,3.5
 2017,Female,70 to 74,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.0
-1981,Female,75 to 79,England,,Normal value,Units,"Rate per 100,000 population",E92000001,15.7
 1982,Female,75 to 79,England,,Normal value,Units,"Rate per 100,000 population",E92000001,15.4
 1983,Female,75 to 79,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.8
 1984,Female,75 to 79,England,,Normal value,Units,"Rate per 100,000 population",E92000001,15.3
@@ -860,7 +837,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,75 to 79,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.8
 2016,Female,75 to 79,England,,Normal value,Units,"Rate per 100,000 population",E92000001,2.8
 2017,Female,75 to 79,England,,Normal value,Units,"Rate per 100,000 population",E92000001,5.0
-1981,Female,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.4
 1982,Female,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,15.8
 1983,Female,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,11.9
 1984,Female,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,16.0
@@ -897,7 +873,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.9
 2016,Female,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,3.3
 2017,Female,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.0
-1981,Female,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.2
 1982,Female,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.4
 1983,Female,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,16.4
 1984,Female,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,11.6
@@ -934,7 +909,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,5.3
 2016,Female,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,3.9
 2017,Female,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.2
-1981,Female,90 and over,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.4
 1982,Female,90 and over,England,,Normal value,Units,"Rate per 100,000 population",E92000001,9.9
 1983,Female,90 and over,England,,Normal value,Units,"Rate per 100,000 population",E92000001,8.0
 1984,Female,90 and over,England,,Normal value,Units,"Rate per 100,000 population",E92000001,9.3
@@ -1052,7 +1026,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2020,Female,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.3
 2020,Female,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.5
 2020,Female,90 and over,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.3
-1981,Male,,England,,Normal value,Units,"Rate per 100,000 population",E92000001,19.3
 1982,Male,,England,,Normal value,Units,"Rate per 100,000 population",E92000001,18.7
 1983,Male,,England,,Normal value,Units,"Rate per 100,000 population",E92000001,18.6
 1984,Male,,England,,Normal value,Units,"Rate per 100,000 population",E92000001,18.8
@@ -1089,15 +1062,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,,England,,Normal value,Units,"Rate per 100,000 population",E92000001,15.4
 2016,Male,,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.7
 2017,Male,,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.0
-1981,Male,,England,North East,Normal value,Units,"Rate per 100,000 population",E12000001,21.5
-1981,Male,,England,North West,Normal value,Units,"Rate per 100,000 population",E12000002,19.5
-1981,Male,,England,Yorkshire and The Humber,Normal value,Units,"Rate per 100,000 population",E12000003,18.2
-1981,Male,,England,East Midlands,Normal value,Units,"Rate per 100,000 population",E12000004,14.8
-1981,Male,,England,West Midlands,Normal value,Units,"Rate per 100,000 population",E12000005,17.2
-1981,Male,,England,East,Normal value,Units,"Rate per 100,000 population",E12000006,17.5
-1981,Male,,England,London,Normal value,Units,"Rate per 100,000 population",E12000007,22.4
-1981,Male,,England,South East,Normal value,Units,"Rate per 100,000 population",E12000008,18.2
-1981,Male,,England,South West,Normal value,Units,"Rate per 100,000 population",E12000009,22.3
 1982,Male,,England,North East,Normal value,Units,"Rate per 100,000 population",E12000001,21.0
 1982,Male,,England,North West,Normal value,Units,"Rate per 100,000 population",E12000002,20.2
 1982,Male,,England,Yorkshire and The Humber,Normal value,Units,"Rate per 100,000 population",E12000003,19.3
@@ -1422,7 +1386,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2017,Male,,England,London,Normal value,Units,"Rate per 100,000 population",E12000007,11.6
 2017,Male,,England,South East,Normal value,Units,"Rate per 100,000 population",E12000008,13.6
 2017,Male,,England,South West,Normal value,Units,"Rate per 100,000 population",E12000009,15.7
-1981,Male,10 to 14,England,,Low reliability,Units,"Rate per 100,000 population",E92000001,0.2
 1982,Male,10 to 14,England,,Low reliability,Units,"Rate per 100,000 population",E92000001,0.2
 1987,Male,10 to 14,England,,Low reliability,Units,"Rate per 100,000 population",E92000001,0.2
 1994,Male,10 to 14,England,,Low reliability,Units,"Rate per 100,000 population",E92000001,0.4
@@ -1435,7 +1398,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2014,Male,10 to 14,England,,Low reliability,Units,"Rate per 100,000 population",E92000001,0.2
 2015,Male,10 to 14,England,,Low reliability,Units,"Rate per 100,000 population",E92000001,0.3
 2017,Male,10 to 14,England,,Low reliability,Units,"Rate per 100,000 population",E92000001,0.3
-1981,Male,15 to 19,England,,Normal value,Units,"Rate per 100,000 population",E92000001,6.7
 1982,Male,15 to 19,England,,Normal value,Units,"Rate per 100,000 population",E92000001,5.2
 1983,Male,15 to 19,England,,Normal value,Units,"Rate per 100,000 population",E92000001,5.2
 1984,Male,15 to 19,England,,Normal value,Units,"Rate per 100,000 population",E92000001,6.0
@@ -1472,7 +1434,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,15 to 19,England,,Normal value,Units,"Rate per 100,000 population",E92000001,7.6
 2016,Male,15 to 19,England,,Normal value,Units,"Rate per 100,000 population",E92000001,6.3
 2017,Male,15 to 19,England,,Normal value,Units,"Rate per 100,000 population",E92000001,6.5
-1981,Male,20 to 24,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.1
 1982,Male,20 to 24,England,,Normal value,Units,"Rate per 100,000 population",E92000001,12.7
 1983,Male,20 to 24,England,,Normal value,Units,"Rate per 100,000 population",E92000001,12.6
 1984,Male,20 to 24,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.6
@@ -1509,7 +1470,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,20 to 24,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.8
 2016,Male,20 to 24,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.5
 2017,Male,20 to 24,England,,Normal value,Units,"Rate per 100,000 population",E92000001,11.0
-1981,Male,25 to 29,England,,Normal value,Units,"Rate per 100,000 population",E92000001,18.6
 1982,Male,25 to 29,England,,Normal value,Units,"Rate per 100,000 population",E92000001,18.4
 1983,Male,25 to 29,England,,Normal value,Units,"Rate per 100,000 population",E92000001,16.7
 1984,Male,25 to 29,England,,Normal value,Units,"Rate per 100,000 population",E92000001,16.8
@@ -1546,7 +1506,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,25 to 29,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.0
 2016,Male,25 to 29,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.9
 2017,Male,25 to 29,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.1
-1981,Male,30 to 34,England,,Normal value,Units,"Rate per 100,000 population",E92000001,17.3
 1982,Male,30 to 34,England,,Normal value,Units,"Rate per 100,000 population",E92000001,17.4
 1983,Male,30 to 34,England,,Normal value,Units,"Rate per 100,000 population",E92000001,18.1
 1984,Male,30 to 34,England,,Normal value,Units,"Rate per 100,000 population",E92000001,19.0
@@ -1583,7 +1542,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,30 to 34,England,,Normal value,Units,"Rate per 100,000 population",E92000001,16.4
 2016,Male,30 to 34,England,,Normal value,Units,"Rate per 100,000 population",E92000001,16.6
 2017,Male,30 to 34,England,,Normal value,Units,"Rate per 100,000 population",E92000001,15.6
-1981,Male,35 to 39,England,,Normal value,Units,"Rate per 100,000 population",E92000001,19.6
 1982,Male,35 to 39,England,,Normal value,Units,"Rate per 100,000 population",E92000001,18.4
 1983,Male,35 to 39,England,,Normal value,Units,"Rate per 100,000 population",E92000001,18.8
 1984,Male,35 to 39,England,,Normal value,Units,"Rate per 100,000 population",E92000001,19.4
@@ -1620,7 +1578,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,35 to 39,England,,Normal value,Units,"Rate per 100,000 population",E92000001,18.1
 2016,Male,35 to 39,England,,Normal value,Units,"Rate per 100,000 population",E92000001,17.1
 2017,Male,35 to 39,England,,Normal value,Units,"Rate per 100,000 population",E92000001,16.8
-1981,Male,40 to 44,England,,Normal value,Units,"Rate per 100,000 population",E92000001,20.1
 1982,Male,40 to 44,England,,Normal value,Units,"Rate per 100,000 population",E92000001,19.2
 1983,Male,40 to 44,England,,Normal value,Units,"Rate per 100,000 population",E92000001,21.1
 1984,Male,40 to 44,England,,Normal value,Units,"Rate per 100,000 population",E92000001,21.6
@@ -1657,7 +1614,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,40 to 44,England,,Normal value,Units,"Rate per 100,000 population",E92000001,22.0
 2016,Male,40 to 44,England,,Normal value,Units,"Rate per 100,000 population",E92000001,21.9
 2017,Male,40 to 44,England,,Normal value,Units,"Rate per 100,000 population",E92000001,19.8
-1981,Male,45 to 49,England,,Normal value,Units,"Rate per 100,000 population",E92000001,20.6
 1982,Male,45 to 49,England,,Normal value,Units,"Rate per 100,000 population",E92000001,23.2
 1983,Male,45 to 49,England,,Normal value,Units,"Rate per 100,000 population",E92000001,21.4
 1984,Male,45 to 49,England,,Normal value,Units,"Rate per 100,000 population",E92000001,22.6
@@ -1694,7 +1650,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,45 to 49,England,,Normal value,Units,"Rate per 100,000 population",E92000001,22.4
 2016,Male,45 to 49,England,,Normal value,Units,"Rate per 100,000 population",E92000001,21.7
 2017,Male,45 to 49,England,,Normal value,Units,"Rate per 100,000 population",E92000001,22.4
-1981,Male,50 to 54,England,,Normal value,Units,"Rate per 100,000 population",E92000001,23.7
 1982,Male,50 to 54,England,,Normal value,Units,"Rate per 100,000 population",E92000001,20.2
 1983,Male,50 to 54,England,,Normal value,Units,"Rate per 100,000 population",E92000001,21.6
 1984,Male,50 to 54,England,,Normal value,Units,"Rate per 100,000 population",E92000001,21.1
@@ -1731,7 +1686,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,50 to 54,England,,Normal value,Units,"Rate per 100,000 population",E92000001,20.1
 2016,Male,50 to 54,England,,Normal value,Units,"Rate per 100,000 population",E92000001,20.2
 2017,Male,50 to 54,England,,Normal value,Units,"Rate per 100,000 population",E92000001,19.7
-1981,Male,55 to 59,England,,Normal value,Units,"Rate per 100,000 population",E92000001,22.9
 1982,Male,55 to 59,England,,Normal value,Units,"Rate per 100,000 population",E92000001,24.0
 1983,Male,55 to 59,England,,Normal value,Units,"Rate per 100,000 population",E92000001,20.9
 1984,Male,55 to 59,England,,Normal value,Units,"Rate per 100,000 population",E92000001,22.4
@@ -1768,7 +1722,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,55 to 59,England,,Normal value,Units,"Rate per 100,000 population",E92000001,20.3
 2016,Male,55 to 59,England,,Normal value,Units,"Rate per 100,000 population",E92000001,19.0
 2017,Male,55 to 59,England,,Normal value,Units,"Rate per 100,000 population",E92000001,17.2
-1981,Male,60 to 64,England,,Normal value,Units,"Rate per 100,000 population",E92000001,23.1
 1982,Male,60 to 64,England,,Normal value,Units,"Rate per 100,000 population",E92000001,19.6
 1983,Male,60 to 64,England,,Normal value,Units,"Rate per 100,000 population",E92000001,21.6
 1984,Male,60 to 64,England,,Normal value,Units,"Rate per 100,000 population",E92000001,20.3
@@ -1805,7 +1758,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,60 to 64,England,,Normal value,Units,"Rate per 100,000 population",E92000001,16.0
 2016,Male,60 to 64,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.0
 2017,Male,60 to 64,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.3
-1981,Male,65 to 69,England,,Normal value,Units,"Rate per 100,000 population",E92000001,20.2
 1982,Male,65 to 69,England,,Normal value,Units,"Rate per 100,000 population",E92000001,22.1
 1983,Male,65 to 69,England,,Normal value,Units,"Rate per 100,000 population",E92000001,21.9
 1984,Male,65 to 69,England,,Normal value,Units,"Rate per 100,000 population",E92000001,20.4
@@ -1842,7 +1794,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,65 to 69,England,,Normal value,Units,"Rate per 100,000 population",E92000001,12.4
 2016,Male,65 to 69,England,,Normal value,Units,"Rate per 100,000 population",E92000001,11.0
 2017,Male,65 to 69,England,,Normal value,Units,"Rate per 100,000 population",E92000001,11.7
-1981,Male,70 to 74,England,,Normal value,Units,"Rate per 100,000 population",E92000001,22.5
 1982,Male,70 to 74,England,,Normal value,Units,"Rate per 100,000 population",E92000001,22.2
 1983,Male,70 to 74,England,,Normal value,Units,"Rate per 100,000 population",E92000001,21.4
 1984,Male,70 to 74,England,,Normal value,Units,"Rate per 100,000 population",E92000001,24.0
@@ -1879,7 +1830,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,70 to 74,England,,Normal value,Units,"Rate per 100,000 population",E92000001,11.3
 2016,Male,70 to 74,England,,Normal value,Units,"Rate per 100,000 population",E92000001,9.2
 2017,Male,70 to 74,England,,Normal value,Units,"Rate per 100,000 population",E92000001,9.7
-1981,Male,75 to 79,England,,Normal value,Units,"Rate per 100,000 population",E92000001,28.6
 1982,Male,75 to 79,England,,Normal value,Units,"Rate per 100,000 population",E92000001,25.5
 1983,Male,75 to 79,England,,Normal value,Units,"Rate per 100,000 population",E92000001,29.7
 1984,Male,75 to 79,England,,Normal value,Units,"Rate per 100,000 population",E92000001,28.0
@@ -1916,7 +1866,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,75 to 79,England,,Normal value,Units,"Rate per 100,000 population",E92000001,10.8
 2016,Male,75 to 79,England,,Normal value,Units,"Rate per 100,000 population",E92000001,10.4
 2017,Male,75 to 79,England,,Normal value,Units,"Rate per 100,000 population",E92000001,10.5
-1981,Male,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,30.2
 1982,Male,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,30.2
 1983,Male,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,31.9
 1984,Male,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,31.6
@@ -1953,7 +1902,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,15.2
 2016,Male,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.5
 2017,Male,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,9.9
-1981,Male,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,28.0
 1982,Male,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,44.8
 1983,Male,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,26.7
 1984,Male,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,23.6
@@ -1990,7 +1938,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,18.2
 2016,Male,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,16.7
 2017,Male,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,18.2
-1981,Male,90 and over,England,,Normal value,Units,"Rate per 100,000 population",E92000001,46.8
 1982,Male,90 and over,England,,Normal value,Units,"Rate per 100,000 population",E92000001,23.7
 1983,Male,90 and over,England,,Normal value,Units,"Rate per 100,000 population",E92000001,30.0
 1984,Male,90 and over,England,,Normal value,Units,"Rate per 100,000 population",E92000001,29.5
@@ -2108,7 +2055,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2020,Male,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,11.6
 2020,Male,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,16.8
 2020,Male,90 and over,,,Normal value,Units,"Rate per 100,000 population",E92000001,21.2
-1981,,,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.6
 1982,,,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.0
 1983,,,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.7
 1984,,,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.8
@@ -2145,15 +2091,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,,England,,Normal value,Units,"Rate per 100,000 population",E92000001,10.1
 2016,,,England,,Normal value,Units,"Rate per 100,000 population",E92000001,9.5
 2017,,,England,,Normal value,Units,"Rate per 100,000 population",E92000001,9.2
-1981,,,England,North East,Normal value,Units,"Rate per 100,000 population",E12000001,15.3
-1981,,,England,North West,Normal value,Units,"Rate per 100,000 population",E12000002,15.4
-1981,,,England,Yorkshire and The Humber,Normal value,Units,"Rate per 100,000 population",E12000003,13.6
-1981,,,England,East Midlands,Normal value,Units,"Rate per 100,000 population",E12000004,11.6
-1981,,,England,West Midlands,Normal value,Units,"Rate per 100,000 population",E12000005,12.5
-1981,,,England,East,Normal value,Units,"Rate per 100,000 population",E12000006,13.6
-1981,,,England,London,Normal value,Units,"Rate per 100,000 population",E12000007,17.4
-1981,,,England,South East,Normal value,Units,"Rate per 100,000 population",E12000008,14.2
-1981,,,England,South West,Normal value,Units,"Rate per 100,000 population",E12000009,15.6
 1982,,,England,North East,Normal value,Units,"Rate per 100,000 population",E12000001,14.4
 1982,,,England,North West,Normal value,Units,"Rate per 100,000 population",E12000002,15.3
 1982,,,England,Yorkshire and The Humber,Normal value,Units,"Rate per 100,000 population",E12000003,15.1
@@ -2478,7 +2415,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2017,,,England,London,Normal value,Units,"Rate per 100,000 population",E12000007,7.7
 2017,,,England,South East,Normal value,Units,"Rate per 100,000 population",E12000008,9.1
 2017,,,England,South West,Normal value,Units,"Rate per 100,000 population",E12000009,10.5
-1981,,10 to 14,England,,Low reliability,Units,"Rate per 100,000 population",E92000001,0.1
 1982,,10 to 14,England,,Low reliability,Units,"Rate per 100,000 population",E92000001,0.2
 1983,,10 to 14,England,,Low reliability,Units,"Rate per 100,000 population",E92000001,0.2
 1985,,10 to 14,England,,Low reliability,Units,"Rate per 100,000 population",E92000001,0.1
@@ -2503,7 +2439,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2014,,10 to 14,England,,Low reliability,Units,"Rate per 100,000 population",E92000001,0.2
 2015,,10 to 14,England,,Low reliability,Units,"Rate per 100,000 population",E92000001,0.3
 2017,,10 to 14,England,,Low reliability,Units,"Rate per 100,000 population",E92000001,0.3
-1981,,15 to 19,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.7
 1982,,15 to 19,England,,Normal value,Units,"Rate per 100,000 population",E92000001,3.6
 1983,,15 to 19,England,,Normal value,Units,"Rate per 100,000 population",E92000001,3.7
 1984,,15 to 19,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.0
@@ -2540,7 +2475,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,15 to 19,England,,Normal value,Units,"Rate per 100,000 population",E92000001,5.4
 2016,,15 to 19,England,,Normal value,Units,"Rate per 100,000 population",E92000001,4.5
 2017,,15 to 19,England,,Normal value,Units,"Rate per 100,000 population",E92000001,5.0
-1981,,20 to 24,England,,Normal value,Units,"Rate per 100,000 population",E92000001,9.3
 1982,,20 to 24,England,,Normal value,Units,"Rate per 100,000 population",E92000001,8.7
 1983,,20 to 24,England,,Normal value,Units,"Rate per 100,000 population",E92000001,8.6
 1984,,20 to 24,England,,Normal value,Units,"Rate per 100,000 population",E92000001,8.4
@@ -2577,7 +2511,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,20 to 24,England,,Normal value,Units,"Rate per 100,000 population",E92000001,8.7
 2016,,20 to 24,England,,Normal value,Units,"Rate per 100,000 population",E92000001,9.0
 2017,,20 to 24,England,,Normal value,Units,"Rate per 100,000 population",E92000001,7.4
-1981,,25 to 29,England,,Normal value,Units,"Rate per 100,000 population",E92000001,12.2
 1982,,25 to 29,England,,Normal value,Units,"Rate per 100,000 population",E92000001,12.1
 1983,,25 to 29,England,,Normal value,Units,"Rate per 100,000 population",E92000001,10.8
 1984,,25 to 29,England,,Normal value,Units,"Rate per 100,000 population",E92000001,11.1
@@ -2614,7 +2547,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,25 to 29,England,,Normal value,Units,"Rate per 100,000 population",E92000001,9.3
 2016,,25 to 29,England,,Normal value,Units,"Rate per 100,000 population",E92000001,9.4
 2017,,25 to 29,England,,Normal value,Units,"Rate per 100,000 population",E92000001,9.1
-1981,,30 to 34,England,,Normal value,Units,"Rate per 100,000 population",E92000001,12.2
 1982,,30 to 34,England,,Normal value,Units,"Rate per 100,000 population",E92000001,11.9
 1983,,30 to 34,England,,Normal value,Units,"Rate per 100,000 population",E92000001,11.7
 1984,,30 to 34,England,,Normal value,Units,"Rate per 100,000 population",E92000001,12.3
@@ -2651,7 +2583,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,30 to 34,England,,Normal value,Units,"Rate per 100,000 population",E92000001,10.7
 2016,,30 to 34,England,,Normal value,Units,"Rate per 100,000 population",E92000001,10.6
 2017,,30 to 34,England,,Normal value,Units,"Rate per 100,000 population",E92000001,10.3
-1981,,35 to 39,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.7
 1982,,35 to 39,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.0
 1983,,35 to 39,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.7
 1984,,35 to 39,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.8
@@ -2688,7 +2619,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,35 to 39,England,,Normal value,Units,"Rate per 100,000 population",E92000001,11.7
 2016,,35 to 39,England,,Normal value,Units,"Rate per 100,000 population",E92000001,10.6
 2017,,35 to 39,England,,Normal value,Units,"Rate per 100,000 population",E92000001,10.8
-1981,,40 to 44,England,,Normal value,Units,"Rate per 100,000 population",E92000001,15.9
 1982,,40 to 44,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.7
 1983,,40 to 44,England,,Normal value,Units,"Rate per 100,000 population",E92000001,15.1
 1984,,40 to 44,England,,Normal value,Units,"Rate per 100,000 population",E92000001,15.2
@@ -2725,7 +2655,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,40 to 44,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.6
 2016,,40 to 44,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.0
 2017,,40 to 44,England,,Normal value,Units,"Rate per 100,000 population",E92000001,12.8
-1981,,45 to 49,England,,Normal value,Units,"Rate per 100,000 population",E92000001,16.3
 1982,,45 to 49,England,,Normal value,Units,"Rate per 100,000 population",E92000001,17.8
 1983,,45 to 49,England,,Normal value,Units,"Rate per 100,000 population",E92000001,16.2
 1984,,45 to 49,England,,Normal value,Units,"Rate per 100,000 population",E92000001,17.4
@@ -2762,7 +2691,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,45 to 49,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.6
 2016,,45 to 49,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.9
 2017,,45 to 49,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.3
-1981,,50 to 54,England,,Normal value,Units,"Rate per 100,000 population",E92000001,19.2
 1982,,50 to 54,England,,Normal value,Units,"Rate per 100,000 population",E92000001,17.0
 1983,,50 to 54,England,,Normal value,Units,"Rate per 100,000 population",E92000001,17.2
 1984,,50 to 54,England,,Normal value,Units,"Rate per 100,000 population",E92000001,17.6
@@ -2799,7 +2727,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,50 to 54,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.0
 2016,,50 to 54,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.0
 2017,,50 to 54,England,,Normal value,Units,"Rate per 100,000 population",E92000001,12.8
-1981,,55 to 59,England,,Normal value,Units,"Rate per 100,000 population",E92000001,18.8
 1982,,55 to 59,England,,Normal value,Units,"Rate per 100,000 population",E92000001,19.0
 1983,,55 to 59,England,,Normal value,Units,"Rate per 100,000 population",E92000001,17.7
 1984,,55 to 59,England,,Normal value,Units,"Rate per 100,000 population",E92000001,17.9
@@ -2836,7 +2763,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,55 to 59,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.1
 2016,,55 to 59,England,,Normal value,Units,"Rate per 100,000 population",E92000001,12.3
 2017,,55 to 59,England,,Normal value,Units,"Rate per 100,000 population",E92000001,11.2
-1981,,60 to 64,England,,Normal value,Units,"Rate per 100,000 population",E92000001,18.5
 1982,,60 to 64,England,,Normal value,Units,"Rate per 100,000 population",E92000001,16.6
 1983,,60 to 64,England,,Normal value,Units,"Rate per 100,000 population",E92000001,17.5
 1984,,60 to 64,England,,Normal value,Units,"Rate per 100,000 population",E92000001,17.3
@@ -2873,7 +2799,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,60 to 64,England,,Normal value,Units,"Rate per 100,000 population",E92000001,10.9
 2016,,60 to 64,England,,Normal value,Units,"Rate per 100,000 population",E92000001,8.9
 2017,,60 to 64,England,,Normal value,Units,"Rate per 100,000 population",E92000001,8.7
-1981,,65 to 69,England,,Normal value,Units,"Rate per 100,000 population",E92000001,18.9
 1982,,65 to 69,England,,Normal value,Units,"Rate per 100,000 population",E92000001,18.2
 1983,,65 to 69,England,,Normal value,Units,"Rate per 100,000 population",E92000001,18.3
 1984,,65 to 69,England,,Normal value,Units,"Rate per 100,000 population",E92000001,16.8
@@ -2910,7 +2835,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,65 to 69,England,,Normal value,Units,"Rate per 100,000 population",E92000001,8.3
 2016,,65 to 69,England,,Normal value,Units,"Rate per 100,000 population",E92000001,7.3
 2017,,65 to 69,England,,Normal value,Units,"Rate per 100,000 population",E92000001,7.9
-1981,,70 to 74,England,,Normal value,Units,"Rate per 100,000 population",E92000001,19.9
 1982,,70 to 74,England,,Normal value,Units,"Rate per 100,000 population",E92000001,19.6
 1983,,70 to 74,England,,Normal value,Units,"Rate per 100,000 population",E92000001,18.2
 1984,,70 to 74,England,,Normal value,Units,"Rate per 100,000 population",E92000001,18.3
@@ -2947,7 +2871,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,70 to 74,England,,Normal value,Units,"Rate per 100,000 population",E92000001,7.8
 2016,,70 to 74,England,,Normal value,Units,"Rate per 100,000 population",E92000001,6.2
 2017,,70 to 74,England,,Normal value,Units,"Rate per 100,000 population",E92000001,6.7
-1981,,75 to 79,England,,Normal value,Units,"Rate per 100,000 population",E92000001,20.5
 1982,,75 to 79,England,,Normal value,Units,"Rate per 100,000 population",E92000001,19.2
 1983,,75 to 79,England,,Normal value,Units,"Rate per 100,000 population",E92000001,20.4
 1984,,75 to 79,England,,Normal value,Units,"Rate per 100,000 population",E92000001,20.1
@@ -2984,7 +2907,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,75 to 79,England,,Normal value,Units,"Rate per 100,000 population",E92000001,7.6
 2016,,75 to 79,England,,Normal value,Units,"Rate per 100,000 population",E92000001,6.3
 2017,,75 to 79,England,,Normal value,Units,"Rate per 100,000 population",E92000001,7.6
-1981,,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,19.1
 1982,,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,20.2
 1983,,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,18.1
 1984,,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,20.9
@@ -3021,7 +2943,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,9.3
 2016,,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,8.2
 2017,,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,6.6
-1981,,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,16.8
 1982,,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,21.1
 1983,,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,18.9
 1984,,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,14.5
@@ -3058,7 +2979,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,10.2
 2016,,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,8.8
 2017,,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,9.7
-1981,,90 and over,England,,Normal value,Units,"Rate per 100,000 population",E92000001,20.1
 1982,,90 and over,England,,Normal value,Units,"Rate per 100,000 population",E92000001,12.6
 1983,,90 and over,England,,Normal value,Units,"Rate per 100,000 population",E92000001,12.3
 1984,,90 and over,England,,Normal value,Units,"Rate per 100,000 population",E92000001,13.2
@@ -3176,7 +3096,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2020,,80 to 84,England,,Normal value,Units,"Rate per 100,000 population",E92000001,7.5
 2020,,85 to 89,England,,Normal value,Units,"Rate per 100,000 population",E92000001,9.5
 2020,,90 and over,England,,Normal value,Units,"Rate per 100,000 population",E92000001,9.8
-1981,Female,,Northern Ireland,,Normal value,Units,"Rate per 100,000 population",N92000002,6.4
 1982,Female,,Northern Ireland,,Normal value,Units,"Rate per 100,000 population",N92000002,8.7
 1983,Female,,Northern Ireland,,Normal value,Units,"Rate per 100,000 population",N92000002,10.8
 1984,Female,,Northern Ireland,,Normal value,Units,"Rate per 100,000 population",N92000002,6.6
@@ -3213,7 +3132,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,,Northern Ireland,,Normal value,Units,"Rate per 100,000 population",N92000002,8.8
 2016,Female,,Northern Ireland,,Normal value,Units,"Rate per 100,000 population",N92000002,9.2
 2017,Female,,Northern Ireland,,Normal value,Units,"Rate per 100,000 population",N92000002,8.5
-1981,Male,,Northern Ireland,,Normal value,Units,"Rate per 100,000 population",N92000002,18.5
 1982,Male,,Northern Ireland,,Normal value,Units,"Rate per 100,000 population",N92000002,12.2
 1983,Male,,Northern Ireland,,Normal value,Units,"Rate per 100,000 population",N92000002,18.1
 1984,Male,,Northern Ireland,,Normal value,Units,"Rate per 100,000 population",N92000002,15.0
@@ -3250,7 +3168,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,,Northern Ireland,,Normal value,Units,"Rate per 100,000 population",N92000002,30.3
 2016,Male,,Northern Ireland,,Normal value,Units,"Rate per 100,000 population",N92000002,27.3
 2017,Male,,Northern Ireland,,Normal value,Units,"Rate per 100,000 population",N92000002,29.1
-1981,,,Northern Ireland,,Normal value,Units,"Rate per 100,000 population",N92000002,12.0
 1982,,,Northern Ireland,,Normal value,Units,"Rate per 100,000 population",N92000002,10.4
 1983,,,Northern Ireland,,Normal value,Units,"Rate per 100,000 population",N92000002,14.1
 1984,,,Northern Ireland,,Normal value,Units,"Rate per 100,000 population",N92000002,10.6
@@ -3287,7 +3204,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,,Northern Ireland,,Normal value,Units,"Rate per 100,000 population",N92000002,19.3
 2016,,,Northern Ireland,,Normal value,Units,"Rate per 100,000 population",N92000002,18.1
 2017,,,Northern Ireland,,Normal value,Units,"Rate per 100,000 population",N92000002,18.5
-1981,Female,,Scotland,,Normal value,Units,"Rate per 100,000 population",S92000003,12.0
 1982,Female,,Scotland,,Normal value,Units,"Rate per 100,000 population",S92000003,12.0
 1983,Female,,Scotland,,Normal value,Units,"Rate per 100,000 population",S92000003,9.9
 1984,Female,,Scotland,,Normal value,Units,"Rate per 100,000 population",S92000003,10.0
@@ -3325,7 +3241,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2016,Female,,Scotland,,Normal value,Units,"Rate per 100,000 population",S92000003,8.4
 2017,Female,,Scotland,,Normal value,Units,"Rate per 100,000 population",S92000003,6.3
 2018,Female,,Scotland,,Normal value,Units,"Rate per 100,000 population",S92000003,8.2
-1981,Male,,Scotland,,Normal value,Units,"Rate per 100,000 population",S92000003,24.0
 1982,Male,,Scotland,,Normal value,Units,"Rate per 100,000 population",S92000003,24.2
 1983,Male,,Scotland,,Normal value,Units,"Rate per 100,000 population",S92000003,23.2
 1984,Male,,Scotland,,Normal value,Units,"Rate per 100,000 population",S92000003,23.9
@@ -3363,7 +3278,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2016,Male,,Scotland,,Normal value,Units,"Rate per 100,000 population",S92000003,22.0
 2017,Male,,Scotland,,Normal value,Units,"Rate per 100,000 population",S92000003,22.1
 2018,Male,,Scotland,,Normal value,Units,"Rate per 100,000 population",S92000003,24.5
-1981,,,Scotland,,Normal value,Units,"Rate per 100,000 population",S92000003,17.5
 1982,,,Scotland,,Normal value,Units,"Rate per 100,000 population",S92000003,17.7
 1983,,,Scotland,,Normal value,Units,"Rate per 100,000 population",S92000003,16.1
 1984,,,Scotland,,Normal value,Units,"Rate per 100,000 population",S92000003,16.3
@@ -3401,7 +3315,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2016,,,Scotland,,Normal value,Units,"Rate per 100,000 population",S92000003,15.0
 2017,,,Scotland,,Normal value,Units,"Rate per 100,000 population",S92000003,13.9
 2018,,,Scotland,,Normal value,Units,"Rate per 100,000 population",S92000003,16.1
-1981,Female,,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,9.0
 1982,Female,,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,9.8
 1983,Female,,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,8.2
 1984,Female,,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,9.2
@@ -3438,7 +3351,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,5.5
 2016,Female,,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,4.0
 2017,Female,,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,5.8
-1981,Female,15 to 19,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,2.6
 1982,Female,15 to 19,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,2.6
 1986,Female,15 to 19,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,2.8
 1987,Female,15 to 19,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,3.8
@@ -3455,7 +3367,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,15 to 19,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,3.3
 2016,Female,15 to 19,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,3.4
 2017,Female,15 to 19,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,5.8
-1981,Female,20 to 24,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,4.0
 1985,Female,20 to 24,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,2.7
 1987,Female,20 to 24,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,4.6
 1988,Female,20 to 24,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,2.8
@@ -3510,7 +3421,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2014,Female,25 to 29,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,5.3
 2015,Female,25 to 29,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,6.3
 2017,Female,25 to 29,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,4.0
-1981,Female,30 to 34,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,3.0
 1982,Female,30 to 34,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,7.3
 1983,Female,30 to 34,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,3.2
 1984,Female,30 to 34,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,6.7
@@ -3542,7 +3452,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,30 to 34,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,4.4
 2016,Female,30 to 34,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,4.4
 2017,Female,30 to 34,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,8.6
-1981,Female,35 to 39,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,5.7
 1982,Female,35 to 39,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,7.5
 1983,Female,35 to 39,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,10.3
 1984,Female,35 to 39,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,10.1
@@ -3575,7 +3484,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,35 to 39,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,7.0
 2016,Female,35 to 39,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,3.4
 2017,Female,35 to 39,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,6.6
-1981,Female,40 to 44,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,6.5
 1982,Female,40 to 44,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,10.2
 1983,Female,40 to 44,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,12.6
 1984,Female,40 to 44,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,13.4
@@ -3611,7 +3519,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,40 to 44,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,7.2
 2016,Female,40 to 44,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,3.3
 2017,Female,40 to 44,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,4.5
-1981,Female,45 to 49,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,19.7
 1982,Female,45 to 49,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,9.2
 1983,Female,45 to 49,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,6.5
 1984,Female,45 to 49,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,15.6
@@ -3644,7 +3551,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2013,Female,45 to 49,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,7.1
 2015,Female,45 to 49,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,5.5
 2017,Female,45 to 49,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,8.4
-1981,Female,50 to 54,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,13.7
 1982,Female,50 to 54,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,10.1
 1983,Female,50 to 54,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,9.0
 1984,Female,50 to 54,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,14.3
@@ -3680,7 +3586,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,50 to 54,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,8.9
 2016,Female,50 to 54,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,8.8
 2017,Female,50 to 54,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,7.9
-1981,Female,55 to 59,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,22.5
 1982,Female,55 to 59,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,17.4
 1983,Female,55 to 59,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,10.7
 1984,Female,55 to 59,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,11.0
@@ -3714,7 +3619,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,55 to 59,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,6.0
 2016,Female,55 to 59,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,10.6
 2017,Female,55 to 59,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,1.9
-1981,Female,60 to 64,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,17.7
 1982,Female,60 to 64,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,19.5
 1983,Female,60 to 64,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,11.2
 1984,Female,60 to 64,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,21.9
@@ -3747,7 +3651,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,60 to 64,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,8.5
 2016,Female,60 to 64,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,3.2
 2017,Female,60 to 64,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,12.5
-1981,Female,65 to 69,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,13.5
 1982,Female,65 to 69,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,25.2
 1983,Female,65 to 69,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,11.8
 1984,Female,65 to 69,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,12.2
@@ -3780,7 +3683,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2014,Female,65 to 69,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,6.1
 2016,Female,65 to 69,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,4.0
 2017,Female,65 to 69,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,6.2
-1981,Female,70 to 74,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,8.2
 1982,Female,70 to 74,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,11.0
 1983,Female,70 to 74,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,16.5
 1984,Female,70 to 74,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,12.4
@@ -3809,7 +3711,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2013,Female,70 to 74,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,4.1
 2015,Female,70 to 74,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,6.4
 2017,Female,70 to 74,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,3.5
-1981,Female,75 to 79,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,5.3
 1982,Female,75 to 79,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,14.0
 1983,Female,75 to 79,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,12.0
 1985,Female,75 to 79,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,15.2
@@ -3901,7 +3802,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2020,Female,55 to 59,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,4.4
 2020,Female,60 to 64,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,5.9
 2020,Female,80 to 84,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,6.0
-1981,Male,,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,16.0
 1982,Male,,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,20.9
 1983,Male,,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,19.9
 1984,Male,,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,18.0
@@ -3938,7 +3838,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,21.0
 2016,Male,,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,20.0
 2017,Male,,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,20.9
-1981,Male,15 to 19,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,5.1
 1982,Male,15 to 19,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,6.8
 1983,Male,15 to 19,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,9.4
 1984,Male,15 to 19,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,10.5
@@ -3975,7 +3874,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,15 to 19,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,7.3
 2016,Male,15 to 19,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,13.8
 2017,Male,15 to 19,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,16.3
-1981,Male,20 to 24,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,8.8
 1982,Male,20 to 24,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,17.2
 1983,Male,20 to 24,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,21.2
 1984,Male,20 to 24,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,12.6
@@ -4012,7 +3910,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,20 to 24,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,12.7
 2016,Male,20 to 24,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,15.5
 2017,Male,20 to 24,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,15.6
-1981,Male,25 to 29,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,14.4
 1982,Male,25 to 29,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,16.8
 1983,Male,25 to 29,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,16.8
 1984,Male,25 to 29,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,14.4
@@ -4049,7 +3946,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,25 to 29,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,25.2
 2016,Male,25 to 29,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,24.3
 2017,Male,25 to 29,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,32.7
-1981,Male,30 to 34,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,15.7
 1982,Male,30 to 34,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,21.8
 1983,Male,30 to 34,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,11.9
 1984,Male,30 to 34,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,9.9
@@ -4086,7 +3982,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,30 to 34,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,38.6
 2016,Male,30 to 34,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,28.5
 2017,Male,30 to 34,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,24.9
-1981,Male,35 to 39,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,13.5
 1982,Male,35 to 39,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,13.9
 1983,Male,35 to 39,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,17.5
 1984,Male,35 to 39,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,19.2
@@ -4123,7 +4018,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,35 to 39,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,22.4
 2016,Male,35 to 39,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,27.6
 2017,Male,35 to 39,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,19.2
-1981,Male,40 to 44,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,10.0
 1982,Male,40 to 44,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,23.6
 1983,Male,40 to 44,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,19.6
 1984,Male,40 to 44,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,25.1
@@ -4160,7 +4054,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,40 to 44,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,30.1
 2016,Male,40 to 44,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,29.3
 2017,Male,40 to 44,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,37.4
-1981,Male,45 to 49,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,24.8
 1982,Male,45 to 49,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,18.2
 1983,Male,45 to 49,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,22.0
 1984,Male,45 to 49,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,19.2
@@ -4197,7 +4090,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,45 to 49,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,25.8
 2016,Male,45 to 49,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,23.1
 2017,Male,45 to 49,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,36.0
-1981,Male,50 to 54,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,22.7
 1982,Male,50 to 54,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,33.4
 1983,Male,50 to 54,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,29.8
 1984,Male,50 to 54,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,34.0
@@ -4234,7 +4126,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,50 to 54,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,26.9
 2016,Male,50 to 54,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,19.4
 2017,Male,50 to 54,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,24.0
-1981,Male,55 to 59,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,22.7
 1982,Male,55 to 59,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,28.1
 1983,Male,55 to 59,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,28.6
 1984,Male,55 to 59,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,20.3
@@ -4271,7 +4162,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,55 to 59,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,28.0
 2016,Male,55 to 59,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,25.2
 2017,Male,55 to 59,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,26.6
-1981,Male,60 to 64,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,13.6
 1982,Male,60 to 64,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,21.1
 1983,Male,60 to 64,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,26.8
 1984,Male,60 to 64,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,19.7
@@ -4308,7 +4198,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,60 to 64,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,16.6
 2016,Male,60 to 64,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,18.9
 2017,Male,60 to 64,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,18.7
-1981,Male,65 to 69,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,15.1
 1982,Male,65 to 69,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,27.9
 1983,Male,65 to 69,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,25.8
 1984,Male,65 to 69,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,19.9
@@ -4345,7 +4234,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,65 to 69,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,15.7
 2016,Male,65 to 69,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,19.7
 2017,Male,65 to 69,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,10.8
-1981,Male,70 to 74,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,23.1
 1982,Male,70 to 74,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,28.7
 1983,Male,70 to 74,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,28.5
 1984,Male,70 to 74,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,20.8
@@ -4382,7 +4270,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,70 to 74,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,12.4
 2016,Male,70 to 74,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,16.1
 2017,Male,70 to 74,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,7.4
-1981,Male,75 to 79,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,15.4
 1982,Male,75 to 79,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,33.2
 1983,Male,75 to 79,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,20.9
 1984,Male,75 to 79,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,20.4
@@ -4419,7 +4306,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,75 to 79,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,14.9
 2016,Male,75 to 79,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,5.6
 2017,Male,75 to 79,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,18.1
-1981,Male,80 to 84,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,32.9
 1982,Male,80 to 84,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,38.4
 1983,Male,80 to 84,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,36.4
 1984,Male,80 to 84,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,17.6
@@ -4522,7 +4408,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2020,Male,80 to 84,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,7.4
 2020,Male,85 to 89,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,18.4
 2020,Male,90 and over,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,50.4
-1981,,,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,12.0
 1982,,,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,14.9
 1983,,,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,13.9
 1984,,,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,13.3
@@ -4559,7 +4444,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,13.0
 2016,,,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,11.8
 2017,,,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,13.2
-1981,,15 to 19,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,3.9
 1982,,15 to 19,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,4.7
 1983,,15 to 19,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,4.8
 1984,,15 to 19,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,5.3
@@ -4596,7 +4480,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,15 to 19,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,5.4
 2016,,15 to 19,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,8.8
 2017,,15 to 19,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,11.2
-1981,,20 to 24,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,6.5
 1982,,20 to 24,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,9.6
 1983,,20 to 24,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,11.5
 1984,,20 to 24,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,7.2
@@ -4633,7 +4516,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,20 to 24,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,9.8
 2016,,20 to 24,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,14.2
 2017,,20 to 24,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,11.5
-1981,,25 to 29,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,8.3
 1982,,25 to 29,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,11.3
 1983,,25 to 29,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,10.2
 1984,,25 to 29,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,8.9
@@ -4670,7 +4552,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,25 to 29,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,15.9
 2016,,25 to 29,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,12.9
 2017,,25 to 29,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,18.6
-1981,,30 to 34,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,9.4
 1982,,30 to 34,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,14.6
 1983,,30 to 34,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,7.6
 1984,,30 to 34,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,8.3
@@ -4707,7 +4588,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,30 to 34,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,21.4
 2016,,30 to 34,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,16.4
 2017,,30 to 34,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,16.7
-1981,,35 to 39,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,9.7
 1982,,35 to 39,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,10.7
 1983,,35 to 39,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,13.9
 1984,,35 to 39,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,14.7
@@ -4744,7 +4624,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,35 to 39,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,14.6
 2016,,35 to 39,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,15.4
 2017,,35 to 39,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,12.8
-1981,,40 to 44,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,8.3
 1982,,40 to 44,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,17.0
 1983,,40 to 44,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,16.1
 1984,,40 to 44,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,19.3
@@ -4781,7 +4660,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,40 to 44,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,18.4
 2016,,40 to 44,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,16.0
 2017,,40 to 44,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,20.7
-1981,,45 to 49,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,22.2
 1982,,45 to 49,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,13.7
 1983,,45 to 49,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,14.3
 1984,,45 to 49,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,17.4
@@ -4818,7 +4696,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,45 to 49,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,15.4
 2016,,45 to 49,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,11.7
 2017,,45 to 49,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,21.9
-1981,,50 to 54,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,18.2
 1982,,50 to 54,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,21.7
 1983,,50 to 54,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,19.3
 1984,,50 to 54,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,24.1
@@ -4855,7 +4732,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,50 to 54,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,17.8
 2016,,50 to 54,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,14.0
 2017,,50 to 54,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,15.8
-1981,,55 to 59,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,22.6
 1982,,55 to 59,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,22.6
 1983,,55 to 59,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,19.5
 1984,,55 to 59,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,15.5
@@ -4892,7 +4768,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,55 to 59,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,16.7
 2016,,55 to 59,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,17.8
 2017,,55 to 59,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,14.0
-1981,,60 to 64,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,15.8
 1982,,60 to 64,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,20.2
 1983,,60 to 64,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,18.5
 1984,,60 to 64,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,20.9
@@ -4929,7 +4804,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,60 to 64,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,12.4
 2016,,60 to 64,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,10.8
 2017,,60 to 64,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,15.5
-1981,,65 to 69,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,14.2
 1982,,65 to 69,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,26.4
 1983,,65 to 69,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,18.1
 1984,,65 to 69,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,15.7
@@ -4966,7 +4840,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,65 to 69,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,8.7
 2016,,65 to 69,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,11.6
 2017,,65 to 69,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,8.5
-1981,,70 to 74,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,14.4
 1982,,70 to 74,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,18.4
 1983,,70 to 74,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,21.5
 1984,,70 to 74,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,15.9
@@ -5003,7 +4876,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,70 to 74,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,9.3
 2016,,70 to 74,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,8.4
 2017,,70 to 74,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,5.4
-1981,,75 to 79,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,9.0
 1982,,75 to 79,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,21.0
 1983,,75 to 79,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,15.3
 1984,,75 to 79,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,9.6
@@ -5040,7 +4912,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,75 to 79,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,9.5
 2016,,75 to 79,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,2.6
 2017,,75 to 79,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,11.0
-1981,,80 to 84,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,14.0
 1982,,80 to 84,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,19.4
 1983,,80 to 84,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,20.6
 1984,,80 to 84,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,9.0
@@ -5161,7 +5032,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2020,,80 to 84,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,6.6
 2020,,85 to 89,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,9.2
 2020,,90 and over,Wales,,Normal value,Units,"Rate per 100,000 population",W92000004,19.5
-1981,Female,,,,Normal value,Units,"Rate per 100,000 population",,10.6
 1982,Female,,,,Normal value,Units,"Rate per 100,000 population",,10.2
 1983,Female,,,,Normal value,Units,"Rate per 100,000 population",,9.6
 1984,Female,,,,Normal value,Units,"Rate per 100,000 population",,9.5
@@ -5218,7 +5088,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2014,Female,10 to 14,,,Low reliability,Units,"Rate per 100,000 population",,0.3
 2015,Female,10 to 14,,,Low reliability,Units,"Rate per 100,000 population",,0.3
 2017,Female,10 to 14,,,Low reliability,Units,"Rate per 100,000 population",,0.4
-1981,Female,15 to 19,,,Normal value,Units,"Rate per 100,000 population",,2.4
 1982,Female,15 to 19,,,Normal value,Units,"Rate per 100,000 population",,1.9
 1983,Female,15 to 19,,,Normal value,Units,"Rate per 100,000 population",,2.1
 1984,Female,15 to 19,,,Normal value,Units,"Rate per 100,000 population",,1.9
@@ -5255,7 +5124,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,15 to 19,,,Normal value,Units,"Rate per 100,000 population",,3.1
 2016,Female,15 to 19,,,Normal value,Units,"Rate per 100,000 population",,2.9
 2017,Female,15 to 19,,,Normal value,Units,"Rate per 100,000 population",,3.5
-1981,Female,20 to 24,,,Normal value,Units,"Rate per 100,000 population",,4.4
 1982,Female,20 to 24,,,Normal value,Units,"Rate per 100,000 population",,4.9
 1983,Female,20 to 24,,,Normal value,Units,"Rate per 100,000 population",,4.1
 1984,Female,20 to 24,,,Normal value,Units,"Rate per 100,000 population",,3.3
@@ -5292,7 +5160,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,20 to 24,,,Normal value,Units,"Rate per 100,000 population",,3.9
 2016,Female,20 to 24,,,Normal value,Units,"Rate per 100,000 population",,5.7
 2017,Female,20 to 24,,,Normal value,Units,"Rate per 100,000 population",,4.3
-1981,Female,25 to 29,,,Normal value,Units,"Rate per 100,000 population",,5.4
 1982,Female,25 to 29,,,Normal value,Units,"Rate per 100,000 population",,6.1
 1983,Female,25 to 29,,,Normal value,Units,"Rate per 100,000 population",,5.1
 1984,Female,25 to 29,,,Normal value,Units,"Rate per 100,000 population",,5.6
@@ -5329,7 +5196,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,25 to 29,,,Normal value,Units,"Rate per 100,000 population",,4.8
 2016,Female,25 to 29,,,Normal value,Units,"Rate per 100,000 population",,4.2
 2017,Female,25 to 29,,,Normal value,Units,"Rate per 100,000 population",,4.2
-1981,Female,30 to 34,,,Normal value,Units,"Rate per 100,000 population",,7.0
 1982,Female,30 to 34,,,Normal value,Units,"Rate per 100,000 population",,6.9
 1983,Female,30 to 34,,,Normal value,Units,"Rate per 100,000 population",,5.7
 1984,Female,30 to 34,,,Normal value,Units,"Rate per 100,000 population",,5.5
@@ -5366,7 +5232,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,30 to 34,,,Normal value,Units,"Rate per 100,000 population",,5.6
 2016,Female,30 to 34,,,Normal value,Units,"Rate per 100,000 population",,5.0
 2017,Female,30 to 34,,,Normal value,Units,"Rate per 100,000 population",,5.7
-1981,Female,35 to 39,,,Normal value,Units,"Rate per 100,000 population",,7.7
 1982,Female,35 to 39,,,Normal value,Units,"Rate per 100,000 population",,8.2
 1983,Female,35 to 39,,,Normal value,Units,"Rate per 100,000 population",,8.6
 1984,Female,35 to 39,,,Normal value,Units,"Rate per 100,000 population",,8.4
@@ -5403,7 +5268,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,35 to 39,,,Normal value,Units,"Rate per 100,000 population",,6.2
 2016,Female,35 to 39,,,Normal value,Units,"Rate per 100,000 population",,4.7
 2017,Female,35 to 39,,,Normal value,Units,"Rate per 100,000 population",,5.6
-1981,Female,40 to 44,,,Normal value,Units,"Rate per 100,000 population",,11.5
 1982,Female,40 to 44,,,Normal value,Units,"Rate per 100,000 population",,10.5
 1983,Female,40 to 44,,,Normal value,Units,"Rate per 100,000 population",,9.8
 1984,Female,40 to 44,,,Normal value,Units,"Rate per 100,000 population",,9.4
@@ -5440,7 +5304,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,40 to 44,,,Normal value,Units,"Rate per 100,000 population",,6.1
 2016,Female,40 to 44,,,Normal value,Units,"Rate per 100,000 population",,6.7
 2017,Female,40 to 44,,,Normal value,Units,"Rate per 100,000 population",,6.3
-1981,Female,45 to 49,,,Normal value,Units,"Rate per 100,000 population",,13.2
 1982,Female,45 to 49,,,Normal value,Units,"Rate per 100,000 population",,12.2
 1983,Female,45 to 49,,,Normal value,Units,"Rate per 100,000 population",,11.3
 1984,Female,45 to 49,,,Normal value,Units,"Rate per 100,000 population",,12.1
@@ -5477,7 +5340,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,45 to 49,,,Normal value,Units,"Rate per 100,000 population",,7.5
 2016,Female,45 to 49,,,Normal value,Units,"Rate per 100,000 population",,6.9
 2017,Female,45 to 49,,,Normal value,Units,"Rate per 100,000 population",,6.6
-1981,Female,50 to 54,,,Normal value,Units,"Rate per 100,000 population",,15.4
 1982,Female,50 to 54,,,Normal value,Units,"Rate per 100,000 population",,14.3
 1983,Female,50 to 54,,,Normal value,Units,"Rate per 100,000 population",,12.4
 1984,Female,50 to 54,,,Normal value,Units,"Rate per 100,000 population",,13.7
@@ -5514,7 +5376,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,50 to 54,,,Normal value,Units,"Rate per 100,000 population",,8.6
 2016,Female,50 to 54,,,Normal value,Units,"Rate per 100,000 population",,8.3
 2017,Female,50 to 54,,,Normal value,Units,"Rate per 100,000 population",,6.8
-1981,Female,55 to 59,,,Normal value,Units,"Rate per 100,000 population",,16.1
 1982,Female,55 to 59,,,Normal value,Units,"Rate per 100,000 population",,15.2
 1983,Female,55 to 59,,,Normal value,Units,"Rate per 100,000 population",,14.8
 1984,Female,55 to 59,,,Normal value,Units,"Rate per 100,000 population",,13.5
@@ -5551,7 +5412,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,55 to 59,,,Normal value,Units,"Rate per 100,000 population",,6.5
 2016,Female,55 to 59,,,Normal value,Units,"Rate per 100,000 population",,6.6
 2017,Female,55 to 59,,,Normal value,Units,"Rate per 100,000 population",,5.3
-1981,Female,60 to 64,,,Normal value,Units,"Rate per 100,000 population",,14.9
 1982,Female,60 to 64,,,Normal value,Units,"Rate per 100,000 population",,14.6
 1983,Female,60 to 64,,,Normal value,Units,"Rate per 100,000 population",,14.2
 1984,Female,60 to 64,,,Normal value,Units,"Rate per 100,000 population",,15.3
@@ -5588,7 +5448,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,60 to 64,,,Normal value,Units,"Rate per 100,000 population",,6.8
 2016,Female,60 to 64,,,Normal value,Units,"Rate per 100,000 population",,5.5
 2017,Female,60 to 64,,,Normal value,Units,"Rate per 100,000 population",,5.2
-1981,Female,65 to 69,,,Normal value,Units,"Rate per 100,000 population",,17.0
 1982,Female,65 to 69,,,Normal value,Units,"Rate per 100,000 population",,14.9
 1983,Female,65 to 69,,,Normal value,Units,"Rate per 100,000 population",,14.8
 1984,Female,65 to 69,,,Normal value,Units,"Rate per 100,000 population",,13.5
@@ -5625,7 +5484,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,65 to 69,,,Normal value,Units,"Rate per 100,000 population",,4.7
 2016,Female,65 to 69,,,Normal value,Units,"Rate per 100,000 population",,4.2
 2017,Female,65 to 69,,,Normal value,Units,"Rate per 100,000 population",,4.6
-1981,Female,70 to 74,,,Normal value,Units,"Rate per 100,000 population",,16.8
 1982,Female,70 to 74,,,Normal value,Units,"Rate per 100,000 population",,16.8
 1983,Female,70 to 74,,,Normal value,Units,"Rate per 100,000 population",,15.5
 1984,Female,70 to 74,,,Normal value,Units,"Rate per 100,000 population",,14.1
@@ -5662,7 +5520,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,70 to 74,,,Normal value,Units,"Rate per 100,000 population",,4.7
 2016,Female,70 to 74,,,Normal value,Units,"Rate per 100,000 population",,3.9
 2017,Female,70 to 74,,,Normal value,Units,"Rate per 100,000 population",,4.0
-1981,Female,75 to 79,,,Normal value,Units,"Rate per 100,000 population",,14.6
 1982,Female,75 to 79,,,Normal value,Units,"Rate per 100,000 population",,14.7
 1983,Female,75 to 79,,,Normal value,Units,"Rate per 100,000 population",,14.2
 1984,Female,75 to 79,,,Normal value,Units,"Rate per 100,000 population",,14.2
@@ -5699,7 +5556,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,75 to 79,,,Normal value,Units,"Rate per 100,000 population",,4.9
 2016,Female,75 to 79,,,Normal value,Units,"Rate per 100,000 population",,2.7
 2017,Female,75 to 79,,,Normal value,Units,"Rate per 100,000 population",,4.9
-1981,Female,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,13.0
 1982,Female,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,15.3
 1983,Female,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,12.1
 1984,Female,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,14.8
@@ -5736,7 +5592,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,4.4
 2016,Female,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,3.2
 2017,Female,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,3.8
-1981,Female,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,12.4
 1982,Female,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,12.3
 1983,Female,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,15.4
 1984,Female,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,10.4
@@ -5773,7 +5628,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Female,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,4.8
 2016,Female,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,3.9
 2017,Female,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,4.2
-1981,Female,90 and over,,,Normal value,Units,"Rate per 100,000 population",,12.2
 1982,Female,90 and over,,,Normal value,Units,"Rate per 100,000 population",,9.2
 1983,Female,90 and over,,,Normal value,Units,"Rate per 100,000 population",,8.2
 1984,Female,90 and over,,,Normal value,Units,"Rate per 100,000 population",,8.6
@@ -5828,7 +5682,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2018,Female,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,2.8
 2018,Female,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,4.8
 2018,Female,90 and over,,,Normal value,Units,"Rate per 100,000 population",,5.0
-1981,Male,,,,Normal value,Units,"Rate per 100,000 population",,19.5
 1982,Male,,,,Normal value,Units,"Rate per 100,000 population",,19.3
 1983,Male,,,,Normal value,Units,"Rate per 100,000 population",,19.1
 1984,Male,,,,Normal value,Units,"Rate per 100,000 population",,19.2
@@ -5865,7 +5718,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,,,,Normal value,Units,"Rate per 100,000 population",,16.6
 2016,Male,,,,Normal value,Units,"Rate per 100,000 population",,16.0
 2017,Male,,,,Normal value,Units,"Rate per 100,000 population",,15.5
-1981,Male,10 to 14,,,Low reliability,Units,"Rate per 100,000 population",,0.2
 1982,Male,10 to 14,,,Low reliability,Units,"Rate per 100,000 population",,0.2
 1983,Male,10 to 14,,,Low reliability,Units,"Rate per 100,000 population",,0.1
 1984,Male,10 to 14,,,Low reliability,Units,"Rate per 100,000 population",,0.1
@@ -5896,7 +5748,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,10 to 14,,,Low reliability,Units,"Rate per 100,000 population",,0.2
 2016,Male,10 to 14,,,Low reliability,Units,"Rate per 100,000 population",,0.2
 2017,Male,10 to 14,,,Low reliability,Units,"Rate per 100,000 population",,0.4
-1981,Male,15 to 19,,,Normal value,Units,"Rate per 100,000 population",,7.1
 1982,Male,15 to 19,,,Normal value,Units,"Rate per 100,000 population",,5.8
 1983,Male,15 to 19,,,Normal value,Units,"Rate per 100,000 population",,6.1
 1984,Male,15 to 19,,,Normal value,Units,"Rate per 100,000 population",,6.5
@@ -5933,7 +5784,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,15 to 19,,,Normal value,Units,"Rate per 100,000 population",,8.3
 2016,Male,15 to 19,,,Normal value,Units,"Rate per 100,000 population",,7.5
 2017,Male,15 to 19,,,Normal value,Units,"Rate per 100,000 population",,7.6
-1981,Male,20 to 24,,,Normal value,Units,"Rate per 100,000 population",,14.6
 1982,Male,20 to 24,,,Normal value,Units,"Rate per 100,000 population",,13.6
 1983,Male,20 to 24,,,Normal value,Units,"Rate per 100,000 population",,13.5
 1984,Male,20 to 24,,,Normal value,Units,"Rate per 100,000 population",,14.0
@@ -5970,7 +5820,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,20 to 24,,,Normal value,Units,"Rate per 100,000 population",,14.9
 2016,Male,20 to 24,,,Normal value,Units,"Rate per 100,000 population",,14.8
 2017,Male,20 to 24,,,Normal value,Units,"Rate per 100,000 population",,12.9
-1981,Male,25 to 29,,,Normal value,Units,"Rate per 100,000 population",,19.4
 1982,Male,25 to 29,,,Normal value,Units,"Rate per 100,000 population",,18.6
 1983,Male,25 to 29,,,Normal value,Units,"Rate per 100,000 population",,17.4
 1984,Male,25 to 29,,,Normal value,Units,"Rate per 100,000 population",,17.3
@@ -6007,7 +5856,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,25 to 29,,,Normal value,Units,"Rate per 100,000 population",,16.6
 2016,Male,25 to 29,,,Normal value,Units,"Rate per 100,000 population",,17.5
 2017,Male,25 to 29,,,Normal value,Units,"Rate per 100,000 population",,17.0
-1981,Male,30 to 34,,,Normal value,Units,"Rate per 100,000 population",,17.9
 1982,Male,30 to 34,,,Normal value,Units,"Rate per 100,000 population",,18.5
 1983,Male,30 to 34,,,Normal value,Units,"Rate per 100,000 population",,18.4
 1984,Male,30 to 34,,,Normal value,Units,"Rate per 100,000 population",,19.5
@@ -6044,7 +5892,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,30 to 34,,,Normal value,Units,"Rate per 100,000 population",,19.2
 2016,Male,30 to 34,,,Normal value,Units,"Rate per 100,000 population",,19.1
 2017,Male,30 to 34,,,Normal value,Units,"Rate per 100,000 population",,17.7
-1981,Male,35 to 39,,,Normal value,Units,"Rate per 100,000 population",,19.6
 1982,Male,35 to 39,,,Normal value,Units,"Rate per 100,000 population",,18.4
 1983,Male,35 to 39,,,Normal value,Units,"Rate per 100,000 population",,19.3
 1984,Male,35 to 39,,,Normal value,Units,"Rate per 100,000 population",,19.6
@@ -6081,7 +5928,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,35 to 39,,,Normal value,Units,"Rate per 100,000 population",,19.5
 2016,Male,35 to 39,,,Normal value,Units,"Rate per 100,000 population",,19.0
 2017,Male,35 to 39,,,Normal value,Units,"Rate per 100,000 population",,19.0
-1981,Male,40 to 44,,,Normal value,Units,"Rate per 100,000 population",,21.5
 1982,Male,40 to 44,,,Normal value,Units,"Rate per 100,000 population",,20.2
 1983,Male,40 to 44,,,Normal value,Units,"Rate per 100,000 population",,21.9
 1984,Male,40 to 44,,,Normal value,Units,"Rate per 100,000 population",,22.4
@@ -6118,7 +5964,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,40 to 44,,,Normal value,Units,"Rate per 100,000 population",,24.1
 2016,Male,40 to 44,,,Normal value,Units,"Rate per 100,000 population",,24.1
 2017,Male,40 to 44,,,Normal value,Units,"Rate per 100,000 population",,22.7
-1981,Male,45 to 49,,,Normal value,Units,"Rate per 100,000 population",,21.8
 1982,Male,45 to 49,,,Normal value,Units,"Rate per 100,000 population",,24.1
 1983,Male,45 to 49,,,Normal value,Units,"Rate per 100,000 population",,22.9
 1984,Male,45 to 49,,,Normal value,Units,"Rate per 100,000 population",,22.7
@@ -6155,7 +6000,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,45 to 49,,,Normal value,Units,"Rate per 100,000 population",,23.9
 2016,Male,45 to 49,,,Normal value,Units,"Rate per 100,000 population",,23.1
 2017,Male,45 to 49,,,Normal value,Units,"Rate per 100,000 population",,24.8
-1981,Male,50 to 54,,,Normal value,Units,"Rate per 100,000 population",,23.5
 1982,Male,50 to 54,,,Normal value,Units,"Rate per 100,000 population",,21.8
 1983,Male,50 to 54,,,Normal value,Units,"Rate per 100,000 population",,22.7
 1984,Male,50 to 54,,,Normal value,Units,"Rate per 100,000 population",,22.5
@@ -6192,7 +6036,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,50 to 54,,,Normal value,Units,"Rate per 100,000 population",,21.0
 2016,Male,50 to 54,,,Normal value,Units,"Rate per 100,000 population",,22.0
 2017,Male,50 to 54,,,Normal value,Units,"Rate per 100,000 population",,21.6
-1981,Male,55 to 59,,,Normal value,Units,"Rate per 100,000 population",,23.8
 1982,Male,55 to 59,,,Normal value,Units,"Rate per 100,000 population",,24.9
 1983,Male,55 to 59,,,Normal value,Units,"Rate per 100,000 population",,21.8
 1984,Male,55 to 59,,,Normal value,Units,"Rate per 100,000 population",,23.9
@@ -6229,7 +6072,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,55 to 59,,,Normal value,Units,"Rate per 100,000 population",,21.8
 2016,Male,55 to 59,,,Normal value,Units,"Rate per 100,000 population",,19.9
 2017,Male,55 to 59,,,Normal value,Units,"Rate per 100,000 population",,18.8
-1981,Male,60 to 64,,,Normal value,Units,"Rate per 100,000 population",,23.0
 1982,Male,60 to 64,,,Normal value,Units,"Rate per 100,000 population",,20.7
 1983,Male,60 to 64,,,Normal value,Units,"Rate per 100,000 population",,22.9
 1984,Male,60 to 64,,,Normal value,Units,"Rate per 100,000 population",,20.3
@@ -6266,7 +6108,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,60 to 64,,,Normal value,Units,"Rate per 100,000 population",,16.1
 2016,Male,60 to 64,,,Normal value,Units,"Rate per 100,000 population",,14.4
 2017,Male,60 to 64,,,Normal value,Units,"Rate per 100,000 population",,14.2
-1981,Male,65 to 69,,,Normal value,Units,"Rate per 100,000 population",,20.1
 1982,Male,65 to 69,,,Normal value,Units,"Rate per 100,000 population",,22.9
 1983,Male,65 to 69,,,Normal value,Units,"Rate per 100,000 population",,22.4
 1984,Male,65 to 69,,,Normal value,Units,"Rate per 100,000 population",,20.1
@@ -6303,7 +6144,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,65 to 69,,,Normal value,Units,"Rate per 100,000 population",,13.1
 2016,Male,65 to 69,,,Normal value,Units,"Rate per 100,000 population",,12.0
 2017,Male,65 to 69,,,Normal value,Units,"Rate per 100,000 population",,11.6
-1981,Male,70 to 74,,,Normal value,Units,"Rate per 100,000 population",,23.0
 1982,Male,70 to 74,,,Normal value,Units,"Rate per 100,000 population",,22.8
 1983,Male,70 to 74,,,Normal value,Units,"Rate per 100,000 population",,22.0
 1984,Male,70 to 74,,,Normal value,Units,"Rate per 100,000 population",,24.3
@@ -6340,7 +6180,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,70 to 74,,,Normal value,Units,"Rate per 100,000 population",,11.7
 2016,Male,70 to 74,,,Normal value,Units,"Rate per 100,000 population",,10.1
 2017,Male,70 to 74,,,Normal value,Units,"Rate per 100,000 population",,9.8
-1981,Male,75 to 79,,,Normal value,Units,"Rate per 100,000 population",,27.7
 1982,Male,75 to 79,,,Normal value,Units,"Rate per 100,000 population",,25.6
 1983,Male,75 to 79,,,Normal value,Units,"Rate per 100,000 population",,27.7
 1984,Male,75 to 79,,,Normal value,Units,"Rate per 100,000 population",,27.3
@@ -6377,7 +6216,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,75 to 79,,,Normal value,Units,"Rate per 100,000 population",,11.3
 2016,Male,75 to 79,,,Normal value,Units,"Rate per 100,000 population",,10.4
 2017,Male,75 to 79,,,Normal value,Units,"Rate per 100,000 population",,11.4
-1981,Male,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,28.9
 1982,Male,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,30.7
 1983,Male,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,31.9
 1984,Male,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,30.1
@@ -6414,7 +6252,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,15.2
 2016,Male,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,14.7
 2017,Male,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,9.1
-1981,Male,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,27.4
 1982,Male,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,38.8
 1983,Male,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,25.3
 1984,Male,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,24.4
@@ -6451,7 +6288,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,Male,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,17.5
 2016,Male,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,15.0
 2017,Male,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,17.1
-1981,Male,90 and over,,,Normal value,Units,"Rate per 100,000 population",,45.4
 1982,Male,90 and over,,,Normal value,Units,"Rate per 100,000 population",,19.9
 1983,Male,90 and over,,,Normal value,Units,"Rate per 100,000 population",,25.3
 1984,Male,90 and over,,,Normal value,Units,"Rate per 100,000 population",,27.6
@@ -6506,7 +6342,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2018,Male,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,17.2
 2018,Male,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,19.4
 2018,Male,90 and over,,,Normal value,Units,"Rate per 100,000 population",,20.7
-1981,,,,,Normal value,Units,"Rate per 100,000 population",,14.7
 1982,,,,,Normal value,Units,"Rate per 100,000 population",,14.4
 1983,,,,,Normal value,Units,"Rate per 100,000 population",,14.0
 1984,,,,,Normal value,Units,"Rate per 100,000 population",,14.0
@@ -6543,7 +6378,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,,,,Normal value,Units,"Rate per 100,000 population",,10.9
 2016,,,,,Normal value,Units,"Rate per 100,000 population",,10.4
 2017,,,,,Normal value,Units,"Rate per 100,000 population",,10.1
-1981,,10 to 14,,,Low reliability,Units,"Rate per 100,000 population",,0.2
 1982,,10 to 14,,,Low reliability,Units,"Rate per 100,000 population",,0.2
 1983,,10 to 14,,,Low reliability,Units,"Rate per 100,000 population",,0.2
 1984,,10 to 14,,,Low reliability,Units,"Rate per 100,000 population",,0.1
@@ -6578,7 +6412,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,10 to 14,,,Low reliability,Units,"Rate per 100,000 population",,0.3
 2016,,10 to 14,,,Low reliability,Units,"Rate per 100,000 population",,0.1
 2017,,10 to 14,,,Low reliability,Units,"Rate per 100,000 population",,0.4
-1981,,15 to 19,,,Normal value,Units,"Rate per 100,000 population",,4.8
 1982,,15 to 19,,,Normal value,Units,"Rate per 100,000 population",,3.9
 1983,,15 to 19,,,Normal value,Units,"Rate per 100,000 population",,4.1
 1984,,15 to 19,,,Normal value,Units,"Rate per 100,000 population",,4.3
@@ -6615,7 +6448,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,15 to 19,,,Normal value,Units,"Rate per 100,000 population",,5.8
 2016,,15 to 19,,,Normal value,Units,"Rate per 100,000 population",,5.3
 2017,,15 to 19,,,Normal value,Units,"Rate per 100,000 population",,5.6
-1981,,20 to 24,,,Normal value,Units,"Rate per 100,000 population",,9.6
 1982,,20 to 24,,,Normal value,Units,"Rate per 100,000 population",,9.3
 1983,,20 to 24,,,Normal value,Units,"Rate per 100,000 population",,8.8
 1984,,20 to 24,,,Normal value,Units,"Rate per 100,000 population",,8.7
@@ -6652,7 +6484,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,20 to 24,,,Normal value,Units,"Rate per 100,000 population",,9.5
 2016,,20 to 24,,,Normal value,Units,"Rate per 100,000 population",,10.4
 2017,,20 to 24,,,Normal value,Units,"Rate per 100,000 population",,8.7
-1981,,25 to 29,,,Normal value,Units,"Rate per 100,000 population",,12.4
 1982,,25 to 29,,,Normal value,Units,"Rate per 100,000 population",,12.4
 1983,,25 to 29,,,Normal value,Units,"Rate per 100,000 population",,11.3
 1984,,25 to 29,,,Normal value,Units,"Rate per 100,000 population",,11.5
@@ -6689,7 +6520,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,25 to 29,,,Normal value,Units,"Rate per 100,000 population",,10.8
 2016,,25 to 29,,,Normal value,Units,"Rate per 100,000 population",,10.9
 2017,,25 to 29,,,Normal value,Units,"Rate per 100,000 population",,10.6
-1981,,30 to 34,,,Normal value,Units,"Rate per 100,000 population",,12.5
 1982,,30 to 34,,,Normal value,Units,"Rate per 100,000 population",,12.8
 1983,,30 to 34,,,Normal value,Units,"Rate per 100,000 population",,12.1
 1984,,30 to 34,,,Normal value,Units,"Rate per 100,000 population",,12.6
@@ -6726,7 +6556,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,30 to 34,,,Normal value,Units,"Rate per 100,000 population",,12.4
 2016,,30 to 34,,,Normal value,Units,"Rate per 100,000 population",,12.0
 2017,,30 to 34,,,Normal value,Units,"Rate per 100,000 population",,11.6
-1981,,35 to 39,,,Normal value,Units,"Rate per 100,000 population",,13.7
 1982,,35 to 39,,,Normal value,Units,"Rate per 100,000 population",,13.3
 1983,,35 to 39,,,Normal value,Units,"Rate per 100,000 population",,14.0
 1984,,35 to 39,,,Normal value,Units,"Rate per 100,000 population",,14.0
@@ -6763,7 +6592,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,35 to 39,,,Normal value,Units,"Rate per 100,000 population",,12.8
 2016,,35 to 39,,,Normal value,Units,"Rate per 100,000 population",,11.8
 2017,,35 to 39,,,Normal value,Units,"Rate per 100,000 population",,12.2
-1981,,40 to 44,,,Normal value,Units,"Rate per 100,000 population",,16.5
 1982,,40 to 44,,,Normal value,Units,"Rate per 100,000 population",,15.4
 1983,,40 to 44,,,Normal value,Units,"Rate per 100,000 population",,15.9
 1984,,40 to 44,,,Normal value,Units,"Rate per 100,000 population",,15.9
@@ -6800,7 +6628,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,40 to 44,,,Normal value,Units,"Rate per 100,000 population",,15.0
 2016,,40 to 44,,,Normal value,Units,"Rate per 100,000 population",,15.3
 2017,,40 to 44,,,Normal value,Units,"Rate per 100,000 population",,14.4
-1981,,45 to 49,,,Normal value,Units,"Rate per 100,000 population",,17.5
 1982,,45 to 49,,,Normal value,Units,"Rate per 100,000 population",,18.1
 1983,,45 to 49,,,Normal value,Units,"Rate per 100,000 population",,17.1
 1984,,45 to 49,,,Normal value,Units,"Rate per 100,000 population",,17.4
@@ -6837,7 +6664,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,45 to 49,,,Normal value,Units,"Rate per 100,000 population",,15.6
 2016,,45 to 49,,,Normal value,Units,"Rate per 100,000 population",,14.9
 2017,,45 to 49,,,Normal value,Units,"Rate per 100,000 population",,15.6
-1981,,50 to 54,,,Normal value,Units,"Rate per 100,000 population",,19.4
 1982,,50 to 54,,,Normal value,Units,"Rate per 100,000 population",,18.0
 1983,,50 to 54,,,Normal value,Units,"Rate per 100,000 population",,17.5
 1984,,50 to 54,,,Normal value,Units,"Rate per 100,000 population",,18.1
@@ -6874,7 +6700,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,50 to 54,,,Normal value,Units,"Rate per 100,000 population",,14.8
 2016,,50 to 54,,,Normal value,Units,"Rate per 100,000 population",,15.1
 2017,,50 to 54,,,Normal value,Units,"Rate per 100,000 population",,14.1
-1981,,55 to 59,,,Normal value,Units,"Rate per 100,000 population",,19.8
 1982,,55 to 59,,,Normal value,Units,"Rate per 100,000 population",,19.9
 1983,,55 to 59,,,Normal value,Units,"Rate per 100,000 population",,18.2
 1984,,55 to 59,,,Normal value,Units,"Rate per 100,000 population",,18.6
@@ -6911,7 +6736,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,55 to 59,,,Normal value,Units,"Rate per 100,000 population",,14.1
 2016,,55 to 59,,,Normal value,Units,"Rate per 100,000 population",,13.2
 2017,,55 to 59,,,Normal value,Units,"Rate per 100,000 population",,11.9
-1981,,60 to 64,,,Normal value,Units,"Rate per 100,000 population",,18.7
 1982,,60 to 64,,,Normal value,Units,"Rate per 100,000 population",,17.5
 1983,,60 to 64,,,Normal value,Units,"Rate per 100,000 population",,18.3
 1984,,60 to 64,,,Normal value,Units,"Rate per 100,000 population",,17.7
@@ -6948,7 +6772,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,60 to 64,,,Normal value,Units,"Rate per 100,000 population",,11.3
 2016,,60 to 64,,,Normal value,Units,"Rate per 100,000 population",,9.9
 2017,,60 to 64,,,Normal value,Units,"Rate per 100,000 population",,9.6
-1981,,65 to 69,,,Normal value,Units,"Rate per 100,000 population",,18.4
 1982,,65 to 69,,,Normal value,Units,"Rate per 100,000 population",,18.5
 1983,,65 to 69,,,Normal value,Units,"Rate per 100,000 population",,18.2
 1984,,65 to 69,,,Normal value,Units,"Rate per 100,000 population",,16.5
@@ -6985,7 +6808,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,65 to 69,,,Normal value,Units,"Rate per 100,000 population",,8.8
 2016,,65 to 69,,,Normal value,Units,"Rate per 100,000 population",,8.0
 2017,,65 to 69,,,Normal value,Units,"Rate per 100,000 population",,8.0
-1981,,70 to 74,,,Normal value,Units,"Rate per 100,000 population",,19.4
 1982,,70 to 74,,,Normal value,Units,"Rate per 100,000 population",,19.3
 1983,,70 to 74,,,Normal value,Units,"Rate per 100,000 population",,18.2
 1984,,70 to 74,,,Normal value,Units,"Rate per 100,000 population",,18.4
@@ -7022,7 +6844,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,70 to 74,,,Normal value,Units,"Rate per 100,000 population",,8.0
 2016,,70 to 74,,,Normal value,Units,"Rate per 100,000 population",,6.8
 2017,,70 to 74,,,Normal value,Units,"Rate per 100,000 population",,6.8
-1981,,75 to 79,,,Normal value,Units,"Rate per 100,000 population",,19.4
 1982,,75 to 79,,,Normal value,Units,"Rate per 100,000 population",,18.8
 1983,,75 to 79,,,Normal value,Units,"Rate per 100,000 population",,19.3
 1984,,75 to 79,,,Normal value,Units,"Rate per 100,000 population",,19.1
@@ -7059,7 +6880,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,75 to 79,,,Normal value,Units,"Rate per 100,000 population",,7.8
 2016,,75 to 79,,,Normal value,Units,"Rate per 100,000 population",,6.3
 2017,,75 to 79,,,Normal value,Units,"Rate per 100,000 population",,7.9
-1981,,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,17.8
 1982,,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,20.0
 1983,,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,18.2
 1984,,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,19.6
@@ -7096,7 +6916,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,9.0
 2016,,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,8.2
 2017,,80 to 84,,,Normal value,Units,"Rate per 100,000 population",,6.1
-1981,,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,16.1
 1982,,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,18.8
 1983,,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,17.8
 1984,,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,13.8
@@ -7133,7 +6952,6 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2015,,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,9.6
 2016,,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,8.2
 2017,,85 to 89,,,Normal value,Units,"Rate per 100,000 population",,9.2
-1981,,90 and over,,,Normal value,Units,"Rate per 100,000 population",,18.9
 1982,,90 and over,,,Normal value,Units,"Rate per 100,000 population",,11.3
 1983,,90 and over,,,Normal value,Units,"Rate per 100,000 population",,11.6
 1984,,90 and over,,,Normal value,Units,"Rate per 100,000 population",,12.3
