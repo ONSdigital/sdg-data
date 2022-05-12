@@ -90,8 +90,6 @@
                 "South West",
                 "West Midlands",
                 "Yorkshire and The Humber",
-                "Inner London",
-                "Outer London",
                 ""
               ]
             }
@@ -110,6 +108,27 @@
                 "Born in Middle East and Asia",
                 "Born in Antarctica and Oceania",
                 "Other/Not stated",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ethnic group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bangladeshi",
+                "Indian",
+                "Pakistani",
+                "Any other Asian background",
+                "Black African",
+                "Black Caribbean",
+                "Any other Black background",
+                "Mixed/ multiple",
+                "Any Other ethnic group",
+                "White British",
+                "White Other",
+                "Not Stated",
                 ""
               ]
             }

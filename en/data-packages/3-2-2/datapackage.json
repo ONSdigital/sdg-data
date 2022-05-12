@@ -95,8 +95,6 @@
                 "South West",
                 "West Midlands",
                 "Yorkshire and The Humber",
-                "Inner London",
-                "Outer London",
                 ""
               ]
             },
@@ -120,6 +118,28 @@
               ]
             },
             "title": "Country of birth"
+          },
+          {
+            "name": "Ethnic group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bangladeshi",
+                "Indian",
+                "Pakistani",
+                "Any other Asian background",
+                "Black African",
+                "Black Caribbean",
+                "Any other Black background",
+                "Mixed/ multiple",
+                "Any Other ethnic group",
+                "White British",
+                "White Other",
+                "Not Stated",
+                ""
+              ]
+            },
+            "title": "Ethnic group"
           },
           {
             "name": "Sex",
