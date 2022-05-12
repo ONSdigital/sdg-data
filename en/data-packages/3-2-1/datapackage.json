@@ -22,9 +22,8 @@
               "enum": [
                 "England and Wales",
                 "England",
-                "Northern Ireland",
-                "Scotland",
                 "Wales",
+                "Scotland",
                 ""
               ]
             },
@@ -35,8 +34,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
                 "Male",
+                "Female",
                 ""
               ]
             },
