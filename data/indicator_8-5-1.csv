@@ -7736,36 +7736,6 @@ Year,Series,Age,Country,Region,Disability status,Sex,Sex by disability,Occupatio
 2017,1. Annual survey of hours and earnings (ASHE),,,,,,,,,Normal value,Units,GBP (£),,16.16
 2018,1. Annual survey of hours and earnings (ASHE),,,,,,,,,Normal value,Units,GBP (£),,16.71
 2019,1. Annual survey of hours and earnings (ASHE),,,,,,,,,Normal value,Units,GBP (£),,17.25
-2014,2. Annual population survey (APS),,,,,,"Female, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,10.98
-2015,2. Annual population survey (APS),,,,,,"Female, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,11.08
-2016,2. Annual population survey (APS),,,,,,"Female, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,11.32
-2017,2. Annual population survey (APS),,,,,,"Female, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,11.64
-2018,2. Annual population survey (APS),,,,,,"Female, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,12.02
-2014,2. Annual population survey (APS),,,,,,"Female, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,12.06
-2015,2. Annual population survey (APS),,,,,,"Female, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,12.29
-2016,2. Annual population survey (APS),,,,,,"Female, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,12.52
-2017,2. Annual population survey (APS),,,,,,"Female, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,12.83
-2018,2. Annual population survey (APS),,,,,,"Female, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,13.29
-2014,2. Annual population survey (APS),,,,,,"Male, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,12.98
-2015,2. Annual population survey (APS),,,,,,"Male, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,12.93
-2016,2. Annual population survey (APS),,,,,,"Male, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,13.1
-2017,2. Annual population survey (APS),,,,,,"Male, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,13.61
-2018,2. Annual population survey (APS),,,,,,"Male, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,14.16
-2014,2. Annual population survey (APS),,,,,,"Male, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,14.42
-2015,2. Annual population survey (APS),,,,,,"Male, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,14.61
-2016,2. Annual population survey (APS),,,,,,"Male, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,14.97
-2017,2. Annual population survey (APS),,,,,,"Male, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,15.31
-2018,2. Annual population survey (APS),,,,,,"Male, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,15.86
-2014,2. Annual population survey (APS),,,,Disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,11.83
-2015,2. Annual population survey (APS),,,,Disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,11.88
-2016,2. Annual population survey (APS),,,,Disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,12.07
-2017,2. Annual population survey (APS),,,,Disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,12.45
-2018,2. Annual population survey (APS),,,,Disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,12.93
-2014,2. Annual population survey (APS),,,,Non-disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,13.27
-2015,2. Annual population survey (APS),,,,Non-disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,13.49
-2016,2. Annual population survey (APS),,,,Non-disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,13.79
-2017,2. Annual population survey (APS),,,,Non-disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,14.11
-2018,2. Annual population survey (APS),,,,Non-disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,14.62
 2020,1. Annual survey of hours and earnings (ASHE),,England,,,Male,,,Full Time,Normal value,Units,GBP (£),E92000001,19.48
 2020,1. Annual survey of hours and earnings (ASHE),,England,,,Male,,,Part Time,Normal value,Units,GBP (£),E92000001,14.95
 2020,1. Annual survey of hours and earnings (ASHE),,England,,,Female,,,Full Time,Normal value,Units,GBP (£),E92000001,17.24
@@ -9111,3 +9081,51 @@ Year,Series,Age,Country,Region,Disability status,Sex,Sex by disability,Occupatio
 2021,1. Annual survey of hours and earnings (ASHE),60 and over,,,,Male,,Skilled trades occupations,,Normal value,Units,GBP (£),,14.45
 2021,1. Annual survey of hours and earnings (ASHE),60 and over,,,,Male,,Skilled trades occupations,Full Time,Normal value,Units,GBP (£),,14.68
 2021,1. Annual survey of hours and earnings (ASHE),60 and over,,,,Male,,Skilled trades occupations,Part Time,Normal value,Units,GBP (£),,12.22
+2014,2. Annual population survey (APS),,,,Disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,11.78
+2015,2. Annual population survey (APS),,,,Disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,11.83
+2016,2. Annual population survey (APS),,,,Disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,12.03
+2017,2. Annual population survey (APS),,,,Disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,12.45
+2018,2. Annual population survey (APS),,,,Disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,12.93
+2019,2. Annual population survey (APS),,,,Disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,13.23
+2020,2. Annual population survey (APS),,,,Disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,14.03
+2021,2. Annual population survey (APS),,,,Disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,14.75
+2014,2. Annual population survey (APS),,,,Non-disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,13.18
+2015,2. Annual population survey (APS),,,,Non-disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,13.41
+2016,2. Annual population survey (APS),,,,Non-disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,13.68
+2017,2. Annual population survey (APS),,,,Non-disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,14.11
+2018,2. Annual population survey (APS),,,,Non-disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,14.61
+2019,2. Annual population survey (APS),,,,Non-disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,15.18
+2020,2. Annual population survey (APS),,,,Non-disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,16.04
+2021,2. Annual population survey (APS),,,,Non-disabled (GSS harmonised),,,,,Normal value,Units,GBP (£),,16.74
+2014,2. Annual population survey (APS),,,,,,"Male, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,12.85
+2014,2. Annual population survey (APS),,,,,,"Female, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,10.98
+2015,2. Annual population survey (APS),,,,,,"Male, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,12.83
+2015,2. Annual population survey (APS),,,,,,"Female, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,11.08
+2016,2. Annual population survey (APS),,,,,,"Male, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,13.04
+2016,2. Annual population survey (APS),,,,,,"Female, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,11.31
+2017,2. Annual population survey (APS),,,,,,"Male, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,13.61
+2017,2. Annual population survey (APS),,,,,,"Female, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,11.64
+2018,2. Annual population survey (APS),,,,,,"Male, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,14.16
+2018,2. Annual population survey (APS),,,,,,"Female, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,12.02
+2019,2. Annual population survey (APS),,,,,,"Male, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,14.39
+2019,2. Annual population survey (APS),,,,,,"Female, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,12.44
+2020,2. Annual population survey (APS),,,,,,"Male, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,15.15
+2020,2. Annual population survey (APS),,,,,,"Female, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,13.26
+2021,2. Annual population survey (APS),,,,,,"Male, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,16.2
+2021,2. Annual population survey (APS),,,,,,"Female, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,13.73
+2014,2. Annual population survey (APS),,,,,,"Male, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,14.26
+2014,2. Annual population survey (APS),,,,,,"Female, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,12.03
+2015,2. Annual population survey (APS),,,,,,"Male, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,14.49
+2015,2. Annual population survey (APS),,,,,,"Female, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,12.27
+2016,2. Annual population survey (APS),,,,,,"Male, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,14.8
+2016,2. Annual population survey (APS),,,,,,"Female, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,12.49
+2017,2. Annual population survey (APS),,,,,,"Male, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,15.31
+2017,2. Annual population survey (APS),,,,,,"Female, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,12.83
+2018,2. Annual population survey (APS),,,,,,"Male, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,15.86
+2018,2. Annual population survey (APS),,,,,,"Female, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,13.29
+2019,2. Annual population survey (APS),,,,,,"Male, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,16.41
+2019,2. Annual population survey (APS),,,,,,"Female, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,13.87
+2020,2. Annual population survey (APS),,,,,,"Male, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,17.24
+2020,2. Annual population survey (APS),,,,,,"Female, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,14.75
+2021,2. Annual population survey (APS),,,,,,"Male, Non-disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,18.01
+2021,2. Annual population survey (APS),,,,,,"Female, Disabled (GSS harmonised)",,,Normal value,Units,GBP (£),,15.37
