@@ -78,14 +78,16 @@
             "title": "Age"
           },
           {
-            "name": "Unnamed: 4",
-            "type": "number",
+            "name": "Sex",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Male",
+                "Female",
                 ""
               ]
             },
-            "title": "Unnamed: 4"
+            "title": "Sex"
           },
           {
             "name": "Type of disease",
@@ -118,18 +120,6 @@
               ]
             },
             "title": "Chronic respiratory disease subtype"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "Unit measure",

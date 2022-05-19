@@ -74,10 +74,12 @@
             }
           },
           {
-            "name": "Unnamed: 4",
-            "type": "number",
+            "name": "Sex",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Male",
+                "Female",
                 ""
               ]
             }
@@ -108,17 +110,6 @@
                 "Other diseases of pleura",
                 "Respiratory failure, not elsewhere classified",
                 "Other respiratory disorders",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
                 ""
               ]
             }
