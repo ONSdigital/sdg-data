@@ -125,4 +125,8 @@ docs_extra_disaggregation:
   - SERIES
   - UNITS
 
-
+indicator_downloads:
+  - button_label: sdmx-ml
+    source_pattern: tests/data/indicator_*.xml
+    output_folder: data-xml
+    indicator_id_pattern: indicator_(.*)
