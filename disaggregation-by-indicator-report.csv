@@ -99,7 +99,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-1-2,Sex,1
 #4-2-1,"Ethnicity, Region, Ethnic group, Local Authority, Gender, Free School Meals, Special educational needs, Learning category, Learning sub-category (higher), Learning sub-category (lower)",10
 #4-2-2,"Age, Region",2
-#4-3-1,"Age, Sex, Disability status, Household income, Region, Country of birth, Highest qualification, Education category, Deprivation quantile, Employment status",10
+#4-3-1,"Age, Sex, Disability status, Household income, Region, Country of birth, Highest qualification, Employment status, Education category, Deprivation quantile",10
 #4-4-1,"Age, Sex, Disability status, Skill",4
 #4-5-1,"Educational measure, Education indicator",2
 #4-6-1,"Sex, Educational subject",2
@@ -108,7 +108,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-2-1,"Age, Disability status, Ethnicity, Household income, Region, Country of birth, Ethnic group, Highest qualification, Type of partner abuse, Abuse sub-category",10
 #5-2-2,"Age, Disability status, Ethnicity, Household income, Region, Ethnic group, Highest qualification, Abuse type, Place of occurrence, Migratory status, Relationship to perpetrator, Frequency of sexual assault",12
 #5-3-2,"Country of birth, Local Authority, Age at which FGM took place, FGM type",4
-#5-4-1,"Age, Sex, Disability status, Number of hours",4
+#5-4-1,"Age, Sex, Employment status, Number of hours per week providing care, Net weekly income (£)",5
 #5-5-1,Legislative authority,1
 #5-5-2,"Age, Disability status, Region",3
 #5-6-1,"Age, Main method of contraception",2

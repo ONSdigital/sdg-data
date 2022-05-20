@@ -12,14 +12,15 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Proportion of informal carers by characteristics",
+                "Proportion of population who are informal carers",
                 ""
               ]
             }
@@ -40,44 +41,86 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 to 24",
-                "25 to 34",
-                "35 to 44",
-                "45 to 54",
-                "55 to 64",
-                "65 to 74",
-                "75 and over",
+                "0-10",
+                "0-15",
+                "11-15",
+                "16-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-64",
+                "65-74",
+                "75-84",
+                "85+",
                 ""
               ]
             }
           },
           {
-            "name": "Disability status",
+            "name": "Employment status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Disabled (GSS harmonised)",
-                "Non-disabled (GSS harmonised)",
+                "In employment (all)",
+                "Unemployed",
+                "Retired",
+                "Other economically inactive",
                 ""
               ]
             }
           },
           {
-            "name": "Number of hours",
+            "name": "Number of hours per week providing care",
             "type": "string",
             "constraints": {
               "enum": [
-                "10 to 19 hours",
-                "2 to 4 hours",
-                "20 to 34  hours",
-                "20 to 34 hours",
-                "35 to 49 hours",
-                "5 to 9 hours",
+                "0-4 hours",
+                "5-19 hours",
+                "20-34 hours",
+                "20-35 hours",
+                "35-49 hours",
+                "35-50 hours",
                 "50 or more hours",
-                "Less than 2 hours",
+                "Unknown",
+                "Varies, 35 or more hours",
+                "Varies, less than 35 hours",
+                "Varies, more than 35 hours",
                 ""
               ]
             }
+          },
+          {
+            "name": "Net weekly income (£)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Less than £50",
+                "£50 - £99",
+                "£100 - £149",
+                "£150 - £199",
+                "£200 - £249",
+                "£250 - £299",
+                "£300 - £399",
+                "£300 or more",
+                "£400 - £499",
+                "£500 or more",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
           },
           {
             "name": "Observation status",
