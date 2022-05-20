@@ -13335,48 +13335,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Series",
+            "name": "series",
             "type": "string",
             "constraints": {
               "enum": [
-                "General government expenditure",
-                "Central government expenditure",
-                "Local government expenditure",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Type of heritage",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Natural heritage",
                 "Cultural heritage",
+                "Natural heritage",
                 ""
               ]
             }
           },
           {
-            "name": "Area of spending",
+            "name": "Type of expenditure",
             "type": "string",
             "constraints": {
               "enum": [
-                "Waste management",
-                "Waste water management",
-                "Pollution abatement",
-                "Protection of biodiversity and landscape",
-                "Research and development environmental protection",
-                "Environmental protection not elsewhere classified",
-                "Recreational and sporting services",
-                "Cultural services",
-                "Broadcasting and publishing services",
-                "Religious and other community services",
-                "Research and development recreation, culture and religion",
-                "Recreation, culture and religion not elsewhere classified",
+                "Central government expenditure",
+                "NGO expenditure",
+                "General government expenditure",
+                "Local government expenditure",
                 ""
               ]
             }
