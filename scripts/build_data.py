@@ -72,7 +72,7 @@ def alter_meta(meta):
                     meta['page_content']="<strong>No data was sourced for this indicator</strong>"+meta['page_content']
         if 'progress_status' in meta and meta['progress_status'] in ['target_achieved', 'close_to_target', 'moderate_distance_to_target',
                                                                      'far_from_target', 'very_far_from_target']:
-          meta['page_content']= '<img src="/assets/img/progress/embed-test.png">'+meta['page_content']
+          meta['page_content']= '<img src="feature-progress-ut-june-2022/assets/img/progress/embed-test.png"><br>'+meta['page_content']
         
     return meta
   
