@@ -42,11 +42,18 @@ all_meta_fields=["indicator_name", "target_name", "un_designated_tier", "un_cust
                 "national_indicator_description", "national_geographical_coverage", "computation_units", "computation_definitions",
                 "computation_calculations", "other_info", "national_data_updated_date", "national_metadata_updated_date"]
 
+source_fields=["source_organisation_", "source_periodicity_", "source_earliest_available_", "source_geographical_coverage_", "source_url_text_",
+               "source_release_date_", "source_next_release_", "source_statistical_classification_", "source_contact_", "source_other_info_"]
+
 def alter_meta(meta):
     if 'reporting_status' in meta and meta['reporting_status']=="complete":
         for meta_field in all_meta_fields:
            if meta_field not in meta or meta[meta_field] is None:
               meta[meta_field]="Not available"
+        for source_field in source_fields:
+            for i in range(15):
+                if source_field + str(i) not in meta or meta[source_field] is None:
+                    meta[source_field]="Not available"
     for i in range(15):
         if 'source_next_release_' + str(i) in meta:
             meta['source_next_release_' + str(i)] = 'Expected mm/yyyy at time of indicator update. Check source for more recent information.'
