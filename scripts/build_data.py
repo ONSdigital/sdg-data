@@ -39,6 +39,9 @@ archived_indicators=pd.read_csv('archived_indicators.csv')
 changed_indicators=pd.read_csv('changed_indicators.csv')
 
 def alter_meta(meta):
+    for i in range(15):
+        if 'source_next_release_' + i in meta:
+            meta['source_next_release_' + i] = 'Expected mm/yyyy at time of indicator update. Check source for more recent information.'
     #if 'footer_fields' not in meta:
     #    meta['footer_fields'] = [{"label":"Next indicator update","value":"This is annual indicator. The expected release of data required to update this indicator is June 2022. We aim to update the indicator within 4 months of that release."}]
     if 'indicator_number' in meta:
