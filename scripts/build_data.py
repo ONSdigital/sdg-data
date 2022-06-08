@@ -43,7 +43,7 @@ all_meta_fields=["indicator_name", "target_name", "un_designated_tier", "un_cust
                 "computation_calculations", "other_info", "national_data_updated_date", "national_metadata_updated_date"]
 
 def alter_meta(meta):
-    if meta['reporting_status']=="complete":
+    if 'reporting_status' in meta and meta['reporting_status']=="complete":
         for meta_field in all_meta_fields:
            if meta_field not in meta or meta[meta_field] is None:
               meta[meta_field]="Not available"
