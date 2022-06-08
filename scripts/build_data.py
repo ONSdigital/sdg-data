@@ -38,7 +38,15 @@ change_types = {
 archived_indicators=pd.read_csv('archived_indicators.csv')
 changed_indicators=pd.read_csv('changed_indicators.csv')
 
+all_meta_fields=["indicator_name", "target_name", "un_designated_tier", "un_custodian_agency", "goal_meta_link_text", "indicator_available",
+                "national_indicator_description", "national_geographical_coverage", "computation_units", "computation_definitions",
+                "computation_calculations", "other_info", "national_data_updated_date", "national_metadata_updated_date"]
+
 def alter_meta(meta):
+    if meta['reporting_status']=="complete":
+        for meta_field in all_meta_fields:
+           if meta_field not in meta or meta[meta_field] is None:
+              meta[meta_field]="Not available"
     for i in range(15):
         if 'source_next_release_' + str(i) in meta:
             meta['source_next_release_' + str(i)] = 'Expected mm/yyyy at time of indicator update. Check source for more recent information.'
