@@ -71,6 +71,12 @@ prose:
             label: "Link to UN metadata text"
             value: "UN metadata"
             scope: global
+      - name: SDG_RELATED_INDICATORS__GLOBAL
+        field:
+            element: text
+            label: Related indicators
+            translation_key: metadata_fields.SDG_RELATED_INDICATORS
+            scope: related_indicators
       ######### National Metadata #########
       - name: "indicator_available"
         field:
