@@ -62,7 +62,6 @@ def alter_meta(meta):
             meta['source_next_release_' + str(i)] = 'Expected mm/yyyy at time of indicator update. Check source for more recent information.'
     if 'indicator_number' in meta:
         indicator_id = meta['indicator_number']
-        print(indicator_id)
         id_parts = indicator_id.split('.')
         target_id = id_parts[0] + '.' + id_parts[1]
         goal_id = id_parts[0]
@@ -94,13 +93,14 @@ def alter_meta(meta):
                     meta['page_content']="<strong>No data was sourced for this indicator</strong>"+meta['page_content']
         if 'SDG_RELATED_INDICATORS__GLOBAL' in meta and meta['SDG_RELATED_INDICATORS__GLOBAL'] is not None:
             print("meta['SDG_RELATED_INDICATORS__GLOBAL'] exists for"+meta['indicator_number'])
-            print(meta['SDG_RELATED_INDICATORS__GLOBAL'])
-            x = meta['SDG_RELATED_INDICATORS__GLOBAL'].split("\n")
-            for i in x:
-                ind="/"+re.search('\d*\.\d\.\d', i)[0].replace(".","-")
-                link="{{ page.goal.url | regex_replace: '\/(?!.*\/)\d*', ind}}"
-                x[x.index(i)]=i.replace("<p>", "- [").replace("</p>", "]("+link+")")
-            meta['SDG_RELATED_INDICATORS__GLOBAL']='\n'.join(x)
+        else:
+            print("meta['SDG_RELATED_INDICATORS__GLOBAL'] doesn't exist for"+meta['indicator_number'])
+            #x = meta['SDG_RELATED_INDICATORS__GLOBAL'].split("\n")
+            #for i in x:
+            #    ind="/"+re.search('\d*\.\d\.\d', i)[0].replace(".","-")
+            #    link="{{ page.goal.url | regex_replace: '\/(?!.*\/)\d*', ind}}"
+            #    x[x.index(i)]=i.replace("<p>", "- [").replace("</p>", "]("+link+")")
+            #meta['SDG_RELATED_INDICATORS__GLOBAL']='\n'.join(x)
     
     return meta
   
