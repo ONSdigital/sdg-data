@@ -56,6 +56,13 @@ def alter_meta(meta):
                 if 'source_active_'+str(i) in meta and meta['source_active_'+str(i)] == 'true':
                     if source_field + str(i) not in meta or meta[source_field + str(i)] is None:
                         meta[source_field + str(i)]="Not available"
+    if 'SDG_RELATED_INDICATORS__GLOBAL' in meta and meta['SDG_RELATED_INDICATORS__GLOBAL'] is not None:
+        x = meta['SDG_RELATED_INDICATORS__GLOBAL'].split("\n")
+        for i in x:
+            ind="/"+re.search('\d*\.\d\.\d', i)[0].replace(".","-")
+            link="{{ page.goal.url | regex_replace: '\/(?!.*\/)\d*', ind}}"
+            x[x.index(i)]=i.replace("<p>", "- [").replace("</p>", "]("+link+")")
+        meta['SDG_RELATED_INDICATORS__GLOBAL']='\n'.join(x)
     for i in range(15):
         if 'source_next_release_' + str(i) in meta:
             meta['source_next_release_' + str(i)] = 'Expected mm/yyyy at time of indicator update. Check source for more recent information.'
