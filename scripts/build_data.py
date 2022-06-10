@@ -1,6 +1,7 @@
 from sdg.open_sdg import open_sdg_build
 import pandas as pd
 import http
+import re
 
 y_limit_percentage_exclusions=['1.a.1', '1.1.1', '2.2.1', '2.2.2', '3.3.3', '3.5.1', '3.9.1', '4.1.2', '5.2.1', '5.2.2', '7.2.1', '8.1.1', '8.2.1', '8.9.1', 
                                '9.2.1', '9.2.2', '9.3.1', '9.5.1', '10.1.1', '10.2.1', '10.3.1', '10.6.1', '10.c.1', '11.7.2',
