@@ -53,8 +53,9 @@ def alter_meta(meta):
               meta[meta_field]="Not available"
         for source_field in source_fields:
             for i in range(15):
-                if source_field + str(i) not in meta or meta[source_field + str(i)] is None:
-                    meta[source_field + str(i)]="Not available"
+                if 'source_active_'+str(i) in meta and meta['source_active_'+str(i)] == 'true'
+                    if source_field + str(i) not in meta or meta[source_field + str(i)] is None:
+                        meta[source_field + str(i)]="Not available"
     for i in range(15):
         if 'source_next_release_' + str(i) in meta:
             meta['source_next_release_' + str(i)] = 'Expected mm/yyyy at time of indicator update. Check source for more recent information.'
