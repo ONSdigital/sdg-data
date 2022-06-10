@@ -97,9 +97,9 @@ def alter_meta(meta):
         x = meta['SDG_RELATED_INDICATORS__GLOBAL'].split("\n")
         for i in x:
             if i:
-            ind="/"+re.search('\d*\.\d\.\d', i)[0].replace(".","-")
-            link="{{ page.goal.url | regex_replace: '\/(?!.*\/)\d*', ind}}"
-            x[x.index(i)]=i.replace("<p>", "- [").replace("</p>", "]("+link+")")
+                ind="/"+re.search('\d*\.\d\.\d', i)[0].replace(".","-")
+                link="{{ page.goal.url | regex_replace: '\/(?!.*\/)\d*', ind}}"
+                x[x.index(i)]=i.replace("<p>", "- [").replace("</p>", "]("+link+")")
         meta['SDG_RELATED_INDICATORS__GLOBAL']='\n'.join(x)
     
     return meta
