@@ -91,16 +91,6 @@ def alter_meta(meta):
                 meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals compilation of previous metadata'
                 if meta['reporting_status']=="notstarted":
                     meta['page_content']="<strong>No data was sourced for this indicator</strong>"+meta['page_content']
-        if 'SDG_RELATED_INDICATORS__GLOBAL' in meta and meta['SDG_RELATED_INDICATORS__GLOBAL'] is not None:
-            print("meta['SDG_RELATED_INDICATORS__GLOBAL'] exists for"+meta['indicator_number'])
-        else:
-            print("meta['SDG_RELATED_INDICATORS__GLOBAL'] doesn't exist for"+meta['indicator_number'])
-            #x = meta['SDG_RELATED_INDICATORS__GLOBAL'].split("\n")
-            #for i in x:
-            #    ind="/"+re.search('\d*\.\d\.\d', i)[0].replace(".","-")
-            #    link="{{ page.goal.url | regex_replace: '\/(?!.*\/)\d*', ind}}"
-            #    x[x.index(i)]=i.replace("<p>", "- [").replace("</p>", "]("+link+")")
-            #meta['SDG_RELATED_INDICATORS__GLOBAL']='\n'.join(x)
     
     return meta
   
