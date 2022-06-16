@@ -52,6 +52,7 @@
                 "Northern Ireland",
                 "Scotland",
                 "Wales",
+                "United Kingdom",
                 ""
               ]
             },
@@ -93,8 +94,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Male",
+                "Female",
                 ""
               ]
             },
@@ -105,10 +106,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female, Disabled (GSS harmonised)",
-                "Female, Non-disabled (GSS harmonised)",
-                "Male, Disabled (GSS harmonised)",
                 "Male, Non-disabled (GSS harmonised)",
+                "Female, Disabled (GSS harmonised)",
                 ""
               ]
             },
