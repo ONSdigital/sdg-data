@@ -56,12 +56,12 @@ def alter_meta(meta):
     if 'reporting_status' in meta and meta['reporting_status']=="complete":
         for meta_field in all_meta_fields:
            if meta_field not in meta or meta[meta_field] is None:
-              meta[meta_field]='<p style="color: #505A5F;">Not available for this indicator</p>'
+              meta[meta_field]='Not available for this indicator'
         for source_field in source_fields:
             for i in range(15):
                 if 'source_active_'+str(i) in meta and meta['source_active_'+str(i)] == True:
                     if source_field + str(i) not in meta or meta[source_field + str(i)] is None:
-                        meta[source_field + str(i)]='<p style="color: #505A5F;">Not available for this indicator</p>'
+                        meta[source_field + str(i)]='Not available for this indicator'
         if 'progress_status' not in meta:
             meta['progress_status'] = random.choice(progress_statuses)
     for i in range(15):
