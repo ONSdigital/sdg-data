@@ -47,7 +47,7 @@ source_fields=["source_organisation_", "source_periodicity_", "source_earliest_a
                "source_release_date_", "source_next_release_", "source_statistical_classification_", "source_contact_", "source_other_info_"]
 
 def alter_meta(meta):
-    meta['footer_fields']=[{"label":"Next indicator update","value":"This is an annual indicator. The expected release of data required to update this indicator is June 2022. We aim to update the indicator within 4 months of that release."}]
+    meta['footer_fields']=[{"label":"Next indicator update","value":"This is an annual indicator. The expected release of data required to update this indicator is July 2022. We aim to update the indicator within 4 months of that release."}]
     if 'reporting_status' in meta and meta['reporting_status']=="complete":
         for meta_field in all_meta_fields:
            if meta_field not in meta or meta[meta_field] is None:
@@ -59,7 +59,7 @@ def alter_meta(meta):
                         meta[source_field + str(i)]="Not available for this indicator"
     for i in range(15):
         if 'source_next_release_' + str(i) in meta:
-            meta['source_next_release_' + str(i)] = 'Expected mm/yyyy at time of indicator update. Check source for more recent information.'
+            meta['source_next_release_' + str(i)] = 'Expected 07/2022 at time of indicator update. Check source for more recent information.'
     if 'indicator_number' in meta:
         indicator_id = meta['indicator_number']
         id_parts = indicator_id.split('.')
