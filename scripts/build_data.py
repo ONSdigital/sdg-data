@@ -62,7 +62,7 @@ def alter_meta(meta):
                 if 'source_active_'+str(i) in meta and meta['source_active_'+str(i)] == True:
                     if source_field + str(i) not in meta or meta[source_field + str(i)] is None:
                         meta[source_field + str(i)]='<p style="color: #505A5F;">Not available for this indicator</p>'
-        if 'indicator_number' in meta and (meta['indicator_number'] != '1.1.1' or '1.2.1'):
+        if 'progress_status' not in meta):
             meta['progress_status'] = random.choice(progress_statuses)
     for i in range(15):
         if 'source_next_release_' + str(i) in meta:
