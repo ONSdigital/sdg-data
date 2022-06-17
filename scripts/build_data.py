@@ -2,6 +2,9 @@ from sdg.open_sdg import open_sdg_build
 import pandas as pd
 import http
 import re
+import random
+
+random.seed(123)
 
 y_limit_percentage_exclusions=['1.a.1', '1.1.1', '2.2.1', '2.2.2', '3.3.3', '3.5.1', '3.9.1', '4.1.2', '5.2.1', '5.2.2', '7.2.1', '8.1.1', '8.2.1', '8.9.1', 
                                '9.2.1', '9.2.2', '9.3.1', '9.5.1', '10.1.1', '10.2.1', '10.3.1', '10.6.1', '10.c.1', '11.7.2',
@@ -46,6 +49,8 @@ all_meta_fields=["indicator_name", "target_name", "un_designated_tier", "un_cust
 source_fields=["source_organisation_", "source_periodicity_", "source_earliest_available_", "source_geographical_coverage_", "source_url_text_",
                "source_release_date_", "source_next_release_", "source_statistical_classification_", "source_contact_", "source_other_info_"]
 
+progress_statuses=["target_achieved", "close_to_target", "moderate_distance_to_target", "far_from_target", "very_far_from_target", "not_measured", "no_target_exists"]
+
 def alter_meta(meta):
     meta['footer_fields']=[{"label":"Next indicator update","value":"This is an annual indicator. The expected release of data required to update this indicator is July 2022. We aim to update the indicator within 4 months of that release."}]
     if 'reporting_status' in meta and meta['reporting_status']=="complete":
@@ -57,6 +62,8 @@ def alter_meta(meta):
                 if 'source_active_'+str(i) in meta and meta['source_active_'+str(i)] == True:
                     if source_field + str(i) not in meta or meta[source_field + str(i)] is None:
                         meta[source_field + str(i)]='<p style="color: #505A5F;">Not available for this indicator</p>'
+        if meta['indicator_number'] != '1.1.1' or '1.2.1':
+            meta['progress_status'] = random.choice(progress_statuses)
     for i in range(15):
         if 'source_next_release_' + str(i) in meta:
             meta['source_next_release_' + str(i)] = 'Expected 07/2022 at time of indicator update. Check source for more recent information.'
