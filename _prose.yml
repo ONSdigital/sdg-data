@@ -124,6 +124,18 @@ prose:
             label: "Metadata last updated"
             scope: national
        ######### Data Info #########
+      - name: "reporting_status"
+        field: 
+            element: select 
+            label: "Reporting status"
+            options:
+              - name: 'complete'
+                value: 'complete'
+                translation_key: 'status.reported'
+              - name: 'notstarted'
+                value: 'notstarted'
+                translation_key: 'status.exploring_data_sources'
+            scope: data
       - name: data_non_statistical
         field:
             element: checkbox
