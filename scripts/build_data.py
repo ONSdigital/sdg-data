@@ -6,7 +6,7 @@ import random
 
 random.seed(123)
 
-y_limit_percentage_exclusions=['1.a.1', '1.1.1', '2.2.1', '2.2.2', '3.3.3', '3.5.1', '3.9.1', '4.1.2', '5.2.1', '5.2.2', '7.2.1', '8.1.1', '8.2.1', '8.9.1', 
+y_limit_percentage_exclusions=['1.a.1', '2.2.1', '2.2.2', '3.3.3', '3.5.1', '3.9.1', '4.1.2', '5.2.1', '5.2.2', '7.2.1', '8.1.1', '8.2.1', '8.9.1', 
                                '9.2.1', '9.2.2', '9.3.1', '9.5.1', '10.1.1', '10.2.1', '10.3.1', '10.6.1', '10.c.1', '11.7.2',
                                '15.a.1', '15.b.1', '16.1.3', '16.7.1', '16.8.1', '16.b.1', '17.2.1', '17.3.1', '17.3.2', '17.4.1', '17.10.1',
                                '17.12.1']
@@ -76,7 +76,7 @@ def alter_meta(meta):
         meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
         
         if 'computation_units' in meta and meta['computation_units'] is not None:
-            if 'Percentage (%)' in meta['computation_units'] and (meta['indicator_number'] not in y_limit_percentage_exclusions or graph_limits not in meta):
+            if 'Percentage (%)' in meta['computation_units'] and (meta['indicator_number'] not in y_limit_percentage_exclusions or 'graph_limits' not in meta):
                 meta['graph_limits']=[{"unit":"Percentage (%)", "minimum":0, "maximum":100}]
 
         if 'standalone' not in meta:
