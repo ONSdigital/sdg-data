@@ -76,7 +76,7 @@ def alter_meta(meta):
         meta['goal_meta_link_text'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
         
         if 'computation_units' in meta and meta['computation_units'] is not None:
-            if 'Percentage (%)' in meta['computation_units'] and (meta['indicator_number'] not in y_limit_percentage_exclusions or 'graph_limits' not in meta):
+            if 'Percentage (%)' in meta['computation_units'] and meta['indicator_number'] not in y_limit_percentage_exclusions and 'graph_limits' not in meta):
                 meta['graph_limits']=[{"unit":"Percentage (%)", "minimum":0, "maximum":100}]
 
         if 'standalone' not in meta:
