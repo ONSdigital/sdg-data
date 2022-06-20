@@ -1,308 +1,421 @@
-Year,Country,Region,Sex,Age,Observation status,Unit multiplier,Unit measure,GeoCode,Value
-2009,,,,,Undefined,Units,"Rate per 100,000 population",,3.7535845769
-2010,,,,,Undefined,Units,"Rate per 100,000 population",,3.0353991596103
-2011,,,,,Undefined,Units,"Rate per 100,000 population",,3.09709332261149
-2012,,,,,Undefined,Units,"Rate per 100,000 population",,2.82866203814675
-2013,,,,,Undefined,Units,"Rate per 100,000 population",,2.76106690994838
-2014,,,,,Undefined,Units,"Rate per 100,000 population",,2.87011334563694
-2015,,,,,Undefined,Units,"Rate per 100,000 population",,2.77069429882343
-2016,,,,,Undefined,Units,"Rate per 100,000 population",,2.83329038207286
-2017,,,,,Undefined,Units,"Rate per 100,000 population",,2.81040818316968
-2018,,,,,Undefined,Units,"Rate per 100,000 population",,2.76809629784053
-2019,,,,,Undefined,Units,"Rate per 100,000 population",,2.70671620576115
-2009,Great Britain,,,,Undefined,,"Rate per 100,000 population",K03000001,3.6747223736497
-2010,Great Britain,,,,Undefined,Units,"Rate per 100,000 population",K03000001,3.03504461015204
-2011,Great Britain,,,,Undefined,Units,"Rate per 100,000 population",K03000001,3.09252387315368
-2012,Great Britain,,,,Undefined,Units,"Rate per 100,000 population",K03000001,2.834454478047
-2013,Great Britain,,,,Undefined,Units,"Rate per 100,000 population",K03000001,2.75066149555151
-2014,Great Britain,,,,Undefined,Units,"Rate per 100,000 population",K03000001,2.82840336518492
-2019,Great Britain,,,,Undefined,Units,"Rate per 100,000 population",K03000001,2.69940714732754
-2009,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,3.60178227682106
-2010,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.95009054669414
-2011,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,3.00147801137733
-2012,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.78724259436092
-2013,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.65474484495426
-2014,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.71003618082407
-2015,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.67037430707848
-2016,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.71042589566231
-2017,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.77600831220312
-2018,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.71717877596473
-2019,England,,,,Undefined,Units,"Rate per 100,000 population",E92000001,2.64537287774339
-2009,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,4.14627532847714
-2010,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,2.91806053237883
-2011,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.94939809214696
-2012,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.02530816667301
-2013,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.60107604045143
-2014,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.33113844728845
-2015,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.3880957159627
-2016,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.30854600645648
-2017,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.29582598038823
-2018,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.28168555016502
-2019,Wales,,,,Undefined,Units,"Rate per 100,000 population",W92000004,3.10827025077714
-2009,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,4.12851927598004
-2010,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,3.95271939492987
-2011,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,3.50950017924866
-2012,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,3.19933754893104
-2013,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,3.22841000807102
-2014,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,3.73999551200538
-2015,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,3.01507537688442
-2016,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,3.53396118193424
-2017,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,2.69134345966671
-2018,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,2.9422040786304
-2019,Scotland,,,,Undefined,Units,"Rate per 100,000 population",S92000003,3.02015265498874
-2009,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,6.41264059714509
-2010,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,3.04737335808908
-2011,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,3.25191063529105
-2012,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,2.63210710043791
-2013,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,3.11522223284919
-2014,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,4.29231653606795
-2015,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,3.99649820346604
-2016,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,3.65171842888036
-2017,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,3.36748209622018
-2018,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,2.92298052604083
-2019,Northern Ireland,,,,Undefined,Units,"Rate per 100,000 population",N92000002,2.95722531997442
-2009,England,North East,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.83446601960596
-2010,England,North East,,,Undefined,Units,"Rate per 100,000 population",E12000001,1.97149603304072
-2011,England,North East,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.23382699626142
-2012,England,North East,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.95882203530835
-2013,England,North East,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.91124941248305
-2014,England,North East,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.17662261487985
-2015,England,North East,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.36228362720268
-2016,England,North East,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.12395636938483
-2017,England,North East,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.19304298704554
-2018,England,North East,,,Undefined,Units,"Rate per 100,000 population",E12000001,1.95642514472843
-2019,England,North East,,,Undefined,Units,"Rate per 100,000 population",E12000001,2.80905083670388
-2009,England,North West,,,Undefined,Units,"Rate per 100,000 population",E12000002,3.36379548352484
-2010,England,North West,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.76356386346797
-2011,England,North West,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.97620692631379
-2012,England,North West,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.32903802260437
-2013,England,North West,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.09756108548363
-2014,England,North West,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.56553109437705
-2015,England,North West,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.46683775649886
-2016,England,North West,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.57476473087271
-2017,England,North West,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.30071058893093
-2018,England,North West,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.66041587785564
-2019,England,North West,,,Undefined,Units,"Rate per 100,000 population",E12000002,2.66986469234713
-2009,England,Yorkshire and the Humber,,,Undefined,Units,"Rate per 100,000 population",,3.92468885832524
-2010,England,Yorkshire and the Humber,,,Undefined,Units,"Rate per 100,000 population",,3.23514478605036
-2011,England,Yorkshire and the Humber,,,Undefined,Units,"Rate per 100,000 population",,3.27142709104703
-2012,England,Yorkshire and the Humber,,,Undefined,Units,"Rate per 100,000 population",,2.70834661645692
-2013,England,Yorkshire and the Humber,,,Undefined,Units,"Rate per 100,000 population",,3.09108007958126
-2014,England,Yorkshire and the Humber,,,Undefined,Units,"Rate per 100,000 population",,2.9476968506471
-2015,England,Yorkshire and the Humber,,,Undefined,Units,"Rate per 100,000 population",,2.76427026697099
-2016,England,Yorkshire and the Humber,,,Undefined,Units,"Rate per 100,000 population",,2.54360532092742
-2017,England,Yorkshire and the Humber,,,Undefined,Units,"Rate per 100,000 population",,2.93570979040866
-2018,England,Yorkshire and the Humber,,,Undefined,Units,"Rate per 100,000 population",,3.32140122983092
-2019,England,Yorkshire and the Humber,,,Undefined,Units,"Rate per 100,000 population",,3.4163388586557
-2009,England,East Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000004,5.07642252205168
-2010,England,East Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000004,4.06028660298451
-2011,England,East Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000004,4.12125935107135
-2012,England,East Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000004,3.72170573217116
-2013,England,East Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000004,3.21840720157754
-2014,England,East Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000004,3.64430779608006
-2015,England,East Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000004,3.71999551035024
-2016,England,East Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000004,4.041994417392
-2017,England,East Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000004,3.81418146198832
-2018,England,East Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000004,4.07980685028711
-2019,England,East Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000004,4.09435376209075
-2009,England,West Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000005,4.05209327701647
-2010,England,West Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.80279834261191
-2011,England,West Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000005,3.38761420494388
-2012,England,West Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000005,3.1190393784038
-2013,England,West Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.74888414686794
-2014,England,West Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.7304045776983
-2015,England,West Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.83230397328807
-2016,England,West Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.66745921756021
-2017,England,West Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000005,3.25899302916747
-2018,England,West Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.93182722149039
-2019,England,West Midlands,,,Undefined,Units,"Rate per 100,000 population",E12000005,2.52779010309507
-2009,England,East of England,,,Undefined,Units,"Rate per 100,000 population",E12000006,4.08593113067451
-2010,England,East of England,,,Undefined,Units,"Rate per 100,000 population",E12000006,3.39222254632966
-2011,England,East of England,,,Undefined,Units,"Rate per 100,000 population",E12000006,3.39450376960496
-2012,England,East of England,,,Undefined,Units,"Rate per 100,000 population",E12000006,3.16631769443307
-2013,England,East of England,,,Undefined,Units,"Rate per 100,000 population",E12000006,2.99062456001696
-2014,England,East of England,,,Undefined,Units,"Rate per 100,000 population",E12000006,3.12435082471228
-2015,England,East of England,,,Undefined,Units,"Rate per 100,000 population",E12000006,3.19290582409063
-2016,England,East of England,,,Undefined,Units,"Rate per 100,000 population",E12000006,3.47527861373909
-2017,England,East of England,,,Undefined,Units,"Rate per 100,000 population",E12000006,3.24231506483333
-2018,England,East of England,,,Undefined,Units,"Rate per 100,000 population",E12000006,2.741398700319
-2019,England,East of England,,,Undefined,Units,"Rate per 100,000 population",E12000006,2.9185038274093
-2009,England,London,,,Undefined,Units,"Rate per 100,000 population",E12000007,2.32921385632955
-2010,England,London,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.56298552563761
-2011,England,London,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.93798284263567
-2012,England,London,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.62477690910384
-2013,England,London,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.58004946386426
-2014,England,London,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.51064512978549
-2015,England,London,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.5691830902061
-2016,England,London,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.32274242362217
-2017,England,London,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.48441909524996
-2018,England,London,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.25728537942122
-2019,England,London,,,Undefined,Units,"Rate per 100,000 population",E12000007,1.39477966330911
-2009,England,South East,,,Undefined,Units,"Rate per 100,000 population",E12000008,3.4625215023763
-2010,England,South East,,,Undefined,Units,"Rate per 100,000 population",E12000008,3.31088344512811
-2011,England,South East,,,Undefined,Units,"Rate per 100,000 population",E12000008,2.98169930047947
-2012,England,South East,,,Undefined,Units,"Rate per 100,000 population",E12000008,2.67050914345654
-2013,England,South East,,,Undefined,Units,"Rate per 100,000 population",E12000008,2.67253365515945
-2014,England,South East,,,Undefined,Units,"Rate per 100,000 population",E12000008,2.78341064716551
-2015,England,South East,,,Undefined,Units,"Rate per 100,000 population",E12000008,2.62587670760203
-2016,England,South East,,,Undefined,Units,"Rate per 100,000 population",E12000008,3.10065604344993
-2017,England,South East,,,Undefined,Units,"Rate per 100,000 population",E12000008,2.94026148505229
-2018,England,South East,,,Undefined,Units,"Rate per 100,000 population",E12000008,2.8247273125402
-2019,England,South East,,,Undefined,Units,"Rate per 100,000 population",E12000008,2.33112040291346
-2009,England,South West,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.86468180180649
-2010,England,South West,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.64930900714086
-2011,England,South West,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.01839466302547
-2012,England,South West,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.82041144707634
-2013,England,South West,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.53310763593817
-2014,England,South West,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.41122103642852
-2015,England,South West,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.16177505341206
-2016,England,South West,,,Undefined,Units,"Rate per 100,000 population",E12000009,2.95451871886993
-2017,England,South West,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.3817109874668
-2018,England,South West,,,Undefined,Units,"Rate per 100,000 population",E12000009,3.28586977776626
-2019,England,South West,,,Undefined,Units,"Rate per 100,000 population",E12000009,2.86237691779253
-2019,Great Britain,,Male,,Undefined,Units,"Rate per 100,000 population",K03000001,4.06921256243308
-2019,Great Britain,,Female,,Undefined,Units,"Rate per 100,000 population",K03000001,1.36345812911388
-2009,Great Britain,,Male,,Undefined,Units,"Rate per 100,000 population",K03000001,5.57435612730156
-2010,Great Britain,,Male,,Undefined,Units,"Rate per 100,000 population",K03000001,4.56536230210566
-2011,Great Britain,,Male,,Undefined,Units,"Rate per 100,000 population",K03000001,4.71068249380949
-2012,Great Britain,,Male,,Undefined,Units,"Rate per 100,000 population",K03000001,4.39832463935546
-2013,Great Britain,,Male,,Undefined,Units,"Rate per 100,000 population",K03000001,4.14873072341721
-2014,Great Britain,,Male,,Undefined,Units,"Rate per 100,000 population",K03000001,4.24071173256997
-2009,Great Britain,,Female,,Undefined,Units,"Rate per 100,000 population",K03000001,1.84659297430113
-2010,Great Britain,,Female,,Undefined,Units,"Rate per 100,000 population",K03000001,1.55959650016233
-2011,Great Britain,,Female,,Undefined,Units,"Rate per 100,000 population",K03000001,1.52896933073046
-2012,Great Britain,,Female,,Undefined,Units,"Rate per 100,000 population",K03000001,1.32228370346999
-2013,Great Britain,,Female,,Undefined,Units,"Rate per 100,000 population",K03000001,1.39696352594605
-2014,Great Britain,,Female,,Undefined,Units,"Rate per 100,000 population",K03000001,1.45927158873847
-2018,Great Britain,,,,Undefined,Units,"Rate per 100,000 population",K03000001,2.76358167558838
-2018,Great Britain,,Male,,Undefined,Units,"Rate per 100,000 population",K03000001,4.15202082902204
-2018,Great Britain,,Female,,Undefined,Units,"Rate per 100,000 population",K03000001,1.41022120374952
-2018,Great Britain,,,0 to 10,Undefined,Units,"Rate per 100,000 population",K03000001,0.342800607126244
-2018,Great Britain,,,10 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,0.322664704521087
-2018,Great Britain,,,11 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,3.96120485161025
-2018,Great Britain,,,12 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,3.31735663871698
-2018,Great Britain,,,13 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,2.76876220947224
-2018,Great Britain,,,14 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,2.57804123117385
-2018,Great Britain,,,15 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,2.8672701882944
-2018,Great Britain,,,16 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,2.99461001070341
-2018,Great Britain,,,17 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,4.54273081667796
-2018,Great Britain,,,18 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,7.00292594978774
-2018,Great Britain,,Male,0 to 4,Undefined,Units,"Rate per 100,000 population",K03000001,0.411288639282383
-2018,Great Britain,,Male,5 to 14,Undefined,Units,"Rate per 100,000 population",K03000001,0.327642436248342
-2018,Great Britain,,Male,15 to 24,Undefined,Units,"Rate per 100,000 population",K03000001,6.178954786392
-2018,Great Britain,,Male,25 to 34,Undefined,Units,"Rate per 100,000 population",K03000001,5.57673069284619
-2018,Great Britain,,Male,35 to 44,Undefined,Units,"Rate per 100,000 population",K03000001,4.71134459543064
-2018,Great Britain,,Male,45 to 54,Undefined,Units,"Rate per 100,000 population",K03000001,4.20838656373635
-2018,Great Britain,,Male,55 to 64,Undefined,Units,"Rate per 100,000 population",K03000001,4.2852200394766
-2018,Great Britain,,Male,65 to 74,Undefined,Units,"Rate per 100,000 population",K03000001,3.81562269840196
-2018,Great Britain,,Male,75 to 84,Undefined,Units,"Rate per 100,000 population",K03000001,5.47224292101341
-2018,Great Britain,,Male,85 and over,Undefined,Units,"Rate per 100,000 population",K03000001,11.1831609553914
-2018,Great Britain,,Female,0 to 4,Undefined,Units,"Rate per 100,000 population",K03000001,0.270681999538757
-2018,Great Britain,,Female,5 to 14,Undefined,Units,"Rate per 100,000 population",K03000001,0.317440078555838
-2018,Great Britain,,Female,15 to 24,Undefined,Units,"Rate per 100,000 population",K03000001,1.61837481183021
-2018,Great Britain,,Female,25 to 34,Undefined,Units,"Rate per 100,000 population",K03000001,1.03480509446045
-2018,Great Britain,,Female,35 to 44,Undefined,Units,"Rate per 100,000 population",K03000001,0.85500235003503
-2018,Great Britain,,Female,45 to 54,Undefined,Units,"Rate per 100,000 population",K03000001,0.994361308473416
-2018,Great Britain,,Female,55 to 64,Undefined,Units,"Rate per 100,000 population",K03000001,1.49792423245346
-2018,Great Britain,,Female,65 to 74,Undefined,Units,"Rate per 100,000 population",K03000001,2.23244250939635
-2018,Great Britain,,Female,75 to 84,Undefined,Units,"Rate per 100,000 population",K03000001,3.77896047016008
-2018,Great Britain,,Female,85 and over,Undefined,Units,"Rate per 100,000 population",K03000001,4.60698880201265
-2017,Great Britain,,,,Undefined,Units,"Rate per 100,000 population",K03000001,2.79416690776031
-2017,Great Britain,,Male,,Undefined,Units,"Rate per 100,000 population",K03000001,4.22910398615001
-2017,Great Britain,,Female,,Undefined,Units,"Rate per 100,000 population",K03000001,1.39658609144218
-2017,Great Britain,,,0 to 10,Undefined,Units,"Rate per 100,000 population",K03000001,0.312684027578731
-2017,Great Britain,,,10 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,0.394663465858255
-2017,Great Britain,,,11 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,3.86759389951522
-2017,Great Britain,,,12 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,3.92385292986181
-2017,Great Britain,,,13 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,2.66584716550097
-2017,Great Britain,,,14 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,2.72770703491231
-2017,Great Britain,,,15 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,2.47211075690743
-2017,Great Britain,,,16 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,2.77414169536526
-2017,Great Britain,,,17 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,4.49589567799049
-2017,Great Britain,,,18 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,7.65052406089817
-2017,Great Britain,,Male,0 to 4,Undefined,Units,"Rate per 100,000 population",K03000001,0.254070075575684
-2017,Great Britain,,Male,5 to 14,Undefined,Units,"Rate per 100,000 population",K03000001,0.462393177542796
-2017,Great Britain,,Male,15 to 24,Undefined,Units,"Rate per 100,000 population",K03000001,6.04019828092911
-2017,Great Britain,,Male,25 to 34,Undefined,Units,"Rate per 100,000 population",K03000001,6.53762701512066
-2017,Great Britain,,Male,35 to 44,Undefined,Units,"Rate per 100,000 population",K03000001,4.27468425119337
-2017,Great Britain,,Male,45 to 54,Undefined,Units,"Rate per 100,000 population",K03000001,4.51919902620299
-2017,Great Britain,,Male,55 to 64,Undefined,Units,"Rate per 100,000 population",K03000001,3.79096765659317
-2017,Great Britain,,Male,65 to 74,Undefined,Units,"Rate per 100,000 population",K03000001,3.65811337173165
-2017,Great Britain,,Male,75 to 84,Undefined,Units,"Rate per 100,000 population",K03000001,6.10973808391425
-2017,Great Britain,,Male,85 and over,Undefined,Units,"Rate per 100,000 population",K03000001,11.4541797017617
-2017,Great Britain,,Female,0 to 4,Undefined,Units,"Rate per 100,000 population",K03000001,0.3743757952143
-2017,Great Britain,,Female,5 to 14,Undefined,Units,"Rate per 100,000 population",K03000001,0.323570318031872
-2017,Great Britain,,Female,15 to 24,Undefined,Units,"Rate per 100,000 population",K03000001,1.57799367465247
-2017,Great Britain,,Female,25 to 34,Undefined,Units,"Rate per 100,000 population",K03000001,1.28995194237968
-2017,Great Britain,,Female,35 to 44,Undefined,Units,"Rate per 100,000 population",K03000001,1.07874838708728
-2017,Great Britain,,Female,45 to 54,Undefined,Units,"Rate per 100,000 population",K03000001,0.987634812151858
-2017,Great Britain,,Female,55 to 64,Undefined,Units,"Rate per 100,000 population",K03000001,1.19635299591497
-2017,Great Britain,,Female,65 to 74,Undefined,Units,"Rate per 100,000 population",K03000001,1.95349186671174
-2017,Great Britain,,Female,75 to 84,Undefined,Units,"Rate per 100,000 population",K03000001,3.17843281746553
-2017,Great Britain,,Female,85 and over,Undefined,Units,"Rate per 100,000 population",K03000001,5.51820455683299
-2016,Great Britain,,,,Undefined,Units,"Rate per 100,000 population",K03000001,2.80939756655062
-2016,Great Britain,,Male,,Undefined,Units,"Rate per 100,000 population",K03000001,4.20183278097667
-2016,Great Britain,,Female,,Undefined,Units,"Rate per 100,000 population",K03000001,1.45405243795712
-2016,Great Britain,,,0 to 10,Undefined,Units,"Rate per 100,000 population",K03000001,0.411359169260157
-2016,Great Britain,,,10 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,0.592857522054973
-2016,Great Britain,,,11 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,4.11772802496189
-2016,Great Britain,,,12 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,3.40217019246826
-2016,Great Britain,,,13 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,2.85929578009846
-2016,Great Britain,,,14 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,2.64746284625171
-2016,Great Britain,,,15 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,2.72054040489762
-2016,Great Britain,,,16 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,2.21430590288085
-2016,Great Britain,,,17 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,5.34637558015676
-2016,Great Britain,,,18 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,7.06911764320854
-2016,Great Britain,,Male,0 to 4,Undefined,Units,"Rate per 100,000 population",K03000001,0.250770492337707
-2016,Great Britain,,Male,5 to 14,Undefined,Units,"Rate per 100,000 population",K03000001,0.842082216697227
-2016,Great Britain,,Male,15 to 24,Undefined,Units,"Rate per 100,000 population",K03000001,6.35942466735702
-2016,Great Britain,,Male,25 to 34,Undefined,Units,"Rate per 100,000 population",K03000001,5.49225924658612
-2016,Great Britain,,Male,35 to 44,Undefined,Units,"Rate per 100,000 population",K03000001,4.53819973832194
-2016,Great Britain,,Male,45 to 54,Undefined,Units,"Rate per 100,000 population",K03000001,4.42378207185576
-2016,Great Britain,,Male,55 to 64,Undefined,Units,"Rate per 100,000 population",K03000001,4.23868415830329
-2016,Great Britain,,Male,65 to 74,Undefined,Units,"Rate per 100,000 population",K03000001,3.25157857571005
-2016,Great Britain,,Male,75 to 84,Undefined,Units,"Rate per 100,000 population",K03000001,6.88250947258659
-2016,Great Britain,,Male,85 and over,Undefined,Units,"Rate per 100,000 population",K03000001,8.51700438440573
-2016,Great Britain,,Female,0 to 4,Undefined,Units,"Rate per 100,000 population",K03000001,0.580263650702382
-2016,Great Britain,,Female,5 to 14,Undefined,Units,"Rate per 100,000 population",K03000001,0.331347274585829
-2016,Great Britain,,Female,15 to 24,Undefined,Units,"Rate per 100,000 population",K03000001,1.76246728584509
-2016,Great Britain,,Female,25 to 34,Undefined,Units,"Rate per 100,000 population",K03000001,1.29648926912038
-2016,Great Britain,,Female,35 to 44,Undefined,Units,"Rate per 100,000 population",K03000001,1.20055372477918
-2016,Great Britain,,Female,45 to 54,Undefined,Units,"Rate per 100,000 population",K03000001,0.921226169578874
-2016,Great Britain,,Female,55 to 64,Undefined,Units,"Rate per 100,000 population",K03000001,1.25165278086622
-2016,Great Britain,,Female,65 to 74,Undefined,Units,"Rate per 100,000 population",K03000001,1.25082066038449
-2016,Great Britain,,Female,75 to 84,Undefined,Units,"Rate per 100,000 population",K03000001,4.10040154293663
-2016,Great Britain,,Female,85 and over,Undefined,Units,"Rate per 100,000 population",K03000001,6.27736221189944
-2015,Great Britain,,,,Undefined,Units,"Rate per 100,000 population",K03000001,2.73481410290833
-2015,Great Britain,,Male,,Undefined,Units,"Rate per 100,000 population",K03000001,4.22585158449861
-2015,Great Britain,,Female,,Undefined,Units,"Rate per 100,000 population",K03000001,1.28688110094205
-2015,Great Britain,,,0 to 10,Undefined,Units,"Rate per 100,000 population",K03000001,0.281922898700489
-2015,Great Britain,,,10 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,0.495389301682727
-2015,Great Britain,,,11 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,4.30344819181547
-2015,Great Britain,,,12 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,3.37034021310346
-2015,Great Britain,,,13 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,2.49450379711401
-2015,Great Britain,,,14 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,2.90983094217975
-2015,Great Britain,,,15 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,2.31885402234215
-2015,Great Britain,,,16 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,2.47687721795855
-2015,Great Britain,,,17 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,4.84690754975679
-2015,Great Britain,,,18 to 20,Undefined,Units,"Rate per 100,000 population",K03000001,6.3070443646894
-2015,Great Britain,,Male,0 to 4,Undefined,Units,"Rate per 100,000 population",K03000001,0.300037504688086
-2015,Great Britain,,Male,5 to 14,Undefined,Units,"Rate per 100,000 population",K03000001,0.618428192151554
-2015,Great Britain,,Male,15 to 24,Undefined,Units,"Rate per 100,000 population",K03000001,7.05000489032029
-2015,Great Britain,,Male,25 to 34,Undefined,Units,"Rate per 100,000 population",K03000001,5.6228456451877
-2015,Great Britain,,Male,35 to 44,Undefined,Units,"Rate per 100,000 population",K03000001,4.15721498270177
-2015,Great Britain,,Male,45 to 54,Undefined,Units,"Rate per 100,000 population",K03000001,4.81134424192165
-2015,Great Britain,,Male,55 to 64,Undefined,Units,"Rate per 100,000 population",K03000001,3.62123763235062
-2015,Great Britain,,Male,65 to 74,Undefined,Units,"Rate per 100,000 population",K03000001,3.39658149206107
-2015,Great Britain,,Male,75 to 84,Undefined,Units,"Rate per 100,000 population",K03000001,6.38008236440944
-2015,Great Britain,,Male,85 and over,Undefined,Units,"Rate per 100,000 population",K03000001,9.44816907980617
-2015,Great Britain,,Female,0 to 4,Undefined,Units,"Rate per 100,000 population",K03000001,0.262877584218091
-2015,Great Britain,,Female,5 to 14,Undefined,Units,"Rate per 100,000 population",K03000001,0.366413315347137
-2015,Great Britain,,Female,15 to 24,Undefined,Units,"Rate per 100,000 population",K03000001,1.42892847511508
-2015,Great Britain,,Female,25 to 34,Undefined,Units,"Rate per 100,000 population",K03000001,1.11921610104282
-2015,Great Britain,,Female,35 to 44,Undefined,Units,"Rate per 100,000 population",K03000001,0.854341176022597
-2015,Great Britain,,Female,45 to 54,Undefined,Units,"Rate per 100,000 population",K03000001,1.05984269284831
-2015,Great Britain,,Female,55 to 64,Undefined,Units,"Rate per 100,000 population",K03000001,1.05902287489409
-2015,Great Britain,,Female,65 to 74,Undefined,Units,"Rate per 100,000 population",K03000001,1.62319672988289
-2015,Great Britain,,Female,75 to 84,Undefined,Units,"Rate per 100,000 population",K03000001,3.6107511351608
-2015,Great Britain,,Female,85 and over,Undefined,Units,"Rate per 100,000 population",K03000001,4.63068725573124
+Year,Series,Country,Region,Sex,Age,Observation status,Unit multiplier,Unit measure,GeoCode,Value
+2009,Death rate due to road traffic injuries,Great Britain,,,,Normal value,Units,"Rate per 100,000 population",K03000001,3.6747223736497068
+2010,Death rate due to road traffic injuries,Great Britain,,,,Normal value,Units,"Rate per 100,000 population",K03000001,3.0350446101520467
+2011,Death rate due to road traffic injuries,Great Britain,,,,Normal value,Units,"Rate per 100,000 population",K03000001,3.092523873153683
+2012,Death rate due to road traffic injuries,Great Britain,,,,Normal value,Units,"Rate per 100,000 population",K03000001,2.8344544780470047
+2013,Death rate due to road traffic injuries,Great Britain,,,,Normal value,Units,"Rate per 100,000 population",K03000001,2.750661495551516
+2014,Death rate due to road traffic injuries,Great Britain,,,,Normal value,Units,"Rate per 100,000 population",K03000001,2.8284033651849265
+2015,Death rate due to road traffic injuries,Great Britain,,,,Normal value,Units,"Rate per 100,000 population",K03000001,2.7348141029083357
+2016,Death rate due to road traffic injuries,Great Britain,,,,Normal value,Units,"Rate per 100,000 population",K03000001,2.809397566550623
+2017,Death rate due to road traffic injuries,Great Britain,,,,Normal value,Units,"Rate per 100,000 population",K03000001,2.7941669077603115
+2018,Death rate due to road traffic injuries,Great Britain,,,,Normal value,Units,"Rate per 100,000 population",K03000001,2.7635816755883833
+2019,Death rate due to road traffic injuries,Great Britain,,,,Normal value,Units,"Rate per 100,000 population",K03000001,2.6994071473275407
+2020,Death rate due to road traffic injuries,Great Britain,,,,Normal value,Units,"Rate per 100,000 population",K03000001,2.2397542136680113
+2009,Death rate due to road traffic injuries,Great Britain,,Female,,Normal value,Units,"Rate per 100,000 population",K03000001,1.8465929743011378
+2010,Death rate due to road traffic injuries,Great Britain,,Female,,Normal value,Units,"Rate per 100,000 population",K03000001,1.5595965001623397
+2011,Death rate due to road traffic injuries,Great Britain,,Female,,Normal value,Units,"Rate per 100,000 population",K03000001,1.5289693307304602
+2012,Death rate due to road traffic injuries,Great Britain,,Female,,Normal value,Units,"Rate per 100,000 population",K03000001,1.3222837034699966
+2013,Death rate due to road traffic injuries,Great Britain,,Female,,Normal value,Units,"Rate per 100,000 population",K03000001,1.396963525946053
+2014,Death rate due to road traffic injuries,Great Britain,,Female,,Normal value,Units,"Rate per 100,000 population",K03000001,1.459271588738478
+2015,Death rate due to road traffic injuries,Great Britain,,Female,,Normal value,Units,"Rate per 100,000 population",K03000001,1.28688110094205
+2016,Death rate due to road traffic injuries,Great Britain,,Female,,Normal value,Units,"Rate per 100,000 population",K03000001,1.4540524379571294
+2017,Death rate due to road traffic injuries,Great Britain,,Female,,Normal value,Units,"Rate per 100,000 population",K03000001,1.3965860914421817
+2018,Death rate due to road traffic injuries,Great Britain,,Female,,Normal value,Units,"Rate per 100,000 population",K03000001,1.4102212037495243
+2019,Death rate due to road traffic injuries,Great Britain,,Female,,Normal value,Units,"Rate per 100,000 population",K03000001,1.363458129113885
+2020,Death rate due to road traffic injuries,Great Britain,,Female,,Normal value,Units,"Rate per 100,000 population",K03000001,1.0068486939929042
+2009,Death rate due to road traffic injuries,Great Britain,,Male,,Normal value,Units,"Rate per 100,000 population",K03000001,5.574356127301567
+2010,Death rate due to road traffic injuries,Great Britain,,Male,,Normal value,Units,"Rate per 100,000 population",K03000001,4.565362302105664
+2011,Death rate due to road traffic injuries,Great Britain,,Male,,Normal value,Units,"Rate per 100,000 population",K03000001,4.710682493809491
+2012,Death rate due to road traffic injuries,Great Britain,,Male,,Normal value,Units,"Rate per 100,000 population",K03000001,4.39832463935546
+2013,Death rate due to road traffic injuries,Great Britain,,Male,,Normal value,Units,"Rate per 100,000 population",K03000001,4.148730723417212
+2014,Death rate due to road traffic injuries,Great Britain,,Male,,Normal value,Units,"Rate per 100,000 population",K03000001,4.240711732569971
+2015,Death rate due to road traffic injuries,Great Britain,,Male,,Normal value,Units,"Rate per 100,000 population",K03000001,4.2258515844986135
+2016,Death rate due to road traffic injuries,Great Britain,,Male,,Normal value,Units,"Rate per 100,000 population",K03000001,4.20183278097667
+2017,Death rate due to road traffic injuries,Great Britain,,Male,,Normal value,Units,"Rate per 100,000 population",K03000001,4.229103986150016
+2018,Death rate due to road traffic injuries,Great Britain,,Male,,Normal value,Units,"Rate per 100,000 population",K03000001,4.152020829022042
+2019,Death rate due to road traffic injuries,Great Britain,,Male,,Normal value,Units,"Rate per 100,000 population",K03000001,4.06921256243308
+2020,Death rate due to road traffic injuries,Great Britain,,Male,,Normal value,Units,"Rate per 100,000 population",K03000001,3.5018490570184846
+2013,Death rate due to road traffic injuries,Great Britain,,,0-4,Normal value,Units,"Rate per 100,000 population",K03000001,0.25727112517526596
+2013,Death rate due to road traffic injuries,Great Britain,,,5-7,Normal value,Units,"Rate per 100,000 population",K03000001,0.26661772750157414
+2013,Death rate due to road traffic injuries,Great Britain,,,8-11,Normal value,Units,"Rate per 100,000 population",K03000001,0.367399874349243
+2013,Death rate due to road traffic injuries,Great Britain,,,12-15,Normal value,Units,"Rate per 100,000 population",K03000001,0.7810311670487211
+2013,Death rate due to road traffic injuries,Great Britain,,,16-19,Normal value,Units,"Rate per 100,000 population",K03000001,4.846256629398844
+2013,Death rate due to road traffic injuries,Great Britain,,,20-29,Normal value,Units,"Rate per 100,000 population",K03000001,4.632807810581356
+2013,Death rate due to road traffic injuries,Great Britain,,,30-39,Normal value,Units,"Rate per 100,000 population",K03000001,2.507664515206378
+2013,Death rate due to road traffic injuries,Great Britain,,,40-49,Normal value,Units,"Rate per 100,000 population",K03000001,2.8470038087082448
+2013,Death rate due to road traffic injuries,Great Britain,,,50-59,Normal value,Units,"Rate per 100,000 population",K03000001,2.7059181478816026
+2013,Death rate due to road traffic injuries,Great Britain,,,60-69,Normal value,Units,"Rate per 100,000 population",K03000001,1.9120377958787267
+2013,Death rate due to road traffic injuries,Great Britain,,,70-79,Normal value,Units,"Rate per 100,000 population",K03000001,3.4363430747378017
+2013,Death rate due to road traffic injuries,Great Britain,,,80 and over,Normal value,Units,"Rate per 100,000 population",K03000001,5.888519769088335
+2014,Death rate due to road traffic injuries,Great Britain,,,0-4,Normal value,Units,"Rate per 100,000 population",K03000001,0.23074029948552605
+2014,Death rate due to road traffic injuries,Great Britain,,,5-7,Normal value,Units,"Rate per 100,000 population",K03000001,0.4355425357373539
+2014,Death rate due to road traffic injuries,Great Britain,,,8-11,Normal value,Units,"Rate per 100,000 population",K03000001,0.3560762815096352
+2014,Death rate due to road traffic injuries,Great Britain,,,12-15,Normal value,Units,"Rate per 100,000 population",K03000001,0.8681262038468842
+2014,Death rate due to road traffic injuries,Great Britain,,,16-19,Normal value,Units,"Rate per 100,000 population",K03000001,4.257898234901592
+2014,Death rate due to road traffic injuries,Great Britain,,,20-29,Normal value,Units,"Rate per 100,000 population",K03000001,4.621434211874675
+2014,Death rate due to road traffic injuries,Great Britain,,,30-39,Normal value,Units,"Rate per 100,000 population",K03000001,2.823092800484635
+2014,Death rate due to road traffic injuries,Great Britain,,,40-49,Normal value,Units,"Rate per 100,000 population",K03000001,2.680386002842572
+2014,Death rate due to road traffic injuries,Great Britain,,,50-59,Normal value,Units,"Rate per 100,000 population",K03000001,2.5168901305546867
+2014,Death rate due to road traffic injuries,Great Britain,,,60-69,Normal value,Units,"Rate per 100,000 population",K03000001,2.7426501691663723
+2014,Death rate due to road traffic injuries,Great Britain,,,70-79,Normal value,Units,"Rate per 100,000 population",K03000001,3.1622131447822515
+2014,Death rate due to road traffic injuries,Great Britain,,,80 and over,Normal value,Units,"Rate per 100,000 population",K03000001,6.63689292023622
+2015,Death rate due to road traffic injuries,Great Britain,,,0-4,Normal value,Units,"Rate per 100,000 population",K03000001,0.28192289870048926
+2015,Death rate due to road traffic injuries,Great Britain,,,5-7,Normal value,Units,"Rate per 100,000 population",K03000001,0.47078903814803574
+2015,Death rate due to road traffic injuries,Great Britain,,,8-11,Normal value,Units,"Rate per 100,000 population",K03000001,0.41372719242658584
+2015,Death rate due to road traffic injuries,Great Britain,,,12-15,Normal value,Units,"Rate per 100,000 population",K03000001,0.7315492310686033
+2015,Death rate due to road traffic injuries,Great Britain,,,16-19,Normal value,Units,"Rate per 100,000 population",K03000001,3.9341385203504986
+2015,Death rate due to road traffic injuries,Great Britain,,,20-29,Normal value,Units,"Rate per 100,000 population",K03000001,4.616625741221639
+2015,Death rate due to road traffic injuries,Great Britain,,,30-39,Normal value,Units,"Rate per 100,000 population",K03000001,2.396703595773188
+2015,Death rate due to road traffic injuries,Great Britain,,,40-49,Normal value,Units,"Rate per 100,000 population",K03000001,2.9739132479535906
+2015,Death rate due to road traffic injuries,Great Britain,,,50-59,Normal value,Units,"Rate per 100,000 population",K03000001,2.6467601299305423
+2015,Death rate due to road traffic injuries,Great Britain,,,60-69,Normal value,Units,"Rate per 100,000 population",K03000001,1.9906477062761805
+2015,Death rate due to road traffic injuries,Great Britain,,,70-79,Normal value,Units,"Rate per 100,000 population",K03000001,3.5724830543469235
+2015,Death rate due to road traffic injuries,Great Britain,,,80 and over,Normal value,Units,"Rate per 100,000 population",K03000001,6.062658897676815
+2016,Death rate due to road traffic injuries,Great Britain,,,0-4,Normal value,Units,"Rate per 100,000 population",K03000001,0.4113591692601577
+2016,Death rate due to road traffic injuries,Great Britain,,,5-7,Normal value,Units,"Rate per 100,000 population",K03000001,0.337860095513049
+2016,Death rate due to road traffic injuries,Great Britain,,,8-11,Normal value,Units,"Rate per 100,000 population",K03000001,0.6668760657513126
+2016,Death rate due to road traffic injuries,Great Britain,,,12-15,Normal value,Units,"Rate per 100,000 population",K03000001,0.910531535531308
+2016,Death rate due to road traffic injuries,Great Britain,,,16-19,Normal value,Units,"Rate per 100,000 population",K03000001,3.569402141978021
+2016,Death rate due to road traffic injuries,Great Britain,,,20-29,Normal value,Units,"Rate per 100,000 population",K03000001,4.2832286719562
+2016,Death rate due to road traffic injuries,Great Britain,,,30-39,Normal value,Units,"Rate per 100,000 population",K03000001,3.067958884557261
+2016,Death rate due to road traffic injuries,Great Britain,,,40-49,Normal value,Units,"Rate per 100,000 population",K03000001,2.821184874234856
+2016,Death rate due to road traffic injuries,Great Britain,,,50-59,Normal value,Units,"Rate per 100,000 population",K03000001,2.614745936613826
+2016,Death rate due to road traffic injuries,Great Britain,,,60-69,Normal value,Units,"Rate per 100,000 population",K03000001,2.1906159453646064
+2016,Death rate due to road traffic injuries,Great Britain,,,70-79,Normal value,Units,"Rate per 100,000 population",K03000001,3.446485415725123
+2016,Death rate due to road traffic injuries,Great Britain,,,80 and over,Normal value,Units,"Rate per 100,000 population",K03000001,6.850255672867979
+2017,Death rate due to road traffic injuries,Great Britain,,,0-4,Normal value,Units,"Rate per 100,000 population",K03000001,0.31268402757873126
+2017,Death rate due to road traffic injuries,Great Britain,,,5-7,Normal value,Units,"Rate per 100,000 population",K03000001,0.3312024595094643
+2017,Death rate due to road traffic injuries,Great Britain,,,8-11,Normal value,Units,"Rate per 100,000 population",K03000001,0.32499652253720884
+2017,Death rate due to road traffic injuries,Great Britain,,,12-15,Normal value,Units,"Rate per 100,000 population",K03000001,0.6464272683132846
+2017,Death rate due to road traffic injuries,Great Britain,,,16-19,Normal value,Units,"Rate per 100,000 population",K03000001,3.7760500251107327
+2017,Death rate due to road traffic injuries,Great Britain,,,20-29,Normal value,Units,"Rate per 100,000 population",K03000001,4.3131122019119426
+2017,Death rate due to road traffic injuries,Great Britain,,,30-39,Normal value,Units,"Rate per 100,000 population",K03000001,3.2157598716438907
+2017,Death rate due to road traffic injuries,Great Britain,,,40-49,Normal value,Units,"Rate per 100,000 population",K03000001,2.6230077362036353
+2017,Death rate due to road traffic injuries,Great Britain,,,50-59,Normal value,Units,"Rate per 100,000 population",K03000001,2.5227295608334726
+2017,Death rate due to road traffic injuries,Great Britain,,,60-69,Normal value,Units,"Rate per 100,000 population",K03000001,2.644003777148253
+2017,Death rate due to road traffic injuries,Great Britain,,,70-79,Normal value,Units,"Rate per 100,000 population",K03000001,3.338558565693128
+2017,Death rate due to road traffic injuries,Great Britain,,,80 and over,Normal value,Units,"Rate per 100,000 population",K03000001,6.508331140078652
+2018,Death rate due to road traffic injuries,Great Britain,,,0-4,Normal value,Units,"Rate per 100,000 population",K03000001,0.3428006071262445
+2018,Death rate due to road traffic injuries,Great Britain,,,5-7,Normal value,Units,"Rate per 100,000 population",K03000001,0.2468645121154931
+2018,Death rate due to road traffic injuries,Great Britain,,,8-11,Normal value,Units,"Rate per 100,000 population",K03000001,0.2232694623192913
+2018,Death rate due to road traffic injuries,Great Britain,,,12-15,Normal value,Units,"Rate per 100,000 population",K03000001,0.7658383196950292
+2018,Death rate due to road traffic injuries,Great Britain,,,16-19,Normal value,Units,"Rate per 100,000 population",K03000001,3.699873261888548
+2018,Death rate due to road traffic injuries,Great Britain,,,20-29,Normal value,Units,"Rate per 100,000 population",K03000001,3.9300400934901067
+2018,Death rate due to road traffic injuries,Great Britain,,,30-39,Normal value,Units,"Rate per 100,000 population",K03000001,3.1096461222712857
+2018,Death rate due to road traffic injuries,Great Britain,,,40-49,Normal value,Units,"Rate per 100,000 population",K03000001,2.519025606985258
+2018,Death rate due to road traffic injuries,Great Britain,,,50-59,Normal value,Units,"Rate per 100,000 population",K03000001,2.685321002584105
+2018,Death rate due to road traffic injuries,Great Britain,,,60-69,Normal value,Units,"Rate per 100,000 population",K03000001,2.7626233347742595
+2018,Death rate due to road traffic injuries,Great Britain,,,70-79,Normal value,Units,"Rate per 100,000 population",K03000001,3.852379798269945
+2018,Death rate due to road traffic injuries,Great Britain,,,80 and over,Normal value,Units,"Rate per 100,000 population",K03000001,5.994704053637614
+2019,Death rate due to road traffic injuries,Great Britain,,,0-4,Normal value,Units,"Rate per 100,000 population",K03000001,0.1338009587641501
+2019,Death rate due to road traffic injuries,Great Britain,,,5-7,Normal value,Units,"Rate per 100,000 population",K03000001,0.04146426920262137
+2019,Death rate due to road traffic injuries,Great Britain,,,8-11,Normal value,Units,"Rate per 100,000 population",K03000001,0.2820109890282058
+2019,Death rate due to road traffic injuries,Great Britain,,,12-15,Normal value,Units,"Rate per 100,000 population",K03000001,0.810280569775792
+2019,Death rate due to road traffic injuries,Great Britain,,,16-19,Normal value,Units,"Rate per 100,000 population",K03000001,3.2148672418806052
+2019,Death rate due to road traffic injuries,Great Britain,,,20-29,Normal value,Units,"Rate per 100,000 population",K03000001,3.7130863755235244
+2019,Death rate due to road traffic injuries,Great Britain,,,30-39,Normal value,Units,"Rate per 100,000 population",K03000001,2.7773100710470633
+2019,Death rate due to road traffic injuries,Great Britain,,,40-49,Normal value,Units,"Rate per 100,000 population",K03000001,2.347295298428645
+2019,Death rate due to road traffic injuries,Great Britain,,,50-59,Normal value,Units,"Rate per 100,000 population",K03000001,2.712738577696408
+2019,Death rate due to road traffic injuries,Great Britain,,,60-69,Normal value,Units,"Rate per 100,000 population",K03000001,2.8869581233732893
+2019,Death rate due to road traffic injuries,Great Britain,,,70-79,Normal value,Units,"Rate per 100,000 population",K03000001,3.9629950789781287
+2019,Death rate due to road traffic injuries,Great Britain,,,80 and over,Normal value,Units,"Rate per 100,000 population",K03000001,6.705229865947216
+2020,Death rate due to road traffic injuries,Great Britain,,,0-4,Normal value,Units,"Rate per 100,000 population",K03000001,0.30016967773237635
+2020,Death rate due to road traffic injuries,Great Britain,,,5-7,Normal value,Units,"Rate per 100,000 population",K03000001,0.2526176450898919
+2020,Death rate due to road traffic injuries,Great Britain,,,8-11,Normal value,Units,"Rate per 100,000 population",K03000001,0.24723613183001406
+2020,Death rate due to road traffic injuries,Great Britain,,,12-15,Normal value,Units,"Rate per 100,000 population",K03000001,0.5235165259443338
+2020,Death rate due to road traffic injuries,Great Britain,,,16-19,Normal value,Units,"Rate per 100,000 population",K03000001,2.8498157646882496
+2020,Death rate due to road traffic injuries,Great Britain,,,20-29,Normal value,Units,"Rate per 100,000 population",K03000001,3.3183549792334244
+2020,Death rate due to road traffic injuries,Great Britain,,,30-39,Normal value,Units,"Rate per 100,000 population",K03000001,2.628199357220822
+2020,Death rate due to road traffic injuries,Great Britain,,,40-49,Normal value,Units,"Rate per 100,000 population",K03000001,2.231861739353621
+2020,Death rate due to road traffic injuries,Great Britain,,,50-59,Normal value,Units,"Rate per 100,000 population",K03000001,2.424233677183631
+2020,Death rate due to road traffic injuries,Great Britain,,,60-69,Normal value,Units,"Rate per 100,000 population",K03000001,2.1393467804114565
+2020,Death rate due to road traffic injuries,Great Britain,,,70-79,Normal value,Units,"Rate per 100,000 population",K03000001,2.7396923965886204
+2020,Death rate due to road traffic injuries,Great Britain,,,80 and over,Normal value,Units,"Rate per 100,000 population",K03000001,3.966173085004475
+2009,Death rate due to road traffic injuries,England,,,,Normal value,Units,"Rate per 100,000 population",E92000001,3.6017822768210688
+2010,Death rate due to road traffic injuries,England,,,,Normal value,Units,"Rate per 100,000 population",E92000001,2.9500905466941396
+2011,Death rate due to road traffic injuries,England,,,,Normal value,Units,"Rate per 100,000 population",E92000001,3.0014780113773343
+2012,Death rate due to road traffic injuries,England,,,,Normal value,Units,"Rate per 100,000 population",E92000001,2.7872425943609205
+2013,Death rate due to road traffic injuries,England,,,,Normal value,Units,"Rate per 100,000 population",E92000001,2.6547448449542688
+2014,Death rate due to road traffic injuries,England,,,,Normal value,Units,"Rate per 100,000 population",E92000001,2.710036180824071
+2015,Death rate due to road traffic injuries,England,,,,Normal value,Units,"Rate per 100,000 population",E92000001,2.67037430707848
+2016,Death rate due to road traffic injuries,England,,,,Normal value,Units,"Rate per 100,000 population",E92000001,2.710425895662318
+2017,Death rate due to road traffic injuries,England,,,,Normal value,Units,"Rate per 100,000 population",E92000001,2.776008312203128
+2018,Death rate due to road traffic injuries,England,,,,Normal value,Units,"Rate per 100,000 population",E92000001,2.7171787759647335
+2019,Death rate due to road traffic injuries,England,,,,Normal value,Units,"Rate per 100,000 population",E92000001,2.645372877743391
+2020,Death rate due to road traffic injuries,England,,,,Normal value,Units,"Rate per 100,000 population",E92000001,2.203354481646004
+2009,Death rate due to road traffic injuries,England,East Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000004,5.076422522051689
+2010,Death rate due to road traffic injuries,England,East Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000004,4.06028660298451
+2011,Death rate due to road traffic injuries,England,East Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000004,4.121259351071351
+2012,Death rate due to road traffic injuries,England,East Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000004,3.7217057321711686
+2013,Death rate due to road traffic injuries,England,East Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000004,3.2184072015775413
+2014,Death rate due to road traffic injuries,England,East Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000004,3.644307796080062
+2015,Death rate due to road traffic injuries,England,East Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000004,3.719995510350246
+2016,Death rate due to road traffic injuries,England,East Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000004,4.0419944173920035
+2017,Death rate due to road traffic injuries,England,East Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000004,3.814181461988329
+2018,Death rate due to road traffic injuries,England,East Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000004,4.079806850287117
+2019,Death rate due to road traffic injuries,England,East Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000004,4.09435376209075
+2020,Death rate due to road traffic injuries,England,East Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000004,2.812283392143142
+2009,Death rate due to road traffic injuries,England,East of England,,,Normal value,Units,"Rate per 100,000 population",E12000006,4.085931130674511
+2010,Death rate due to road traffic injuries,England,East of England,,,Normal value,Units,"Rate per 100,000 population",E12000006,3.392222546329667
+2011,Death rate due to road traffic injuries,England,East of England,,,Normal value,Units,"Rate per 100,000 population",E12000006,3.3945037696049654
+2012,Death rate due to road traffic injuries,England,East of England,,,Normal value,Units,"Rate per 100,000 population",E12000006,3.1663176944330713
+2013,Death rate due to road traffic injuries,England,East of England,,,Normal value,Units,"Rate per 100,000 population",E12000006,2.9906245600169625
+2014,Death rate due to road traffic injuries,England,East of England,,,Normal value,Units,"Rate per 100,000 population",E12000006,3.1243508247122853
+2015,Death rate due to road traffic injuries,England,East of England,,,Normal value,Units,"Rate per 100,000 population",E12000006,3.1929058240906394
+2016,Death rate due to road traffic injuries,England,East of England,,,Normal value,Units,"Rate per 100,000 population",E12000006,3.475278613739098
+2017,Death rate due to road traffic injuries,England,East of England,,,Normal value,Units,"Rate per 100,000 population",E12000006,3.2423150648333317
+2018,Death rate due to road traffic injuries,England,East of England,,,Normal value,Units,"Rate per 100,000 population",E12000006,2.741398700319002
+2019,Death rate due to road traffic injuries,England,East of England,,,Normal value,Units,"Rate per 100,000 population",E12000006,2.9185038274093054
+2020,Death rate due to road traffic injuries,England,East of England,,,Normal value,Units,"Rate per 100,000 population",E12000006,2.7100392683086403
+2009,Death rate due to road traffic injuries,England,London,,,Normal value,Units,"Rate per 100,000 population",E12000007,2.329213856329557
+2010,Death rate due to road traffic injuries,England,London,,,Normal value,Units,"Rate per 100,000 population",E12000007,1.5629855256376142
+2011,Death rate due to road traffic injuries,England,London,,,Normal value,Units,"Rate per 100,000 population",E12000007,1.9379828426356713
+2012,Death rate due to road traffic injuries,England,London,,,Normal value,Units,"Rate per 100,000 population",E12000007,1.6247769091038415
+2013,Death rate due to road traffic injuries,England,London,,,Normal value,Units,"Rate per 100,000 population",E12000007,1.5800494638642688
+2014,Death rate due to road traffic injuries,England,London,,,Normal value,Units,"Rate per 100,000 population",E12000007,1.5106451297854955
+2015,Death rate due to road traffic injuries,England,London,,,Normal value,Units,"Rate per 100,000 population",E12000007,1.5691830902061052
+2016,Death rate due to road traffic injuries,England,London,,,Normal value,Units,"Rate per 100,000 population",E12000007,1.3227424236221728
+2017,Death rate due to road traffic injuries,England,London,,,Normal value,Units,"Rate per 100,000 population",E12000007,1.4844190952499607
+2018,Death rate due to road traffic injuries,England,London,,,Normal value,Units,"Rate per 100,000 population",E12000007,1.2572853794212244
+2019,Death rate due to road traffic injuries,England,London,,,Normal value,Units,"Rate per 100,000 population",E12000007,1.3947796633091158
+2020,Death rate due to road traffic injuries,England,London,,,Normal value,Units,"Rate per 100,000 population",E12000007,1.071190781421401
+2009,Death rate due to road traffic injuries,England,North East,,,Normal value,Units,"Rate per 100,000 population",E12000001,2.8344660196059626
+2010,Death rate due to road traffic injuries,England,North East,,,Normal value,Units,"Rate per 100,000 population",E12000001,1.9714960330407272
+2011,Death rate due to road traffic injuries,England,North East,,,Normal value,Units,"Rate per 100,000 population",E12000001,2.233826996261421
+2012,Death rate due to road traffic injuries,England,North East,,,Normal value,Units,"Rate per 100,000 population",E12000001,2.958822035308353
+2013,Death rate due to road traffic injuries,England,North East,,,Normal value,Units,"Rate per 100,000 population",E12000001,2.9112494124830546
+2014,Death rate due to road traffic injuries,England,North East,,,Normal value,Units,"Rate per 100,000 population",E12000001,2.1766226148798506
+2015,Death rate due to road traffic injuries,England,North East,,,Normal value,Units,"Rate per 100,000 population",E12000001,2.3622836272026864
+2016,Death rate due to road traffic injuries,England,North East,,,Normal value,Units,"Rate per 100,000 population",E12000001,2.123956369384838
+2017,Death rate due to road traffic injuries,England,North East,,,Normal value,Units,"Rate per 100,000 population",E12000001,2.193042987045544
+2018,Death rate due to road traffic injuries,England,North East,,,Normal value,Units,"Rate per 100,000 population",E12000001,1.9564251447284313
+2019,Death rate due to road traffic injuries,England,North East,,,Normal value,Units,"Rate per 100,000 population",E12000001,2.8090508367038822
+2020,Death rate due to road traffic injuries,England,North East,,,Normal value,Units,"Rate per 100,000 population",E12000001,2.359602702831261
+2009,Death rate due to road traffic injuries,England,North West,,,Normal value,Units,"Rate per 100,000 population",E12000002,3.3637954835248456
+2010,Death rate due to road traffic injuries,England,North West,,,Normal value,Units,"Rate per 100,000 population",E12000002,2.7635638634679793
+2011,Death rate due to road traffic injuries,England,North West,,,Normal value,Units,"Rate per 100,000 population",E12000002,2.976206926313793
+2012,Death rate due to road traffic injuries,England,North West,,,Normal value,Units,"Rate per 100,000 population",E12000002,2.3290380226043728
+2013,Death rate due to road traffic injuries,England,North West,,,Normal value,Units,"Rate per 100,000 population",E12000002,2.0975610854836386
+2014,Death rate due to road traffic injuries,England,North West,,,Normal value,Units,"Rate per 100,000 population",E12000002,2.565531094377057
+2015,Death rate due to road traffic injuries,England,North West,,,Normal value,Units,"Rate per 100,000 population",E12000002,2.466837756498863
+2016,Death rate due to road traffic injuries,England,North West,,,Normal value,Units,"Rate per 100,000 population",E12000002,2.5747647308727166
+2017,Death rate due to road traffic injuries,England,North West,,,Normal value,Units,"Rate per 100,000 population",E12000002,2.300710588930937
+2018,Death rate due to road traffic injuries,England,North West,,,Normal value,Units,"Rate per 100,000 population",E12000002,2.6604158778556446
+2019,Death rate due to road traffic injuries,England,North West,,,Normal value,Units,"Rate per 100,000 population",E12000002,2.6698646923471325
+2020,Death rate due to road traffic injuries,England,North West,,,Normal value,Units,"Rate per 100,000 population",E12000002,2.152237864239015
+2009,Death rate due to road traffic injuries,England,South East,,,Normal value,Units,"Rate per 100,000 population",E12000008,3.4625215023763025
+2010,Death rate due to road traffic injuries,England,South East,,,Normal value,Units,"Rate per 100,000 population",E12000008,3.3108834451281104
+2011,Death rate due to road traffic injuries,England,South East,,,Normal value,Units,"Rate per 100,000 population",E12000008,2.981699300479476
+2012,Death rate due to road traffic injuries,England,South East,,,Normal value,Units,"Rate per 100,000 population",E12000008,2.6705091434565422
+2013,Death rate due to road traffic injuries,England,South East,,,Normal value,Units,"Rate per 100,000 population",E12000008,2.672533655159457
+2014,Death rate due to road traffic injuries,England,South East,,,Normal value,Units,"Rate per 100,000 population",E12000008,2.783410647165513
+2015,Death rate due to road traffic injuries,England,South East,,,Normal value,Units,"Rate per 100,000 population",E12000008,2.625876707602036
+2016,Death rate due to road traffic injuries,England,South East,,,Normal value,Units,"Rate per 100,000 population",E12000008,3.100656043449936
+2017,Death rate due to road traffic injuries,England,South East,,,Normal value,Units,"Rate per 100,000 population",E12000008,2.9402614850522943
+2018,Death rate due to road traffic injuries,England,South East,,,Normal value,Units,"Rate per 100,000 population",E12000008,2.824727312540202
+2019,Death rate due to road traffic injuries,England,South East,,,Normal value,Units,"Rate per 100,000 population",E12000008,2.331120402913465
+2020,Death rate due to road traffic injuries,England,South East,,,Normal value,Units,"Rate per 100,000 population",E12000008,2.603447552786533
+2009,Death rate due to road traffic injuries,England,South West,,,Normal value,Units,"Rate per 100,000 population",E12000009,3.86468180180649
+2010,Death rate due to road traffic injuries,England,South West,,,Normal value,Units,"Rate per 100,000 population",E12000009,3.6493090071408614
+2011,Death rate due to road traffic injuries,England,South West,,,Normal value,Units,"Rate per 100,000 population",E12000009,3.0183946630254765
+2012,Death rate due to road traffic injuries,England,South West,,,Normal value,Units,"Rate per 100,000 population",E12000009,3.8204114470763457
+2013,Death rate due to road traffic injuries,England,South West,,,Normal value,Units,"Rate per 100,000 population",E12000009,3.533107635938176
+2014,Death rate due to road traffic injuries,England,South West,,,Normal value,Units,"Rate per 100,000 population",E12000009,3.411221036428522
+2015,Death rate due to road traffic injuries,England,South West,,,Normal value,Units,"Rate per 100,000 population",E12000009,3.161775053412067
+2016,Death rate due to road traffic injuries,England,South West,,,Normal value,Units,"Rate per 100,000 population",E12000009,2.954518718869931
+2017,Death rate due to road traffic injuries,England,South West,,,Normal value,Units,"Rate per 100,000 population",E12000009,3.381710987466804
+2018,Death rate due to road traffic injuries,England,South West,,,Normal value,Units,"Rate per 100,000 population",E12000009,3.2858697777662695
+2020,Death rate due to road traffic injuries,England,South West,,,Normal value,Units,"Rate per 100,000 population",E12000009,2.862376917792535
+2020,Death rate due to road traffic injuries,England,South West,,,Normal value,Units,"Rate per 100,000 population",E12000009,2.311236020577823
+2009,Death rate due to road traffic injuries,England,West Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000005,4.052093277016473
+2010,Death rate due to road traffic injuries,England,West Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000005,2.8027983426119136
+2011,Death rate due to road traffic injuries,England,West Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000005,3.387614204943884
+2012,Death rate due to road traffic injuries,England,West Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000005,3.119039378403807
+2013,Death rate due to road traffic injuries,England,West Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000005,2.748884146867946
+2014,Death rate due to road traffic injuries,England,West Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000005,2.7304045776983004
+2015,Death rate due to road traffic injuries,England,West Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000005,2.8323039732880724
+2016,Death rate due to road traffic injuries,England,West Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000005,2.6674592175602108
+2017,Death rate due to road traffic injuries,England,West Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000005,3.258993029167476
+2018,Death rate due to road traffic injuries,England,West Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000005,2.931827221490395
+2019,Death rate due to road traffic injuries,England,West Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000005,2.527790103095077
+2020,Death rate due to road traffic injuries,England,West Midlands,,,Normal value,Units,"Rate per 100,000 population",E12000005,1.8200088742284553
+2009,Death rate due to road traffic injuries,England,Yorkshire and The Humber,,,Normal value,Units,"Rate per 100,000 population",E12000003,3.9246888583252413
+2010,Death rate due to road traffic injuries,England,Yorkshire and The Humber,,,Normal value,Units,"Rate per 100,000 population",E12000003,3.2351447860503604
+2011,Death rate due to road traffic injuries,England,Yorkshire and The Humber,,,Normal value,Units,"Rate per 100,000 population",E12000003,3.2714270910470304
+2012,Death rate due to road traffic injuries,England,Yorkshire and The Humber,,,Normal value,Units,"Rate per 100,000 population",E12000003,2.7083466164569296
+2013,Death rate due to road traffic injuries,England,Yorkshire and The Humber,,,Normal value,Units,"Rate per 100,000 population",E12000003,3.091080079581262
+2014,Death rate due to road traffic injuries,England,Yorkshire and The Humber,,,Normal value,Units,"Rate per 100,000 population",E12000003,2.9476968506471035
+2015,Death rate due to road traffic injuries,England,Yorkshire and The Humber,,,Normal value,Units,"Rate per 100,000 population",E12000003,2.764270266970996
+2016,Death rate due to road traffic injuries,England,Yorkshire and The Humber,,,Normal value,Units,"Rate per 100,000 population",E12000003,2.543605320927421
+2017,Death rate due to road traffic injuries,England,Yorkshire and The Humber,,,Normal value,Units,"Rate per 100,000 population",E12000003,2.935709790408669
+2018,Death rate due to road traffic injuries,England,Yorkshire and The Humber,,,Normal value,Units,"Rate per 100,000 population",E12000003,3.321401229830928
+2019,Death rate due to road traffic injuries,England,Yorkshire and The Humber,,,Normal value,Units,"Rate per 100,000 population",E12000003,3.4163388586557035
+2020,Death rate due to road traffic injuries,England,Yorkshire and The Humber,,,Normal value,Units,"Rate per 100,000 population",E12000003,2.6712862352254705
+2009,Death rate due to road traffic injuries,Wales,,,,Normal value,Units,"Rate per 100,000 population",W92000004,4.146275328477146
+2010,Death rate due to road traffic injuries,Wales,,,,Normal value,Units,"Rate per 100,000 population",W92000004,2.9180605323788327
+2011,Death rate due to road traffic injuries,Wales,,,,Normal value,Units,"Rate per 100,000 population",W92000004,3.9493980921469642
+2012,Death rate due to road traffic injuries,Wales,,,,Normal value,Units,"Rate per 100,000 population",W92000004,3.02530816667301
+2013,Death rate due to road traffic injuries,Wales,,,,Normal value,Units,"Rate per 100,000 population",W92000004,3.601076040451439
+2014,Death rate due to road traffic injuries,Wales,,,,Normal value,Units,"Rate per 100,000 population",W92000004,3.331138447288453
+2015,Death rate due to road traffic injuries,Wales,,,,Normal value,Units,"Rate per 100,000 population",W92000004,3.3880957159627063
+2016,Death rate due to road traffic injuries,Wales,,,,Normal value,Units,"Rate per 100,000 population",W92000004,3.308546006456483
+2017,Death rate due to road traffic injuries,Wales,,,,Normal value,Units,"Rate per 100,000 population",W92000004,3.2958259803882353
+2018,Death rate due to road traffic injuries,Wales,,,,Normal value,Units,"Rate per 100,000 population",W92000004,3.281685550165024
+2019,Death rate due to road traffic injuries,Wales,,,,Normal value,Units,"Rate per 100,000 population",W92000004,3.108270250777147
+2020,Death rate due to road traffic injuries,Wales,,,,Normal value,Units,"Rate per 100,000 population",W92000004,2.2400401819038827
+2009,Death rate due to road traffic injuries,Scotland,,,,Normal value,Units,"Rate per 100,000 population",S92000003,4.128519275980046
+2010,Death rate due to road traffic injuries,Scotland,,,,Normal value,Units,"Rate per 100,000 population",S92000003,3.952719394929877
+2011,Death rate due to road traffic injuries,Scotland,,,,Normal value,Units,"Rate per 100,000 population",S92000003,3.5095001792486653
+2012,Death rate due to road traffic injuries,Scotland,,,,Normal value,Units,"Rate per 100,000 population",S92000003,3.1993375489310454
+2013,Death rate due to road traffic injuries,Scotland,,,,Normal value,Units,"Rate per 100,000 population",S92000003,3.228410008071025
+2014,Death rate due to road traffic injuries,Scotland,,,,Normal value,Units,"Rate per 100,000 population",S92000003,3.739995512005385
+2015,Death rate due to road traffic injuries,Scotland,,,,Normal value,Units,"Rate per 100,000 population",S92000003,3.0150753768844223
+2016,Death rate due to road traffic injuries,Scotland,,,,Normal value,Units,"Rate per 100,000 population",S92000003,3.5339611819342425
+2017,Death rate due to road traffic injuries,Scotland,,,,Normal value,Units,"Rate per 100,000 population",S92000003,2.6913434596667156
+2018,Death rate due to road traffic injuries,Scotland,,,,Normal value,Units,"Rate per 100,000 population",S92000003,2.942204078630404
+2019,Death rate due to road traffic injuries,Scotland,,,,Normal value,Units,"Rate per 100,000 population",S92000003,3.020152654988743
+2020,Death rate due to road traffic injuries,Scotland,,,,Normal value,Units,"Rate per 100,000 population",S92000003,2.6161727039882914
+2009,Death rate due to road traffic injuries,Nothern Ireland,,,,Normal value,Units,"Rate per 100,000 population",,6.412640597145093
+2010,Death rate due to road traffic injuries,Nothern Ireland,,,,Normal value,Units,"Rate per 100,000 population",,3.0473733580890863
+2011,Death rate due to road traffic injuries,Nothern Ireland,,,,Normal value,Units,"Rate per 100,000 population",,3.251910635291057
+2012,Death rate due to road traffic injuries,Nothern Ireland,,,,Normal value,Units,"Rate per 100,000 population",,2.632107100437917
+2013,Death rate due to road traffic injuries,Nothern Ireland,,,,Normal value,Units,"Rate per 100,000 population",,3.1152222328491983
+2014,Death rate due to road traffic injuries,Nothern Ireland,,,,Normal value,Units,"Rate per 100,000 population",,4.292316536067956
+2015,Death rate due to road traffic injuries,Nothern Ireland,,,,Normal value,Units,"Rate per 100,000 population",,3.996498203466044
+2016,Death rate due to road traffic injuries,Nothern Ireland,,,,Normal value,Units,"Rate per 100,000 population",,3.651718428880367
+2017,Death rate due to road traffic injuries,Nothern Ireland,,,,Normal value,Units,"Rate per 100,000 population",,3.367482096220188
+2018,Death rate due to road traffic injuries,Nothern Ireland,,,,Normal value,Units,"Rate per 100,000 population",,2.9229805260408335
+2019,Death rate due to road traffic injuries,Nothern Ireland,,,,Normal value,Units,"Rate per 100,000 population",,2.95722531997442
+2020,Death rate due to road traffic injuries,Nothern Ireland,,,,Normal value,Units,"Rate per 100,000 population",,2.954350016618219
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,,Normal value,Units,"Rate per 100,000 population",K03000001,2.7348141029083357
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,0 to 4,Normal value,Units,"Rate per 100,000 population",K03000001,0.28192289870048926
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,5 to 14,Normal value,Units,"Rate per 100,000 population",K03000001,0.4953893016827274
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,15 to 24,Normal value,Units,"Rate per 100,000 population",K03000001,4.303448191815477
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,25 to 34,Normal value,Units,"Rate per 100,000 population",K03000001,3.3703402131034625
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,35 to 44,Normal value,Units,"Rate per 100,000 population",K03000001,2.4945037971140187
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,45 to 54,Normal value,Units,"Rate per 100,000 population",K03000001,2.909830942179757
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,55 to 64,Normal value,Units,"Rate per 100,000 population",K03000001,2.3188540223421583
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,65 to 74,Normal value,Units,"Rate per 100,000 population",K03000001,2.476877217958558
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,75 to 84,Normal value,Units,"Rate per 100,000 population",K03000001,4.846907549756792
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,85 and over,Normal value,Units,"Rate per 100,000 population",K03000001,6.307044364689409
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,,Normal value,Units,"Rate per 100,000 population",K03000001,2.809397566550623
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,0 to 4,Normal value,Units,"Rate per 100,000 population",K03000001,0.4113591692601577
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,5 to 14,Normal value,Units,"Rate per 100,000 population",K03000001,0.5928575220549736
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,15 to 24,Normal value,Units,"Rate per 100,000 population",K03000001,4.117728024961899
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,25 to 34,Normal value,Units,"Rate per 100,000 population",K03000001,3.4021701924682644
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,35 to 44,Normal value,Units,"Rate per 100,000 population",K03000001,2.859295780098463
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,45 to 54,Normal value,Units,"Rate per 100,000 population",K03000001,2.64746284625171
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,55 to 64,Normal value,Units,"Rate per 100,000 population",K03000001,2.7205404048976223
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,65 to 74,Normal value,Units,"Rate per 100,000 population",K03000001,2.2143059028808594
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,75 to 84,Normal value,Units,"Rate per 100,000 population",K03000001,5.346375580156764
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,85 and over,Normal value,Units,"Rate per 100,000 population",K03000001,7.069117643208542
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,,Normal value,Units,"Rate per 100,000 population",K03000001,2.7941669077603115
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,0 to 4,Normal value,Units,"Rate per 100,000 population",K03000001,0.31268402757873126
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,5 to 14,Normal value,Units,"Rate per 100,000 population",K03000001,0.3946634658582556
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,15 to 24,Normal value,Units,"Rate per 100,000 population",K03000001,3.8675938995152226
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,25 to 34,Normal value,Units,"Rate per 100,000 population",K03000001,3.923852929861817
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,35 to 44,Normal value,Units,"Rate per 100,000 population",K03000001,2.665847165500976
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,45 to 54,Normal value,Units,"Rate per 100,000 population",K03000001,2.727707034912312
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,55 to 64,Normal value,Units,"Rate per 100,000 population",K03000001,2.4721107569074343
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,65 to 74,Normal value,Units,"Rate per 100,000 population",K03000001,2.7741416953652664
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,75 to 84,Normal value,Units,"Rate per 100,000 population",K03000001,4.495895677990491
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,85 and over,Normal value,Units,"Rate per 100,000 population",K03000001,7.650524060898172
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,,Normal value,Units,"Rate per 100,000 population",K03000001,2.7635816755883833
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,0 to 4,Normal value,Units,"Rate per 100,000 population",K03000001,0.3428006071262445
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,5 to 14,Normal value,Units,"Rate per 100,000 population",K03000001,0.3226647045210875
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,15 to 24,Normal value,Units,"Rate per 100,000 population",K03000001,3.9612048516102494
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,25 to 34,Normal value,Units,"Rate per 100,000 population",K03000001,3.317356638716984
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,35 to 44,Normal value,Units,"Rate per 100,000 population",K03000001,2.7687622094722433
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,45 to 54,Normal value,Units,"Rate per 100,000 population",K03000001,2.578041231173854
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,55 to 64,Normal value,Units,"Rate per 100,000 population",K03000001,2.867270188294408
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,65 to 74,Normal value,Units,"Rate per 100,000 population",K03000001,2.9946100107034153
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,75 to 84,Normal value,Units,"Rate per 100,000 population",K03000001,4.542730816677967
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,,85 and over,Normal value,Units,"Rate per 100,000 population",K03000001,7.002925949787748
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,,Normal value,Units,"Rate per 100,000 population",K03000001,1.28688110094205
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,0 to 4,Normal value,Units,"Rate per 100,000 population",K03000001,0.26287758421809165
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,5 to 14,Normal value,Units,"Rate per 100,000 population",K03000001,0.3664133153471371
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,15 to 24,Normal value,Units,"Rate per 100,000 population",K03000001,1.4289284751150806
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,25 to 34,Normal value,Units,"Rate per 100,000 population",K03000001,1.1192161010428296
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,35 to 44,Normal value,Units,"Rate per 100,000 population",K03000001,0.8543411760225975
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,45 to 54,Normal value,Units,"Rate per 100,000 population",K03000001,1.059842692848314
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,55 to 64,Normal value,Units,"Rate per 100,000 population",K03000001,1.0590228748940977
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,65 to 74,Normal value,Units,"Rate per 100,000 population",K03000001,1.6231967298828958
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,75 to 84,Normal value,Units,"Rate per 100,000 population",K03000001,3.610751135160802
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,85 and over,Normal value,Units,"Rate per 100,000 population",K03000001,4.630687255731248
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,,Normal value,Units,"Rate per 100,000 population",K03000001,1.4540524379571294
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,0 to 4,Normal value,Units,"Rate per 100,000 population",K03000001,0.5802636507023827
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,5 to 14,Normal value,Units,"Rate per 100,000 population",K03000001,0.3313472745858297
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,15 to 24,Normal value,Units,"Rate per 100,000 population",K03000001,1.762467285845099
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,25 to 34,Normal value,Units,"Rate per 100,000 population",K03000001,1.2964892691203806
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,35 to 44,Normal value,Units,"Rate per 100,000 population",K03000001,1.2005537247791838
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,45 to 54,Normal value,Units,"Rate per 100,000 population",K03000001,0.9212261695788746
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,55 to 64,Normal value,Units,"Rate per 100,000 population",K03000001,1.2516527808662237
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,65 to 74,Normal value,Units,"Rate per 100,000 population",K03000001,1.2508206603844962
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,75 to 84,Normal value,Units,"Rate per 100,000 population",K03000001,4.1004015429366385
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,85 and over,Normal value,Units,"Rate per 100,000 population",K03000001,6.277362211899449
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,,Normal value,Units,"Rate per 100,000 population",K03000001,1.3965860914421817
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,0 to 4,Normal value,Units,"Rate per 100,000 population",K03000001,0.3743757952143007
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,5 to 14,Normal value,Units,"Rate per 100,000 population",K03000001,0.32357031803187275
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,15 to 24,Normal value,Units,"Rate per 100,000 population",K03000001,1.5779936746524736
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,25 to 34,Normal value,Units,"Rate per 100,000 population",K03000001,1.2899519423796895
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,35 to 44,Normal value,Units,"Rate per 100,000 population",K03000001,1.0787483870872836
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,45 to 54,Normal value,Units,"Rate per 100,000 population",K03000001,0.9876348121518588
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,55 to 64,Normal value,Units,"Rate per 100,000 population",K03000001,1.1963529959149746
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,65 to 74,Normal value,Units,"Rate per 100,000 population",K03000001,1.9534918667117471
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,75 to 84,Normal value,Units,"Rate per 100,000 population",K03000001,3.178432817465537
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,85 and over,Normal value,Units,"Rate per 100,000 population",K03000001,5.518204556832992
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,,Normal value,Units,"Rate per 100,000 population",K03000001,1.4102212037495243
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,0 to 4,Normal value,Units,"Rate per 100,000 population",K03000001,0.2706819995387579
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,5 to 14,Normal value,Units,"Rate per 100,000 population",K03000001,0.3174400785558381
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,15 to 24,Normal value,Units,"Rate per 100,000 population",K03000001,1.6183748118302121
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,25 to 34,Normal value,Units,"Rate per 100,000 population",K03000001,1.0348050944604583
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,35 to 44,Normal value,Units,"Rate per 100,000 population",K03000001,0.8550023500350307
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,45 to 54,Normal value,Units,"Rate per 100,000 population",K03000001,0.9943613084734167
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,55 to 64,Normal value,Units,"Rate per 100,000 population",K03000001,1.4979242324534678
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,65 to 74,Normal value,Units,"Rate per 100,000 population",K03000001,2.2324425093963502
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,75 to 84,Normal value,Units,"Rate per 100,000 population",K03000001,3.7789604701600847
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Female,85 and over,Normal value,Units,"Rate per 100,000 population",K03000001,4.606988802012653
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,,Normal value,Units,"Rate per 100,000 population",K03000001,4.2258515844986135
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,0 to 4,Normal value,Units,"Rate per 100,000 population",K03000001,0.300037504688086
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,5 to 14,Normal value,Units,"Rate per 100,000 population",K03000001,0.6184281921515546
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,15 to 24,Normal value,Units,"Rate per 100,000 population",K03000001,7.050004890320293
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,25 to 34,Normal value,Units,"Rate per 100,000 population",K03000001,5.622845645187708
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,35 to 44,Normal value,Units,"Rate per 100,000 population",K03000001,4.157214982701779
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,45 to 54,Normal value,Units,"Rate per 100,000 population",K03000001,4.811344241921651
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,55 to 64,Normal value,Units,"Rate per 100,000 population",K03000001,3.621237632350621
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,65 to 74,Normal value,Units,"Rate per 100,000 population",K03000001,3.3965814920610793
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,75 to 84,Normal value,Units,"Rate per 100,000 population",K03000001,6.380082364409446
+2015,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,85 and over,Normal value,Units,"Rate per 100,000 population",K03000001,9.448169079806178
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,,Normal value,Units,"Rate per 100,000 population",K03000001,4.20183278097667
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,0 to 4,Normal value,Units,"Rate per 100,000 population",K03000001,0.2507704923377076
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,5 to 14,Normal value,Units,"Rate per 100,000 population",K03000001,0.8420822166972272
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,15 to 24,Normal value,Units,"Rate per 100,000 population",K03000001,6.359424667357023
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,25 to 34,Normal value,Units,"Rate per 100,000 population",K03000001,5.492259246586125
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,35 to 44,Normal value,Units,"Rate per 100,000 population",K03000001,4.538199738321947
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,45 to 54,Normal value,Units,"Rate per 100,000 population",K03000001,4.423782071855763
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,55 to 64,Normal value,Units,"Rate per 100,000 population",K03000001,4.238684158303293
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,65 to 74,Normal value,Units,"Rate per 100,000 population",K03000001,3.251578575710051
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,75 to 84,Normal value,Units,"Rate per 100,000 population",K03000001,6.882509472586599
+2016,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,85 and over,Normal value,Units,"Rate per 100,000 population",K03000001,8.517004384405736
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,,Normal value,Units,"Rate per 100,000 population",K03000001,4.229103986150016
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,0 to 4,Normal value,Units,"Rate per 100,000 population",K03000001,0.2540700755756847
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,5 to 14,Normal value,Units,"Rate per 100,000 population",K03000001,0.4623931775427964
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,15 to 24,Normal value,Units,"Rate per 100,000 population",K03000001,6.040198280929115
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,25 to 34,Normal value,Units,"Rate per 100,000 population",K03000001,6.537627015120663
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,35 to 44,Normal value,Units,"Rate per 100,000 population",K03000001,4.27468425119337
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,45 to 54,Normal value,Units,"Rate per 100,000 population",K03000001,4.519199026202994
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,55 to 64,Normal value,Units,"Rate per 100,000 population",K03000001,3.7909676565931782
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,65 to 74,Normal value,Units,"Rate per 100,000 population",K03000001,3.6581133717316536
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,75 to 84,Normal value,Units,"Rate per 100,000 population",K03000001,6.109738083914257
+2017,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,85 and over,Normal value,Units,"Rate per 100,000 population",K03000001,11.454179701761795
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,,Normal value,Units,"Rate per 100,000 population",K03000001,4.152020829022042
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,0 to 4,Normal value,Units,"Rate per 100,000 population",K03000001,0.4112886392823836
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,5 to 14,Normal value,Units,"Rate per 100,000 population",K03000001,0.3276424362483429
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,15 to 24,Normal value,Units,"Rate per 100,000 population",K03000001,6.178954786392001
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,25 to 34,Normal value,Units,"Rate per 100,000 population",K03000001,5.576730692846192
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,35 to 44,Normal value,Units,"Rate per 100,000 population",K03000001,4.71134459543064
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,45 to 54,Normal value,Units,"Rate per 100,000 population",K03000001,4.208386563736355
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,55 to 64,Normal value,Units,"Rate per 100,000 population",K03000001,4.285220039476604
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,65 to 74,Normal value,Units,"Rate per 100,000 population",K03000001,3.8156226984019597
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,75 to 84,Normal value,Units,"Rate per 100,000 population",K03000001,5.472242921013414
+2018,Death rate due to road traffic injuries (sex by age pre-2018),Great Britain,,Male,85 and over,Normal value,Units,"Rate per 100,000 population",K03000001,11.18316095539142
