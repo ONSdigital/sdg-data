@@ -34,7 +34,7 @@ src_dir: ''
 translations:
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: 1.8.0
+    tag: 2.0.0-beta1
 
 # Reporting status extra fields
 # -----------------------------
