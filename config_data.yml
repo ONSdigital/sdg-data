@@ -33,8 +33,8 @@ src_dir: ''
 # GitHub repository 'sdg-translations'.
 translations:
   - class: TranslationInputSdgTranslations
-    source: https://github.com/open-sdg/sdg-translations.git
-    tag: 1.8.0
+    source: https://github.com/brockfanning/sdg-translations.git
+    tag: ie-message
 
 # Reporting status extra fields
 # -----------------------------
