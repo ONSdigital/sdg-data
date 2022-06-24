@@ -16,6 +16,17 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Public sector employment",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Sector",
             "type": "string",
             "constraints": {
@@ -99,9 +110,15 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "GeoCode",

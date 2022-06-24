@@ -16,6 +16,17 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population who feel safe walking alone after dark",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Age",
             "type": "string",
             "constraints": {
@@ -150,9 +161,15 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "GeoCode",

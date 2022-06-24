@@ -15,6 +15,16 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unpaid Family Workers as a proportion of all employees",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Country",
             "type": "string",
             "constraints": {
@@ -76,8 +86,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",

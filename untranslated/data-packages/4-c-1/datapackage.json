@@ -15,11 +15,11 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "All public schools (%)",
+                "All publicly funded schools (%)",
                 "Nursery (%)",
                 "Primary (%)",
                 "Secondary (%)",
@@ -78,7 +78,7 @@
                 "Bradford",
                 "Brent",
                 "Brighton and Hove",
-                "Bristol City of",
+                "Bristol, City of",
                 "Bromley",
                 "Buckinghamshire",
                 "Bury",
@@ -100,7 +100,7 @@
                 "Doncaster",
                 "Dorset",
                 "Dudley",
-                "Durham",
+                "County Durham",
                 "Ealing",
                 "East Riding of Yorkshire",
                 "East Sussex",
@@ -126,7 +126,7 @@
                 "Islington",
                 "Kensington and Chelsea",
                 "Kent",
-                "Kingston upon Hull City of",
+                "Kingston upon Hull, City of",
                 "Kingston upon Thames",
                 "Kirklees",
                 "Knowsley",
@@ -228,8 +228,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",

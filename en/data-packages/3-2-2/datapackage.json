@@ -16,6 +16,17 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Neonatal mortality rate",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Neonatal period",
             "type": "string",
             "constraints": {

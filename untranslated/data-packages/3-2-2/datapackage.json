@@ -15,6 +15,16 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Neonatal mortality rate",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Neonatal period",
             "type": "string",
             "constraints": {

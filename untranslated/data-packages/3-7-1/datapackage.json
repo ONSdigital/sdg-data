@@ -15,6 +15,16 @@
             "type": "string"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Women using Sexual and Reproductive Health Services for contraception",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Contraceptive method",
             "type": "string",
             "constraints": {

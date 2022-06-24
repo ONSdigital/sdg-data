@@ -1,33 +1,33 @@
-Year,Value,Units,GeoCode,Observation status,Unit multiplier,Unit measure
-2012,96.11530821453358,All public schools (%),,Normal value,Units,Percentage (%)
-2013,95.72182066809924,All public schools (%),,Normal value,Units,Percentage (%)
-2014,95.16773162939296,All public schools (%),,Normal value,Units,Percentage (%)
-2015,94.7117296222664,All public schools (%),,Normal value,Units,Percentage (%)
-2016,94.4433419329232,All public schools (%),,Normal value,Units,Percentage (%)
-2017,95.10213226242416,All public schools (%),,Normal value,Units,Percentage (%)
-2018,95.0081422762316,All public schools (%),,Normal value,Units,Percentage (%)
-2019,94.99206214491828,All public schools (%),,Normal value,Units,Percentage (%)
-2012,97.14463066418374,Nursery (%),,Normal value,Units,Percentage (%)
-2013,100.0,Nursery (%),,Normal value,Units,Percentage (%)
-2014,100.0,Nursery (%),,Normal value,Units,Percentage (%)
-2015,93.33333333333331,Nursery (%),,Normal value,Units,Percentage (%)
-2016,100.0,Nursery (%),,Normal value,Units,Percentage (%)
-2017,95.85510521112836,Nursery (%),,Normal value,Units,Percentage (%)
-2018,96.53743128816424,Nursery (%),,Normal value,Units,Percentage (%)
-2019,96.13670133729568,Nursery (%),,Normal value,Units,Percentage (%)
-2012,97.6657167005738,Primary (%),,Normal value,Units,Percentage (%)
-2013,97.63190693809722,Primary (%),,Normal value,Units,Percentage (%)
-2014,97.0539419087137,Primary (%),,Normal value,Units,Percentage (%)
-2015,96.78469678469678,Primary (%),,Normal value,Units,Percentage (%)
-2016,96.4616003216727,Primary (%),,Normal value,Units,Percentage (%)
-2017,97.04208367918804,Primary (%),,Normal value,Units,Percentage (%)
-2018,96.94039301044596,Primary (%),,Normal value,Units,Percentage (%)
-2019,96.9830873718236,Primary (%),,Normal value,Units,Percentage (%)
-2012,95.49743227407458,Secondary (%),,Normal value,Units,Percentage (%)
-2013,94.69827586206895,Secondary (%),,Normal value,Units,Percentage (%)
-2014,94.05594405594404,Secondary (%),,Normal value,Units,Percentage (%)
-2015,93.55408388520972,Secondary (%),,Normal value,Units,Percentage (%)
-2016,93.34226988382484,Secondary (%),,Normal value,Units,Percentage (%)
-2017,94.13785992212584,Secondary (%),,Normal value,Units,Percentage (%)
-2018,94.16201580494264,Secondary (%),,Normal value,Units,Percentage (%)
-2019,94.09690272105452,Secondary (%),,Normal value,Units,Percentage (%)
+Year,Value,Units,Series,GeoCode,Observation status,Unit multiplier
+2012,96.11530821453358,Percentage (%),All publicly funded schools (%),,Normal value,Units
+2013,95.72182066809924,Percentage (%),All publicly funded schools (%),,Normal value,Units
+2014,95.16773162939296,Percentage (%),All publicly funded schools (%),,Normal value,Units
+2015,94.7117296222664,Percentage (%),All publicly funded schools (%),,Normal value,Units
+2016,94.4433419329232,Percentage (%),All publicly funded schools (%),,Normal value,Units
+2017,95.10213226242416,Percentage (%),All publicly funded schools (%),,Normal value,Units
+2018,95.0081422762316,Percentage (%),All publicly funded schools (%),,Normal value,Units
+2019,94.99206214491828,Percentage (%),All publicly funded schools (%),,Normal value,Units
+2012,97.14463066418374,Percentage (%),Nursery (%),,Normal value,Units
+2013,100.0,Percentage (%),Nursery (%),,Normal value,Units
+2014,100.0,Percentage (%),Nursery (%),,Normal value,Units
+2015,93.33333333333331,Percentage (%),Nursery (%),,Normal value,Units
+2016,100.0,Percentage (%),Nursery (%),,Normal value,Units
+2017,95.85510521112836,Percentage (%),Nursery (%),,Normal value,Units
+2018,96.53743128816424,Percentage (%),Nursery (%),,Normal value,Units
+2019,96.13670133729568,Percentage (%),Nursery (%),,Normal value,Units
+2012,97.6657167005738,Percentage (%),Primary (%),,Normal value,Units
+2013,97.63190693809722,Percentage (%),Primary (%),,Normal value,Units
+2014,97.0539419087137,Percentage (%),Primary (%),,Normal value,Units
+2015,96.78469678469678,Percentage (%),Primary (%),,Normal value,Units
+2016,96.4616003216727,Percentage (%),Primary (%),,Normal value,Units
+2017,97.04208367918804,Percentage (%),Primary (%),,Normal value,Units
+2018,96.94039301044596,Percentage (%),Primary (%),,Normal value,Units
+2019,96.9830873718236,Percentage (%),Primary (%),,Normal value,Units
+2012,95.49743227407458,Percentage (%),Secondary (%),,Normal value,Units
+2013,94.69827586206895,Percentage (%),Secondary (%),,Normal value,Units
+2014,94.05594405594404,Percentage (%),Secondary (%),,Normal value,Units
+2015,93.55408388520972,Percentage (%),Secondary (%),,Normal value,Units
+2016,93.34226988382484,Percentage (%),Secondary (%),,Normal value,Units
+2017,94.13785992212584,Percentage (%),Secondary (%),,Normal value,Units
+2018,94.16201580494264,Percentage (%),Secondary (%),,Normal value,Units
+2019,94.09690272105452,Percentage (%),Secondary (%),,Normal value,Units

@@ -16,6 +16,17 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of disposed waste from total collected waste",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Disposal method",
             "type": "string",
             "constraints": {
@@ -188,9 +199,15 @@
             "title": "Waste collection authority"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Observation status",

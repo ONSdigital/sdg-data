@@ -16,6 +16,17 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual mean levels of fine particulate matter in towns and cities",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Size of particulate matter",
             "type": "string",
             "constraints": {
@@ -122,9 +133,15 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "microgram/m3",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "GeoCode",

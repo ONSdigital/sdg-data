@@ -16,12 +16,23 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of people who are current cigarette smokers aged 18 years and older",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             },
@@ -49,9 +60,9 @@
             "constraints": {
               "enum": [
                 "England",
-                "Wales",
-                "Scotland",
                 "Northern Ireland",
+                "Scotland",
+                "Wales",
                 ""
               ]
             },
@@ -137,9 +148,15 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "GeoCode",

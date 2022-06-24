@@ -19,8 +19,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage of women aged 16 to 59 (%)",
-                "Percentage of women aged 16 to 74 (%)",
+                "Women aged 16 to 59 (%)",
+                "Women aged 16 to 74 (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
                 ""
               ]
             }
@@ -94,10 +104,10 @@
                 "African",
                 "Pakistani",
                 "Caribbean",
-                "Bangladeshi",
-                "Chinese",
                 "White and Black Caribbean",
                 "Any other Mixed/Multiple ethnic background",
+                "Bangladeshi",
+                "Chinese",
                 ""
               ]
             }
@@ -107,8 +117,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Disabled (GSS harmonised)",
                 "Non-disabled (GSS harmonised)",
+                "Disabled (GSS harmonised)",
                 ""
               ]
             }

@@ -15,10 +15,21 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "all-cause adult mortality attributable to ambient anthropogenic particulate air pollution (PM2.5)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "England",
                 "North West",
                 "Yorkshire and The Humber",
                 "North East",
@@ -102,32 +113,7 @@
                 "Bexley",
                 "Brent",
                 "Bromley",
-                "Staffordshire",
-                "Somerset",
-                "Oxfordshire",
-                "Nottinghamshire",
-                "North Yorkshire",
-                "Northamptonshire",
-                "Norfolk",
-                "Lincolnshire",
-                "Leicestershire",
-                "Lancashire",
-                "Kent",
-                "Hertfordshire",
-                "Hampshire",
-                "Gloucestershire",
-                "Essex",
-                "East Sussex",
-                "Dorset (Cty)",
-                "Devon",
-                "Derbyshire",
-                "Cumbria",
-                "Cambridgeshire",
-                "Buckinghamshire",
-                "Suffolk",
                 "Southend-on-Sea",
-                "Surrey",
-                "West Sussex",
                 "Camden",
                 "Croydon",
                 "Ealing",
@@ -155,8 +141,6 @@
                 "Waltham Forest",
                 "Wandsworth",
                 "Westminster",
-                "Worcestershire",
-                "Warwickshire",
                 "Luton",
                 "Swindon",
                 "Blackburn with Darwen",
@@ -194,8 +178,63 @@
             }
           },
           {
+            "name": "County",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Staffordshire",
+                "Somerset",
+                "Oxfordshire",
+                "Nottinghamshire",
+                "North Yorkshire",
+                "Northamptonshire",
+                "Norfolk",
+                "Lincolnshire",
+                "Leicestershire",
+                "Lancashire",
+                "Kent",
+                "Hertfordshire",
+                "Hampshire",
+                "Gloucestershire",
+                "Essex",
+                "East Sussex",
+                "Dorset (Cty)",
+                "Devon",
+                "Derbyshire",
+                "Cumbria",
+                "Cambridgeshire",
+                "Buckinghamshire",
+                "South West region",
+                "South East region",
+                "London region",
+                "East of England region",
+                "West Midlands region",
+                "East Midlands region",
+                "Yorkshire and the Humber region",
+                "Suffolk",
+                "Surrey",
+                "West Sussex",
+                "North West region",
+                "Worcestershire",
+                "Warwickshire",
+                "North East region",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Observation status",
             "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Unit multiplier",

@@ -77,14 +77,20 @@
             "title": "Observation status"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate per 100,000 population",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
           },
           {
             "name": "GeoCode",

@@ -15,6 +15,16 @@
             "type": "string"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of people who feel they are able to influence decisions affecting their local area",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Age",
             "type": "string",
             "constraints": {
@@ -142,8 +152,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",

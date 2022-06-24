@@ -15,12 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Education category",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Formal",
-                "Non-formal learning",
+                "Percentage of adults who have participated in formal learning in the last 12 months",
+                "Percentage of adults who have participated in non-formal learning in the last 12 months",
                 ""
               ]
             }
@@ -159,8 +159,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",

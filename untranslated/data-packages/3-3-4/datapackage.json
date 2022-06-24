@@ -71,11 +71,17 @@
             "type": "string"
           },
           {
-            "name": "Unit multiplier",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate per 100,000 population",
+                ""
+              ]
+            }
           },
           {
-            "name": "Unit measure",
+            "name": "Unit multiplier",
             "type": "string"
           },
           {
