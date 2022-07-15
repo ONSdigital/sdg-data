@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "series"
+            "title": "Series"
           },
           {
             "name": "Type of expenditure",
