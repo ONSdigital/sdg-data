@@ -9555,49 +9555,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Compliance with meeting  commitments and obligations in transmitting information as required by international multilateral environmental agreements on hazardous waste, and other chemicals",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "Convention",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "The Basel Convention",
-                "The Rotterdam Convention",
-                "The Stockholm Convention",
-                "The Montreal Convention",
-                "The Minamta Convention",
-                ""
-              ]
-            },
-            "title": "Convention"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
           },
           {
             "name": "Value",
