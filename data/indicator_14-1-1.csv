@@ -104,13 +104,13 @@ Year,Country,Suspected source,Units,Observation status,GeoCode,Value
 2008,Scotland,Public,Median count,Low reliability,S92000003,79.5
 2008,Scotland,Sewage related debris,Median count,Low reliability,S92000003,15.5
 2008,Scotland,Shipping,Median count,Low reliability,S92000003,5.5
-2009,Scotland,Fishing,Median count,Normal value,S92000003,22.5
-2009,Scotland,Fly-tipped,Median count,Normal value,S92000003,0.0
-2009,Scotland,Medical,Median count,Normal value,S92000003,0.0
-2009,Scotland,Non-sourced,Median count,Normal value,S92000003,27.5
-2009,Scotland,Public,Median count,Normal value,S92000003,112.5
-2009,Scotland,Sewage related debris,Median count,Normal value,S92000003,4.5
-2009,Scotland,Shipping,Median count,Normal value,S92000003,4.0
+2009,Scotland,Fishing,Median count,Low reliability,S92000003,22.5
+2009,Scotland,Fly-tipped,Median count,Low reliability,S92000003,0.0
+2009,Scotland,Medical,Median count,Low reliability,S92000003,0.0
+2009,Scotland,Non-sourced,Median count,Low reliability,S92000003,27.5
+2009,Scotland,Public,Median count,Low reliability,S92000003,112.5
+2009,Scotland,Sewage related debris,Median count,Low reliability,S92000003,4.5
+2009,Scotland,Shipping,Median count,Low reliability,S92000003,4.0
 2010,Scotland,Fishing,Median count,Low reliability,S92000003,42.5
 2010,Scotland,Fly-tipped,Median count,Low reliability,S92000003,0.0
 2010,Scotland,Medical,Median count,Low reliability,S92000003,0.0
@@ -272,27 +272,27 @@ Year,Country,Suspected source,Units,Observation status,GeoCode,Value
 2018,Wales,Public,Median count,Normal value,W92000004,82.5
 2018,Wales,Sewage related debris,Median count,Normal value,W92000004,6.0
 2018,Wales,Shipping,Median count,Normal value,W92000004,6.5
-2019,Wales,Fishing,Median count,Normal value,W92000004,33.0
-2019,Wales,Fly-tipped,Median count,Normal value,W92000004,0.0
-2019,Wales,Medical,Median count,Normal value,W92000004,0.0
-2019,Wales,Non-sourced,Median count,Normal value,W92000004,35.0
-2019,Wales,Public,Median count,Normal value,W92000004,84.0
-2019,Wales,Sewage related debris,Median count,Normal value,W92000004,7.0
-2019,Wales,Shipping,Median count,Normal value,W92000004,9.0
-2020,Wales,Fishing,Median count,Time series break,W92000004,10.0
-2020,Wales,Fly-tipped,Median count,Time series break,W92000004,0.0
-2020,Wales,Medical,Median count,Time series break,W92000004,0.0
-2020,Wales,Non-sourced,Median count,Time series break,W92000004,18.0
-2020,Wales,Public,Median count,Time series break,W92000004,30.0
-2020,Wales,Sewage related debris,Median count,Time series break,W92000004,3.0
-2020,Wales,Shipping,Median count,Time series break,W92000004,1.0
-2021,Wales,Fishing,Median count,Normal value,W92000004,15.5
-2021,Wales,Fly-tipped,Median count,Normal value,W92000004,0.0
-2021,Wales,Medical,Median count,Normal value,W92000004,1.0
-2021,Wales,Non-sourced,Median count,Normal value,W92000004,48.0
-2021,Wales,Public,Median count,Normal value,W92000004,77.5
-2021,Wales,Sewage related debris,Median count,Normal value,W92000004,4.0
-2021,Wales,Shipping,Median count,Normal value,W92000004,4.0
+2019,Wales,Fishing,Median count,Low reliability,W92000004,33.0
+2019,Wales,Fly-tipped,Median count,Low reliability,W92000004,0.0
+2019,Wales,Medical,Median count,Low reliability,W92000004,0.0
+2019,Wales,Non-sourced,Median count,Low reliability,W92000004,35.0
+2019,Wales,Public,Median count,Low reliability,W92000004,84.0
+2019,Wales,Sewage related debris,Median count,Low reliability,W92000004,7.0
+2019,Wales,Shipping,Median count,Low reliability,W92000004,9.0
+2020,Wales,Fishing,Median count,Low reliability; Time series break,W92000004,10.0
+2020,Wales,Fly-tipped,Median count,Low reliability; Time series break,W92000004,0.0
+2020,Wales,Medical,Median count,Low reliability; Time series break,W92000004,0.0
+2020,Wales,Non-sourced,Median count,Low reliability; Time series break,W92000004,18.0
+2020,Wales,Public,Median count,Low reliability; Time series break,W92000004,30.0
+2020,Wales,Sewage related debris,Median count,Low reliability; Time series break,W92000004,3.0
+2020,Wales,Shipping,Median count,Low reliability; Time series break,W92000004,1.0
+2021,Wales,Fishing,Median count,Low reliability,W92000004,15.5
+2021,Wales,Fly-tipped,Median count,Low reliability,W92000004,0.0
+2021,Wales,Medical,Median count,Low reliability,W92000004,1.0
+2021,Wales,Non-sourced,Median count,Low reliability,W92000004,48.0
+2021,Wales,Public,Median count,Low reliability,W92000004,77.5
+2021,Wales,Sewage related debris,Median count,Low reliability,W92000004,4.0
+2021,Wales,Shipping,Median count,Low reliability,W92000004,4.0
 2008,England,Fishing,Median count,Normal value,E92000001,26.5
 2008,England,Fly-tipped,Median count,Normal value,E92000001,0.0
 2008,England,Medical,Median count,Normal value,E92000001,0.0
@@ -504,7 +504,7 @@ Year,Country,Suspected source,Units,Observation status,GeoCode,Value
 2020,Northern Ireland,,Median count,Low reliability; Time series break,N92000002,954.0
 2021,Northern Ireland,,Median count,Low reliability,N92000002,466.0
 2008,Scotland,,Median count,Low reliability,S92000003,302.0
-2009,Scotland,,Median count,Normal value,S92000003,208.0
+2009,Scotland,,Median count,Low reliability,S92000003,208.0
 2010,Scotland,,Median count,Low reliability,S92000003,398.0
 2011,Scotland,,Median count,Low reliability,S92000003,273.0
 2012,Scotland,,Median count,Low reliability,S92000003,186.0
@@ -528,9 +528,9 @@ Year,Country,Suspected source,Units,Observation status,GeoCode,Value
 2016,Wales,,Median count,Low reliability,W92000004,416.0
 2017,Wales,,Median count,Low reliability,W92000004,266.0
 2018,Wales,,Median count,Normal value,W92000004,181.5
-2019,Wales,,Median count,Normal value,W92000004,184.0
-2020,Wales,,Median count,Time series break,W92000004,76.0
-2021,Wales,,Median count,Normal value,W92000004,231.5
+2019,Wales,,Median count,Low reliability,W92000004,184.0
+2020,Wales,,Median count,Low reliability; Time series break,W92000004,76.0
+2021,Wales,,Median count,Low reliability,W92000004,231.5
 2008,England,,Median count,Normal value,E92000001,189.5
 2009,England,,Median count,Normal value,E92000001,382.0
 2010,England,,Median count,Normal value,E92000001,357.0
