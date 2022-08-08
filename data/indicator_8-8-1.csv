@@ -284,15 +284,15 @@ Year,Series,Sex,Age,Country,Region,Industry sector,Occupation,Unit measure,Unit 
 2013/14,Non-fatal injury,,,,,Wholesale and retail trade; repair of motor vehicles and motorcycles,,"Rate per 100,000 (3 year average)",Units,Estimated value,,2080.0
 2013/14,Fatal injury,,,,,,,"Rate per 100,000 workers",Units,Normal Value,,0.45
 2013/14,Non-fatal injury,,,,,,,"Rate per 100,000 workers",Units,Normal Value,,2130.0
-2013/14,Non-fatal injury,,,,,,"Managers, directors and senior officials","Rate per 100,000 (3 year average)",Units,Estimated value,,1300.0
-2013/14,Non-fatal injury,,,,,,Professional occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,1070.0
-2013/14,Non-fatal injury,,,,,,Associate professional and technical occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,1620.0
 2013/14,Non-fatal injury,,,,,,Administrative and secretarial occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,740.0
-2013/14,Non-fatal injury,,,,,,Skilled trades occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,4180.0
+2013/14,Non-fatal injury,,,,,,Associate professional and technical occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,1620.0
 2013/14,Non-fatal injury,,,,,,"Caring, leisure and other service occupations","Rate per 100,000 (3 year average)",Units,Estimated value,,2670.0
-2013/14,Non-fatal injury,,,,,,Sales and customer service occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,1650.0
-2013/14,Non-fatal injury,,,,,,"Process, plant and machine operatives","Rate per 100,000 (3 year average)",Units,Estimated value,,3430.0
 2013/14,Non-fatal injury,,,,,,Elementary occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,2730.0
+2013/14,Non-fatal injury,,,,,,"Managers, directors and senior officials","Rate per 100,000 (3 year average)",Units,Estimated value,,1300.0
+2013/14,Non-fatal injury,,,,,,"Process, plant and machine operatives","Rate per 100,000 (3 year average)",Units,Estimated value,,3430.0
+2013/14,Non-fatal injury,,,,,,Professional occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,1070.0
+2013/14,Non-fatal injury,,,,,,Sales and customer service occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,1650.0
+2013/14,Non-fatal injury,,,,,,Skilled trades occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,4180.0
 2013/14,Non-fatal injury,,,England,,,,"Rate per 100,000 (3 year average)",Units,Estimated value,E92000001,2100.0
 2013/14,Non-fatal injury,,,England,North East,,,"Rate per 100,000 (3 year average)",Units,Estimated value,E12000001,1820.0
 2013/14,Non-fatal injury,,,England,North West,,,"Rate per 100,000 (3 year average)",Units,Estimated value,E12000002,1890.0
@@ -478,15 +478,15 @@ Year,Series,Sex,Age,Country,Region,Industry sector,Occupation,Unit measure,Unit 
 2016/17,Fatal injury,Female,55 to 59,,,,,"Rate per 100,000 workers",Units,Normal Value,,0.07
 2016/17,Fatal injury,Female,60 to 64,,,,,"Rate per 100,000 workers",Units,Normal Value,,0.0
 2016/17,Fatal injury,Female,65 and over,,,,,"Rate per 100,000 workers",Units,Normal Value,,0.21
-2016/17,Non-fatal injury,,,,,,"Managers, directors and senior officials","Rate per 100,000 (3 year average)",Units,Estimated value,,910.0
-2016/17,Non-fatal injury,,,,,,Professional occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,930.0
-2016/17,Non-fatal injury,,,,,,Associate professional and technical occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,1870.0
 2016/17,Non-fatal injury,,,,,,Administrative and secretarial occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,680.0
-2016/17,Non-fatal injury,,,,,,Skilled trades occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,3790.0
+2016/17,Non-fatal injury,,,,,,Associate professional and technical occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,1870.0
 2016/17,Non-fatal injury,,,,,,"Caring, leisure and other service occupations","Rate per 100,000 (3 year average)",Units,Estimated value,,2280.0
-2016/17,Non-fatal injury,,,,,,Sales and customer service occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,1450.0
-2016/17,Non-fatal injury,,,,,,"Process, plant and machine operatives","Rate per 100,000 (3 year average)",Units,Estimated value,,2950.0
 2016/17,Non-fatal injury,,,,,,Elementary occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,2560.0
+2016/17,Non-fatal injury,,,,,,"Managers, directors and senior officials","Rate per 100,000 (3 year average)",Units,Estimated value,,910.0
+2016/17,Non-fatal injury,,,,,,"Process, plant and machine operatives","Rate per 100,000 (3 year average)",Units,Estimated value,,2950.0
+2016/17,Non-fatal injury,,,,,,Professional occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,930.0
+2016/17,Non-fatal injury,,,,,,Sales and customer service occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,1450.0
+2016/17,Non-fatal injury,,,,,,Skilled trades occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,3790.0
 2016/17,Non-fatal injury,,,England,,,,"Rate per 100,000 (3 year average)",Units,Estimated value,E92000001,1920.0
 2016/17,Non-fatal injury,,,England,North East,,,"Rate per 100,000 (3 year average)",Units,Estimated value,E12000001,1540.0
 2016/17,Non-fatal injury,,,England,North West,,,"Rate per 100,000 (3 year average)",Units,Estimated value,E12000002,1960.0
@@ -533,6 +533,11 @@ Year,Series,Sex,Age,Country,Region,Industry sector,Occupation,Unit measure,Unit 
 2017/18,Fatal injury,Female,16 to 19,,,,,"Rate per 100,000 workers",Units,Normal Value,,0.0
 2017/18,Fatal injury,Female,20 to 24,,,,,"Rate per 100,000 workers",Units,Normal Value,,0.0
 2017/18,Fatal injury,Female,25 to 34,,,,,"Rate per 100,000 workers",Units,Normal Value,,0.0
+2017/18,Fatal injury,Female,35 to 44,,,,,"Rate per 100,000 workers",Units,Normal Value,,0.03
+2017/18,Fatal injury,Female,45 to 54,,,,,"Rate per 100,000 workers",Units,Normal Value,,0.05
+2017/18,Fatal injury,Female,55 to 59,,,,,"Rate per 100,000 workers",Units,Normal Value,,0.0
+2017/18,Fatal injury,Female,60 to 64,,,,,"Rate per 100,000 workers",Units,Normal Value,,0.13
+2017/18,Fatal injury,Female,65 and over,,,,,"Rate per 100,000 workers",Units,Normal Value,,0.22
 2017/18,Fatal injury,,,,,,,"Rate per 100,000 workers",Units,Normal Value,,0.44
 2017/18,Fatal injury,Male,,,,,,"Rate per 100,000 workers",Units,Normal Value,,0.79
 2017/18,Fatal injury,Female,,,,,,"Rate per 100,000 workers",Units,Normal Value,,0.04
@@ -558,11 +563,6 @@ Year,Series,Sex,Age,Country,Region,Industry sector,Occupation,Unit measure,Unit 
 2017/18,Fatal injury,,,Wales,,,,"Rate per 100,000 workers",Units,Normal Value,W92000004,0.91
 2017/18,Fatal injury,,,Scotland,,,,"Rate per 100,000 workers",Units,Normal Value,S92000003,0.63
 2017/18,Non-fatal injury,,,,,,,"Rate per 100,000 workers",Units,Normal Value,,1770.0
-2017/18,Fatal injury,Female,35 to 44,,,,,"Rate per 100,000 workers",Units,Normal Value,,0.03
-2017/18,Fatal injury,Female,45 to 54,,,,,"Rate per 100,000 workers",Units,Normal Value,,0.05
-2017/18,Fatal injury,Female,55 to 59,,,,,"Rate per 100,000 workers",Units,Normal Value,,0.0
-2017/18,Fatal injury,Female,60 to 64,,,,,"Rate per 100,000 workers",Units,Normal Value,,0.13
-2017/18,Fatal injury,Female,65 and over,,,,,"Rate per 100,000 workers",Units,Normal Value,,0.22
 2018/19,Fatal injury,,,,,"Agriculture, forestry and fishing",,"Rate per 100,000 workers",Units,Normal Value,,9.21
 2018/19,Fatal injury,,,,,Construction,,"Rate per 100,000 workers",Units,Normal Value,,1.36
 2018/19,Fatal injury,,,,,"Gas, electricity and water supply; sewerage, waste and recycling",,"Rate per 100,000 workers",Units,Normal Value,,1.68
@@ -645,15 +645,15 @@ Year,Series,Sex,Age,Country,Region,Industry sector,Occupation,Unit measure,Unit 
 2019/20,Non-fatal injury,Female,35 to 44,,,,,"Rate per 100,000 (3 year average)",Units,Estimated value,,1240.0
 2019/20,Non-fatal injury,Female,45 to 54,,,,,"Rate per 100,000 (3 year average)",Units,Estimated value,,1700.0
 2019/20,Non-fatal injury,Female,55 and over,,,,,"Rate per 100,000 (3 year average)",Units,Estimated value,,1590.0
-2019/20,Non-fatal injury,,,,,,"Managers, directors and senior officials","Rate per 100,000 (3 year average)",Units,Estimated value,,970.0
-2019/20,Non-fatal injury,,,,,,Professional occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,900.0
-2019/20,Non-fatal injury,,,,,,Associate professional occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,1370.0
 2019/20,Non-fatal injury,,,,,,Administrative and secretarial occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,610.0
-2019/20,Non-fatal injury,,,,,,Skilled trades occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,3870.0
+2019/20,Non-fatal injury,,,,,,Associate professional occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,1370.0
 2019/20,Non-fatal injury,,,,,,"Caring, leisure and other service occupations","Rate per 100,000 (3 year average)",Units,Estimated value,,2520.0
-2019/20,Non-fatal injury,,,,,,Sales and customer service occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,1880.0
-2019/20,Non-fatal injury,,,,,,"Process, plant and machine operatives","Rate per 100,000 (3 year average)",Units,Estimated value,,2400.0
 2019/20,Non-fatal injury,,,,,,Elementary occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,2640.0
+2019/20,Non-fatal injury,,,,,,"Managers, directors and senior officials","Rate per 100,000 (3 year average)",Units,Estimated value,,970.0
+2019/20,Non-fatal injury,,,,,,"Process, plant and machine operatives","Rate per 100,000 (3 year average)",Units,Estimated value,,2400.0
+2019/20,Non-fatal injury,,,,,,Professional occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,900.0
+2019/20,Non-fatal injury,,,,,,Sales and customer service occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,1880.0
+2019/20,Non-fatal injury,,,,,,Skilled trades occupations,"Rate per 100,000 (3 year average)",Units,Estimated value,,3870.0
 2019/20,Non-fatal injury,,,England,,,,"Rate per 100,000 (3 year average)",Units,Estimated value,E92000001,1820.0
 2019/20,Non-fatal injury,,,England,North East,,,"Rate per 100,000 (3 year average)",Units,Estimated value,E12000001,2140.0
 2019/20,Non-fatal injury,,,England,North West,,,"Rate per 100,000 (3 year average)",Units,Estimated value,E12000002,1890.0
