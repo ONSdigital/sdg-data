@@ -4487,6 +4487,18 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Death rate due to road traffic injuries",
+                "Death rate due to road traffic injuries (sex by age pre-2018)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Country",
             "type": "string",
             "constraints": {
@@ -4506,15 +4518,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "North East",
-                "North West",
-                "Yorkshire and the Humber",
                 "East Midlands",
-                "West Midlands",
                 "East of England",
                 "London",
+                "North East",
+                "North West",
                 "South East",
                 "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             },
@@ -4525,8 +4537,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             },
@@ -4538,6 +4550,17 @@
             "constraints": {
               "enum": [
                 "0 to 4",
+                "5 to 7",
+                "8 to 11",
+                "12 to 15",
+                "16 to 19",
+                "20 to 29",
+                "30 to 39",
+                "40 to 49",
+                "50 to 59",
+                "60 to 69",
+                "70 to 79",
+                "80 and over",
                 "5 to 14",
                 "15 to 24",
                 "25 to 34",
