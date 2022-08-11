@@ -1,55 +1,58 @@
-Year,Units,Observation status,Unit multiplier,Retirment status,Value
-2001/2002,Gini coefficient,,,,18.7
-2002/2003,Gini coefficient,,,,19.300000000000004
-2003/2004,Gini coefficient,,,,19.6
-2004/2005,Gini coefficient,,,,20.1
-2005/2006,Gini coefficient,,,,20.4
-2006/2007,Gini coefficient,,,,19.9
-2007/2008,Gini coefficient,,,,19.700000000000003
-2008/2009,Gini coefficient,,,,20.9
-2009/2010,Gini coefficient,,,,22.0
-2010/2011,Gini coefficient,,,,21.7
-2011/2012,Gini coefficient,,,,22.300000000000004
-2012/2013,Gini coefficient,,,,22.2
-2013/2014,Gini coefficient,,,,21.1
-2014/2015,Gini coefficient,,,,20.7
-2015/2016,Gini coefficient,,,,20.5
-2016/2017,Gini coefficient,,,,21.0
-2017/2018,Gini coefficient,,,,20.5
-2018/2019,Gini coefficient,,,,20.300000000000004
-2001/2002,Gini coefficient,,,retired,38.00000000000001
-2002/2003,Gini coefficient,,,retired,36.8
-2003/2004,Gini coefficient,,,retired,37.4
-2004/2005,Gini coefficient,,,retired,37.2
-2005/2006,Gini coefficient,,,retired,37.4
-2006/2007,Gini coefficient,,,retired,37.2
-2007/2008,Gini coefficient,,,retired,38.0
-2008/2009,Gini coefficient,,,retired,37.3
-2009/2010,Gini coefficient,,,retired,38.5
-2010/2011,Gini coefficient,,,retired,35.7
-2011/2012,Gini coefficient,,,retired,34.7
-2012/2013,Gini coefficient,,,retired,36.5
-2013/2014,Gini coefficient,,,retired,32.2
-2014/2015,Gini coefficient,,,retired,31.700000000000003
-2015/2016,Gini coefficient,,,retired,33.4
-2016/2017,Gini coefficient,,,retired,32.099999999999994
-2017/2018,Gini coefficient,,,retired,30.4
-2018/2019,Gini coefficient,,,retired,31.9
-2001/2002,Gini coefficient,,,non-retired,14.4
-2002/2003,Gini coefficient,,,non-retired,15.0
-2003/2004,Gini coefficient,,,non-retired,15.099999999999998
-2004/2005,Gini coefficient,,,non-retired,15.6
-2005/2006,Gini coefficient,,,non-retired,16.099999999999998
-2006/2007,Gini coefficient,,,non-retired,15.6
-2007/2008,Gini coefficient,,,non-retired,15.300000000000004
-2008/2009,Gini coefficient,,,non-retired,17.0
-2009/2010,Gini coefficient,,,non-retired,17.6
-2010/2011,Gini coefficient,,,non-retired,17.9
-2011/2012,Gini coefficient,,,non-retired,18.8
-2012/2013,Gini coefficient,,,non-retired,18.4
-2013/2014,Gini coefficient,,,non-retired,17.599999999999998
-2014/2015,Gini coefficient,,,non-retired,17.3
-2015/2016,Gini coefficient,,,non-retired,17.200000000000003
-2016/2017,Gini coefficient,,,non-retired,17.700000000000003
-2017/2018,Gini coefficient,,,non-retired,17.0
-2018/2019,Gini coefficient,,,non-retired,17.0
+Year,Retirment status,Units,Unit multiplier,Observation status,Value
+2001/2002,,Gini coefficient,Units,Normal value,18.7
+2002/2003,,Gini coefficient,Units,Normal value,19.300000000000004
+2003/2004,,Gini coefficient,Units,Normal value,19.6
+2004/2005,,Gini coefficient,Units,Normal value,20.1
+2005/2006,,Gini coefficient,Units,Normal value,20.4
+2006/2007,,Gini coefficient,Units,Normal value,19.9
+2007/2008,,Gini coefficient,Units,Normal value,19.700000000000003
+2008/2009,,Gini coefficient,Units,Normal value,20.9
+2009/2010,,Gini coefficient,Units,Normal value,22.0
+2010/2011,,Gini coefficient,Units,Normal value,21.7
+2011/2012,,Gini coefficient,Units,Normal value,22.300000000000004
+2012/2013,,Gini coefficient,Units,Normal value,22.2
+2013/2014,,Gini coefficient,Units,Normal value,21.1
+2014/2015,,Gini coefficient,Units,Normal value,20.7
+2015/2016,,Gini coefficient,Units,Normal value,20.5
+2016/2017,,Gini coefficient,Units,Normal value,21.0
+2017/2018,,Gini coefficient,Units,Normal value,20.7
+2018/2019,,Gini coefficient,Units,Normal value,19.5
+2019/2020,,Gini coefficient,Units,Normal value,18.8
+2001/2002,Retired,Gini coefficient,Units,Normal value,38.00000000000001
+2002/2003,Retired,Gini coefficient,Units,Normal value,36.8
+2003/2004,Retired,Gini coefficient,Units,Normal value,37.4
+2004/2005,Retired,Gini coefficient,Units,Normal value,37.2
+2005/2006,Retired,Gini coefficient,Units,Normal value,37.4
+2006/2007,Retired,Gini coefficient,Units,Normal value,37.2
+2007/2008,Retired,Gini coefficient,Units,Normal value,38.0
+2008/2009,Retired,Gini coefficient,Units,Normal value,37.3
+2009/2010,Retired,Gini coefficient,Units,Normal value,38.5
+2010/2011,Retired,Gini coefficient,Units,Normal value,35.7
+2011/2012,Retired,Gini coefficient,Units,Normal value,34.7
+2012/2013,Retired,Gini coefficient,Units,Normal value,36.5
+2013/2014,Retired,Gini coefficient,Units,Normal value,32.2
+2014/2015,Retired,Gini coefficient,Units,Normal value,31.700000000000003
+2015/2016,Retired,Gini coefficient,Units,Normal value,33.4
+2016/2017,Retired,Gini coefficient,Units,Normal value,32.099999999999994
+2017/2018,Retired,Gini coefficient,Units,Normal value,32.9
+2018/2019,Retired,Gini coefficient,Units,Normal value,32.2
+2019/2020,Retired,Gini coefficient,Units,Normal value,32.8
+2001/2002,Non-retired,Gini coefficient,Units,Normal value,14.4
+2002/2003,Non-retired,Gini coefficient,Units,Normal value,15.0
+2003/2004,Non-retired,Gini coefficient,Units,Normal value,15.099999999999998
+2004/2005,Non-retired,Gini coefficient,Units,Normal value,15.6
+2005/2006,Non-retired,Gini coefficient,Units,Normal value,16.099999999999998
+2006/2007,Non-retired,Gini coefficient,Units,Normal value,15.6
+2007/2008,Non-retired,Gini coefficient,Units,Normal value,15.300000000000004
+2008/2009,Non-retired,Gini coefficient,Units,Normal value,17.0
+2009/2010,Non-retired,Gini coefficient,Units,Normal value,17.6
+2010/2011,Non-retired,Gini coefficient,Units,Normal value,17.9
+2011/2012,Non-retired,Gini coefficient,Units,Normal value,18.8
+2012/2013,Non-retired,Gini coefficient,Units,Normal value,18.4
+2013/2014,Non-retired,Gini coefficient,Units,Normal value,17.599999999999998
+2014/2015,Non-retired,Gini coefficient,Units,Normal value,17.3
+2015/2016,Non-retired,Gini coefficient,Units,Normal value,17.200000000000003
+2016/2017,Non-retired,Gini coefficient,Units,Normal value,17.700000000000003
+2017/2018,Non-retired,Gini coefficient,Units,Normal value,17.199999999999996
+2018/2019,Non-retired,Gini coefficient,Units,Normal value,16.099999999999998
+2019/2020,Non-retired,Gini coefficient,Units,Normal value,15.099999999999998

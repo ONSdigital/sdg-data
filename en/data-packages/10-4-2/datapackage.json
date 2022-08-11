@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "Retirment status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Retired",
+                "Non-retired",
+                ""
+              ]
+            },
+            "title": "Retirment status"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -27,26 +39,14 @@
             "title": "Units"
           },
           {
-            "name": "Observation status",
-            "type": "number",
-            "title": "Observation status"
-          },
-          {
             "name": "Unit multiplier",
-            "type": "number",
+            "type": "string",
             "title": "Unit multiplier"
           },
           {
-            "name": "Retirment status",
+            "name": "Observation status",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "retired",
-                "non-retired",
-                ""
-              ]
-            },
-            "title": "Retirment status"
+            "title": "Observation status"
           },
           {
             "name": "Value",
