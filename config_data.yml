@@ -33,8 +33,8 @@ src_dir: ''
 # GitHub repository 'sdg-translations'.
 translations:
   - class: TranslationInputSdgTranslations
-    source: https://github.com/open-sdg/sdg-translations.git
-    tag: 2.0.0
+    source: https://github.com/brockfanning/sdg-translations.git
+    tag: empty-metadata-placeholder
 
 # Reporting status extra fields
 # -----------------------------
