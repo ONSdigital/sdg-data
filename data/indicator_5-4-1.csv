@@ -1,76 +1,883 @@
-Year,Units,Sex,Age,Disability status,Number of hours,Observation status,Value
-2021,Percentage,,,Disabled (GSS harmonised),10 to 19 hours,Normal value,31.0
-2021,Percentage,,,Non-disabled (GSS harmonised),10 to 19 hours,Normal value,69.0
-2021,Percentage,Female,,,10 to 19 hours,Normal value,10.0
-2021,Percentage,Male,,,10 to 19 hours,Normal value,8.0
-2021,Percentage,,,,10 to 19 hours,Normal value,9.0
-2021,Percentage,,,Disabled (GSS harmonised),2 to 4 hours,Normal value,32.0
-2021,Percentage,,,Non-disabled (GSS harmonised),2 to 4 hours,Normal value,68.0
-2021,Percentage,Female,,,2 to 4 hours,Normal value,19.0
-2021,Percentage,Male,,,2 to 4 hours,Normal value,23.0
-2021,Percentage,,,,2 to 4 hours,Normal value,21.0
-2021,Percentage,,,Disabled (GSS harmonised),20 to 34  hours,Normal value,35.0
-2021,Percentage,,,Non-disabled (GSS harmonised),20 to 34 hours,Normal value,65.0
-2021,Percentage,Female,,,20 to 34 hours,Normal value,5.0
-2021,Percentage,Male,,,20 to 34 hours,Normal value,6.0
-2021,Percentage,,,,20 to 34 hours,Normal value,5.0
-2021,Percentage,,,Disabled (GSS harmonised),35 to 49 hours,Normal value,42.0
-2021,Percentage,,,Non-disabled (GSS harmonised),35 to 49 hours,Normal value,58.0
-2021,Percentage,Female,,,35 to 49 hours,Normal value,5.0
-2021,Percentage,Male,,,35 to 49 hours,Normal value,5.0
-2021,Percentage,,,,35 to 49 hours,Normal value,5.0
-2021,Percentage,,,Disabled (GSS harmonised),5 to 9 hours,Normal value,35.0
-2021,Percentage,,,Non-disabled (GSS harmonised),5 to 9 hours,Normal value,65.0
-2021,Percentage,Female,,,5 to 9 hours,Normal value,13.0
-2021,Percentage,Male,,,5 to 9 hours,Normal value,13.0
-2021,Percentage,,,,5 to 9 hours,Normal value,13.0
-2021,Percentage,,,Disabled (GSS harmonised),50 or more hours,Normal value,48.0
-2021,Percentage,,,Non-disabled (GSS harmonised),50 or more hours,Normal value,52.0
-2021,Percentage,Male,,,50 or more hours,Normal value,10.0
-2021,Percentage,,,,50 or more hours,Normal value,11.0
-2021,Percentage,Female,,,50 or more hours,Normal value,12.0
-2021,Percentage,,,Disabled (GSS harmonised),Less than 2 hours,Normal value,26.0
-2021,Percentage,,,Non-disabled (GSS harmonised),Less than 2 hours,Normal value,74.0
-2021,Percentage,Female,,,Less than 2 hours,Normal value,36.0
-2021,Percentage,Male,,,Less than 2 hours,Normal value,34.0
-2021,Percentage,,,,Less than 2 hours,Normal value,35.0
-2021,Percentage,,16 to 24,Disabled (GSS harmonised),,Normal value,32.0
-2021,Percentage,,25 to 34,Disabled (GSS harmonised),,Normal value,36.0
-2021,Percentage,,35 to 44,Disabled (GSS harmonised),,Normal value,23.0
-2021,Percentage,,45 to 54,Disabled (GSS harmonised),,Normal value,32.0
-2021,Percentage,,55 to 64,Disabled (GSS harmonised),,Normal value,27.0
-2021,Percentage,,65 to 74,Disabled (GSS harmonised),,Normal value,38.0
-2021,Percentage,,75 and over,Disabled (GSS harmonised),,Normal value,49.0
-2021,Percentage,,,Disabled (GSS harmonised),,Normal value,32.0
-2021,Percentage,,16 to 24,Non-disabled (GSS harmonised),,Normal value,68.0
-2021,Percentage,,25 to 34,Non-disabled (GSS harmonised),,Normal value,64.0
-2021,Percentage,,35 to 44,Non-disabled (GSS harmonised),,Normal value,77.0
-2021,Percentage,,45 to 54,Non-disabled (GSS harmonised),,Normal value,68.0
-2021,Percentage,,55 to 64,Non-disabled (GSS harmonised),,Normal value,73.0
-2021,Percentage,,65 to 74,Non-disabled (GSS harmonised),,Normal value,62.0
-2021,Percentage,,75 and over,Non-disabled (GSS harmonised),,Normal value,51.0
-2021,Percentage,,,Non-disabled (GSS harmonised),,Normal value,68.0
-2021,Percentage,Female,16 to 24,,,Normal value,52.0
-2021,Percentage,Male,16 to 24,,,Normal value,48.0
-2021,Percentage,,16 to 24,,,Normal value,7.0
-2021,Percentage,,25 to 34,,,Normal value,9.0
-2021,Percentage,Female,25 to 34,,,Normal value,60.0
-2021,Percentage,Male,25 to 34,,,Normal value,40.0
-2021,Percentage,Female,35 to 44,,,Normal value,53.0
-2021,Percentage,Male,35 to 44,,,Normal value,47.0
-2021,Percentage,,35 to 44,,,Normal value,16.0
-2021,Percentage,Female,45 to 54,,,Normal value,61.0
-2021,Percentage,Male,45 to 54,,,Normal value,39.0
-2021,Percentage,,45 to 54,,,Normal value,20.0
-2021,Percentage,Female,55 to 64,,,Normal value,61.0
-2021,Percentage,Male,55 to 64,,,Normal value,39.0
-2021,Percentage,,55 to 64,,,Normal value,24.0
-2021,Percentage,Female,65 to 74,,,Normal value,53.0
-2021,Percentage,Male,65 to 74,,,Normal value,47.0
-2021,Percentage,,65 to 74,,,Normal value,13.0
-2021,Percentage,Female,75 and over,,,Normal value,56.0
-2021,Percentage,Male,75 and over,,,Normal value,44.0
-2021,Percentage,,75 and over,,,Normal value,10.0
-2021,Percentage,Female,,,,Normal value,57.0
-2021,Percentage,Male,,,,Normal value,43.0
-2021,Percentage,,,,,Normal value,17.0
+Year,Series,Sex,Age,Employment status,Number of hours per week providing care,Net weekly income (£),Units,Unit multiplier,Observation status,Value
+2020/21,Proportion of informal carers by characteristics,,,,,Less than £50,Percentage (%),Units,Normal value,9
+2020/21,Proportion of informal carers by characteristics,Female,,,,Less than £50,Percentage (%),Units,Normal value,10
+2020/21,Proportion of informal carers by characteristics,Male,,,,Less than £50,Percentage (%),Units,Normal value,9
+2019/20,Proportion of informal carers by characteristics,,,,,Less than £50,Percentage (%),Units,Normal value,7
+2019/20,Proportion of informal carers by characteristics,Female,,,,Less than £50,Percentage (%),Units,Normal value,8
+2019/20,Proportion of informal carers by characteristics,Male,,,,Less than £50,Percentage (%),Units,Normal value,6
+2018/19,Proportion of informal carers by characteristics,,,,,Less than £50,Percentage (%),Units,Normal value,8
+2018/19,Proportion of informal carers by characteristics,Female,,,,Less than £50,Percentage (%),Units,Normal value,9
+2018/19,Proportion of informal carers by characteristics,Male,,,,Less than £50,Percentage (%),Units,Normal value,6
+2017/18,Proportion of informal carers by characteristics,,,,,Less than £50,Percentage (%),Units,Normal value,7
+2017/18,Proportion of informal carers by characteristics,Female,,,,Less than £50,Percentage (%),Units,Normal value,8
+2017/18,Proportion of informal carers by characteristics,Male,,,,Less than £50,Percentage (%),Units,Normal value,6
+2016/17,Proportion of informal carers by characteristics,,,,,Less than £50,Percentage (%),Units,Normal value,7
+2016/17,Proportion of informal carers by characteristics,Female,,,,Less than £50,Percentage (%),Units,Normal value,8
+2016/17,Proportion of informal carers by characteristics,Male,,,,Less than £50,Percentage (%),Units,Normal value,7
+2015/16,Proportion of informal carers by characteristics,,,,,Less than £50,Percentage (%),Units,Normal value,6
+2015/16,Proportion of informal carers by characteristics,Female,,,,Less than £50,Percentage (%),Units,Normal value,7
+2015/16,Proportion of informal carers by characteristics,Male,,,,Less than £50,Percentage (%),Units,Normal value,5
+2014/15,Proportion of informal carers by characteristics,,,,,Less than £50,Percentage (%),Units,Normal value,8
+2014/15,Proportion of informal carers by characteristics,Female,,,,Less than £50,Percentage (%),Units,Normal value,9
+2014/15,Proportion of informal carers by characteristics,Male,,,,Less than £50,Percentage (%),Units,Normal value,6
+2013/14,Proportion of informal carers by characteristics,,,,,Less than £50,Percentage (%),Units,Normal value,8
+2013/14,Proportion of informal carers by characteristics,Female,,,,Less than £50,Percentage (%),Units,Normal value,9
+2013/14,Proportion of informal carers by characteristics,Male,,,,Less than £50,Percentage (%),Units,Normal value,6
+2020/21,Proportion of informal carers by characteristics,,,,,£50 - £99,Percentage (%),Units,Normal value,8
+2020/21,Proportion of informal carers by characteristics,Female,,,,£50 - £99,Percentage (%),Units,Normal value,8
+2020/21,Proportion of informal carers by characteristics,Male,,,,£50 - £99,Percentage (%),Units,Normal value,6
+2019/20,Proportion of informal carers by characteristics,,,,,£50 - £99,Percentage (%),Units,Normal value,8
+2019/20,Proportion of informal carers by characteristics,Female,,,,£50 - £99,Percentage (%),Units,Normal value,10
+2019/20,Proportion of informal carers by characteristics,Male,,,,£50 - £99,Percentage (%),Units,Normal value,5
+2018/19,Proportion of informal carers by characteristics,,,,,£50 - £99,Percentage (%),Units,Normal value,8
+2018/19,Proportion of informal carers by characteristics,Female,,,,£50 - £99,Percentage (%),Units,Normal value,9
+2018/19,Proportion of informal carers by characteristics,Male,,,,£50 - £99,Percentage (%),Units,Normal value,6
+2017/18,Proportion of informal carers by characteristics,,,,,£50 - £99,Percentage (%),Units,Normal value,9
+2017/18,Proportion of informal carers by characteristics,Female,,,,£50 - £99,Percentage (%),Units,Normal value,11
+2017/18,Proportion of informal carers by characteristics,Male,,,,£50 - £99,Percentage (%),Units,Normal value,6
+2016/17,Proportion of informal carers by characteristics,,,,,£50 - £99,Percentage (%),Units,Normal value,9
+2016/17,Proportion of informal carers by characteristics,Female,,,,£50 - £99,Percentage (%),Units,Normal value,10
+2016/17,Proportion of informal carers by characteristics,Male,,,,£50 - £99,Percentage (%),Units,Normal value,6
+2015/16,Proportion of informal carers by characteristics,,,,,£50 - £99,Percentage (%),Units,Normal value,9
+2015/16,Proportion of informal carers by characteristics,Female,,,,£50 - £99,Percentage (%),Units,Normal value,12
+2015/16,Proportion of informal carers by characteristics,Male,,,,£50 - £99,Percentage (%),Units,Normal value,5
+2014/15,Proportion of informal carers by characteristics,,,,,£50 - £99,Percentage (%),Units,Normal value,8
+2014/15,Proportion of informal carers by characteristics,Female,,,,£50 - £99,Percentage (%),Units,Normal value,11
+2014/15,Proportion of informal carers by characteristics,Male,,,,£50 - £99,Percentage (%),Units,Normal value,5
+2013/14,Proportion of informal carers by characteristics,,,,,£50 - £99,Percentage (%),Units,Normal value,10
+2013/14,Proportion of informal carers by characteristics,Female,,,,£50 - £99,Percentage (%),Units,Normal value,11
+2013/14,Proportion of informal carers by characteristics,Male,,,,£50 - £99,Percentage (%),Units,Normal value,7
+2020/21,Proportion of informal carers by characteristics,,,,,£100 - £149,Percentage (%),Units,Normal value,6
+2020/21,Proportion of informal carers by characteristics,Female,,,,£100 - £149,Percentage (%),Units,Normal value,7
+2020/21,Proportion of informal carers by characteristics,Male,,,,£100 - £149,Percentage (%),Units,Normal value,4
+2019/20,Proportion of informal carers by characteristics,,,,,£100 - £149,Percentage (%),Units,Normal value,7
+2019/20,Proportion of informal carers by characteristics,Female,,,,£100 - £149,Percentage (%),Units,Normal value,9
+2019/20,Proportion of informal carers by characteristics,Male,,,,£100 - £149,Percentage (%),Units,Normal value,4
+2018/19,Proportion of informal carers by characteristics,,,,,£100 - £149,Percentage (%),Units,Normal value,7
+2018/19,Proportion of informal carers by characteristics,Female,,,,£100 - £149,Percentage (%),Units,Normal value,9
+2018/19,Proportion of informal carers by characteristics,Male,,,,£100 - £149,Percentage (%),Units,Normal value,4
+2017/18,Proportion of informal carers by characteristics,,,,,£100 - £149,Percentage (%),Units,Normal value,8
+2017/18,Proportion of informal carers by characteristics,Female,,,,£100 - £149,Percentage (%),Units,Normal value,9
+2017/18,Proportion of informal carers by characteristics,Male,,,,£100 - £149,Percentage (%),Units,Normal value,6
+2016/17,Proportion of informal carers by characteristics,,,,,£100 - £149,Percentage (%),Units,Normal value,7
+2016/17,Proportion of informal carers by characteristics,Female,,,,£100 - £149,Percentage (%),Units,Normal value,9
+2016/17,Proportion of informal carers by characteristics,Male,,,,£100 - £149,Percentage (%),Units,Normal value,5
+2015/16,Proportion of informal carers by characteristics,,,,,£100 - £149,Percentage (%),Units,Normal value,8
+2015/16,Proportion of informal carers by characteristics,Female,,,,£100 - £149,Percentage (%),Units,Normal value,10
+2015/16,Proportion of informal carers by characteristics,Male,,,,£100 - £149,Percentage (%),Units,Normal value,6
+2014/15,Proportion of informal carers by characteristics,,,,,£100 - £149,Percentage (%),Units,Normal value,9
+2014/15,Proportion of informal carers by characteristics,Female,,,,£100 - £149,Percentage (%),Units,Normal value,11
+2014/15,Proportion of informal carers by characteristics,Male,,,,£100 - £149,Percentage (%),Units,Normal value,5
+2013/14,Proportion of informal carers by characteristics,,,,,£100 - £149,Percentage (%),Units,Normal value,9
+2013/14,Proportion of informal carers by characteristics,Female,,,,£100 - £149,Percentage (%),Units,Normal value,11
+2013/14,Proportion of informal carers by characteristics,Male,,,,£100 - £149,Percentage (%),Units,Normal value,6
+2020/21,Proportion of informal carers by characteristics,,,,,£150 - £199,Percentage (%),Units,Normal value,9
+2020/21,Proportion of informal carers by characteristics,Female,,,,£150 - £199,Percentage (%),Units,Normal value,11
+2020/21,Proportion of informal carers by characteristics,Male,,,,£150 - £199,Percentage (%),Units,Normal value,6
+2019/20,Proportion of informal carers by characteristics,,,,,£150 - £199,Percentage (%),Units,Normal value,9
+2019/20,Proportion of informal carers by characteristics,Female,,,,£150 - £199,Percentage (%),Units,Normal value,12
+2019/20,Proportion of informal carers by characteristics,Male,,,,£150 - £199,Percentage (%),Units,Normal value,6
+2018/19,Proportion of informal carers by characteristics,,,,,£150 - £199,Percentage (%),Units,Normal value,9
+2018/19,Proportion of informal carers by characteristics,Female,,,,£150 - £199,Percentage (%),Units,Normal value,11
+2018/19,Proportion of informal carers by characteristics,Male,,,,£150 - £199,Percentage (%),Units,Normal value,6
+2017/18,Proportion of informal carers by characteristics,,,,,£150 - £199,Percentage (%),Units,Normal value,10
+2017/18,Proportion of informal carers by characteristics,Female,,,,£150 - £199,Percentage (%),Units,Normal value,12
+2017/18,Proportion of informal carers by characteristics,Male,,,,£150 - £199,Percentage (%),Units,Normal value,8
+2016/17,Proportion of informal carers by characteristics,,,,,£150 - £199,Percentage (%),Units,Normal value,11
+2016/17,Proportion of informal carers by characteristics,Female,,,,£150 - £199,Percentage (%),Units,Normal value,13
+2016/17,Proportion of informal carers by characteristics,Male,,,,£150 - £199,Percentage (%),Units,Normal value,9
+2015/16,Proportion of informal carers by characteristics,,,,,£150 - £199,Percentage (%),Units,Normal value,10
+2015/16,Proportion of informal carers by characteristics,Female,,,,£150 - £199,Percentage (%),Units,Normal value,10
+2015/16,Proportion of informal carers by characteristics,Male,,,,£150 - £199,Percentage (%),Units,Normal value,9
+2014/15,Proportion of informal carers by characteristics,,,,,£150 - £199,Percentage (%),Units,Normal value,10
+2014/15,Proportion of informal carers by characteristics,Female,,,,£150 - £199,Percentage (%),Units,Normal value,12
+2014/15,Proportion of informal carers by characteristics,Male,,,,£150 - £199,Percentage (%),Units,Normal value,7
+2013/14,Proportion of informal carers by characteristics,,,,,£150 - £199,Percentage (%),Units,Normal value,12
+2013/14,Proportion of informal carers by characteristics,Female,,,,£150 - £199,Percentage (%),Units,Normal value,14
+2013/14,Proportion of informal carers by characteristics,Male,,,,£150 - £199,Percentage (%),Units,Normal value,8
+2020/21,Proportion of informal carers by characteristics,,,,,£200 - £249,Percentage (%),Units,Normal value,8
+2020/21,Proportion of informal carers by characteristics,Female,,,,£200 - £249,Percentage (%),Units,Normal value,8
+2020/21,Proportion of informal carers by characteristics,Male,,,,£200 - £249,Percentage (%),Units,Normal value,9
+2019/20,Proportion of informal carers by characteristics,,,,,£200 - £249,Percentage (%),Units,Normal value,10
+2019/20,Proportion of informal carers by characteristics,Female,,,,£200 - £249,Percentage (%),Units,Normal value,11
+2019/20,Proportion of informal carers by characteristics,Male,,,,£200 - £249,Percentage (%),Units,Normal value,8
+2018/19,Proportion of informal carers by characteristics,,,,,£200 - £249,Percentage (%),Units,Normal value,11
+2018/19,Proportion of informal carers by characteristics,Female,,,,£200 - £249,Percentage (%),Units,Normal value,11
+2018/19,Proportion of informal carers by characteristics,Male,,,,£200 - £249,Percentage (%),Units,Normal value,9
+2017/18,Proportion of informal carers by characteristics,,,,,£200 - £249,Percentage (%),Units,Normal value,10
+2017/18,Proportion of informal carers by characteristics,Female,,,,£200 - £249,Percentage (%),Units,Normal value,12
+2017/18,Proportion of informal carers by characteristics,Male,,,,£200 - £249,Percentage (%),Units,Normal value,7
+2016/17,Proportion of informal carers by characteristics,,,,,£200 - £249,Percentage (%),Units,Normal value,11
+2016/17,Proportion of informal carers by characteristics,Female,,,,£200 - £249,Percentage (%),Units,Normal value,11
+2016/17,Proportion of informal carers by characteristics,Male,,,,£200 - £249,Percentage (%),Units,Normal value,10
+2015/16,Proportion of informal carers by characteristics,,,,,£200 - £249,Percentage (%),Units,Normal value,11
+2015/16,Proportion of informal carers by characteristics,Female,,,,£200 - £249,Percentage (%),Units,Normal value,12
+2015/16,Proportion of informal carers by characteristics,Male,,,,£200 - £249,Percentage (%),Units,Normal value,11
+2014/15,Proportion of informal carers by characteristics,,,,,£200 - £249,Percentage (%),Units,Normal value,11
+2014/15,Proportion of informal carers by characteristics,Female,,,,£200 - £249,Percentage (%),Units,Normal value,11
+2014/15,Proportion of informal carers by characteristics,Male,,,,£200 - £249,Percentage (%),Units,Normal value,11
+2013/14,Proportion of informal carers by characteristics,,,,,£200 - £249,Percentage (%),Units,Normal value,12
+2013/14,Proportion of informal carers by characteristics,Female,,,,£200 - £249,Percentage (%),Units,Normal value,12
+2013/14,Proportion of informal carers by characteristics,Male,,,,£200 - £249,Percentage (%),Units,Normal value,12
+2020/21,Proportion of informal carers by characteristics,,,,,£250 - £299,Percentage (%),Units,Normal value,9
+2020/21,Proportion of informal carers by characteristics,Female,,,,£250 - £299,Percentage (%),Units,Normal value,10
+2020/21,Proportion of informal carers by characteristics,Male,,,,£250 - £299,Percentage (%),Units,Normal value,7
+2019/20,Proportion of informal carers by characteristics,,,,,£250 - £299,Percentage (%),Units,Normal value,9
+2019/20,Proportion of informal carers by characteristics,Female,,,,£250 - £299,Percentage (%),Units,Normal value,9
+2019/20,Proportion of informal carers by characteristics,Male,,,,£250 - £299,Percentage (%),Units,Normal value,8
+2018/19,Proportion of informal carers by characteristics,,,,,£250 - £299,Percentage (%),Units,Normal value,11
+2018/19,Proportion of informal carers by characteristics,Female,,,,£250 - £299,Percentage (%),Units,Normal value,11
+2018/19,Proportion of informal carers by characteristics,Male,,,,£250 - £299,Percentage (%),Units,Normal value,12
+2017/18,Proportion of informal carers by characteristics,,,,,£250 - £299,Percentage (%),Units,Normal value,11
+2017/18,Proportion of informal carers by characteristics,Female,,,,£250 - £299,Percentage (%),Units,Normal value,11
+2017/18,Proportion of informal carers by characteristics,Male,,,,£250 - £299,Percentage (%),Units,Normal value,11
+2016/17,Proportion of informal carers by characteristics,,,,,£250 - £299,Percentage (%),Units,Normal value,11
+2016/17,Proportion of informal carers by characteristics,Female,,,,£250 - £299,Percentage (%),Units,Normal value,11
+2016/17,Proportion of informal carers by characteristics,Male,,,,£250 - £299,Percentage (%),Units,Normal value,10
+2015/16,Proportion of informal carers by characteristics,,,,,£250 - £299,Percentage (%),Units,Normal value,11
+2015/16,Proportion of informal carers by characteristics,Female,,,,£250 - £299,Percentage (%),Units,Normal value,11
+2015/16,Proportion of informal carers by characteristics,Male,,,,£250 - £299,Percentage (%),Units,Normal value,10
+2014/15,Proportion of informal carers by characteristics,,,,,£250 - £299,Percentage (%),Units,Normal value,11
+2014/15,Proportion of informal carers by characteristics,Female,,,,£250 - £299,Percentage (%),Units,Normal value,10
+2014/15,Proportion of informal carers by characteristics,Male,,,,£250 - £299,Percentage (%),Units,Normal value,11
+2013/14,Proportion of informal carers by characteristics,,,,,£250 - £299,Percentage (%),Units,Normal value,10
+2013/14,Proportion of informal carers by characteristics,Female,,,,£250 - £299,Percentage (%),Units,Normal value,9
+2013/14,Proportion of informal carers by characteristics,Male,,,,£250 - £299,Percentage (%),Units,Normal value,11
+2020/21,Proportion of informal carers by characteristics,,,,,£300 - £399,Percentage (%),Units,Normal value,18
+2020/21,Proportion of informal carers by characteristics,Female,,,,£300 - £399,Percentage (%),Units,Normal value,20
+2020/21,Proportion of informal carers by characteristics,Male,,,,£300 - £399,Percentage (%),Units,Normal value,15
+2019/20,Proportion of informal carers by characteristics,,,,,£300 - £399,Percentage (%),Units,Normal value,16
+2019/20,Proportion of informal carers by characteristics,Female,,,,£300 - £399,Percentage (%),Units,Normal value,15
+2019/20,Proportion of informal carers by characteristics,Male,,,,£300 - £399,Percentage (%),Units,Normal value,18
+2018/19,Proportion of informal carers by characteristics,,,,,£300 - £399,Percentage (%),Units,Normal value,17
+2018/19,Proportion of informal carers by characteristics,Female,,,,£300 - £399,Percentage (%),Units,Normal value,16
+2018/19,Proportion of informal carers by characteristics,Male,,,,£300 - £399,Percentage (%),Units,Normal value,20
+2017/18,Proportion of informal carers by characteristics,,,,,£300 - £399,Percentage (%),Units,Normal value,16
+2017/18,Proportion of informal carers by characteristics,Female,,,,£300 - £399,Percentage (%),Units,Normal value,15
+2017/18,Proportion of informal carers by characteristics,Male,,,,£300 - £399,Percentage (%),Units,Normal value,19
+2016/17,Proportion of informal carers by characteristics,,,,,£300 or more,Percentage (%),Units,Normal value,44
+2016/17,Proportion of informal carers by characteristics,Female,,,,£300 or more,Percentage (%),Units,Normal value,38
+2016/17,Proportion of informal carers by characteristics,Male,,,,£300 or more,Percentage (%),Units,Normal value,53
+2015/16,Proportion of informal carers by characteristics,,,,,£300 or more,Percentage (%),Units,Normal value,44
+2015/16,Proportion of informal carers by characteristics,Female,,,,£300 or more,Percentage (%),Units,Normal value,39
+2015/16,Proportion of informal carers by characteristics,Male,,,,£300 or more,Percentage (%),Units,Normal value,53
+2014/15,Proportion of informal carers by characteristics,,,,,£300 or more,Percentage (%),Units,Normal value,44
+2014/15,Proportion of informal carers by characteristics,Female,,,,£300 or more,Percentage (%),Units,Normal value,37
+2014/15,Proportion of informal carers by characteristics,Male,,,,£300 or more,Percentage (%),Units,Normal value,54
+2013/14,Proportion of informal carers by characteristics,,,,,£300 or more,Percentage (%),Units,Normal value,39
+2013/14,Proportion of informal carers by characteristics,Female,,,,£300 or more,Percentage (%),Units,Normal value,33
+2013/14,Proportion of informal carers by characteristics,Male,,,,£300 or more,Percentage (%),Units,Normal value,50
+2020/21,Proportion of informal carers by characteristics,,,,,£400 - £499,Percentage (%),Units,Normal value,12
+2020/21,Proportion of informal carers by characteristics,Female,,,,£400 - £499,Percentage (%),Units,Normal value,10
+2020/21,Proportion of informal carers by characteristics,Male,,,,£400 - £499,Percentage (%),Units,Normal value,15
+2019/20,Proportion of informal carers by characteristics,,,,,£400 - £499,Percentage (%),Units,Normal value,12
+2019/20,Proportion of informal carers by characteristics,Female,,,,£400 - £499,Percentage (%),Units,Normal value,9
+2019/20,Proportion of informal carers by characteristics,Male,,,,£400 - £499,Percentage (%),Units,Normal value,16
+2018/19,Proportion of informal carers by characteristics,,,,,£400 - £499,Percentage (%),Units,Normal value,11
+2018/19,Proportion of informal carers by characteristics,Female,,,,£400 - £499,Percentage (%),Units,Normal value,9
+2018/19,Proportion of informal carers by characteristics,Male,,,,£400 - £499,Percentage (%),Units,Normal value,13
+2017/18,Proportion of informal carers by characteristics,,,,,£400 - £499,Percentage (%),Units,Normal value,11
+2017/18,Proportion of informal carers by characteristics,Female,,,,£400 - £499,Percentage (%),Units,Normal value,10
+2017/18,Proportion of informal carers by characteristics,Male,,,,£400 - £499,Percentage (%),Units,Normal value,14
+2016/17,Proportion of informal carers by characteristics,,,,,£400 - £499,Percentage (%),Units,Missing value,
+2016/17,Proportion of informal carers by characteristics,Female,,,,£400 - £499,Percentage (%),Units,Missing value,
+2016/17,Proportion of informal carers by characteristics,Male,,,,£400 - £499,Percentage (%),Units,Missing value,
+2015/16,Proportion of informal carers by characteristics,,,,,£400 - £499,Percentage (%),Units,Missing value,
+2015/16,Proportion of informal carers by characteristics,Female,,,,£400 - £499,Percentage (%),Units,Missing value,
+2015/16,Proportion of informal carers by characteristics,Male,,,,£400 - £499,Percentage (%),Units,Missing value,
+2014/15,Proportion of informal carers by characteristics,,,,,£400 - £499,Percentage (%),Units,Missing value,
+2014/15,Proportion of informal carers by characteristics,Female,,,,£400 - £499,Percentage (%),Units,Missing value,
+2014/15,Proportion of informal carers by characteristics,Male,,,,£400 - £499,Percentage (%),Units,Missing value,
+2013/14,Proportion of informal carers by characteristics,,,,,£400 - £499,Percentage (%),Units,Missing value,
+2013/14,Proportion of informal carers by characteristics,Female,,,,£400 - £499,Percentage (%),Units,Missing value,
+2013/14,Proportion of informal carers by characteristics,Male,,,,£400 - £499,Percentage (%),Units,Missing value,
+2020/21,Proportion of informal carers by characteristics,,,,,£500 or more,Percentage (%),Units,Normal value,21
+2020/21,Proportion of informal carers by characteristics,Female,,,,£500 or more,Percentage (%),Units,Normal value,16
+2020/21,Proportion of informal carers by characteristics,Male,,,,£500 or more,Percentage (%),Units,Normal value,29
+2019/20,Proportion of informal carers by characteristics,,,,,£500 or more,Percentage (%),Units,Normal value,22
+2019/20,Proportion of informal carers by characteristics,Female,,,,£500 or more,Percentage (%),Units,Normal value,18
+2019/20,Proportion of informal carers by characteristics,Male,,,,£500 or more,Percentage (%),Units,Normal value,29
+2018/19,Proportion of informal carers by characteristics,,,,,£500 or more,Percentage (%),Units,Normal value,18
+2018/19,Proportion of informal carers by characteristics,Female,,,,£500 or more,Percentage (%),Units,Normal value,14
+2018/19,Proportion of informal carers by characteristics,Male,,,,£500 or more,Percentage (%),Units,Normal value,23
+2017/18,Proportion of informal carers by characteristics,,,,,£500 or more,Percentage (%),Units,Normal value,17
+2017/18,Proportion of informal carers by characteristics,Female,,,,£500 or more,Percentage (%),Units,Normal value,12
+2017/18,Proportion of informal carers by characteristics,Male,,,,£500 or more,Percentage (%),Units,Normal value,23
+2016/17,Proportion of informal carers by characteristics,,,,,£500 or more,Percentage (%),Units,Missing value,
+2016/17,Proportion of informal carers by characteristics,Female,,,,£500 or more,Percentage (%),Units,Missing value,
+2016/17,Proportion of informal carers by characteristics,Male,,,,£500 or more,Percentage (%),Units,Missing value,
+2015/16,Proportion of informal carers by characteristics,,,,,£500 or more,Percentage (%),Units,Missing value,
+2015/16,Proportion of informal carers by characteristics,Female,,,,£500 or more,Percentage (%),Units,Missing value,
+2015/16,Proportion of informal carers by characteristics,Male,,,,£500 or more,Percentage (%),Units,Missing value,
+2014/15,Proportion of informal carers by characteristics,,,,,£500 or more,Percentage (%),Units,Missing value,
+2014/15,Proportion of informal carers by characteristics,Female,,,,£500 or more,Percentage (%),Units,Missing value,
+2014/15,Proportion of informal carers by characteristics,Male,,,,£500 or more,Percentage (%),Units,Missing value,
+2013/14,Proportion of informal carers by characteristics,,,,,£500 or more,Percentage (%),Units,Missing value,
+2013/14,Proportion of informal carers by characteristics,Female,,,,£500 or more,Percentage (%),Units,Missing value,
+2013/14,Proportion of informal carers by characteristics,Male,,,,£500 or more,Percentage (%),Units,Missing value,
+2020/21,Proportion of informal carers by characteristics,,,,0-4 hours,,Percentage (%),Units,Normal value,19
+2020/21,Proportion of informal carers by characteristics,Female,,,0-4 hours,,Percentage (%),Units,Normal value,18
+2020/21,Proportion of informal carers by characteristics,Male,,,0-4 hours,,Percentage (%),Units,Normal value,21
+2019/20,Proportion of informal carers by characteristics,,,,0-4 hours,,Percentage (%),Units,Normal value,24
+2019/20,Proportion of informal carers by characteristics,Female,,,0-4 hours,,Percentage (%),Units,Normal value,23
+2019/20,Proportion of informal carers by characteristics,Male,,,0-4 hours,,Percentage (%),Units,Normal value,25
+2018/19,Proportion of informal carers by characteristics,,,,0-4 hours,,Percentage (%),Units,Normal value,22
+2018/19,Proportion of informal carers by characteristics,Female,,,0-4 hours,,Percentage (%),Units,Normal value,21
+2018/19,Proportion of informal carers by characteristics,Male,,,0-4 hours,,Percentage (%),Units,Normal value,25
+2017/18,Proportion of informal carers by characteristics,,,,0-4 hours,,Percentage (%),Units,Normal value,21
+2017/18,Proportion of informal carers by characteristics,Female,,,0-4 hours,,Percentage (%),Units,Normal value,18
+2017/18,Proportion of informal carers by characteristics,Male,,,0-4 hours,,Percentage (%),Units,Normal value,24
+2016/17,Proportion of informal carers by characteristics,,,,0-4 hours,,Percentage (%),Units,Normal value,22
+2016/17,Proportion of informal carers by characteristics,Female,,,0-4 hours,,Percentage (%),Units,Normal value,20
+2016/17,Proportion of informal carers by characteristics,Male,,,0-4 hours,,Percentage (%),Units,Normal value,25
+2015/16,Proportion of informal carers by characteristics,,,,0-4 hours,,Percentage (%),Units,Normal value,23
+2015/16,Proportion of informal carers by characteristics,Female,,,0-4 hours,,Percentage (%),Units,Normal value,21
+2015/16,Proportion of informal carers by characteristics,Male,,,0-4 hours,,Percentage (%),Units,Normal value,27
+2014/15,Proportion of informal carers by characteristics,,,,0-4 hours,,Percentage (%),Units,Normal value,24
+2014/15,Proportion of informal carers by characteristics,Female,,,0-4 hours,,Percentage (%),Units,Normal value,22
+2014/15,Proportion of informal carers by characteristics,Male,,,0-4 hours,,Percentage (%),Units,Normal value,27
+2013/14,Proportion of informal carers by characteristics,,,,0-4 hours,,Percentage (%),Units,Normal value,25
+2013/14,Proportion of informal carers by characteristics,Female,,,0-4 hours,,Percentage (%),Units,Normal value,24
+2013/14,Proportion of informal carers by characteristics,Male,,,0-4 hours,,Percentage (%),Units,Normal value,27
+2012/13,Proportion of informal carers by characteristics,,,,0-4 hours,,Percentage (%),Units,Normal value,25
+2012/13,Proportion of informal carers by characteristics,Female,,,0-4 hours,,Percentage (%),Units,Normal value,24
+2012/13,Proportion of informal carers by characteristics,Male,,,0-4 hours,,Percentage (%),Units,Normal value,27
+2011/12,Proportion of informal carers by characteristics,,,,0-4 hours,,Percentage (%),Units,Normal value,26
+2011/12,Proportion of informal carers by characteristics,Female,,,0-4 hours,,Percentage (%),Units,Normal value,25
+2011/12,Proportion of informal carers by characteristics,Male,,,0-4 hours,,Percentage (%),Units,Normal value,29
+2010/11,Proportion of informal carers by characteristics,,,,0-4 hours,,Percentage (%),Units,Normal value,24
+2010/11,Proportion of informal carers by characteristics,Female,,,0-4 hours,,Percentage (%),Units,Normal value,23
+2010/11,Proportion of informal carers by characteristics,Male,,,0-4 hours,,Percentage (%),Units,Normal value,26
+2020/21,Proportion of informal carers by characteristics,,,,5-19 hours,,Percentage (%),Units,Normal value,32
+2020/21,Proportion of informal carers by characteristics,Female,,,5-19 hours,,Percentage (%),Units,Normal value,33
+2020/21,Proportion of informal carers by characteristics,Male,,,5-19 hours,,Percentage (%),Units,Normal value,30
+2019/20,Proportion of informal carers by characteristics,,,,5-19 hours,,Percentage (%),Units,Normal value,33
+2019/20,Proportion of informal carers by characteristics,Female,,,5-19 hours,,Percentage (%),Units,Normal value,33
+2019/20,Proportion of informal carers by characteristics,Male,,,5-19 hours,,Percentage (%),Units,Normal value,33
+2018/19,Proportion of informal carers by characteristics,,,,5-19 hours,,Percentage (%),Units,Normal value,33
+2018/19,Proportion of informal carers by characteristics,Female,,,5-19 hours,,Percentage (%),Units,Normal value,35
+2018/19,Proportion of informal carers by characteristics,Male,,,5-19 hours,,Percentage (%),Units,Normal value,30
+2017/18,Proportion of informal carers by characteristics,,,,5-19 hours,,Percentage (%),Units,Normal value,32
+2017/18,Proportion of informal carers by characteristics,Female,,,5-19 hours,,Percentage (%),Units,Normal value,34
+2017/18,Proportion of informal carers by characteristics,Male,,,5-19 hours,,Percentage (%),Units,Normal value,30
+2016/17,Proportion of informal carers by characteristics,,,,5-19 hours,,Percentage (%),Units,Normal value,34
+2016/17,Proportion of informal carers by characteristics,Female,,,5-19 hours,,Percentage (%),Units,Normal value,35
+2016/17,Proportion of informal carers by characteristics,Male,,,5-19 hours,,Percentage (%),Units,Normal value,32
+2015/16,Proportion of informal carers by characteristics,,,,5-19 hours,,Percentage (%),Units,Normal value,34
+2015/16,Proportion of informal carers by characteristics,Female,,,5-19 hours,,Percentage (%),Units,Normal value,37
+2015/16,Proportion of informal carers by characteristics,Male,,,5-19 hours,,Percentage (%),Units,Normal value,28
+2014/15,Proportion of informal carers by characteristics,,,,5-19 hours,,Percentage (%),Units,Normal value,34
+2014/15,Proportion of informal carers by characteristics,Female,,,5-19 hours,,Percentage (%),Units,Normal value,34
+2014/15,Proportion of informal carers by characteristics,Male,,,5-19 hours,,Percentage (%),Units,Normal value,34
+2013/14,Proportion of informal carers by characteristics,,,,5-19 hours,,Percentage (%),Units,Normal value,33
+2013/14,Proportion of informal carers by characteristics,Female,,,5-19 hours,,Percentage (%),Units,Normal value,34
+2013/14,Proportion of informal carers by characteristics,Male,,,5-19 hours,,Percentage (%),Units,Normal value,32
+2012/13,Proportion of informal carers by characteristics,,,,5-19 hours,,Percentage (%),Units,Normal value,33
+2012/13,Proportion of informal carers by characteristics,Female,,,5-19 hours,,Percentage (%),Units,Normal value,35
+2012/13,Proportion of informal carers by characteristics,Male,,,5-19 hours,,Percentage (%),Units,Normal value,29
+2011/12,Proportion of informal carers by characteristics,,,,5-19 hours,,Percentage (%),Units,Normal value,33
+2011/12,Proportion of informal carers by characteristics,Female,,,5-19 hours,,Percentage (%),Units,Normal value,34
+2011/12,Proportion of informal carers by characteristics,Male,,,5-19 hours,,Percentage (%),Units,Normal value,32
+2010/11,Proportion of informal carers by characteristics,,,,5-19 hours,,Percentage (%),Units,Normal value,33
+2010/11,Proportion of informal carers by characteristics,Female,,,5-19 hours,,Percentage (%),Units,Normal value,35
+2010/11,Proportion of informal carers by characteristics,Male,,,5-19 hours,,Percentage (%),Units,Normal value,30
+2020/21,Proportion of informal carers by characteristics,,,,20-34 hours,,Percentage (%),Units,Normal value,9
+2020/21,Proportion of informal carers by characteristics,Female,,,20-34 hours,,Percentage (%),Units,Normal value,10
+2020/21,Proportion of informal carers by characteristics,Male,,,20-34 hours,,Percentage (%),Units,Normal value,7
+2019/20,Proportion of informal carers by characteristics,,,,20-34 hours,,Percentage (%),Units,Normal value,7
+2019/20,Proportion of informal carers by characteristics,Female,,,20-34 hours,,Percentage (%),Units,Normal value,7
+2019/20,Proportion of informal carers by characteristics,Male,,,20-34 hours,,Percentage (%),Units,Normal value,7
+2018/19,Proportion of informal carers by characteristics,,,,20-34 hours,,Percentage (%),Units,Normal value,8
+2018/19,Proportion of informal carers by characteristics,Female,,,20-34 hours,,Percentage (%),Units,Normal value,8
+2018/19,Proportion of informal carers by characteristics,Male,,,20-34 hours,,Percentage (%),Units,Normal value,7
+2017/18,Proportion of informal carers by characteristics,,,,20-34 hours,,Percentage (%),Units,Normal value,7
+2017/18,Proportion of informal carers by characteristics,Female,,,20-34 hours,,Percentage (%),Units,Normal value,8
+2017/18,Proportion of informal carers by characteristics,Male,,,20-34 hours,,Percentage (%),Units,Normal value,6
+2016/17,Proportion of informal carers by characteristics,,,,20-34 hours,,Percentage (%),Units,Normal value,8
+2016/17,Proportion of informal carers by characteristics,Female,,,20-34 hours,,Percentage (%),Units,Normal value,8
+2016/17,Proportion of informal carers by characteristics,Male,,,20-34 hours,,Percentage (%),Units,Normal value,8
+2015/16,Proportion of informal carers by characteristics,,,,20-34 hours,,Percentage (%),Units,Normal value,8
+2015/16,Proportion of informal carers by characteristics,Female,,,20-34 hours,,Percentage (%),Units,Normal value,7
+2015/16,Proportion of informal carers by characteristics,Male,,,20-34 hours,,Percentage (%),Units,Normal value,9
+2014/15,Proportion of informal carers by characteristics,,,,20-34 hours,,Percentage (%),Units,Normal value,8
+2014/15,Proportion of informal carers by characteristics,Female,,,20-34 hours,,Percentage (%),Units,Normal value,9
+2014/15,Proportion of informal carers by characteristics,Male,,,20-34 hours,,Percentage (%),Units,Normal value,7
+2013/14,Proportion of informal carers by characteristics,,,,20-34 hours,,Percentage (%),Units,Normal value,7
+2013/14,Proportion of informal carers by characteristics,Female,,,20-34 hours,,Percentage (%),Units,Normal value,7
+2013/14,Proportion of informal carers by characteristics,Male,,,20-34 hours,,Percentage (%),Units,Normal value,6
+2012/13,Proportion of informal carers by characteristics,,,,20-35 hours,,Percentage (%),Units,Normal value,8
+2012/13,Proportion of informal carers by characteristics,Female,,,20-35 hours,,Percentage (%),Units,Normal value,8
+2012/13,Proportion of informal carers by characteristics,Male,,,20-35 hours,,Percentage (%),Units,Normal value,9
+2011/12,Proportion of informal carers by characteristics,,,,20-35 hours,,Percentage (%),Units,Normal value,8
+2011/12,Proportion of informal carers by characteristics,Female,,,20-35 hours,,Percentage (%),Units,Normal value,7
+2011/12,Proportion of informal carers by characteristics,Male,,,20-35 hours,,Percentage (%),Units,Normal value,9
+2010/11,Proportion of informal carers by characteristics,,,,20-35 hours,,Percentage (%),Units,Normal value,9
+2010/11,Proportion of informal carers by characteristics,Female,,,20-35 hours,,Percentage (%),Units,Normal value,8
+2010/11,Proportion of informal carers by characteristics,Male,,,20-35 hours,,Percentage (%),Units,Normal value,9
+2020/21,Proportion of informal carers by characteristics,,,,35-49 hours,,Percentage (%),Units,Normal value,7
+2020/21,Proportion of informal carers by characteristics,Female,,,35-49 hours,,Percentage (%),Units,Normal value,6
+2020/21,Proportion of informal carers by characteristics,Male,,,35-49 hours,,Percentage (%),Units,Normal value,8
+2019/20,Proportion of informal carers by characteristics,,,,35-49 hours,,Percentage (%),Units,Normal value,5
+2019/20,Proportion of informal carers by characteristics,Female,,,35-49 hours,,Percentage (%),Units,Normal value,5
+2019/20,Proportion of informal carers by characteristics,Male,,,35-49 hours,,Percentage (%),Units,Normal value,4
+2018/19,Proportion of informal carers by characteristics,,,,35-49 hours,,Percentage (%),Units,Normal value,6
+2018/19,Proportion of informal carers by characteristics,Female,,,35-49 hours,,Percentage (%),Units,Normal value,5
+2018/19,Proportion of informal carers by characteristics,Male,,,35-49 hours,,Percentage (%),Units,Normal value,6
+2017/18,Proportion of informal carers by characteristics,,,,35-49 hours,,Percentage (%),Units,Normal value,6
+2017/18,Proportion of informal carers by characteristics,Female,,,35-49 hours,,Percentage (%),Units,Normal value,6
+2017/18,Proportion of informal carers by characteristics,Male,,,35-49 hours,,Percentage (%),Units,Normal value,6
+2016/17,Proportion of informal carers by characteristics,,,,35-49 hours,,Percentage (%),Units,Normal value,5
+2016/17,Proportion of informal carers by characteristics,Female,,,35-49 hours,,Percentage (%),Units,Normal value,6
+2016/17,Proportion of informal carers by characteristics,Male,,,35-49 hours,,Percentage (%),Units,Normal value,5
+2015/16,Proportion of informal carers by characteristics,,,,35-49 hours,,Percentage (%),Units,Normal value,5
+2015/16,Proportion of informal carers by characteristics,Female,,,35-49 hours,,Percentage (%),Units,Normal value,5
+2015/16,Proportion of informal carers by characteristics,Male,,,35-49 hours,,Percentage (%),Units,Normal value,4
+2014/15,Proportion of informal carers by characteristics,,,,35-49 hours,,Percentage (%),Units,Normal value,5
+2014/15,Proportion of informal carers by characteristics,Female,,,35-49 hours,,Percentage (%),Units,Normal value,5
+2014/15,Proportion of informal carers by characteristics,Male,,,35-49 hours,,Percentage (%),Units,Normal value,4
+2013/14,Proportion of informal carers by characteristics,,,,35-49 hours,,Percentage (%),Units,Normal value,5
+2013/14,Proportion of informal carers by characteristics,Female,,,35-49 hours,,Percentage (%),Units,Normal value,5
+2013/14,Proportion of informal carers by characteristics,Male,,,35-49 hours,,Percentage (%),Units,Normal value,5
+2012/13,Proportion of informal carers by characteristics,,,,35-50 hours,,Percentage (%),Units,Normal value,5
+2012/13,Proportion of informal carers by characteristics,Female,,,35-50 hours,,Percentage (%),Units,Normal value,5
+2012/13,Proportion of informal carers by characteristics,Male,,,35-50 hours,,Percentage (%),Units,Normal value,5
+2011/12,Proportion of informal carers by characteristics,,,,35-50 hours,,Percentage (%),Units,Normal value,4
+2011/12,Proportion of informal carers by characteristics,Female,,,35-50 hours,,Percentage (%),Units,Normal value,5
+2011/12,Proportion of informal carers by characteristics,Male,,,35-50 hours,,Percentage (%),Units,Normal value,3
+2010/11,Proportion of informal carers by characteristics,,,,35-50 hours,,Percentage (%),Units,Normal value,4
+2010/11,Proportion of informal carers by characteristics,Female,,,35-50 hours,,Percentage (%),Units,Normal value,4
+2010/11,Proportion of informal carers by characteristics,Male,,,35-50 hours,,Percentage (%),Units,Normal value,5
+2020/21,Proportion of informal carers by characteristics,,,,50 or more hours,,Percentage (%),Units,Normal value,16
+2020/21,Proportion of informal carers by characteristics,Female,,,50 or more hours,,Percentage (%),Units,Normal value,16
+2020/21,Proportion of informal carers by characteristics,Male,,,50 or more hours,,Percentage (%),Units,Normal value,15
+2019/20,Proportion of informal carers by characteristics,,,,50 or more hours,,Percentage (%),Units,Normal value,15
+2019/20,Proportion of informal carers by characteristics,Female,,,50 or more hours,,Percentage (%),Units,Normal value,15
+2019/20,Proportion of informal carers by characteristics,Male,,,50 or more hours,,Percentage (%),Units,Normal value,14
+2018/19,Proportion of informal carers by characteristics,,,,50 or more hours,,Percentage (%),Units,Normal value,14
+2018/19,Proportion of informal carers by characteristics,Female,,,50 or more hours,,Percentage (%),Units,Normal value,14
+2018/19,Proportion of informal carers by characteristics,Male,,,50 or more hours,,Percentage (%),Units,Normal value,14
+2017/18,Proportion of informal carers by characteristics,,,,50 or more hours,,Percentage (%),Units,Normal value,16
+2017/18,Proportion of informal carers by characteristics,Female,,,50 or more hours,,Percentage (%),Units,Normal value,17
+2017/18,Proportion of informal carers by characteristics,Male,,,50 or more hours,,Percentage (%),Units,Normal value,14
+2016/17,Proportion of informal carers by characteristics,,,,50 or more hours,,Percentage (%),Units,Normal value,14
+2016/17,Proportion of informal carers by characteristics,Female,,,50 or more hours,,Percentage (%),Units,Normal value,15
+2016/17,Proportion of informal carers by characteristics,Male,,,50 or more hours,,Percentage (%),Units,Normal value,14
+2015/16,Proportion of informal carers by characteristics,,,,50 or more hours,,Percentage (%),Units,Normal value,13
+2015/16,Proportion of informal carers by characteristics,Female,,,50 or more hours,,Percentage (%),Units,Normal value,13
+2015/16,Proportion of informal carers by characteristics,Male,,,50 or more hours,,Percentage (%),Units,Normal value,14
+2014/15,Proportion of informal carers by characteristics,,,,50 or more hours,,Percentage (%),Units,Normal value,13
+2014/15,Proportion of informal carers by characteristics,Female,,,50 or more hours,,Percentage (%),Units,Normal value,14
+2014/15,Proportion of informal carers by characteristics,Male,,,50 or more hours,,Percentage (%),Units,Normal value,11
+2013/14,Proportion of informal carers by characteristics,,,,50 or more hours,,Percentage (%),Units,Normal value,13
+2013/14,Proportion of informal carers by characteristics,Female,,,50 or more hours,,Percentage (%),Units,Normal value,14
+2013/14,Proportion of informal carers by characteristics,Male,,,50 or more hours,,Percentage (%),Units,Normal value,11
+2012/13,Proportion of informal carers by characteristics,,,,50 or more hours,,Percentage (%),Units,Normal value,14
+2012/13,Proportion of informal carers by characteristics,Female,,,50 or more hours,,Percentage (%),Units,Normal value,14
+2012/13,Proportion of informal carers by characteristics,Male,,,50 or more hours,,Percentage (%),Units,Normal value,14
+2011/12,Proportion of informal carers by characteristics,,,,50 or more hours,,Percentage (%),Units,Normal value,13
+2011/12,Proportion of informal carers by characteristics,Female,,,50 or more hours,,Percentage (%),Units,Normal value,14
+2011/12,Proportion of informal carers by characteristics,Male,,,50 or more hours,,Percentage (%),Units,Normal value,12
+2010/11,Proportion of informal carers by characteristics,,,,50 or more hours,,Percentage (%),Units,Normal value,12
+2010/11,Proportion of informal carers by characteristics,Female,,,50 or more hours,,Percentage (%),Units,Normal value,13
+2010/11,Proportion of informal carers by characteristics,Male,,,50 or more hours,,Percentage (%),Units,Normal value,12
+2019/20,Proportion of informal carers by characteristics,,,,Unknown,,Percentage (%),Units,Normal value,1
+2019/20,Proportion of informal carers by characteristics,Female,,,Unknown,,Percentage (%),Units,Missing value,1
+2019/20,Proportion of informal carers by characteristics,Male,,,Unknown,,Percentage (%),Units,Missing value,
+2018/19,Proportion of informal carers by characteristics,,,,Unknown,,Percentage (%),Units,Missing value,
+2018/19,Proportion of informal carers by characteristics,Female,,,Unknown,,Percentage (%),Units,Missing value,
+2018/19,Proportion of informal carers by characteristics,Male,,,Unknown,,Percentage (%),Units,Missing value,
+2017/18,Proportion of informal carers by characteristics,,,,Unknown,,Percentage (%),Units,Normal value,1
+2017/18,Proportion of informal carers by characteristics,Female,,,Unknown,,Percentage (%),Units,Normal value,1
+2017/18,Proportion of informal carers by characteristics,Male,,,Unknown,,Percentage (%),Units,Missing value,1
+2016/17,Proportion of informal carers by characteristics,,,,Unknown,,Percentage (%),Units,Missing value,
+2016/17,Proportion of informal carers by characteristics,Female,,,Unknown,,Percentage (%),Units,Missing value,
+2016/17,Proportion of informal carers by characteristics,Male,,,Unknown,,Percentage (%),Units,Missing value,
+2015/16,Proportion of informal carers by characteristics,,,,Unknown,,Percentage (%),Units,Missing value,
+2015/16,Proportion of informal carers by characteristics,Female,,,Unknown,,Percentage (%),Units,Missing value,
+2015/16,Proportion of informal carers by characteristics,Male,,,Unknown,,Percentage (%),Units,Missing value,
+2014/15,Proportion of informal carers by characteristics,,,,Unknown,,Percentage (%),Units,Missing value,
+2014/15,Proportion of informal carers by characteristics,Female,,,Unknown,,Percentage (%),Units,Missing value,
+2014/15,Proportion of informal carers by characteristics,Male,,,Unknown,,Percentage (%),Units,Missing value,
+2013/14,Proportion of informal carers by characteristics,,,,Unknown,,Percentage (%),Units,Missing value,
+2013/14,Proportion of informal carers by characteristics,Female,,,Unknown,,Percentage (%),Units,Missing value,
+2013/14,Proportion of informal carers by characteristics,Male,,,Unknown,,Percentage (%),Units,Missing value,
+2012/13,Proportion of informal carers by characteristics,,,,Unknown,,Percentage (%),Units,Missing value,
+2012/13,Proportion of informal carers by characteristics,Female,,,Unknown,,Percentage (%),Units,Missing value,
+2012/13,Proportion of informal carers by characteristics,Male,,,Unknown,,Percentage (%),Units,Missing value,
+2011/12,Proportion of informal carers by characteristics,,,,Unknown,,Percentage (%),Units,Missing value,
+2011/12,Proportion of informal carers by characteristics,Female,,,Unknown,,Percentage (%),Units,Missing value,
+2011/12,Proportion of informal carers by characteristics,Male,,,Unknown,,Percentage (%),Units,Missing value,
+2010/11,Proportion of informal carers by characteristics,,,,Unknown,,Percentage (%),Units,Missing value,
+2010/11,Proportion of informal carers by characteristics,Female,,,Unknown,,Percentage (%),Units,Missing value,
+2010/11,Proportion of informal carers by characteristics,Male,,,Unknown,,Percentage (%),Units,Missing value,
+2020/21,Proportion of informal carers by characteristics,,,,"Varies, 35 or more hours",,Percentage (%),Units,Normal value,13
+2020/21,Proportion of informal carers by characteristics,Female,,,"Varies, 35 or more hours",,Percentage (%),Units,Normal value,12
+2020/21,Proportion of informal carers by characteristics,Male,,,"Varies, 35 or more hours",,Percentage (%),Units,Normal value,14
+2019/20,Proportion of informal carers by characteristics,,,,"Varies, 35 or more hours",,Percentage (%),Units,Normal value,11
+2019/20,Proportion of informal carers by characteristics,Female,,,"Varies, 35 or more hours",,Percentage (%),Units,Normal value,11
+2019/20,Proportion of informal carers by characteristics,Male,,,"Varies, 35 or more hours",,Percentage (%),Units,Normal value,12
+2018/19,Proportion of informal carers by characteristics,,,,"Varies, 35 or more hours",,Percentage (%),Units,Normal value,12
+2018/19,Proportion of informal carers by characteristics,Female,,,"Varies, 35 or more hours",,Percentage (%),Units,Normal value,12
+2018/19,Proportion of informal carers by characteristics,Male,,,"Varies, 35 or more hours",,Percentage (%),Units,Normal value,14
+2017/18,Proportion of informal carers by characteristics,,,,"Varies, 35 or more hours",,Percentage (%),Units,Normal value,11
+2017/18,Proportion of informal carers by characteristics,Female,,,"Varies, 35 or more hours",,Percentage (%),Units,Normal value,10
+2017/18,Proportion of informal carers by characteristics,Male,,,"Varies, 35 or more hours",,Percentage (%),Units,Normal value,12
+2016/17,Proportion of informal carers by characteristics,,,,"Varies, 35 or more hours",,Percentage (%),Units,Normal value,10
+2016/17,Proportion of informal carers by characteristics,Female,,,"Varies, 35 or more hours",,Percentage (%),Units,Normal value,10
+2016/17,Proportion of informal carers by characteristics,Male,,,"Varies, 35 or more hours",,Percentage (%),Units,Normal value,10
+2015/16,Proportion of informal carers by characteristics,,,,"Varies, 35 or more hours",,Percentage (%),Units,Normal value,11
+2015/16,Proportion of informal carers by characteristics,Female,,,"Varies, 35 or more hours",,Percentage (%),Units,Normal value,11
+2015/16,Proportion of informal carers by characteristics,Male,,,"Varies, 35 or more hours",,Percentage (%),Units,Normal value,11
+2014/15,Proportion of informal carers by characteristics,,,,"Varies, 35 or more hours",,Percentage (%),Units,Normal value,9
+2014/15,Proportion of informal carers by characteristics,Female,,,"Varies, 35 or more hours",,Percentage (%),Units,Normal value,9
+2014/15,Proportion of informal carers by characteristics,Male,,,"Varies, 35 or more hours",,Percentage (%),Units,Normal value,10
+2020/21,Proportion of informal carers by characteristics,,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,5
+2020/21,Proportion of informal carers by characteristics,Female,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,5
+2020/21,Proportion of informal carers by characteristics,Male,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,6
+2019/20,Proportion of informal carers by characteristics,,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,5
+2019/20,Proportion of informal carers by characteristics,Female,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,6
+2019/20,Proportion of informal carers by characteristics,Male,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,5
+2018/19,Proportion of informal carers by characteristics,,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,5
+2018/19,Proportion of informal carers by characteristics,Female,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,5
+2018/19,Proportion of informal carers by characteristics,Male,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,5
+2017/18,Proportion of informal carers by characteristics,,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,6
+2017/18,Proportion of informal carers by characteristics,Female,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,6
+2017/18,Proportion of informal carers by characteristics,Male,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,7
+2016/17,Proportion of informal carers by characteristics,,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,5
+2016/17,Proportion of informal carers by characteristics,Female,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,5
+2016/17,Proportion of informal carers by characteristics,Male,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,6
+2015/16,Proportion of informal carers by characteristics,,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,6
+2015/16,Proportion of informal carers by characteristics,Female,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,5
+2015/16,Proportion of informal carers by characteristics,Male,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,6
+2014/15,Proportion of informal carers by characteristics,,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,6
+2014/15,Proportion of informal carers by characteristics,Female,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,6
+2014/15,Proportion of informal carers by characteristics,Male,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,6
+2013/14,Proportion of informal carers by characteristics,,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,6
+2013/14,Proportion of informal carers by characteristics,Female,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,6
+2013/14,Proportion of informal carers by characteristics,Male,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,6
+2012/13,Proportion of informal carers by characteristics,,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,5
+2012/13,Proportion of informal carers by characteristics,Female,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,4
+2012/13,Proportion of informal carers by characteristics,Male,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,7
+2011/12,Proportion of informal carers by characteristics,,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,6
+2011/12,Proportion of informal carers by characteristics,Female,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,6
+2011/12,Proportion of informal carers by characteristics,Male,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,5
+2010/11,Proportion of informal carers by characteristics,,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,5
+2010/11,Proportion of informal carers by characteristics,Female,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,4
+2010/11,Proportion of informal carers by characteristics,Male,,,"Varies, less than 35 hours",,Percentage (%),Units,Normal value,6
+2013/14,Proportion of informal carers by characteristics,,,,"Varies, more than 35 hours",,Percentage (%),Units,Normal value,10
+2013/14,Proportion of informal carers by characteristics,Female,,,"Varies, more than 35 hours",,Percentage (%),Units,Normal value,9
+2013/14,Proportion of informal carers by characteristics,Male,,,"Varies, more than 35 hours",,Percentage (%),Units,Normal value,11
+2012/13,Proportion of informal carers by characteristics,,,,"Varies, more than 35 hours",,Percentage (%),Units,Normal value,9
+2012/13,Proportion of informal carers by characteristics,Female,,,"Varies, more than 35 hours",,Percentage (%),Units,Normal value,9
+2012/13,Proportion of informal carers by characteristics,Male,,,"Varies, more than 35 hours",,Percentage (%),Units,Normal value,8
+2011/12,Proportion of informal carers by characteristics,,,,"Varies, more than 35 hours",,Percentage (%),Units,Normal value,9
+2011/12,Proportion of informal carers by characteristics,Female,,,"Varies, more than 35 hours",,Percentage (%),Units,Normal value,9
+2011/12,Proportion of informal carers by characteristics,Male,,,"Varies, more than 35 hours",,Percentage (%),Units,Normal value,9
+2010/11,Proportion of informal carers by characteristics,,,,"Varies, more than 35 hours",,Percentage (%),Units,Normal value,11
+2010/11,Proportion of informal carers by characteristics,Female,,,"Varies, more than 35 hours",,Percentage (%),Units,Normal value,12
+2010/11,Proportion of informal carers by characteristics,Male,,,"Varies, more than 35 hours",,Percentage (%),Units,Normal value,11
+2015/16,Proportion of population who are informal carers,,0-10,,,,Percentage (%),Units,Missing value,
+2015/16,Proportion of population who are informal carers,Female,0-10,,,,Percentage (%),Units,Missing value,
+2015/16,Proportion of population who are informal carers,Male,0-10,,,,Percentage (%),Units,Missing value,
+2014/15,Proportion of population who are informal carers,,0-10,,,,Percentage (%),Units,Missing value,
+2014/15,Proportion of population who are informal carers,Female,0-10,,,,Percentage (%),Units,Missing value,
+2014/15,Proportion of population who are informal carers,Male,0-10,,,,Percentage (%),Units,Missing value,
+2020/21,Proportion of population who are informal carers,,0-15,,,,Percentage (%),Units,Missing value,
+2020/21,Proportion of population who are informal carers,Female,0-15,,,,Percentage (%),Units,Normal value,
+2020/21,Proportion of population who are informal carers,Male,0-15,,,,Percentage (%),Units,Missing value,
+2019/20,Proportion of population who are informal carers,,0-15,,,,Percentage (%),Units,Missing value,
+2019/20,Proportion of population who are informal carers,Female,0-15,,,,Percentage (%),Units,Missing value,1
+2019/20,Proportion of population who are informal carers,Male,0-15,,,,Percentage (%),Units,Missing value,
+2018/19,Proportion of population who are informal carers,,0-15,,,,Percentage (%),Units,Missing value,
+2018/19,Proportion of population who are informal carers,Female,0-15,,,,Percentage (%),Units,Missing value,1
+2018/19,Proportion of population who are informal carers,Male,0-15,,,,Percentage (%),Units,Missing value,
+2017/18,Proportion of population who are informal carers,,0-15,,,,Percentage (%),Units,Missing value,
+2017/18,Proportion of population who are informal carers,Female,0-15,,,,Percentage (%),Units,Missing value,
+2017/18,Proportion of population who are informal carers,Male,0-15,,,,Percentage (%),Units,Missing value,
+2016/17,Proportion of population who are informal carers,,0-15,,,,Percentage (%),Units,Missing value,1
+2016/17,Proportion of population who are informal carers,Female,0-15,,,,Percentage (%),Units,Missing value,1
+2016/17,Proportion of population who are informal carers,Male,0-15,,,,Percentage (%),Units,Missing value,1
+2013/14,Proportion of population who are informal carers,,0-15,,,,Percentage (%),Units,Normal value,1
+2013/14,Proportion of population who are informal carers,Female,0-15,,,,Percentage (%),Units,Normal value,1
+2013/14,Proportion of population who are informal carers,Male,0-15,,,,Percentage (%),Units,Normal value,0
+2015/16,Proportion of population who are informal carers,Female,11-15,,,,Percentage (%),Units,Normal value,1
+2015/16,Proportion of population who are informal carers,,11-15,,,,Percentage (%),Units,Missing value,1
+2015/16,Proportion of population who are informal carers,Male,11-15,,,,Percentage (%),Units,Normal value,1
+2014/15,Proportion of population who are informal carers,,11-15,,,,Percentage (%),Units,Normal value,1
+2014/15,Proportion of population who are informal carers,Female,11-15,,,,Percentage (%),Units,Normal value,2
+2014/15,Proportion of population who are informal carers,Male,11-15,,,,Percentage (%),Units,Normal value,1
+2020/21,Proportion of population who are informal carers,,16-24,,,,Percentage (%),Units,Normal value,2
+2020/21,Proportion of population who are informal carers,Female,16-24,,,,Percentage (%),Units,Normal value,2
+2020/21,Proportion of population who are informal carers,Male,16-24,,,,Percentage (%),Units,Normal value,1
+2019/20,Proportion of population who are informal carers,,16-24,,,,Percentage (%),Units,Normal value,4
+2019/20,Proportion of population who are informal carers,Female,16-24,,,,Percentage (%),Units,Normal value,5
+2019/20,Proportion of population who are informal carers,Male,16-24,,,,Percentage (%),Units,Normal value,3
+2018/19,Proportion of population who are informal carers,,16-24,,,,Percentage (%),Units,Normal value,3
+2018/19,Proportion of population who are informal carers,Female,16-24,,,,Percentage (%),Units,Normal value,4
+2018/19,Proportion of population who are informal carers,Male,16-24,,,,Percentage (%),Units,Normal value,2
+2017/18,Proportion of population who are informal carers,,16-24,,,,Percentage (%),Units,Normal value,3
+2017/18,Proportion of population who are informal carers,Female,16-24,,,,Percentage (%),Units,Normal value,4
+2017/18,Proportion of population who are informal carers,Male,16-24,,,,Percentage (%),Units,Normal value,3
+2016/17,Proportion of population who are informal carers,,16-24,,,,Percentage (%),Units,Normal value,4
+2016/17,Proportion of population who are informal carers,Female,16-24,,,,Percentage (%),Units,Normal value,5
+2016/17,Proportion of population who are informal carers,Male,16-24,,,,Percentage (%),Units,Normal value,4
+2015/16,Proportion of population who are informal carers,,16-24,,,,Percentage (%),Units,Normal value,3
+2015/16,Proportion of population who are informal carers,Female,16-24,,,,Percentage (%),Units,Normal value,4
+2015/16,Proportion of population who are informal carers,Male,16-24,,,,Percentage (%),Units,Normal value,2
+2014/15,Proportion of population who are informal carers,,16-24,,,,Percentage (%),Units,Normal value,4
+2014/15,Proportion of population who are informal carers,Female,16-24,,,,Percentage (%),Units,Normal value,4
+2014/15,Proportion of population who are informal carers,Male,16-24,,,,Percentage (%),Units,Normal value,4
+2013/14,Proportion of population who are informal carers,,16-24,,,,Percentage (%),Units,Normal value,4
+2013/14,Proportion of population who are informal carers,Female,16-24,,,,Percentage (%),Units,Normal value,6
+2013/14,Proportion of population who are informal carers,Male,16-24,,,,Percentage (%),Units,Normal value,3
+2020/21,Proportion of population who are informal carers,,25-34,,,,Percentage (%),Units,Normal value,5
+2020/21,Proportion of population who are informal carers,Female,25-34,,,,Percentage (%),Units,Normal value,6
+2020/21,Proportion of population who are informal carers,Male,25-34,,,,Percentage (%),Units,Normal value,4
+2019/20,Proportion of population who are informal carers,,25-34,,,,Percentage (%),Units,Normal value,4
+2019/20,Proportion of population who are informal carers,Female,25-34,,,,Percentage (%),Units,Normal value,6
+2019/20,Proportion of population who are informal carers,Male,25-34,,,,Percentage (%),Units,Normal value,3
+2018/19,Proportion of population who are informal carers,,25-34,,,,Percentage (%),Units,Normal value,4
+2018/19,Proportion of population who are informal carers,Female,25-34,,,,Percentage (%),Units,Normal value,6
+2018/19,Proportion of population who are informal carers,Male,25-34,,,,Percentage (%),Units,Normal value,3
+2017/18,Proportion of population who are informal carers,,25-34,,,,Percentage (%),Units,Normal value,4
+2017/18,Proportion of population who are informal carers,Female,25-34,,,,Percentage (%),Units,Normal value,6
+2017/18,Proportion of population who are informal carers,Male,25-34,,,,Percentage (%),Units,Normal value,3
+2016/17,Proportion of population who are informal carers,,25-34,,,,Percentage (%),Units,Normal value,5
+2016/17,Proportion of population who are informal carers,Female,25-34,,,,Percentage (%),Units,Normal value,7
+2016/17,Proportion of population who are informal carers,Male,25-34,,,,Percentage (%),Units,Normal value,4
+2015/16,Proportion of population who are informal carers,,25-34,,,,Percentage (%),Units,Normal value,5
+2015/16,Proportion of population who are informal carers,Female,25-34,,,,Percentage (%),Units,Normal value,6
+2015/16,Proportion of population who are informal carers,Male,25-34,,,,Percentage (%),Units,Normal value,3
+2014/15,Proportion of population who are informal carers,,25-34,,,,Percentage (%),Units,Normal value,5
+2014/15,Proportion of population who are informal carers,Female,25-34,,,,Percentage (%),Units,Normal value,6
+2014/15,Proportion of population who are informal carers,Male,25-34,,,,Percentage (%),Units,Normal value,4
+2013/14,Proportion of population who are informal carers,,25-34,,,,Percentage (%),Units,Normal value,5
+2013/14,Proportion of population who are informal carers,Female,25-34,,,,Percentage (%),Units,Normal value,6
+2013/14,Proportion of population who are informal carers,Male,25-34,,,,Percentage (%),Units,Normal value,4
+2020/21,Proportion of population who are informal carers,,35-44,,,,Percentage (%),Units,Normal value,6
+2020/21,Proportion of population who are informal carers,Female,35-44,,,,Percentage (%),Units,Normal value,6
+2020/21,Proportion of population who are informal carers,Male,35-44,,,,Percentage (%),Units,Normal value,5
+2019/20,Proportion of population who are informal carers,,35-44,,,,Percentage (%),Units,Normal value,7
+2019/20,Proportion of population who are informal carers,Female,35-44,,,,Percentage (%),Units,Normal value,9
+2019/20,Proportion of population who are informal carers,Male,35-44,,,,Percentage (%),Units,Normal value,5
+2018/19,Proportion of population who are informal carers,,35-44,,,,Percentage (%),Units,Normal value,8
+2018/19,Proportion of population who are informal carers,Female,35-44,,,,Percentage (%),Units,Normal value,10
+2018/19,Proportion of population who are informal carers,Male,35-44,,,,Percentage (%),Units,Normal value,5
+2017/18,Proportion of population who are informal carers,,35-44,,,,Percentage (%),Units,Normal value,7
+2017/18,Proportion of population who are informal carers,Female,35-44,,,,Percentage (%),Units,Normal value,9
+2017/18,Proportion of population who are informal carers,Male,35-44,,,,Percentage (%),Units,Normal value,5
+2016/17,Proportion of population who are informal carers,,35-44,,,,Percentage (%),Units,Normal value,9
+2016/17,Proportion of population who are informal carers,Female,35-44,,,,Percentage (%),Units,Normal value,12
+2016/17,Proportion of population who are informal carers,Male,35-44,,,,Percentage (%),Units,Normal value,7
+2015/16,Proportion of population who are informal carers,,35-44,,,,Percentage (%),Units,Normal value,8
+2015/16,Proportion of population who are informal carers,Female,35-44,,,,Percentage (%),Units,Normal value,10
+2015/16,Proportion of population who are informal carers,Male,35-44,,,,Percentage (%),Units,Normal value,6
+2014/15,Proportion of population who are informal carers,,35-44,,,,Percentage (%),Units,Normal value,8
+2014/15,Proportion of population who are informal carers,Female,35-44,,,,Percentage (%),Units,Normal value,11
+2014/15,Proportion of population who are informal carers,Male,35-44,,,,Percentage (%),Units,Normal value,6
+2013/14,Proportion of population who are informal carers,,35-44,,,,Percentage (%),Units,Normal value,9
+2013/14,Proportion of population who are informal carers,Female,35-44,,,,Percentage (%),Units,Normal value,12
+2013/14,Proportion of population who are informal carers,Male,35-44,,,,Percentage (%),Units,Normal value,7
+2020/21,Proportion of population who are informal carers,,45-54,,,,Percentage (%),Units,Normal value,13
+2020/21,Proportion of population who are informal carers,Female,45-54,,,,Percentage (%),Units,Normal value,16
+2020/21,Proportion of population who are informal carers,Male,45-54,,,,Percentage (%),Units,Normal value,10
+2019/20,Proportion of population who are informal carers,,45-54,,,,Percentage (%),Units,Normal value,11
+2019/20,Proportion of population who are informal carers,Female,45-54,,,,Percentage (%),Units,Normal value,13
+2019/20,Proportion of population who are informal carers,Male,45-54,,,,Percentage (%),Units,Normal value,9
+2018/19,Proportion of population who are informal carers,,45-54,,,,Percentage (%),Units,Normal value,12
+2018/19,Proportion of population who are informal carers,Female,45-54,,,,Percentage (%),Units,Normal value,14
+2018/19,Proportion of population who are informal carers,Male,45-54,,,,Percentage (%),Units,Normal value,9
+2017/18,Proportion of population who are informal carers,,45-54,,,,Percentage (%),Units,Normal value,11
+2017/18,Proportion of population who are informal carers,Female,45-54,,,,Percentage (%),Units,Normal value,14
+2017/18,Proportion of population who are informal carers,Male,45-54,,,,Percentage (%),Units,Normal value,9
+2016/17,Proportion of population who are informal carers,,45-54,,,,Percentage (%),Units,Normal value,15
+2016/17,Proportion of population who are informal carers,Female,45-54,,,,Percentage (%),Units,Normal value,18
+2016/17,Proportion of population who are informal carers,Male,45-54,,,,Percentage (%),Units,Normal value,12
+2015/16,Proportion of population who are informal carers,,45-54,,,,Percentage (%),Units,Normal value,13
+2015/16,Proportion of population who are informal carers,Female,45-54,,,,Percentage (%),Units,Normal value,16
+2015/16,Proportion of population who are informal carers,Male,45-54,,,,Percentage (%),Units,Normal value,10
+2014/15,Proportion of population who are informal carers,,45-54,,,,Percentage (%),Units,Normal value,15
+2014/15,Proportion of population who are informal carers,Female,45-54,,,,Percentage (%),Units,Normal value,18
+2014/15,Proportion of population who are informal carers,Male,45-54,,,,Percentage (%),Units,Normal value,11
+2013/14,Proportion of population who are informal carers,,45-54,,,,Percentage (%),Units,Normal value,14
+2013/14,Proportion of population who are informal carers,Female,45-54,,,,Percentage (%),Units,Normal value,17
+2013/14,Proportion of population who are informal carers,Male,45-54,,,,Percentage (%),Units,Normal value,11
+2020/21,Proportion of population who are informal carers,,55-64,,,,Percentage (%),Units,Normal value,13
+2020/21,Proportion of population who are informal carers,Female,55-64,,,,Percentage (%),Units,Normal value,16
+2020/21,Proportion of population who are informal carers,Male,55-64,,,,Percentage (%),Units,Normal value,11
+2019/20,Proportion of population who are informal carers,,55-64,,,,Percentage (%),Units,Normal value,14
+2019/20,Proportion of population who are informal carers,Female,55-64,,,,Percentage (%),Units,Normal value,16
+2019/20,Proportion of population who are informal carers,Male,55-64,,,,Percentage (%),Units,Normal value,12
+2018/19,Proportion of population who are informal carers,,55-64,,,,Percentage (%),Units,Normal value,13
+2018/19,Proportion of population who are informal carers,Female,55-64,,,,Percentage (%),Units,Normal value,16
+2018/19,Proportion of population who are informal carers,Male,55-64,,,,Percentage (%),Units,Normal value,11
+2017/18,Proportion of population who are informal carers,,55-64,,,,Percentage (%),Units,Normal value,15
+2017/18,Proportion of population who are informal carers,Female,55-64,,,,Percentage (%),Units,Normal value,18
+2017/18,Proportion of population who are informal carers,Male,55-64,,,,Percentage (%),Units,Normal value,11
+2016/17,Proportion of population who are informal carers,,55-64,,,,Percentage (%),Units,Normal value,17
+2016/17,Proportion of population who are informal carers,Female,55-64,,,,Percentage (%),Units,Normal value,20
+2016/17,Proportion of population who are informal carers,Male,55-64,,,,Percentage (%),Units,Normal value,14
+2015/16,Proportion of population who are informal carers,,55-64,,,,Percentage (%),Units,Normal value,16
+2015/16,Proportion of population who are informal carers,Female,55-64,,,,Percentage (%),Units,Normal value,19
+2015/16,Proportion of population who are informal carers,Male,55-64,,,,Percentage (%),Units,Normal value,13
+2014/15,Proportion of population who are informal carers,,55-64,,,,Percentage (%),Units,Normal value,15
+2014/15,Proportion of population who are informal carers,Female,55-64,,,,Percentage (%),Units,Normal value,18
+2014/15,Proportion of population who are informal carers,Male,55-64,,,,Percentage (%),Units,Normal value,12
+2013/14,Proportion of population who are informal carers,,55-64,,,,Percentage (%),Units,Normal value,16
+2013/14,Proportion of population who are informal carers,Female,55-64,,,,Percentage (%),Units,Normal value,20
+2013/14,Proportion of population who are informal carers,Male,55-64,,,,Percentage (%),Units,Normal value,12
+2020/21,Proportion of population who are informal carers,,65-74,,,,Percentage (%),Units,Normal value,8
+2020/21,Proportion of population who are informal carers,Female,65-74,,,,Percentage (%),Units,Normal value,8
+2020/21,Proportion of population who are informal carers,Male,65-74,,,,Percentage (%),Units,Normal value,8
+2019/20,Proportion of population who are informal carers,,65-74,,,,Percentage (%),Units,Normal value,10
+2019/20,Proportion of population who are informal carers,Female,65-74,,,,Percentage (%),Units,Normal value,11
+2019/20,Proportion of population who are informal carers,Male,65-74,,,,Percentage (%),Units,Normal value,9
+2018/19,Proportion of population who are informal carers,,65-74,,,,Percentage (%),Units,Normal value,10
+2018/19,Proportion of population who are informal carers,Female,65-74,,,,Percentage (%),Units,Normal value,10
+2018/19,Proportion of population who are informal carers,Male,65-74,,,,Percentage (%),Units,Normal value,9
+2017/18,Proportion of population who are informal carers,,65-74,,,,Percentage (%),Units,Normal value,11
+2017/18,Proportion of population who are informal carers,Female,65-74,,,,Percentage (%),Units,Normal value,12
+2017/18,Proportion of population who are informal carers,Male,65-74,,,,Percentage (%),Units,Normal value,9
+2016/17,Proportion of population who are informal carers,,65-74,,,,Percentage (%),Units,Normal value,12
+2016/17,Proportion of population who are informal carers,Female,65-74,,,,Percentage (%),Units,Normal value,13
+2016/17,Proportion of population who are informal carers,Male,65-74,,,,Percentage (%),Units,Normal value,11
+2015/16,Proportion of population who are informal carers,,65-74,,,,Percentage (%),Units,Normal value,12
+2015/16,Proportion of population who are informal carers,Female,65-74,,,,Percentage (%),Units,Normal value,13
+2015/16,Proportion of population who are informal carers,Male,65-74,,,,Percentage (%),Units,Normal value,11
+2014/15,Proportion of population who are informal carers,,65-74,,,,Percentage (%),Units,Normal value,12
+2014/15,Proportion of population who are informal carers,Female,65-74,,,,Percentage (%),Units,Normal value,13
+2014/15,Proportion of population who are informal carers,Male,65-74,,,,Percentage (%),Units,Normal value,10
+2013/14,Proportion of population who are informal carers,,65-74,,,,Percentage (%),Units,Normal value,12
+2013/14,Proportion of population who are informal carers,Female,65-74,,,,Percentage (%),Units,Normal value,13
+2013/14,Proportion of population who are informal carers,Male,65-74,,,,Percentage (%),Units,Normal value,11
+2020/21,Proportion of population who are informal carers,,75-84,,,,Percentage (%),Units,Normal value,6
+2020/21,Proportion of population who are informal carers,Female,75-84,,,,Percentage (%),Units,Normal value,7
+2020/21,Proportion of population who are informal carers,Male,75-84,,,,Percentage (%),Units,Normal value,6
+2019/20,Proportion of population who are informal carers,,75-84,,,,Percentage (%),Units,Normal value,8
+2019/20,Proportion of population who are informal carers,Female,75-84,,,,Percentage (%),Units,Normal value,7
+2019/20,Proportion of population who are informal carers,Male,75-84,,,,Percentage (%),Units,Normal value,9
+2018/19,Proportion of population who are informal carers,,75-84,,,,Percentage (%),Units,Normal value,9
+2018/19,Proportion of population who are informal carers,Female,75-84,,,,Percentage (%),Units,Normal value,8
+2018/19,Proportion of population who are informal carers,Male,75-84,,,,Percentage (%),Units,Normal value,9
+2017/18,Proportion of population who are informal carers,,75-84,,,,Percentage (%),Units,Normal value,9
+2017/18,Proportion of population who are informal carers,Female,75-84,,,,Percentage (%),Units,Normal value,8
+2017/18,Proportion of population who are informal carers,Male,75-84,,,,Percentage (%),Units,Normal value,11
+2016/17,Proportion of population who are informal carers,,75-84,,,,Percentage (%),Units,Normal value,9
+2016/17,Proportion of population who are informal carers,Female,75-84,,,,Percentage (%),Units,Normal value,9
+2016/17,Proportion of population who are informal carers,Male,75-84,,,,Percentage (%),Units,Normal value,8
+2015/16,Proportion of population who are informal carers,,75-84,,,,Percentage (%),Units,Normal value,10
+2015/16,Proportion of population who are informal carers,Female,75-84,,,,Percentage (%),Units,Normal value,9
+2015/16,Proportion of population who are informal carers,Male,75-84,,,,Percentage (%),Units,Normal value,10
+2014/15,Proportion of population who are informal carers,,75-84,,,,Percentage (%),Units,Normal value,11
+2014/15,Proportion of population who are informal carers,Female,75-84,,,,Percentage (%),Units,Normal value,11
+2014/15,Proportion of population who are informal carers,Male,75-84,,,,Percentage (%),Units,Normal value,11
+2013/14,Proportion of population who are informal carers,,75-84,,,,Percentage (%),Units,Normal value,10
+2013/14,Proportion of population who are informal carers,Female,75-84,,,,Percentage (%),Units,Normal value,9
+2013/14,Proportion of population who are informal carers,Male,75-84,,,,Percentage (%),Units,Normal value,11
+2020/21,Proportion of population who are informal carers,,85+,,,,Percentage (%),Units,Normal value,5
+2020/21,Proportion of population who are informal carers,Female,85+,,,,Percentage (%),Units,Normal value,4
+2020/21,Proportion of population who are informal carers,Male,85+,,,,Percentage (%),Units,Normal value,6
+2019/20,Proportion of population who are informal carers,,85+,,,,Percentage (%),Units,Normal value,4
+2019/20,Proportion of population who are informal carers,Female,85+,,,,Percentage (%),Units,Normal value,3
+2019/20,Proportion of population who are informal carers,Male,85+,,,,Percentage (%),Units,Normal value,7
+2018/19,Proportion of population who are informal carers,,85+,,,,Percentage (%),Units,Normal value,6
+2018/19,Proportion of population who are informal carers,Female,85+,,,,Percentage (%),Units,Normal value,4
+2018/19,Proportion of population who are informal carers,Male,85+,,,,Percentage (%),Units,Normal value,8
+2017/18,Proportion of population who are informal carers,,85+,,,,Percentage (%),Units,Normal value,5
+2017/18,Proportion of population who are informal carers,Female,85+,,,,Percentage (%),Units,Normal value,3
+2017/18,Proportion of population who are informal carers,Male,85+,,,,Percentage (%),Units,Normal value,7
+2016/17,Proportion of population who are informal carers,,85+,,,,Percentage (%),Units,Normal value,8
+2016/17,Proportion of population who are informal carers,Female,85+,,,,Percentage (%),Units,Normal value,5
+2016/17,Proportion of population who are informal carers,Male,85+,,,,Percentage (%),Units,Normal value,12
+2015/16,Proportion of population who are informal carers,,85+,,,,Percentage (%),Units,Normal value,5
+2015/16,Proportion of population who are informal carers,Female,85+,,,,Percentage (%),Units,Missing value,2
+2015/16,Proportion of population who are informal carers,Male,85+,,,,Percentage (%),Units,Normal value,11
+2014/15,Proportion of population who are informal carers,,85+,,,,Percentage (%),Units,Normal value,4
+2014/15,Proportion of population who are informal carers,Female,85+,,,,Percentage (%),Units,Normal value,3
+2014/15,Proportion of population who are informal carers,,85+,,,,Percentage (%),Units,Normal value,7
+2013/14,Proportion of population who are informal carers,,85+,,,,Percentage (%),Units,Normal value,5
+2013/14,Proportion of population who are informal carers,Female,85+,,,,Percentage (%),Units,Missing value,3
+2013/14,Proportion of population who are informal carers,Male,85+,,,,Percentage (%),Units,Missing value,8
+2004/05,Proportion of population who are informal carers,,,,,,Percentage (%),Units,Normal value,8
+2005/06,Proportion of population who are informal carers,,,,,,Percentage (%),Units,Normal value,9
+2006/07,Proportion of population who are informal carers,,,,,,Percentage (%),Units,Normal value,9
+2007/08,Proportion of population who are informal carers,,,,,,Percentage (%),Units,Normal value,8
+2008/09,Proportion of population who are informal carers,,,,,,Percentage (%),Units,Normal value,8
+2009/10,Proportion of population who are informal carers,,,,,,Percentage (%),Units,Normal value,8
+2010/11,Proportion of population who are informal carers,,,,,,Percentage (%),Units,Normal value,8
+2011/12,Proportion of population who are informal carers,,,,,,Percentage (%),Units,Normal value,8
+2012/13,Proportion of population who are informal carers,,,,,,Percentage (%),Units,Normal value,9
+2013/14,Proportion of population who are informal carers,,,,,,Percentage (%),Units,Normal value,8
+2014/15,Proportion of population who are informal carers,,,,,,Percentage (%),Units,Normal value,8
+2015/16,Proportion of population who are informal carers,,,,,,Percentage (%),Units,Normal value,8
+2016/17,Proportion of population who are informal carers,,,,,,Percentage (%),Units,Normal value,8
+2017/18,Proportion of population who are informal carers,,,,,,Percentage (%),Units,Normal value,7
+2018/19,Proportion of population who are informal carers,,,,,,Percentage (%),Units,Normal value,7
+2019/20,Proportion of population who are informal carers,,,,,,Percentage (%),Units,Normal value,7
+2020/21,Proportion of population who are informal carers,,,,,,Percentage (%),Units,Normal value,6
+2004/05,Proportion of population who are informal carers,Female,,,,,Percentage (%),Units,Normal value,10
+2005/06,Proportion of population who are informal carers,Female,,,,,Percentage (%),Units,Normal value,10
+2006/07,Proportion of population who are informal carers,Female,,,,,Percentage (%),Units,Normal value,10
+2007/08,Proportion of population who are informal carers,Female,,,,,Percentage (%),Units,Normal value,9
+2008/09,Proportion of population who are informal carers,Female,,,,,Percentage (%),Units,Normal value,9
+2009/10,Proportion of population who are informal carers,Female,,,,,Percentage (%),Units,Normal value,9
+2010/11,Proportion of population who are informal carers,Female,,,,,Percentage (%),Units,Normal value,9
+2011/12,Proportion of population who are informal carers,Female,,,,,Percentage (%),Units,Normal value,10
+2012/13,Proportion of population who are informal carers,Female,,,,,Percentage (%),Units,Normal value,10
+2013/14,Proportion of population who are informal carers,Female,,,,,Percentage (%),Units,Normal value,10
+2014/15,Proportion of population who are informal carers,Female,,,,,Percentage (%),Units,Normal value,9
+2015/16,Proportion of population who are informal carers,Female,,,,,Percentage (%),Units,Normal value,9
+2016/17,Proportion of population who are informal carers,Female,,,,,Percentage (%),Units,Normal value,10
+2017/18,Proportion of population who are informal carers,Female,,,,,Percentage (%),Units,Normal value,8
+2018/19,Proportion of population who are informal carers,Female,,,,,Percentage (%),Units,Normal value,8
+2019/20,Proportion of population who are informal carers,Female,,,,,Percentage (%),Units,Normal value,8
+2020/21,Proportion of population who are informal carers,Female,,,,,Percentage (%),Units,Normal value,7
+2004/05,Proportion of population who are informal carers,Male,,,,,Percentage (%),Units,Normal value,7
+2005/06,Proportion of population who are informal carers,Male,,,,,Percentage (%),Units,Normal value,7
+2006/07,Proportion of population who are informal carers,Male,,,,,Percentage (%),Units,Normal value,7
+2007/08,Proportion of population who are informal carers,Male,,,,,Percentage (%),Units,Normal value,6
+2008/09,Proportion of population who are informal carers,Male,,,,,Percentage (%),Units,Normal value,7
+2009/10,Proportion of population who are informal carers,Male,,,,,Percentage (%),Units,Normal value,6
+2010/11,Proportion of population who are informal carers,Male,,,,,Percentage (%),Units,Normal value,7
+2011/12,Proportion of population who are informal carers,Male,,,,,Percentage (%),Units,Normal value,7
+2012/13,Proportion of population who are informal carers,Male,,,,,Percentage (%),Units,Normal value,7
+2013/14,Proportion of population who are informal carers,Male,,,,,Percentage (%),Units,Normal value,6
+2014/15,Proportion of population who are informal carers,Male,,,,,Percentage (%),Units,Normal value,7
+2015/16,Proportion of population who are informal carers,Male,,,,,Percentage (%),Units,Normal value,6
+2016/17,Proportion of population who are informal carers,Male,,,,,Percentage (%),Units,Normal value,7
+2017/18,Proportion of population who are informal carers,Male,,,,,Percentage (%),Units,Normal value,6
+2018/19,Proportion of population who are informal carers,Male,,,,,Percentage (%),Units,Normal value,6
+2019/20,Proportion of population who are informal carers,Male,,,,,Percentage (%),Units,Normal value,6
+2020/21,Proportion of population who are informal carers,Male,,,,,Percentage (%),Units,Normal value,5
+2020/21,Proportion of informal carers by characteristics,,,In employment (all),,,Percentage (%),Units,Normal value,53
+2020/21,Proportion of informal carers by characteristics,,,Unemployed,,,Percentage (%),Units,Normal value,2
+2020/21,Proportion of informal carers by characteristics,,,Retired,,,Percentage (%),Units,Normal value,20
+2020/21,Proportion of informal carers by characteristics,,,Other economically inactive,,,Percentage (%),Units,Normal value,25
+2020/21,Proportion of informal carers by characteristics,Female,,In employment (all),,,Percentage (%),Units,Normal value,52
+2020/21,Proportion of informal carers by characteristics,Female,,Unemployed,,,Percentage (%),Units,Normal value,1
+2020/21,Proportion of informal carers by characteristics,Female,,Retired,,,Percentage (%),Units,Normal value,18
+2020/21,Proportion of informal carers by characteristics,Female,,Other economically inactive,,,Percentage (%),Units,Normal value,28
+2020/21,Proportion of informal carers by characteristics,Male,,In employment (all),,,Percentage (%),Units,Normal value,53
+2020/21,Proportion of informal carers by characteristics,Male,,Unemployed,,,Percentage (%),Units,Normal value,4
+2020/21,Proportion of informal carers by characteristics,Male,,Retired,,,Percentage (%),Units,Normal value,24
+2020/21,Proportion of informal carers by characteristics,Male,,Other economically inactive,,,Percentage (%),Units,Normal value,20
+2019/20,Proportion of informal carers by characteristics,,,In employment (all),,,Percentage (%),Units,Normal value,53
+2019/20,Proportion of informal carers by characteristics,,,Unemployed,,,Percentage (%),Units,Normal value,2
+2019/20,Proportion of informal carers by characteristics,,,Retired,,,Percentage (%),Units,Normal value,24
+2019/20,Proportion of informal carers by characteristics,,,Other economically inactive,,,Percentage (%),Units,Normal value,21
+2019/20,Proportion of informal carers by characteristics,Female,,In employment (all),,,Percentage (%),Units,Normal value,53
+2019/20,Proportion of informal carers by characteristics,Female,,Unemployed,,,Percentage (%),Units,Normal value,1
+2019/20,Proportion of informal carers by characteristics,Female,,Retired,,,Percentage (%),Units,Normal value,22
+2019/20,Proportion of informal carers by characteristics,Female,,Other economically inactive,,,Percentage (%),Units,Normal value,24
+2019/20,Proportion of informal carers by characteristics,Male,,In employment (all),,,Percentage (%),Units,Normal value,55
+2019/20,Proportion of informal carers by characteristics,Male,,Unemployed,,,Percentage (%),Units,Normal value,2
+2019/20,Proportion of informal carers by characteristics,Male,,Retired,,,Percentage (%),Units,Normal value,27
+2019/20,Proportion of informal carers by characteristics,Male,,Other economically inactive,,,Percentage (%),Units,Normal value,16
+2018/19,Proportion of informal carers by characteristics,,,In employment (all),,,Percentage (%),Units,Normal value,51
+2018/19,Proportion of informal carers by characteristics,,,Unemployed,,,Percentage (%),Units,Normal value,2
+2018/19,Proportion of informal carers by characteristics,,,Retired,,,Percentage (%),Units,Normal value,25
+2018/19,Proportion of informal carers by characteristics,,,Other economically inactive,,,Percentage (%),Units,Normal value,22
+2018/19,Proportion of informal carers by characteristics,Female,,In employment (all),,,Percentage (%),Units,Normal value,50
+2018/19,Proportion of informal carers by characteristics,Female,,Unemployed,,,Percentage (%),Units,Normal value,2
+2018/19,Proportion of informal carers by characteristics,Female,,Retired,,,Percentage (%),Units,Normal value,23
+2018/19,Proportion of informal carers by characteristics,Female,,Other economically inactive,,,Percentage (%),Units,Normal value,25
+2018/19,Proportion of informal carers by characteristics,Male,,In employment (all),,,Percentage (%),Units,Normal value,51
+2018/19,Proportion of informal carers by characteristics,Male,,Unemployed,,,Percentage (%),Units,Normal value,3
+2018/19,Proportion of informal carers by characteristics,Male,,Retired,,,Percentage (%),Units,Normal value,28
+2018/19,Proportion of informal carers by characteristics,Male,,Other economically inactive,,,Percentage (%),Units,Normal value,18
+2017/18,Proportion of informal carers by characteristics,,,In employment (all),,,Percentage (%),Units,Normal value,51
+2017/18,Proportion of informal carers by characteristics,,,Unemployed,,,Percentage (%),Units,Normal value,2
+2017/18,Proportion of informal carers by characteristics,,,Retired,,,Percentage (%),Units,Normal value,25
+2017/18,Proportion of informal carers by characteristics,,,Other economically inactive,,,Percentage (%),Units,Normal value,22
+2017/18,Proportion of informal carers by characteristics,Female,,In employment (all),,,Percentage (%),Units,Normal value,49
+2017/18,Proportion of informal carers by characteristics,Female,,Unemployed,,,Percentage (%),Units,Normal value,2
+2017/18,Proportion of informal carers by characteristics,Female,,Retired,,,Percentage (%),Units,Normal value,23
+2017/18,Proportion of informal carers by characteristics,Female,,Other economically inactive,,,Percentage (%),Units,Normal value,25
+2017/18,Proportion of informal carers by characteristics,Male,,In employment (all),,,Percentage (%),Units,Normal value,52
+2017/18,Proportion of informal carers by characteristics,Male,,Unemployed,,,Percentage (%),Units,Normal value,3
+2017/18,Proportion of informal carers by characteristics,Male,,Retired,,,Percentage (%),Units,Normal value,27
+2017/18,Proportion of informal carers by characteristics,Male,,Other economically inactive,,,Percentage (%),Units,Normal value,18
+2016/17,Proportion of informal carers by characteristics,,,In employment (all),,,Percentage (%),Units,Normal value,53
+2016/17,Proportion of informal carers by characteristics,,,Unemployed,,,Percentage (%),Units,Normal value,3
+2016/17,Proportion of informal carers by characteristics,,,Retired,,,Percentage (%),Units,Normal value,24
+2016/17,Proportion of informal carers by characteristics,,,Other economically inactive,,,Percentage (%),Units,Normal value,21
+2016/17,Proportion of informal carers by characteristics,Female,,In employment (all),,,Percentage (%),Units,Normal value,51
+2016/17,Proportion of informal carers by characteristics,Female,,Unemployed,,,Percentage (%),Units,Normal value,2
+2016/17,Proportion of informal carers by characteristics,Female,,Retired,,,Percentage (%),Units,Normal value,22
+2016/17,Proportion of informal carers by characteristics,Female,,Other economically inactive,,,Percentage (%),Units,Normal value,25
+2016/17,Proportion of informal carers by characteristics,Male,,In employment (all),,,Percentage (%),Units,Normal value,55
+2016/17,Proportion of informal carers by characteristics,Male,,Unemployed,,,Percentage (%),Units,Normal value,3
+2016/17,Proportion of informal carers by characteristics,Male,,Retired,,,Percentage (%),Units,Normal value,26
+2016/17,Proportion of informal carers by characteristics,Male,,Other economically inactive,,,Percentage (%),Units,Normal value,16
+2015/16,Proportion of informal carers by characteristics,,,In employment (all),,,Percentage (%),Units,Normal value,50
+2015/16,Proportion of informal carers by characteristics,,,Unemployed,,,Percentage (%),Units,Normal value,3
+2015/16,Proportion of informal carers by characteristics,,,Retired,,,Percentage (%),Units,Normal value,26
+2015/16,Proportion of informal carers by characteristics,,,Other economically inactive,,,Percentage (%),Units,Normal value,21
+2015/16,Proportion of informal carers by characteristics,Female,,In employment (all),,,Percentage (%),Units,Normal value,49
+2015/16,Proportion of informal carers by characteristics,Female,,Unemployed,,,Percentage (%),Units,Normal value,2
+2015/16,Proportion of informal carers by characteristics,Female,,Retired,,,Percentage (%),Units,Normal value,25
+2015/16,Proportion of informal carers by characteristics,Female,,Other economically inactive,,,Percentage (%),Units,Normal value,24
+2015/16,Proportion of informal carers by characteristics,Male,,In employment (all),,,Percentage (%),Units,Normal value,52
+2015/16,Proportion of informal carers by characteristics,Male,,Unemployed,,,Percentage (%),Units,Normal value,3
+2015/16,Proportion of informal carers by characteristics,Male,,Retired,,,Percentage (%),Units,Normal value,29
+2015/16,Proportion of informal carers by characteristics,Male,,Other economically inactive,,,Percentage (%),Units,Normal value,16
+2014/15,Proportion of informal carers by characteristics,,,In employment (all),,,Percentage (%),Units,Normal value,45
+2014/15,Proportion of informal carers by characteristics,,,Unemployed,,,Percentage (%),Units,Normal value,3
+2014/15,Proportion of informal carers by characteristics,,,Retired,,,Percentage (%),Units,Normal value,24
+2014/15,Proportion of informal carers by characteristics,,,Other economically inactive,,,Percentage (%),Units,Normal value,20
+2014/15,Proportion of informal carers by characteristics,Female,,In employment (all),,,Percentage (%),Units,Normal value,45
+2014/15,Proportion of informal carers by characteristics,Female,,Unemployed,,,Percentage (%),Units,Normal value,2
+2014/15,Proportion of informal carers by characteristics,Female,,Retired,,,Percentage (%),Units,Normal value,24
+2014/15,Proportion of informal carers by characteristics,Female,,Other economically inactive,,,Percentage (%),Units,Normal value,23
+2014/15,Proportion of informal carers by characteristics,Male,,In employment (all),,,Percentage (%),Units,Normal value,45
+2014/15,Proportion of informal carers by characteristics,Male,,Unemployed,,,Percentage (%),Units,Normal value,5
+2014/15,Proportion of informal carers by characteristics,Male,,Retired,,,Percentage (%),Units,Normal value,24
+2014/15,Proportion of informal carers by characteristics,Male,,Other economically inactive,,,Percentage (%),Units,Normal value,14
+2013/14,Proportion of informal carers by characteristics,,,In employment (all),,,Percentage (%),Units,Normal value,44
+2013/14,Proportion of informal carers by characteristics,,,Unemployed,,,Percentage (%),Units,Normal value,4
+2013/14,Proportion of informal carers by characteristics,,,Retired,,,Percentage (%),Units,Normal value,25
+2013/14,Proportion of informal carers by characteristics,,,Other economically inactive,,,Percentage (%),Units,Normal value,9
+2013/14,Proportion of informal carers by characteristics,Female,,In employment (all),,,Percentage (%),Units,Normal value,45
+2013/14,Proportion of informal carers by characteristics,Female,,Unemployed,,,Percentage (%),Units,Normal value,3
+2013/14,Proportion of informal carers by characteristics,Female,,Retired,,,Percentage (%),Units,Normal value,24
+2013/14,Proportion of informal carers by characteristics,Female,,Other economically inactive,,,Percentage (%),Units,Normal value,10
+2013/14,Proportion of informal carers by characteristics,Male,,In employment (all),,,Percentage (%),Units,Normal value,42
+2013/14,Proportion of informal carers by characteristics,Male,,Unemployed,,,Percentage (%),Units,Normal value,4
+2013/14,Proportion of informal carers by characteristics,Male,,Retired,,,Percentage (%),Units,Normal value,26
+2013/14,Proportion of informal carers by characteristics,Male,,Other economically inactive,,,Percentage (%),Units,Normal value,8
+2012/13,Proportion of informal carers by characteristics,,,In employment (all),,,Percentage (%),Units,Normal value,53
+2012/13,Proportion of informal carers by characteristics,,,Unemployed,,,Percentage (%),Units,Normal value,4
+2012/13,Proportion of informal carers by characteristics,,,Retired,,,Percentage (%),Units,Normal value,24
+2012/13,Proportion of informal carers by characteristics,,,Other economically inactive,,,Percentage (%),Units,Normal value,8
+2012/13,Proportion of informal carers by characteristics,Female,,In employment (all),,,Percentage (%),Units,Normal value,51
+2012/13,Proportion of informal carers by characteristics,Female,,Unemployed,,,Percentage (%),Units,Normal value,3
+2012/13,Proportion of informal carers by characteristics,Female,,Retired,,,Percentage (%),Units,Normal value,23
+2012/13,Proportion of informal carers by characteristics,Female,,Other economically inactive,,,Percentage (%),Units,Normal value,9
+2012/13,Proportion of informal carers by characteristics,Male,,In employment (all),,,Percentage (%),Units,Normal value,55
+2012/13,Proportion of informal carers by characteristics,Male,,Unemployed,,,Percentage (%),Units,Normal value,5
+2012/13,Proportion of informal carers by characteristics,Male,,Retired,,,Percentage (%),Units,Normal value,26
+2012/13,Proportion of informal carers by characteristics,Male,,Other economically inactive,,,Percentage (%),Units,Normal value,6
+2011/12,Proportion of informal carers by characteristics,,,In employment (all),,,Percentage (%),Units,Normal value,52
+2011/12,Proportion of informal carers by characteristics,,,Unemployed,,,Percentage (%),Units,Normal value,4
+2011/12,Proportion of informal carers by characteristics,,,Retired,,,Percentage (%),Units,Normal value,25
+2011/12,Proportion of informal carers by characteristics,,,Other economically inactive,,,Percentage (%),Units,Normal value,8
+2011/12,Proportion of informal carers by characteristics,Female,,In employment (all),,,Percentage (%),Units,Normal value,51
+2011/12,Proportion of informal carers by characteristics,Female,,Unemployed,,,Percentage (%),Units,Normal value,3
+2011/12,Proportion of informal carers by characteristics,Female,,Retired,,,Percentage (%),Units,Normal value,24
+2011/12,Proportion of informal carers by characteristics,Female,,Other economically inactive,,,Percentage (%),Units,Normal value,9
+2011/12,Proportion of informal carers by characteristics,Male,,In employment (all),,,Percentage (%),Units,Normal value,54
+2011/12,Proportion of informal carers by characteristics,Male,,Unemployed,,,Percentage (%),Units,Normal value,6
+2011/12,Proportion of informal carers by characteristics,Male,,Retired,,,Percentage (%),Units,Normal value,25
+2011/12,Proportion of informal carers by characteristics,Male,,Other economically inactive,,,Percentage (%),Units,Normal value,6
+2010/11,Proportion of informal carers by characteristics,,,In employment (all),,,Percentage (%),Units,Missing value,
+2010/11,Proportion of informal carers by characteristics,,,Unemployed,,,Percentage (%),Units,Normal value,4
+2010/11,Proportion of informal carers by characteristics,,,Retired,,,Percentage (%),Units,Normal value,24
+2010/11,Proportion of informal carers by characteristics,,,Other economically inactive,,,Percentage (%),Units,Normal value,14
+2010/11,Proportion of informal carers by characteristics,Female,,In employment (all),,,Percentage (%),Units,Missing value,
+2010/11,Proportion of informal carers by characteristics,Female,,Unemployed,,,Percentage (%),Units,Normal value,3
+2010/11,Proportion of informal carers by characteristics,Female,,Retired,,,Percentage (%),Units,Normal value,23
+2010/11,Proportion of informal carers by characteristics,Female,,Other economically inactive,,,Percentage (%),Units,Normal value,18
+2010/11,Proportion of informal carers by characteristics,Male,,In employment (all),,,Percentage (%),Units,Missing value,
+2010/11,Proportion of informal carers by characteristics,Male,,Unemployed,,,Percentage (%),Units,Normal value,6
+2010/11,Proportion of informal carers by characteristics,Male,,Retired,,,Percentage (%),Units,Normal value,24
+2010/11,Proportion of informal carers by characteristics,Male,,Other economically inactive,,,Percentage (%),Units,Normal value,9
