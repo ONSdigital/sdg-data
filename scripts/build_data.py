@@ -76,7 +76,7 @@ def alter_indicator(indicator, context):
     if indicator.data.Year.nunique() <= 2:
         indicator.meta['graph_type'] = 'bar'
     if len(indicator.data) < 2:
-        indicator.meta['page_content']="<strong>No data was sourced for this indicator</strong>"+meta['page_content']
+        indicator.meta['page_content']="<strong>No data was sourced for this indicator</strong>"+indicator.meta['page_content']
     return indicator
   
 open_sdg_build(config='config_data.yml', alter_meta=alter_meta, alter_indicator=alter_indicator)
