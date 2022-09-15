@@ -16,17 +16,17 @@
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "Hazardous waste generated (absolute number)",
                 "Hazardous waste generated (tonnes per capita)",
-                "Percentage (%)",
+                "Hazardous waste treated",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Series"
           },
           {
             "name": "Treatment type",

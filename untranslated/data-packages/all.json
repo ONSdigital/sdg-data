@@ -1480,13 +1480,13 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "Hazardous waste generated (absolute number)",
                 "Hazardous waste generated (tonnes per capita)",
-                "Percentage (%)",
+                "Hazardous waste treated",
                 ""
               ]
             }
