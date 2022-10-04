@@ -1,11 +1,11 @@
 Year,Country,Suspected source,Units,Observation status,GeoCode,Value
-2008,Northern Ireland,Fishing,Median count,Low reliability,N92000002,14.0
-2008,Northern Ireland,Fly-tipped,Median count,Low reliability,N92000002,2.0
-2008,Northern Ireland,Medical,Median count,Low reliability,N92000002,2.0
-2008,Northern Ireland,Non-sourced,Median count,Low reliability,N92000002,73.0
-2008,Northern Ireland,Public,Median count,Low reliability,N92000002,257.0
-2008,Northern Ireland,Sewage related debris,Median count,Low reliability,N92000002,7.0
-2008,Northern Ireland,Shipping,Median count,Low reliability,N92000002,14.0
+2008,Northern Ireland,Fishing,Median count,Missing value; suppressed,N92000002,
+2008,Northern Ireland,Fly-tipped,Median count,Missing value; suppressed,N92000002,
+2008,Northern Ireland,Medical,Median count,Missing value; suppressed,N92000002,
+2008,Northern Ireland,Non-sourced,Median count,Missing value; suppressed,N92000002,
+2008,Northern Ireland,Public,Median count,Missing value; suppressed,N92000002,
+2008,Northern Ireland,Sewage related debris,Median count,Missing value; suppressed,N92000002,
+2008,Northern Ireland,Shipping,Median count,Missing value; suppressed,N92000002,
 2009,Northern Ireland,Fishing,Median count,Low reliability,N92000002,9.0
 2009,Northern Ireland,Fly-tipped,Median count,Low reliability,N92000002,0.0
 2009,Northern Ireland,Medical,Median count,Low reliability,N92000002,0.0
@@ -13,13 +13,13 @@ Year,Country,Suspected source,Units,Observation status,GeoCode,Value
 2009,Northern Ireland,Public,Median count,Low reliability,N92000002,206.0
 2009,Northern Ireland,Sewage related debris,Median count,Low reliability,N92000002,5.0
 2009,Northern Ireland,Shipping,Median count,Low reliability,N92000002,7.0
-2010,Northern Ireland,Fishing,Median count,Low reliability,N92000002,2.0
-2010,Northern Ireland,Fly-tipped,Median count,Low reliability,N92000002,0.0
-2010,Northern Ireland,Medical,Median count,Low reliability,N92000002,0.0
-2010,Northern Ireland,Non-sourced,Median count,Low reliability,N92000002,10.0
-2010,Northern Ireland,Public,Median count,Low reliability,N92000002,21.0
-2010,Northern Ireland,Sewage related debris,Median count,Low reliability,N92000002,4.0
-2010,Northern Ireland,Shipping,Median count,Low reliability,N92000002,0.0
+2010,Northern Ireland,Fishing,Median count,Missing value; suppressed,N92000002,
+2010,Northern Ireland,Fly-tipped,Median count,Missing value; suppressed,N92000002,
+2010,Northern Ireland,Medical,Median count,Missing value; suppressed,N92000002,
+2010,Northern Ireland,Non-sourced,Median count,Missing value; suppressed,N92000002,
+2010,Northern Ireland,Public,Median count,Missing value; suppressed,N92000002,
+2010,Northern Ireland,Sewage related debris,Median count,Missing value; suppressed,N92000002,
+2010,Northern Ireland,Shipping,Median count,Missing value; suppressed,N92000002,
 2011,Northern Ireland,Fishing,Median count,Low reliability,N92000002,22.5
 2011,Northern Ireland,Fly-tipped,Median count,Low reliability,N92000002,0.0
 2011,Northern Ireland,Medical,Median count,Low reliability,N92000002,0.5
@@ -41,27 +41,27 @@ Year,Country,Suspected source,Units,Observation status,GeoCode,Value
 2013,Northern Ireland,Public,Median count,Low reliability,N92000002,139.5
 2013,Northern Ireland,Sewage related debris,Median count,Low reliability,N92000002,41.0
 2013,Northern Ireland,Shipping,Median count,Low reliability,N92000002,19.5
-2014,Northern Ireland,Fishing,Median count,Low reliability,N92000002,77.5
-2014,Northern Ireland,Fly-tipped,Median count,Low reliability,N92000002,0.0
-2014,Northern Ireland,Medical,Median count,Low reliability,N92000002,0.0
-2014,Northern Ireland,Non-sourced,Median count,Low reliability,N92000002,46.5
-2014,Northern Ireland,Public,Median count,Low reliability,N92000002,163.0
-2014,Northern Ireland,Sewage related debris,Median count,Low reliability,N92000002,25.5
-2014,Northern Ireland,Shipping,Median count,Low reliability,N92000002,24.5
-2015,Northern Ireland,Fishing,Median count,Low reliability,N92000002,442.0
-2015,Northern Ireland,Fly-tipped,Median count,Low reliability,N92000002,0.0
-2015,Northern Ireland,Medical,Median count,Low reliability,N92000002,1.0
-2015,Northern Ireland,Non-sourced,Median count,Low reliability,N92000002,92.0
-2015,Northern Ireland,Public,Median count,Low reliability,N92000002,130.0
-2015,Northern Ireland,Sewage related debris,Median count,Low reliability,N92000002,8.0
-2015,Northern Ireland,Shipping,Median count,Low reliability,N92000002,66.0
-2016,Northern Ireland,Fishing,Median count,Low reliability,N92000002,301.0
-2016,Northern Ireland,Fly-tipped,Median count,Low reliability,N92000002,1.0
-2016,Northern Ireland,Medical,Median count,Low reliability,N92000002,1.0
-2016,Northern Ireland,Non-sourced,Median count,Low reliability,N92000002,125.0
-2016,Northern Ireland,Public,Median count,Low reliability,N92000002,182.0
-2016,Northern Ireland,Sewage related debris,Median count,Low reliability,N92000002,2.0
-2016,Northern Ireland,Shipping,Median count,Low reliability,N92000002,122.0
+2014,Northern Ireland,Fishing,Median count,Missing value; suppressed,N92000002,
+2014,Northern Ireland,Fly-tipped,Median count,Missing value; suppressed,N92000002,
+2014,Northern Ireland,Medical,Median count,Missing value; suppressed,N92000002,
+2014,Northern Ireland,Non-sourced,Median count,Missing value; suppressed,N92000002,
+2014,Northern Ireland,Public,Median count,Missing value; suppressed,N92000002,
+2014,Northern Ireland,Sewage related debris,Median count,Missing value; suppressed,N92000002,
+2014,Northern Ireland,Shipping,Median count,Missing value; suppressed,N92000002,
+2015,Northern Ireland,Fishing,Median count,Missing value; suppressed,N92000002,
+2015,Northern Ireland,Fly-tipped,Median count,Missing value; suppressed,N92000002,
+2015,Northern Ireland,Medical,Median count,Missing value; suppressed,N92000002,
+2015,Northern Ireland,Non-sourced,Median count,Missing value; suppressed,N92000002,
+2015,Northern Ireland,Public,Median count,Missing value; suppressed,N92000002,
+2015,Northern Ireland,Sewage related debris,Median count,Missing value; suppressed,N92000002,
+2015,Northern Ireland,Shipping,Median count,Missing value; suppressed,N92000002,
+2016,Northern Ireland,Fishing,Median count,Missing value; suppressed,N92000002,
+2016,Northern Ireland,Fly-tipped,Median count,Missing value; suppressed,N92000002,
+2016,Northern Ireland,Medical,Median count,Missing value; suppressed,N92000002,
+2016,Northern Ireland,Non-sourced,Median count,Missing value; suppressed,N92000002,
+2016,Northern Ireland,Public,Median count,Missing value; suppressed,N92000002,
+2016,Northern Ireland,Sewage related debris,Median count,Missing value; suppressed,N92000002,
+2016,Northern Ireland,Shipping,Median count,Missing value; suppressed,N92000002,
 2017,Northern Ireland,Fishing,Median count,Low reliability,N92000002,42.0
 2017,Northern Ireland,Fly-tipped,Median count,Low reliability,N92000002,0.0
 2017,Northern Ireland,Medical,Median count,Low reliability,N92000002,0.0
@@ -83,13 +83,13 @@ Year,Country,Suspected source,Units,Observation status,GeoCode,Value
 2019,Northern Ireland,Public,Median count,Low reliability,N92000002,66.0
 2019,Northern Ireland,Sewage related debris,Median count,Low reliability,N92000002,4.0
 2019,Northern Ireland,Shipping,Median count,Low reliability,N92000002,13.0
-2020,Northern Ireland,Fishing,Median count,Low reliability; Time series break,N92000002,191.0
-2020,Northern Ireland,Fly-tipped,Median count,Low reliability; Time series break,N92000002,4.0
-2020,Northern Ireland,Medical,Median count,Low reliability; Time series break,N92000002,4.5
-2020,Northern Ireland,Non-sourced,Median count,Low reliability; Time series break,N92000002,240.5
-2020,Northern Ireland,Public,Median count,Low reliability; Time series break,N92000002,447.5
-2020,Northern Ireland,Sewage related debris,Median count,Low reliability; Time series break,N92000002,33.0
-2020,Northern Ireland,Shipping,Median count,Low reliability; Time series break,N92000002,33.5
+2020,Northern Ireland,Fishing,Median count,Missing value; suppressed,N92000002,
+2020,Northern Ireland,Fly-tipped,Median count,Missing value; suppressed,N92000002,
+2020,Northern Ireland,Medical,Median count,Missing value; suppressed,N92000002,
+2020,Northern Ireland,Non-sourced,Median count,Missing value; suppressed,N92000002,
+2020,Northern Ireland,Public,Median count,Missing value; suppressed,N92000002,
+2020,Northern Ireland,Sewage related debris,Median count,Missing value; suppressed,N92000002,
+2020,Northern Ireland,Shipping,Median count,Missing value; suppressed,N92000002,
 2021,Northern Ireland,Fishing,Median count,Low reliability,N92000002,36.0
 2021,Northern Ireland,Fly-tipped,Median count,Low reliability,N92000002,0.0
 2021,Northern Ireland,Medical,Median count,Low reliability,N92000002,3.0
@@ -489,19 +489,19 @@ Year,Country,Suspected source,Units,Observation status,GeoCode,Value
 2021,,Public,Median count,Normal value,,60.5
 2021,,Sewage related debris,Median count,Normal value,,5.5
 2021,,Shipping,Median count,Normal value,,4.0
-2008,Northern Ireland,,Median count,Low reliability,N92000002,378.0
+2008,Northern Ireland,,Median count,Missing value; suppressed,N92000002,
 2009,Northern Ireland,,Median count,Low reliability,N92000002,320.0
-2010,Northern Ireland,,Median count,Low reliability,N92000002,37.0
+2010,Northern Ireland,,Median count,Missing value; suppressed,N92000002,
 2011,Northern Ireland,,Median count,Low reliability,N92000002,346.5
 2012,Northern Ireland,,Median count,Low reliability,N92000002,374.0
 2013,Northern Ireland,,Median count,Low reliability,N92000002,332.0
-2014,Northern Ireland,,Median count,Low reliability,N92000002,337.0
-2015,Northern Ireland,,Median count,Low reliability,N92000002,760.0
-2016,Northern Ireland,,Median count,Low reliability,N92000002,922.0
+2014,Northern Ireland,,Median count,Missing value; suppressed,N92000002,
+2015,Northern Ireland,,Median count,Missing value; suppressed,N92000002,
+2016,Northern Ireland,,Median count,Missing value; suppressed,N92000002,
 2017,Northern Ireland,,Median count,Low reliability,N92000002,242.0
 2018,Northern Ireland,,Median count,Low reliability,N92000002,98.0
 2019,Northern Ireland,,Median count,Low reliability,N92000002,140.0
-2020,Northern Ireland,,Median count,Low reliability; Time series break,N92000002,954.0
+2020,Northern Ireland,,Median count,Missing value; suppressed,N92000002,
 2021,Northern Ireland,,Median count,Low reliability,N92000002,466.0
 2008,Scotland,,Median count,Low reliability,S92000003,302.0
 2009,Scotland,,Median count,Low reliability,S92000003,208.0
