@@ -902,7 +902,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -915,6 +915,48 @@
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "Bank account category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Any type of account (including POCAs)",
+                "Any type of account (excluding POCAs)",
+                "No accounts (including POCAs)",
+                "No accounts (excluding POCAs)",
+                "Any Direct Payment Account (including POCAs)",
+                "Any Direct Payment Account (excluding POCAs)",
+                "Current account",
+                "NS&I Savings Account",
+                "Basic Bank account",
+                "Post Office Card Account (POCA)",
+                "ISA",
+                "Other Bank / Building Society account",
+                "Stocks and shares / member of a Share Club",
+                "Unit trusts",
+                "Endowment Policy (not linked)",
+                "Premium Bonds",
+                "National Savings Bonds",
+                "Company Share Scheme / profit sharing",
+                "Credit Unions",
+                "Any other type of asset",
+                ""
+              ]
+            },
+            "title": "Bank account category"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Age",
@@ -934,48 +976,6 @@
               ]
             },
             "title": "Age"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Bank account category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Any Direct Payment Account (excluding POCAs)",
-                "Any Direct Payment Account (including POCAs)",
-                "Any other type of asset",
-                "Any type of account (excluding POCAs)",
-                "Any type of account (including POCAs)",
-                "Basic Bank account",
-                "Company Share Scheme / profit sharing",
-                "Credit Unions",
-                "Current account",
-                "Endowment Policy (not linked)",
-                "ISA",
-                "National Savings Bonds",
-                "No accounts (excluding POCAs)",
-                "No accounts (including POCAs)",
-                "NS&I Savings Account",
-                "Other Bank / Building Society account",
-                "Post Office Card Account (POCA)",
-                "Premium Bonds",
-                "Stocks and shares / member of a Share Club",
-                "Unit trusts",
-                ""
-              ]
-            },
-            "title": "Bank account category"
           },
           {
             "name": "Units",
@@ -10286,17 +10286,17 @@
             "title": "Year"
           },
           {
-            "name": "Series",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 "Hazardous waste generated (absolute number)",
                 "Hazardous waste generated (tonnes per capita)",
-                "Hazardous waste treated",
+                "Percentage (%)",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Units"
           },
           {
             "name": "Treatment type",
