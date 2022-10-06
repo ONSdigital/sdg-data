@@ -12,6 +12,53 @@
         "fields": [
           {
             "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
+                "England",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Suspected source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fishing",
+                "Fly-tipped",
+                "Medical",
+                "Non-sourced",
+                "Public",
+                "Sewage related debris",
+                "Shipping",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Median count",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
             "type": "string"
           },
           {

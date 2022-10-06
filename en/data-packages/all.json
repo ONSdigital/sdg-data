@@ -11936,8 +11936,60 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
+                "England",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Suspected source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fishing",
+                "Fly-tipped",
+                "Medical",
+                "Non-sourced",
+                "Public",
+                "Sewage related debris",
+                "Shipping",
+                ""
+              ]
+            },
+            "title": "Suspected source"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Median count",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -17369,6 +17421,59 @@
             "name": "Year",
             "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12 month rolling average",
+                "Unaveraged monthly value",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Index",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Food type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All",
+                "Bread and cereal",
+                "Dairy and eggs",
+                "Fish",
+                "Fruit",
+                "Meat",
+                "Oils and fats",
+                "Sugars",
+                "Vegetables",
+                "Food not elsewhere classified",
+                ""
+              ]
+            },
+            "title": "Food type"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "Value",
