@@ -52,6 +52,9 @@ def alter_meta(meta):
                 meta['graph_limits']=[{"unit":"Percentage (%)", "minimum":0, "maximum":100}]
 
         if 'standalone' not in meta:
+            if 'reporting_status' in meta and meta['reporting_status'] == "notstarted":
+                meta['page_content']="<p>We have not yet found any suitable data sources for this indicator.</p><p>If you have any data source suggestions, please <a href='/contact-us/'>contact us</a>.</p>"+meta['page_content']
+            
             if tier_df is not None:
                 if indicator_id in list(tier_df.index):
                     meta['un_designated_tier']=tier_df.loc[indicator_id][0]
