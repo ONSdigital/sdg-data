@@ -53,7 +53,7 @@ def alter_meta(meta):
 
         if 'standalone' not in meta:
             if 'reporting_status' in meta and meta['reporting_status'] == "notstarted":
-                meta['page_content']="<p>We have not yet found any suitable data sources for this indicator.</p><p>If you have any data source suggestions, please <a href='/contact-us/'>contact us</a>.</p>"+meta['page_content']
+                meta['page_content']="<p>We have not yet found any suitable data sources for this indicator.</p><p>If you have any data source suggestions, please <a href='https://sdgdata.gov.uk/contact-us/'>contact us</a>.</p>"+meta['page_content']
             
             if tier_df is not None:
                 if indicator_id in list(tier_df.index):
