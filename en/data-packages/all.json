@@ -14240,13 +14240,24 @@
             "title": "Series"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Decent homes criteria",
             "type": "string",
             "constraints": {
               "enum": [
                 "Minimum Standard (HHSRS)",
-                "Modern facilities and services",
                 "Repair",
+                "Modern facilities and services",
                 "Thermal comfort",
                 ""
               ]
@@ -14254,33 +14265,52 @@
             "title": "Decent homes criteria"
           },
           {
-            "name": "Urbanisation sub-category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "City centre",
-                "Other rural area",
-                "Other urban centre",
-                "Rural residential",
-                "Suburban residential",
-                "Village centre",
-                ""
-              ]
-            },
-            "title": "Urbanisation sub-category"
-          },
-          {
             "name": "Sub-national area",
             "type": "string",
             "constraints": {
               "enum": [
-                "London and South East",
                 "Northern",
+                "London and South East",
                 "Rest of England",
                 ""
               ]
             },
             "title": "Sub-national area"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "East",
+                "East Midlands",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Urbanisation sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "City centre",
+                "Other urban centre",
+                "Suburban residential",
+                "Rural residential",
+                "Village centre",
+                "Other rural area",
+                ""
+              ]
+            },
+            "title": "Urbanisation sub-category"
           },
           {
             "name": "Age of oldest person",
@@ -14300,13 +14330,33 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "4 and under",
                 "15 and under",
                 "16 and over",
-                "4 and under",
                 ""
               ]
             },
             "title": "Age of youngest person"
+          },
+          {
+            "name": "Deprivation decile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Decile 10 (most deprived)",
+                "Decile 9",
+                "Decile 8",
+                "Decile 7",
+                "Decile 6",
+                "Decile 5",
+                "Decile 4",
+                "Decile 3",
+                "Decile 2",
+                "Decile 1 (least deprived)",
+                ""
+              ]
+            },
+            "title": "Deprivation decile"
           },
           {
             "name": "Disability status (household)",
@@ -14321,19 +14371,36 @@
             "title": "Disability status (household)"
           },
           {
-            "name": "Ethnicity of household reference person (HRP)",
+            "name": "Ethnicity of household reference person (hrp)",
             "type": "string",
             "constraints": {
               "enum": [
-                "All minority",
-                "Asian",
-                "Black",
-                "other",
                 "White",
+                "Black",
+                "Asian",
+                "Other",
+                "All minority",
                 ""
               ]
             },
-            "title": "Ethnicity of household reference person (HRP)"
+            "title": "Ethnicity of household reference person (hrp)"
+          },
+          {
+            "name": "Household composition",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Couple under 60",
+                "Couple 60 or over",
+                "Couple with children",
+                "Lone parent",
+                "Multi-person household",
+                "One person under 60",
+                "One person 60 or over",
+                ""
+              ]
+            },
+            "title": "Household composition"
           },
           {
             "name": "Income quintile (household)",
@@ -14351,15 +14418,44 @@
             "title": "Income quintile (household)"
           },
           {
-            "name": "Units",
+            "name": "Length of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage (%)",
+                "Less than 1 year",
+                "1-4 years",
+                "5-9 years",
+                "10-19 years",
+                "20-29 years",
+                "30 or more years",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Length of residence"
+          },
+          {
+            "name": "Poverty status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Living in poverty",
+                "Not living in poverty",
+                ""
+              ]
+            },
+            "title": "Poverty status"
+          },
+          {
+            "name": "Workless households",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Workless",
+                "Not workless",
+                ""
+              ]
+            },
+            "title": "Workless households"
           },
           {
             "name": "Observation status",
@@ -14367,9 +14463,9 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit multiplier",
+            "name": "GeoCode",
             "type": "string",
-            "title": "Unit multiplier"
+            "title": "GeoCode"
           },
           {
             "name": "Value",
