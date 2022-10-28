@@ -69,7 +69,7 @@ def alter_meta(meta):
                 meta['graph_limits']=[{"unit":"Percentage (%)", "minimum":0, "maximum":100}]
 
         # some actions for indicators which aren't marked as standalone in meta
-        if 'standalone' not in meta or meta['standalone'] == false:
+        if 'standalone' not in meta or meta['standalone'] == False:
             # for indicators which are 'Not reported', show set text at top of indicator page before any text which has been set manually
             if 'reporting_status' in meta and meta['reporting_status'] == "notstarted":
                 meta['page_content']="<p>We have not yet found any suitable data sources for this indicator.</p><p>If you have any data source suggestions, please <a href='https://sdgdata.gov.uk/contact-us/'>contact us</a>.</p>"+meta['page_content']
@@ -84,7 +84,7 @@ def alter_meta(meta):
                 meta['change_notice']=change_types[changed_indicators.loc[changed_indicators['number']==indicator_id]['change_type'].values[0]]
         
         # some actions for indicators which are marked as standalone in metadata i.e. archived indicators
-        elif 'standalone' in meta and meta['standalone'] == true:
+        elif 'standalone' in meta and meta['standalone'] == True:
             if indicator_id in archived_indicators['number'].values:
                 # get indicator name from archived_indicators.csv file
                 meta['indicator_name']=archived_indicators.loc[archived_indicators['number']==indicator_id]['name'].values[0]
