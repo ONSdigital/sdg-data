@@ -16,23 +16,12 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Rate per 100,000 workers",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Non-fatal injury",
                 "Fatal injury",
+                "Non-fatal injury",
                 ""
               ]
             },
@@ -49,8 +38,8 @@
                 "25 to 34",
                 "35 to 44",
                 "45 to 54",
-                "55 and over",
                 "55 to 59",
+                "55 and over",
                 "60 to 64",
                 "65 and over",
                 ""
@@ -89,15 +78,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "East",
-                "East Midlands",
-                "London",
                 "North East",
                 "North West",
+                "Yorkshire and The Humber",
+                "East Midlands",
+                "West Midlands",
+                "East",
+                "London",
                 "South East",
                 "South West",
-                "West Midlands",
-                "Yorkshire and The Humber",
                 ""
               ]
             },
@@ -108,25 +97,24 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Agriculture, forestry and fishing",
+                "Construction",
+                "Gas, electricity and water supply; sewerage, waste and recycling",
+                "Manufacturing",
+                "Mining and quarrying",
+                "Service industries",
                 "Accommodation and food service activities",
                 "Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use",
                 "Administrative and support service activities",
-                "Agriculture, forestry and fishing",
                 "Arts, entertainment and recreation",
-                "Construction",
                 "Education",
-                "Electricity, gas, steam and air conditioning supply",
                 "Financial and insurance activities",
-                "Gas, electricity and water supply; sewerage, waste and recycling",
                 "Human health and social work activities",
                 "Information and communication",
-                "Manufacturing",
-                "Mining and quarrying",
                 "Other service activities",
                 "Professional, scientific and technical activities",
                 "Public administration and defence; compulsory social security",
                 "Real estate activities",
-                "Service industries",
                 "Transportation and storage",
                 "Water supply; sewerage, waste management and remediation activities",
                 "Wholesale and retail trade; repair of motor vehicles and motorcycles",
@@ -141,7 +129,7 @@
             "constraints": {
               "enum": [
                 "Administrative and secretarial occupations",
-                "Associate professional and technical occupations",
+                "Associate professional occupations",
                 "Caring, leisure and other service occupations",
                 "Elementary occupations",
                 "Managers, directors and senior officials",
@@ -153,6 +141,11 @@
               ]
             },
             "title": "Occupation"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
           },
           {
             "name": "Unit multiplier",

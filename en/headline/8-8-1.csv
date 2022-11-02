@@ -1,35 +1,39 @@
-Year,Value,Units,Series,GeoCode,Observation status,Unit multiplier
-2016/17,0.42,"Rate per 100,000 workers",Fatal injury,,Undefined,Units
-2004/05,0.78,"Rate per 100,000 workers",Fatal injury,,Undefined,Units
-2005/06,0.75,"Rate per 100,000 workers",Fatal injury,,Undefined,Units
-2006/07,0.84,"Rate per 100,000 workers",Fatal injury,,Undefined,Units
-2007/08,0.79,"Rate per 100,000 workers",Fatal injury,,Undefined,Units
-2008/09,0.6,"Rate per 100,000 workers",Fatal injury,,Undefined,Units
-2009/10,0.5,"Rate per 100,000 workers",Fatal injury,,Undefined,Units
-2010/11,0.6,"Rate per 100,000 workers",Fatal injury,,Undefined,Units
-2011/12,0.58,"Rate per 100,000 workers",Fatal injury,,Undefined,Units
-2012/13,0.5,"Rate per 100,000 workers",Fatal injury,,Undefined,Units
-2013/14,0.45,"Rate per 100,000 workers",Fatal injury,,Undefined,Units
-2014/15,0.46,"Rate per 100,000 workers",Fatal injury,,Undefined,Units
-2015/16,0.47,"Rate per 100,000 workers",Fatal injury,,Undefined,Units
-2017/18,0.44,"Rate per 100,000 workers",Fatal injury,,Undefined,Units
-2018/19,0.45,"Rate per 100,000 workers",Fatal injury,,Undefined,Units
-2000/01,3980.0,"Rate per 100,000 workers",Non-fatal injury,,Undefined,Units
-2001/02,3780.0,"Rate per 100,000 workers",Non-fatal injury,,Undefined,Units
-2002/03,3800.0,"Rate per 100,000 workers",Non-fatal injury,,Undefined,Units
-2003/04,3480.0,"Rate per 100,000 workers",Non-fatal injury,,Undefined,Units
-2004/05,3210.0,"Rate per 100,000 workers",Non-fatal injury,,Undefined,Units
-2005/06,3030.0,"Rate per 100,000 workers",Non-fatal injury,,Undefined,Units
-2006/07,3100.0,"Rate per 100,000 workers",Non-fatal injury,,Undefined,Units
-2007/08,2850.0,"Rate per 100,000 workers",Non-fatal injury,,Undefined,Units
-2008/09,2570.0,"Rate per 100,000 workers",Non-fatal injury,,Undefined,Units
-2009/10,2580.0,"Rate per 100,000 workers",Non-fatal injury,,Undefined,Units
-2010/11,2130.0,"Rate per 100,000 workers",Non-fatal injury,,Undefined,Units
-2011/12,2090.0,"Rate per 100,000 workers",Non-fatal injury,,Undefined,Units
-2012/13,2240.0,"Rate per 100,000 workers",Non-fatal injury,,Undefined,Units
-2013/14,2130.0,"Rate per 100,000 workers",Non-fatal injury,,Undefined,Units
-2014/15,2030.0,"Rate per 100,000 workers",Non-fatal injury,,Undefined,Units
-2015/16,2030.0,"Rate per 100,000 workers",Non-fatal injury,,Undefined,Units
-2016/17,1970.0,"Rate per 100,000 workers",Non-fatal injury,,Undefined,Units
-2017/18,1770.0,"Rate per 100,000 workers",Non-fatal injury,,Undefined,Units
-2018/19,1830.0,"Rate per 100,000 workers",Non-fatal injury,,Undefined,Units
+Year,Value,Series,GeoCode,Observation status,Unit multiplier,Unit measure
+2004/05,0.78,Fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2005/06,0.75,Fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2006/07,0.84,Fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2007/08,0.79,Fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2008/09,0.6,Fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2009/10,0.5,Fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2010/11,0.6,Fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2011/12,0.58,Fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2012/13,0.5,Fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2013/14,0.45,Fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2014/15,0.46,Fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2015/16,0.47,Fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2016/17,0.42,Fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2017/18,0.44,Fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2018/19,0.46,Fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2019/20,0.34,Fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2020/21,0.44,Fatal injury,,Provisional value,Units,"Rate per 100,000 workers"
+2000/01,3980.0,Non-fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2001/02,3780.0,Non-fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2002/03,3800.0,Non-fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2003/04,3480.0,Non-fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2004/05,3210.0,Non-fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2005/06,3030.0,Non-fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2006/07,3100.0,Non-fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2007/08,2850.0,Non-fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2008/09,2570.0,Non-fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2009/10,2580.0,Non-fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2010/11,2130.0,Non-fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2011/12,2090.0,Non-fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2012/13,2240.0,Non-fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2013/14,2130.0,Non-fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2014/15,2030.0,Non-fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2015/16,2030.0,Non-fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2016/17,1970.0,Non-fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2017/18,1770.0,Non-fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2018/19,1830.0,Non-fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2019/20,2160.0,Non-fatal injury,,Normal Value,Units,"Rate per 100,000 workers"
+2020/21,1410.0,Non-fatal injury,,Provisional value,Units,"Rate per 100,000 workers"
