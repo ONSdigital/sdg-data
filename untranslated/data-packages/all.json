@@ -13205,7 +13205,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Minimum Standard (HHSRS)",
+                "Minimum standard (HHSRS)",
                 "Repair",
                 "Modern facilities and services",
                 "Thermal comfort",
@@ -13214,7 +13214,7 @@
             }
           },
           {
-            "name": "Sub-national area",
+            "name": "Sub to national area",
             "type": "string",
             "constraints": {
               "enum": [
@@ -13244,7 +13244,7 @@
             }
           },
           {
-            "name": "Urbanisation sub-category",
+            "name": "Urbanisation sub to category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -13307,7 +13307,7 @@
             "constraints": {
               "enum": [
                 "Disabled (GSS harmonised)",
-                "Non-disabled (GSS harmonised)",
+                "Non to disabled (GSS harmonised)",
                 ""
               ]
             }
@@ -13335,7 +13335,7 @@
                 "Couple 60 or over",
                 "Couple with children",
                 "Lone parent",
-                "Multi-person household",
+                "Multi to person household",
                 "One person under 60",
                 "One person 60 or over",
                 ""
@@ -13362,10 +13362,10 @@
             "constraints": {
               "enum": [
                 "Less than 1 year",
-                "1-4 years",
-                "5-9 years",
-                "10-19 years",
-                "20-29 years",
+                "1 to 4 years",
+                "5 to 9 years",
+                "10 to 19 years",
+                "20 to 29 years",
                 "30 or more years",
                 ""
               ]
