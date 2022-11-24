@@ -31,6 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Air, spacecraft and related machinery",
                 "Basic pharmaceutical products and pharmaceutical preparations",
                 "Chemicals and chemical products",
                 "Computer, electronic and optical products",
@@ -38,7 +39,6 @@
                 "Machinery and equipment n.e.c.",
                 "Motor vehicles, trailers and semi-trailers",
                 "Other",
-                "Other transport equipment",
                 "Weapons and ammunition",
                 ""
               ]
