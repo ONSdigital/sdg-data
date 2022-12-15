@@ -52,19 +52,19 @@ reporting_status_extra_fields: []
 # local, relative to the src_dir specified above.
 map_layers:
 #Country (https://geoportal.statistics.gov.uk/datasets/countries-december-2019-boundaries-uk-buc)
-  - geojson_file: https://opendata.arcgis.com/datasets/92ebeaf3caa8458ea467ec164baeefa4_0.geojson
+  - geojson_file: https://geoportal.statistics.gov.uk/datasets/e91dce8fd0f74a6a8ab1e61b3528deb5_0.geojson
     name_property: ctry19nm
     id_property: ctry19cd
     output_subfolder: country
     filename_prefix: indicator_
 #Region (link: https://hub.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4)
-  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4.geojson
+  - geojson_file: https://geoportal.statistics.gov.uk/datasets/5c945b8197394489ab1a743ab0064ec6_0.geojson
     name_property: rgn17nm
     id_property: rgn17cd
     output_subfolder: regions
     filename_prefix: indicator_
 #Local Authority (link: https://hub.arcgis.com/datasets/686603e943f948acaa13fb5d2b0f1275_4)
-  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/686603e943f948acaa13fb5d2b0f1275_4.geojson
+  - geojson_file: https://geoportal.statistics.gov.uk/datasets/e462c8a5e18e4f99a4eb36e03eb11c36_0.geojson
     name_property: lad16nm
     id_property: lad16cd
     output_subfolder: local_authorities
