@@ -19,13 +19,13 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "15 and under",
                 "16 to 17",
                 "18 to 19",
                 "20 to 24",
                 "25 to 34",
                 "35 to 44",
                 "45 and over",
-                "15 and under",
                 ""
               ]
             }
@@ -35,12 +35,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Contraceptive patch",
-                "Female condom",
+                "Long acting reversible contraceptives",
+                "User dependent",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Types of contraception",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Implant",
                 "Injectable contraceptive",
                 "IU device",
                 "IU system",
+                "Contraceptive patch",
+                "Female condom",
                 "Male condom",
                 "Natural family planning incl. rhythm method",
                 "Oral contraceptives",
