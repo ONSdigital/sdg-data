@@ -1,5 +1,5 @@
 Year,Series,Observation status,Unit multiplier,Units,Value
-1950,Proportion of marine protected area,Normal value,Unit,Percentage (%),0.0
+1950,Proportion of marine protected area,Normal value,Unit,Percentage (%),0
 1951,Proportion of marine protected area,Normal value,Unit,Percentage (%),0.01
 1952,Proportion of marine protected area,Normal value,Unit,Percentage (%),0.02
 1953,Proportion of marine protected area,Normal value,Unit,Percentage (%),0.03
@@ -72,76 +72,76 @@ Year,Series,Observation status,Unit multiplier,Units,Value
 2020,Proportion of marine protected area,Normal value,Unit,Percentage (%),38.17
 2021,Proportion of marine protected area,Normal value,Unit,Percentage (%),38.17
 2022,Proportion of marine protected area,Normal value,Unit,Percentage (%),38.17
-1950,Marine protected area extent,Normal value,Million,Hectares,0.0
-1951,Marine protected area extent,Normal value,Million,Hectares,0.01
-1952,Marine protected area extent,Normal value,Million,Hectares,0.02
-1953,Marine protected area extent,Normal value,Million,Hectares,0.02
-1954,Marine protected area extent,Normal value,Million,Hectares,0.04
-1955,Marine protected area extent,Normal value,Million,Hectares,0.04
-1956,Marine protected area extent,Normal value,Million,Hectares,0.07
-1957,Marine protected area extent,Normal value,Million,Hectares,0.08
-1958,Marine protected area extent,Normal value,Million,Hectares,0.08
-1959,Marine protected area extent,Normal value,Million,Hectares,0.08
-1960,Marine protected area extent,Normal value,Million,Hectares,0.08
-1961,Marine protected area extent,Normal value,Million,Hectares,0.08
-1962,Marine protected area extent,Normal value,Million,Hectares,0.08
-1963,Marine protected area extent,Normal value,Million,Hectares,0.08
-1964,Marine protected area extent,Normal value,Million,Hectares,0.09
-1965,Marine protected area extent,Normal value,Million,Hectares,0.09
-1966,Marine protected area extent,Normal value,Million,Hectares,0.11
-1967,Marine protected area extent,Normal value,Million,Hectares,0.11
-1968,Marine protected area extent,Normal value,Million,Hectares,0.11
-1969,Marine protected area extent,Normal value,Million,Hectares,0.11
-1970,Marine protected area extent,Normal value,Million,Hectares,0.11
-1971,Marine protected area extent,Normal value,Million,Hectares,0.12
-1972,Marine protected area extent,Normal value,Million,Hectares,0.19
-1973,Marine protected area extent,Normal value,Million,Hectares,0.19
-1974,Marine protected area extent,Normal value,Million,Hectares,0.2
-1975,Marine protected area extent,Normal value,Million,Hectares,0.2
-1976,Marine protected area extent,Normal value,Million,Hectares,0.23
-1977,Marine protected area extent,Normal value,Million,Hectares,0.23
-1978,Marine protected area extent,Normal value,Million,Hectares,0.23
-1979,Marine protected area extent,Normal value,Million,Hectares,0.23
-1980,Marine protected area extent,Normal value,Million,Hectares,0.23
-1981,Marine protected area extent,Normal value,Million,Hectares,0.23
-1982,Marine protected area extent,Normal value,Million,Hectares,0.23
-1983,Marine protected area extent,Normal value,Million,Hectares,0.23
-1984,Marine protected area extent,Normal value,Million,Hectares,0.23
-1985,Marine protected area extent,Normal value,Million,Hectares,0.25
-1986,Marine protected area extent,Normal value,Million,Hectares,0.27
-1987,Marine protected area extent,Normal value,Million,Hectares,0.27
-1988,Marine protected area extent,Normal value,Million,Hectares,0.27
-1989,Marine protected area extent,Normal value,Million,Hectares,0.27
-1990,Marine protected area extent,Normal value,Million,Hectares,0.3
-1991,Marine protected area extent,Normal value,Million,Hectares,0.3
-1992,Marine protected area extent,Normal value,Million,Hectares,0.3
-1993,Marine protected area extent,Normal value,Million,Hectares,0.31
-1994,Marine protected area extent,Normal value,Million,Hectares,0.35
-1995,Marine protected area extent,Normal value,Million,Hectares,0.35
-1996,Marine protected area extent,Normal value,Million,Hectares,0.96
-1997,Marine protected area extent,Normal value,Million,Hectares,1.1
-1998,Marine protected area extent,Normal value,Million,Hectares,1.13
-1999,Marine protected area extent,Normal value,Million,Hectares,1.16
-2000,Marine protected area extent,Normal value,Million,Hectares,1.17
-2001,Marine protected area extent,Normal value,Million,Hectares,1.21
-2002,Marine protected area extent,Normal value,Million,Hectares,1.22
-2003,Marine protected area extent,Normal value,Million,Hectares,1.3
-2004,Marine protected area extent,Normal value,Million,Hectares,1.3
-2005,Marine protected area extent,Normal value,Million,Hectares,1.3
-2006,Marine protected area extent,Normal value,Million,Hectares,1.36
-2007,Marine protected area extent,Normal value,Million,Hectares,1.41
-2008,Marine protected area extent,Normal value,Million,Hectares,1.68
-2009,Marine protected area extent,Normal value,Million,Hectares,1.87
-2010,Marine protected area extent,Normal value,Million,Hectares,3.79
-2011,Marine protected area extent,Normal value,Million,Hectares,5.04
-2012,Marine protected area extent,Normal value,Million,Hectares,7.5
-2013,Marine protected area extent,Normal value,Million,Hectares,8.41
-2014,Marine protected area extent,Normal value,Million,Hectares,14.47
-2015,Marine protected area extent,Normal value,Million,Hectares,14.48
-2016,Marine protected area extent,Normal value,Million,Hectares,16.69
-2017,Marine protected area extent,Normal value,Million,Hectares,20.78
-2018,Marine protected area extent,Normal value,Million,Hectares,20.94
-2019,Marine protected area extent,Normal value,Million,Hectares,21.83
-2020,Marine protected area extent,Normal value,Million,Hectares,33.82
-2021,Marine protected area extent,Normal value,Million,Hectares,33.82
-2022,Marine protected area extent,Normal value,Million,Hectares,33.82
+1950,Marine protected area extent,Normal value,Unit,Million hectares,0
+1951,Marine protected area extent,Normal value,Unit,Million hectares,0.01
+1952,Marine protected area extent,Normal value,Unit,Million hectares,0.02
+1953,Marine protected area extent,Normal value,Unit,Million hectares,0.02
+1954,Marine protected area extent,Normal value,Unit,Million hectares,0.04
+1955,Marine protected area extent,Normal value,Unit,Million hectares,0.04
+1956,Marine protected area extent,Normal value,Unit,Million hectares,0.07
+1957,Marine protected area extent,Normal value,Unit,Million hectares,0.08
+1958,Marine protected area extent,Normal value,Unit,Million hectares,0.08
+1959,Marine protected area extent,Normal value,Unit,Million hectares,0.08
+1960,Marine protected area extent,Normal value,Unit,Million hectares,0.08
+1961,Marine protected area extent,Normal value,Unit,Million hectares,0.08
+1962,Marine protected area extent,Normal value,Unit,Million hectares,0.08
+1963,Marine protected area extent,Normal value,Unit,Million hectares,0.08
+1964,Marine protected area extent,Normal value,Unit,Million hectares,0.09
+1965,Marine protected area extent,Normal value,Unit,Million hectares,0.09
+1966,Marine protected area extent,Normal value,Unit,Million hectares,0.11
+1967,Marine protected area extent,Normal value,Unit,Million hectares,0.11
+1968,Marine protected area extent,Normal value,Unit,Million hectares,0.11
+1969,Marine protected area extent,Normal value,Unit,Million hectares,0.11
+1970,Marine protected area extent,Normal value,Unit,Million hectares,0.11
+1971,Marine protected area extent,Normal value,Unit,Million hectares,0.12
+1972,Marine protected area extent,Normal value,Unit,Million hectares,0.19
+1973,Marine protected area extent,Normal value,Unit,Million hectares,0.19
+1974,Marine protected area extent,Normal value,Unit,Million hectares,0.2
+1975,Marine protected area extent,Normal value,Unit,Million hectares,0.2
+1976,Marine protected area extent,Normal value,Unit,Million hectares,0.23
+1977,Marine protected area extent,Normal value,Unit,Million hectares,0.23
+1978,Marine protected area extent,Normal value,Unit,Million hectares,0.23
+1979,Marine protected area extent,Normal value,Unit,Million hectares,0.23
+1980,Marine protected area extent,Normal value,Unit,Million hectares,0.23
+1981,Marine protected area extent,Normal value,Unit,Million hectares,0.23
+1982,Marine protected area extent,Normal value,Unit,Million hectares,0.23
+1983,Marine protected area extent,Normal value,Unit,Million hectares,0.23
+1984,Marine protected area extent,Normal value,Unit,Million hectares,0.23
+1985,Marine protected area extent,Normal value,Unit,Million hectares,0.25
+1986,Marine protected area extent,Normal value,Unit,Million hectares,0.27
+1987,Marine protected area extent,Normal value,Unit,Million hectares,0.27
+1988,Marine protected area extent,Normal value,Unit,Million hectares,0.27
+1989,Marine protected area extent,Normal value,Unit,Million hectares,0.27
+1990,Marine protected area extent,Normal value,Unit,Million hectares,0.3
+1991,Marine protected area extent,Normal value,Unit,Million hectares,0.3
+1992,Marine protected area extent,Normal value,Unit,Million hectares,0.3
+1993,Marine protected area extent,Normal value,Unit,Million hectares,0.31
+1994,Marine protected area extent,Normal value,Unit,Million hectares,0.35
+1995,Marine protected area extent,Normal value,Unit,Million hectares,0.35
+1996,Marine protected area extent,Normal value,Unit,Million hectares,0.96
+1997,Marine protected area extent,Normal value,Unit,Million hectares,1.1
+1998,Marine protected area extent,Normal value,Unit,Million hectares,1.13
+1999,Marine protected area extent,Normal value,Unit,Million hectares,1.16
+2000,Marine protected area extent,Normal value,Unit,Million hectares,1.17
+2001,Marine protected area extent,Normal value,Unit,Million hectares,1.21
+2002,Marine protected area extent,Normal value,Unit,Million hectares,1.22
+2003,Marine protected area extent,Normal value,Unit,Million hectares,1.3
+2004,Marine protected area extent,Normal value,Unit,Million hectares,1.3
+2005,Marine protected area extent,Normal value,Unit,Million hectares,1.3
+2006,Marine protected area extent,Normal value,Unit,Million hectares,1.36
+2007,Marine protected area extent,Normal value,Unit,Million hectares,1.41
+2008,Marine protected area extent,Normal value,Unit,Million hectares,1.68
+2009,Marine protected area extent,Normal value,Unit,Million hectares,1.87
+2010,Marine protected area extent,Normal value,Unit,Million hectares,3.79
+2011,Marine protected area extent,Normal value,Unit,Million hectares,5.04
+2012,Marine protected area extent,Normal value,Unit,Million hectares,7.5
+2013,Marine protected area extent,Normal value,Unit,Million hectares,8.41
+2014,Marine protected area extent,Normal value,Unit,Million hectares,14.47
+2015,Marine protected area extent,Normal value,Unit,Million hectares,14.48
+2016,Marine protected area extent,Normal value,Unit,Million hectares,16.69
+2017,Marine protected area extent,Normal value,Unit,Million hectares,20.78
+2018,Marine protected area extent,Normal value,Unit,Million hectares,20.94
+2019,Marine protected area extent,Normal value,Unit,Million hectares,21.83
+2020,Marine protected area extent,Normal value,Unit,Million hectares,33.82
+2021,Marine protected area extent,Normal value,Unit,Million hectares,33.82
+2022,Marine protected area extent,Normal value,Unit,Million hectares,33.82
