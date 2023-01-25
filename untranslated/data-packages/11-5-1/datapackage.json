@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of deaths from exposure to forces of nature",
                 "Age-standardised mortality rates per 100,000 population",
+                "Number of deaths from exposure to forces of nature",
                 ""
               ]
             }
@@ -32,7 +32,6 @@
               "enum": [
                 "England",
                 "Wales",
-                "England and Wales",
                 ""
               ]
             }
@@ -76,8 +75,15 @@
             "type": "number"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate per 100,000 population",
+                "Number",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
