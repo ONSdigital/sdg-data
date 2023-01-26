@@ -26,23 +26,23 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage (%)",
-                "Hectares",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Observation status",
             "type": "string"
           },
           {
             "name": "Unit multiplier",
             "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                "Million hectares",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

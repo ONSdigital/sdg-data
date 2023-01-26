@@ -16788,18 +16788,6 @@
             "title": "Series"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage (%)",
-                "Hectares",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Observation status",
             "type": "string",
             "title": "Observation status"
@@ -16808,6 +16796,18 @@
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                "Million hectares",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
