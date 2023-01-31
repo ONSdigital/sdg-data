@@ -27,6 +27,16 @@
             "title": "Series"
           },
           {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -36,16 +46,6 @@
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
           },
           {
             "name": "Value",
