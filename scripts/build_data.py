@@ -83,10 +83,11 @@ def alter_meta(meta):
             if indicator_id in changed_indicators['number'].values:
                 meta['change_notice']=change_types[changed_indicators.loc[changed_indicators['number']==indicator_id]['change_type'].values[0]]
        
-        list = ['source_next_release_1', 'source_next_release_2', 'source_next_release_3', 'source_next_release_4', 'source_next_release_5', 'source_next_release_6', 'source_next_release_7', 'source_next_release_8', 'source_next_release_9']
-        if source in meta:
-          if source != "TBC":
-            meta[source] = str(meta[source]) + ": We plan to update indicator data within 4 months of data being released" 
+        source_list = ['source_next_release_1', 'source_next_release_2', 'source_next_release_3', 'source_next_release_4', 'source_next_release_5', 'source_next_release_6', 'source_next_release_7', 'source_next_release_8', 'source_next_release_9']
+        for source in source_list:
+          if source in meta:
+            if source != "TBC":
+              meta[source] = str(meta[source]) + ": We plan to update indicator data within 4 months of data being released" 
          
             
         # if indicator changed during UN 2020 Comprehensive Review then set 'change_notice' metadata field using 'change_types' defined earlier       
