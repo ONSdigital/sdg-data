@@ -84,19 +84,14 @@ def alter_meta(meta):
                 meta['change_notice']=change_types[changed_indicators.loc[changed_indicators['number']==indicator_id]['change_type'].values[0]]
        
         # checks if there is a next release date for a source or multiple sources and adds a string stating when the data will next be updated
-        if 'source_next_release_1' in meta:
-          if 'source_next_release_1'!= "TBC":
-            meta['source_next_release_1']= str(meta['source_next_release_1'])+" We plan to update indicator data within 4 months of data being released"  
-        if 'source_next_release_2' in meta:
-          if 'source_next_release_2'!= "TBC":
-            meta['source_next_release_2']= str(meta['source_next_release_2'])+" We plan to update indicator data within 4 months of data being released"  
-        if 'source_next_release_3' in meta:
-          if 'source_next_release_3'!= "TBC":
-            meta['source_next_release_3']= str(meta['source_next_release_3'])+" We plan to update indicator data within 4 months of data being released"
-        if 'source_next_release_4' in meta:
-          if 'source_next_release_4'!= "TBC":
-            meta['source_next_release_4']= str(meta['source_next_release_4'])+" We plan to update indicator data within 4 months of data being released" 
-            
+        
+        list = ['source_next_release_1', 'source_next_release_2', 'source_next_release_3', 'source_next_release_4', 'source_next_release_5', 'source_next_release_6', 'source_next_release_7', 'source_next_release_8', 'source_next_release_9']
+        for source in list:
+          if source in meta:
+            if source != "TBC":
+              meta[source] = str(meta[source]) + ": We plan to update indicator data within 4 months of data being released" 
+              
+              
         # if indicator changed during UN 2020 Comprehensive Review then set 'change_notice' metadata field using 'change_types' defined earlier       
         # some actions for indicators which are marked as standalone in metadata i.e. archived indicators
         elif 'standalone' in meta and meta['standalone'] == True:
