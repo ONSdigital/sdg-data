@@ -120,7 +120,13 @@ def alter_meta(meta):
                 # use different text for non-reported standalone indicators
                 if meta['reporting_status']=="notstarted":
                     meta['page_content']="<strong>No data was sourced for this indicator</strong>"+meta['page_content']
-
+                    
+        list = ['source_next_release_1', 'source_next_release_2', 'source_next_release_3', 'source_next_release_4', 'source_next_release_5', 'source_next_release_6', 'source_next_release_7', 'source_next_release_8', 'source_next_release_9']
+        for source in list:
+          if source in meta:
+            if source != "TBC":
+              meta[source] = str(meta[source]) + ": We plan to update indicator data within 4 months of data being released" 
+              
     return meta
   
 open_sdg_build(config='config_data.yml', alter_meta=alter_meta)
