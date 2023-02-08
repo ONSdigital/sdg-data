@@ -1,5 +1,5 @@
 git+https://github.com/dougmet/yamlmd
-git+https://github.com/brockfanning/sdg-build1@data-start-values-for-maps
+git+https://github.com/brockfanning/sdg-build@data-start-values-for-maps
 xlrd==1.2.0
 openpyxl
 frictionless==4.40.8
