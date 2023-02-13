@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Country Group",
+            "name": "Country group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,7 +26,7 @@
                 ""
               ]
             },
-            "title": "Country Group"
+            "title": "Country group"
           },
           {
             "name": "Product Sector",

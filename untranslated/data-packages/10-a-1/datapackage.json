@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Country Group",
+            "name": "Country group",
             "type": "string",
             "constraints": {
               "enum": [
