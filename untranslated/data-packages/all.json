@@ -5743,6 +5743,16 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Installed capacity of sites generating electricity from renewable sources",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Country",
             "type": "string",
             "constraints": {
@@ -5760,31 +5770,31 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "East Midlands",
-                "East of England",
                 "North East",
                 "North West",
+                "Yorkshire and The Humber",
+                "East Midlands",
+                "West Midlands",
+                "East of England",
                 "London",
                 "South East",
                 "South West",
-                "West Midlands",
-                "Yorkshire and The Humber",
                 ""
               ]
             }
           },
           {
-            "name": "Renewable Source",
+            "name": "Renewable source",
             "type": "string",
             "constraints": {
               "enum": [
                 "Hydro",
                 "Landfill gas",
-                "Other bioenergy",
                 "Sewage gas",
                 "Solar PV",
                 "Wave and tidal",
                 "Wind",
+                "Other bioenergy",
                 ""
               ]
             }
@@ -5794,8 +5804,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Onshore Wind",
                 "Offshore Wind",
+                "Onshore Wind",
                 ""
               ]
             }
@@ -5805,7 +5815,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AD",
+                "Anaerobic Digestion (AD)",
                 "Biomass and waste",
                 ""
               ]
@@ -5813,19 +5823,20 @@
           },
           {
             "name": "Units",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Watts per capita",
                 ""
               ]
             }
           },
           {
-            "name": "Observation status",
-            "type": "number"
+            "name": "Unit multiplier",
+            "type": "string"
           },
           {
-            "name": "Unit multiplier",
+            "name": "Observation status",
             "type": "string"
           },
           {
