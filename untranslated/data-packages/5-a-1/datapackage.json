@@ -19,8 +19,53 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Managers and proprietors in agriculture related services",
                 "Managers and proprietors in agriculture and horticulture",
-                "Managers and proprietors in forestry fishing and related services",
+                "Managers and proprietors in forestry, fishing and related services",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "England and Wales",
+                "Great Britain",
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "East",
+                "East Midlands",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
                 ""
               ]
             }
@@ -30,11 +75,11 @@
             "type": "string"
           },
           {
-            "name": "Unit multiplier",
+            "name": "Unit measure",
             "type": "string"
           },
           {
-            "name": "Unit measure",
+            "name": "GeoCode",
             "type": "string"
           },
           {
