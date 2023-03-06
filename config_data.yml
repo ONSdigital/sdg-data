@@ -112,6 +112,8 @@ docs_metadata_fields:
 datapackage:
   sorting: default
 
+foo: 'hello 'open' sdg'
+
 sdmx_output_global:
   column_map: column_mapping.csv
   code_map: code_mapping.csv
