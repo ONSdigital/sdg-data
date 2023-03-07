@@ -47,11 +47,6 @@ archived_indicators=pd.read_csv('archived_indicators.csv')
 # pull info about changed indicators from CSV in data repo: https://github.com/ONSdigital/sdg-data/blob/develop/changed_indicators.csv
 changed_indicators=pd.read_csv('changed_indicators.csv')
 
-def my_indicator_callback(indicator):
-  print('Running indicator callback for indicator ' + indicator.inid)
-
-open_sdg_build(config='config_data.yml', indicator_callback=my_indicator_callback)
-
 # function which changes metadata based on code during data build - loops through every metadata file in meta folder of data repo
 def alter_meta(meta):
     # check if 'indicator_number' field is present in metadata and if so set some variables inc. indicator_id, id_parts, target_id, goal_id 
@@ -125,4 +120,9 @@ def alter_meta(meta):
                
     return meta
   
+def my_indicator_callback(indicator):
+  print('Running indicator callback for indicator ' + indicator.inid)
+
+open_sdg_build(config='config_data.yml', indicator_callback=my_indicator_callback) 
+
 open_sdg_build(config='config_data.yml', alter_meta=alter_meta)
