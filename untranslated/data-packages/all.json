@@ -16294,16 +16294,6 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Net Official Development Assistance (ODA) to infrastructure",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Country income classification",
             "type": "string",
             "constraints": {
@@ -16322,15 +16312,12 @@
             "type": "string"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "GBP (£ thousands)",
-                "Constant USD ($ thousands)",
-                ""
-              ]
-            }
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
           },
           {
             "name": "Value",
