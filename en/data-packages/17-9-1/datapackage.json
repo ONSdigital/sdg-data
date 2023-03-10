@@ -16,6 +16,17 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Net Official Development Assistance (ODA) flows to developing countries",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Country income classification",
             "type": "string",
             "constraints": {
@@ -36,17 +47,12 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 "GBP (£ thousands)",
-                "USD ($ thousands)",
+                "Constant USD ($ thousands)",
                 ""
               ]
             },
