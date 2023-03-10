@@ -16,6 +16,17 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Net Official Development Assistance (ODA) to infrastructure",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Country income classification",
             "type": "string",
             "constraints": {
@@ -36,14 +47,16 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit multiplier",
+            "name": "Units",
             "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "GBP (£ thousands)",
+                "Constant USD ($ thousands)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
