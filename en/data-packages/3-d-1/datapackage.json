@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Average of 13 International Health Regulations (IHR) core capacities",
+                "Average of International Health Regulations (IHR) core capacities",
                 ""
               ]
             },
@@ -32,18 +32,21 @@
             "constraints": {
               "enum": [
                 "Legislation and financing",
-                "IHR Coordination and National IHR Focal Point Functions",
-                "Zoonotic Events and the Human–animal Interface",
-                "Food Safety",
+                "IHR coordination and national IHR focal point functions",
+                "Zoonotic events and the human–animal interface",
+                "Food safety",
                 "Laboratory",
                 "Surveillance",
-                "Human Resources",
-                "National Health Emergency Framework",
-                "Health Service Provision",
-                "Risk Communication",
-                "Points of Entry",
-                "Chemical Events",
-                "Radiation Emergencies",
+                "Human resources",
+                "National health emergency framework",
+                "Health service provision",
+                "Risk communication",
+                "Points of entry",
+                "Chemical events",
+                "Radiation emergencies",
+                "Policy, legal and normative instruments to implement IHR",
+                "Financing",
+                "Infection prevention and control (IPC)",
                 ""
               ]
             },
