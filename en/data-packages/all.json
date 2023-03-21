@@ -23481,8 +23481,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             },
@@ -23494,9 +23494,10 @@
             "constraints": {
               "enum": [
                 "Cancer",
-                "Diabetes",
                 "Cardiovascular disease",
                 "Chronic respiratory disease",
+                "COVID-19",
+                "Diabetes",
                 ""
               ]
             },
@@ -23507,14 +23508,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Other diseases of upper respiratory tract",
                 "Chronic lower respiratory diseases",
                 "Lung diseases due to external agents",
-                "Other respiratory diseases principally affecting the interstitium",
-                "Suppurative and necrotic conditions of lower respiratory tract",
                 "Other diseases of pleura",
-                "Respiratory failure, not elsewhere classified",
+                "Other diseases of upper respiratory tract",
+                "Other respiratory diseases principally affecting the interstitium",
                 "Other respiratory disorders",
+                "Postprocedural respiratory disorders, not elsewhere classified",
+                "Respiratory failure, not elsewhere classified",
+                "Suppurative and necrotic conditions of lower respiratory tract",
                 ""
               ]
             },
