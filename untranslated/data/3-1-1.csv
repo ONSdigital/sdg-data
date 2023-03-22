@@ -181,6 +181,7 @@ Year,Series,Age,Country,Country of birth,Death classification,Deprivation quinti
 2009-11,Maternal mortality ratio,,,,,,,Normal value,Units,"Rate per 100,000 live births",Units,,5.57
 2012-14,Maternal mortality ratio,,,,,,,Normal value,Units,"Rate per 100,000 live births",Units,,4.65
 2015-17,Maternal mortality ratio,,,,,,,Normal value,Units,"Rate per 100,000 live births",Units,,4.1
+2018-20,Maternal mortality ratio,,,,,,,Normal value,Units,"Rate per 100,000 live births",Units,,6.04
 2017-19,Maternal mortality rate,,,,Direct,,,Normal value,Units,"Rate per 100,000 maternities",Units,,3.59
 2017-19,Maternal mortality rate,,,,Indirect,,,Normal value,Units,"Rate per 100,000 maternities",Units,,5.2
 2017-19,Maternal mortality rate,,,,,,,Normal value,Units,"Rate per 100,000 maternities",Units,,8.79
@@ -202,3 +203,24 @@ Year,Series,Age,Country,Country of birth,Death classification,Deprivation quinti
 2017-19,Maternal mortality rate,,England,,,,Mixed/multiple ethnic groups,Normal value,Units,"Rate per 100,000 maternities",Units,E92000001,15.41
 2017-19,Maternal mortality rate,,,Born in UK,,,,Normal value,Units,"Rate per 100,000 maternities",Units,,8.66
 2017-19,Maternal mortality rate,,,Not born in UK,,,,Normal value,Units,"Rate per 100,000 maternities",Units,,6.93
+2018-20,Maternal mortality rate,,,,Direct,,,Normal value,Units,"Rate per 100,000 maternities",Units,,5.19
+2018-20,Maternal mortality rate,,,,Indirect,,,Normal value,Units,"Rate per 100,000 maternities",Units,,5.71
+2018-20,Maternal mortality rate,,,,,,,Normal value,Units,"Rate per 100,000 maternities",Units,,10.9
+2018-20,Maternal mortality rate,19 and under,,,,,,Normal value,Units,"Rate per 100,000 maternities",Units,,15.35
+2018-20,Maternal mortality rate,20 to 24,,,,,,Normal value,Units,"Rate per 100,000 maternities",Units,,8.45
+2018-20,Maternal mortality rate,25 to 29,,,,,,Normal value,Units,"Rate per 100,000 maternities",Units,,8.75
+2018-20,Maternal mortality rate,30 to 34,,,,,,Normal value,Units,"Rate per 100,000 maternities",Units,,9.97
+2018-20,Maternal mortality rate,35 to 39,,,,,,Normal value,Units,"Rate per 100,000 maternities",Units,,13.24
+2018-20,Maternal mortality rate,40 and over,,,,,,Normal value,Units,"Rate per 100,000 maternities",Units,,25.3
+2018-20,Maternal mortality rate,,England,,,Quintile 1 (least deprived),,Normal value,Units,"Rate per 100,000 maternities",Units,E92000001,7.12
+2018-20,Maternal mortality rate,,England,,,Quintile 2,,Normal value,Units,"Rate per 100,000 maternities",Units,E92000001,6.96
+2018-20,Maternal mortality rate,,England,,,Quintile 3,,Normal value,Units,"Rate per 100,000 maternities",Units,E92000001,7.52
+2018-20,Maternal mortality rate,,England,,,Quintile 4,,Normal value,Units,"Rate per 100,000 maternities",Units,E92000001,9.83
+2018-20,Maternal mortality rate,,England,,,Quintile 5 (most deprived),,Normal value,Units,"Rate per 100,000 maternities",Units,E92000001,17.96
+2018-20,Maternal mortality rate,,England,,,,White (inc. not known),Normal value,Units,"Rate per 100,000 maternities",Units,E92000001,9.23
+2018-20,Maternal mortality rate,,England,,,,Asian,Normal value,Units,"Rate per 100,000 maternities",Units,E92000001,16.12
+2018-20,Maternal mortality rate,,England,,,,Black,Normal value,Units,"Rate per 100,000 maternities",Units,E92000001,33.99
+2018-20,Maternal mortality rate,,England,,,,Chinese or other,Normal value,Units,"Rate per 100,000 maternities",Units,E92000001,8.22
+2018-20,Maternal mortality rate,,England,,,,Mixed/multiple ethnic groups,Normal value,Units,"Rate per 100,000 maternities",Units,E92000001,12.2
+2018-20,Maternal mortality rate,,,Born in UK,,,,Normal value,Units,"Rate per 100,000 maternities",Units,,10.11
+2018-20,Maternal mortality rate,,,Not born in UK,,,,Normal value,Units,"Rate per 100,000 maternities",Units,,9.51
