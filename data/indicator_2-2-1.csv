@@ -1,5 +1,5 @@
 Year,Sex,Index of Multiple Deprivation (IMD),Ethnicity,Rural or Urban,Units,Observation status,Unit multiplier,Value
-2013/14,,,,Rural,Percentage (%),Normal value,Units,1.55712841253792
+2013/14,,,,Rural,Percentage (%),Normal value,Units,1.55712841254
 2014/15,,,,Rural,Percentage (%),Normal value,Units,1.634827333
 2015/16,,,,Rural,Percentage (%),Normal value,Units,1.59270226
 2016/17,,,,Rural,Percentage (%),Normal value,Units,1.617633664
@@ -13,13 +13,13 @@ Year,Sex,Index of Multiple Deprivation (IMD),Ethnicity,Rural or Urban,Units,Obse
 2017/18,,,,Urban,Percentage (%),Normal value,Units,1.79306201
 2018/19,,,,Urban,Percentage (%),Normal value,Units,1.815949606
 2019/20,,,,Urban,Percentage (%),Normal value,Units,2.015866686
-2013/14,,,,Not Classified,Percentage (%),Normal value,Units,2.01401050788091
-2014/15,,,,Not Classified,Percentage (%),Normal value,Units,1.926977688
-2015/16,,,,Not Classified,Percentage (%),Normal value,Units,2.300405954
-2016/17,,,,Not Classified,Percentage (%),Normal value,Units,1.499250375
-2017/18,,,,Not Classified,Percentage (%),Normal value,Units,2.54691689
-2018/19,,,,Not Classified,Percentage (%),Normal value,Units,2.803738318
-2019/20,,,,Not Classified,Percentage (%),Normal value,Units,1.162790698
+2013/14,,,,Unable to categorise,Percentage (%),Normal value,Units,2.01401050788091
+2014/15,,,,Unable to categorise,Percentage (%),Normal value,Units,1.926977688
+2015/16,,,,Unable to categorise,Percentage (%),Normal value,Units,2.300405954
+2016/17,,,,Unable to categorise,Percentage (%),Normal value,Units,1.499250375
+2017/18,,,,Unable to categorise,Percentage (%),Normal value,Units,2.54691689
+2018/19,,,,Unable to categorise,Percentage (%),Normal value,Units,2.803738318
+2019/20,,,,Unable to categorise,Percentage (%),Normal value,Units,1.162790698
 2006/07,Female,,,,Percentage (%),Normal value,Units,2.35266785410052
 2006/07,Male,,,,Percentage (%),Normal value,Units,2.16729592882021
 2006/07,,IMD 1 (most deprived),,,Percentage (%),Normal value,Units,2.54106415836024
@@ -370,3 +370,32 @@ Year,Sex,Index of Multiple Deprivation (IMD),Ethnicity,Rural or Urban,Units,Obse
 2019/20,,,Any other Ethnic group,,Percentage (%),Normal value,Units,1.801969162
 2019/20,,,Not stated / Invalid,,Percentage (%),Normal value,Units,1.974886518
 2019/20,,,,,Percentage (%),Normal value,Units,1.993427972
+2021/22,Female,,,,Percentage (%),Normal value,Units,1.58436820430305
+2021/22,Male,,,,Percentage (%),Normal value,Units,1.38489194756699
+2021/22,,IMD 1 (most deprived),,,Percentage (%),Normal value,Units,1.84611113681581
+2021/22,,IMD 2,,,Percentage (%),Normal value,Units,1.55793753465164
+2021/22,,IMD 3,,,Percentage (%),Normal value,Units,1.4415343369767
+2021/22,,IMD 4,,,Percentage (%),Normal value,Units,1.21056249029998
+2021/22,,IMD 5 (least deprived),,,Percentage (%),Normal value,Units,1.16268078268267
+2021/22,,Unable to categorise,,,Percentage (%),Normal value,Units,2.38095238095238
+2021/22,,,White - British,,Percentage (%),Normal value,Units,1.5306159885534
+2021/22,,,White - Irish,,Percentage (%),Normal value,Units,1.53321976149915
+2021/22,,,Any other White background,,Percentage (%),Normal value,Units,1.16959064327485
+2021/22,,,White and Black Caribbean,,Percentage (%),Normal value,Units,1.19394292370414
+2021/22,,,White and Black African,,Percentage (%),Normal value,Units,0.815217391304348
+2021/22,,,White and Asian,,Percentage (%),Normal value,Units,1.77865612648221
+2021/22,,,Any other Mixed background,,Percentage (%),Normal value,Units,1.52297367062468
+2021/22,,,Indian,,Percentage (%),Normal value,Units,2.2563496751329
+2021/22,,,Pakistani,,Percentage (%),Normal value,Units,1.22587137498856
+2021/22,,,Bangladeshi,,Percentage (%),Normal value,Units,2.69430051813471
+2021/22,,,Chinese,,Percentage (%),Normal value,Units,3.00387596899225
+2021/22,,,Any other Asian background,,Percentage (%),Normal value,Units,2.25439503619442
+2021/22,,,Black - African,,Percentage (%),Normal value,Units,0.345666367942645
+2021/22,,,Black - Caribbean,,Percentage (%),Normal value,Units,0.558971492453885
+2021/22,,,Any other Black background,,Percentage (%),Normal value,Units,0.972972972972973
+2021/22,,,Any other Ethnic group,,Percentage (%),Normal value,Units,1.57278125501525
+2021/22,,,Not stated / Invalid,,Percentage (%),Normal value,Units,1.42244683569461
+2021/22,,,,,Percentage (%),Normal value,Units,1.48303756192387
+2021/22,,,,Rural,Percentage (%),Normal value,Units,1.33687917774743
+2021/22,,,,Urban,Percentage (%),Normal value,Units,1.51042375386521
+2021/22,,,,Unable to categorise,Percentage (%),Normal value,Units,2.38095238095238
