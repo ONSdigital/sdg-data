@@ -18652,13 +18652,24 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total climate-specific financial support provided",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Theme",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mitigation",
                 "Adaptation",
                 "Cross-cutting",
+                "Mitigation",
                 "Other",
                 "Total",
                 ""
@@ -18675,6 +18686,17 @@
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "USD",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

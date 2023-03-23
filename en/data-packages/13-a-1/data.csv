@@ -1,39 +1,47 @@
-Year,Theme,Observation status,Unit multiplier,Value
-2011,Mitigation,Undefined,1000000,407.25
-2011,Adaptation,Undefined,1000000,156.05
-2011,Cross-cutting,Undefined,1000000,11.56
-2011,Other,Undefined,1000000,127.34
-2011,Total,Undefined,1000000,702.1999999999999
-2012,Mitigation,Undefined,1000000,408.97
-2012,Adaptation,Undefined,1000000,219.63
-2012,Cross-cutting,Undefined,1000000,11.07
-2012,Other,Undefined,1000000,146.1
-2012,Total,Undefined,1000000,785.7700000000001
-2013,Mitigation,Undefined,1000000,249.41
-2013,Adaptation,Undefined,1000000,243.1
-2013,Cross-cutting,Undefined,1000000,542.56
-2013,Other,Undefined,1000000,180.65
-2013,Total,Undefined,1000000,1215.72
-2014,Mitigation,Undefined,1000000,133.76
-2014,Adaptation,Undefined,1000000,270.02
-2014,Cross-cutting,Undefined,1000000,853.73
-2014,Other,Undefined,1000000,203.36
-2014,Total,Undefined,1000000,1460.87
-2015,Mitigation,Undefined,1000000,351.9
-2015,Adaptation,Undefined,1000000,270.01
-2015,Cross-cutting,Undefined,1000000,524.56
-2015,Other,Undefined,1000000,768.52
-2015,Total,Undefined,1000000,1914.99
-2016,Mitigation,Undefined,1000000,389.75
-2016,Adaptation,Undefined,1000000,416.38
-2016,Cross-cutting,Undefined,1000000,252.97
-2016,Other,Undefined,1000000,357.37
-2016,Total,Undefined,1000000,1416.4699999999998
-2017,Mitigation,Undefined,1000000,483.13
-2017,Adaptation,Undefined,1000000,479.94
-2017,Cross-cutting,Undefined,1000000,198.41
-2017,Total,Undefined,1000000,1161.48
-2018,Mitigation,Undefined,1000000,649.62
-2018,Adaptation,Undefined,1000000,613.66
-2018,Cross-cutting,Undefined,1000000,294.92
-2018,Total,Undefined,1000000,1558.1999999999998
+Year,Series,Theme,Observation status,Unit multiplier,Units,Value
+2011,Total climate-specific financial support provided,Adaptation,Normal value,Millions,USD,156.05
+2011,Total climate-specific financial support provided,Cross-cutting,Normal value,Millions,USD,11.56
+2011,Total climate-specific financial support provided,Mitigation,Normal value,Millions,USD,407.25
+2011,Total climate-specific financial support provided,Other,Normal value,Millions,USD,127.34
+2011,Total climate-specific financial support provided,Total,Normal value,Millions,USD,702.1999999999999
+2012,Total climate-specific financial support provided,Adaptation,Normal value,Millions,USD,219.63
+2012,Total climate-specific financial support provided,Cross-cutting,Normal value,Millions,USD,11.07
+2012,Total climate-specific financial support provided,Mitigation,Normal value,Millions,USD,408.97
+2012,Total climate-specific financial support provided,Other,Normal value,Millions,USD,146.1
+2012,Total climate-specific financial support provided,Total,Normal value,Millions,USD,785.7700000000001
+2013,Total climate-specific financial support provided,Adaptation,Normal value,Millions,USD,243.1
+2013,Total climate-specific financial support provided,Cross-cutting,Normal value,Millions,USD,542.56
+2013,Total climate-specific financial support provided,Mitigation,Normal value,Millions,USD,249.41
+2013,Total climate-specific financial support provided,Other,Normal value,Millions,USD,180.65
+2013,Total climate-specific financial support provided,Total,Normal value,Millions,USD,1215.72
+2014,Total climate-specific financial support provided,Adaptation,Normal value,Millions,USD,270.02
+2014,Total climate-specific financial support provided,Cross-cutting,Normal value,Millions,USD,853.73
+2014,Total climate-specific financial support provided,Mitigation,Normal value,Millions,USD,133.76
+2014,Total climate-specific financial support provided,Other,Normal value,Millions,USD,203.36
+2014,Total climate-specific financial support provided,Total,Normal value,Millions,USD,1460.87
+2015,Total climate-specific financial support provided,Adaptation,Normal value,Millions,USD,270.01
+2015,Total climate-specific financial support provided,Cross-cutting,Normal value,Millions,USD,524.56
+2015,Total climate-specific financial support provided,Mitigation,Normal value,Millions,USD,351.9
+2015,Total climate-specific financial support provided,Other,Normal value,Millions,USD,768.52
+2015,Total climate-specific financial support provided,Total,Normal value,Millions,USD,1914.99
+2016,Total climate-specific financial support provided,Adaptation,Normal value,Millions,USD,416.38
+2016,Total climate-specific financial support provided,Cross-cutting,Normal value,Millions,USD,252.97
+2016,Total climate-specific financial support provided,Mitigation,Normal value,Millions,USD,389.75
+2016,Total climate-specific financial support provided,Other,Normal value,Millions,USD,357.37
+2016,Total climate-specific financial support provided,Total,Normal value,Millions,USD,1416.4699999999998
+2017,Total climate-specific financial support provided,Adaptation,Normal value,Millions,USD,479.94
+2017,Total climate-specific financial support provided,Cross-cutting,Normal value,Millions,USD,198.41
+2017,Total climate-specific financial support provided,Mitigation,Normal value,Millions,USD,483.13
+2017,Total climate-specific financial support provided,Total,Normal value,Millions,USD,1161.48
+2018,Total climate-specific financial support provided,Adaptation,Normal value,Millions,USD,613.66
+2018,Total climate-specific financial support provided,Cross-cutting,Normal value,Millions,USD,294.92
+2018,Total climate-specific financial support provided,Mitigation,Normal value,Millions,USD,649.62
+2018,Total climate-specific financial support provided,Total,Normal value,Millions,USD,1558.1999999999998
+2019,Total climate-specific financial support provided,Adaptation,Normal value,Millions,USD,604.61
+2019,Total climate-specific financial support provided,Cross-cutting,Normal value,Millions,USD,10.16
+2019,Total climate-specific financial support provided,Mitigation,Normal value,Millions,USD,896.79
+2019,Total climate-specific financial support provided,Total,Normal value,Millions,USD,1511.56
+2020,Total climate-specific financial support provided,Adaptation,Normal value,Millions,USD,541.71
+2020,Total climate-specific financial support provided,Cross-cutting,Normal value,Millions,USD,629.89
+2020,Total climate-specific financial support provided,Mitigation,Normal value,Millions,USD,531.83
+2020,Total climate-specific financial support provided,Total,Normal value,Millions,USD,1703.4299999999998
