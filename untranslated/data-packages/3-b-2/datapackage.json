@@ -54,16 +54,12 @@
             "type": "string"
           },
           {
-            "name": "Unit multiplier",
-            "type": "string"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "GBP",
-                "Constant USD",
+                "GBP (£ thousands)",
+                "Constant USD ($ thousands)",
                 ""
               ]
             }
