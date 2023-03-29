@@ -1,67 +1,77 @@
-Year,Country income classification,Observation status,Unit multiplier,Units,Value
-2015,LDCs,Definition differs,Thousands,GBP (£ thousands),6017.38705
-2016,LDCs,Definition differs,Thousands,GBP (£ thousands),3826.45199
-2017,LDCs,Definition differs,Thousands,GBP (£ thousands),10802.171123
-2018,LDCs,Definition differs,Thousands,GBP (£ thousands),10675.701118
-2019,LDCs,Definition differs,Thousands,GBP (£ thousands),10301.899877
-2020,LDCs,Definition differs,Thousands,GBP (£ thousands),7366.880356
-2015,LMICs,Definition differs,Thousands,GBP (£ thousands),18028.65236
-2016,LMICs,Definition differs,Thousands,GBP (£ thousands),16370.10221
-2017,LMICs,Definition differs,Thousands,GBP (£ thousands),11947.208755
-2018,LMICs,Definition differs,Thousands,GBP (£ thousands),14649.034491
-2019,LMICs,Definition differs,Thousands,GBP (£ thousands),16822.925665
-2020,LMICs,Definition differs,Thousands,GBP (£ thousands),16607.17711
-2015,Other LICs,Definition differs,Thousands,GBP (£ thousands),240.88263
-2016,Other LICs,Definition differs,Thousands,GBP (£ thousands),815.713
-2017,Other LICs,Definition differs,Thousands,GBP (£ thousands),1794.833509
-2015,UMICs,Definition differs,Thousands,GBP (£ thousands),1991.06222
-2016,UMICs,Definition differs,Thousands,GBP (£ thousands),6010.50271
-2017,UMICs,Definition differs,Thousands,GBP (£ thousands),1360.597272
-2018,UMICs,Definition differs,Thousands,GBP (£ thousands),10.02608
-2019,UMICs,Definition differs,Thousands,GBP (£ thousands),3228.4278
-2020,UMICs,Definition differs,Thousands,GBP (£ thousands),13917.4899
-2015,Unspecified,Definition differs,Thousands,GBP (£ thousands),187655.81383
-2016,Unspecified,Definition differs,Thousands,GBP (£ thousands),102782.94035
-2017,Unspecified,Definition differs,Thousands,GBP (£ thousands),27850.832184
-2018,Unspecified,Definition differs,Thousands,GBP (£ thousands),79140.850742
-2019,Unspecified,Definition differs,Thousands,GBP (£ thousands),75864.903738
-2020,Unspecified,Definition differs,Thousands,GBP (£ thousands),58025.070883
-2015,,Definition differs,Thousands,GBP (£ thousands),213933.79809
-2016,,Definition differs,Thousands,GBP (£ thousands),129805.71026
-2017,,Definition differs,Thousands,GBP (£ thousands),53755.642843
-2018,,Definition differs,Thousands,GBP (£ thousands),104475.612431
-2019,,Definition differs,Thousands,GBP (£ thousands),106218.15708
-2020,,Definition differs,Thousands,GBP (£ thousands),95916.618249
-2015,LDCs,Definition differs,Millions,USD ($ millions),8.03682214398
-2016,LDCs,Definition differs,Millions,USD ($ millions),5.110609277844
-2017,LDCs,Definition differs,Millions,USD ($ millions),14.4273797518788
-2018,LDCs,Definition differs,Millions,USD ($ millions),14.2584664132008
-2019,LDCs,Definition differs,Millions,USD ($ millions),13.759217475721195
-2020,LDCs,Definition differs,Millions,USD ($ millions),9.8392054034736
-2015,LMICs,Definition differs,Millions,USD ($ millions),24.079068092016
-2016,LMICs,Definition differs,Millions,USD ($ millions),21.863908511675994
-2017,LMICs,Definition differs,Millions,USD ($ millions),15.956692013178
-2018,LMICs,Definition differs,Millions,USD ($ millions),19.5652504661796
-2019,LMICs,Definition differs,Millions,USD ($ millions),22.468699518174
-2020,LMICs,Definition differs,Millions,USD ($ millions),22.180545748116
-2015,Other LICs,Definition differs,Millions,USD ($ millions),0.321722840628
-2016,Other LICs,Definition differs,Millions,USD ($ millions),1.0894662828
-2017,Other LICs,Definition differs,Millions,USD ($ millions),2.3971796346204
-2015,UMICs,Definition differs,Millions,USD ($ millions),2.659262701032
-2016,UMICs,Definition differs,Millions,USD ($ millions),8.027627419476
-2017,UMICs,Definition differs,Millions,USD ($ millions),1.8172137164832
-2018,UMICs,Definition differs,Millions,USD ($ millions),0.013390832448
-2019,UMICs,Definition differs,Millions,USD ($ millions),4.31188816968
-2020,UMICs,Definition differs,Millions,USD ($ millions),18.58819951044
-2015,Unspecified,Definition differs,Millions,USD ($ millions),250.633104951348
-2016,Unspecified,Definition differs,Millions,USD ($ millions),137.27689513145998
-2017,Unspecified,Definition differs,Millions,USD ($ millions),37.19757146495039
-2018,Unspecified,Definition differs,Millions,USD ($ millions),105.7005202510152
-2019,Unspecified,Definition differs,Millions,USD ($ millions),101.3251654324728
-2020,Unspecified,Definition differs,Millions,USD ($ millions),77.4982846713348
-2015,,Definition differs,Millions,USD ($ millions),285.729980729004
-2016,,Definition differs,Millions,USD ($ millions),173.368506623256
-2017,,Definition differs,Millions,USD ($ millions),71.7960365811108
-2018,,Definition differs,Millions,USD ($ millions),139.5376279628436
-2019,,Definition differs,Millions,USD ($ millions),141.86497059604798
-2020,,Definition differs,Millions,USD ($ millions),128.1062353333644
+Year,Series,Country income classification,Observation status,Units,Value
+2015,Net ODA in support of clean energy research and development and renewable energy production,LDCs,Definition differs,GBP (£ thousands),6017.38
+2015,Net ODA in support of clean energy research and development and renewable energy production,LDCs,Definition differs,Constant USD ($ thousands),8820.478
+2015,Net ODA in support of clean energy research and development and renewable energy production,LMICs,Definition differs,GBP (£ thousands),18028.65
+2015,Net ODA in support of clean energy research and development and renewable energy production,LMICs,Definition differs,Constant USD ($ thousands),26427.0
+2015,Net ODA in support of clean energy research and development and renewable energy production,Other LICs,Definition differs,GBP (£ thousands),240.88
+2015,Net ODA in support of clean energy research and development and renewable energy production,Other LICs,Definition differs,Constant USD ($ thousands),353.09
+2015,Net ODA in support of clean energy research and development and renewable energy production,UMICs,Definition differs,GBP (£ thousands),1991.07
+2015,Net ODA in support of clean energy research and development and renewable energy production,UMICs,Definition differs,Constant USD ($ thousands),2918.577
+2015,Net ODA in support of clean energy research and development and renewable energy production,Unspecified,Definition differs,GBP (£ thousands),187655.81
+2015,Net ODA in support of clean energy research and development and renewable energy production,Unspecified,Definition differs,Constant USD ($ thousands),275072.185
+2015,Net ODA in support of clean energy research and development and renewable energy production,,Definition differs,GBP (£ thousands),213933.79
+2015,Net ODA in support of clean energy research and development and renewable energy production,,Definition differs,Constant USD ($ thousands),313591.33
+2016,Net ODA in support of clean energy research and development and renewable energy production,LDCs,Definition differs,GBP (£ thousands),3826.45
+2016,Net ODA in support of clean energy research and development and renewable energy production,LDCs,Definition differs,Constant USD ($ thousands),5504.296
+2016,Net ODA in support of clean energy research and development and renewable energy production,LMICs,Definition differs,GBP (£ thousands),16370.11
+2016,Net ODA in support of clean energy research and development and renewable energy production,LMICs,Definition differs,Constant USD ($ thousands),23548.181
+2016,Net ODA in support of clean energy research and development and renewable energy production,Other LICs,Definition differs,GBP (£ thousands),815.72
+2016,Net ODA in support of clean energy research and development and renewable energy production,Other LICs,Definition differs,Constant USD ($ thousands),1173.402
+2016,Net ODA in support of clean energy research and development and renewable energy production,UMICs,Definition differs,GBP (£ thousands),6010.49
+2016,Net ODA in support of clean energy research and development and renewable energy production,UMICs,Definition differs,Constant USD ($ thousands),8646.008
+2016,Net ODA in support of clean energy research and development and renewable energy production,Unspecified,Definition differs,GBP (£ thousands),102782.94
+2016,Net ODA in support of clean energy research and development and renewable energy production,Unspecified,Definition differs,Constant USD ($ thousands),147851.861
+2016,Net ODA in support of clean energy research and development and renewable energy production,,Definition differs,GBP (£ thousands),129805.71
+2016,Net ODA in support of clean energy research and development and renewable energy production,,Definition differs,Constant USD ($ thousands),186723.748
+2017,Net ODA in support of clean energy research and development and renewable energy production,LDCs,Definition differs,GBP (£ thousands),10802.171
+2017,Net ODA in support of clean energy research and development and renewable energy production,LDCs,Definition differs,Constant USD ($ thousands),15261.21
+2017,Net ODA in support of clean energy research and development and renewable energy production,LMICs,Definition differs,GBP (£ thousands),11947.209
+2017,Net ODA in support of clean energy research and development and renewable energy production,LMICs,Definition differs,Constant USD ($ thousands),16878.909
+2017,Net ODA in support of clean energy research and development and renewable energy production,Other LICs,Definition differs,GBP (£ thousands),1794.834
+2017,Net ODA in support of clean energy research and development and renewable energy production,Other LICs,Definition differs,Constant USD ($ thousands),2535.725
+2017,Net ODA in support of clean energy research and development and renewable energy production,UMICs,Definition differs,GBP (£ thousands),1360.597
+2017,Net ODA in support of clean energy research and development and renewable energy production,UMICs,Definition differs,Constant USD ($ thousands),1922.24
+2017,Net ODA in support of clean energy research and development and renewable energy production,Unspecified,Definition differs,GBP (£ thousands),27850.832
+2017,Net ODA in support of clean energy research and development and renewable energy production,Unspecified,Definition differs,Constant USD ($ thousands),39347.406
+2017,Net ODA in support of clean energy research and development and renewable energy production,,Definition differs,GBP (£ thousands),53755.643
+2017,Net ODA in support of clean energy research and development and renewable energy production,,Definition differs,Constant USD ($ thousands),75945.49
+2018,Net ODA in support of clean energy research and development and renewable energy production,LDCs,Definition differs,GBP (£ thousands),10675.701
+2018,Net ODA in support of clean energy research and development and renewable energy production,LDCs,Definition differs,Constant USD ($ thousands),14786.939
+2018,Net ODA in support of clean energy research and development and renewable energy production,LMICs,Definition differs,GBP (£ thousands),14649.034
+2018,Net ODA in support of clean energy research and development and renewable energy production,LMICs,Definition differs,Constant USD ($ thousands),20290.412
+2018,Net ODA in support of clean energy research and development and renewable energy production,UMICs,Definition differs,GBP (£ thousands),10.026
+2018,Net ODA in support of clean energy research and development and renewable energy production,UMICs,Definition differs,Constant USD ($ thousands),13.887
+2018,Net ODA in support of clean energy research and development and renewable energy production,Unspecified,Definition differs,GBP (£ thousands),79140.851
+2018,Net ODA in support of clean energy research and development and renewable energy production,Unspecified,Definition differs,Constant USD ($ thousands),109618.179
+2018,Net ODA in support of clean energy research and development and renewable energy production,,Definition differs,GBP (£ thousands),104475.612
+2018,Net ODA in support of clean energy research and development and renewable energy production,,Definition differs,Constant USD ($ thousands),144709.417
+2019,Net ODA in support of clean energy research and development and renewable energy production,LDCs,Definition differs,GBP (£ thousands),10301.9
+2019,Net ODA in support of clean energy research and development and renewable energy production,LDCs,Definition differs,Constant USD ($ thousands),13987.327
+2019,Net ODA in support of clean energy research and development and renewable energy production,LMICs,Definition differs,GBP (£ thousands),16822.926
+2019,Net ODA in support of clean energy research and development and renewable energy production,LMICs,Definition differs,Constant USD ($ thousands),22841.2
+2019,Net ODA in support of clean energy research and development and renewable energy production,UMICs,Definition differs,GBP (£ thousands),3228.428
+2019,Net ODA in support of clean energy research and development and renewable energy production,UMICs,Definition differs,Constant USD ($ thousands),4383.373
+2019,Net ODA in support of clean energy research and development and renewable energy production,Unspecified,Definition differs,GBP (£ thousands),75864.904
+2019,Net ODA in support of clean energy research and development and renewable energy production,Unspecified,Definition differs,Constant USD ($ thousands),103005.0
+2019,Net ODA in support of clean energy research and development and renewable energy production,,Definition differs,GBP (£ thousands),106218.157
+2019,Net ODA in support of clean energy research and development and renewable energy production,,Definition differs,Constant USD ($ thousands),144216.9
+2020,Net ODA in support of clean energy research and development and renewable energy production,LDCs,Definition differs,GBP (£ thousands),7366.88
+2020,Net ODA in support of clean energy research and development and renewable energy production,LDCs,Definition differs,Constant USD ($ thousands),9448.352
+2020,Net ODA in support of clean energy research and development and renewable energy production,LMICs,Definition differs,GBP (£ thousands),16619.177
+2020,Net ODA in support of clean energy research and development and renewable energy production,LMICs,Definition differs,Constant USD ($ thousands),21314.835
+2020,Net ODA in support of clean energy research and development and renewable energy production,UMICs,Definition differs,GBP (£ thousands),13990.69
+2020,Net ODA in support of clean energy research and development and renewable energy production,UMICs,Definition differs,Constant USD ($ thousands),17943.683
+2020,Net ODA in support of clean energy research and development and renewable energy production,Unspecified,Definition differs,GBP (£ thousands),58182.571
+2020,Net ODA in support of clean energy research and development and renewable energy production,Unspecified,Definition differs,Constant USD ($ thousands),74621.74
+2020,Net ODA in support of clean energy research and development and renewable energy production,,Definition differs,GBP (£ thousands),96159.318
+2020,Net ODA in support of clean energy research and development and renewable energy production,,Definition differs,Constant USD ($ thousands),123328.611
+2021,Net ODA in support of clean energy research and development and renewable energy production,LDCs,Definition differs,GBP (£ thousands),8703.482
+2021,Net ODA in support of clean energy research and development and renewable energy production,LDCs,Definition differs,Constant USD ($ thousands),11073.693
+2021,Net ODA in support of clean energy research and development and renewable energy production,LMICs,Definition differs,GBP (£ thousands),21802.291
+2021,Net ODA in support of clean energy research and development and renewable energy production,LMICs,Definition differs,Constant USD ($ thousands),27739.689
+2021,Net ODA in support of clean energy research and development and renewable energy production,UMICs,Definition differs,GBP (£ thousands),65150.329
+2021,Net ODA in support of clean energy research and development and renewable energy production,UMICs,Definition differs,Constant USD ($ thousands),82892.658
+2021,Net ODA in support of clean energy research and development and renewable energy production,Unspecified,Definition differs,GBP (£ thousands),97918.369
+2021,Net ODA in support of clean energy research and development and renewable energy production,Unspecified,Definition differs,Constant USD ($ thousands),124584.389
+2021,Net ODA in support of clean energy research and development and renewable energy production,,Definition differs,GBP (£ thousands),193574.47
+2021,Net ODA in support of clean energy research and development and renewable energy production,,Definition differs,Constant USD ($ thousands),246290.429

@@ -15,6 +15,16 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Net ODA in support of clean energy research and development and renewable energy production",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Country income classification",
             "type": "string",
             "constraints": {
@@ -33,16 +43,12 @@
             "type": "string"
           },
           {
-            "name": "Unit multiplier",
-            "type": "string"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 "GBP (£ thousands)",
-                "USD ($ millions)",
+                "Constant USD ($ thousands)",
                 ""
               ]
             }

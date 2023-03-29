@@ -6758,38 +6758,6 @@
             }
           },
           {
-            "name": "Sector",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Education",
-                "Economic Infrastructure & Services",
-                "Government and Civil Society",
-                "Health",
-                "Multisector",
-                "Multisector / Cross-Cutting",
-                "Other social infrastructure and services",
-                "Production Sectors",
-                "Production Services",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Type of study",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Advanced technical and managerial training",
-                "Education policy and administrative management",
-                "Higher education",
-                "Primary education",
-                "Upper Secondary Education",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Country income classification",
             "type": "string",
             "constraints": {
@@ -6804,18 +6772,47 @@
             }
           },
           {
-            "name": "Units",
+            "name": "Sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "GBP (£ thousands)",
+                "Economic infrastructure & services",
+                "Education",
+                "Government and civil society",
+                "Health",
+                "Multisector",
+                "Multisector / Cross-Cutting",
+                "Other social infrastructure and services",
+                "Production sectors",
+                "Production services",
                 ""
               ]
             }
           },
           {
-            "name": "Unit multiplier",
-            "type": "string"
+            "name": "Type of study",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Advanced technical and managerial training",
+                "Education policy and administrative management",
+                "Higher education",
+                "Primary education",
+                "Upper secondary education",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GBP (£ thousands)",
+                "Constant USD ($ thousands)",
+                ""
+              ]
+            }
           },
           {
             "name": "Observation status",
@@ -11614,6 +11611,16 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Net ODA in support of clean energy research and development and renewable energy production",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Country income classification",
             "type": "string",
             "constraints": {
@@ -11632,16 +11639,12 @@
             "type": "string"
           },
           {
-            "name": "Unit multiplier",
-            "type": "string"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 "GBP (£ thousands)",
-                "USD ($ millions)",
+                "Constant USD ($ thousands)",
                 ""
               ]
             }
