@@ -15,95 +15,74 @@
             "type": "string"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Women using Sexual and Reproductive Health Services for contraception",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Contraceptive method",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Long acting reversible contraceptives",
-                "User dependent",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Types of contraception",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Implant",
-                "Injectable contraceptive",
-                "IU device",
-                "IU system",
-                "Contraceptive patch",
-                "Female condom",
-                "Male condom",
-                "Natural family planning",
-                "Oral contraceptives",
-                "Other methods",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 and under",
-                "16 to 17",
-                "18 to 19",
-                "20 to 24",
-                "25 to 34",
-                "35 to 44",
-                "45 and over",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "East",
-                "East Midlands",
-                "London",
                 "North East",
                 "North West",
+                "Yorkshire and The Humber",
+                "East Midlands",
+                "West Midlands",
+                "East of England",
+                "London",
                 "South East",
                 "South West",
-                "West Midlands",
-                "Yorkshire and The Humber",
                 ""
               ]
             }
           },
           {
-            "name": "Local Authority",
+            "name": "Local authority",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bedford",
-                "Cambridgeshire",
-                "Central Bedfordshire",
-                "Essex",
-                "Hertfordshire",
-                "Luton",
-                "Norfolk",
-                "Peterborough",
-                "Southend-on-Sea",
-                "Suffolk",
-                "Thurrock",
+                "County Durham",
+                "Gateshead",
+                "Hartlepool",
+                "Middlesbrough",
+                "Newcastle upon Tyne",
+                "North Tyneside",
+                "Northumberland",
+                "Redcar and Cleveland",
+                "South Tyneside",
+                "Stockton-on-Tees",
+                "Sunderland",
+                "Blackburn with Darwen",
+                "Blackpool",
+                "Bolton",
+                "Bury",
+                "Cheshire East",
+                "Cheshire West and Chester",
+                "Cumbria",
+                "Halton",
+                "Knowsley",
+                "Lancashire",
+                "Liverpool",
+                "Manchester",
+                "Oldham",
+                "Rochdale",
+                "Salford",
+                "Sefton",
+                "St. Helens",
+                "Trafford",
+                "Warrington",
+                "Wigan",
+                "Wirral",
+                "Barnsley",
+                "Bradford",
+                "Calderdale",
+                "Doncaster",
+                "East Riding of Yorkshire",
+                "Kingston upon Hull, City of",
+                "Kirklees",
+                "Leeds",
+                "North East Lincolnshire",
+                "North Lincolnshire",
+                "North Yorkshire",
+                "Rotherham",
+                "Wakefield",
+                "York",
                 "Derby",
                 "Derbyshire",
                 "Leicester",
@@ -112,6 +91,30 @@
                 "Northamptonshire",
                 "Nottingham",
                 "Nottinghamshire",
+                "Birmingham",
+                "Coventry",
+                "Dudley",
+                "Herefordshire, County of",
+                "Sandwell",
+                "Shropshire",
+                "Solihull",
+                "Staffordshire",
+                "Stoke-on-Trent",
+                "Telford and Wrekin",
+                "Walsall",
+                "Warwickshire",
+                "Wolverhampton",
+                "Worcestershire",
+                "Bedford",
+                "Cambridgeshire",
+                "Central Bedfordshire",
+                "Essex",
+                "Hertfordshire",
+                "Luton",
+                "Norfolk",
+                "Peterborough",
+                "Suffolk",
+                "Thurrock",
                 "Barking and Dagenham",
                 "Barnet",
                 "Bexley",
@@ -144,41 +147,6 @@
                 "Waltham Forest",
                 "Wandsworth",
                 "Westminster",
-                "County Durham",
-                "Darlington",
-                "Gateshead",
-                "Hartlepool",
-                "Middlesbrough",
-                "Newcastle upon Tyne",
-                "North Tyneside",
-                "Northumberland",
-                "Redcar and Cleveland",
-                "South Tyneside",
-                "Stockton-on-Tees",
-                "Sunderland",
-                "Blackburn with Darwen",
-                "Blackpool",
-                "Bolton",
-                "Bury",
-                "Cheshire East",
-                "Cheshire West and Chester",
-                "Cumbria",
-                "Halton",
-                "Knowsley",
-                "Lancashire",
-                "Liverpool",
-                "Manchester",
-                "Oldham",
-                "Rochdale",
-                "Salford",
-                "Sefton",
-                "St. Helens",
-                "Stockport",
-                "Tameside",
-                "Trafford",
-                "Warrington",
-                "Wigan",
-                "Wirral",
                 "Bracknell Forest",
                 "Brighton and Hove",
                 "Buckinghamshire",
@@ -189,17 +157,14 @@
                 "Medway",
                 "Milton Keynes",
                 "Oxfordshire",
-                "Portsmouth",
                 "Reading",
                 "Slough",
-                "Southampton",
                 "Surrey",
                 "West Berkshire",
                 "West Sussex",
                 "Windsor and Maidenhead",
                 "Wokingham",
-                "Bath and North East Somerset",
-                "Bournemouth",
+                "Bournemouth, Christchurch and Poole",
                 "Bristol, City of",
                 "Cornwall",
                 "Devon",
@@ -207,41 +172,70 @@
                 "Gloucestershire",
                 "North Somerset",
                 "Plymouth",
-                "Poole",
                 "Somerset",
-                "South Gloucestershire",
                 "Swindon",
                 "Torbay",
+                "Darlington",
+                "Stockport",
+                "Southampton",
                 "Wiltshire",
-                "Birmingham",
-                "Coventry",
-                "Dudley",
-                "Herefordshire, County of",
-                "Sandwell",
-                "Shropshire",
-                "Solihull",
-                "Staffordshire",
-                "Stoke-on-Trent",
-                "Telford and Wrekin",
-                "Walsall",
-                "Warwickshire",
-                "Wolverhampton",
-                "Worcestershire",
-                "Barnsley",
-                "Bradford",
-                "Calderdale",
-                "Doncaster",
-                "East Riding of Yorkshire",
-                "Kingston upon Hull, City of",
-                "Kirklees",
-                "Leeds",
-                "North East Lincolnshire",
-                "North Lincolnshire",
-                "North Yorkshire",
-                "Rotherham",
+                "North Northamptonshire",
+                "West Northamptonshire",
+                "Southend-on-Sea",
+                "Portsmouth",
+                "South Gloucestershire",
+                "Tameside",
                 "Sheffield",
-                "Wakefield",
-                "York",
+                "Bath and North East Somerset",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 and under",
+                "16 to 17",
+                "18 to 19",
+                "20 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Main method of contraception",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "User dependent",
+                "Long acting reversible contraceptives",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of contraception",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Contraceptive patch",
+                "Female condom",
+                "Implant",
+                "Injectable contraceptive",
+                "IU device",
+                "IU system",
+                "Male condom",
+                "Natural family planning",
+                "Natural family planning incl. rhythm method",
+                "Oral contraceptives",
+                "Other methods",
+                "Other methods [age]",
+                "Other methods [local authority]",
                 ""
               ]
             }
@@ -251,14 +245,12 @@
             "type": "string"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage (%)",
-                ""
-              ]
-            }
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
           },
           {
             "name": "GeoCode",

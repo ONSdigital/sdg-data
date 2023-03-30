@@ -64,7 +64,7 @@ Indicator,Disaggregations,Number of disaggregations
 #17-18-1,"Completeness of disaggregation, Goal",2
 #17-19-1,Country income classification,1
 #17-6-1,Speed (mb/sec),1
-#17-8-1,"Sex, Region, Age, Ethnicity, Local Authority, Ethnic group, Disability status, Employment status",8
+#17-8-1,"Sex, Region, Age, Ethnicity, Ethnic group, Disability status, Local Authority, Employment status",8
 #17-9-1,Country income classification,1
 #2-1-1,"Sex, Age",2
 #2-1-2,"Country, Region, Age, Ethnicity, Ethnic group, Highest qualification, Food security level, Age group, Household composition - children, Number of adults, Number of children, Household composition - adults over State Pension age, Household composition - disabled adults, Household composition - unemployed adults, State support, State support detail, Total gross weekly income, Tenure, Tenure sub-category",19
@@ -88,7 +88,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-5-1,"Local Authority, Deprivation decile",2
 #3-5-2,"Sex, Age (default), Beverage",3
 #3-6-1,"Country, Sex, Region, Age",4
-#3-7-1,"Region, Age, Types of contraception, Contraceptive method, Local Authority",5
+#3-7-1,"Region, Local authority, Age, Main method of contraception, Type of contraception",5
 #3-7-2,"Country, Age",2
 #3-8-2,"Age, Tenure sub-category, Disposable income decile, Health product or service, Health product or service category, Health product or service sub-category, Tenure category, Occupation category",8
 #3-9-1,"Region, Local Authority, Deprivation decile",3
@@ -99,9 +99,9 @@ Indicator,Disaggregations,Number of disaggregations
 #3-b-2,"Country income classification, Aid description (CRS code)",2
 #3-c-1,"Sex, Occupation unit group, Occupation minor group",3
 #3-d-1,IHR core capacity,1
-#4-1-1,"Sex, Region, Ethnicity, Local Authority, Ethnic group, Subject, Special educational needs, Free school meals",8
+#4-1-1,"Sex, Region, Ethnicity, Ethnic group, Subject, Special educational needs, Free school meals, Local Authority",8
 #4-1-2,Sex,1
-#4-2-1,"Region, Ethnicity, Local Authority, Ethnic group, Special educational needs, Gender, Free School Meals, Learning category, Learning sub-category (higher), Learning sub-category (lower)",10
+#4-2-1,"Region, Ethnicity, Ethnic group, Special educational needs, Local Authority, Gender, Free School Meals, Learning category, Learning sub-category (higher), Learning sub-category (lower)",10
 #4-2-2,"Region, Age",2
 #4-3-1,"Sex, Region, Age, Country of birth, Disability status, Highest qualification, Household income, Deprivation quantile, Employment status",9
 #4-4-1,"Sex, Age, Disability status, Skill",4
@@ -115,7 +115,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-4-1,"Sex, Age, Employment status, Number of hours per week providing care, Net weekly income (£)",5
 #5-5-1,Legislative authority,1
 #5-5-2,"Region, Age, Disability status",3
-#5-6-1,"Age, Main method of contraception, Types of contraception",3
+#5-6-1,"Region, Local authority, Age, Main method of contraception, Type of contraception",5
 #5-a-1,"Country, Sex, Region, Occupation unit group",4
 #5-b-1,"Country, Sex, Region, Age, Socio-economic classification, Urban or rural, Deprivation level, Household income (£), Working status",9
 #6-2-1,"Safely managed element, Service level, Facility type, Residence type",4
@@ -129,7 +129,7 @@ Indicator,Disaggregations,Number of disaggregations
 #7-3-1,Industry sector,1
 #7-a-1,Country income classification,1
 #7-b-1,"Country, Region, Renewable source, Wind, Bioenergy",5
-#8-10-1,"Country, Region, Local Authority, Urban or rural",4
+#8-10-1,"Country, Region, Urban or rural, Local Authority",4
 #8-10-2,"Sex, Age, Bank account category",3
 #8-3-1,"Country, Sex, Sector, Region",4
 #8-4-1,Material category,1

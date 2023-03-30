@@ -20,7 +20,6 @@ Chronic respiratory disease subtype,1,9
 Citizenship,1,4
 Completeness of disaggregation,1,3
 Contact sexual abuse type,1,2
-Contraceptive method,1,2
 Convention,1,5
 Corruption offence type,2,4
 Country group,3,3
@@ -96,8 +95,9 @@ Learning sub-category (lower),1,17
 Legislative authority,1,6
 Length of residence,1,6
 Level of reporting,1,2
-Local Authority,12,982
-Main method of contraception,1,2
+Local authority,2,150
+Local Authority,11,982
+Main method of contraception,2,2
 Malaria species,1,7
 Manufacturing industry,1,9
 Material category,4,5
@@ -130,7 +130,7 @@ Recipient country,1,177
 Recipient region,1,5
 Region of origin,1,9
 Region of travel,2,21
-Region,44,16
+Region,45,16
 Relationship to perpetrator,2,5
 Renewable and waste source,1,17
 Renewable source,2,7
@@ -169,6 +169,7 @@ Tenure,1,3
 Theme,1,5
 Total gross weekly income,1,6
 Treatment type,1,6
+Type of contraception,2,13
 Type of disease,1,5
 Type of documentation,1,3
 Type of expenditure,1,4
@@ -179,7 +180,6 @@ Type of partner abuse,1,3
 Type of study,1,5
 Type of violence,1,5
 Type (wasting or overweight),1,2
-Types of contraception,2,11
 Unintentional poisoning category,1,6
 Urban or rural,6,3
 Urban or Rural,3,2
