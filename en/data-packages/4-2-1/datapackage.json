@@ -16,21 +16,33 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EYFSP pre-reform (2012/13-2020/21)",
+                "EYFSP post-reform (2021/22 onwards)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "East Midlands",
-                "East of England",
-                "Inner London",
                 "London",
-                "North East",
-                "North West",
-                "Outer London",
-                "South East",
-                "South West",
-                "West Midlands",
                 "Yorkshire and The Humber",
+                "South West",
+                "East of England",
+                "West Midlands",
+                "North West",
+                "South East",
+                "North East",
+                "East Midlands",
+                "Outer London",
+                "Inner London",
                 ""
               ]
             },
@@ -45,14 +57,13 @@
                 "Barnet",
                 "Barnsley",
                 "Bath and North East Somerset",
-                "Bedford Borough",
+                "Bedford",
                 "Bexley",
                 "Birmingham",
                 "Blackburn with Darwen",
                 "Blackpool",
                 "Bolton",
                 "Bournemouth",
-                "Bournemouth, Christchurch and Poole",
                 "Bracknell Forest",
                 "Bradford",
                 "Brent",
@@ -101,7 +112,6 @@
                 "Hillingdon",
                 "Hounslow",
                 "Isle of Wight",
-                "Isles of Scilly",
                 "Islington",
                 "Kensington and Chelsea",
                 "Kent",
@@ -194,6 +204,11 @@
                 "Wolverhampton",
                 "Worcestershire",
                 "York",
+                "Isles of Scilly",
+                "Bournemouth, Christchurch and Poole",
+                "North Northamptonshire",
+                "West Northamptonshire",
+                "Herefordshire, County of",
                 ""
               ]
             },
@@ -221,37 +236,14 @@
                 "Asian",
                 "Black/African/Caribbean/Black British",
                 "Chinese",
-                "Any other ethnic group",
+                "Other ethnic group",
+                "Mixed/multiple ethnic groups",
+                "Asian/Asian British",
+                "Unclassified",
                 ""
               ]
             },
             "title": "Ethnicity"
-          },
-          {
-            "name": "Ethnic group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "White British",
-                "Irish",
-                "Traveller of Irish heritage",
-                "Gypsy/Roma",
-                "Any other White background",
-                "White and Black Caribbean",
-                "White and Black African",
-                "White and Asian",
-                "Any other Mixed background",
-                "Indian",
-                "Pakistani",
-                "Bangladeshi",
-                "Any other Asian background",
-                "Black Caribbean",
-                "Black African",
-                "Any other Black background",
-                ""
-              ]
-            },
-            "title": "Ethnic group"
           },
           {
             "name": "Free School Meals",
@@ -266,24 +258,11 @@
             "title": "Free School Meals"
           },
           {
-            "name": "Special educational needs",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "No special educational needs",
-                "Special educational needs",
-                ""
-              ]
-            },
-            "title": "Special educational needs"
-          },
-          {
             "name": "Learning category",
             "type": "string",
             "constraints": {
               "enum": [
                 "Prime areas of learning",
-                "Specific areas of learning",
                 ""
               ]
             },
@@ -297,41 +276,10 @@
                 "Communication and Language",
                 "Personal, Social and Emotional Development",
                 "Physical Development",
-                "Expressive arts and design",
-                "Literacy",
-                "Mathematics",
-                "Understanding the world",
                 ""
               ]
             },
             "title": "Learning sub-category (higher)"
-          },
-          {
-            "name": "Learning sub-category (lower)",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Listening and Attention",
-                "Speaking",
-                "Understanding",
-                "Making relationships",
-                "Managing feelings and behaviour",
-                "Self-confidence and Self-awareness",
-                "Health and Self-Care",
-                "Moving and Handling",
-                "Being imaginative",
-                "Exploring and using media and materials",
-                "Reading",
-                "Writing",
-                "Numbers",
-                "Shape, space and measures",
-                "People and communities",
-                "Technology",
-                "The World",
-                ""
-              ]
-            },
-            "title": "Learning sub-category (lower)"
           },
           {
             "name": "Observation status",
