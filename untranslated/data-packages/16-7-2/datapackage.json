@@ -89,27 +89,15 @@
             }
           },
           {
-            "name": "Household income",
+            "name": "Index of multiple deprivation quintile",
             "type": "string",
             "constraints": {
               "enum": [
-                "Band A1",
-                "Band A2",
-                "Band A3",
-                "Band A4",
-                "Band A5",
-                "Band A6",
-                "Band A7",
-                "Band A8",
-                "No income",
-                "Band B1",
-                "Band B2",
-                "Band B3",
-                "Band B4",
-                "Band B5",
-                "Band B6",
-                "Band B7",
-                "Band B8",
+                "Quintile 1 (Most deprived)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (least deprived)",
                 ""
               ]
             }
@@ -119,7 +107,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "East",
+                "East of England",
                 "East Midlands",
                 "London",
                 "North East",
