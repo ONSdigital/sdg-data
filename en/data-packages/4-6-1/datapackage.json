@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -20,7 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "English",
+                "English language",
+                "English literature",
                 "Maths",
                 ""
               ]
@@ -40,11 +41,6 @@
             "title": "Sex"
           },
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
@@ -53,6 +49,11 @@
             "name": "Unit measure",
             "type": "string",
             "title": "Unit measure"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "Value",

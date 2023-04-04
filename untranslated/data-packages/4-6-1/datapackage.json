@@ -12,14 +12,15 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "Educational subject",
             "type": "string",
             "constraints": {
               "enum": [
-                "English",
+                "English language",
+                "English literature",
                 "Maths",
                 ""
               ]
@@ -37,15 +38,15 @@
             }
           },
           {
-            "name": "Observation status",
-            "type": "string"
-          },
-          {
             "name": "Unit multiplier",
             "type": "string"
           },
           {
             "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
             "type": "string"
           },
           {
