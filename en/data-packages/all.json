@@ -1510,8 +1510,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
                 "Male",
+                "Female",
                 ""
               ]
             },
@@ -1539,9 +1539,9 @@
             "constraints": {
               "enum": [
                 "England",
-                "Northern Ireland",
-                "Scotland",
                 "Wales",
+                "Scotland",
+                "Northern Ireland",
                 ""
               ]
             },
@@ -1574,7 +1574,7 @@
                 "Managerial and professional occupations",
                 "Intermediate occupations",
                 "Routine and manual",
-                "Never worked, long term unemployed, and not elsewhere classified",
+                "Never worked, long term unemployed, and n.e.c",
                 ""
               ]
             },
@@ -1617,16 +1617,6 @@
             "title": "Country of birth"
           },
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -1636,6 +1626,16 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "GeoCode",
