@@ -1,76 +1,1891 @@
-Year,Country,Sex,Unit measure,Unit multiplier,Observation status,GeoCode,Value
-2013,England,Female,"Rate per 1,000,000 population",Units,Undefined,E92000001,33.733540447
-2014,England,Female,"Rate per 1,000,000 population",Units,Undefined,E92000001,29.1902727264607
-2015,England,Female,"Rate per 1,000,000 population",Units,Undefined,E92000001,31.2713448094125
-2016,England,Female,"Rate per 1,000,000 population",Units,Undefined,E92000001,28.1401603102382
-2017,England,Female,"Rate per 1,000,000 population",Units,Undefined,E92000001,27.7201488913166
-2013,Northern Ireland,Female,"Rate per 1,000,000 population",Units,Undefined,N92000002,55.7592914280812
-2014,Northern Ireland,Female,"Rate per 1,000,000 population",Units,Undefined,N92000002,30.9238665069999
-2015,Northern Ireland,Female,"Rate per 1,000,000 population",Units,Undefined,N92000002,44.5627124686469
-2016,Northern Ireland,Female,"Rate per 1,000,000 population",Units,Undefined,N92000002,32.73757978465
-2017,Northern Ireland,Female,"Rate per 1,000,000 population",Units,Undefined,N92000002,31.5594801522429
-2013,Scotland,Female,"Rate per 1,000,000 population",Units,Undefined,S92000003,35.0234584205879
-2014,Scotland,Female,"Rate per 1,000,000 population",Units,Undefined,S92000003,32.3510488646235
-2015,Scotland,Female,"Rate per 1,000,000 population",Units,Undefined,S92000003,38.3706101397595
-2016,Scotland,Female,"Rate per 1,000,000 population",Units,Undefined,S92000003,35.6474531695086
-2017,Scotland,Female,"Rate per 1,000,000 population",Units,Undefined,S92000003,31.2443885796372
-2013,Wales,Female,"Rate per 1,000,000 population",Units,Undefined,W92000004,60.6182422624004
-2014,Wales,Female,"Rate per 1,000,000 population",Units,Undefined,W92000004,38.835668460535
-2015,Wales,Female,"Rate per 1,000,000 population",Units,Undefined,W92000004,51.4767798414388
-2016,Wales,Female,"Rate per 1,000,000 population",Units,Undefined,W92000004,31.6633652331183
-2017,Wales,Female,"Rate per 1,000,000 population",Units,Undefined,W92000004,33.4392242099983
-2013,,Female,"Rate per 1,000,000 population",Units,Undefined,,35.7662212938082
-2014,,Female,"Rate per 1,000,000 population",Units,Undefined,,29.9667713318903
-2015,,Female,"Rate per 1,000,000 population",Units,Undefined,,33.2066124203204
-2016,,Female,"Rate per 1,000,000 population",Units,Undefined,,29.0648919549461
-2017,,Female,"Rate per 1,000,000 population",Units,Undefined,,28.3934439478148
-2013,England,Male,"Rate per 1,000,000 population",Units,Undefined,E92000001,21.3688347943724
-2014,England,Male,"Rate per 1,000,000 population",Units,Undefined,E92000001,16.6584519830953
-2015,England,Male,"Rate per 1,000,000 population",Units,Undefined,E92000001,17.4255435382199
-2016,England,Male,"Rate per 1,000,000 population",Units,Undefined,E92000001,17.1789082565715
-2017,England,Male,"Rate per 1,000,000 population",Units,Undefined,E92000001,17.6485231479303
-2013,Northern Ireland,Male,"Rate per 1,000,000 population",Units,Undefined,N92000002,23.4075874022593
-2014,Northern Ireland,Male,"Rate per 1,000,000 population",Units,Undefined,N92000002,21.0477107291259
-2015,Northern Ireland,Male,"Rate per 1,000,000 population",Units,Undefined,N92000002,16.4993086789663
-2016,Northern Ireland,Male,"Rate per 1,000,000 population",Units,Undefined,N92000002,16.3896273326537
-2017,Northern Ireland,Male,"Rate per 1,000,000 population",Units,Undefined,N92000002,27.1665898757726
-2013,Scotland,Male,"Rate per 1,000,000 population",Units,Undefined,S92000003,20.4895851052314
-2014,Scotland,Male,"Rate per 1,000,000 population",Units,Undefined,S92000003,20.7969867476978
-2015,Scotland,Male,"Rate per 1,000,000 population",Units,Undefined,S92000003,16.4721358499181
-2016,Scotland,Male,"Rate per 1,000,000 population",Units,Undefined,S92000003,20.5518319103726
-2017,Scotland,Male,"Rate per 1,000,000 population",Units,Undefined,S92000003,18.5584971404764
-2013,Wales,Male,"Rate per 1,000,000 population",Units,Undefined,W92000004,38.2780929854074
-2014,Wales,Male,"Rate per 1,000,000 population",Units,Undefined,W92000004,19.7197818992121
-2015,Wales,Male,"Rate per 1,000,000 population",Units,Undefined,W92000004,19.0094004762838
-2016,Wales,Male,"Rate per 1,000,000 population",Units,Undefined,W92000004,25.4230990366601
-2017,Wales,Male,"Rate per 1,000,000 population",Units,Undefined,W92000004,24.6721205038306
-2013,,Male,"Rate per 1,000,000 population",Units,Undefined,,22.1672385909361
-2014,,Male,"Rate per 1,000,000 population",Units,Undefined,,17.2675436356174
-2015,,Male,"Rate per 1,000,000 population",Units,Undefined,,17.3970274466167
-2016,,Male,"Rate per 1,000,000 population",Units,Undefined,,17.8209219105733
-2017,,Male,"Rate per 1,000,000 population",Units,Undefined,,18.3231123411502
-2013,England,,"Rate per 1,000,000 population",Units,Undefined,E92000001,27.6427627562021
-2014,England,,"Rate per 1,000,000 population",Units,Undefined,E92000001,23.0132148507478
-2015,England,,"Rate per 1,000,000 population",Units,Undefined,E92000001,24.440404628695
-2016,England,,"Rate per 1,000,000 population",Units,Undefined,E92000001,22.7256003000792
-2017,England,,"Rate per 1,000,000 population",Units,Undefined,E92000001,22.7438504853429
-2013,Northern Ireland,,"Rate per 1,000,000 population",Units,Undefined,N92000002,39.8967057891213
-2014,Northern Ireland,,"Rate per 1,000,000 population",Units,Undefined,N92000002,26.079897940666
-2015,Northern Ireland,,"Rate per 1,000,000 population",Units,Undefined,N92000002,30.7838375131843
-2016,Northern Ireland,,"Rate per 1,000,000 population",Units,Undefined,N92000002,24.7028011365436
-2017,Northern Ireland,,"Rate per 1,000,000 population",Units,Undefined,N92000002,29.3986532209698
-2013,Scotland,,"Rate per 1,000,000 population",Units,Undefined,S92000003,27.9670401861966
-2014,Scotland,,"Rate per 1,000,000 population",Units,Undefined,S92000003,26.7409679108385
-2015,Scotland,,"Rate per 1,000,000 population",Units,Undefined,S92000003,27.7312488367764
-2016,Scotland,,"Rate per 1,000,000 population",Units,Undefined,S92000003,28.3086942846041
-2017,Scotland,,"Rate per 1,000,000 population",Units,Undefined,S92000003,25.0700486653885
-2013,Wales,,"Rate per 1,000,000 population",Units,Undefined,W92000004,49.6364535305468
-2014,Wales,,"Rate per 1,000,000 population",Units,Undefined,W92000004,29.4304464760436
-2015,Wales,,"Rate per 1,000,000 population",Units,Undefined,W92000004,35.4943360719902
-2016,Wales,,"Rate per 1,000,000 population",Units,Undefined,W92000004,28.588407240255
-2017,Wales,,"Rate per 1,000,000 population",Units,Undefined,W92000004,29.1184625451776
-2013,,,"Rate per 1,000,000 population",Units,Undefined,,29.0769984189
-2014,,,"Rate per 1,000,000 population",Units,Undefined,,23.7163627050474
-2015,,,"Rate per 1,000,000 population",Units,Undefined,,25.418509227011
-2016,,,"Rate per 1,000,000 population",Units,Undefined,,23.5193567200026
-2017,,,"Rate per 1,000,000 population",Units,Undefined,,23.4251156215706
+Year,Cause of death,Country,Region,Sex,Observation status,GeoCode,Value
+2013,,England,,,Undefined,E92000001,514.092429704933
+2013,,England,,Female,Undefined,E92000001,585.618217607329
+2013,,England,,Male,Undefined,E92000001,440.416069947991
+2013,,England,East,,Undefined,E12000006,525.882491305297
+2013,,England,East,Female,Undefined,E12000006,598.352793305329
+2013,,England,East,Male,Undefined,E12000006,451.06877006078
+2013,,England,East Midlands,,Undefined,E12000004,498.205936718495
+2013,,England,East Midlands,Female,Undefined,E12000004,557.367201578993
+2013,,England,East Midlands,Male,Undefined,E12000004,437.409056836721
+2013,,England,London,,Undefined,E12000007,343.807543807544
+2013,,England,London,Female,Undefined,E12000007,376.790460286474
+2013,,England,London,Male,Undefined,E12000007,310.144510058092
+2013,,England,North East,,Undefined,E12000001,532.827702443883
+2013,,England,North East,Female,Undefined,E12000001,613.2712805885
+2013,,England,North East,Male,Undefined,E12000001,448.998748435544
+2013,,England,North West,,Undefined,E12000002,563.665798550011
+2013,,England,North West,Female,Undefined,E12000002,644.866287931273
+2013,,England,North West,Male,Undefined,E12000002,479.828326180258
+2013,,England,South East,,Undefined,E12000008,560.433061911477
+2013,,England,South East,Female,Undefined,E12000008,658.044883986307
+2013,,England,South East,Male,Undefined,E12000008,459.549470373283
+2013,,England,South West,,Undefined,E12000009,635.215798575599
+2013,,England,South West,Female,Undefined,E12000009,723.028022359431
+2013,,England,South West,Male,Undefined,E12000009,544.194501249716
+2013,,England,West Midlands,,Undefined,E12000005,505.374449339207
+2013,,England,West Midlands,Female,Undefined,E12000005,566.990561766447
+2013,,England,West Midlands,Male,Undefined,E12000005,442.256937014052
+2013,,England,Yorkshire and The Humber,,Undefined,E12000003,518.930665617565
+2013,,England,Yorkshire and The Humber,Female,Undefined,E12000003,592.340928394697
+2013,,England,Yorkshire and The Humber,Male,Undefined,E12000003,443.346007604563
+2013,,Northern Ireland,,,Undefined,N92000002,449.800513745423
+2013,,Northern Ireland,,Female,Undefined,N92000002,536.135535063264
+2013,,Northern Ireland,,Male,Undefined,N92000002,360.049046928993
+2013,,Scotland,,,Undefined,S92000003,450.475815079678
+2013,,Scotland,,Female,Undefined,S92000003,510.762495439621
+2013,,Scotland,,Male,Undefined,S92000003,386.592956276337
+2013,,United Kingdom,,,Undefined,K02000001,517.364290538907
+2013,,United Kingdom,,Female,Undefined,K02000001,591.048918416092
+2013,,United Kingdom,,Male,Undefined,K02000001,441.252021691561
+2013,,Wales,,,Undefined,W92000004,730.27511030366
+2013,,Wales,,Female,Undefined,W92000004,858.856559469117
+2013,,Wales,,Male,Undefined,W92000004,597.280887011616
+2013,Acute respiratory infections,England,,,Undefined,E92000001,486.449658224699
+2013,Acute respiratory infections,England,,Female,Undefined,E92000001,551.884617917591
+2013,Acute respiratory infections,England,,Male,Undefined,E92000001,419.047260119092
+2013,Acute respiratory infections,England,East,,Undefined,E12000006,500.344427829769
+2013,Acute respiratory infections,England,East,Female,Undefined,E12000006,567.260940032415
+2013,Acute respiratory infections,England,East,Male,Undefined,E12000006,431.264085228437
+2013,Acute respiratory infections,England,East Midlands,,Undefined,E12000004,467.978688702838
+2013,Acute respiratory infections,England,East Midlands,Female,Undefined,E12000004,523.47035098258
+2013,Acute respiratory infections,England,East Midlands,Male,Undefined,E12000004,410.952863882887
+2013,Acute respiratory infections,England,London,,Undefined,E12000007,327.413127413127
+2013,Acute respiratory infections,England,London,Female,Undefined,E12000007,355.152056824329
+2013,Acute respiratory infections,England,London,Male,Undefined,E12000007,299.102213260358
+2013,Acute respiratory infections,England,North East,,Undefined,E12000001,495.671493143339
+2013,Acute respiratory infections,England,North East,Female,Undefined,E12000001,571.235550217685
+2013,Acute respiratory infections,England,North East,Male,Undefined,E12000001,416.927409261577
+2013,Acute respiratory infections,England,North West,,Undefined,E12000002,530.442739494615
+2013,Acute respiratory infections,England,North West,Female,Undefined,E12000002,602.743522239158
+2013,Acute respiratory infections,England,North West,Male,Undefined,E12000002,455.793991416309
+2013,Acute respiratory infections,England,South East,,Undefined,E12000008,535.18628030751
+2013,Acute respiratory infections,England,South East,Female,Undefined,E12000008,626.048821963171
+2013,Acute respiratory infections,England,South East,Male,Undefined,E12000008,441.278505018733
+2013,Acute respiratory infections,England,South West,,Undefined,E12000009,603.789724231549
+2013,Acute respiratory infections,England,South West,Female,Undefined,E12000009,685.031602791275
+2013,Acute respiratory infections,England,South West,Male,Undefined,E12000009,519.578883587064
+2013,Acute respiratory infections,England,West Midlands,,Undefined,E12000005,476.828193832599
+2013,Acute respiratory infections,England,West Midlands,Female,Undefined,E12000005,532.511405983352
+2013,Acute respiratory infections,England,West Midlands,Male,Undefined,E12000005,419.787431343177
+2013,Acute respiratory infections,England,Yorkshire and The Humber,,Undefined,E12000003,486.333576874801
+2013,Acute respiratory infections,England,Yorkshire and The Humber,Female,Undefined,E12000003,554.304073267107
+2013,Acute respiratory infections,England,Yorkshire and The Humber,Male,Undefined,E12000003,416.349809885932
+2013,Acute respiratory infections,Northern Ireland,,,Undefined,N92000002,409.903262829972
+2013,Acute respiratory infections,Northern Ireland,,Female,Undefined,N92000002,480.377439416685
+2013,Acute respiratory infections,Northern Ireland,,Male,Undefined,N92000002,336.640285363951
+2013,Acute respiratory infections,Scotland,,,Undefined,S92000003,422.508774893481
+2013,Acute respiratory infections,Scotland,,Female,Undefined,S92000003,475.738781466618
+2013,Acute respiratory infections,Scotland,,Male,Undefined,S92000003,366.103529593691
+2013,Acute respiratory infections,United Kingdom,,,Undefined,K02000001,488.287312984649
+2013,Acute respiratory infections,United Kingdom,,Female,Undefined,K02000001,555.282660886758
+2013,Acute respiratory infections,United Kingdom,,Male,Undefined,K02000001,419.084768337932
+2013,Acute respiratory infections,Wales,,,Undefined,W92000004,680.638463534908
+2013,Acute respiratory infections,Wales,,Female,Undefined,W92000004,798.238897396631
+2013,Acute respiratory infections,Wales,,Male,Undefined,W92000004,559.002111932418
+2013,Diarrhoea,England,,,Undefined,E92000001,26.3989395868993
+2013,Diarrhoea,England,,Female,Undefined,E92000001,32.3066903753137
+2013,Diarrhoea,England,,Male,Undefined,E92000001,20.313559960805
+2013,Diarrhoea,England,East,,Undefined,E12000006,24.6979955980443
+2013,Diarrhoea,England,East,Female,Undefined,E12000006,30.7610888763933
+2013,Diarrhoea,England,East,Male,Undefined,E12000006,18.4388444990781
+2013,Diarrhoea,England,East Midlands,,Undefined,E12000004,29.3573991518974
+2013,Diarrhoea,England,East Midlands,Female,Undefined,E12000004,33.4677765382305
+2013,Diarrhoea,England,East Midlands,Male,Undefined,E12000004,25.1333833061422
+2013,Diarrhoea,England,London,,Undefined,E12000007,15.8004158004158
+2013,Diarrhoea,England,London,Female,Undefined,E12000007,20.9328033492485
+2013,Diarrhoea,England,London,Male,Undefined,E12000007,10.5621969369629
+2013,Diarrhoea,England,North East,,Undefined,E12000001,35.6239944840267
+2013,Diarrhoea,England,North East,Female,Undefined,E12000001,40.5344542861432
+2013,Diarrhoea,England,North East,Male,Undefined,E12000001,30.5068836045056
+2013,Diarrhoea,England,North West,,Undefined,E12000002,32.378405011614
+2013,Diarrhoea,England,North West,Female,Undefined,E12000002,41.2913953166136
+2013,Diarrhoea,England,North West,Male,Undefined,E12000002,23.1759656652361
+2013,Diarrhoea,England,South East,,Undefined,E12000008,23.4271937406177
+2013,Diarrhoea,England,South East,Female,Undefined,E12000008,29.5348264828944
+2013,Diarrhoea,England,South East,Male,Undefined,E12000008,17.114575142236
+2013,Diarrhoea,England,South West,,Undefined,E12000009,29.7524964204028
+2013,Diarrhoea,England,South West,Female,Undefined,E12000009,35.4389682510686
+2013,Diarrhoea,England,South West,Male,Undefined,E12000009,23.8582140422631
+2013,Diarrhoea,England,West Midlands,,Undefined,E12000005,26.079295154185
+2013,Diarrhoea,England,West Midlands,Female,Undefined,E12000005,31.3446870755407
+2013,Diarrhoea,England,West Midlands,Male,Undefined,E12000005,20.6862115700121
+2013,Diarrhoea,England,Yorkshire and The Humber,,Undefined,E12000003,31.8477303808614
+2013,Diarrhoea,England,Yorkshire and The Humber,Female,Undefined,E12000003,37.2982754163743
+2013,Diarrhoea,England,Yorkshire and The Humber,Male,Undefined,E12000003,26.2357414448669
+2013,Diarrhoea,Northern Ireland,,,Undefined,N92000002,37.1645624965841
+2013,Diarrhoea,Northern Ireland,,Female,Undefined,N92000002,50.3967402959468
+2013,Diarrhoea,Northern Ireland,,Male,Undefined,N92000002,23.4087615650429
+2013,Diarrhoea,Scotland,,,Undefined,S92000003,26.2777558796479
+2013,Diarrhoea,Scotland,,Female,Undefined,S92000003,33.1995622035753
+2013,Diarrhoea,Scotland,,Male,Undefined,S92000003,18.9430548575405
+2013,Diarrhoea,United Kingdom,,,Undefined,K02000001,27.7354431821195
+2013,Diarrhoea,United Kingdom,,Female,Undefined,K02000001,34.1698237168663
+2013,Diarrhoea,United Kingdom,,Male,Undefined,K02000001,21.0890178543114
+2013,Diarrhoea,Wales,,,Undefined,W92000004,48.0145341292499
+2013,Diarrhoea,Wales,,Female,Undefined,W92000004,58.7034201123022
+2013,Diarrhoea,Wales,,Male,Undefined,W92000004,36.9588173178458
+2013,Intestinal nematode infections,England,,,Undefined,E92000001,0.0
+2013,Intestinal nematode infections,England,,Female,Undefined,E92000001,0.0
+2013,Intestinal nematode infections,England,,Male,Undefined,E92000001,0.0
+2013,Intestinal nematode infections,England,East,,Undefined,E12000006,0.0
+2013,Intestinal nematode infections,England,East,Female,Undefined,E12000006,0.0
+2013,Intestinal nematode infections,England,East,Male,Undefined,E12000006,0.0
+2013,Intestinal nematode infections,England,East Midlands,,Undefined,E12000004,0.0
+2013,Intestinal nematode infections,England,East Midlands,Female,Undefined,E12000004,0.0
+2013,Intestinal nematode infections,England,East Midlands,Male,Undefined,E12000004,0.0
+2013,Intestinal nematode infections,England,London,,Undefined,E12000007,0.0
+2013,Intestinal nematode infections,England,London,Female,Undefined,E12000007,0.0
+2013,Intestinal nematode infections,England,London,Male,Undefined,E12000007,0.0
+2013,Intestinal nematode infections,England,North East,,Undefined,E12000001,0.0
+2013,Intestinal nematode infections,England,North East,Female,Undefined,E12000001,0.0
+2013,Intestinal nematode infections,England,North East,Male,Undefined,E12000001,0.0
+2013,Intestinal nematode infections,England,North West,,Undefined,E12000002,0.0
+2013,Intestinal nematode infections,England,North West,Female,Undefined,E12000002,0.0
+2013,Intestinal nematode infections,England,North West,Male,Undefined,E12000002,0.0
+2013,Intestinal nematode infections,England,South East,,Undefined,E12000008,0.0
+2013,Intestinal nematode infections,England,South East,Female,Undefined,E12000008,0.0
+2013,Intestinal nematode infections,England,South East,Male,Undefined,E12000008,0.0
+2013,Intestinal nematode infections,England,South West,,Undefined,E12000009,0.0
+2013,Intestinal nematode infections,England,South West,Female,Undefined,E12000009,0.0
+2013,Intestinal nematode infections,England,South West,Male,Undefined,E12000009,0.0
+2013,Intestinal nematode infections,England,West Midlands,,Undefined,E12000005,0.0
+2013,Intestinal nematode infections,England,West Midlands,Female,Undefined,E12000005,0.0
+2013,Intestinal nematode infections,England,West Midlands,Male,Undefined,E12000005,0.0
+2013,Intestinal nematode infections,England,Yorkshire and The Humber,,Undefined,E12000003,0.0
+2013,Intestinal nematode infections,England,Yorkshire and The Humber,Female,Undefined,E12000003,0.0
+2013,Intestinal nematode infections,England,Yorkshire and The Humber,Male,Undefined,E12000003,0.0
+2013,Intestinal nematode infections,Northern Ireland,,,Undefined,N92000002,0.0
+2013,Intestinal nematode infections,Northern Ireland,,Female,Undefined,N92000002,0.0
+2013,Intestinal nematode infections,Northern Ireland,,Male,Undefined,N92000002,0.0
+2013,Intestinal nematode infections,Scotland,,,Undefined,S92000003,0.0
+2013,Intestinal nematode infections,Scotland,,Female,Undefined,S92000003,0.0
+2013,Intestinal nematode infections,Scotland,,Male,Undefined,S92000003,0.0
+2013,Intestinal nematode infections,United Kingdom,,,Undefined,K02000001,0.0
+2013,Intestinal nematode infections,United Kingdom,,Female,Undefined,K02000001,0.0
+2013,Intestinal nematode infections,United Kingdom,,Male,Undefined,K02000001,0.0
+2013,Intestinal nematode infections,Wales,,,Undefined,W92000004,0.0
+2013,Intestinal nematode infections,Wales,,Female,Undefined,W92000004,0.0
+2013,Intestinal nematode infections,Wales,,Male,Undefined,W92000004,0.0
+2013,Protein-energy malnutrition,England,,,Undefined,E92000001,1.24383189333492
+2013,Protein-energy malnutrition,England,,Female,Undefined,E92000001,1.42690931442496
+2013,Protein-energy malnutrition,England,,Male,Undefined,E92000001,1.05524986809377
+2013,Protein-energy malnutrition,England,East,,Undefined,E12000006,0.840067877484501
+2013,Protein-energy malnutrition,England,East,Female,Undefined,E12000006,0.330764396520359
+2013,Protein-energy malnutrition,England,East,Male,Undefined,E12000006,1.36584033326504
+2013,Protein-energy malnutrition,England,East Midlands,,Undefined,E12000004,0.869848863759922
+2013,Protein-energy malnutrition,England,East Midlands,Female,Undefined,E12000004,0.429074058182442
+2013,Protein-energy malnutrition,England,East Midlands,Male,Undefined,E12000004,1.3228096476917
+2013,Protein-energy malnutrition,England,London,,Undefined,E12000007,0.594000594000594
+2013,Protein-energy malnutrition,England,London,Female,Undefined,E12000007,0.705600112896018
+2013,Protein-energy malnutrition,England,London,Male,Undefined,E12000007,0.48009986077104
+2013,Protein-energy malnutrition,England,North East,,Undefined,E12000001,1.53221481651728
+2013,Protein-energy malnutrition,England,North East,Female,Undefined,E12000001,1.50127608467197
+2013,Protein-energy malnutrition,England,North East,Male,Undefined,E12000001,1.56445556946183
+2013,Protein-energy malnutrition,England,North West,,Undefined,E12000002,0.844654043781235
+2013,Protein-energy malnutrition,England,North West,Female,Undefined,E12000002,0.831370375502286
+2013,Protein-energy malnutrition,England,North West,Male,Undefined,E12000002,0.858369098712446
+2013,Protein-energy malnutrition,England,South East,,Undefined,E12000008,1.81958786334895
+2013,Protein-energy malnutrition,England,South East,Female,Undefined,E12000008,2.4612355402412
+2013,Protein-energy malnutrition,England,South East,Male,Undefined,E12000008,1.15639021231324
+2013,Protein-energy malnutrition,England,South West,,Undefined,E12000009,1.67357792364766
+2013,Protein-energy malnutrition,England,South West,Female,Undefined,E12000009,2.55745131708743
+2013,Protein-energy malnutrition,England,South West,Male,Undefined,E12000009,0.757403620389306
+2013,Protein-energy malnutrition,England,West Midlands,,Undefined,E12000005,2.46696035242291
+2013,Protein-energy malnutrition,England,West Midlands,Female,Undefined,E12000005,3.13446870755407
+2013,Protein-energy malnutrition,England,West Midlands,Male,Undefined,E12000005,1.78329410086311
+2013,Protein-energy malnutrition,England,Yorkshire and The Humber,,Undefined,E12000003,0.749358361902621
+2013,Protein-energy malnutrition,England,Yorkshire and The Humber,Female,Undefined,E12000003,0.738579711215333
+2013,Protein-energy malnutrition,England,Yorkshire and The Humber,Male,Undefined,E12000003,0.760456273764259
+2013,Protein-energy malnutrition,Northern Ireland,,,Undefined,N92000002,2.73268841886648
+2013,Protein-energy malnutrition,Northern Ireland,,Female,Undefined,N92000002,5.36135535063264
+2013,Protein-energy malnutrition,Northern Ireland,,Male,Undefined,N92000002,0.0
+2013,Protein-energy malnutrition,Scotland,,,Undefined,S92000003,1.68928430654879
+2013,Protein-energy malnutrition,Scotland,,Female,Undefined,S92000003,1.82415176942722
+2013,Protein-energy malnutrition,Scotland,,Male,Undefined,S92000003,1.54637182510535
+2013,Protein-energy malnutrition,United Kingdom,,,Undefined,K02000001,1.34153437213852
+2013,Protein-energy malnutrition,United Kingdom,,Female,Undefined,K02000001,1.59643381246815
+2013,Protein-energy malnutrition,United Kingdom,,Male,Undefined,K02000001,1.07823549931817
+2013,Protein-energy malnutrition,Wales,,,Undefined,W92000004,1.62211263950169
+2013,Protein-energy malnutrition,Wales,,Female,Undefined,W92000004,1.91424196018377
+2013,Protein-energy malnutrition,Wales,,Male,Undefined,W92000004,1.31995776135164
+2014,,England,,,Undefined,E92000001,523.780943578943
+2014,,England,,Female,Undefined,E92000001,590.558899772722
+2014,,England,,Male,Undefined,E92000001,455.081947619261
+2014,,England,East,,Undefined,E12000006,544.928788659366
+2014,,England,East,Female,Undefined,E12000006,609.800006546431
+2014,,England,East,Male,Undefined,E12000006,478.039228925425
+2014,,England,East Midlands,,Undefined,E12000004,522.27541294691
+2014,,England,East Midlands,Female,Undefined,E12000004,598.90180053633
+2014,,England,East Midlands,Male,Undefined,E12000004,443.599493029151
+2014,,England,London,,Undefined,E12000007,360.212661311099
+2014,,England,London,Female,Undefined,E12000007,417.876472091241
+2014,,England,London,Male,Undefined,E12000007,301.584677514583
+2014,,England,North East,,Undefined,E12000001,561.347233360064
+2014,,England,North East,Female,Undefined,E12000001,640.161725067385
+2014,,England,North East,Male,Undefined,E12000001,479.307926116437
+2014,,England,North West,,Undefined,E12000002,581.943081452404
+2014,,England,North West,Female,Undefined,E12000002,637.25219504114
+2014,,England,North West,Male,Undefined,E12000002,524.891774891775
+2014,,England,South East,,Undefined,E12000008,567.275185936444
+2014,,England,South East,Female,Undefined,E12000008,640.024838108755
+2014,,England,South East,Male,Undefined,E12000008,492.118768328446
+2014,,England,South West,,Undefined,E12000009,589.862260985009
+2014,,England,South West,Female,Undefined,E12000009,661.327728656327
+2014,,England,South West,Male,Undefined,E12000009,515.823854037617
+2014,,England,West Midlands,,Undefined,E12000005,515.104841250394
+2014,,England,West Midlands,Female,Undefined,E12000005,573.554863274489
+2014,,England,West Midlands,Male,Undefined,E12000005,455.317943634046
+2014,,England,Yorkshire and The Humber,,Undefined,E12000003,536.557153784444
+2014,,England,Yorkshire and The Humber,Female,Undefined,E12000003,612.792878949498
+2014,,England,Yorkshire and The Humber,Male,Undefined,E12000003,458.090406602559
+2014,,Northern Ireland,,,Undefined,N92000002,444.987775061125
+2014,,Northern Ireland,,Female,Undefined,N92000002,510.769886969503
+2014,,Northern Ireland,,Male,Undefined,N92000002,376.647834274953
+2014,,Scotland,,,Undefined,S92000003,394.382526740968
+2014,,Scotland,,Female,Undefined,S92000003,423.830467812875
+2014,,Scotland,,Male,Undefined,S92000003,363.1812054689
+2014,,United Kingdom,,,Undefined,K02000001,519.576821142843
+2014,,United Kingdom,,Female,Undefined,K02000001,584.214858397098
+2014,,United Kingdom,,Male,Undefined,K02000001,452.887040869603
+2014,,Wales,,,Undefined,W92000004,706.662354463131
+2014,,Wales,,Female,Undefined,W92000004,797.733494620233
+2014,,Wales,,Male,Undefined,W92000004,612.633931505949
+2014,Acute respiratory infections,England,,,Undefined,E92000001,500.767721101836
+2014,Acute respiratory infections,England,,Female,Undefined,E92000001,561.368603730839
+2014,Acute respiratory infections,England,,Male,Undefined,E92000001,438.423498124991
+2014,Acute respiratory infections,England,East,,Undefined,E12000006,523.656789590015
+2014,Acute respiratory infections,England,East,Female,Undefined,E12000006,584.59624889529
+2014,Acute respiratory infections,England,East,Male,Undefined,E12000006,460.821714324297
+2014,Acute respiratory infections,England,East Midlands,,Undefined,E12000004,501.142881787208
+2014,Acute respiratory infections,England,East Midlands,Female,Undefined,E12000004,572.510960711701
+2014,Acute respiratory infections,England,East Midlands,Male,Undefined,E12000004,427.86591495127
+2014,Acute respiratory infections,England,London,,Undefined,E12000007,344.052275335504
+2014,Acute respiratory infections,England,London,Female,Undefined,E12000007,395.112773222457
+2014,Acute respiratory infections,England,London,Male,Undefined,E12000007,292.138015728692
+2014,Acute respiratory infections,England,North East,,Undefined,E12000001,533.852674991408
+2014,Acute respiratory infections,England,North East,Female,Undefined,E12000001,604.971548367775
+2014,Acute respiratory infections,England,North East,Male,Undefined,E12000001,459.823864079183
+2014,Acute respiratory infections,England,North West,,Undefined,E12000002,554.32496845647
+2014,Acute respiratory infections,England,North West,Female,Undefined,E12000002,602.186757965653
+2014,Acute respiratory infections,England,North West,Male,Undefined,E12000002,504.955570745044
+2014,Acute respiratory infections,England,South East,,Undefined,E12000008,545.526256479603
+2014,Acute respiratory infections,England,South East,Female,Undefined,E12000008,614.743191696975
+2014,Acute respiratory infections,England,South East,Male,Undefined,E12000008,474.019428152493
+2014,Acute respiratory infections,England,South West,,Undefined,E12000009,564.047720022864
+2014,Acute respiratory infections,England,South West,Female,Undefined,E12000009,626.177706914046
+2014,Acute respiratory infections,England,South West,Male,Undefined,E12000009,499.680894995683
+2014,Acute respiratory infections,England,West Midlands,,Undefined,E12000005,486.050337802359
+2014,Acute respiratory infections,England,West Midlands,Female,Undefined,E12000005,537.902388369678
+2014,Acute respiratory infections,England,West Midlands,Male,Undefined,E12000005,433.012321200963
+2014,Acute respiratory infections,England,Yorkshire and The Humber,,Undefined,E12000003,514.542639129867
+2014,Acute respiratory infections,England,Yorkshire and The Humber,Female,Undefined,E12000003,583.734873285026
+2014,Acute respiratory infections,England,Yorkshire and The Humber,Male,Undefined,E12000003,443.325509199667
+2014,Acute respiratory infections,Northern Ireland,,,Undefined,N92000002,418.907905460473
+2014,Acute respiratory infections,Northern Ireland,,Female,Undefined,N92000002,479.846449136276
+2014,Acute respiratory infections,Northern Ireland,,Male,Undefined,N92000002,355.59986706547
+2014,Acute respiratory infections,Scotland,,,Undefined,S92000003,367.641558830129
+2014,Acute respiratory infections,Scotland,,Female,Undefined,S92000003,391.479771727673
+2014,Acute respiratory infections,Scotland,,Male,Undefined,S92000003,342.383978432505
+2014,Acute respiratory infections,United Kingdom,,,Undefined,K02000001,495.860476060734
+2014,Acute respiratory infections,United Kingdom,,Female,Undefined,K02000001,554.248087065208
+2014,Acute respiratory infections,United Kingdom,,Male,Undefined,K02000001,435.619523303286
+2014,Acute respiratory infections,Wales,,,Undefined,W92000004,677.231565329884
+2014,Acute respiratory infections,Wales,,Female,Undefined,W92000004,758.897306933215
+2014,Acute respiratory infections,Wales,,Male,Undefined,W92000004,592.913955169921
+2014,Diarrhoea,England,,,Undefined,E92000001,21.6692502844434
+2014,Diarrhoea,England,,Female,Undefined,E92000001,27.3749791238554
+2014,Diarrhoea,England,,Male,Undefined,E92000001,15.7993814710233
+2014,Diarrhoea,England,East,,Undefined,E12000006,20.2748741129743
+2014,Diarrhoea,England,East,Female,Undefined,E12000006,24.22179306733
+2014,Diarrhoea,England,East,Male,Undefined,E12000006,16.2047196245907
+2014,Diarrhoea,England,East Midlands,,Undefined,E12000004,20.2699788674688
+2014,Diarrhoea,England,East Midlands,Female,Undefined,E12000004,25.1138637040821
+2014,Diarrhoea,England,East Midlands,Male,Undefined,E12000004,15.2965342423845
+2014,Diarrhoea,England,London,,Undefined,E12000007,15.2235520059957
+2014,Diarrhoea,England,London,Female,Undefined,E12000007,21.1377203781561
+2014,Diarrhoea,England,London,Male,Undefined,E12000007,9.21049524124412
+2014,Diarrhoea,England,North East,,Undefined,E12000001,26.7308206361935
+2014,Diarrhoea,England,North East,Female,Undefined,E12000001,34.4414495357892
+2014,Diarrhoea,England,North East,Male,Undefined,E12000001,18.7046995557634
+2014,Diarrhoea,England,North West,,Undefined,E12000002,25.7955979251367
+2014,Diarrhoea,England,North West,Female,Undefined,E12000002,32.5804848417914
+2014,Diarrhoea,England,North West,Male,Undefined,E12000002,18.796992481203
+2014,Diarrhoea,England,South East,,Undefined,E12000008,20.8474194275411
+2014,Diarrhoea,England,South East,Female,Undefined,E12000008,24.6163399272598
+2014,Diarrhoea,England,South East,Male,Undefined,E12000008,16.9538123167155
+2014,Diarrhoea,England,South West,,Undefined,E12000009,24.1550347574355
+2014,Diarrhoea,England,South West,Female,Undefined,E12000009,32.9757935932744
+2014,Diarrhoea,England,South West,Male,Undefined,E12000009,15.0167060855201
+2014,Diarrhoea,England,West Midlands,,Undefined,E12000005,26.6041236391641
+2014,Diarrhoea,England,West Midlands,Female,Undefined,E12000005,32.1910695742471
+2014,Diarrhoea,England,West Midlands,Male,Undefined,E12000005,20.8893924373318
+2014,Diarrhoea,England,Yorkshire and The Humber,,Undefined,E12000003,20.335441502957
+2014,Diarrhoea,England,Yorkshire and The Humber,Female,Undefined,E12000003,26.1154228123736
+2014,Diarrhoea,England,Yorkshire and The Humber,Male,Undefined,E12000003,14.3863102899977
+2014,Diarrhoea,Northern Ireland,,,Undefined,N92000002,24.9932083672915
+2014,Diarrhoea,Northern Ireland,,Female,Undefined,N92000002,29.8571123907016
+2014,Diarrhoea,Northern Ireland,,Male,Undefined,N92000002,19.9401794616152
+2014,Diarrhoea,Scotland,,,Undefined,S92000003,24.6839703792355
+2014,Diarrhoea,Scotland,,Female,Undefined,S92000003,29.806259314456
+2014,Diarrhoea,Scotland,,Male,Undefined,S92000003,19.2566917003659
+2014,Diarrhoea,United Kingdom,,,Undefined,K02000001,22.2302033537265
+2014,Diarrhoea,United Kingdom,,Female,Undefined,K02000001,28.015730268573
+2014,Diarrhoea,United Kingdom,,Male,Undefined,K02000001,16.2610320251118
+2014,Diarrhoea,Wales,,,Undefined,W92000004,26.1966364812419
+2014,Diarrhoea,Wales,,Female,Undefined,W92000004,35.0162347997708
+2014,Diarrhoea,Wales,,Male,Undefined,W92000004,17.0906461578913
+2014,Intestinal nematode infections,England,,,Undefined,E92000001,0.0
+2014,Intestinal nematode infections,England,,Female,Undefined,E92000001,0.0
+2014,Intestinal nematode infections,England,,Male,Undefined,E92000001,0.0
+2014,Intestinal nematode infections,England,East,,Undefined,E12000006,0.0
+2014,Intestinal nematode infections,England,East,Female,Undefined,E12000006,0.0
+2014,Intestinal nematode infections,England,East,Male,Undefined,E12000006,0.0
+2014,Intestinal nematode infections,England,East Midlands,,Undefined,E12000004,0.0
+2014,Intestinal nematode infections,England,East Midlands,Female,Undefined,E12000004,0.0
+2014,Intestinal nematode infections,England,East Midlands,Male,Undefined,E12000004,0.0
+2014,Intestinal nematode infections,England,London,,Undefined,E12000007,0.0
+2014,Intestinal nematode infections,England,London,Female,Undefined,E12000007,0.0
+2014,Intestinal nematode infections,England,London,Male,Undefined,E12000007,0.0
+2014,Intestinal nematode infections,England,North East,,Undefined,E12000001,0.0
+2014,Intestinal nematode infections,England,North East,Female,Undefined,E12000001,0.0
+2014,Intestinal nematode infections,England,North East,Male,Undefined,E12000001,0.0
+2014,Intestinal nematode infections,England,North West,,Undefined,E12000002,0.0
+2014,Intestinal nematode infections,England,North West,Female,Undefined,E12000002,0.0
+2014,Intestinal nematode infections,England,North West,Male,Undefined,E12000002,0.0
+2014,Intestinal nematode infections,England,South East,,Undefined,E12000008,0.0
+2014,Intestinal nematode infections,England,South East,Female,Undefined,E12000008,0.0
+2014,Intestinal nematode infections,England,South East,Male,Undefined,E12000008,0.0
+2014,Intestinal nematode infections,England,South West,,Undefined,E12000009,0.0
+2014,Intestinal nematode infections,England,South West,Female,Undefined,E12000009,0.0
+2014,Intestinal nematode infections,England,South West,Male,Undefined,E12000009,0.0
+2014,Intestinal nematode infections,England,West Midlands,,Undefined,E12000005,0.0
+2014,Intestinal nematode infections,England,West Midlands,Female,Undefined,E12000005,0.0
+2014,Intestinal nematode infections,England,West Midlands,Male,Undefined,E12000005,0.0
+2014,Intestinal nematode infections,England,Yorkshire and The Humber,,Undefined,E12000003,0.0
+2014,Intestinal nematode infections,England,Yorkshire and The Humber,Female,Undefined,E12000003,0.0
+2014,Intestinal nematode infections,England,Yorkshire and The Humber,Male,Undefined,E12000003,0.0
+2014,Intestinal nematode infections,Northern Ireland,,,Undefined,N92000002,0.0
+2014,Intestinal nematode infections,Northern Ireland,,Female,Undefined,N92000002,0.0
+2014,Intestinal nematode infections,Northern Ireland,,Male,Undefined,N92000002,0.0
+2014,Intestinal nematode infections,Scotland,,,Undefined,S92000003,0.0
+2014,Intestinal nematode infections,Scotland,,Female,Undefined,S92000003,0.0
+2014,Intestinal nematode infections,Scotland,,Male,Undefined,S92000003,0.0
+2014,Intestinal nematode infections,United Kingdom,,,Undefined,K02000001,0.0
+2014,Intestinal nematode infections,United Kingdom,,Female,Undefined,K02000001,0.0
+2014,Intestinal nematode infections,United Kingdom,,Male,Undefined,K02000001,0.0
+2014,Intestinal nematode infections,Wales,,,Undefined,W92000004,0.0
+2014,Intestinal nematode infections,Wales,,Female,Undefined,W92000004,0.0
+2014,Intestinal nematode infections,Wales,,Male,Undefined,W92000004,0.0
+2014,Protein-energy malnutrition,England,,,Undefined,E92000001,1.34397219266302
+2014,Protein-energy malnutrition,England,,Female,Undefined,E92000001,1.81531691802755
+2014,Protein-energy malnutrition,England,,Male,Undefined,E92000001,0.859068023247128
+2014,Protein-energy malnutrition,England,East,,Undefined,E12000006,0.997124956375783
+2014,Protein-energy malnutrition,England,East,Female,Undefined,E12000006,0.981964583810677
+2014,Protein-energy malnutrition,England,East,Male,Undefined,E12000006,1.01279497653692
+2014,Protein-energy malnutrition,England,East Midlands,,Undefined,E12000004,0.862552292232717
+2014,Protein-energy malnutrition,England,East Midlands,Female,Undefined,E12000004,1.27697612054655
+2014,Protein-energy malnutrition,England,East Midlands,Male,Undefined,E12000004,0.4370438354967
+2014,Protein-energy malnutrition,England,London,,Undefined,E12000007,0.936833969599738
+2014,Protein-energy malnutrition,England,London,Female,Undefined,E12000007,1.6259784906274
+2014,Protein-energy malnutrition,England,London,Male,Undefined,E12000007,0.236166544647285
+2014,Protein-energy malnutrition,England,North East,,Undefined,E12000001,0.763737732462672
+2014,Protein-energy malnutrition,England,North East,Female,Undefined,E12000001,0.748727163821504
+2014,Protein-energy malnutrition,England,North East,Male,Undefined,E12000001,0.779362481490141
+2014,Protein-energy malnutrition,England,North West,,Undefined,E12000002,1.8225150707977
+2014,Protein-energy malnutrition,England,North West,Female,Undefined,E12000002,2.48495223369595
+2014,Protein-energy malnutrition,England,North West,Male,Undefined,E12000002,1.13921166552745
+2014,Protein-energy malnutrition,England,South East,,Undefined,E12000008,0.901510029299076
+2014,Protein-energy malnutrition,England,South East,Female,Undefined,E12000008,0.665306484520536
+2014,Protein-energy malnutrition,England,South East,Male,Undefined,E12000008,1.14552785923754
+2014,Protein-energy malnutrition,England,South West,,Undefined,E12000009,1.65950620470931
+2014,Protein-energy malnutrition,England,South West,Female,Undefined,E12000009,2.1742281490071
+2014,Protein-energy malnutrition,England,South West,Male,Undefined,E12000009,1.12625295641401
+2014,Protein-energy malnutrition,England,West Midlands,,Undefined,E12000005,2.45037980887037
+2014,Protein-energy malnutrition,England,West Midlands,Female,Undefined,E12000005,3.46140533056421
+2014,Protein-energy malnutrition,England,West Midlands,Male,Undefined,E12000005,1.41622999575131
+2014,Protein-energy malnutrition,England,Yorkshire and The Humber,,Undefined,E12000003,1.67907315162031
+2014,Protein-energy malnutrition,England,Yorkshire and The Humber,Female,Undefined,E12000003,2.94258285209843
+2014,Protein-energy malnutrition,England,Yorkshire and The Humber,Male,Undefined,E12000003,0.378587112894677
+2014,Protein-energy malnutrition,Northern Ireland,,,Undefined,N92000002,1.0866612333605
+2014,Protein-energy malnutrition,Northern Ireland,,Female,Undefined,N92000002,1.06632544252506
+2014,Protein-energy malnutrition,Northern Ireland,,Male,Undefined,N92000002,1.10778774786751
+2014,Protein-energy malnutrition,Scotland,,,Undefined,S92000003,2.05699753160296
+2014,Protein-energy malnutrition,Scotland,,Female,Undefined,S92000003,2.54443677074625
+2014,Protein-energy malnutrition,Scotland,,Male,Undefined,S92000003,1.54053533602927
+2014,Protein-energy malnutrition,United Kingdom,,,Undefined,K02000001,1.48614172838283
+2014,Protein-energy malnutrition,United Kingdom,,Female,Undefined,K02000001,1.95104106331738
+2014,Protein-energy malnutrition,United Kingdom,,Male,Undefined,K02000001,1.00648554120615
+2014,Protein-energy malnutrition,Wales,,,Undefined,W92000004,3.23415265200517
+2014,Protein-energy malnutrition,Wales,,Female,Undefined,W92000004,3.81995288724772
+2014,Protein-energy malnutrition,Wales,,Male,Undefined,W92000004,2.62933017813712
+2015,,England,,,Undefined,E92000001,606.264704862347
+2015,,England,,Female,Undefined,E92000001,683.971610764852
+2015,,England,,Male,Undefined,E92000001,526.465724232592
+2015,,England,East,,Undefined,E12000006,655.0362080316
+2015,,England,East,Female,Undefined,E12000006,732.822941672614
+2015,,England,East,Male,Undefined,E12000006,574.931516001871
+2015,,England,East Midlands,,Undefined,E12000004,642.023346303502
+2015,,England,East Midlands,Female,Undefined,E12000004,720.831045986234
+2015,,England,East Midlands,Male,Undefined,E12000004,561.209024379682
+2015,,England,London,,Undefined,E12000007,382.489702200325
+2015,,England,London,Female,Undefined,E12000007,414.326003714489
+2015,,England,London,Male,Undefined,E12000007,350.24154589372
+2015,,England,North East,,Undefined,E12000001,631.334298559781
+2015,,England,North East,Female,Undefined,E12000001,687.85046728972
+2015,,England,North East,Male,Undefined,E12000001,572.605081190273
+2015,,England,North West,,Undefined,E12000002,653.640316646226
+2015,,England,North West,Female,Undefined,E12000002,742.012582071921
+2015,,England,North West,Male,Undefined,E12000002,562.643206698538
+2015,,England,South East,,Undefined,E12000008,640.042907904441
+2015,,England,South East,Female,Undefined,E12000008,726.844618533107
+2015,,England,South East,Male,Undefined,E12000008,550.498286077501
+2015,,England,South West,,Undefined,E12000009,753.89282842313
+2015,,England,South West,Female,Undefined,E12000009,864.893999281351
+2015,,England,South West,Male,Undefined,E12000009,638.99427211188
+2015,,England,West Midlands,,Undefined,E12000005,601.39009556907
+2015,,England,West Midlands,Female,Undefined,E12000005,684.959768929235
+2015,,England,West Midlands,Male,Undefined,E12000005,516.017985106084
+2015,,England,Yorkshire and The Humber,,Undefined,E12000003,604.059218581871
+2015,,England,Yorkshire and The Humber,Female,Undefined,E12000003,691.434846266471
+2015,,England,Yorkshire and The Humber,Male,Undefined,E12000003,514.257768414717
+2015,,Northern Ireland,,,Undefined,N92000002,484.445884640311
+2015,,Northern Ireland,,Female,Undefined,N92000002,561.273209549072
+2015,,Northern Ireland,,Male,Undefined,N92000002,404.79595204048
+2015,,Scotland,,,Undefined,S92000003,454.866927228736
+2015,,Scotland,,Female,Undefined,S92000003,506.787330316742
+2015,,Scotland,,Male,Undefined,S92000003,399.923386324459
+2015,,United Kingdom,,,Undefined,K02000001,603.70142835202
+2015,,United Kingdom,,Female,Undefined,K02000001,681.598033636441
+2015,,United Kingdom,,Male,Undefined,K02000001,523.47043124735
+2015,,Wales,,,Undefined,W92000004,887.677067535736
+2015,,Wales,,Female,Undefined,W92000004,1018.74801398157
+2015,,Wales,,Male,Undefined,W92000004,752.490823282643
+2015,Acute respiratory infections,England,,,Undefined,E92000001,581.824288188836
+2015,Acute respiratory infections,England,,Female,Undefined,E92000001,652.700219764384
+2015,Acute respiratory infections,England,,Male,Undefined,E92000001,509.040189720045
+2015,Acute respiratory infections,England,East,,Undefined,E12000006,629.855167873601
+2015,Acute respiratory infections,England,East,Female,Undefined,E12000006,697.787581911374
+2015,Acute respiratory infections,England,East,Male,Undefined,E12000006,559.898443241799
+2015,Acute respiratory infections,England,East Midlands,,Undefined,E12000004,615.726685765596
+2015,Acute respiratory infections,England,East Midlands,Female,Undefined,E12000004,685.781850428614
+2015,Acute respiratory infections,England,East Midlands,Male,Undefined,E12000004,543.887758195124
+2015,Acute respiratory infections,England,London,,Undefined,E12000007,366.105527928094
+2015,Acute respiratory infections,England,London,Female,Undefined,E12000007,395.065691422282
+2015,Acute respiratory infections,England,London,Male,Undefined,E12000007,336.7707172055
+2015,Acute respiratory infections,England,North East,,Undefined,E12000001,606.949630419874
+2015,Acute respiratory infections,England,North East,Female,Undefined,E12000001,660.18691588785
+2015,Acute respiratory infections,England,North East,Male,Undefined,E12000001,551.627690156165
+2015,Acute respiratory infections,England,North West,,Undefined,E12000002,623.25788828186
+2015,Acute respiratory infections,England,North West,Female,Undefined,E12000002,706.024559764842
+2015,Acute respiratory infections,England,North West,Male,Undefined,E12000002,538.032870357274
+2015,Acute respiratory infections,England,South East,,Undefined,E12000008,616.018950991128
+2015,Acute respiratory infections,England,South East,Female,Undefined,E12000008,696.917016922298
+2015,Acute respiratory infections,England,South East,Male,Undefined,E12000008,532.564527479512
+2015,Acute respiratory infections,England,South West,,Undefined,E12000009,728.671686526793
+2015,Acute respiratory infections,England,South West,Female,Undefined,E12000009,830.758174631692
+2015,Acute respiratory infections,England,South West,Male,Undefined,E12000009,623.000818269731
+2015,Acute respiratory infections,England,West Midlands,,Undefined,E12000005,574.630755864466
+2015,Acute respiratory infections,England,West Midlands,Female,Undefined,E12000005,651.261948971873
+2015,Acute respiratory infections,England,West Midlands,Male,Undefined,E12000005,496.346775326683
+2015,Acute respiratory infections,England,Yorkshire and The Humber,,Undefined,E12000003,579.570331342065
+2015,Acute respiratory infections,England,Yorkshire and The Humber,Female,Undefined,E12000003,656.295754026354
+2015,Acute respiratory infections,England,Yorkshire and The Humber,Male,Undefined,E12000003,500.714769392822
+2015,Acute respiratory infections,Northern Ireland,,,Undefined,N92000002,453.661697990927
+2015,Acute respiratory infections,Northern Ireland,,Female,Undefined,N92000002,561.273209549072
+2015,Acute respiratory infections,Northern Ireland,,Male,Undefined,N92000002,404.79595204048
+2015,Acute respiratory infections,Scotland,,,Undefined,S92000003,427.13567839196
+2015,Acute respiratory infections,Scotland,,Female,Undefined,S92000003,468.41628959276
+2015,Acute respiratory infections,Scotland,,Male,Undefined,S92000003,383.451446083126
+2015,Acute respiratory infections,United Kingdom,,,Undefined,K02000001,578.282905851636
+2015,Acute respiratory infections,United Kingdom,,Female,Undefined,K02000001,649.662788022618
+2015,Acute respiratory infections,United Kingdom,,Male,Undefined,K02000001,506.541042077171
+2015,Acute respiratory infections,Wales,,,Undefined,W92000004,852.182891807299
+2015,Acute respiratory infections,Wales,,Female,Undefined,W92000004,967.270416269463
+2015,Acute respiratory infections,Wales,,Male,Undefined,W92000004,733.48190875721
+2015,Diarrhoea,England,,,Undefined,E92000001,22.9984503425126
+2015,Diarrhoea,England,,Female,Undefined,E92000001,29.4340166444501
+2015,Diarrhoea,England,,Male,Undefined,E92000001,16.3896216328207
+2015,Diarrhoea,England,East,,Undefined,E12000006,24.0289664252798
+2015,Diarrhoea,England,East,Female,Undefined,E12000006,33.4133523648868
+2015,Diarrhoea,England,East,Male,Undefined,E12000006,14.3649361929578
+2015,Diarrhoea,England,East Midlands,,Undefined,E12000004,25.0138966092273
+2015,Diarrhoea,England,East Midlands,Female,Undefined,E12000004,33.3600776994215
+2015,Diarrhoea,England,East Midlands,Male,Undefined,E12000004,16.4552028753302
+2015,Diarrhoea,England,London,,Undefined,E12000007,15.3457406915968
+2015,Diarrhoea,England,London,Female,Undefined,E12000007,17.884575699906
+2015,Diarrhoea,England,London,Male,Undefined,E12000007,12.7740616871052
+2015,Diarrhoea,England,North East,,Undefined,E12000001,23.2416368208489
+2015,Diarrhoea,England,North East,Female,Undefined,E12000001,25.4205607476636
+2015,Diarrhoea,England,North East,Male,Undefined,E12000001,20.9773910341077
+2015,Diarrhoea,England,North West,,Undefined,E12000002,28.5706321775003
+2015,Diarrhoea,England,North West,Female,Undefined,E12000002,34.6144336694047
+2015,Diarrhoea,England,North West,Male,Undefined,E12000002,22.3473169075839
+2015,Diarrhoea,England,South East,,Undefined,E12000008,22.5713455650658
+2015,Diarrhoea,England,South East,Female,Undefined,E12000008,27.7270426688379
+2015,Diarrhoea,England,South East,Male,Undefined,E12000008,17.2527297904701
+2015,Diarrhoea,England,South West,,Undefined,E12000009,23.0279991227429
+2015,Diarrhoea,England,South West,Female,Undefined,E12000009,30.5425799496946
+2015,Diarrhoea,England,South West,Male,Undefined,E12000009,15.2495722680949
+2015,Diarrhoea,England,West Midlands,,Undefined,E12000005,24.1529105125977
+2015,Diarrhoea,England,West Midlands,Female,Undefined,E12000005,30.946977511863
+2015,Diarrhoea,England,West Midlands,Male,Undefined,E12000005,17.2123085569763
+2015,Diarrhoea,England,Yorkshire and The Humber,,Undefined,E12000003,24.3033653667767
+2015,Diarrhoea,England,Yorkshire and The Humber,Female,Undefined,E12000003,35.1390922401171
+2015,Diarrhoea,England,Yorkshire and The Humber,Male,Undefined,E12000003,13.1668046046197
+2015,Diarrhoea,Northern Ireland,,,Undefined,N92000002,28.6238928494275
+2015,Diarrhoea,Northern Ireland,,Female,Undefined,N92000002,42.4403183023873
+2015,Diarrhoea,Northern Ireland,,Male,Undefined,N92000002,14.29985700143
+2015,Diarrhoea,Scotland,,,Undefined,S92000003,26.8006700167504
+2015,Diarrhoea,Scotland,,Female,Undefined,S92000003,36.9230769230769
+2015,Diarrhoea,Scotland,,Male,Undefined,S92000003,16.0888718636277
+2015,Diarrhoea,United Kingdom,,,Undefined,K02000001,23.8365842420519
+2015,Diarrhoea,United Kingdom,,Female,Undefined,K02000001,31.2087566140769
+2015,Diarrhoea,United Kingdom,,Male,Undefined,K02000001,16.2434838999327
+2015,Diarrhoea,Wales,,,Undefined,W92000004,30.6540608563777
+2015,Diarrhoea,Wales,,Female,Undefined,W92000004,45.7578646329838
+2015,Diarrhoea,Wales,,Male,Undefined,W92000004,15.0760356581017
+2015,Intestinal nematode infections,England,,,Undefined,E92000001,0.0
+2015,Intestinal nematode infections,England,,Female,Undefined,E92000001,0.0
+2015,Intestinal nematode infections,England,,Male,Undefined,E92000001,0.0
+2015,Intestinal nematode infections,England,East,,Undefined,E12000006,0.0
+2015,Intestinal nematode infections,England,East,Female,Undefined,E12000006,0.0
+2015,Intestinal nematode infections,England,East,Male,Undefined,E12000006,0.0
+2015,Intestinal nematode infections,England,East Midlands,,Undefined,E12000004,0.0
+2015,Intestinal nematode infections,England,East Midlands,Female,Undefined,E12000004,0.0
+2015,Intestinal nematode infections,England,East Midlands,Male,Undefined,E12000004,0.0
+2015,Intestinal nematode infections,England,London,,Undefined,E12000007,0.0
+2015,Intestinal nematode infections,England,London,Female,Undefined,E12000007,0.0
+2015,Intestinal nematode infections,England,London,Male,Undefined,E12000007,0.0
+2015,Intestinal nematode infections,England,North East,,Undefined,E12000001,0.0
+2015,Intestinal nematode infections,England,North East,Female,Undefined,E12000001,0.0
+2015,Intestinal nematode infections,England,North East,Male,Undefined,E12000001,0.0
+2015,Intestinal nematode infections,England,North West,,Undefined,E12000002,0.0
+2015,Intestinal nematode infections,England,North West,Female,Undefined,E12000002,0.0
+2015,Intestinal nematode infections,England,North West,Male,Undefined,E12000002,0.0
+2015,Intestinal nematode infections,England,South East,,Undefined,E12000008,0.0
+2015,Intestinal nematode infections,England,South East,Female,Undefined,E12000008,0.0
+2015,Intestinal nematode infections,England,South East,Male,Undefined,E12000008,0.0
+2015,Intestinal nematode infections,England,South West,,Undefined,E12000009,0.0
+2015,Intestinal nematode infections,England,South West,Female,Undefined,E12000009,0.0
+2015,Intestinal nematode infections,England,South West,Male,Undefined,E12000009,0.0
+2015,Intestinal nematode infections,England,West Midlands,,Undefined,E12000005,0.0
+2015,Intestinal nematode infections,England,West Midlands,Female,Undefined,E12000005,0.0
+2015,Intestinal nematode infections,England,West Midlands,Male,Undefined,E12000005,0.0
+2015,Intestinal nematode infections,England,Yorkshire and The Humber,,Undefined,E12000003,0.0
+2015,Intestinal nematode infections,England,Yorkshire and The Humber,Female,Undefined,E12000003,0.0
+2015,Intestinal nematode infections,England,Yorkshire and The Humber,Male,Undefined,E12000003,0.0
+2015,Intestinal nematode infections,Northern Ireland,,,Undefined,N92000002,0.0
+2015,Intestinal nematode infections,Northern Ireland,,Female,Undefined,N92000002,0.0
+2015,Intestinal nematode infections,Northern Ireland,,Male,Undefined,N92000002,0.0
+2015,Intestinal nematode infections,Scotland,,,Undefined,S92000003,0.0
+2015,Intestinal nematode infections,Scotland,,Female,Undefined,S92000003,0.0
+2015,Intestinal nematode infections,Scotland,,Male,Undefined,S92000003,0.0
+2015,Intestinal nematode infections,United Kingdom,,,Undefined,K02000001,0.0
+2015,Intestinal nematode infections,United Kingdom,,Female,Undefined,K02000001,0.0
+2015,Intestinal nematode infections,United Kingdom,,Male,Undefined,K02000001,0.0
+2015,Intestinal nematode infections,Wales,,,Undefined,W92000004,0.0
+2015,Intestinal nematode infections,Wales,,Female,Undefined,W92000004,0.0
+2015,Intestinal nematode infections,Wales,,Male,Undefined,W92000004,0.0
+2015,Protein-energy malnutrition,England,,,Undefined,E92000001,1.44196633099881
+2015,Protein-energy malnutrition,England,,Female,Undefined,E92000001,1.8373743560183
+2015,Protein-energy malnutrition,England,,Male,Undefined,E92000001,1.03591287972681
+2015,Protein-energy malnutrition,England,East,,Undefined,E12000006,1.15207373271889
+2015,Protein-energy malnutrition,England,East,Female,Undefined,E12000006,1.62200739635373
+2015,Protein-energy malnutrition,England,East,Male,Undefined,E12000006,0.668136567114318
+2015,Protein-energy malnutrition,England,East Midlands,,Undefined,E12000004,1.28276392867833
+2015,Protein-energy malnutrition,England,East Midlands,Female,Undefined,E12000004,1.68911785819856
+2015,Protein-energy malnutrition,England,East Midlands,Male,Undefined,E12000004,0.866063309227905
+2015,Protein-energy malnutrition,England,London,,Undefined,E12000007,1.03843358063437
+2015,Protein-energy malnutrition,England,London,Female,Undefined,E12000007,1.37573659230046
+2015,Protein-energy malnutrition,England,London,Male,Undefined,E12000007,0.696767001114827
+2015,Protein-energy malnutrition,England,North East,,Undefined,E12000001,1.14303131905814
+2015,Protein-energy malnutrition,England,North East,Female,Undefined,E12000001,2.24299065420561
+2015,Protein-energy malnutrition,England,North East,Male,Undefined,E12000001,0.0
+2015,Protein-energy malnutrition,England,North West,,Undefined,E12000002,1.81179618686587
+2015,Protein-energy malnutrition,England,North West,Female,Undefined,E12000002,1.37358863767479
+2015,Protein-energy malnutrition,England,North West,Male,Undefined,E12000002,2.26301943367939
+2015,Protein-energy malnutrition,England,South East,,Undefined,E12000008,1.45261134824681
+2015,Protein-energy malnutrition,England,South East,Female,Undefined,E12000008,2.20055894197126
+2015,Protein-energy malnutrition,England,South East,Male,Undefined,E12000008,0.681028807518558
+2015,Protein-energy malnutrition,England,South West,,Undefined,E12000009,2.19314277359456
+2015,Protein-energy malnutrition,England,South West,Female,Undefined,E12000009,3.59324469996407
+2015,Protein-energy malnutrition,England,South West,Male,Undefined,E12000009,0.743881574053411
+2015,Protein-energy malnutrition,England,West Midlands,,Undefined,E12000005,2.60642919200695
+2015,Protein-energy malnutrition,England,West Midlands,Female,Undefined,E12000005,2.75084244549893
+2015,Protein-energy malnutrition,England,West Midlands,Male,Undefined,E12000005,2.45890122242518
+2015,Protein-energy malnutrition,England,Yorkshire and The Humber,,Undefined,E12000003,0.18552187302883
+2015,Protein-energy malnutrition,England,Yorkshire and The Humber,Female,Undefined,E12000003,0.0
+2015,Protein-energy malnutrition,England,Yorkshire and The Humber,Male,Undefined,E12000003,0.376194417274848
+2015,Protein-energy malnutrition,Northern Ireland,,,Undefined,N92000002,2.16029379995679
+2015,Protein-energy malnutrition,Northern Ireland,,Female,Undefined,N92000002,2.12201591511936
+2015,Protein-energy malnutrition,Northern Ireland,,Male,Undefined,N92000002,2.19997800022
+2015,Protein-energy malnutrition,Scotland,,,Undefined,S92000003,0.930578820026056
+2015,Protein-energy malnutrition,Scotland,,Female,Undefined,S92000003,1.44796380090498
+2015,Protein-energy malnutrition,Scotland,,Male,Undefined,S92000003,0.38306837770542
+2015,Protein-energy malnutrition,United Kingdom,,,Undefined,K02000001,1.58193825833205
+2015,Protein-energy malnutrition,United Kingdom,,Female,Undefined,K02000001,1.99784474930075
+2015,Protein-energy malnutrition,United Kingdom,,Male,Undefined,K02000001,1.15356795450577
+2015,Protein-energy malnutrition,Wales,,,Undefined,W92000004,4.84011487205963
+2015,Protein-energy malnutrition,Wales,,Female,Undefined,W92000004,5.71973307912297
+2015,Protein-energy malnutrition,Wales,,Male,Undefined,W92000004,3.93287886733089
+2016,,England,,,Undefined,E92000001,551.710661303718
+2016,,England,,Female,Undefined,E92000001,605.532929763901
+2016,,England,,Male,Undefined,E92000001,496.577035921893
+2016,,England,East,,Undefined,E12000006,595.529450155001
+2016,,England,East,Female,Undefined,E12000006,657.077581491135
+2016,,England,East,Male,Undefined,E12000006,532.221229272168
+2016,,England,East Midlands,,Undefined,E12000004,566.512887797858
+2016,,England,East Midlands,Female,Undefined,E12000004,619.639345634074
+2016,,England,East Midlands,Male,Undefined,E12000004,512.139767909905
+2016,,England,London,,Undefined,E12000007,342.20098749102
+2016,,England,London,Female,Undefined,E12000007,363.367799113737
+2016,,England,London,Male,Undefined,E12000007,320.882541426348
+2016,,England,North East,,Undefined,E12000001,557.536220890541
+2016,,England,North East,Female,Undefined,E12000001,607.031133621332
+2016,,England,North East,Male,Undefined,E12000001,506.182380216383
+2016,,England,North West,,Undefined,E12000002,645.62569213732
+2016,,England,North West,Female,Undefined,E12000002,701.21284965035
+2016,,England,North West,Male,Undefined,E12000002,588.515940727436
+2016,,England,South East,,Undefined,E12000008,563.214954098978
+2016,,England,South East,Female,Undefined,E12000008,633.472310143852
+2016,,England,South East,Male,Undefined,E12000008,490.874764002517
+2016,,England,South West,,Undefined,E12000009,656.153706724669
+2016,,England,South West,Female,Undefined,E12000009,733.437923411538
+2016,,England,South West,Male,Undefined,E12000009,576.263687645172
+2016,,England,West Midlands,,Undefined,E12000005,569.284780064707
+2016,,England,West Midlands,Female,Undefined,E12000005,613.107822410148
+2016,,England,West Midlands,Male,Undefined,E12000005,524.65167992773
+2016,,England,Yorkshire and The Humber,,Undefined,E12000003,555.903712168688
+2016,,England,Yorkshire and The Humber,Female,Undefined,E12000003,609.34769947583
+2016,,England,Yorkshire and The Humber,Male,Undefined,E12000003,501.082816817265
+2016,,Northern Ireland,,,Undefined,N92000002,460.233070189571
+2016,,Northern Ireland,,Female,Undefined,N92000002,526.982785933045
+2016,,Northern Ireland,,Male,Undefined,N92000002,391.171328671329
+2016,,Scotland,,,Undefined,S92000003,427.405776453827
+2016,,Scotland,,Female,Undefined,S92000003,473.858562581017
+2016,,Scotland,,Male,Undefined,S92000003,378.306374881066
+2016,,United Kingdom,,,Undefined,K02000001,551.211687771619
+2016,,United Kingdom,,Female,Undefined,K02000001,606.635327498317
+2016,,United Kingdom,,Male,Undefined,K02000001,494.259938167319
+2016,,Wales,,,Undefined,W92000004,811.704998072723
+2016,,Wales,,Female,Undefined,W92000004,907.478943702109
+2016,,Wales,,Male,Undefined,W92000004,713.168187744459
+2016,Acute respiratory infections,England,,,Undefined,E92000001,528.985074572855
+2016,Acute respiratory infections,England,,Female,Undefined,E92000001,577.392722162827
+2016,Acute respiratory infections,England,,Male,Undefined,E92000001,479.398115080455
+2016,Acute respiratory infections,England,East,,Undefined,E12000006,570.892478381465
+2016,Acute respiratory infections,England,East,Female,Undefined,E12000006,624.89944331821
+2016,Acute respiratory infections,England,East,Male,Undefined,E12000006,515.341078343759
+2016,Acute respiratory infections,England,East Midlands,,Undefined,E12000004,541.329834511364
+2016,Acute respiratory infections,England,East Midlands,Female,Undefined,E12000004,587.004727835655
+2016,Acute respiratory infections,England,East Midlands,Male,Undefined,E12000004,494.583137070184
+2016,Acute respiratory infections,England,London,,Undefined,E12000007,329.201683067836
+2016,Acute respiratory infections,England,London,Female,Undefined,E12000007,347.687762754232
+2016,Acute respiratory infections,England,London,Male,Undefined,E12000007,310.583173120937
+2016,Acute respiratory infections,England,North East,,Undefined,E12000001,537.813851171964
+2016,Acute respiratory infections,England,North East,Female,Undefined,E12000001,586.92089974676
+2016,Acute respiratory infections,England,North East,Male,Undefined,E12000001,486.862442040185
+2016,Acute respiratory infections,England,North West,,Undefined,E12000002,615.863787375415
+2016,Acute respiratory infections,England,North West,Female,Undefined,E12000002,666.247814685315
+2016,Acute respiratory infections,England,North West,Male,Undefined,E12000002,564.099685675797
+2016,Acute respiratory infections,England,South East,,Undefined,E12000008,543.060584919659
+2016,Acute respiratory infections,England,South East,Female,Undefined,E12000008,608.150880792823
+2016,Acute respiratory infections,England,South East,Male,Undefined,E12000008,476.040636518925
+2016,Acute respiratory infections,England,South West,,Undefined,E12000009,631.68388617002
+2016,Acute respiratory infections,England,South West,Female,Undefined,E12000009,701.347785780503
+2016,Acute respiratory infections,England,South West,Male,Undefined,E12000009,559.672602588209
+2016,Acute respiratory infections,England,West Midlands,,Undefined,E12000005,540.717285055414
+2016,Acute respiratory infections,England,West Midlands,Female,Undefined,E12000005,576.962422423788
+2016,Acute respiratory infections,England,West Midlands,Male,Undefined,E12000005,503.804593308085
+2016,Acute respiratory infections,England,Yorkshire and The Humber,,Undefined,E12000003,533.416890920485
+2016,Acute respiratory infections,England,Yorkshire and The Humber,Female,Undefined,E12000003,582.775189283634
+2016,Acute respiratory infections,England,Yorkshire and The Humber,Male,Undefined,E12000003,482.786946456575
+2016,Acute respiratory infections,Northern Ireland,,,Undefined,N92000002,435.5297782074
+2016,Acute respiratory infections,Northern Ireland,,Female,Undefined,N92000002,494.244376386102
+2016,Acute respiratory infections,Northern Ireland,,Male,Undefined,N92000002,374.781468531469
+2016,Acute respiratory infections,Scotland,,,Undefined,S92000003,399.097082169223
+2016,Acute respiratory infections,Scotland,,Female,Undefined,S92000003,438.211147918767
+2016,Acute respiratory infections,Scotland,,Male,Undefined,S92000003,357.754519505233
+2016,Acute respiratory infections,United Kingdom,,,Undefined,K02000001,527.692347531764
+2016,Acute respiratory infections,United Kingdom,,Female,Undefined,K02000001,577.570453015293
+2016,Acute respiratory infections,United Kingdom,,Male,Undefined,K02000001,476.439030567335
+2016,Acute respiratory infections,Wales,,,Undefined,W92000004,783.117049980727
+2016,Acute respiratory infections,Wales,,Female,Undefined,W92000004,875.815337850674
+2016,Acute respiratory infections,Wales,,Male,Undefined,W92000004,687.7444589309
+2016,Diarrhoea,England,,,Undefined,E92000001,21.2961907501796
+2016,Diarrhoea,England,,Female,Undefined,E92000001,26.6384430277004
+2016,Diarrhoea,England,,Male,Undefined,E92000001,15.8236541652473
+2016,Diarrhoea,England,East,,Undefined,E12000006,23.4948604992658
+2016,Diarrhoea,England,East,Female,Undefined,E12000006,30.8910126460083
+2016,Diarrhoea,England,East,Male,Undefined,E12000006,15.887200873796
+2016,Diarrhoea,England,East Midlands,,Undefined,E12000004,23.2784526177678
+2016,Diarrhoea,England,East Midlands,Female,Undefined,E12000004,30.5426551190327
+2016,Diarrhoea,England,East Midlands,Male,Undefined,E12000004,15.8437888065773
+2016,Diarrhoea,England,London,,Undefined,E12000007,12.0870725338381
+2016,Diarrhoea,England,London,Female,Undefined,E12000007,14.9982956482218
+2016,Diarrhoea,England,London,Male,Undefined,E12000007,9.15499404925387
+2016,Diarrhoea,England,North East,,Undefined,E12000001,18.2052643556095
+2016,Diarrhoea,England,North East,Female,Undefined,E12000001,18.6205869208997
+2016,Diarrhoea,England,North East,Male,Undefined,E12000001,17.774343122102
+2016,Diarrhoea,England,North West,,Undefined,E12000002,28.2392026578073
+2016,Diarrhoea,England,North West,Female,Undefined,E12000002,32.7797202797203
+2016,Diarrhoea,England,North West,Male,Undefined,E12000002,23.5743152222721
+2016,Diarrhoea,England,South East,,Undefined,E12000008,18.7147713807958
+2016,Diarrhoea,England,South East,Female,Undefined,E12000008,24.0117002466657
+2016,Diarrhoea,England,South East,Male,Undefined,E12000008,13.2608109323024
+2016,Diarrhoea,England,South West,,Undefined,E12000009,23.3822729744426
+2016,Diarrhoea,England,South West,Female,Undefined,E12000009,30.6639092918776
+2016,Diarrhoea,England,South West,Male,Undefined,E12000009,15.8537034988755
+2016,Diarrhoea,England,West Midlands,,Undefined,E12000005,26.1581882012804
+2016,Diarrhoea,England,West Midlands,Female,Undefined,E12000005,34.4404282888904
+2016,Diarrhoea,England,West Midlands,Male,Undefined,E12000005,17.7200236266982
+2016,Diarrhoea,England,Yorkshire and The Humber,,Undefined,E12000003,21.1965937995355
+2016,Diarrhoea,England,Yorkshire and The Humber,Female,Undefined,E12000003,24.7524752475248
+2016,Diarrhoea,England,Yorkshire and The Humber,Male,Undefined,E12000003,17.5491001418863
+2016,Diarrhoea,Northern Ireland,,,Undefined,N92000002,24.1662638956017
+2016,Diarrhoea,Northern Ireland,,Female,Undefined,N92000002,31.6823318196219
+2016,Diarrhoea,Northern Ireland,,Male,Undefined,N92000002,16.3898601398601
+2016,Diarrhoea,Scotland,,,Undefined,S92000003,26.6434769737451
+2016,Diarrhoea,Scotland,,Female,Undefined,S92000003,34.2071150799366
+2016,Diarrhoea,Scotland,,Male,Undefined,S92000003,18.6489058039962
+2016,Diarrhoea,United Kingdom,,,Undefined,K02000001,21.9960669082578
+2016,Diarrhoea,United Kingdom,,Female,Undefined,K02000001,27.5019236318169
+2016,Diarrhoea,United Kingdom,,Male,Undefined,K02000001,16.338405754578
+2016,Diarrhoea,Wales,,,Undefined,W92000004,25.0546061929847
+2016,Diarrhoea,Wales,,Female,Undefined,W92000004,28.4972452662909
+2016,Diarrhoea,Wales,,Male,Undefined,W92000004,21.5123859191656
+2016,Intestinal nematode infections,England,,,Undefined,E92000001,0.0
+2016,Intestinal nematode infections,England,,Female,Undefined,E92000001,0.0
+2016,Intestinal nematode infections,England,,Male,Undefined,E92000001,0.0
+2016,Intestinal nematode infections,England,East,,Undefined,E12000006,0.0
+2016,Intestinal nematode infections,England,East,Female,Undefined,E12000006,0.0
+2016,Intestinal nematode infections,England,East,Male,Undefined,E12000006,0.0
+2016,Intestinal nematode infections,England,East Midlands,,Undefined,E12000004,0.0
+2016,Intestinal nematode infections,England,East Midlands,Female,Undefined,E12000004,0.0
+2016,Intestinal nematode infections,England,East Midlands,Male,Undefined,E12000004,0.0
+2016,Intestinal nematode infections,England,London,,Undefined,E12000007,0.0
+2016,Intestinal nematode infections,England,London,Female,Undefined,E12000007,0.0
+2016,Intestinal nematode infections,England,London,Male,Undefined,E12000007,0.0
+2016,Intestinal nematode infections,England,North East,,Undefined,E12000001,0.0
+2016,Intestinal nematode infections,England,North East,Female,Undefined,E12000001,0.0
+2016,Intestinal nematode infections,England,North East,Male,Undefined,E12000001,0.0
+2016,Intestinal nematode infections,England,North West,,Undefined,E12000002,0.0
+2016,Intestinal nematode infections,England,North West,Female,Undefined,E12000002,0.0
+2016,Intestinal nematode infections,England,North West,Male,Undefined,E12000002,0.0
+2016,Intestinal nematode infections,England,South East,,Undefined,E12000008,0.0
+2016,Intestinal nematode infections,England,South East,Female,Undefined,E12000008,0.0
+2016,Intestinal nematode infections,England,South East,Male,Undefined,E12000008,0.0
+2016,Intestinal nematode infections,England,South West,,Undefined,E12000009,0.0
+2016,Intestinal nematode infections,England,South West,Female,Undefined,E12000009,0.0
+2016,Intestinal nematode infections,England,South West,Male,Undefined,E12000009,0.0
+2016,Intestinal nematode infections,England,West Midlands,,Undefined,E12000005,0.0
+2016,Intestinal nematode infections,England,West Midlands,Female,Undefined,E12000005,0.0
+2016,Intestinal nematode infections,England,West Midlands,Male,Undefined,E12000005,0.0
+2016,Intestinal nematode infections,England,Yorkshire and The Humber,,Undefined,E12000003,0.0
+2016,Intestinal nematode infections,England,Yorkshire and The Humber,Female,Undefined,E12000003,0.0
+2016,Intestinal nematode infections,England,Yorkshire and The Humber,Male,Undefined,E12000003,0.0
+2016,Intestinal nematode infections,Northern Ireland,,,Undefined,N92000002,0.0
+2016,Intestinal nematode infections,Northern Ireland,,Female,Undefined,N92000002,0.0
+2016,Intestinal nematode infections,Northern Ireland,,Male,Undefined,N92000002,0.0
+2016,Intestinal nematode infections,Scotland,,,Undefined,S92000003,0.0
+2016,Intestinal nematode infections,Scotland,,Female,Undefined,S92000003,0.0
+2016,Intestinal nematode infections,Scotland,,Male,Undefined,S92000003,0.0
+2016,Intestinal nematode infections,United Kingdom,,,Undefined,K02000001,0.0
+2016,Intestinal nematode infections,United Kingdom,,Female,Undefined,K02000001,0.0
+2016,Intestinal nematode infections,United Kingdom,,Male,Undefined,K02000001,0.0
+2016,Intestinal nematode infections,Wales,,,Undefined,W92000004,0.0
+2016,Intestinal nematode infections,Wales,,Female,Undefined,W92000004,0.0
+2016,Intestinal nematode infections,Wales,,Male,Undefined,W92000004,0.0
+2016,Protein-energy malnutrition,England,,,Undefined,E92000001,1.42939598068325
+2016,Protein-energy malnutrition,England,,Female,Undefined,E92000001,1.50176457337371
+2016,Protein-energy malnutrition,England,,Male,Undefined,E92000001,1.35526667619016
+2016,Protein-energy malnutrition,England,East,,Undefined,E12000006,1.14211127426986
+2016,Protein-energy malnutrition,England,East,Female,Undefined,E12000006,1.28712552691701
+2016,Protein-energy malnutrition,England,East,Male,Undefined,E12000006,0.992950054612253
+2016,Protein-energy malnutrition,England,East Midlands,,Undefined,E12000004,1.90460066872646
+2016,Protein-energy malnutrition,England,East Midlands,Female,Undefined,E12000004,2.0919626793858
+2016,Protein-energy malnutrition,England,East Midlands,Male,Undefined,E12000004,1.71284203314349
+2016,Protein-energy malnutrition,England,London,,Undefined,E12000007,0.912231889346272
+2016,Protein-energy malnutrition,England,London,Female,Undefined,E12000007,0.681740711282809
+2016,Protein-energy malnutrition,England,London,Male,Undefined,E12000007,1.14437425615673
+2016,Protein-energy malnutrition,England,North East,,Undefined,E12000001,1.51710536296746
+2016,Protein-energy malnutrition,England,North East,Female,Undefined,E12000001,1.48964695367198
+2016,Protein-energy malnutrition,England,North East,Male,Undefined,E12000001,1.54559505409583
+2016,Protein-energy malnutrition,England,North West,,Undefined,E12000002,1.52270210409745
+2016,Protein-energy malnutrition,England,North West,Female,Undefined,E12000002,2.18531468531469
+2016,Protein-energy malnutrition,England,North West,Male,Undefined,E12000002,0.841939829366861
+2016,Protein-energy malnutrition,England,South East,,Undefined,E12000008,1.43959779852275
+2016,Protein-energy malnutrition,England,South East,Female,Undefined,E12000008,1.30972910436358
+2016,Protein-energy malnutrition,England,South East,Male,Undefined,E12000008,1.57331655129012
+2016,Protein-energy malnutrition,England,South West,,Undefined,E12000009,1.08754758020663
+2016,Protein-energy malnutrition,England,South West,Female,Undefined,E12000009,1.4262283391571
+2016,Protein-energy malnutrition,England,South West,Male,Undefined,E12000009,0.737381558087232
+2016,Protein-energy malnutrition,England,West Midlands,,Undefined,E12000005,2.40930680801267
+2016,Protein-energy malnutrition,England,West Midlands,Female,Undefined,E12000005,1.70497169746982
+2016,Protein-energy malnutrition,England,West Midlands,Male,Undefined,E12000005,3.12706299294674
+2016,Protein-energy malnutrition,England,Yorkshire and The Humber,,Undefined,E12000003,1.29022744866738
+2016,Protein-energy malnutrition,England,Yorkshire and The Humber,Female,Undefined,E12000003,1.82003494467094
+2016,Protein-energy malnutrition,England,Yorkshire and The Humber,Male,Undefined,E12000003,0.746770218803674
+2016,Protein-energy malnutrition,Northern Ireland,,,Undefined,N92000002,0.537028086568928
+2016,Protein-energy malnutrition,Northern Ireland,,Female,Undefined,N92000002,1.05607772732073
+2016,Protein-energy malnutrition,Northern Ireland,,Male,Undefined,N92000002,0.0
+2016,Protein-energy malnutrition,Scotland,,,Undefined,S92000003,1.66521731085907
+2016,Protein-energy malnutrition,Scotland,,Female,Undefined,S92000003,1.44029958231312
+2016,Protein-energy malnutrition,Scotland,,Male,Undefined,S92000003,1.90294957183635
+2016,Protein-energy malnutrition,United Kingdom,,,Undefined,K02000001,1.5232733315968
+2016,Protein-energy malnutrition,United Kingdom,,Female,Undefined,K02000001,1.56295085120708
+2016,Protein-energy malnutrition,United Kingdom,,Male,Undefined,K02000001,1.48250184540594
+2016,Protein-energy malnutrition,Wales,,,Undefined,W92000004,3.53334189901066
+2016,Protein-energy malnutrition,Wales,,Female,Undefined,W92000004,3.16636058514344
+2016,Protein-energy malnutrition,Wales,,Male,Undefined,W92000004,3.91134289439374
+2017,,England,,,Undefined,E92000001,559.355189016782
+2017,,England,,Female,Undefined,E92000001,613.823102948284
+2017,,England,,Male,Undefined,E92000001,503.582462128517
+2017,,England,East,,Undefined,E12000006,614.908242007652
+2017,,England,East,Female,Undefined,E12000006,667.178159266008
+2017,,England,East,Male,Undefined,E12000006,561.128835970135
+2017,,England,East Midlands,,Undefined,E12000004,583.64943311608
+2017,,England,East Midlands,Female,Undefined,E12000004,626.373170832815
+2017,,England,East Midlands,Male,Undefined,E12000004,539.967788420785
+2017,,England,London,,Undefined,E12000007,341.416430594901
+2017,,England,London,Female,Undefined,E12000007,366.680222312593
+2017,,England,London,Male,Undefined,E12000007,315.995271437665
+2017,,England,North East,,Undefined,E12000001,591.371422089462
+2017,,England,North East,Female,Undefined,E12000001,681.615681615682
+2017,,England,North East,Male,Undefined,E12000001,497.727097619231
+2017,,England,North West,,Undefined,E12000002,643.788058303254
+2017,,England,North West,Female,Undefined,E12000002,707.29319627998
+2017,,England,North West,Male,Undefined,E12000002,578.577013291634
+2017,,England,South East,,Undefined,E12000008,578.693507179984
+2017,,England,South East,Female,Undefined,E12000008,649.965265717263
+2017,,England,South East,Male,Undefined,E12000008,505.31914893617
+2017,,England,South West,,Undefined,E12000009,666.630690914324
+2017,,England,South West,Female,Undefined,E12000009,727.407879367102
+2017,,England,South West,Male,Undefined,E12000009,603.832931021871
+2017,,England,West Midlands,,Undefined,E12000005,562.390158172232
+2017,,England,West Midlands,Female,Undefined,E12000005,624.408063861453
+2017,,England,West Midlands,Male,Undefined,E12000005,499.259718348655
+2017,,England,Yorkshire and The Humber,,Undefined,E12000003,555.219170290453
+2017,,England,Yorkshire and The Humber,Female,Undefined,E12000003,593.201913320771
+2017,,England,Yorkshire and The Humber,Male,Undefined,E12000003,516.260918044973
+2017,,Northern Ireland,,,Undefined,N92000002,468.783408167629
+2017,,Northern Ireland,,Female,Undefined,N92000002,537.555228276878
+2017,,Northern Ireland,,Male,Undefined,N92000002,397.739621821343
+2017,,Scotland,,,Undefined,S92000003,459.740451260876
+2017,,Scotland,,Female,Undefined,S92000003,522.894595079907
+2017,,Scotland,,Male,Undefined,S92000003,393.13714350642
+2017,,United Kingdom,,,Undefined,K02000001,560.537369662721
+2017,,United Kingdom,,Female,Undefined,K02000001,616.437127896134
+2017,,United Kingdom,,Male,Undefined,K02000001,503.133651302261
+2017,,Wales,,,Undefined,W92000004,811.468066043773
+2017,,Wales,,Female,Undefined,W92000004,874.447949526814
+2017,,Wales,,Male,Undefined,W92000004,746.656278405402
+2017,Acute respiratory infections,England,,,Undefined,E92000001,536.611326263858
+2017,Acute respiratory infections,England,,Female,Undefined,E92000001,586.102976715094
+2017,Acute respiratory infections,England,,Male,Undefined,E92000001,485.933969164262
+2017,Acute respiratory infections,England,East,,Undefined,E12000006,591.239219246482
+2017,Acute respiratory infections,England,East,Female,Undefined,E12000006,638.406700553051
+2017,Acute respiratory infections,England,East,Male,Undefined,E12000006,542.709601026215
+2017,Acute respiratory infections,England,East Midlands,,Undefined,E12000004,560.387283358132
+2017,Acute respiratory infections,England,East Midlands,Female,Undefined,E12000004,599.842473987481
+2017,Acute respiratory infections,England,East Midlands,Male,Undefined,E12000004,520.047469695685
+2017,Acute respiratory infections,England,London,,Undefined,E12000007,328.271954674221
+2017,Acute respiratory infections,England,London,Female,Undefined,E12000007,349.509737472324
+2017,Acute respiratory infections,England,London,Male,Undefined,E12000007,306.901882331545
+2017,Acute respiratory infections,England,North East,,Undefined,E12000001,561.122244488978
+2017,Acute respiratory infections,England,North East,Female,Undefined,E12000001,647.460647460647
+2017,Acute respiratory infections,England,North East,Male,Undefined,E12000001,471.53093458664
+2017,Acute respiratory infections,England,North West,,Undefined,E12000002,617.1989088805
+2017,Acute respiratory infections,England,North West,Female,Undefined,E12000002,675.205308098113
+2017,Acute respiratory infections,England,North West,Male,Undefined,E12000002,557.634312520943
+2017,Acute respiratory infections,England,South East,,Undefined,E12000008,555.788036296361
+2017,Acute respiratory infections,England,South East,Female,Undefined,E12000008,624.131642931573
+2017,Acute respiratory infections,England,South East,Male,Undefined,E12000008,485.428213838727
+2017,Acute respiratory infections,England,South West,,Undefined,E12000009,643.786088176569
+2017,Acute respiratory infections,England,South West,Female,Undefined,E12000009,700.860146543485
+2017,Acute respiratory infections,England,South West,Male,Undefined,E12000009,584.814570989686
+2017,Acute respiratory infections,England,West Midlands,,Undefined,E12000005,536.284061630863
+2017,Acute respiratory infections,England,West Midlands,Female,Undefined,E12000005,591.597889324855
+2017,Acute respiratory infections,England,West Midlands,Male,Undefined,E12000005,479.977963708983
+2017,Acute respiratory infections,England,Yorkshire and The Humber,,Undefined,E12000003,531.182914074971
+2017,Acute respiratory infections,England,Yorkshire and The Humber,Female,Undefined,E12000003,558.776634294825
+2017,Acute respiratory infections,England,Yorkshire and The Humber,Male,Undefined,E12000003,502.880505482252
+2017,Acute respiratory infections,Northern Ireland,,,Undefined,N92000002,438.849689972204
+2017,Acute respiratory infections,Northern Ireland,,Female,Undefined,N92000002,504.944245739533
+2017,Acute respiratory infections,Northern Ireland,,Male,Undefined,N92000002,370.571614866333
+2017,Acute respiratory infections,Scotland,,,Undefined,S92000003,434.670402595487
+2017,Acute respiratory infections,Scotland,,Female,Undefined,S92000003,491.650206500269
+2017,Acute respiratory infections,Scotland,,Male,Undefined,S92000003,374.578646365943
+2017,Acute respiratory infections,United Kingdom,,,Undefined,K02000001,537.097101462443
+2017,Acute respiratory infections,United Kingdom,,Female,Undefined,K02000001,588.013772326232
+2017,Acute respiratory infections,United Kingdom,,Male,Undefined,K02000001,484.810538398738
+2017,Acute respiratory infections,Wales,,,Undefined,W92000004,782.349929604505
+2017,Acute respiratory infections,Wales,,Female,Undefined,W92000004,841.009463722398
+2017,Acute respiratory infections,Wales,,Male,Undefined,W92000004,721.984157901571
+2017,Diarrhoea,England,,,Undefined,E92000001,20.9639082766085
+2017,Diarrhoea,England,,Female,Undefined,E92000001,25.8365791942683
+2017,Diarrhoea,England,,Male,Undefined,E92000001,15.9746152810477
+2017,Diarrhoea,England,East,,Undefined,E12000006,22.3720900071331
+2017,Diarrhoea,England,East,Female,Undefined,E12000006,27.1730443400147
+2017,Diarrhoea,England,East,Male,Undefined,E12000006,17.4324902147814
+2017,Diarrhoea,England,East Midlands,,Undefined,E12000004,19.4899092566591
+2017,Diarrhoea,England,East Midlands,Female,Undefined,E12000004,21.9707333250425
+2017,Diarrhoea,England,East Midlands,Male,Undefined,E12000004,16.9534627447656
+2017,Diarrhoea,England,London,,Undefined,E12000007,12.5779036827195
+2017,Diarrhoea,England,London,Female,Undefined,E12000007,16.9445574081605
+2017,Diarrhoea,England,London,Male,Undefined,E12000007,8.18405019550787
+2017,Diarrhoea,England,North East,,Undefined,E12000001,26.8461451204295
+2017,Diarrhoea,England,North East,Female,Undefined,E12000001,30.4425304425304
+2017,Diarrhoea,England,North East,Male,Undefined,E12000001,23.1142614993451
+2017,Diarrhoea,England,North West,,Undefined,E12000002,25.2114732868597
+2017,Diarrhoea,England,North West,Female,Undefined,E12000002,30.4563006471964
+2017,Diarrhoea,England,North West,Male,Undefined,E12000002,19.8257567295878
+2017,Diarrhoea,England,South East,,Undefined,E12000008,20.7030217601973
+2017,Diarrhoea,England,South East,Female,Undefined,E12000008,24.5310871830497
+2017,Diarrhoea,England,South East,Male,Undefined,E12000008,16.7620239585196
+2017,Diarrhoea,England,South West,,Undefined,E12000009,21.4055726440379
+2017,Diarrhoea,England,South West,Female,Undefined,E12000009,24.4239141977275
+2017,Diarrhoea,England,South West,Male,Undefined,E12000009,18.2868846463317
+2017,Diarrhoea,England,West Midlands,,Undefined,E12000005,23.8879314757623
+2017,Diarrhoea,England,West Midlands,Female,Undefined,E12000005,29.4276823163307
+2017,Diarrhoea,England,West Midlands,Male,Undefined,E12000005,18.2488034982612
+2017,Diarrhoea,England,Yorkshire and The Humber,,Undefined,E12000003,22.568393240491
+2017,Diarrhoea,England,Yorkshire and The Humber,Female,Undefined,E12000003,33.3381649514422
+2017,Diarrhoea,England,Yorkshire and The Humber,Male,Undefined,E12000003,11.5220219290095
+2017,Diarrhoea,Northern Ireland,,,Undefined,N92000002,27.7955954671798
+2017,Diarrhoea,Northern Ireland,,Female,Undefined,N92000002,30.5070481800968
+2017,Diarrhoea,Northern Ireland,,Male,Undefined,N92000002,24.994566398609
+2017,Diarrhoea,Scotland,,,Undefined,S92000003,23.4110013272379
+2017,Diarrhoea,Scotland,,Female,Undefined,S92000003,29.4487340635662
+2017,Diarrhoea,Scotland,,Male,Undefined,S92000003,17.0435177820702
+2017,Diarrhoea,United Kingdom,,,Undefined,K02000001,21.6989046065881
+2017,Diarrhoea,United Kingdom,,Female,Undefined,K02000001,26.6001960643665
+2017,Diarrhoea,United Kingdom,,Male,Undefined,K02000001,16.6657459072243
+2017,Diarrhoea,Wales,,,Undefined,W92000004,28.158197875336
+2017,Diarrhoea,Wales,,Female,Undefined,W92000004,32.807570977918
+2017,Diarrhoea,Wales,,Male,Undefined,W92000004,23.3735878457343
+2017,Intestinal nematode infections,England,,,Undefined,E92000001,0.0
+2017,Intestinal nematode infections,England,,Female,Undefined,E92000001,0.0
+2017,Intestinal nematode infections,England,,Male,Undefined,E92000001,0.0
+2017,Intestinal nematode infections,England,East,,Undefined,E12000006,0.0
+2017,Intestinal nematode infections,England,East,Female,Undefined,E12000006,0.0
+2017,Intestinal nematode infections,England,East,Male,Undefined,E12000006,0.0
+2017,Intestinal nematode infections,England,East Midlands,,Undefined,E12000004,0.0
+2017,Intestinal nematode infections,England,East Midlands,Female,Undefined,E12000004,0.0
+2017,Intestinal nematode infections,England,East Midlands,Male,Undefined,E12000004,0.0
+2017,Intestinal nematode infections,England,London,,Undefined,E12000007,0.0
+2017,Intestinal nematode infections,England,London,Female,Undefined,E12000007,0.0
+2017,Intestinal nematode infections,England,London,Male,Undefined,E12000007,0.0
+2017,Intestinal nematode infections,England,North East,,Undefined,E12000001,0.0
+2017,Intestinal nematode infections,England,North East,Female,Undefined,E12000001,0.0
+2017,Intestinal nematode infections,England,North East,Male,Undefined,E12000001,0.0
+2017,Intestinal nematode infections,England,North West,,Undefined,E12000002,0.0
+2017,Intestinal nematode infections,England,North West,Female,Undefined,E12000002,0.0
+2017,Intestinal nematode infections,England,North West,Male,Undefined,E12000002,0.0
+2017,Intestinal nematode infections,England,South East,,Undefined,E12000008,0.0
+2017,Intestinal nematode infections,England,South East,Female,Undefined,E12000008,0.0
+2017,Intestinal nematode infections,England,South East,Male,Undefined,E12000008,0.0
+2017,Intestinal nematode infections,England,South West,,Undefined,E12000009,0.0
+2017,Intestinal nematode infections,England,South West,Female,Undefined,E12000009,0.0
+2017,Intestinal nematode infections,England,South West,Male,Undefined,E12000009,0.0
+2017,Intestinal nematode infections,England,West Midlands,,Undefined,E12000005,0.0
+2017,Intestinal nematode infections,England,West Midlands,Female,Undefined,E12000005,0.0
+2017,Intestinal nematode infections,England,West Midlands,Male,Undefined,E12000005,0.0
+2017,Intestinal nematode infections,England,Yorkshire and The Humber,,Undefined,E12000003,0.0
+2017,Intestinal nematode infections,England,Yorkshire and The Humber,Female,Undefined,E12000003,0.0
+2017,Intestinal nematode infections,England,Yorkshire and The Humber,Male,Undefined,E12000003,0.0
+2017,Intestinal nematode infections,Northern Ireland,,,Undefined,N92000002,0.0
+2017,Intestinal nematode infections,Northern Ireland,,Female,Undefined,N92000002,0.0
+2017,Intestinal nematode infections,Northern Ireland,,Male,Undefined,N92000002,0.0
+2017,Intestinal nematode infections,Scotland,,,Undefined,S92000003,0.0
+2017,Intestinal nematode infections,Scotland,,Female,Undefined,S92000003,0.0
+2017,Intestinal nematode infections,Scotland,,Male,Undefined,S92000003,0.0
+2017,Intestinal nematode infections,United Kingdom,,,Undefined,K02000001,0.0
+2017,Intestinal nematode infections,United Kingdom,,Female,Undefined,K02000001,0.0
+2017,Intestinal nematode infections,United Kingdom,,Male,Undefined,K02000001,0.0
+2017,Intestinal nematode infections,Wales,,,Undefined,W92000004,0.0
+2017,Intestinal nematode infections,Wales,,Female,Undefined,W92000004,0.0
+2017,Intestinal nematode infections,Wales,,Male,Undefined,W92000004,0.0
+2017,Protein-energy malnutrition,England,,,Undefined,E92000001,1.77995447631582
+2017,Protein-energy malnutrition,England,,Female,Undefined,E92000001,1.8835470389219
+2017,Protein-energy malnutrition,England,,Male,Undefined,E92000001,1.67387768320773
+2017,Protein-energy malnutrition,England,East,,Undefined,E12000006,1.2969327540367
+2017,Protein-energy malnutrition,England,East,Female,Undefined,E12000006,1.59841437294204
+2017,Protein-energy malnutrition,England,East,Male,Undefined,E12000006,0.986744729138572
+2017,Protein-energy malnutrition,England,East Midlands,,Undefined,E12000004,3.77224050128885
+2017,Protein-energy malnutrition,England,East Midlands,Female,Undefined,E12000004,4.55996352029184
+2017,Protein-energy malnutrition,England,East Midlands,Male,Undefined,E12000004,2.96685598033398
+2017,Protein-energy malnutrition,England,London,,Undefined,E12000007,0.56657223796034
+2017,Protein-energy malnutrition,England,London,Female,Undefined,E12000007,0.225927432108807
+2017,Protein-energy malnutrition,England,London,Male,Undefined,E12000007,0.909338910611985
+2017,Protein-energy malnutrition,England,North East,,Undefined,E12000001,3.40303248005445
+2017,Protein-energy malnutrition,England,North East,Female,Undefined,E12000001,3.71250371250371
+2017,Protein-energy malnutrition,England,North East,Male,Undefined,E12000001,3.08190153324601
+2017,Protein-energy malnutrition,England,North West,,Undefined,E12000002,1.37767613589397
+2017,Protein-energy malnutrition,England,North West,Female,Undefined,E12000002,1.63158753467124
+2017,Protein-energy malnutrition,England,North West,Male,Undefined,E12000002,1.11694404110354
+2017,Protein-energy malnutrition,England,South East,,Undefined,E12000008,2.20244912342525
+2017,Protein-energy malnutrition,England,South East,Female,Undefined,E12000008,1.30253560263981
+2017,Protein-energy malnutrition,England,South East,Male,Undefined,E12000008,3.12891113892365
+2017,Protein-energy malnutrition,England,South West,,Undefined,E12000009,1.43903009371683
+2017,Protein-energy malnutrition,England,South West,Female,Undefined,E12000009,2.12381862588935
+2017,Protein-energy malnutrition,England,South West,Male,Undefined,E12000009,0.731475385853266
+2017,Protein-energy malnutrition,England,West Midlands,,Undefined,E12000005,2.2181650656065
+2017,Protein-energy malnutrition,England,West Midlands,Female,Undefined,E12000005,3.38249222026789
+2017,Protein-energy malnutrition,England,West Midlands,Male,Undefined,E12000005,1.03295114141101
+2017,Protein-energy malnutrition,England,Yorkshire and The Humber,,Undefined,E12000003,1.46786297499128
+2017,Protein-energy malnutrition,England,Yorkshire and The Humber,Female,Undefined,E12000003,1.08711407450355
+2017,Protein-energy malnutrition,England,Yorkshire and The Humber,Male,Undefined,E12000003,1.85839063371121
+2017,Protein-energy malnutrition,Northern Ireland,,,Undefined,N92000002,2.1381227282446
+2017,Protein-energy malnutrition,Northern Ireland,,Female,Undefined,N92000002,2.10393435724805
+2017,Protein-energy malnutrition,Northern Ireland,,Male,Undefined,N92000002,2.17344055640078
+2017,Protein-energy malnutrition,Scotland,,,Undefined,S92000003,1.65904733815072
+2017,Protein-energy malnutrition,Scotland,,Female,Undefined,S92000003,1.79565451607111
+2017,Protein-energy malnutrition,Scotland,,Male,Undefined,S92000003,1.51497935840624
+2017,Protein-energy malnutrition,United Kingdom,,,Undefined,K02000001,1.7413635936899
+2017,Protein-energy malnutrition,United Kingdom,,Female,Undefined,K02000001,1.82315950553523
+2017,Protein-energy malnutrition,United Kingdom,,Male,Undefined,K02000001,1.65736699629855
+2017,Protein-energy malnutrition,Wales,,,Undefined,W92000004,0.959938563931908
+2017,Protein-energy malnutrition,Wales,,Female,Undefined,W92000004,0.630914826498423
+2017,Protein-energy malnutrition,Wales,,Male,Undefined,W92000004,1.29853265809635
+2018,,England,,,Undefined,E92000001,585.649157156842
+2018,,England,,Female,Undefined,E92000001,640.851737244429
+2018,,England,,Male,Undefined,E92000001,529.169181614795
+2018,,England,East,,Undefined,E12000006,620.686318777011
+2018,,England,East,Female,Undefined,E12000006,687.923196744763
+2018,,England,East,Male,Undefined,E12000006,551.464572083129
+2018,,England,East Midlands,,Undefined,E12000004,603.651048063113
+2018,,England,East Midlands,Female,Undefined,E12000004,643.52766798419
+2018,,England,East Midlands,Male,Undefined,E12000004,562.852572198367
+2018,,England,London,,Undefined,E12000007,345.864999270327
+2018,,England,London,Female,Undefined,E12000007,379.21600287047
+2018,,England,London,Male,Undefined,E12000007,312.436782125919
+2018,,England,North East,,Undefined,E12000001,626.058166221453
+2018,,England,North East,Female,Undefined,E12000001,698.018337769891
+2018,,England,North East,Male,Undefined,E12000001,551.512830333206
+2018,,England,North West,,Undefined,E12000002,691.158925412433
+2018,,England,North West,Female,Undefined,E12000002,742.405371744192
+2018,,England,North West,Male,Undefined,E12000002,638.563925862117
+2018,,England,South East,,Undefined,E12000008,597.683279320312
+2018,,England,South East,Female,Undefined,E12000008,652.019079273952
+2018,,England,South East,Male,Undefined,E12000008,541.741661667
+2018,,England,South West,,Undefined,E12000009,707.537903816276
+2018,,England,South West,Female,Undefined,E12000009,785.99550056243
+2018,,England,South West,Male,Undefined,E12000009,626.520018875458
+2018,,England,West Midlands,,Undefined,E12000005,602.46068329718
+2018,,England,West Midlands,Female,Undefined,E12000005,668.883961566888
+2018,,England,West Midlands,Male,Undefined,E12000005,534.847137678681
+2018,,England,Yorkshire and The Humber,,Undefined,E12000003,597.306372727936
+2018,,England,Yorkshire and The Humber,Female,Undefined,E12000003,645.02180101618
+2018,,England,Yorkshire and The Humber,Male,Undefined,E12000003,548.345350342023
+2018,,Northern Ireland,,,Undefined,N92000002,496.917517006803
+2018,,Northern Ireland,,Female,Undefined,N92000002,570.441699811597
+2018,,Northern Ireland,,Male,Undefined,N92000002,421.075361692939
+2018,,Scotland,,,Undefined,S92000003,502.381346426141
+2018,,Scotland,,Female,Undefined,S92000003,566.80887677912
+2018,,Scotland,,Male,Undefined,S92000003,434.536393838719
+2018,,United Kingdom,,,Undefined,K02000001,589.232279079289
+2018,,United Kingdom,,Female,Undefined,K02000001,647.668470781952
+2018,,United Kingdom,,Male,Undefined,K02000001,529.273990399571
+2018,,Wales,,,Undefined,W92000004,858.981711591155
+2018,,Wales,,Female,Undefined,W92000004,957.079117702507
+2018,,Wales,,Male,Undefined,W92000004,758.094745686034
+2018,Acute respiratory infections,England,,,Undefined,E92000001,564.533417176993
+2018,Acute respiratory infections,England,,Female,Undefined,E92000001,615.55960606446
+2018,Acute respiratory infections,England,,Male,Undefined,E92000001,512.326558936529
+2018,Acute respiratory infections,England,East,,Undefined,E12000006,592.627233438689
+2018,Acute respiratory infections,England,East,Female,Undefined,E12000006,651.683250151
+2018,Acute respiratory infections,England,East,Male,Undefined,E12000006,531.82785141548
+2018,Acute respiratory infections,England,East Midlands,,Undefined,E12000004,584.70889448596
+2018,Acute respiratory infections,England,East Midlands,Female,Undefined,E12000004,622.529644268775
+2018,Acute respiratory infections,England,East Midlands,Male,Undefined,E12000004,546.013303022649
+2018,Acute respiratory infections,England,London,,Undefined,E12000007,335.64957735095
+2018,Acute respiratory infections,England,London,Female,Undefined,E12000007,365.984930032293
+2018,Acute respiratory infections,England,London,Male,Undefined,E12000007,305.243992897121
+2018,Acute respiratory infections,England,North East,,Undefined,E12000001,598.592874073517
+2018,Acute respiratory infections,England,North East,Female,Undefined,E12000001,669.180715764567
+2018,Acute respiratory infections,England,North East,Male,Undefined,E12000001,525.469168900804
+2018,Acute respiratory infections,England,North West,,Undefined,E12000002,669.903045761852
+2018,Acute respiratory infections,England,North West,Female,Undefined,E12000002,717.225320842584
+2018,Acute respiratory infections,England,North West,Male,Undefined,E12000002,621.335482257482
+2018,Acute respiratory infections,England,South East,,Undefined,E12000008,576.443023561356
+2018,Acute respiratory infections,England,South East,Female,Undefined,E12000008,628.925387952431
+2018,Acute respiratory infections,England,South East,Male,Undefined,E12000008,522.409617136635
+2018,Acute respiratory infections,England,South West,,Undefined,E12000009,686.822508348662
+2018,Acute respiratory infections,England,South West,Female,Undefined,E12000009,762.795275590551
+2018,Acute respiratory infections,England,South West,Male,Undefined,E12000009,608.370539765509
+2018,Acute respiratory infections,England,West Midlands,,Undefined,E12000005,577.548806941432
+2018,Acute respiratory infections,England,West Midlands,Female,Undefined,E12000005,637.976214472889
+2018,Acute respiratory infections,England,West Midlands,Male,Undefined,E12000005,516.038574652897
+2018,Acute respiratory infections,England,Yorkshire and The Humber,,Undefined,E12000003,571.574567486678
+2018,Acute respiratory infections,England,Yorkshire and The Humber,Female,Undefined,E12000003,610.788800403589
+2018,Acute respiratory infections,England,Yorkshire and The Humber,Male,Undefined,E12000003,531.336661120355
+2018,Acute respiratory infections,Northern Ireland,,,Undefined,N92000002,476.72193877551
+2018,Acute respiratory infections,Northern Ireland,,Female,Undefined,N92000002,543.227967343521
+2018,Acute respiratory infections,Northern Ireland,,Male,Undefined,N92000002,408.119196717772
+2018,Acute respiratory infections,Scotland,,,Undefined,S92000003,475.16595869881
+2018,Acute respiratory infections,Scotland,,Female,Undefined,S92000003,532.750152367978
+2018,Acute respiratory infections,Scotland,,Male,Undefined,S92000003,414.527333131984
+2018,Acute respiratory infections,United Kingdom,,,Undefined,K02000001,567.436735726026
+2018,Acute respiratory infections,United Kingdom,,Female,Undefined,K02000001,621.245760923517
+2018,Acute respiratory infections,United Kingdom,,Male,Undefined,K02000001,512.226213929772
+2018,Acute respiratory infections,Wales,,,Undefined,W92000004,833.492640030587
+2018,Acute respiratory infections,Wales,,Female,Undefined,W92000004,924.4014327908
+2018,Acute respiratory infections,Wales,,Male,Undefined,W92000004,739.998707425839
+2018,Diarrhoea,England,,,Undefined,E92000001,19.4900781032277
+2018,Diarrhoea,England,,Female,Undefined,E92000001,23.4199482853631
+2018,Diarrhoea,England,,Male,Undefined,E92000001,15.4691899276779
+2018,Diarrhoea,England,East,,Undefined,E12000006,25.6401986712249
+2018,Diarrhoea,England,East,Female,Undefined,E12000006,33.6967924468322
+2018,Diarrhoea,England,East,Male,Undefined,E12000006,17.3457699230895
+2018,Diarrhoea,England,East Midlands,,Undefined,E12000004,18.5258425095231
+2018,Diarrhoea,England,East Midlands,Female,Undefined,E12000004,20.5862977602108
+2018,Diarrhoea,England,East Midlands,Male,Undefined,E12000004,16.4182874463248
+2018,Diarrhoea,England,London,,Undefined,E12000007,9.42962023327084
+2018,Diarrhoea,England,London,Female,Undefined,E12000007,12.3340509508432
+2018,Diarrhoea,England,London,Male,Undefined,E12000007,6.5184652385983
+2018,Diarrhoea,England,North East,,Undefined,E12000001,24.8316339967644
+2018,Diarrhoea,England,North East,Female,Undefined,E12000001,24.4010647737356
+2018,Diarrhoea,England,North East,Male,Undefined,E12000001,25.2776713902719
+2018,Diarrhoea,England,North West,,Undefined,E12000002,19.7473978689266
+2018,Diarrhoea,England,North West,Female,Undefined,E12000002,23.5555314886013
+2018,Diarrhoea,England,North West,Male,Undefined,E12000002,15.839052991358
+2018,Diarrhoea,England,South East,,Undefined,E12000008,19.7074537969694
+2018,Diarrhoea,England,South East,Female,Undefined,E12000008,21.1512313038223
+2018,Diarrhoea,England,South East,Male,Undefined,E12000008,18.2210074883897
+2018,Diarrhoea,England,South West,,Undefined,E12000009,19.4653284997411
+2018,Diarrhoea,England,South West,Female,Undefined,E12000009,22.1456692913386
+2018,Diarrhoea,England,South West,Male,Undefined,E12000009,16.6975207811536
+2018,Diarrhoea,England,West Midlands,,Undefined,E12000005,22.8782537960954
+2018,Diarrhoea,England,West Midlands,Female,Undefined,E12000005,27.8841631391521
+2018,Diarrhoea,England,West Midlands,Male,Undefined,E12000005,17.7826414061966
+2018,Diarrhoea,England,Yorkshire and The Humber,,Undefined,E12000003,22.8118840791299
+2018,Diarrhoea,England,Yorkshire and The Humber,Female,Undefined,E12000003,31.7105689885049
+2018,Diarrhoea,England,Yorkshire and The Humber,Male,Undefined,E12000003,13.680902200037
+2018,Diarrhoea,Northern Ireland,,,Undefined,N92000002,18.0697278911565
+2018,Diarrhoea,Northern Ireland,,Female,Undefined,N92000002,24.0736864140674
+2018,Diarrhoea,Northern Ireland,,Male,Undefined,N92000002,11.8764845605701
+2018,Diarrhoea,Scotland,,,Undefined,S92000003,25.1926224232728
+2018,Diarrhoea,Scotland,,Female,Undefined,S92000003,32.2661599684509
+2018,Diarrhoea,Scotland,,Male,Undefined,S92000003,17.7438840229538
+2018,Diarrhoea,United Kingdom,,,Undefined,K02000001,20.1097002209659
+2018,Diarrhoea,United Kingdom,,Female,Undefined,K02000001,24.4907906899329
+2018,Diarrhoea,United Kingdom,,Male,Undefined,K02000001,15.6144213819983
+2018,Diarrhoea,Wales,,,Undefined,W92000004,23.5773911935258
+2018,Diarrhoea,Wales,,Female,Undefined,W92000004,30.1640168415761
+2018,Diarrhoea,Wales,,Male,Undefined,W92000004,16.8034640987527
+2018,Intestinal nematode infections,England,,,Undefined,E92000001,0.0
+2018,Intestinal nematode infections,England,,Female,Undefined,E92000001,0.0
+2018,Intestinal nematode infections,England,,Male,Undefined,E92000001,0.0
+2018,Intestinal nematode infections,England,East,,Undefined,E12000006,0.0
+2018,Intestinal nematode infections,England,East,Female,Undefined,E12000006,0.0
+2018,Intestinal nematode infections,England,East,Male,Undefined,E12000006,0.0
+2018,Intestinal nematode infections,England,East Midlands,,Undefined,E12000004,0.0
+2018,Intestinal nematode infections,England,East Midlands,Female,Undefined,E12000004,0.0
+2018,Intestinal nematode infections,England,East Midlands,Male,Undefined,E12000004,0.0
+2018,Intestinal nematode infections,England,London,,Undefined,E12000007,0.0
+2018,Intestinal nematode infections,England,London,Female,Undefined,E12000007,0.0
+2018,Intestinal nematode infections,England,London,Male,Undefined,E12000007,0.0
+2018,Intestinal nematode infections,England,North East,,Undefined,E12000001,0.0
+2018,Intestinal nematode infections,England,North East,Female,Undefined,E12000001,0.0
+2018,Intestinal nematode infections,England,North East,Male,Undefined,E12000001,0.0
+2018,Intestinal nematode infections,England,North West,,Undefined,E12000002,0.0
+2018,Intestinal nematode infections,England,North West,Female,Undefined,E12000002,0.0
+2018,Intestinal nematode infections,England,North West,Male,Undefined,E12000002,0.0
+2018,Intestinal nematode infections,England,South East,,Undefined,E12000008,0.0
+2018,Intestinal nematode infections,England,South East,Female,Undefined,E12000008,0.0
+2018,Intestinal nematode infections,England,South East,Male,Undefined,E12000008,0.0
+2018,Intestinal nematode infections,England,South West,,Undefined,E12000009,0.0
+2018,Intestinal nematode infections,England,South West,Female,Undefined,E12000009,0.0
+2018,Intestinal nematode infections,England,South West,Male,Undefined,E12000009,0.0
+2018,Intestinal nematode infections,England,West Midlands,,Undefined,E12000005,0.0
+2018,Intestinal nematode infections,England,West Midlands,Female,Undefined,E12000005,0.0
+2018,Intestinal nematode infections,England,West Midlands,Male,Undefined,E12000005,0.0
+2018,Intestinal nematode infections,England,Yorkshire and The Humber,,Undefined,E12000003,0.0
+2018,Intestinal nematode infections,England,Yorkshire and The Humber,Female,Undefined,E12000003,0.0
+2018,Intestinal nematode infections,England,Yorkshire and The Humber,Male,Undefined,E12000003,0.0
+2018,Intestinal nematode infections,Northern Ireland,,,Undefined,N92000002,0.0
+2018,Intestinal nematode infections,Northern Ireland,,Female,Undefined,N92000002,0.0
+2018,Intestinal nematode infections,Northern Ireland,,Male,Undefined,N92000002,0.0
+2018,Intestinal nematode infections,Scotland,,,Undefined,S92000003,0.0
+2018,Intestinal nematode infections,Scotland,,Female,Undefined,S92000003,0.0
+2018,Intestinal nematode infections,Scotland,,Male,Undefined,S92000003,0.0
+2018,Intestinal nematode infections,United Kingdom,,,Undefined,K02000001,0.0
+2018,Intestinal nematode infections,United Kingdom,,Female,Undefined,K02000001,0.0
+2018,Intestinal nematode infections,United Kingdom,,Male,Undefined,K02000001,0.0
+2018,Intestinal nematode infections,Wales,,,Undefined,W92000004,0.0
+2018,Intestinal nematode infections,Wales,,Female,Undefined,W92000004,0.0
+2018,Intestinal nematode infections,Wales,,Male,Undefined,W92000004,0.0
+2018,Protein-energy malnutrition,England,,,Undefined,E92000001,1.6256618766212
+2018,Protein-energy malnutrition,England,,Female,Undefined,E92000001,1.8721828946067
+2018,Protein-energy malnutrition,England,,Male,Undefined,E92000001,1.37343275058823
+2018,Protein-energy malnutrition,England,East,,Undefined,E12000006,2.41888666709669
+2018,Protein-energy malnutrition,England,East,Female,Undefined,E12000006,2.54315414693073
+2018,Protein-energy malnutrition,England,East,Male,Undefined,E12000006,2.29095074455899
+2018,Protein-energy malnutrition,England,East Midlands,,Undefined,E12000004,0.416311067629733
+2018,Protein-energy malnutrition,England,East Midlands,Female,Undefined,E12000004,0.411725955204216
+2018,Protein-energy malnutrition,England,East Midlands,Male,Undefined,E12000004,0.420981729392944
+2018,Protein-energy malnutrition,England,London,,Undefined,E12000007,0.785801686105904
+2018,Protein-energy malnutrition,England,London,Female,Undefined,E12000007,0.897021887334051
+2018,Protein-energy malnutrition,England,London,Male,Undefined,E12000007,0.674323990199825
+2018,Protein-energy malnutrition,England,North East,,Undefined,E12000001,2.63365815117198
+2018,Protein-energy malnutrition,England,North East,Female,Undefined,E12000001,4.43655723158829
+2018,Protein-energy malnutrition,England,North East,Male,Undefined,E12000001,0.765990042129452
+2018,Protein-energy malnutrition,England,North West,,Undefined,E12000002,1.50848178165412
+2018,Protein-energy malnutrition,England,North West,Female,Undefined,E12000002,1.62451941300699
+2018,Protein-energy malnutrition,England,North West,Male,Undefined,E12000002,1.38939061327702
+2018,Protein-energy malnutrition,England,South East,,Undefined,E12000008,1.53280196198651
+2018,Protein-energy malnutrition,England,South East,Female,Undefined,E12000008,1.94246001769797
+2018,Protein-energy malnutrition,England,South East,Male,Undefined,E12000008,1.11103704197498
+2018,Protein-energy malnutrition,England,South West,,Undefined,E12000009,1.25006696787328
+2018,Protein-energy malnutrition,England,South West,Female,Undefined,E12000009,1.05455568053993
+2018,Protein-energy malnutrition,England,South West,Male,Undefined,E12000009,1.45195832879596
+2018,Protein-energy malnutrition,England,West Midlands,,Undefined,E12000005,2.03362255965293
+2018,Protein-energy malnutrition,England,West Midlands,Female,Undefined,E12000005,3.02358395484781
+2018,Protein-energy malnutrition,England,West Midlands,Male,Undefined,E12000005,1.02592161958826
+2018,Protein-energy malnutrition,England,Yorkshire and The Humber,,Undefined,E12000003,2.91992116212862
+2018,Protein-energy malnutrition,England,Yorkshire and The Humber,Female,Undefined,E12000003,2.52243162408562
+2018,Protein-energy malnutrition,England,Yorkshire and The Humber,Male,Undefined,E12000003,3.32778702163062
+2018,Protein-energy malnutrition,Northern Ireland,,,Undefined,N92000002,2.12585034013605
+2018,Protein-energy malnutrition,Northern Ireland,,Female,Undefined,N92000002,3.14004605400879
+2018,Protein-energy malnutrition,Northern Ireland,,Male,Undefined,N92000002,1.07968041459728
+2018,Protein-energy malnutrition,Scotland,,,Undefined,S92000003,2.0227653040584
+2018,Protein-energy malnutrition,Scotland,,Female,Undefined,S92000003,1.79256444269171
+2018,Protein-energy malnutrition,Scotland,,Male,Undefined,S92000003,2.26517668378133
+2018,Protein-energy malnutrition,United Kingdom,,,Undefined,K02000001,1.68584313229654
+2018,Protein-energy malnutrition,United Kingdom,,Female,Undefined,K02000001,1.93191916850199
+2018,Protein-energy malnutrition,United Kingdom,,Male,Undefined,K02000001,1.43335508780062
+2018,Protein-energy malnutrition,Wales,,,Undefined,W92000004,1.91168036704263
+2018,Protein-energy malnutrition,Wales,,Female,Undefined,W92000004,2.51366807013134
+2018,Protein-energy malnutrition,Wales,,Male,Undefined,W92000004,1.29257416144251
+2019,,England,,,Undefined,E92000001,525.627587187095
+2019,,England,,Female,Undefined,E92000001,568.254090958604
+2019,,England,,Male,Undefined,E92000001,482.035949661849
+2019,,England,East,,Undefined,E12000006,523.88512050801
+2019,,England,East,Female,Undefined,E12000006,562.65014540397
+2019,,England,East,Male,Undefined,E12000006,483.970707892596
+2019,,England,East Midlands,,Undefined,E12000004,539.093033354701
+2019,,England,East Midlands,Female,Undefined,E12000004,588.788870703764
+2019,,England,East Midlands,Male,Undefined,E12000004,488.294314381271
+2019,,England,London,,Undefined,E12000007,300.714126311091
+2019,,England,London,Female,Undefined,E12000007,327.225714413089
+2019,,England,London,Male,Undefined,E12000007,274.140935698646
+2019,,England,North East,,Undefined,E12000001,547.211506048916
+2019,,England,North East,Female,Undefined,E12000001,596.553247901016
+2019,,England,North East,Male,Undefined,E12000001,496.151207987196
+2019,,England,North West,,Undefined,E12000002,638.860131858552
+2019,,England,North West,Female,Undefined,E12000002,690.889516888709
+2019,,England,North West,Male,Undefined,E12000002,585.542102214745
+2019,,England,South East,,Undefined,E12000008,532.673936013769
+2019,,England,South East,Female,Undefined,E12000008,573.858511232335
+2019,,England,South East,Male,Undefined,E12000008,490.284931143482
+2019,,England,South West,,Undefined,E12000009,649.634647181183
+2019,,England,South West,Female,Undefined,E12000009,703.387458006719
+2019,,England,South West,Male,Undefined,E12000009,594.123811933071
+2019,,England,West Midlands,,Undefined,E12000005,549.713515335356
+2019,,England,West Midlands,Female,Undefined,E12000005,591.105022220737
+2019,,England,West Midlands,Male,Undefined,E12000005,507.598680855404
+2019,,England,Yorkshire and The Humber,,Undefined,E12000003,556.060330728693
+2019,,England,Yorkshire and The Humber,Female,Undefined,E12000003,594.866271764495
+2019,,England,Yorkshire and The Humber,Male,Undefined,E12000003,516.302347832487
+2019,,Northern Ireland,,,Undefined,N92000002,410.835929661509
+2019,,Northern Ireland,,Female,Undefined,N92000002,474.505723204995
+2019,,Northern Ireland,,Male,Undefined,N92000002,345.234266109145
+2019,,Scotland,,,Undefined,S92000003,422.272253033881
+2019,,Scotland,,Female,Undefined,S92000003,461.379137949505
+2019,,Scotland,,Male,Undefined,S92000003,381.149079984979
+2019,,United Kingdom,,,Undefined,K02000001,523.70772252563
+2019,,United Kingdom,,Female,Undefined,K02000001,567.468789364432
+2019,,United Kingdom,,Male,Undefined,K02000001,478.831470486564
+2019,,Wales,,,Undefined,W92000004,732.975990358083
+2019,,Wales,,Female,Undefined,W92000004,795.269678388187
+2019,,Wales,,Male,Undefined,W92000004,668.939345211295
+2019,Acute respiratory infections,England,,,Undefined,E92000001,506.706699593156
+2019,Acute respiratory infections,England,,Female,Undefined,E92000001,545.835954053361
+2019,Acute respiratory infections,England,,Male,Undefined,E92000001,466.691581799495
+2019,Acute respiratory infections,England,East,,Undefined,E12000006,504.802681162906
+2019,Acute respiratory infections,England,East,Female,Undefined,E12000006,539.891263117967
+2019,Acute respiratory infections,England,East,Male,Undefined,E12000006,468.673718470301
+2019,Acute respiratory infections,England,East Midlands,,Undefined,E12000004,520.689013420459
+2019,Acute respiratory infections,England,East Midlands,Female,Undefined,E12000004,565.875613747954
+2019,Acute respiratory infections,England,East Midlands,Male,Undefined,E12000004,474.498327759197
+2019,Acute respiratory infections,England,London,,Undefined,E12000007,288.99799151975
+2019,Acute respiratory infections,England,London,Female,Undefined,E12000007,314.297178012572
+2019,Acute respiratory infections,England,London,Male,Undefined,E12000007,263.64001966129
+2019,Acute respiratory infections,England,North East,,Undefined,E12000001,521.742387355332
+2019,Acute respiratory infections,England,North East,Female,Undefined,E12000001,566.357342760348
+2019,Acute respiratory infections,England,North East,Male,Undefined,E12000001,475.573508116759
+2019,Acute respiratory infections,England,North West,,Undefined,E12000002,617.065329918814
+2019,Acute respiratory infections,England,North West,Female,Undefined,E12000002,664.244381644462
+2019,Acute respiratory infections,England,North West,Male,Undefined,E12000002,568.717764845409
+2019,Acute respiratory infections,England,South East,,Undefined,E12000008,512.848443916733
+2019,Acute respiratory infections,England,South East,Female,Undefined,E12000008,551.093166101113
+2019,Acute respiratory infections,England,South East,Male,Undefined,E12000008,473.485267136763
+2019,Acute respiratory infections,England,South West,,Undefined,E12000009,629.900261347272
+2019,Acute respiratory infections,England,South West,Female,Undefined,E12000009,680.991041433371
+2019,Acute respiratory infections,England,South West,Male,Undefined,E12000009,577.138520472697
+2019,Acute respiratory infections,England,West Midlands,,Undefined,E12000005,527.468823727671
+2019,Acute respiratory infections,England,West Midlands,Female,Undefined,E12000005,563.370869114846
+2019,Acute respiratory infections,England,West Midlands,Male,Undefined,E12000005,490.939380546017
+2019,Acute respiratory infections,England,Yorkshire and The Humber,,Undefined,E12000003,538.070143558059
+2019,Acute respiratory infections,England,Yorkshire and The Humber,Female,Undefined,E12000003,573.685155268354
+2019,Acute respiratory infections,England,Yorkshire and The Humber,Male,Undefined,E12000003,501.582394936336
+2019,Acute respiratory infections,Northern Ireland,,,Undefined,N92000002,384.960659027301
+2019,Acute respiratory infections,Northern Ireland,,Female,Undefined,N92000002,440.166493236212
+2019,Acute respiratory infections,Northern Ireland,,Male,Undefined,N92000002,328.079768414281
+2019,Acute respiratory infections,Scotland,,,Undefined,S92000003,397.012794464884
+2019,Acute respiratory infections,Scotland,,Female,Undefined,S92000003,431.382351890869
+2019,Acute respiratory infections,Scotland,,Male,Undefined,S92000003,360.871197897109
+2019,Acute respiratory infections,United Kingdom,,,Undefined,K02000001,503.601968956597
+2019,Acute respiratory infections,United Kingdom,,Female,Undefined,K02000001,543.340055472432
+2019,Acute respiratory infections,United Kingdom,,Male,Undefined,K02000001,462.851216864474
+2019,Acute respiratory infections,Wales,,,Undefined,W92000004,704.113673126328
+2019,Acute respiratory infections,Wales,,Female,Undefined,W92000004,757.101739456889
+2019,Acute respiratory infections,Wales,,Male,Undefined,W92000004,649.643017945584
+2019,Diarrhoea,England,,,Undefined,E92000001,17.8016238207757
+2019,Diarrhoea,England,,Female,Undefined,E92000001,21.0126110804628
+2019,Diarrhoea,England,,Male,Undefined,E92000001,14.5178562444749
+2019,Diarrhoea,England,East,,Undefined,E12000006,18.2806561793429
+2019,Diarrhoea,England,East,Female,Undefined,E12000006,21.8105955240865
+2019,Diarrhoea,England,East,Male,Undefined,E12000006,14.6460537021969
+2019,Diarrhoea,England,East Midlands,,Undefined,E12000004,17.5768729709051
+2019,Diarrhoea,England,East Midlands,Female,Undefined,E12000004,21.2765957446809
+2019,Diarrhoea,England,East Midlands,Male,Undefined,E12000004,13.7959866220736
+2019,Diarrhoea,England,London,,Undefined,E12000007,11.1582236108012
+2019,Diarrhoea,England,London,Female,Undefined,E12000007,12.0369132004815
+2019,Diarrhoea,England,London,Male,Undefined,E12000007,10.2774922918808
+2019,Diarrhoea,England,North East,,Undefined,E12000001,23.9709352410203
+2019,Diarrhoea,England,North East,Female,Undefined,E12000001,27.9864486669613
+2019,Diarrhoea,England,North East,Male,Undefined,E12000001,19.8155628381983
+2019,Diarrhoea,England,North West,,Undefined,E12000002,20.9774968669972
+2019,Diarrhoea,England,North West,Female,Undefined,E12000002,25.8377069035123
+2019,Diarrhoea,England,North West,Male,Undefined,E12000002,15.9969109413355
+2019,Diarrhoea,England,South East,,Undefined,E12000008,18.5183167939347
+2019,Diarrhoea,England,South East,Female,Undefined,E12000008,21.0472058760363
+2019,Diarrhoea,England,South East,Male,Undefined,E12000008,15.9154711642609
+2019,Diarrhoea,England,South West,,Undefined,E12000009,18.3120877557914
+2019,Diarrhoea,England,South West,Female,Undefined,E12000009,20.2967525195969
+2019,Diarrhoea,England,South West,Male,Undefined,E12000009,16.2625131003578
+2019,Diarrhoea,England,West Midlands,,Undefined,E12000005,19.8854061341422
+2019,Diarrhoea,England,West Midlands,Female,Undefined,E12000005,25.7292745681157
+2019,Diarrhoea,England,West Midlands,Male,Undefined,E12000005,13.9394145445891
+2019,Diarrhoea,England,Yorkshire and The Humber,,Undefined,E12000003,17.081591858986
+2019,Diarrhoea,England,Yorkshire and The Humber,Female,Undefined,E12000003,20.1041105726081
+2019,Diarrhoea,England,Yorkshire and The Humber,Male,Undefined,E12000003,13.9839552513432
+2019,Diarrhoea,Northern Ireland,,,Undefined,N92000002,22.7068701483868
+2019,Diarrhoea,Northern Ireland,,Female,Undefined,N92000002,31.2174817898023
+2019,Diarrhoea,Northern Ireland,,Male,Undefined,N92000002,13.9380293770773
+2019,Diarrhoea,Scotland,,,Undefined,S92000003,23.9781816850621
+2019,Diarrhoea,Scotland,,Female,Undefined,S92000003,28.2112630789558
+2019,Diarrhoea,Scotland,,Male,Undefined,S92000003,19.5268494179497
+2019,Diarrhoea,United Kingdom,,,Undefined,K02000001,18.8631790744467
+2019,Diarrhoea,United Kingdom,,Female,Undefined,K02000001,22.5319794432649
+2019,Diarrhoea,United Kingdom,,Male,Undefined,K02000001,15.1008848269463
+2019,Diarrhoea,Wales,,,Undefined,W92000004,26.6421389831584
+2019,Diarrhoea,Wales,,Female,Undefined,W92000004,34.4137154298586
+2019,Diarrhoea,Wales,,Male,Undefined,W92000004,18.6531163568534
+2019,Intestinal nematode infections,England,,,Undefined,E92000001,0.0
+2019,Intestinal nematode infections,England,,Female,Undefined,E92000001,0.0
+2019,Intestinal nematode infections,England,,Male,Undefined,E92000001,0.0
+2019,Intestinal nematode infections,England,East,,Undefined,E12000006,0.0
+2019,Intestinal nematode infections,England,East,Female,Undefined,E12000006,0.0
+2019,Intestinal nematode infections,England,East,Male,Undefined,E12000006,0.0
+2019,Intestinal nematode infections,England,East Midlands,,Undefined,E12000004,0.0
+2019,Intestinal nematode infections,England,East Midlands,Female,Undefined,E12000004,0.0
+2019,Intestinal nematode infections,England,East Midlands,Male,Undefined,E12000004,0.0
+2019,Intestinal nematode infections,England,London,,Undefined,E12000007,0.0
+2019,Intestinal nematode infections,England,London,Female,Undefined,E12000007,0.0
+2019,Intestinal nematode infections,England,London,Male,Undefined,E12000007,0.0
+2019,Intestinal nematode infections,England,North East,,Undefined,E12000001,0.0
+2019,Intestinal nematode infections,England,North East,Female,Undefined,E12000001,0.0
+2019,Intestinal nematode infections,England,North East,Male,Undefined,E12000001,0.0
+2019,Intestinal nematode infections,England,North West,,Undefined,E12000002,0.0
+2019,Intestinal nematode infections,England,North West,Female,Undefined,E12000002,0.0
+2019,Intestinal nematode infections,England,North West,Male,Undefined,E12000002,0.0
+2019,Intestinal nematode infections,England,South East,,Undefined,E12000008,0.0
+2019,Intestinal nematode infections,England,South East,Female,Undefined,E12000008,0.0
+2019,Intestinal nematode infections,England,South East,Male,Undefined,E12000008,0.0
+2019,Intestinal nematode infections,England,South West,,Undefined,E12000009,0.0
+2019,Intestinal nematode infections,England,South West,Female,Undefined,E12000009,0.0
+2019,Intestinal nematode infections,England,South West,Male,Undefined,E12000009,0.0
+2019,Intestinal nematode infections,England,West Midlands,,Undefined,E12000005,0.0
+2019,Intestinal nematode infections,England,West Midlands,Female,Undefined,E12000005,0.0
+2019,Intestinal nematode infections,England,West Midlands,Male,Undefined,E12000005,0.0
+2019,Intestinal nematode infections,England,Yorkshire and The Humber,,Undefined,E12000003,0.0
+2019,Intestinal nematode infections,England,Yorkshire and The Humber,Female,Undefined,E12000003,0.0
+2019,Intestinal nematode infections,England,Yorkshire and The Humber,Male,Undefined,E12000003,0.0
+2019,Intestinal nematode infections,Northern Ireland,,,Undefined,N92000002,0.0
+2019,Intestinal nematode infections,Northern Ireland,,Female,Undefined,N92000002,0.0
+2019,Intestinal nematode infections,Northern Ireland,,Male,Undefined,N92000002,0.0
+2019,Intestinal nematode infections,Scotland,,,Undefined,S92000003,0.0
+2019,Intestinal nematode infections,Scotland,,Female,Undefined,S92000003,0.0
+2019,Intestinal nematode infections,Scotland,,Male,Undefined,S92000003,0.0
+2019,Intestinal nematode infections,United Kingdom,,,Undefined,K02000001,0.0
+2019,Intestinal nematode infections,United Kingdom,,Female,Undefined,K02000001,0.0
+2019,Intestinal nematode infections,United Kingdom,,Male,Undefined,K02000001,0.0
+2019,Intestinal nematode infections,Wales,,,Undefined,W92000004,0.0
+2019,Intestinal nematode infections,Wales,,Female,Undefined,W92000004,0.0
+2019,Intestinal nematode infections,Wales,,Male,Undefined,W92000004,0.0
+2019,Protein-energy malnutrition,England,,,Undefined,E92000001,1.11926377316254
+2019,Protein-energy malnutrition,England,,Female,Undefined,E92000001,1.40552582478012
+2019,Protein-energy malnutrition,England,,Male,Undefined,E92000001,0.826511617878524
+2019,Protein-energy malnutrition,England,East,,Undefined,E12000006,0.801783165760652
+2019,Protein-energy malnutrition,England,East,Female,Undefined,E12000006,0.948286761916804
+2019,Protein-energy malnutrition,England,East,Male,Undefined,E12000006,0.65093572009764
+2019,Protein-energy malnutrition,England,East Midlands,,Undefined,E12000004,0.827146963336711
+2019,Protein-energy malnutrition,England,East Midlands,Female,Undefined,E12000004,1.6366612111293
+2019,Protein-energy malnutrition,England,East Midlands,Male,Undefined,E12000004,0.0
+2019,Protein-energy malnutrition,England,London,,Undefined,E12000007,0.557911180540058
+2019,Protein-energy malnutrition,England,London,Female,Undefined,E12000007,0.891623200035665
+2019,Protein-energy malnutrition,England,London,Male,Undefined,E12000007,0.223423745475669
+2019,Protein-energy malnutrition,England,North East,,Undefined,E12000001,1.49818345256377
+2019,Protein-energy malnutrition,England,North East,Female,Undefined,E12000001,2.20945647370747
+2019,Protein-energy malnutrition,England,North East,Male,Undefined,E12000001,0.762137032238396
+2019,Protein-energy malnutrition,England,North West,,Undefined,E12000002,0.817305072740151
+2019,Protein-energy malnutrition,England,North West,Female,Undefined,E12000002,0.80742834073476
+2019,Protein-energy malnutrition,England,North West,Male,Undefined,E12000002,0.82742642800011
+2019,Protein-energy malnutrition,England,South East,,Undefined,E12000008,1.30717530310127
+2019,Protein-energy malnutrition,England,South East,Female,Undefined,E12000008,1.71813925518663
+2019,Protein-energy malnutrition,England,South East,Male,Undefined,E12000008,0.88419284245894
+2019,Protein-energy malnutrition,England,South West,,Undefined,E12000009,1.42229807811972
+2019,Protein-energy malnutrition,England,South West,Female,Undefined,E12000009,2.0996640537514
+2019,Protein-energy malnutrition,England,South West,Male,Undefined,E12000009,0.722778360015901
+2019,Protein-energy malnutrition,England,West Midlands,,Undefined,E12000005,2.3592854735423
+2019,Protein-energy malnutrition,England,West Midlands,Female,Undefined,E12000005,2.00487853777525
+2019,Protein-energy malnutrition,England,West Midlands,Male,Undefined,E12000005,2.71988576479788
+2019,Protein-energy malnutrition,England,Yorkshire and The Humber,,Undefined,E12000003,0.908595311648192
+2019,Protein-energy malnutrition,England,Yorkshire and The Humber,Female,Undefined,E12000003,1.07700592353258
+2019,Protein-energy malnutrition,England,Yorkshire and The Humber,Male,Undefined,E12000003,0.735997644807537
+2019,Protein-energy malnutrition,Northern Ireland,,,Undefined,N92000002,2.64033373818451
+2019,Protein-energy malnutrition,Northern Ireland,,Female,Undefined,N92000002,3.12174817898023
+2019,Protein-energy malnutrition,Northern Ireland,,Male,Undefined,N92000002,2.14431221185805
+2019,Protein-energy malnutrition,Scotland,,,Undefined,S92000003,1.28127688393462
+2019,Protein-energy malnutrition,Scotland,,Female,Undefined,S92000003,1.78552297968075
+2019,Protein-energy malnutrition,Scotland,,Male,Undefined,S92000003,0.751032669921142
+2019,Protein-energy malnutrition,United Kingdom,,,Undefined,K02000001,1.22760371754336
+2019,Protein-energy malnutrition,United Kingdom,,Female,Undefined,K02000001,1.59675444873531
+2019,Protein-energy malnutrition,United Kingdom,,Male,Undefined,K02000001,0.84904573324196
+2019,Protein-energy malnutrition,Wales,,,Undefined,W92000004,2.22017824859653
+2019,Protein-energy malnutrition,Wales,,Female,Undefined,W92000004,3.75422350143912
+2019,Protein-energy malnutrition,Wales,,Male,Undefined,W92000004,0.643210908857014
+2020,,England,,,Undefined,E92000001,420.299875685454
+2020,,England,,Female,Undefined,E92000001,443.479082727454
+2020,,England,,Male,Undefined,E92000001,396.636505281816
+2020,,England,East,,Undefined,E12000006,427.965290627193
+2020,,England,East,Female,Undefined,E12000006,448.155486366638
+2020,,England,East,Male,Undefined,E12000006,407.198808830194
+2020,,England,East Midlands,,Undefined,E12000004,433.656691877672
+2020,,England,East Midlands,Female,Undefined,E12000004,474.388705805769
+2020,,England,East Midlands,Male,Undefined,E12000004,392.075424679154
+2020,,England,London,,Undefined,E12000007,258.928075534574
+2020,,England,London,Female,Undefined,E12000007,263.808738664468
+2020,,England,London,Male,Undefined,E12000007,254.075846181109
+2020,,England,North East,,Undefined,E12000001,427.111310056699
+2020,,England,North East,Female,Undefined,E12000001,453.411592076302
+2020,,England,North East,Male,Undefined,E12000001,399.939288153601
+2020,,England,North West,,Undefined,E12000002,496.097726501527
+2020,,England,North West,Female,Undefined,E12000002,515.414128947439
+2020,,England,North West,Male,Undefined,E12000002,476.33436804659
+2020,,England,South East,,Undefined,E12000008,422.466448960108
+2020,,England,South East,Female,Undefined,E12000008,448.80845419929
+2020,,England,South East,Male,Undefined,E12000008,395.368291286928
+2020,,England,South West,,Undefined,E12000009,502.199996465869
+2020,,England,South West,Female,Undefined,E12000009,536.497112239928
+2020,,England,South West,Male,Undefined,E12000009,466.803116808503
+2020,,England,West Midlands,,Undefined,E12000005,439.121756487026
+2020,,England,West Midlands,Female,Undefined,E12000005,475.873544093178
+2020,,England,West Midlands,Male,Undefined,E12000005,401.772126213264
+2020,,England,Yorkshire and The Humber,,Undefined,E12000003,450.564562825709
+2020,,England,Yorkshire and The Humber,Female,Undefined,E12000003,459.305858383672
+2020,,England,Yorkshire and The Humber,Male,Undefined,E12000003,441.602228167259
+2020,,Northern Ireland,,,Undefined,N92000002,302.294908994988
+2020,,Northern Ireland,,Female,Undefined,N92000002,353.650925733306
+2020,,Northern Ireland,,Male,Undefined,N92000002,249.411260971955
+2020,,Scotland,,,Undefined,S92000003,329.308452250274
+2020,,Scotland,,Female,Undefined,S92000003,340.97400742645
+2020,,Scotland,,Male,Undefined,S92000003,317.049377157437
+2020,,United Kingdom,,,Undefined,K02000001,417.016988366338
+2020,,United Kingdom,,Female,Undefined,K02000001,442.398078708137
+2020,,United Kingdom,,Male,Undefined,K02000001,391.031114141503
+2020,,Wales,,,Undefined,W92000004,578.306410903584
+2020,,Wales,,Female,Undefined,W92000004,653.13492310566
+2020,,Wales,,Male,Undefined,W92000004,501.439078989447
+2020,Acute respiratory infections,England,,,Undefined,E92000001,401.749952696812
+2020,Acute respiratory infections,England,,Female,Undefined,E92000001,420.480759469743
+2020,Acute respiratory infections,England,,Male,Undefined,E92000001,382.627899995712
+2020,Acute respiratory infections,England,East,,Undefined,E12000006,411.057232182735
+2020,Acute respiratory infections,England,East,Female,Undefined,E12000006,427.084316130453
+2020,Acute respiratory infections,England,East,Male,Undefined,E12000006,394.574998381563
+2020,Acute respiratory infections,England,East Midlands,,Undefined,E12000004,413.104242025649
+2020,Acute respiratory infections,England,East Midlands,Female,Undefined,E12000004,449.570771797063
+2020,Acute respiratory infections,England,East Midlands,Male,Undefined,E12000004,375.877393362961
+2020,Acute respiratory infections,England,London,,Undefined,E12000007,246.709247431269
+2020,Acute respiratory infections,England,London,Female,Undefined,E12000007,249.77161827945
+2020,Acute respiratory infections,England,London,Male,Undefined,E12000007,243.664717348928
+2020,Acute respiratory infections,England,North East,,Undefined,E12000001,407.714115189496
+2020,Acute respiratory infections,England,North East,Female,Undefined,E12000001,432.134996331621
+2020,Acute respiratory infections,England,North East,Male,Undefined,E12000001,382.48463231388
+2020,Acute respiratory infections,England,North West,,Undefined,E12000002,473.294876145232
+2020,Acute respiratory infections,England,North West,Female,Undefined,E12000002,488.315312173003
+2020,Acute respiratory infections,England,North West,Male,Undefined,E12000002,457.929291541906
+2020,Acute respiratory infections,England,South East,,Undefined,E12000008,403.371920193549
+2020,Acute respiratory infections,England,South East,Female,Undefined,E12000008,423.351730629359
+2020,Acute respiratory infections,England,South East,Male,Undefined,E12000008,382.820411218245
+2020,Acute respiratory infections,England,South West,,Undefined,E12000009,483.822515947766
+2020,Acute respiratory infections,England,South West,Female,Undefined,E12000009,515.273815322525
+2020,Acute respiratory infections,England,South West,Male,Undefined,E12000009,451.36270602176
+2020,Acute respiratory infections,England,West Midlands,,Undefined,E12000005,417.65209077643
+2020,Acute respiratory infections,England,West Midlands,Female,Undefined,E12000005,445.590682196339
+2020,Acute respiratory infections,England,West Midlands,Male,Undefined,E12000005,389.259021272278
+2020,Acute respiratory infections,England,Yorkshire and The Humber,,Undefined,E12000003,431.564852345107
+2020,Acute respiratory infections,England,Yorkshire and The Humber,Female,Undefined,E12000003,436.072488115238
+2020,Acute respiratory infections,England,Yorkshire and The Humber,Male,Undefined,E12000003,426.943233041375
+2020,Acute respiratory infections,Northern Ireland,,,Undefined,N92000002,275.389079398576
+2020,Acute respiratory infections,Northern Ireland,,Female,Undefined,N92000002,320.366132723112
+2020,Acute respiratory infections,Northern Ireland,,Male,Undefined,N92000002,229.073003639478
+2020,Acute respiratory infections,Scotland,,,Undefined,S92000003,304.244420051226
+2020,Acute respiratory infections,Scotland,,Female,Undefined,S92000003,309.55441302485
+2020,Acute respiratory infections,Scotland,,Male,Undefined,S92000003,298.66426534594
+2020,Acute respiratory infections,United Kingdom,,,Undefined,K02000001,397.324436652892
+2020,Acute respiratory infections,United Kingdom,,Female,Undefined,K02000001,417.880980094591
+2020,Acute respiratory infections,United Kingdom,,Male,Undefined,K02000001,376.278069251818
+2020,Acute respiratory infections,Wales,,,Undefined,W92000004,551.804644119132
+2020,Acute respiratory infections,Wales,,Female,Undefined,W92000004,618.890480044829
+2020,Acute respiratory infections,Wales,,Male,Undefined,W92000004,482.890949792133
+2020,Diarrhoea,England,,,Undefined,E92000001,17.3651328644865
+2020,Diarrhoea,England,,Female,Undefined,E92000001,21.5281108120123
+2020,Diarrhoea,England,,Male,Undefined,E92000001,13.1151993367354
+2020,Diarrhoea,England,East,,Undefined,E12000006,16.1105085178332
+2020,Diarrhoea,England,East,Female,Undefined,E12000006,19.4986948454257
+2020,Diarrhoea,England,East,Male,Undefined,E12000006,12.6238104486308
+2020,Diarrhoea,England,East Midlands,,Undefined,E12000004,19.5248273594212
+2020,Diarrhoea,England,East Midlands,Female,Undefined,E12000004,24.0042312543228
+2020,Diarrhoea,England,East Midlands,Male,Undefined,E12000004,14.9520289072559
+2020,Diarrhoea,England,London,,Undefined,E12000007,10.9969452929742
+2020,Diarrhoea,England,London,Female,Undefined,E12000007,11.8090060381899
+2020,Diarrhoea,England,London,Male,Undefined,E12000007,10.1896154527733
+2020,Diarrhoea,England,North East,,Undefined,E12000001,18.2781259325574
+2020,Diarrhoea,England,North East,Female,Undefined,E12000001,21.2765957446809
+2020,Diarrhoea,England,North East,Male,Undefined,E12000001,15.1779615997572
+2020,Diarrhoea,England,North West,,Undefined,E12000002,22.1241940956905
+2020,Diarrhoea,England,North West,Female,Undefined,E12000002,26.5622065412787
+2020,Diarrhoea,England,North West,Male,Undefined,E12000002,17.5809686014889
+2020,Diarrhoea,England,South East,,Undefined,E12000008,17.6841374372105
+2020,Diarrhoea,England,South East,Female,Undefined,E12000008,23.9592692422881
+2020,Diarrhoea,England,South East,Male,Undefined,E12000008,11.2270505877691
+2020,Diarrhoea,England,South West,,Undefined,E12000009,17.4939478008871
+2020,Diarrhoea,England,South West,Female,Undefined,E12000009,19.8316053162619
+2020,Diarrhoea,England,South West,Male,Undefined,E12000009,15.0813314661209
+2020,Diarrhoea,England,West Midlands,,Undefined,E12000005,19.6246163135913
+2020,Diarrhoea,England,West Midlands,Female,Undefined,E12000005,27.9534109816972
+2020,Diarrhoea,England,West Midlands,Male,Undefined,E12000005,11.1603368392573
+2020,Diarrhoea,England,Yorkshire and The Humber,,Undefined,E12000003,17.3711638679792
+2020,Diarrhoea,England,Yorkshire and The Humber,Female,Undefined,E12000003,21.4461879400936
+2020,Diarrhoea,England,Yorkshire and The Humber,Male,Undefined,E12000003,13.1930956132957
+2020,Diarrhoea,Northern Ireland,,,Undefined,N92000002,24.7955684515959
+2020,Diarrhoea,Northern Ireland,,Female,Undefined,N92000002,31.2044934470564
+2020,Diarrhoea,Northern Ireland,,Male,Undefined,N92000002,18.1973881395847
+2020,Diarrhoea,Scotland,,,Undefined,S92000003,23.0515916575192
+2020,Diarrhoea,Scotland,,Female,Undefined,S92000003,28.206226792345
+2020,Diarrhoea,Scotland,,Male,Undefined,S92000003,17.6346990844965
+2020,Diarrhoea,United Kingdom,,,Undefined,K02000001,18.350894140236
+2020,Diarrhoea,United Kingdom,,Female,Undefined,K02000001,22.8374416171855
+2020,Diarrhoea,United Kingdom,,Male,Undefined,K02000001,13.757440633325
+2020,Diarrhoea,Wales,,,Undefined,W92000004,23.9777889954568
+2020,Diarrhoea,Wales,,Female,Undefined,W92000004,31.753938110952
+2020,Diarrhoea,Wales,,Male,Undefined,W92000004,15.9897665494084
+2020,Intestinal nematode infections,England,,,Undefined,E92000001,0.0
+2020,Intestinal nematode infections,England,,Female,Undefined,E92000001,0.0
+2020,Intestinal nematode infections,England,,Male,Undefined,E92000001,0.0
+2020,Intestinal nematode infections,England,East,,Undefined,E12000006,0.0
+2020,Intestinal nematode infections,England,East,Female,Undefined,E12000006,0.0
+2020,Intestinal nematode infections,England,East,Male,Undefined,E12000006,0.0
+2020,Intestinal nematode infections,England,East Midlands,,Undefined,E12000004,0.0
+2020,Intestinal nematode infections,England,East Midlands,Female,Undefined,E12000004,0.0
+2020,Intestinal nematode infections,England,East Midlands,Male,Undefined,E12000004,0.0
+2020,Intestinal nematode infections,England,London,,Undefined,E12000007,0.0
+2020,Intestinal nematode infections,England,London,Female,Undefined,E12000007,0.0
+2020,Intestinal nematode infections,England,London,Male,Undefined,E12000007,0.0
+2020,Intestinal nematode infections,England,North East,,Undefined,E12000001,0.0
+2020,Intestinal nematode infections,England,North East,Female,Undefined,E12000001,0.0
+2020,Intestinal nematode infections,England,North East,Male,Undefined,E12000001,0.0
+2020,Intestinal nematode infections,England,North West,,Undefined,E12000002,0.0
+2020,Intestinal nematode infections,England,North West,Female,Undefined,E12000002,0.0
+2020,Intestinal nematode infections,England,North West,Male,Undefined,E12000002,0.0
+2020,Intestinal nematode infections,England,South East,,Undefined,E12000008,0.0
+2020,Intestinal nematode infections,England,South East,Female,Undefined,E12000008,0.0
+2020,Intestinal nematode infections,England,South East,Male,Undefined,E12000008,0.0
+2020,Intestinal nematode infections,England,South West,,Undefined,E12000009,0.0
+2020,Intestinal nematode infections,England,South West,Female,Undefined,E12000009,0.0
+2020,Intestinal nematode infections,England,South West,Male,Undefined,E12000009,0.0
+2020,Intestinal nematode infections,England,West Midlands,,Undefined,E12000005,0.0
+2020,Intestinal nematode infections,England,West Midlands,Female,Undefined,E12000005,0.0
+2020,Intestinal nematode infections,England,West Midlands,Male,Undefined,E12000005,0.0
+2020,Intestinal nematode infections,England,Yorkshire and The Humber,,Undefined,E12000003,0.0
+2020,Intestinal nematode infections,England,Yorkshire and The Humber,Female,Undefined,E12000003,0.0
+2020,Intestinal nematode infections,England,Yorkshire and The Humber,Male,Undefined,E12000003,0.0
+2020,Intestinal nematode infections,Northern Ireland,,,Undefined,N92000002,0.0
+2020,Intestinal nematode infections,Northern Ireland,,Female,Undefined,N92000002,0.0
+2020,Intestinal nematode infections,Northern Ireland,,Male,Undefined,N92000002,0.0
+2020,Intestinal nematode infections,Scotland,,,Undefined,S92000003,0.0
+2020,Intestinal nematode infections,Scotland,,Female,Undefined,S92000003,0.0
+2020,Intestinal nematode infections,Scotland,,Male,Undefined,S92000003,0.0
+2020,Intestinal nematode infections,United Kingdom,,,Undefined,K02000001,0.0
+2020,Intestinal nematode infections,United Kingdom,,Female,Undefined,K02000001,0.0
+2020,Intestinal nematode infections,United Kingdom,,Male,Undefined,K02000001,0.0
+2020,Intestinal nematode infections,Wales,,,Undefined,W92000004,0.0
+2020,Intestinal nematode infections,Wales,,Female,Undefined,W92000004,0.0
+2020,Intestinal nematode infections,Wales,,Male,Undefined,W92000004,0.0
+2020,Protein-energy malnutrition,England,,,Undefined,E92000001,1.1847901241554
+2020,Protein-energy malnutrition,England,,Female,Undefined,E92000001,1.4702124456984
+2020,Protein-energy malnutrition,England,,Male,Undefined,E92000001,0.893405949368898
+2020,Protein-energy malnutrition,England,East,,Undefined,E12000006,0.797549926625407
+2020,Protein-energy malnutrition,England,East,Female,Undefined,E12000006,1.57247539076013
+2020,Protein-energy malnutrition,England,East,Male,Undefined,E12000006,0.0
+2020,Protein-energy malnutrition,England,East Midlands,,Undefined,E12000004,1.02762249260112
+2020,Protein-energy malnutrition,England,East Midlands,Female,Undefined,E12000004,0.813702754383824
+2020,Protein-energy malnutrition,England,East Midlands,Male,Undefined,E12000004,1.24600240893799
+2020,Protein-energy malnutrition,England,London,,Undefined,E12000007,1.22188281033046
+2020,Protein-energy malnutrition,England,London,Female,Undefined,E12000007,2.22811434682828
+2020,Protein-energy malnutrition,England,London,Male,Undefined,E12000007,0.221513379408116
+2020,Protein-energy malnutrition,England,North East,,Undefined,E12000001,1.11906893464637
+2020,Protein-energy malnutrition,England,North East,Female,Undefined,E12000001,0.0
+2020,Protein-energy malnutrition,England,North East,Male,Undefined,E12000001,2.27669423996357
+2020,Protein-energy malnutrition,England,North West,,Undefined,E12000002,0.678656260604004
+2020,Protein-energy malnutrition,England,North West,Female,Undefined,E12000002,0.536610233157146
+2020,Protein-energy malnutrition,England,North West,Male,Undefined,E12000002,0.824107903194792
+2020,Protein-energy malnutrition,England,South East,,Undefined,E12000008,1.41039132934807
+2020,Protein-energy malnutrition,England,South East,Female,Undefined,E12000008,1.49745432764301
+2020,Protein-energy malnutrition,England,South East,Male,Undefined,E12000008,1.32082948091401
+2020,Protein-energy malnutrition,England,South West,,Undefined,E12000009,0.883532717216518
+2020,Protein-energy malnutrition,England,South West,Female,Undefined,E12000009,1.39169160114119
+2020,Protein-energy malnutrition,England,South West,Male,Undefined,E12000009,0.359079320621925
+2020,Protein-energy malnutrition,England,West Midlands,,Undefined,E12000005,1.84504939700431
+2020,Protein-energy malnutrition,England,West Midlands,Female,Undefined,E12000005,2.32945091514143
+2020,Protein-energy malnutrition,England,West Midlands,Male,Undefined,E12000005,1.35276810172816
+2020,Protein-energy malnutrition,England,Yorkshire and The Humber,,Undefined,E12000003,1.62854661262305
+2020,Protein-energy malnutrition,England,Yorkshire and The Humber,Female,Undefined,E12000003,1.78718232834114
+2020,Protein-energy malnutrition,England,Yorkshire and The Humber,Male,Undefined,E12000003,1.46589951258841
+2020,Protein-energy malnutrition,Northern Ireland,,,Undefined,N92000002,2.11026114481667
+2020,Protein-energy malnutrition,Northern Ireland,,Female,Undefined,N92000002,2.08029956313709
+2020,Protein-energy malnutrition,Northern Ireland,,Male,Undefined,N92000002,2.14086919289231
+2020,Protein-energy malnutrition,Scotland,,,Undefined,S92000003,2.01244054152945
+2020,Protein-energy malnutrition,Scotland,,Female,Undefined,S92000003,3.2133676092545
+2020,Protein-energy malnutrition,Scotland,,Male,Undefined,S92000003,0.75041272699985
+2020,Protein-energy malnutrition,United Kingdom,,,Undefined,K02000001,1.34165757320978
+2020,Protein-energy malnutrition,United Kingdom,,Female,Undefined,K02000001,1.67965699636074
+2020,Protein-energy malnutrition,United Kingdom,,Male,Undefined,K02000001,0.995604256359045
+2020,Protein-energy malnutrition,Wales,,,Undefined,W92000004,2.52397778899546
+2020,Protein-energy malnutrition,Wales,,Female,Undefined,W92000004,2.49050494987859
+2020,Protein-energy malnutrition,Wales,,Male,Undefined,W92000004,2.55836264790534
+2021,,England,,,Undefined,E92000001,346.396303974077
+2021,,England,,Female,Undefined,E92000001,356.171220034588
+2021,,England,,Male,Undefined,E92000001,336.207612806739
+2021,,England,East,,Undefined,E12000006,326.711929553725
+2021,,England,East,Female,Undefined,E12000006,334.51847271603
+2021,,England,East,Male,Undefined,E12000006,318.602261048304
+2021,,England,East Midlands,,Undefined,E12000004,327.042478637733
+2021,,England,East Midlands,Female,Undefined,E12000004,326.459787740608
+2021,,England,East Midlands,Male,Undefined,E12000004,327.643630308077
+2021,,England,London,,Undefined,E12000007,220.198713139167
+2021,,England,London,Female,Undefined,E12000007,228.080634121569
+2021,,England,London,Male,Undefined,E12000007,211.833626244874
+2021,,England,North East,,Undefined,E12000001,358.923983678404
+2021,,England,North East,Female,Undefined,E12000001,367.934983376431
+2021,,England,North East,Male,Undefined,E12000001,349.520569130838
+2021,,England,North West,,Undefined,E12000002,418.872856122765
+2021,,England,North West,Female,Undefined,E12000002,433.356262236097
+2021,,England,North West,Male,Undefined,E12000002,403.843514070007
+2021,,England,South East,,Undefined,E12000008,350.979126318055
+2021,,England,South East,Female,Undefined,E12000008,366.023263654754
+2021,,England,South East,Male,Undefined,E12000008,335.282736786562
+2021,,England,South West,,Undefined,E12000009,418.883909816552
+2021,,England,South West,Female,Undefined,E12000009,421.067068989165
+2021,,England,South West,Male,Undefined,E12000009,416.607066228007
+2021,,England,West Midlands,,Undefined,E12000005,375.53323704276
+2021,,England,West Midlands,Female,Undefined,E12000005,386.090175856142
+2021,,England,West Midlands,Male,Undefined,E12000005,364.629566404916
+2021,,England,Yorkshire and The Humber,,Undefined,E12000003,369.796037508666
+2021,,England,Yorkshire and The Humber,Female,Undefined,E12000003,388.293871117957
+2021,,England,Yorkshire and The Humber,Male,Undefined,E12000003,350.596720823884
+2021,,Northern Ireland,,,Undefined,N92000002,264.097448283104
+2021,,Northern Ireland,,Female,Undefined,N92000002,288.312493541387
+2021,,Northern Ireland,,Male,Undefined,N92000002,239.111870196413
+2021,,Scotland,,,Undefined,S92000003,281.756966367999
+2021,,Scotland,,Female,Undefined,S92000003,307.056602429381
+2021,,Scotland,,Male,Undefined,S92000003,255.182219561476
+2021,,United Kingdom,,,Undefined,K02000001,343.417434648787
+2021,,United Kingdom,,Female,Undefined,K02000001,355.635572909969
+2021,,United Kingdom,,Male,Undefined,K02000001,330.676744434116
+2021,,Wales,,,Undefined,W92000004,446.641334449668
+2021,,Wales,,Female,Undefined,W92000004,472.977234029135
+2021,,Wales,,Male,Undefined,W92000004,419.161676646707
+2021,Acute respiratory infections,England,,,Undefined,E92000001,326.692184150388
+2021,Acute respiratory infections,England,,Female,Undefined,E92000001,332.188493143089
+2021,Acute respiratory infections,England,,Male,Undefined,E92000001,320.963214761779
+2021,Acute respiratory infections,England,East,,Undefined,E12000006,307.966163103921
+2021,Acute respiratory infections,England,East,Female,Undefined,E12000006,310.094295872623
+2021,Acute respiratory infections,England,East,Male,Undefined,E12000006,305.755395683453
+2021,Acute respiratory infections,England,East Midlands,,Undefined,E12000004,309.214975102969
+2021,Acute respiratory infections,England,East Midlands,Female,Undefined,E12000004,306.686574391671
+2021,Acute respiratory infections,England,East Midlands,Male,Undefined,E12000004,311.823480432973
+2021,Acute respiratory infections,England,London,,Undefined,E12000007,209.285405724939
+2021,Acute respiratory infections,England,London,Female,Undefined,E12000007,215.716146695812
+2021,Acute respiratory infections,England,London,Male,Undefined,E12000007,202.460456942004
+2021,Acute respiratory infections,England,North East,,Undefined,E12000001,326.809732507178
+2021,Acute respiratory infections,England,North East,Female,Undefined,E12000001,326.560768378279
+2021,Acute respiratory infections,England,North East,Male,Undefined,E12000001,327.095576863594
+2021,Acute respiratory infections,England,North West,,Undefined,E12000002,393.543780229848
+2021,Acute respiratory infections,England,North West,Female,Undefined,E12000002,402.666807767607
+2021,Acute respiratory infections,England,North West,Male,Undefined,E12000002,384.0768702814
+2021,Acute respiratory infections,England,South East,,Undefined,E12000008,335.054874112331
+2021,Acute respiratory infections,England,South East,Female,Undefined,E12000008,346.636884693189
+2021,Acute respiratory infections,England,South East,Male,Undefined,E12000008,322.970714976695
+2021,Acute respiratory infections,England,South West,,Undefined,E12000009,391.401764458759
+2021,Acute respiratory infections,England,South West,Female,Undefined,E12000009,390.207104649568
+2021,Acute respiratory infections,England,South West,Male,Undefined,E12000009,392.647689886998
+2021,Acute respiratory infections,England,West Midlands,,Undefined,E12000005,356.722985455645
+2021,Acute respiratory infections,England,West Midlands,Female,Undefined,E12000005,363.612323152188
+2021,Acute respiratory infections,England,West Midlands,Male,Undefined,E12000005,349.607374530557
+2021,Acute respiratory infections,England,Yorkshire and The Humber,,Undefined,E12000003,347.538949903309
+2021,Acute respiratory infections,England,Yorkshire and The Humber,Female,Undefined,E12000003,357.48826879679
+2021,Acute respiratory infections,England,Yorkshire and The Humber,Male,Undefined,E12000003,337.212328512474
+2021,Acute respiratory infections,Northern Ireland,,,Undefined,N92000002,240.470439987399
+2021,Acute respiratory infections,Northern Ireland,,Female,Undefined,N92000002,258.344528262891
+2021,Acute respiratory infections,Northern Ireland,,Male,Undefined,N92000002,222.03245089667
+2021,Acute respiratory infections,Scotland,,,Undefined,S92000003,268.435555393347
+2021,Acute respiratory infections,Scotland,,Female,Undefined,S92000003,292.808036191358
+2021,Acute respiratory infections,Scotland,,Male,Undefined,S92000003,242.834692808501
+2021,Acute respiratory infections,United Kingdom,,,Undefined,K02000001,323.813189747905
+2021,Acute respiratory infections,United Kingdom,,Female,Undefined,K02000001,331.990834375767
+2021,Acute respiratory infections,United Kingdom,,Male,Undefined,K02000001,315.285799186261
+2021,Acute respiratory infections,Wales,,,Undefined,W92000004,420.235718425968
+2021,Acute respiratory infections,Wales,,Female,Undefined,W92000004,442.706691051271
+2021,Acute respiratory infections,Wales,,Male,Undefined,W92000004,396.788839902612
+2021,Diarrhoea,England,,,Undefined,E92000001,18.3421654014051
+2021,Diarrhoea,England,,Female,Undefined,E92000001,22.4231565011558
+2021,Diarrhoea,England,,Male,Undefined,E92000001,14.088424733494
+2021,Diarrhoea,England,East,,Undefined,E12000006,17.8006017548558
+2021,Diarrhoea,England,East,Female,Undefined,E12000006,22.56917607049
+2021,Diarrhoea,England,East,Male,Undefined,E12000006,12.846865364851
+2021,Diarrhoea,England,East Midlands,,Undefined,E12000004,15.5734513637016
+2021,Diarrhoea,England,East Midlands,Female,Undefined,E12000004,18.1590734837174
+2021,Diarrhoea,England,East Midlands,Male,Undefined,E12000004,12.9059117402165
+2021,Diarrhoea,England,London,,Undefined,E12000007,9.77650455857945
+2021,Diarrhoea,England,London,Female,Undefined,E12000007,11.0397209158552
+2021,Diarrhoea,England,London,Male,Undefined,E12000007,8.43585237258348
+2021,Diarrhoea,England,North East,,Undefined,E12000001,30.9808070122412
+2021,Diarrhoea,England,North East,Female,Undefined,E12000001,39.1577391946805
+2021,Diarrhoea,England,North East,Male,Undefined,E12000001,22.424992267244
+2021,Diarrhoea,England,North West,,Undefined,E12000002,23.1734098594775
+2021,Diarrhoea,England,North West,Female,Undefined,E12000002,28.0438118418964
+2021,Diarrhoea,England,North West,Male,Undefined,E12000002,18.1194234728895
+2021,Diarrhoea,England,South East,,Undefined,E12000008,14.8482892188509
+2021,Diarrhoea,England,South East,Female,Undefined,E12000008,17.9113283884019
+2021,Diarrhoea,England,South East,Male,Undefined,E12000008,11.65244921291
+2021,Diarrhoea,England,South West,,Undefined,E12000009,26.7819633104607
+2021,Diarrhoea,England,South West,Female,Undefined,E12000009,29.8312988616102
+2021,Diarrhoea,England,South West,Male,Undefined,E12000009,23.6017737090545
+2021,Diarrhoea,England,West Midlands,,Undefined,E12000005,17.4666621880353
+2021,Diarrhoea,England,West Midlands,Female,Undefined,E12000005,21.4861827317202
+2021,Diarrhoea,England,West Midlands,Male,Undefined,E12000005,13.3151246159099
+2021,Diarrhoea,England,Yorkshire and The Humber,,Undefined,E12000003,20.6151713066005
+2021,Diarrhoea,England,Yorkshire and The Humber,Female,Undefined,E12000003,29.730988286707
+2021,Diarrhoea,England,Yorkshire and The Humber,Male,Undefined,E12000003,11.1536602595085
+2021,Diarrhoea,Northern Ireland,,,Undefined,N92000002,20.4767405229444
+2021,Diarrhoea,Northern Ireland,,Female,Undefined,N92000002,26.8678309393407
+2021,Diarrhoea,Northern Ireland,,Male,Undefined,N92000002,13.8770281810418
+2021,Diarrhoea,Scotland,,,Undefined,S92000003,10.766619828829
+2021,Diarrhoea,Scotland,,Female,Undefined,S92000003,11.7550671463684
+2021,Diarrhoea,Scotland,,Male,Undefined,S92000003,9.72835441143456
+2021,Diarrhoea,United Kingdom,,,Undefined,K02000001,18.052615167479
+2021,Diarrhoea,United Kingdom,,Female,Undefined,K02000001,21.9203385669359
+2021,Diarrhoea,United Kingdom,,Male,Undefined,K02000001,14.0194748792344
+2021,Diarrhoea,Wales,,,Undefined,W92000004,24.1514780704579
+2021,Diarrhoea,Wales,,Female,Undefined,W92000004,27.7479977297093
+2021,Diarrhoea,Wales,,Male,Undefined,W92000004,20.398762913733
+2021,Intestinal nematode infections,England,,,Undefined,E92000001,0.0
+2021,Intestinal nematode infections,England,,Female,Undefined,E92000001,0.0
+2021,Intestinal nematode infections,England,,Male,Undefined,E92000001,0.0
+2021,Intestinal nematode infections,England,East,,Undefined,E12000006,0.0
+2021,Intestinal nematode infections,England,East,Female,Undefined,E12000006,0.0
+2021,Intestinal nematode infections,England,East,Male,Undefined,E12000006,0.0
+2021,Intestinal nematode infections,England,East Midlands,,Undefined,E12000004,0.0
+2021,Intestinal nematode infections,England,East Midlands,Female,Undefined,E12000004,0.0
+2021,Intestinal nematode infections,England,East Midlands,Male,Undefined,E12000004,0.0
+2021,Intestinal nematode infections,England,London,,Undefined,E12000007,0.0
+2021,Intestinal nematode infections,England,London,Female,Undefined,E12000007,0.0
+2021,Intestinal nematode infections,England,London,Male,Undefined,E12000007,0.0
+2021,Intestinal nematode infections,England,North East,,Undefined,E12000001,0.0
+2021,Intestinal nematode infections,England,North East,Female,Undefined,E12000001,0.0
+2021,Intestinal nematode infections,England,North East,Male,Undefined,E12000001,0.0
+2021,Intestinal nematode infections,England,North West,,Undefined,E12000002,0.0
+2021,Intestinal nematode infections,England,North West,Female,Undefined,E12000002,0.0
+2021,Intestinal nematode infections,England,North West,Male,Undefined,E12000002,0.0
+2021,Intestinal nematode infections,England,South East,,Undefined,E12000008,0.0
+2021,Intestinal nematode infections,England,South East,Female,Undefined,E12000008,0.0
+2021,Intestinal nematode infections,England,South East,Male,Undefined,E12000008,0.0
+2021,Intestinal nematode infections,England,South West,,Undefined,E12000009,0.0
+2021,Intestinal nematode infections,England,South West,Female,Undefined,E12000009,0.0
+2021,Intestinal nematode infections,England,South West,Male,Undefined,E12000009,0.0
+2021,Intestinal nematode infections,England,West Midlands,,Undefined,E12000005,0.0
+2021,Intestinal nematode infections,England,West Midlands,Female,Undefined,E12000005,0.0
+2021,Intestinal nematode infections,England,West Midlands,Male,Undefined,E12000005,0.0
+2021,Intestinal nematode infections,England,Yorkshire and The Humber,,Undefined,E12000003,0.0
+2021,Intestinal nematode infections,England,Yorkshire and The Humber,Female,Undefined,E12000003,0.0
+2021,Intestinal nematode infections,England,Yorkshire and The Humber,Male,Undefined,E12000003,0.0
+2021,Intestinal nematode infections,Northern Ireland,,,Undefined,N92000002,0.0
+2021,Intestinal nematode infections,Northern Ireland,,Female,Undefined,N92000002,0.0
+2021,Intestinal nematode infections,Northern Ireland,,Male,Undefined,N92000002,0.0
+2021,Intestinal nematode infections,Scotland,,,Undefined,S92000003,0.0
+2021,Intestinal nematode infections,Scotland,,Female,Undefined,S92000003,0.0
+2021,Intestinal nematode infections,Scotland,,Male,Undefined,S92000003,0.0
+2021,Intestinal nematode infections,United Kingdom,,,Undefined,K02000001,0.0
+2021,Intestinal nematode infections,United Kingdom,,Female,Undefined,K02000001,0.0
+2021,Intestinal nematode infections,United Kingdom,,Male,Undefined,K02000001,0.0
+2021,Intestinal nematode infections,Wales,,,Undefined,W92000004,0.0
+2021,Intestinal nematode infections,Wales,,Female,Undefined,W92000004,0.0
+2021,Intestinal nematode infections,Wales,,Male,Undefined,W92000004,0.0
+2021,Protein-energy malnutrition,England,,,Undefined,E92000001,1.3619544222837
+2021,Protein-energy malnutrition,England,,Female,Undefined,E92000001,1.55957039034314
+2021,Protein-energy malnutrition,England,,Male,Undefined,E92000001,1.15597331146617
+2021,Protein-energy malnutrition,England,East,,Undefined,E12000006,0.945164694948095
+2021,Protein-energy malnutrition,England,East,Female,Undefined,E12000006,1.85500077291699
+2021,Protein-energy malnutrition,England,East,Male,Undefined,E12000006,0.0
+2021,Protein-energy malnutrition,England,East Midlands,,Undefined,E12000004,2.25405217106207
+2021,Protein-energy malnutrition,England,East Midlands,Female,Undefined,E12000004,1.61413986521932
+2021,Protein-energy malnutrition,England,East Midlands,Male,Undefined,E12000004,2.91423813488759
+2021,Protein-energy malnutrition,England,London,,Undefined,E12000007,1.13680285564877
+2021,Protein-energy malnutrition,England,London,Female,Undefined,E12000007,1.32476650990263
+2021,Protein-energy malnutrition,England,London,Male,Undefined,E12000007,0.937316930287053
+2021,Protein-energy malnutrition,England,North East,,Undefined,E12000001,1.13344415898443
+2021,Protein-energy malnutrition,England,North East,Female,Undefined,E12000001,2.21647580347248
+2021,Protein-energy malnutrition,England,North East,Male,Undefined,E12000001,0.0
+2021,Protein-energy malnutrition,England,North West,,Undefined,E12000002,2.15566603343977
+2021,Protein-energy malnutrition,England,North West,Female,Undefined,E12000002,2.645642626594
+2021,Protein-energy malnutrition,England,North West,Male,Undefined,E12000002,1.64722031571723
+2021,Protein-energy malnutrition,England,South East,,Undefined,E12000008,1.07596298687325
+2021,Protein-energy malnutrition,England,South East,Female,Undefined,E12000008,1.47505057316251
+2021,Protein-energy malnutrition,England,South East,Male,Undefined,E12000008,0.659572596957172
+2021,Protein-energy malnutrition,England,South West,,Undefined,E12000009,0.700182047332306
+2021,Protein-energy malnutrition,England,South West,Female,Undefined,E12000009,1.02866547798656
+2021,Protein-energy malnutrition,England,South West,Male,Undefined,E12000009,0.357602631955371
+2021,Protein-energy malnutrition,England,West Midlands,,Undefined,E12000005,1.34358939907964
+2021,Protein-energy malnutrition,England,West Midlands,Female,Undefined,E12000005,0.991669972233241
+2021,Protein-energy malnutrition,England,West Midlands,Male,Undefined,E12000005,1.70706725844998
+2021,Protein-energy malnutrition,England,Yorkshire and The Humber,,Undefined,E12000003,1.64191629875579
+2021,Protein-energy malnutrition,England,Yorkshire and The Humber,Female,Undefined,E12000003,1.07461403445929
+2021,Protein-energy malnutrition,England,Yorkshire and The Humber,Male,Undefined,E12000003,2.2307320519017
+2021,Protein-energy malnutrition,Northern Ireland,,,Undefined,N92000002,3.15026777276068
+2021,Protein-energy malnutrition,Northern Ireland,,Female,Undefined,N92000002,3.1001343391547
+2021,Protein-energy malnutrition,Northern Ireland,,Male,Undefined,N92000002,3.20239111870196
+2021,Protein-energy malnutrition,Scotland,,,Undefined,S92000003,2.55479114582383
+2021,Protein-energy malnutrition,Scotland,,Female,Undefined,S92000003,2.4934990916539
+2021,Protein-energy malnutrition,Scotland,,Male,Undefined,S92000003,2.61917234154007
+2021,Protein-energy malnutrition,United Kingdom,,,Undefined,K02000001,1.55162973340316
+2021,Protein-energy malnutrition,United Kingdom,,Female,Undefined,K02000001,1.72439996726563
+2021,Protein-energy malnutrition,United Kingdom,,Male,Undefined,K02000001,1.37147036862076
+2021,Protein-energy malnutrition,Wales,,,Undefined,W92000004,2.25413795324274
+2021,Protein-energy malnutrition,Wales,,Female,Undefined,W92000004,2.52254524815539
+2021,Protein-energy malnutrition,Wales,,Male,Undefined,W92000004,1.97407383036126
