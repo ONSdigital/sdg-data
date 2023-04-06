@@ -49,7 +49,7 @@
             "title": "Region"
           },
           {
-            "name": "Local Authority",
+            "name": "Local authority",
             "type": "string",
             "constraints": {
               "enum": [
@@ -212,7 +212,7 @@
                 ""
               ]
             },
-            "title": "Local Authority"
+            "title": "Local authority"
           },
           {
             "name": "Gender",
@@ -246,7 +246,7 @@
             "title": "Ethnicity"
           },
           {
-            "name": "Free School Meals",
+            "name": "Free school meals",
             "type": "string",
             "constraints": {
               "enum": [
@@ -255,7 +255,7 @@
                 ""
               ]
             },
-            "title": "Free School Meals"
+            "title": "Free school meals"
           },
           {
             "name": "Learning category",

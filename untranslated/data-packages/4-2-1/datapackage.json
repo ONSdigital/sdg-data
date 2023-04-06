@@ -46,7 +46,7 @@
             }
           },
           {
-            "name": "Local Authority",
+            "name": "Local authority",
             "type": "string",
             "constraints": {
               "enum": [
@@ -240,7 +240,7 @@
             }
           },
           {
-            "name": "Free School Meals",
+            "name": "Free school meals",
             "type": "string",
             "constraints": {
               "enum": [
