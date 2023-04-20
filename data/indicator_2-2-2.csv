@@ -1,4 +1,4 @@
-Year,Series,Country,Ethnicity,Sex,Type (wasting or overweight),BMI Classifications,IMD Deciles (England),IMD Quintiles,Urban or rural,Observation status,Unit multiplier,Units,GeoCode,Value
+Year,Series,Country,Ethnic group,Sex,Type (wasting or overweight),BMI Classifications,IMD Deciles (England),IMD Quintiles,Urban or rural,Observation status,Unit multiplier,Units,GeoCode,Value
 2006/07,WHO Child Growth Standards,England,,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.522690376125
 2006/07,WHO Child Growth Standards,England,,Female,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.579791462103147
 2006/07,WHO Child Growth Standards,England,,Male,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.468539840666893
@@ -1386,6 +1386,240 @@ Year,Series,Country,Ethnicity,Sex,Type (wasting or overweight),BMI Classificatio
 2020/21,BMI classifications,England,,,,Obese,10 (Least deprived),,,Definition differs,Units,Percentage (%),E92000001,7.8478376349
 2020/21,BMI classifications,England,,,,Overweight,10 (Least deprived),,,Definition differs,Units,Percentage (%),E92000001,11.894502078
 2020/21,BMI classifications,England,,,,Underweight,10 (Least deprived),,,Definition differs,Units,Percentage (%),E92000001,0.7490094536
+2021/22,BMI classifications,England,White,,,Obese,,,,Definition differs,Units,Percentage (%),E92000001,12.271868028315328
+2021/22,BMI classifications,England,White,,,Overweight,,,,Definition differs,Units,Percentage (%),E92000001,12.899426086660347
+2021/22,BMI classifications,England,White,,,Underweight,,,,Definition differs,Units,Percentage (%),E92000001,0.668997893948081
+2021/22,BMI classifications,England,Asian,,,Obese,,,,Definition differs,Units,Percentage (%),E92000001,14.161585365853657
+2021/22,BMI classifications,England,Asian,,,Overweight,,,,Definition differs,Units,Percentage (%),E92000001,8.279132791327914
+2021/22,BMI classifications,England,Asian,,,Underweight,,,,Definition differs,Units,Percentage (%),E92000001,4.26659891598916
+2021/22,BMI classifications,England,Black,,,Obese,,,,Definition differs,Units,Percentage (%),E92000001,21.51957671957672
+2021/22,BMI classifications,England,Black,,,Overweight,,,,Definition differs,Units,Percentage (%),E92000001,13.388359788359788
+2021/22,BMI classifications,England,Black,,,Underweight,,,,Definition differs,Units,Percentage (%),E92000001,1.2317460317460318
+2021/22,BMI classifications,England,Mixed,,,Obese,,,,Definition differs,Units,Percentage (%),E92000001,13.850491336599788
+2021/22,BMI classifications,England,Mixed,,,Overweight,,,,Definition differs,Units,Percentage (%),E92000001,11.586784550953933
+2021/22,BMI classifications,England,Mixed,,,Underweight,,,,Definition differs,Units,Percentage (%),E92000001,1.1688062847288752
+2021/22,BMI classifications,England,Any other ethnic group,,,Obese,,,,Definition differs,Units,Percentage (%),E92000001,15.733714028101284
+2021/22,BMI classifications,England,Any other ethnic group,,,Overweight,,,,Definition differs,Units,Percentage (%),E92000001,12.142159440979787
+2021/22,BMI classifications,England,Any other ethnic group,,,Underweight,,,,Definition differs,Units,Percentage (%),E92000001,1.3900368171913742
+2021/22,BMI classifications,England,Chinese,,,Obese,,,,Definition differs,Units,Percentage (%),E92000001,5.833000399520576
+2021/22,BMI classifications,England,Chinese,,,Overweight,,,,Definition differs,Units,Percentage (%),E92000001,9.069117059528566
+2021/22,BMI classifications,England,Chinese,,,Underweight,,,,Definition differs,Units,Percentage (%),E92000001,1.278465840990811
+2021/22,BMI classifications,England,Not stated,,,Obese,,,,Definition differs,Units,Percentage (%),E92000001,12.1801595238676
+2021/22,BMI classifications,England,Not stated,,,Overweight,,,,Definition differs,Units,Percentage (%),E92000001,11.692318950167085
+2021/22,BMI classifications,England,Not stated,,,Underweight,,,,Definition differs,Units,Percentage (%),E92000001,1.2488718686733176
+2021/22,BMI classifications,England,,Female,,Obese,,,,Definition differs,Units,Percentage (%),E92000001,12.519776357141325
+2021/22,BMI classifications,England,,Female,,Overweight,,,,Definition differs,Units,Percentage (%),E92000001,12.067336258921733
+2021/22,BMI classifications,England,,Female,,Underweight,,,,Definition differs,Units,Percentage (%),E92000001,0.8010766928919656
+2021/22,BMI classifications,England,,Male,,Obese,,,,Definition differs,Units,Percentage (%),E92000001,13.447583704664284
+2021/22,BMI classifications,England,,Male,,Overweight,,,,Definition differs,Units,Percentage (%),E92000001,12.22564045966863
+2021/22,BMI classifications,England,,Male,,Underweight,,,,Definition differs,Units,Percentage (%),E92000001,1.5854567025811526
+2021/22,BMI classifications,England,,,,Obese,,,,Definition differs,Units,Percentage (%),E92000001,12.99229609957107
+2021/22,BMI classifications,England,,,,Overweight,,,,Definition differs,Units,Percentage (%),E92000001,12.14795844882158
+2021/22,BMI classifications,England,,,,Underweight,,,,Definition differs,Units,Percentage (%),E92000001,1.2005508306371437
+2021/22,BMI classifications,England,,,,Obese,1 (Most deprived),,,Definition differs,Units,Percentage (%),E92000001,18.098371786334496
+2021/22,BMI classifications,England,,,,Overweight,1 (Most deprived),,,Definition differs,Units,Percentage (%),E92000001,13.25159622390223
+2021/22,BMI classifications,England,,,,Underweight,1 (Most deprived),,,Definition differs,Units,Percentage (%),E92000001,1.2495593246895687
+2021/22,BMI classifications,England,,,,Obese,2,,,Definition differs,Units,Percentage (%),E92000001,17.0316045746232
+2021/22,BMI classifications,England,,,,Overweight,2,,,Definition differs,Units,Percentage (%),E92000001,12.700440330022092
+2021/22,BMI classifications,England,,,,Underweight,2,,,Definition differs,Units,Percentage (%),E92000001,1.408154370989315
+2021/22,BMI classifications,England,,,,Obese,3,,,Definition differs,Units,Percentage (%),E92000001,15.747028177873837
+2021/22,BMI classifications,England,,,,Overweight,3,,,Definition differs,Units,Percentage (%),E92000001,12.635687672381813
+2021/22,BMI classifications,England,,,,Underweight,3,,,Definition differs,Units,Percentage (%),E92000001,1.4419587412700205
+2021/22,BMI classifications,England,,,,Obese,4,,,Definition differs,Units,Percentage (%),E92000001,14.14428160817572
+2021/22,BMI classifications,England,,,,Overweight,4,,,Definition differs,Units,Percentage (%),E92000001,12.261807600865831
+2021/22,BMI classifications,England,,,,Underweight,4,,,Definition differs,Units,Percentage (%),E92000001,1.2579397466378057
+2021/22,BMI classifications,England,,,,Obese,5,,,Definition differs,Units,Percentage (%),E92000001,12.48636758535278
+2021/22,BMI classifications,England,,,,Overweight,5,,,Definition differs,Units,Percentage (%),E92000001,12.064918020665816
+2021/22,BMI classifications,England,,,,Underweight,5,,,Definition differs,Units,Percentage (%),E92000001,1.2680456200669143
+2021/22,BMI classifications,England,,,,Obese,6,,,Definition differs,Units,Percentage (%),E92000001,11.35031943446868
+2021/22,BMI classifications,England,,,,Overweight,6,,,Definition differs,Units,Percentage (%),E92000001,12.098816769364534
+2021/22,BMI classifications,England,,,,Underweight,6,,,Definition differs,Units,Percentage (%),E92000001,1.141647450194685
+2021/22,BMI classifications,England,,,,Obese,7,,,Definition differs,Units,Percentage (%),E92000001,10.440201800375903
+2021/22,BMI classifications,England,,,,Overweight,7,,,Definition differs,Units,Percentage (%),E92000001,11.82312790582649
+2021/22,BMI classifications,England,,,,Underweight,7,,,Definition differs,Units,Percentage (%),E92000001,1.0762686714808587
+2021/22,BMI classifications,England,,,,Obese,8,,,Definition differs,Units,Percentage (%),E92000001,9.845238095238095
+2021/22,BMI classifications,England,,,,Overweight,8,,,Definition differs,Units,Percentage (%),E92000001,11.609126984126984
+2021/22,BMI classifications,England,,,,Underweight,8,,,Definition differs,Units,Percentage (%),E92000001,0.9623015873015873
+2021/22,BMI classifications,England,,,,Obese,9,,,Definition differs,Units,Percentage (%),E92000001,8.5535368845103
+2021/22,BMI classifications,England,,,,Overweight,9,,,Definition differs,Units,Percentage (%),E92000001,11.411363500388887
+2021/22,BMI classifications,England,,,,Underweight,9,,,Definition differs,Units,Percentage (%),E92000001,1.0051253415232435
+2021/22,BMI classifications,England,,,,Obese,10 (Least deprived),,,Definition differs,Units,Percentage (%),E92000001,7.491896520090514
+2021/22,BMI classifications,England,,,,Overweight,10 (Least deprived),,,Definition differs,Units,Percentage (%),E92000001,10.71290237090494
+2021/22,BMI classifications,England,,,,Underweight,10 (Least deprived),,,Definition differs,Units,Percentage (%),E92000001,1.0294987054818259
+2020/21,WHO Child Growth Standards,England,,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,,Female,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,,Male,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,,,Wasting,,,1 (Most deprived),,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,,,Wasting,,,2,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,,,Wasting,,,3,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,,,Wasting,,,4,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,,,Wasting,,,5 (Least deprived),,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,,,Wasting,,,,Urban,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,,,Wasting,,,,Rural,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,,,Wasting,,,,Unable to categorise,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,White - British,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,White - Irish,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Any other White background,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Indian,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Pakistani,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Bangladeshi,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Chinese,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Any other Asian background,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Black - African,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Black - Caribbean,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Any other Black background,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,White and Black Caribbean,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,White and Black African,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,White and Asian,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Any other Mixed background,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Any other Ethnic group,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Not stated / Invalid,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,,Male,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,,Female,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,,,Overweight,,,1 (Most deprived),,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,,,Overweight,,,2,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,,,Overweight,,,3,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,,,Overweight,,,4,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,,,Overweight,,,5 (Least deprived),,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,,,Overweight,,,,Urban,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,,,Overweight,,,,Rural,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,,,Overweight,,,,Unable to categorise,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,White - British,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,White - Irish,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Any other White background,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,White and Black Caribbean,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,White and Black African,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,White and Asian,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Any other Mixed background,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Indian,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Pakistani,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Bangladeshi,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Chinese,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Any other Asian background,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Black - African,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Black - Caribbean,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Any other Black background,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Any other Ethnic group,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
+2020/21,WHO Child Growth Standards,England,Not stated / Invalid,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
+2021/22,WHO Child Growth Standards,England,,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.369110487336854
+2021/22,WHO Child Growth Standards,England,,Female,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.365664504825968
+2021/22,WHO Child Growth Standards,England,,Male,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.372465707332723
+2021/22,WHO Child Growth Standards,England,,,Wasting,,,1 (Most deprived),,Definition differs,Units,Percentage (%),E92000001,0.438170949266064
+2021/22,WHO Child Growth Standards,England,,,Wasting,,,2,,Definition differs,Units,Percentage (%),E92000001,0.442063462330948
+2021/22,WHO Child Growth Standards,England,,,Wasting,,,3,,Definition differs,Units,Percentage (%),E92000001,0.337492968896481
+2021/22,WHO Child Growth Standards,England,,,Wasting,,,4,,Definition differs,Units,Percentage (%),E92000001,0.297785639119629
+2021/22,WHO Child Growth Standards,England,,,Wasting,,,5 (Least deprived),,Definition differs,Units,Percentage (%),E92000001,0.281046062973372
+2021/22,WHO Child Growth Standards,England,,,Wasting,,,Unable to categorise,,Definition differs,Units,Percentage (%),E92000001,0.689655172413793
+2021/22,WHO Child Growth Standards,England,White - British,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.136147038801906
+2021/22,WHO Child Growth Standards,England,White - Irish,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.0
+2021/22,WHO Child Growth Standards,England,Any other White background,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.267379679144385
+2021/22,WHO Child Growth Standards,England,Indian,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,2.63189376719703
+2021/22,WHO Child Growth Standards,England,Pakistani,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,1.14005005097785
+2021/22,WHO Child Growth Standards,England,Bangladeshi,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,1.23101100052383
+2021/22,WHO Child Growth Standards,England,Chinese,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.0
+2021/22,WHO Child Growth Standards,England,Any other Asian background,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.983675177898702
+2021/22,WHO Child Growth Standards,England,Black - African,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.451947361424963
+2021/22,WHO Child Growth Standards,England,Black - Caribbean,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.572737686139748
+2021/22,WHO Child Growth Standards,England,Any other Black background,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.392156862745098
+2021/22,WHO Child Growth Standards,England,White and Black Caribbean,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.388059701492537
+2021/22,WHO Child Growth Standards,England,White and Black African,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.2322340919647
+2021/22,WHO Child Growth Standards,England,White and Asian,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.487385321100917
+2021/22,WHO Child Growth Standards,England,Any other Mixed background,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.274509803921569
+2021/22,WHO Child Growth Standards,England,Any other Ethnic group,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.374409897444245
+2021/22,WHO Child Growth Standards,England,Not stated / Invalid,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.370572520180403
+2021/22,WHO Child Growth Standards,England,,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,6.9104143869832
+2021/22,WHO Child Growth Standards,England,,Male,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,6.6230036698827
+2021/22,WHO Child Growth Standards,England,,Female,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,7.20559989070248
+2021/22,WHO Child Growth Standards,England,,,Overweight,,,1 (Most deprived),,Definition differs,Units,Percentage (%),E92000001,9.31426246439861
+2021/22,WHO Child Growth Standards,England,,,Overweight,,,2,,Definition differs,Units,Percentage (%),E92000001,7.75109579290451
+2021/22,WHO Child Growth Standards,England,,,Overweight,,,3,,Definition differs,Units,Percentage (%),E92000001,6.54153038478365
+2021/22,WHO Child Growth Standards,England,,,Overweight,,,4,,Definition differs,Units,Percentage (%),E92000001,5.42731119718783
+2021/22,WHO Child Growth Standards,England,,,Overweight,,,5 (Least deprived),,Definition differs,Units,Percentage (%),E92000001,4.16805601867289
+2021/22,WHO Child Growth Standards,England,,,Overweight,,,Unable to categorise,,Definition differs,Units,Percentage (%),E92000001,8.96551724137931
+2021/22,WHO Child Growth Standards,England,White - British,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,6.80217243318436
+2021/22,WHO Child Growth Standards,England,White - Irish,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,6.17495711835334
+2021/22,WHO Child Growth Standards,England,Any other White background,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,5.9452658068575
+2021/22,WHO Child Growth Standards,England,White and Black Caribbean,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,9.07462686567164
+2021/22,WHO Child Growth Standards,England,White and Black African,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,8.54621458430097
+2021/22,WHO Child Growth Standards,England,White and Asian,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,5.01720183486239
+2021/22,WHO Child Growth Standards,England,Any other Mixed background,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,6.61437908496732
+2021/22,WHO Child Growth Standards,England,Indian,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,5.27575068788133
+2021/22,WHO Child Growth Standards,England,Pakistani,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,7.63740847159143
+2021/22,WHO Child Growth Standards,England,Bangladeshi,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,9.66474594028287
+2021/22,WHO Child Growth Standards,England,Chinese,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,3.78640776699029
+2021/22,WHO Child Growth Standards,England,Any other Asian background,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,7.47174550020929
+2021/22,WHO Child Growth Standards,England,Black - African,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,10.6739332713013
+2021/22,WHO Child Growth Standards,England,Black - Caribbean,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,8.13287514318442
+2021/22,WHO Child Growth Standards,England,Any other Black background,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,11.2605042016807
+2021/22,WHO Child Growth Standards,England,Any other Ethnic group,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,8.1230669054208
+2021/22,WHO Child Growth Standards,England,Not stated / Invalid,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,6.38591249892275
+2021/22,WHO Child Growth Standards,England,,,Wasting,,,,Urban,Definition differs,Units,Percentage (%),E92000001,0.407475126445516
+2021/22,WHO Child Growth Standards,England,,,Wasting,,,,Rural,Definition differs,Units,Percentage (%),E92000001,0.17160950378266
+2021/22,WHO Child Growth Standards,England,,,Wasting,,,,Unable to categorise,Definition differs,Units,Percentage (%),E92000001,0.689655172413793
+2021/22,WHO Child Growth Standards,England,,,Overweight,,,,Urban,Definition differs,Units,Percentage (%),E92000001,7.1284401491226
+2021/22,WHO Child Growth Standards,England,,,Overweight,,,,Rural,Definition differs,Units,Percentage (%),E92000001,5.78638242331956
+2021/22,WHO Child Growth Standards,England,,,Overweight,,,,Unable to categorise,Definition differs,Units,Percentage (%),E92000001,8.96551724137931
+2012/13,BMI classifications,Northern Ireland,,,,Obese,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,6.424291351356592
+2012/13,BMI classifications,Northern Ireland,,,,Obese,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,3.766091428504201
+2012/13,BMI classifications,Northern Ireland,,,,Obese,,,,Definition differs,Units,Percentage (%),N92000002,5.251840851432461
+2012/13,BMI classifications,Northern Ireland,,,,Overweight,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,17.430945891622354
+2012/13,BMI classifications,Northern Ireland,,,,Overweight,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,14.870902505577588
+2012/13,BMI classifications,Northern Ireland,,,,Overweight,,,,Definition differs,Units,Percentage (%),N92000002,16.37120227708682
+2013/14,BMI classifications,Northern Ireland,,,,Obese,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,5.99462932350998
+2013/14,BMI classifications,Northern Ireland,,,,Obese,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,3.640659235740859
+2013/14,BMI classifications,Northern Ireland,,,,Obese,,,,Definition differs,Units,Percentage (%),N92000002,5.0454072188801495
+2013/14,BMI classifications,Northern Ireland,,,,Overweight,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,17.380312987220865
+2013/14,BMI classifications,Northern Ireland,,,,Overweight,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,14.591897250189751
+2013/14,BMI classifications,Northern Ireland,,,,Overweight,,,,Definition differs,Units,Percentage (%),N92000002,16.29020129569644
+2014/15,BMI classifications,Northern Ireland,,,,Obese,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,6.333615096800169
+2014/15,BMI classifications,Northern Ireland,,,,Obese,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,3.857204461368712
+2014/15,BMI classifications,Northern Ireland,,,,Obese,,,,Definition differs,Units,Percentage (%),N92000002,5.06114958349463
+2014/15,BMI classifications,Northern Ireland,,,,Overweight,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,17.528071219180173
+2014/15,BMI classifications,Northern Ireland,,,,Overweight,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,14.338110919292902
+2014/15,BMI classifications,Northern Ireland,,,,Overweight,,,,Definition differs,Units,Percentage (%),N92000002,16.311812694452822
+2015/16,BMI classifications,Northern Ireland,,,,Obese,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,6.1514410872204
+2015/16,BMI classifications,Northern Ireland,,,,Obese,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,4.24740354953918
+2015/16,BMI classifications,Northern Ireland,,,,Obese,,,,Definition differs,Units,Percentage (%),N92000002,5.22622895050179
+2015/16,BMI classifications,Northern Ireland,,,,Overweight,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,17.25807545060548
+2015/16,BMI classifications,Northern Ireland,,,,Overweight,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,14.593245438582164
+2015/16,BMI classifications,Northern Ireland,,,,Overweight,,,,Definition differs,Units,Percentage (%),N92000002,16.34489992629133
+2016/17,BMI classifications,Northern Ireland,,,,Obese,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,6.33767569891854
+2016/17,BMI classifications,Northern Ireland,,,,Obese,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,4.39325144979326
+2016/17,BMI classifications,Northern Ireland,,,,Obese,,,,Definition differs,Units,Percentage (%),N92000002,5.3131330182393
+2016/17,BMI classifications,Northern Ireland,,,,Overweight,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,16.80187705733217
+2016/17,BMI classifications,Northern Ireland,,,,Overweight,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,14.644238140373375
+2016/17,BMI classifications,Northern Ireland,,,,Overweight,,,,Definition differs,Units,Percentage (%),N92000002,16.004107584965123
+2017/18,BMI classifications,Northern Ireland,,,,Obese,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,6.22482516338698
+2017/18,BMI classifications,Northern Ireland,,,,Obese,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,4.29287069276738
+2017/18,BMI classifications,Northern Ireland,,,,Obese,,,,Definition differs,Units,Percentage (%),N92000002,5.25927575361149
+2017/18,BMI classifications,Northern Ireland,,,,Overweight,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,16.84959538634897
+2017/18,BMI classifications,Northern Ireland,,,,Overweight,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,14.793469804444271
+2017/18,BMI classifications,Northern Ireland,,,,Overweight,,,,Definition differs,Units,Percentage (%),N92000002,15.89333927130014
+2018/19,BMI classifications,Northern Ireland,,,,Obese,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,6.4670793051566
+2018/19,BMI classifications,Northern Ireland,,,,Obese,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,4.03631361220188
+2018/19,BMI classifications,Northern Ireland,,,,Obese,,,,Definition differs,Units,Percentage (%),N92000002,5.25132670337332
+2018/19,BMI classifications,Northern Ireland,,,,Overweight,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,17.146493318856272
+2018/19,BMI classifications,Northern Ireland,,,,Overweight,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,14.043930819823622
+2018/19,BMI classifications,Northern Ireland,,,,Overweight,,,,Definition differs,Units,Percentage (%),N92000002,15.815157852803502
+2019/20,BMI classifications,Northern Ireland,,,,Obese,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,6.63965779742237
+2019/20,BMI classifications,Northern Ireland,,,,Obese,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,4.0389435894846
+2019/20,BMI classifications,Northern Ireland,,,,Obese,,,,Definition differs,Units,Percentage (%),N92000002,5.31914893617023
+2019/20,BMI classifications,Northern Ireland,,,,Overweight,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,17.76770341777491
+2019/20,BMI classifications,Northern Ireland,,,,Overweight,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,14.394559069533447
+2019/20,BMI classifications,Northern Ireland,,,,Overweight,,,,Definition differs,Units,Percentage (%),N92000002,16.09808871258562
+2020/21,BMI classifications,Northern Ireland,,,,Obese,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,7.6725878080663
+2020/21,BMI classifications,Northern Ireland,,,,Obese,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,4.72468457303452
+2020/21,BMI classifications,Northern Ireland,,,,Obese,,,,Definition differs,Units,Percentage (%),N92000002,6.36913698193894
+2020/21,BMI classifications,Northern Ireland,,,,Overweight,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,18.288933223674082
+2020/21,BMI classifications,Northern Ireland,,,,Overweight,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,15.314960376389797
+2020/21,BMI classifications,Northern Ireland,,,,Overweight,,,,Definition differs,Units,Percentage (%),N92000002,16.86456485146264
+2021/22,BMI classifications,Northern Ireland,,,,Obese,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,8.79420757555917
+2021/22,BMI classifications,Northern Ireland,,,,Obese,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,4.55197803930486
+2021/22,BMI classifications,Northern Ireland,,,,Obese,,,,Definition differs,Units,Percentage (%),N92000002,6.75384029452838
+2021/22,BMI classifications,Northern Ireland,,,,Overweight,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,18.035063046708323
+2021/22,BMI classifications,Northern Ireland,,,,Overweight,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,15.413333702769322
+2021/22,BMI classifications,Northern Ireland,,,,Overweight,,,,Definition differs,Units,Percentage (%),N92000002,16.56214294782279
 2001/02,BMI classifications,Scotland,,Female,,Obese,,,,Definition differs,Units,Percentage (%),S92000003,9.434889434889431
 2001/02,BMI classifications,Scotland,,Female,,Overweight,,,,Definition differs,Units,Percentage (%),S92000003,12.072072072072
 2001/02,BMI classifications,Scotland,,Female,,Underweight,,,,Definition differs,Units,Percentage (%),S92000003,1.44144144144144
@@ -2106,237 +2340,3 @@ Year,Series,Country,Ethnicity,Sex,Type (wasting or overweight),BMI Classificatio
 2018/19,BMI classifications,Wales,,,,Obese,,1 (Most deprived),,Definition differs,Units,Percentage (%),W92000004,15.1882897535343
 2018/19,BMI classifications,Wales,,,,Overweight,,1 (Most deprived),,Definition differs,Units,Percentage (%),W92000004,14.9630927061179
 2018/19,BMI classifications,Wales,,,,Underweight,,1 (Most deprived),,Definition differs,Units,Percentage (%),W92000004,0.775678718879019
-2012/13,BMI classifications,Northern Ireland,,,,Obese,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,6.424291351356592
-2012/13,BMI classifications,Northern Ireland,,,,Obese,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,3.766091428504201
-2012/13,BMI classifications,Northern Ireland,,,,Obese,,,,Definition differs,Units,Percentage (%),N92000002,5.251840851432461
-2012/13,BMI classifications,Northern Ireland,,,,Overweight,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,17.430945891622354
-2012/13,BMI classifications,Northern Ireland,,,,Overweight,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,14.870902505577588
-2012/13,BMI classifications,Northern Ireland,,,,Overweight,,,,Definition differs,Units,Percentage (%),N92000002,16.37120227708682
-2013/14,BMI classifications,Northern Ireland,,,,Obese,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,5.99462932350998
-2013/14,BMI classifications,Northern Ireland,,,,Obese,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,3.640659235740859
-2013/14,BMI classifications,Northern Ireland,,,,Obese,,,,Definition differs,Units,Percentage (%),N92000002,5.0454072188801495
-2013/14,BMI classifications,Northern Ireland,,,,Overweight,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,17.380312987220865
-2013/14,BMI classifications,Northern Ireland,,,,Overweight,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,14.591897250189751
-2013/14,BMI classifications,Northern Ireland,,,,Overweight,,,,Definition differs,Units,Percentage (%),N92000002,16.29020129569644
-2014/15,BMI classifications,Northern Ireland,,,,Obese,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,6.333615096800169
-2014/15,BMI classifications,Northern Ireland,,,,Obese,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,3.857204461368712
-2014/15,BMI classifications,Northern Ireland,,,,Obese,,,,Definition differs,Units,Percentage (%),N92000002,5.06114958349463
-2014/15,BMI classifications,Northern Ireland,,,,Overweight,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,17.528071219180173
-2014/15,BMI classifications,Northern Ireland,,,,Overweight,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,14.338110919292902
-2014/15,BMI classifications,Northern Ireland,,,,Overweight,,,,Definition differs,Units,Percentage (%),N92000002,16.311812694452822
-2015/16,BMI classifications,Northern Ireland,,,,Obese,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,6.1514410872204
-2015/16,BMI classifications,Northern Ireland,,,,Obese,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,4.24740354953918
-2015/16,BMI classifications,Northern Ireland,,,,Obese,,,,Definition differs,Units,Percentage (%),N92000002,5.22622895050179
-2015/16,BMI classifications,Northern Ireland,,,,Overweight,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,17.25807545060548
-2015/16,BMI classifications,Northern Ireland,,,,Overweight,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,14.593245438582164
-2015/16,BMI classifications,Northern Ireland,,,,Overweight,,,,Definition differs,Units,Percentage (%),N92000002,16.34489992629133
-2016/17,BMI classifications,Northern Ireland,,,,Obese,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,6.33767569891854
-2016/17,BMI classifications,Northern Ireland,,,,Obese,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,4.39325144979326
-2016/17,BMI classifications,Northern Ireland,,,,Obese,,,,Definition differs,Units,Percentage (%),N92000002,5.3131330182393
-2016/17,BMI classifications,Northern Ireland,,,,Overweight,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,16.80187705733217
-2016/17,BMI classifications,Northern Ireland,,,,Overweight,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,14.644238140373375
-2016/17,BMI classifications,Northern Ireland,,,,Overweight,,,,Definition differs,Units,Percentage (%),N92000002,16.004107584965123
-2017/18,BMI classifications,Northern Ireland,,,,Obese,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,6.22482516338698
-2017/18,BMI classifications,Northern Ireland,,,,Obese,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,4.29287069276738
-2017/18,BMI classifications,Northern Ireland,,,,Obese,,,,Definition differs,Units,Percentage (%),N92000002,5.25927575361149
-2017/18,BMI classifications,Northern Ireland,,,,Overweight,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,16.84959538634897
-2017/18,BMI classifications,Northern Ireland,,,,Overweight,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,14.793469804444271
-2017/18,BMI classifications,Northern Ireland,,,,Overweight,,,,Definition differs,Units,Percentage (%),N92000002,15.89333927130014
-2018/19,BMI classifications,Northern Ireland,,,,Obese,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,6.4670793051566
-2018/19,BMI classifications,Northern Ireland,,,,Obese,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,4.03631361220188
-2018/19,BMI classifications,Northern Ireland,,,,Obese,,,,Definition differs,Units,Percentage (%),N92000002,5.25132670337332
-2018/19,BMI classifications,Northern Ireland,,,,Overweight,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,17.146493318856272
-2018/19,BMI classifications,Northern Ireland,,,,Overweight,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,14.043930819823622
-2018/19,BMI classifications,Northern Ireland,,,,Overweight,,,,Definition differs,Units,Percentage (%),N92000002,15.815157852803502
-2019/20,BMI classifications,Northern Ireland,,,,Obese,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,6.63965779742237
-2019/20,BMI classifications,Northern Ireland,,,,Obese,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,4.0389435894846
-2019/20,BMI classifications,Northern Ireland,,,,Obese,,,,Definition differs,Units,Percentage (%),N92000002,5.31914893617023
-2019/20,BMI classifications,Northern Ireland,,,,Overweight,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,17.76770341777491
-2019/20,BMI classifications,Northern Ireland,,,,Overweight,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,14.394559069533447
-2019/20,BMI classifications,Northern Ireland,,,,Overweight,,,,Definition differs,Units,Percentage (%),N92000002,16.09808871258562
-2020/21,BMI classifications,Northern Ireland,,,,Obese,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,7.6725878080663
-2020/21,BMI classifications,Northern Ireland,,,,Obese,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,4.72468457303452
-2020/21,BMI classifications,Northern Ireland,,,,Obese,,,,Definition differs,Units,Percentage (%),N92000002,6.36913698193894
-2020/21,BMI classifications,Northern Ireland,,,,Overweight,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,18.288933223674082
-2020/21,BMI classifications,Northern Ireland,,,,Overweight,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,15.314960376389797
-2020/21,BMI classifications,Northern Ireland,,,,Overweight,,,,Definition differs,Units,Percentage (%),N92000002,16.86456485146264
-2021/22,BMI classifications,Northern Ireland,,,,Obese,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,8.79420757555917
-2021/22,BMI classifications,Northern Ireland,,,,Obese,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,4.55197803930486
-2021/22,BMI classifications,Northern Ireland,,,,Obese,,,,Definition differs,Units,Percentage (%),N92000002,6.75384029452838
-2021/22,BMI classifications,Northern Ireland,,,,Overweight,,1 (Most deprived),,Definition differs,Units,Percentage (%),N92000002,18.035063046708323
-2021/22,BMI classifications,Northern Ireland,,,,Overweight,,5 (Least deprived),,Definition differs,Units,Percentage (%),N92000002,15.413333702769322
-2021/22,BMI classifications,Northern Ireland,,,,Overweight,,,,Definition differs,Units,Percentage (%),N92000002,16.56214294782279
-2021/22,BMI classifications,England,White,,,Obese,,,,Definition differs,Units,Percentage (%),E92000001,12.271868028315328
-2021/22,BMI classifications,England,White,,,Overweight,,,,Definition differs,Units,Percentage (%),E92000001,12.899426086660347
-2021/22,BMI classifications,England,White,,,Underweight,,,,Definition differs,Units,Percentage (%),E92000001,0.668997893948081
-2021/22,BMI classifications,England,Asian,,,Obese,,,,Definition differs,Units,Percentage (%),E92000001,14.161585365853657
-2021/22,BMI classifications,England,Asian,,,Overweight,,,,Definition differs,Units,Percentage (%),E92000001,8.279132791327914
-2021/22,BMI classifications,England,Asian,,,Underweight,,,,Definition differs,Units,Percentage (%),E92000001,4.26659891598916
-2021/22,BMI classifications,England,Black,,,Obese,,,,Definition differs,Units,Percentage (%),E92000001,21.51957671957672
-2021/22,BMI classifications,England,Black,,,Overweight,,,,Definition differs,Units,Percentage (%),E92000001,13.388359788359788
-2021/22,BMI classifications,England,Black,,,Underweight,,,,Definition differs,Units,Percentage (%),E92000001,1.2317460317460318
-2021/22,BMI classifications,England,Mixed,,,Obese,,,,Definition differs,Units,Percentage (%),E92000001,13.850491336599788
-2021/22,BMI classifications,England,Mixed,,,Overweight,,,,Definition differs,Units,Percentage (%),E92000001,11.586784550953933
-2021/22,BMI classifications,England,Mixed,,,Underweight,,,,Definition differs,Units,Percentage (%),E92000001,1.1688062847288752
-2021/22,BMI classifications,England,Any other ethnic group,,,Obese,,,,Definition differs,Units,Percentage (%),E92000001,15.733714028101284
-2021/22,BMI classifications,England,Any other ethnic group,,,Overweight,,,,Definition differs,Units,Percentage (%),E92000001,12.142159440979787
-2021/22,BMI classifications,England,Any other ethnic group,,,Underweight,,,,Definition differs,Units,Percentage (%),E92000001,1.3900368171913742
-2021/22,BMI classifications,England,Chinese,,,Obese,,,,Definition differs,Units,Percentage (%),E92000001,5.833000399520576
-2021/22,BMI classifications,England,Chinese,,,Overweight,,,,Definition differs,Units,Percentage (%),E92000001,9.069117059528566
-2021/22,BMI classifications,England,Chinese,,,Underweight,,,,Definition differs,Units,Percentage (%),E92000001,1.278465840990811
-2021/22,BMI classifications,England,Not stated,,,Obese,,,,Definition differs,Units,Percentage (%),E92000001,12.1801595238676
-2021/22,BMI classifications,England,Not stated,,,Overweight,,,,Definition differs,Units,Percentage (%),E92000001,11.692318950167085
-2021/22,BMI classifications,England,Not stated,,,Underweight,,,,Definition differs,Units,Percentage (%),E92000001,1.2488718686733176
-2021/22,BMI classifications,England,,Female,,Obese,,,,Definition differs,Units,Percentage (%),E92000001,12.519776357141325
-2021/22,BMI classifications,England,,Female,,Overweight,,,,Definition differs,Units,Percentage (%),E92000001,12.067336258921733
-2021/22,BMI classifications,England,,Female,,Underweight,,,,Definition differs,Units,Percentage (%),E92000001,0.8010766928919656
-2021/22,BMI classifications,England,,Male,,Obese,,,,Definition differs,Units,Percentage (%),E92000001,13.447583704664284
-2021/22,BMI classifications,England,,Male,,Overweight,,,,Definition differs,Units,Percentage (%),E92000001,12.22564045966863
-2021/22,BMI classifications,England,,Male,,Underweight,,,,Definition differs,Units,Percentage (%),E92000001,1.5854567025811526
-2021/22,BMI classifications,England,,,,Obese,,,,Definition differs,Units,Percentage (%),E92000001,12.99229609957107
-2021/22,BMI classifications,England,,,,Overweight,,,,Definition differs,Units,Percentage (%),E92000001,12.14795844882158
-2021/22,BMI classifications,England,,,,Underweight,,,,Definition differs,Units,Percentage (%),E92000001,1.2005508306371437
-2021/22,BMI classifications,England,,,,Obese,1 (Most deprived),,,Definition differs,Units,Percentage (%),E92000001,18.098371786334496
-2021/22,BMI classifications,England,,,,Overweight,1 (Most deprived),,,Definition differs,Units,Percentage (%),E92000001,13.25159622390223
-2021/22,BMI classifications,England,,,,Underweight,1 (Most deprived),,,Definition differs,Units,Percentage (%),E92000001,1.2495593246895687
-2021/22,BMI classifications,England,,,,Obese,2,,,Definition differs,Units,Percentage (%),E92000001,17.0316045746232
-2021/22,BMI classifications,England,,,,Overweight,2,,,Definition differs,Units,Percentage (%),E92000001,12.700440330022092
-2021/22,BMI classifications,England,,,,Underweight,2,,,Definition differs,Units,Percentage (%),E92000001,1.408154370989315
-2021/22,BMI classifications,England,,,,Obese,3,,,Definition differs,Units,Percentage (%),E92000001,15.747028177873837
-2021/22,BMI classifications,England,,,,Overweight,3,,,Definition differs,Units,Percentage (%),E92000001,12.635687672381813
-2021/22,BMI classifications,England,,,,Underweight,3,,,Definition differs,Units,Percentage (%),E92000001,1.4419587412700205
-2021/22,BMI classifications,England,,,,Obese,4,,,Definition differs,Units,Percentage (%),E92000001,14.14428160817572
-2021/22,BMI classifications,England,,,,Overweight,4,,,Definition differs,Units,Percentage (%),E92000001,12.261807600865831
-2021/22,BMI classifications,England,,,,Underweight,4,,,Definition differs,Units,Percentage (%),E92000001,1.2579397466378057
-2021/22,BMI classifications,England,,,,Obese,5,,,Definition differs,Units,Percentage (%),E92000001,12.48636758535278
-2021/22,BMI classifications,England,,,,Overweight,5,,,Definition differs,Units,Percentage (%),E92000001,12.064918020665816
-2021/22,BMI classifications,England,,,,Underweight,5,,,Definition differs,Units,Percentage (%),E92000001,1.2680456200669143
-2021/22,BMI classifications,England,,,,Obese,6,,,Definition differs,Units,Percentage (%),E92000001,11.35031943446868
-2021/22,BMI classifications,England,,,,Overweight,6,,,Definition differs,Units,Percentage (%),E92000001,12.098816769364534
-2021/22,BMI classifications,England,,,,Underweight,6,,,Definition differs,Units,Percentage (%),E92000001,1.141647450194685
-2021/22,BMI classifications,England,,,,Obese,7,,,Definition differs,Units,Percentage (%),E92000001,10.440201800375903
-2021/22,BMI classifications,England,,,,Overweight,7,,,Definition differs,Units,Percentage (%),E92000001,11.82312790582649
-2021/22,BMI classifications,England,,,,Underweight,7,,,Definition differs,Units,Percentage (%),E92000001,1.0762686714808587
-2021/22,BMI classifications,England,,,,Obese,8,,,Definition differs,Units,Percentage (%),E92000001,9.845238095238095
-2021/22,BMI classifications,England,,,,Overweight,8,,,Definition differs,Units,Percentage (%),E92000001,11.609126984126984
-2021/22,BMI classifications,England,,,,Underweight,8,,,Definition differs,Units,Percentage (%),E92000001,0.9623015873015873
-2021/22,BMI classifications,England,,,,Obese,9,,,Definition differs,Units,Percentage (%),E92000001,8.5535368845103
-2021/22,BMI classifications,England,,,,Overweight,9,,,Definition differs,Units,Percentage (%),E92000001,11.411363500388887
-2021/22,BMI classifications,England,,,,Underweight,9,,,Definition differs,Units,Percentage (%),E92000001,1.0051253415232435
-2021/22,BMI classifications,England,,,,Obese,10 (Least deprived),,,Definition differs,Units,Percentage (%),E92000001,7.491896520090514
-2021/22,BMI classifications,England,,,,Overweight,10 (Least deprived),,,Definition differs,Units,Percentage (%),E92000001,10.71290237090494
-2021/22,BMI classifications,England,,,,Underweight,10 (Least deprived),,,Definition differs,Units,Percentage (%),E92000001,1.0294987054818259
-2020/21,WHO Child Growth Standards,England,,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,,Female,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,,Male,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,,,Wasting,,,1 (Most deprived),,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,,,Wasting,,,2,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,,,Wasting,,,3,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,,,Wasting,,,4,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,,,Wasting,,,5 (Least deprived),,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,,,Wasting,,,,Urban,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,,,Wasting,,,,Rural,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,,,Wasting,,,,Unable to categorise,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,White - British,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,White - Irish,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Any other White background,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Indian,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Pakistani,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Bangladeshi,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Chinese,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Any other Asian background,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Black - African,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Black - Caribbean,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Any other Black background,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,White and Black Caribbean,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,White and Black African,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,White and Asian,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Any other Mixed background,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Any other Ethnic group,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Not stated / Invalid,,Wasting,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,,Male,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,,Female,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,,,Overweight,,,1 (Most deprived),,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,,,Overweight,,,2,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,,,Overweight,,,3,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,,,Overweight,,,4,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,,,Overweight,,,5 (Least deprived),,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,,,Overweight,,,,Urban,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,,,Overweight,,,,Rural,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,,,Overweight,,,,Unable to categorise,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,White - British,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,White - Irish,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Any other White background,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,White and Black Caribbean,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,White and Black African,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,White and Asian,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Any other Mixed background,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Indian,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Pakistani,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Bangladeshi,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Chinese,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Any other Asian background,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Black - African,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Black - Caribbean,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Any other Black background,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Any other Ethnic group,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
-2020/21,WHO Child Growth Standards,England,Not stated / Invalid,,Overweight,,,,,Missing value,Units,Percentage (%),E92000001,
-2021/22,WHO Child Growth Standards,England,,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.369110487336854
-2021/22,WHO Child Growth Standards,England,,Female,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.365664504825968
-2021/22,WHO Child Growth Standards,England,,Male,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.372465707332723
-2021/22,WHO Child Growth Standards,England,,,Wasting,,,1 (Most deprived),,Definition differs,Units,Percentage (%),E92000001,0.438170949266064
-2021/22,WHO Child Growth Standards,England,,,Wasting,,,2,,Definition differs,Units,Percentage (%),E92000001,0.442063462330948
-2021/22,WHO Child Growth Standards,England,,,Wasting,,,3,,Definition differs,Units,Percentage (%),E92000001,0.337492968896481
-2021/22,WHO Child Growth Standards,England,,,Wasting,,,4,,Definition differs,Units,Percentage (%),E92000001,0.297785639119629
-2021/22,WHO Child Growth Standards,England,,,Wasting,,,5 (Least deprived),,Definition differs,Units,Percentage (%),E92000001,0.281046062973372
-2021/22,WHO Child Growth Standards,England,,,Wasting,,,Unable to categorise,,Definition differs,Units,Percentage (%),E92000001,0.689655172413793
-2021/22,WHO Child Growth Standards,England,White - British,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.136147038801906
-2021/22,WHO Child Growth Standards,England,White - Irish,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.0
-2021/22,WHO Child Growth Standards,England,Any other White background,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.267379679144385
-2021/22,WHO Child Growth Standards,England,Indian,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,2.63189376719703
-2021/22,WHO Child Growth Standards,England,Pakistani,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,1.14005005097785
-2021/22,WHO Child Growth Standards,England,Bangladeshi,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,1.23101100052383
-2021/22,WHO Child Growth Standards,England,Chinese,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.0
-2021/22,WHO Child Growth Standards,England,Any other Asian background,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.983675177898702
-2021/22,WHO Child Growth Standards,England,Black - African,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.451947361424963
-2021/22,WHO Child Growth Standards,England,Black - Caribbean,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.572737686139748
-2021/22,WHO Child Growth Standards,England,Any other Black background,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.392156862745098
-2021/22,WHO Child Growth Standards,England,White and Black Caribbean,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.388059701492537
-2021/22,WHO Child Growth Standards,England,White and Black African,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.2322340919647
-2021/22,WHO Child Growth Standards,England,White and Asian,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.487385321100917
-2021/22,WHO Child Growth Standards,England,Any other Mixed background,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.274509803921569
-2021/22,WHO Child Growth Standards,England,Any other Ethnic group,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.374409897444245
-2021/22,WHO Child Growth Standards,England,Not stated / Invalid,,Wasting,,,,,Definition differs,Units,Percentage (%),E92000001,0.370572520180403
-2021/22,WHO Child Growth Standards,England,,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,6.9104143869832
-2021/22,WHO Child Growth Standards,England,,Male,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,6.6230036698827
-2021/22,WHO Child Growth Standards,England,,Female,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,7.20559989070248
-2021/22,WHO Child Growth Standards,England,,,Overweight,,,1 (Most deprived),,Definition differs,Units,Percentage (%),E92000001,9.31426246439861
-2021/22,WHO Child Growth Standards,England,,,Overweight,,,2,,Definition differs,Units,Percentage (%),E92000001,7.75109579290451
-2021/22,WHO Child Growth Standards,England,,,Overweight,,,3,,Definition differs,Units,Percentage (%),E92000001,6.54153038478365
-2021/22,WHO Child Growth Standards,England,,,Overweight,,,4,,Definition differs,Units,Percentage (%),E92000001,5.42731119718783
-2021/22,WHO Child Growth Standards,England,,,Overweight,,,5 (Least deprived),,Definition differs,Units,Percentage (%),E92000001,4.16805601867289
-2021/22,WHO Child Growth Standards,England,,,Overweight,,,Unable to categorise,,Definition differs,Units,Percentage (%),E92000001,8.96551724137931
-2021/22,WHO Child Growth Standards,England,White - British,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,6.80217243318436
-2021/22,WHO Child Growth Standards,England,White - Irish,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,6.17495711835334
-2021/22,WHO Child Growth Standards,England,Any other White background,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,5.9452658068575
-2021/22,WHO Child Growth Standards,England,White and Black Caribbean,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,9.07462686567164
-2021/22,WHO Child Growth Standards,England,White and Black African,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,8.54621458430097
-2021/22,WHO Child Growth Standards,England,White and Asian,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,5.01720183486239
-2021/22,WHO Child Growth Standards,England,Any other Mixed background,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,6.61437908496732
-2021/22,WHO Child Growth Standards,England,Indian,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,5.27575068788133
-2021/22,WHO Child Growth Standards,England,Pakistani,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,7.63740847159143
-2021/22,WHO Child Growth Standards,England,Bangladeshi,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,9.66474594028287
-2021/22,WHO Child Growth Standards,England,Chinese,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,3.78640776699029
-2021/22,WHO Child Growth Standards,England,Any other Asian background,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,7.47174550020929
-2021/22,WHO Child Growth Standards,England,Black - African,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,10.6739332713013
-2021/22,WHO Child Growth Standards,England,Black - Caribbean,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,8.13287514318442
-2021/22,WHO Child Growth Standards,England,Any other Black background,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,11.2605042016807
-2021/22,WHO Child Growth Standards,England,Any other Ethnic group,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,8.1230669054208
-2021/22,WHO Child Growth Standards,England,Not stated / Invalid,,Overweight,,,,,Definition differs,Units,Percentage (%),E92000001,6.38591249892275
-2021/22,WHO Child Growth Standards,England,,,Wasting,,,,Urban,Definition differs,Units,Percentage (%),E92000001,0.407475126445516
-2021/22,WHO Child Growth Standards,England,,,Wasting,,,,Rural,Definition differs,Units,Percentage (%),E92000001,0.17160950378266
-2021/22,WHO Child Growth Standards,England,,,Wasting,,,,Unable to categorise,Definition differs,Units,Percentage (%),E92000001,0.689655172413793
-2021/22,WHO Child Growth Standards,England,,,Overweight,,,,Urban,Definition differs,Units,Percentage (%),E92000001,7.1284401491226
-2021/22,WHO Child Growth Standards,England,,,Overweight,,,,Rural,Definition differs,Units,Percentage (%),E92000001,5.78638242331956
-2021/22,WHO Child Growth Standards,England,,,Overweight,,,,Unable to categorise,Definition differs,Units,Percentage (%),E92000001,8.96551724137931
