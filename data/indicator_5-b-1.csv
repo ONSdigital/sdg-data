@@ -1,4 +1,4 @@
-Year,Series,Sex,Age,Country,Deprivation level,Household income (£),Region,Socio-economic classification,Urban or rural,Working status,Unit measure,Unit multiplier,Observation status,GeoCode,Value
+Year,Series,Sex,Age,Country,Deprivation level,Household income,Region,Socio-economic classification,Urban or rural,Working status,Unit measure,Unit multiplier,Observation status,GeoCode,Value
 2008,Percentage of individuals who use a mobile telephone,Female,,,,,,,,,Percentage (%),Units,Normal value,,86.0
 2008,Percentage of individuals who use a mobile telephone,Male,,,,,,,,,Percentage (%),Units,Normal value,,83.0
 2008,Percentage of individuals who use a mobile telephone,,16 to 24,,,,,,,,Percentage (%),Units,Normal value,,95.0
@@ -13,9 +13,9 @@ Year,Series,Sex,Age,Country,Deprivation level,Household income (£),Region,Socio
 2008,Percentage of individuals who use a mobile telephone,,,,,,,,Rural,,Percentage (%),Units,Normal value,,84.0
 2008,Percentage of individuals who use a mobile telephone,,,,,,,,Urban,,Percentage (%),Units,Normal value,,84.0
 2008,Percentage of individuals who use a mobile telephone,,,,,,,AB,,,Percentage (%),Units,Normal value,,89.0
-2008,Percentage of individuals who use a mobile telephone,,,,,,,DE,,,Percentage (%),Units,Normal value,,76.0
-2008,Percentage of individuals who use a mobile telephone,,,,,,,C2,,,Percentage (%),Units,Normal value,,87.0
 2008,Percentage of individuals who use a mobile telephone,,,,,,,C1,,,Percentage (%),Units,Normal value,,86.0
+2008,Percentage of individuals who use a mobile telephone,,,,,,,C2,,,Percentage (%),Units,Normal value,,87.0
+2008,Percentage of individuals who use a mobile telephone,,,,,,,DE,,,Percentage (%),Units,Normal value,,76.0
 2008,Percentage of individuals who use a mobile telephone,,,,,,,,,,Percentage (%),Units,Normal value,,84.0
 2009,Percentage of individuals who use a mobile telephone,Female,,,,,,,,,Percentage (%),Units,Normal value,,89.0
 2009,Percentage of individuals who use a mobile telephone,Male,,,,,,,,,Percentage (%),Units,Normal value,,89.0
@@ -215,19 +215,19 @@ Year,Series,Sex,Age,Country,Deprivation level,Household income (£),Region,Socio
 2015,Percentage of individuals who use a smartphone,,,,,,,C2,,,Percentage (%),Units,Normal value,,69.0
 2015,Percentage of individuals who use a smartphone,,,,,,,C1,,,Percentage (%),Units,Normal value,,75.0
 2015,Percentage of individuals who use a smartphone,,,,,,,,,,Percentage (%),Units,Normal value,,71.0
-2015,Percentage of individuals who use a smartphone,,,,,,London,,,,Percentage (%),Units,Missing value,E12000007,81.0
-2015,Percentage of individuals who use a smartphone,,,,,,South East,,,,Percentage (%),Units,Missing value,E12000008,65.0
-2015,Percentage of individuals who use a smartphone,,,,,,South West,,,,Percentage (%),Units,Missing value,E12000009,78.0
+2015,Percentage of individuals who use a smartphone,,,,,,North East,,,,Percentage (%),Units,Missing value,E12000001,69.0
+2015,Percentage of individuals who use a smartphone,,,,,,North West,,,,Percentage (%),Units,Missing value,E12000002,73.0
+2015,Percentage of individuals who use a smartphone,,,,,,Yorkshire and The Humber,,,,Percentage (%),Units,Missing value,E12000003,69.0
 2015,Percentage of individuals who use a smartphone,,,,,,East Midlands,,,,Percentage (%),Units,Missing value,E12000004,66.0
 2015,Percentage of individuals who use a smartphone,,,,,,West Midlands,,,,Percentage (%),Units,Missing value,E12000005,69.0
 2015,Percentage of individuals who use a smartphone,,,,,,East of England,,,,Percentage (%),Units,Missing value,E12000006,72.0
-2015,Percentage of individuals who use a smartphone,,,,,,Yorkshire and The Humber,,,,Percentage (%),Units,Missing value,E12000003,69.0
-2015,Percentage of individuals who use a smartphone,,,,,,North East,,,,Percentage (%),Units,Missing value,E12000001,69.0
-2015,Percentage of individuals who use a smartphone,,,,,,North West,,,,Percentage (%),Units,Missing value,E12000002,73.0
-2015,Percentage of individuals who use a smartphone,,,,,Under 11.5K,,,,,Percentage (%),Units,Normal value,,55.0
-2015,Percentage of individuals who use a smartphone,,,,,11.5K- 17.5K,,,,,Percentage (%),Units,Normal value,,63.0
-2015,Percentage of individuals who use a smartphone,,,,,17.5K- 29.9K,,,,,Percentage (%),Units,Normal value,,74.0
-2015,Percentage of individuals who use a smartphone,,,,,30K+,,,,,Percentage (%),Units,Normal value,,83.0
+2015,Percentage of individuals who use a smartphone,,,,,,London,,,,Percentage (%),Units,Missing value,E12000007,81.0
+2015,Percentage of individuals who use a smartphone,,,,,,South East,,,,Percentage (%),Units,Missing value,E12000008,65.0
+2015,Percentage of individuals who use a smartphone,,,,,,South West,,,,Percentage (%),Units,Missing value,E12000009,78.0
+2015,Percentage of individuals who use a smartphone,,,,,"Less than £11,500",,,,,Percentage (%),Units,Normal value,,55.0
+2015,Percentage of individuals who use a smartphone,,,,,"£11,500 to less than £17,500",,,,,Percentage (%),Units,Normal value,,63.0
+2015,Percentage of individuals who use a smartphone,,,,,"£17,500 to less than £30,000",,,,,Percentage (%),Units,Normal value,,74.0
+2015,Percentage of individuals who use a smartphone,,,,,"£30,000 or more",,,,,Percentage (%),Units,Normal value,,83.0
 2015,Percentage of individuals who use a smartphone,,,,,,,,,Working,Percentage (%),Units,Normal value,,82.0
 2015,Percentage of individuals who use a smartphone,,,,,,,,,Not-working,Percentage (%),Units,Normal value,,54.0
 2015,Percentage of individuals who use a smartphone,,,,Low,,,,,,Percentage (%),Units,Normal value,,70.0
@@ -259,10 +259,10 @@ Year,Series,Sex,Age,Country,Deprivation level,Household income (£),Region,Socio
 2015,Percentage of individuals who use a mobile telephone,,,,,,Yorkshire and The Humber,,,,Percentage (%),Units,Missing value,E12000003,89.0
 2015,Percentage of individuals who use a mobile telephone,,,,,,North East,,,,Percentage (%),Units,Missing value,E12000001,94.0
 2015,Percentage of individuals who use a mobile telephone,,,,,,North West,,,,Percentage (%),Units,Missing value,E12000002,90.0
-2015,Percentage of individuals who use a mobile telephone,,,,,Under 11.5K,,,,,Percentage (%),Units,Normal value,,83.0
-2015,Percentage of individuals who use a mobile telephone,,,,,11.5K- 17.5K,,,,,Percentage (%),Units,Normal value,,92.0
-2015,Percentage of individuals who use a mobile telephone,,,,,17.5K- 29.9K,,,,,Percentage (%),Units,Normal value,,95.0
-2015,Percentage of individuals who use a mobile telephone,,,,,30K+,,,,,Percentage (%),Units,Normal value,,99.0
+2015,Percentage of individuals who use a mobile telephone,,,,,"Less than £11,500",,,,,Percentage (%),Units,Normal value,,83.0
+2015,Percentage of individuals who use a mobile telephone,,,,,"£11,500 to less than £17,500",,,,,Percentage (%),Units,Normal value,,92.0
+2015,Percentage of individuals who use a mobile telephone,,,,,"£17,500 to less than £30,000",,,,,Percentage (%),Units,Normal value,,95.0
+2015,Percentage of individuals who use a mobile telephone,,,,,"£30,000 or more",,,,,Percentage (%),Units,Normal value,,99.0
 2015,Percentage of individuals who use a mobile telephone,,,,,,,,,Working,Percentage (%),Units,Normal value,,98.0
 2015,Percentage of individuals who use a mobile telephone,,,,,,,,,Not-working,Percentage (%),Units,Normal value,,85.0
 2015,Percentage of individuals who use a mobile telephone,,,,Low,,,,,,Percentage (%),Units,Normal value,,93.0
@@ -294,10 +294,10 @@ Year,Series,Sex,Age,Country,Deprivation level,Household income (£),Region,Socio
 2016,Percentage of individuals who use a smartphone,,,,,,Yorkshire and The Humber,,,,Percentage (%),Units,Normal value,E12000003,78.0
 2016,Percentage of individuals who use a smartphone,,,,,,North East,,,,Percentage (%),Units,Normal value,E12000001,71.0
 2016,Percentage of individuals who use a smartphone,,,,,,North West,,,,Percentage (%),Units,Normal value,E12000002,73.0
-2016,Percentage of individuals who use a smartphone,,,,,Under 11.5K,,,,,Percentage (%),Units,Normal value,,60.0
-2016,Percentage of individuals who use a smartphone,,,,,11.5K- 17.5K,,,,,Percentage (%),Units,Normal value,,65.0
-2016,Percentage of individuals who use a smartphone,,,,,17.5K- 29.9K,,,,,Percentage (%),Units,Normal value,,82.0
-2016,Percentage of individuals who use a smartphone,,,,,30K+,,,,,Percentage (%),Units,Normal value,,89.0
+2016,Percentage of individuals who use a smartphone,,,,,"Less than £11,500",,,,,Percentage (%),Units,Normal value,,60.0
+2016,Percentage of individuals who use a smartphone,,,,,"£11,500 to less than £17,500",,,,,Percentage (%),Units,Normal value,,65.0
+2016,Percentage of individuals who use a smartphone,,,,,"£17,500 to less than £30,000",,,,,Percentage (%),Units,Normal value,,82.0
+2016,Percentage of individuals who use a smartphone,,,,,"£30,000 or more",,,,,Percentage (%),Units,Normal value,,89.0
 2016,Percentage of individuals who use a smartphone,,,,,,,,,Working,Percentage (%),Units,Normal value,,87.0
 2016,Percentage of individuals who use a smartphone,,,,,,,,,Not-working,Percentage (%),Units,Normal value,,59.0
 2016,Percentage of individuals who use a smartphone,,,,Low,,,,,,Percentage (%),Units,Normal value,,75.0
@@ -329,10 +329,10 @@ Year,Series,Sex,Age,Country,Deprivation level,Household income (£),Region,Socio
 2016,Percentage of individuals who use a mobile telephone,,,,,,Yorkshire and The Humber,,,,Percentage (%),Units,Normal value,E12000003,94.0
 2016,Percentage of individuals who use a mobile telephone,,,,,,North East,,,,Percentage (%),Units,Normal value,E12000001,91.0
 2016,Percentage of individuals who use a mobile telephone,,,,,,North West,,,,Percentage (%),Units,Normal value,E12000002,95.0
-2016,Percentage of individuals who use a mobile telephone,,,,,Under 10.4K,,,,,Percentage (%),Units,Normal value,,88.0
-2016,Percentage of individuals who use a mobile telephone,,,,,10.4K- 15.59K,,,,,Percentage (%),Units,Normal value,,92.0
-2016,Percentage of individuals who use a mobile telephone,,,,,15.6K- 25.99K,,,,,Percentage (%),Units,Normal value,,95.0
-2016,Percentage of individuals who use a mobile telephone,,,,,26K+,,,,,Percentage (%),Units,Normal value,,99.0
+2016,Percentage of individuals who use a mobile telephone,,,,,"Less than £10,400",,,,,Percentage (%),Units,Normal value,,88.0
+2016,Percentage of individuals who use a mobile telephone,,,,,"£10,400 to less than £15,600",,,,,Percentage (%),Units,Normal value,,92.0
+2016,Percentage of individuals who use a mobile telephone,,,,,"£15,600 to less than £26,000",,,,,Percentage (%),Units,Normal value,,95.0
+2016,Percentage of individuals who use a mobile telephone,,,,,"£26,000 or more",,,,,Percentage (%),Units,Normal value,,99.0
 2016,Percentage of individuals who use a mobile telephone,,,,,,,,,Working,Percentage (%),Units,Normal value,,98.0
 2016,Percentage of individuals who use a mobile telephone,,,,,,,,,Not-working,Percentage (%),Units,Normal value,,87.0
 2016,Percentage of individuals who use a mobile telephone,,,,Low,,,,,,Percentage (%),Units,Normal value,,93.0
@@ -364,10 +364,10 @@ Year,Series,Sex,Age,Country,Deprivation level,Household income (£),Region,Socio
 2017,Percentage of individuals who use a smartphone,,,,,,Yorkshire and The Humber,,,,Percentage (%),Units,Normal value,E12000003,82.0
 2017,Percentage of individuals who use a smartphone,,,,,,North East,,,,Percentage (%),Units,Normal value,E12000001,75.0
 2017,Percentage of individuals who use a smartphone,,,,,,North West,,,,Percentage (%),Units,Normal value,E12000002,80.0
-2017,Percentage of individuals who use a smartphone,,,,,Under 10.4K,,,,,Percentage (%),Units,Normal value,,62.0
-2017,Percentage of individuals who use a smartphone,,,,,10.4K- 15.59K,,,,,Percentage (%),Units,Normal value,,67.0
-2017,Percentage of individuals who use a smartphone,,,,,15.6K- 25.99K,,,,,Percentage (%),Units,Normal value,,77.0
-2017,Percentage of individuals who use a smartphone,,,,,26K+,,,,,Percentage (%),Units,Normal value,,93.0
+2017,Percentage of individuals who use a smartphone,,,,,"Less than £10,400",,,,,Percentage (%),Units,Normal value,,62.0
+2017,Percentage of individuals who use a smartphone,,,,,"£10,400 to less than £15,600",,,,,Percentage (%),Units,Normal value,,67.0
+2017,Percentage of individuals who use a smartphone,,,,,"£15,600 to less than £26,000",,,,,Percentage (%),Units,Normal value,,77.0
+2017,Percentage of individuals who use a smartphone,,,,,"£26,000 or more",,,,,Percentage (%),Units,Normal value,,93.0
 2017,Percentage of individuals who use a smartphone,,,,,,,,,Working,Percentage (%),Units,Normal value,,91.0
 2017,Percentage of individuals who use a smartphone,,,,,,,,,Not-working,Percentage (%),Units,Normal value,,66.0
 2017,Percentage of individuals who use a smartphone,,,,Low,,,,,,Percentage (%),Units,Normal value,,80.0
@@ -399,10 +399,10 @@ Year,Series,Sex,Age,Country,Deprivation level,Household income (£),Region,Socio
 2017,Percentage of individuals who use a mobile telephone,,,,,,Yorkshire and The Humber,,,,Percentage (%),Units,Normal value,E12000003,95.0
 2017,Percentage of individuals who use a mobile telephone,,,,,,North East,,,,Percentage (%),Units,Normal value,E12000001,92.0
 2017,Percentage of individuals who use a mobile telephone,,,,,,North West,,,,Percentage (%),Units,Normal value,E12000002,94.0
-2017,Percentage of individuals who use a mobile telephone,,,,,Under 10.4K,,,,,Percentage (%),Units,Normal value,,85.0
-2017,Percentage of individuals who use a mobile telephone,,,,,10.4K- 15.59K,,,,,Percentage (%),Units,Normal value,,88.0
-2017,Percentage of individuals who use a mobile telephone,,,,,15.6K- 25.99K,,,,,Percentage (%),Units,Normal value,,95.0
-2017,Percentage of individuals who use a mobile telephone,,,,,26K+,,,,,Percentage (%),Units,Normal value,,99.0
+2017,Percentage of individuals who use a mobile telephone,,,,,"Less than £10,400",,,,,Percentage (%),Units,Normal value,,85.0
+2017,Percentage of individuals who use a mobile telephone,,,,,"£10,400 to less than £15,600",,,,,Percentage (%),Units,Normal value,,88.0
+2017,Percentage of individuals who use a mobile telephone,,,,,"£15,600 to less than £26,000",,,,,Percentage (%),Units,Normal value,,95.0
+2017,Percentage of individuals who use a mobile telephone,,,,,"£26,000 or more",,,,,Percentage (%),Units,Normal value,,99.0
 2017,Percentage of individuals who use a mobile telephone,,,,,,,,,Working,Percentage (%),Units,Normal value,,99.0
 2017,Percentage of individuals who use a mobile telephone,,,,,,,,,Not-working,Percentage (%),Units,Normal value,,87.0
 2017,Percentage of individuals who use a mobile telephone,,,,Low,,,,,,Percentage (%),Units,Normal value,,94.0
@@ -434,10 +434,10 @@ Year,Series,Sex,Age,Country,Deprivation level,Household income (£),Region,Socio
 2018,Percentage of individuals who use a smartphone,,,,,,Yorkshire and The Humber,,,,Percentage (%),Units,Normal value,E12000003,80.0
 2018,Percentage of individuals who use a smartphone,,,,,,North East,,,,Percentage (%),Units,Normal value,E12000001,82.0
 2018,Percentage of individuals who use a smartphone,,,,,,North West,,,,Percentage (%),Units,Normal value,E12000002,75.0
-2018,Percentage of individuals who use a smartphone,,,,,Under 10.4K,,,,,Percentage (%),Units,Normal value,,52.0
-2018,Percentage of individuals who use a smartphone,,,,,10.4K- 15.59K,,,,,Percentage (%),Units,Normal value,,64.0
-2018,Percentage of individuals who use a smartphone,,,,,15.6K- 25.99K,,,,,Percentage (%),Units,Normal value,,74.0
-2018,Percentage of individuals who use a smartphone,,,,,26K+,,,,,Percentage (%),Units,Normal value,,93.0
+2018,Percentage of individuals who use a smartphone,,,,,"Less than £10,400",,,,,Percentage (%),Units,Normal value,,52.0
+2018,Percentage of individuals who use a smartphone,,,,,"£10,400 to less than £15,600",,,,,Percentage (%),Units,Normal value,,64.0
+2018,Percentage of individuals who use a smartphone,,,,,"£15,600 to less than £26,000",,,,,Percentage (%),Units,Normal value,,74.0
+2018,Percentage of individuals who use a smartphone,,,,,"£26,000 or more",,,,,Percentage (%),Units,Normal value,,93.0
 2018,Percentage of individuals who use a smartphone,,,,,,,,,Working,Percentage (%),Units,Normal value,,91.0
 2018,Percentage of individuals who use a smartphone,,,,,,,,,Not-working,Percentage (%),Units,Normal value,,60.0
 2018,Percentage of individuals who use a smartphone,,,,Low,,,,,,Percentage (%),Units,Normal value,,79.0
@@ -469,10 +469,10 @@ Year,Series,Sex,Age,Country,Deprivation level,Household income (£),Region,Socio
 2018,Percentage of individuals who use a mobile telephone,,,,,,Yorkshire and The Humber,,,,Percentage (%),Units,Normal value,E12000003,94.0
 2018,Percentage of individuals who use a mobile telephone,,,,,,North East,,,,Percentage (%),Units,Normal value,E12000001,96.0
 2018,Percentage of individuals who use a mobile telephone,,,,,,North West,,,,Percentage (%),Units,Normal value,E12000002,92.0
-2018,Percentage of individuals who use a mobile telephone,,,,,Under 10.4K,,,,,Percentage (%),Units,Normal value,,80.0
-2018,Percentage of individuals who use a mobile telephone,,,,,10.4K- 15.59K,,,,,Percentage (%),Units,Normal value,,91.0
-2018,Percentage of individuals who use a mobile telephone,,,,,15.6K- 25.99K,,,,,Percentage (%),Units,Normal value,,96.0
-2018,Percentage of individuals who use a mobile telephone,,,,,26K+,,,,,Percentage (%),Units,Normal value,,99.0
+2018,Percentage of individuals who use a mobile telephone,,,,,"Less than £10,400",,,,,Percentage (%),Units,Normal value,,80.0
+2018,Percentage of individuals who use a mobile telephone,,,,,"£10,400 to less than £15,600",,,,,Percentage (%),Units,Normal value,,91.0
+2018,Percentage of individuals who use a mobile telephone,,,,,"£15,600 to less than £26,000",,,,,Percentage (%),Units,Normal value,,96.0
+2018,Percentage of individuals who use a mobile telephone,,,,,"£26,000 or more",,,,,Percentage (%),Units,Normal value,,99.0
 2018,Percentage of individuals who use a mobile telephone,,,,,,,,,Working,Percentage (%),Units,Normal value,,98.0
 2018,Percentage of individuals who use a mobile telephone,,,,,,,,,Not-working,Percentage (%),Units,Normal value,,89.0
 2018,Percentage of individuals who use a mobile telephone,,,,Low,,,,,,Percentage (%),Units,Normal value,,95.0
@@ -504,10 +504,10 @@ Year,Series,Sex,Age,Country,Deprivation level,Household income (£),Region,Socio
 2019,Percentage of individuals who use a smartphone,,,,,,Yorkshire and The Humber,,,,Percentage (%),Units,Normal value,E12000003,84.0
 2019,Percentage of individuals who use a smartphone,,,,,,North East,,,,Percentage (%),Units,Normal value,E12000001,83.0
 2019,Percentage of individuals who use a smartphone,,,,,,North West,,,,Percentage (%),Units,Normal value,E12000002,82.0
-2019,Percentage of individuals who use a smartphone,,,,,Under 10.4K,,,,,Percentage (%),Units,Normal value,,71.0
-2019,Percentage of individuals who use a smartphone,,,,,10.4K- 15.59K,,,,,Percentage (%),Units,Normal value,,67.0
-2019,Percentage of individuals who use a smartphone,,,,,15.6K- 25.99K,,,,,Percentage (%),Units,Normal value,,86.0
-2019,Percentage of individuals who use a smartphone,,,,,26K+,,,,,Percentage (%),Units,Normal value,,96.0
+2019,Percentage of individuals who use a smartphone,,,,,"Less than £10,400",,,,,Percentage (%),Units,Normal value,,71.0
+2019,Percentage of individuals who use a smartphone,,,,,"£10,400 to less than £15,600",,,,,Percentage (%),Units,Normal value,,67.0
+2019,Percentage of individuals who use a smartphone,,,,,"£15,600 to less than £26,000",,,,,Percentage (%),Units,Normal value,,86.0
+2019,Percentage of individuals who use a smartphone,,,,,"£26,000 or more",,,,,Percentage (%),Units,Normal value,,96.0
 2019,Percentage of individuals who use a smartphone,,,,,,,,,Working,Percentage (%),Units,Normal value,,94.0
 2019,Percentage of individuals who use a smartphone,,,,,,,,,Not-working,Percentage (%),Units,Normal value,,70.0
 2019,Percentage of individuals who use a smartphone,,,,Low,,,,,,Percentage (%),Units,Normal value,,84.0
@@ -539,10 +539,10 @@ Year,Series,Sex,Age,Country,Deprivation level,Household income (£),Region,Socio
 2019,Percentage of individuals who use a mobile telephone,,,,,,Yorkshire and The Humber,,,,Percentage (%),Units,Normal value,E12000003,90.0
 2019,Percentage of individuals who use a mobile telephone,,,,,,North East,,,,Percentage (%),Units,Normal value,E12000001,96.0
 2019,Percentage of individuals who use a mobile telephone,,,,,,North West,,,,Percentage (%),Units,Normal value,E12000002,95.0
-2019,Percentage of individuals who use a mobile telephone,,,,,Under 10.4K,,,,,Percentage (%),Units,Normal value,,83.0
-2019,Percentage of individuals who use a mobile telephone,,,,,10.4K- 15.59K,,,,,Percentage (%),Units,Normal value,,91.0
-2019,Percentage of individuals who use a mobile telephone,,,,,15.6K- 25.99K,,,,,Percentage (%),Units,Normal value,,95.0
-2019,Percentage of individuals who use a mobile telephone,,,,,26K+,,,,,Percentage (%),Units,Normal value,,99.0
+2019,Percentage of individuals who use a mobile telephone,,,,,"Less than £10,400",,,,,Percentage (%),Units,Normal value,,83.0
+2019,Percentage of individuals who use a mobile telephone,,,,,"£10,400 to less than £15,600",,,,,Percentage (%),Units,Normal value,,91.0
+2019,Percentage of individuals who use a mobile telephone,,,,,"£15,600 to less than £26,000",,,,,Percentage (%),Units,Normal value,,95.0
+2019,Percentage of individuals who use a mobile telephone,,,,,"£26,000 or more",,,,,Percentage (%),Units,Normal value,,99.0
 2019,Percentage of individuals who use a mobile telephone,,,,,,,,,Working,Percentage (%),Units,Normal value,,98.0
 2019,Percentage of individuals who use a mobile telephone,,,,,,,,,Not-working,Percentage (%),Units,Normal value,,88.0
 2019,Percentage of individuals who use a mobile telephone,,,,Low,,,,,,Percentage (%),Units,Normal value,,94.0
@@ -574,10 +574,10 @@ Year,Series,Sex,Age,Country,Deprivation level,Household income (£),Region,Socio
 2020,Percentage of individuals who use a smartphone,,,,,,Yorkshire and The Humber,,,,Percentage (%),Units,Normal value,E12000003,85.0
 2020,Percentage of individuals who use a smartphone,,,,,,North East,,,,Percentage (%),Units,Normal value,E12000001,87.0
 2020,Percentage of individuals who use a smartphone,,,,,,North West,,,,Percentage (%),Units,Normal value,E12000002,85.0
-2020,Percentage of individuals who use a smartphone,,,,,Under 10.4K,,,,,Percentage (%),Units,Normal value,,69.0
-2020,Percentage of individuals who use a smartphone,,,,,10.4K- 15.59K,,,,,Percentage (%),Units,Normal value,,78.0
-2020,Percentage of individuals who use a smartphone,,,,,15.6K- 25.99K,,,,,Percentage (%),Units,Normal value,,83.0
-2020,Percentage of individuals who use a smartphone,,,,,26K+,,,,,Percentage (%),Units,Normal value,,97.0
+2020,Percentage of individuals who use a smartphone,,,,,"Less than £10,400",,,,,Percentage (%),Units,Normal value,,69.0
+2020,Percentage of individuals who use a smartphone,,,,,"£10,400 to less than £15,600",,,,,Percentage (%),Units,Normal value,,78.0
+2020,Percentage of individuals who use a smartphone,,,,,"£15,600 to less than £26,000",,,,,Percentage (%),Units,Normal value,,83.0
+2020,Percentage of individuals who use a smartphone,,,,,"£26,000 or more",,,,,Percentage (%),Units,Normal value,,97.0
 2020,Percentage of individuals who use a smartphone,,,,,,,,,Working,Percentage (%),Units,Normal value,,95.0
 2020,Percentage of individuals who use a smartphone,,,,,,,,,Not-working,Percentage (%),Units,Normal value,,75.0
 2020,Percentage of individuals who use a smartphone,,,,Low,,,,,,Percentage (%),Units,Normal value,,87.0
@@ -609,10 +609,10 @@ Year,Series,Sex,Age,Country,Deprivation level,Household income (£),Region,Socio
 2020,Percentage of individuals who use a mobile telephone,,,,,,Yorkshire and The Humber,,,,Percentage (%),Units,Normal value,E12000003,93.0
 2020,Percentage of individuals who use a mobile telephone,,,,,,North East,,,,Percentage (%),Units,Normal value,E12000001,97.0
 2020,Percentage of individuals who use a mobile telephone,,,,,,North West,,,,Percentage (%),Units,Normal value,E12000002,91.0
-2020,Percentage of individuals who use a mobile telephone,,,,,Under 10.4K,,,,,Percentage (%),Units,Normal value,,88.0
-2020,Percentage of individuals who use a mobile telephone,,,,,10.4K- 15.59K,,,,,Percentage (%),Units,Normal value,,90.0
-2020,Percentage of individuals who use a mobile telephone,,,,,15.6K- 25.99K,,,,,Percentage (%),Units,Normal value,,95.0
-2020,Percentage of individuals who use a mobile telephone,,,,,26K+,,,,,Percentage (%),Units,Normal value,,99.0
+2020,Percentage of individuals who use a mobile telephone,,,,,"Less than £10,400",,,,,Percentage (%),Units,Normal value,,88.0
+2020,Percentage of individuals who use a mobile telephone,,,,,"£10,400 to less than £15,600",,,,,Percentage (%),Units,Normal value,,90.0
+2020,Percentage of individuals who use a mobile telephone,,,,,"£15,600 to less than £26,000",,,,,Percentage (%),Units,Normal value,,95.0
+2020,Percentage of individuals who use a mobile telephone,,,,,"£26,000 or more",,,,,Percentage (%),Units,Normal value,,99.0
 2020,Percentage of individuals who use a mobile telephone,,,,,,,,,Working,Percentage (%),Units,Normal value,,99.0
 2020,Percentage of individuals who use a mobile telephone,,,,,,,,,Not-working,Percentage (%),Units,Normal value,,88.0
 2020,Percentage of individuals who use a mobile telephone,,,,Low,,,,,,Percentage (%),Units,Normal value,,95.0
@@ -644,10 +644,10 @@ Year,Series,Sex,Age,Country,Deprivation level,Household income (£),Region,Socio
 2021,Percentage of individuals who use a smartphone,,,,,,Yorkshire and The Humber,,,,Percentage (%),Units,Missing value,E12000003,
 2021,Percentage of individuals who use a smartphone,,,,,,North East,,,,Percentage (%),Units,Missing value,E12000001,
 2021,Percentage of individuals who use a smartphone,,,,,,North West,,,,Percentage (%),Units,Missing value,E12000002,
-2021,Percentage of individuals who use a smartphone,,,,,Under 10.4K,,,,,Percentage (%),Units,Missing value,,
-2021,Percentage of individuals who use a smartphone,,,,,10.4K- 15.59K,,,,,Percentage (%),Units,Missing value,,
-2021,Percentage of individuals who use a smartphone,,,,,15.6K- 25.99K,,,,,Percentage (%),Units,Missing value,,
-2021,Percentage of individuals who use a smartphone,,,,,26K+,,,,,Percentage (%),Units,Missing value,,
+2021,Percentage of individuals who use a smartphone,,,,,"Less than £10,400",,,,,Percentage (%),Units,Missing value,,
+2021,Percentage of individuals who use a smartphone,,,,,"£10,400 to less than £15,600",,,,,Percentage (%),Units,Missing value,,
+2021,Percentage of individuals who use a smartphone,,,,,"£15,600 to less than £26,000",,,,,Percentage (%),Units,Missing value,,
+2021,Percentage of individuals who use a smartphone,,,,,"£26,000 or more",,,,,Percentage (%),Units,Missing value,,
 2021,Percentage of individuals who use a smartphone,,,,,,,,,Working,Percentage (%),Units,Missing value,,
 2021,Percentage of individuals who use a smartphone,,,,,,,,,Not-working,Percentage (%),Units,Missing value,,
 2021,Percentage of individuals who use a smartphone,,,,Low,,,,,,Percentage (%),Units,Missing value,,
@@ -679,10 +679,10 @@ Year,Series,Sex,Age,Country,Deprivation level,Household income (£),Region,Socio
 2021,Percentage of individuals who use a mobile telephone,,,,,,Yorkshire and The Humber,,,,Percentage (%),Units,Missing value,E12000003,
 2021,Percentage of individuals who use a mobile telephone,,,,,,North East,,,,Percentage (%),Units,Missing value,E12000001,
 2021,Percentage of individuals who use a mobile telephone,,,,,,North West,,,,Percentage (%),Units,Missing value,E12000002,
-2021,Percentage of individuals who use a mobile telephone,,,,,Under 10.4K,,,,,Percentage (%),Units,Missing value,,
-2021,Percentage of individuals who use a mobile telephone,,,,,10.4K- 15.59K,,,,,Percentage (%),Units,Missing value,,
-2021,Percentage of individuals who use a mobile telephone,,,,,15.6K- 25.99K,,,,,Percentage (%),Units,Missing value,,
-2021,Percentage of individuals who use a mobile telephone,,,,,26K+,,,,,Percentage (%),Units,Missing value,,
+2021,Percentage of individuals who use a mobile telephone,,,,,"Less than £10,400",,,,,Percentage (%),Units,Missing value,,
+2021,Percentage of individuals who use a mobile telephone,,,,,"£10,400 to less than £15,600",,,,,Percentage (%),Units,Missing value,,
+2021,Percentage of individuals who use a mobile telephone,,,,,"£15,600 to less than £26,000",,,,,Percentage (%),Units,Missing value,,
+2021,Percentage of individuals who use a mobile telephone,,,,,"£26,000 or more",,,,,Percentage (%),Units,Missing value,,
 2021,Percentage of individuals who use a mobile telephone,,,,,,,,,Working,Percentage (%),Units,Missing value,,
 2021,Percentage of individuals who use a mobile telephone,,,,,,,,,Not-working,Percentage (%),Units,Missing value,,
 2021,Percentage of individuals who use a mobile telephone,,,,Low,,,,,,Percentage (%),Units,Missing value,,
@@ -714,10 +714,10 @@ Year,Series,Sex,Age,Country,Deprivation level,Household income (£),Region,Socio
 2022,Percentage of individuals who use a smartphone,,,,,,Yorkshire and The Humber,,,,Percentage (%),Units,Normal value,E12000003,91.0
 2022,Percentage of individuals who use a smartphone,,,,,,North East,,,,Percentage (%),Units,Normal value,E12000001,90.0
 2022,Percentage of individuals who use a smartphone,,,,,,North West,,,,Percentage (%),Units,Normal value,E12000002,91.0
-2022,Percentage of individuals who use a smartphone,,,,,Under 10.4K,,,,,Percentage (%),Units,Normal value,,84.0
-2022,Percentage of individuals who use a smartphone,,,,,10.4K- 15.59K,,,,,Percentage (%),Units,Normal value,,84.0
-2022,Percentage of individuals who use a smartphone,,,,,15.6K- 25.99K,,,,,Percentage (%),Units,Normal value,,92.0
-2022,Percentage of individuals who use a smartphone,,,,,26K+,,,,,Percentage (%),Units,Normal value,,98.0
+2022,Percentage of individuals who use a smartphone,,,,,"Less than £10,400",,,,,Percentage (%),Units,Normal value,,84.0
+2022,Percentage of individuals who use a smartphone,,,,,"£10,400 to less than £15,600",,,,,Percentage (%),Units,Normal value,,84.0
+2022,Percentage of individuals who use a smartphone,,,,,"£15,600 to less than £26,000",,,,,Percentage (%),Units,Normal value,,92.0
+2022,Percentage of individuals who use a smartphone,,,,,"£26,000 or more",,,,,Percentage (%),Units,Normal value,,98.0
 2022,Percentage of individuals who use a smartphone,,,,,,,,,Working,Percentage (%),Units,Normal value,,98.0
 2022,Percentage of individuals who use a smartphone,,,,,,,,,Not-working,Percentage (%),Units,Normal value,,84.0
 2022,Percentage of individuals who use a smartphone,,,,Low,,,,,,Percentage (%),Units,Normal value,,
@@ -749,10 +749,10 @@ Year,Series,Sex,Age,Country,Deprivation level,Household income (£),Region,Socio
 2022,Percentage of individuals who use a mobile telephone,,,,,,Yorkshire and The Humber,,,,Percentage (%),Units,Normal value,E12000003,97.0
 2022,Percentage of individuals who use a mobile telephone,,,,,,North East,,,,Percentage (%),Units,Normal value,E12000001,100.0
 2022,Percentage of individuals who use a mobile telephone,,,,,,North West,,,,Percentage (%),Units,Normal value,E12000002,93.0
-2022,Percentage of individuals who use a mobile telephone,,,,,Under 10.4K,,,,,Percentage (%),Units,Normal value,,94.0
-2022,Percentage of individuals who use a mobile telephone,,,,,10.4K- 15.59K,,,,,Percentage (%),Units,Normal value,,97.0
-2022,Percentage of individuals who use a mobile telephone,,,,,15.6K- 25.99K,,,,,Percentage (%),Units,Normal value,,97.0
-2022,Percentage of individuals who use a mobile telephone,,,,,26K+,,,,,Percentage (%),Units,Normal value,,100.0
+2022,Percentage of individuals who use a mobile telephone,,,,,"Less than £10,400",,,,,Percentage (%),Units,Normal value,,94.0
+2022,Percentage of individuals who use a mobile telephone,,,,,"£10,400 to less than £15,600",,,,,Percentage (%),Units,Normal value,,97.0
+2022,Percentage of individuals who use a mobile telephone,,,,,"£15,600 to less than £26,000",,,,,Percentage (%),Units,Normal value,,97.0
+2022,Percentage of individuals who use a mobile telephone,,,,,"£26,000 or more",,,,,Percentage (%),Units,Normal value,,100.0
 2022,Percentage of individuals who use a mobile telephone,,,,,,,,,Working,Percentage (%),Units,Normal value,,99.0
 2022,Percentage of individuals who use a mobile telephone,,,,,,,,,Not-working,Percentage (%),Units,Normal value,,92.0
 2022,Percentage of individuals who use a mobile telephone,,,,Low,,,,,,Percentage (%),Units,Normal value,,
