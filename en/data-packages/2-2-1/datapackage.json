@@ -16,34 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Index of Multiple Deprivation (IMD)",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IMD 1 (most deprived)",
-                "IMD 2",
-                "IMD 3",
-                "IMD 4",
-                "IMD 5 (least deprived)",
-                ""
-              ]
-            },
-            "title": "Index of Multiple Deprivation (IMD)"
-          },
-          {
-            "name": "Ethnicity",
+            "name": "Ethnic group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -67,20 +40,48 @@
                 ""
               ]
             },
-            "title": "Ethnicity"
+            "title": "Ethnic group"
           },
           {
-            "name": "Rural or Urban",
+            "name": "Index of Multiple Deprivation (IMD)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IMD 1 (most deprived)",
+                "IMD 2",
+                "IMD 3",
+                "IMD 4",
+                "IMD 5 (least deprived)",
+                "Unable to categorise",
+                ""
+              ]
+            },
+            "title": "Index of Multiple Deprivation (IMD)"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Urban or rural",
             "type": "string",
             "constraints": {
               "enum": [
                 "Rural",
                 "Urban",
-                "Not Classified",
+                "Unable to categorise",
                 ""
               ]
             },
-            "title": "Rural or Urban"
+            "title": "Urban or rural"
           },
           {
             "name": "Units",
