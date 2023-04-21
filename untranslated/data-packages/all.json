@@ -17485,7 +17485,32 @@
             "type": "string"
           },
           {
-            "name": "Ethnic group",
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Index of Multiple Deprivation (IMD)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IMD 1 (most deprived)",
+                "IMD 2",
+                "IMD 3",
+                "IMD 4",
+                "IMD 5 (least deprived)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ethnicity",
             "type": "string",
             "constraints": {
               "enum": [
@@ -17511,39 +17536,13 @@
             }
           },
           {
-            "name": "Index of Multiple Deprivation (IMD)",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IMD 1 (most deprived)",
-                "IMD 2",
-                "IMD 3",
-                "IMD 4",
-                "IMD 5 (least deprived)",
-                "Unable to categorise",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Urban or rural",
+            "name": "Rural or Urban",
             "type": "string",
             "constraints": {
               "enum": [
                 "Rural",
                 "Urban",
-                "Unable to categorise",
+                "Not Classified",
                 ""
               ]
             }
