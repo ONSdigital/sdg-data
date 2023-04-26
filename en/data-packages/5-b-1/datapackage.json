@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Percentage of individuals who use a mobile telephone",
-                "Percentage of individuals who use a smartphone",
+                "Percentage of mobile phone owners who use a smartphone",
                 ""
               ]
             },
@@ -47,9 +47,10 @@
                 "16 to 24",
                 "25 to 34",
                 "35 to 54",
-                "55 +",
                 "55 to 64",
                 "65 and over",
+                "55 and over",
+                "55 +",
                 ""
               ]
             },
@@ -82,37 +83,37 @@
             "title": "Deprivation level"
           },
           {
-            "name": "Household income (£)",
+            "name": "Household income",
             "type": "string",
             "constraints": {
               "enum": [
-                "Under 10.4K",
-                "Under 11.5K",
-                "10.4K- 15.59K",
-                "11.5K- 17.5K",
-                "15.6K- 25.99K",
-                "17.5K- 29.9K",
-                "26K+",
-                "30K+",
+                "Less than £11,500",
+                "£11,500 to less than £17,500",
+                "£17,500 to less than £30,000",
+                "£30,000 or more",
+                "Less than £10,400",
+                "£10,400 to less than £15,600",
+                "£15,600 to less than £26,000",
+                "£26,000 or more",
                 ""
               ]
             },
-            "title": "Household income (£)"
+            "title": "Household income"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "London",
-                "South East",
-                "South West",
+                "North East",
+                "North West",
+                "Yorkshire and The Humber",
                 "East Midlands",
                 "West Midlands",
                 "East of England",
-                "Yorkshire and the Humber",
-                "North East",
-                "North West",
+                "London",
+                "South East",
+                "South West",
                 ""
               ]
             },
@@ -124,9 +125,9 @@
             "constraints": {
               "enum": [
                 "AB",
-                "DE",
-                "C2",
                 "C1",
+                "C2",
+                "DE",
                 ""
               ]
             },
@@ -178,7 +179,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
