@@ -10190,8 +10190,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
                 "Male",
+                "Female",
                 ""
               ]
             },
@@ -10211,11 +10211,6 @@
             "name": "Observation status",
             "type": "string",
             "title": "Observation status"
-          },
-          {
-            "name": "GeoCode",
-            "type": "number",
-            "title": "GeoCode"
           },
           {
             "name": "Value",
