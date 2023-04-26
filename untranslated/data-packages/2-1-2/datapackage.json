@@ -98,6 +98,7 @@
                 "Asian/Asian British",
                 "Black/African/Caribbean/Black British",
                 "Other ethnic group",
+                "Arab",
                 ""
               ]
             }
@@ -230,10 +231,10 @@
             "constraints": {
               "enum": [
                 "Less than £200",
-                "£200 but less than £400",
-                "£400 but less than £600",
-                "£600 but less than £800",
-                "£800 but less than £1,000",
+                "More than £200 but less than £400",
+                "More than £400 but less than £600",
+                "More than £600 but less than £800",
+                "More than £800 but less than £1,000",
                 "£1,000 or more",
                 ""
               ]
@@ -271,7 +272,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage (%)",
+                "Percentage of households (%)",
                 ""
               ]
             }
