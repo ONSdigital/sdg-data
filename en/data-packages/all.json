@@ -13971,10 +13971,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "England and Wales",
                 "England",
-                "Wales",
+                "England and Wales",
                 "Scotland",
+                "Wales",
                 ""
               ]
             },
