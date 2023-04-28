@@ -1,571 +1,859 @@
 Year,Food security level,Age,Age group,Country,Region,Ethnic group,Ethnicity,Highest qualification,Household composition - children,Number of adults,Number of children,Household composition - adults over State Pension age,Household composition - disabled adults,Household composition - unemployed adults,State support,State support detail,Total gross weekly income,Tenure,Tenure sub-category,Observation status,Units,GeoCode,Value
-2019/2020,Low,,,England,,,,,,,,,,,,,,,,Normal value,Percentage (%),E92000001,4.0
-2019/2020,Low,,,Great Britain,,,,,,,,,,,,,,,,Normal value,Percentage (%),K03000001,4.0
-2019/2020,Low,,,Northern Ireland,,,,,,,,,,,,,,,,Normal value,Percentage (%),N92000002,3.0
-2019/2020,Low,,,Scotland,,,,,,,,,,,,,,,,Normal value,Percentage (%),S92000003,4.0
-2019/2020,Low,,,Wales,,,,,,,,,,,,,,,,Normal value,Percentage (%),W92000004,4.0
-2019/2020,Low,,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2019/2020,Low,,,England,East,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000006,2.0
-2019/2020,Low,,,England,East Midlands,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000004,4.0
-2019/2020,Low,,,England,Inner London,,,,,,,,,,,,,,,Normal value,Percentage (%),E13000001,5.0
-2019/2020,Low,,,England,London,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000007,5.0
-2019/2020,Low,,,England,North East,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000001,4.0
-2019/2020,Low,,,England,North West,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000002,5.0
-2019/2020,Low,,,England,Outer London,,,,,,,,,,,,,,,Normal value,Percentage (%),E13000002,6.0
-2019/2020,Low,,,England,South East,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000008,3.0
-2019/2020,Low,,,England,South West,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000009,2.0
-2019/2020,Low,,,England,West Midlands,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000005,4.0
-2019/2020,Low,,,England,Yorkshire and The Humber,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000003,4.0
-2019/2020,Low,,,,,,,,Without children,,,,,,,,,,,Normal value,Percentage (%),,3.0
-2019/2020,Low,,,,,,,,Without children,One adult,,,,,,,,,,Normal value,Percentage (%),,4.0
-2019/2020,Low,,,,,,,,Without children,Two adults,,,,,,,,,,Normal value,Percentage (%),,2.0
-2019/2020,Low,,,,,,,,Without children,Three or more adults,,,,,,,,,,Normal value,Percentage (%),,3.0
-2019/2020,Low,,,,,,,,With children,,,,,,,,,,,Normal value,Percentage (%),,6.0
-2019/2020,Low,,,,,,,,With children,One adult,,,,,,,,,,Normal value,Percentage (%),,16.0
-2019/2020,Low,,,,,,,,With children,One adult,One child,,,,,,,,,Normal value,Percentage (%),,14.0
-2019/2020,Low,,,,,,,,With children,One adult,Two children,,,,,,,,,Normal value,Percentage (%),,15.0
-2019/2020,Low,,,,,,,,With children,One adult,Three or more children,,,,,,,,,Normal value,Percentage (%),,22.0
-2019/2020,Low,,,,,,,,With children,Two adults,,,,,,,,,,Normal value,Percentage (%),,4.0
-2019/2020,Low,,,,,,,,With children,Two adults,One child,,,,,,,,,Normal value,Percentage (%),,3.0
-2019/2020,Low,,,,,,,,With children,Two adults,Two children,,,,,,,,,Normal value,Percentage (%),,3.0
-2019/2020,Low,,,,,,,,With children,Two adults,Three or more children,,,,,,,,,Normal value,Percentage (%),,7.0
-2019/2020,Low,,,,,,,,With children,Three or more adults,,,,,,,,,,Normal value,Percentage (%),,4.0
-2019/2020,Low,,,,,,,,With children,Three or more adults,One child,,,,,,,,,Normal value,Percentage (%),,3.0
-2019/2020,Low,,,,,,,,With children,Three or more adults,Two children,,,,,,,,,Normal value,Percentage (%),,4.0
-2019/2020,Low,,,,,,,,With children,Three or more adults,Three or more children,,,,,,,,,Missing value; suppressed,Percentage (%),,
-2019/2020,Low,16 to 24,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,7.0
-2019/2020,Low,25 to 34,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,5.0
-2019/2020,Low,35 to 44,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,6.0
-2019/2020,Low,45 to 54,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,5.0
-2019/2020,Low,55 to 59,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,3.0
-2019/2020,Low,60 to 64,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,3.0
-2019/2020,Low,65 to 74,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,2.0
-2019/2020,Low,75 to 84,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,1.0
-2019/2020,Low,85 or over,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,1.0
-2019/2020,Low,,,,,,,,,,,One or more adults over State Pension age,,,,,,,,Normal value,Percentage (%),,1.0
-2019/2020,Low,,,,,,,,,,,,,One or more unemployed adults under State Pension age,,,,,,Normal value,Percentage (%),,9.0
-2019/2020,Low,,,,,,,,,,,,No disabled adults,,,,,,,Normal value,Percentage (%),,3.0
-2019/2020,Low,,,,,,,,,,,,One or more disabled adults,,,,,,,Normal value,Percentage (%),,5.0
-2019/2020,Low,,,,,,,,,,,,One or more disabled adults under State Pension age,,,,,,,Normal value,Percentage (%),,8.0
-2019/2020,Low,,,,,,,Entry level,,,,,,,,,,,,Normal value,Percentage (%),,8.0
-2019/2020,Low,,,,,,,Level 1,,,,,,,,,,,,Normal value,Percentage (%),,5.0
-2019/2020,Low,,,,,,,Level 2,,,,,,,,,,,,Normal value,Percentage (%),,6.0
-2019/2020,Low,,,,,,,Level 3,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2019/2020,Low,,,,,,,Level 4 or higher,,,,,,,,,,,,Normal value,Percentage (%),,2.0
-2019/2020,Low,,,,,,,Other qualification,,,,,,,,,,,,Normal value,Percentage (%),,3.0
-2019/2020,Low,,,,,,,No reported qualifications,,,,,,,,,,,,Normal value,Percentage (%),,5.0
-2019/2020,Low,,,,,White,,,,,,,,,,,,,,Normal value,Percentage (%),,3.0
-2019/2020,Low,,,,,Mixed/multiple ethnic groups,,,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2019/2020,Low,,,,,Asian/Asian British,,,,,,,,,,,,,,Normal value,Percentage (%),,5.0
-2019/2020,Low,,,,,Asian/Asian British,Indian,,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2019/2020,Low,,,,,Asian/Asian British,Pakistani,,,,,,,,,,,,,Normal value,Percentage (%),,6.0
-2019/2020,Low,,,,,Asian/Asian British,Bangladeshi,,,,,,,,,,,,,Missing value; suppressed,Percentage (%),,
-2019/2020,Low,,,,,Asian/Asian British,Chinese,,,,,,,,,,,,,Missing value; suppressed,Percentage (%),,
-2019/2020,Low,,,,,Asian/Asian British,Any other Asian background,,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2019/2020,Low,,,,,Black/African/Caribbean/Black British,,,,,,,,,,,,,,Normal value,Percentage (%),,11.0
-2019/2020,Low,,,,,Other ethnic group,,,,,,,,,,,,,,Normal value,Percentage (%),,9.0
-2019/2020,Low,,,,,,,,,,,,,,In receipt of state support (benefit and/or Tax Credits),,,,,Normal value,Percentage (%),,5.0
-2019/2020,Low,,,,,,,,,,,,,,In receipt of benefit,,,,,Normal value,Percentage (%),,5.0
-2019/2020,Low,,,,,,,,,,,,,,In receipt of Tax Credits,,,,,Normal value,Percentage (%),,11.0
-2019/2020,Low,,,,,,,,,,,,,,In receipt of benefit,Income-related benefit,,,,Normal value,Percentage (%),,11.0
-2019/2020,Low,,,,,,,,,,,,,,In receipt of benefit,Non-income-related benefit,,,,Normal value,Percentage (%),,5.0
-2019/2020,Low,,,,,,,,,,,,,,In receipt of Tax Credits,Working Tax Credit,,,,Normal value,Percentage (%),,9.0
-2019/2020,Low,,,,,,,,,,,,,,In receipt of Tax Credits,Child Tax Credit,,,,Normal value,Percentage (%),,11.0
-2019/2020,Low,,,,,,,,,,,,,,,,Less than £200,,,Normal value,Percentage (%),,7.0
-2019/2020,Low,,,,,,,,,,,,,,,,£200 but less than £400,,,Normal value,Percentage (%),,6.0
-2019/2020,Low,,,,,,,,,,,,,,,,£400 but less than £600,,,Normal value,Percentage (%),,5.0
-2019/2020,Low,,,,,,,,,,,,,,,,£600 but less than £800,,,Normal value,Percentage (%),,4.0
-2019/2020,Low,,,,,,,,,,,,,,,,"£800 but less than £1,000",,,Normal value,Percentage (%),,2.0
-2019/2020,Low,,,,,,,,,,,,,,,,"£1,000 or more",,,Normal value,Percentage (%),,1.0
-2019/2020,Low,,,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage (%),,1.0
-2019/2020,Low,,,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage (%),,1.0
-2019/2020,Low,,,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage (%),,2.0
-2019/2020,Low,,,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage (%),,11.0
-2019/2020,Low,,,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage (%),,6.0
-2019/2020,Low,,Working age,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,5.0
-2019/2020,Low,,Working age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage (%),,2.0
-2019/2020,Low,,Working age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage (%),,2.0
-2019/2020,Low,,Working age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage (%),,2.0
-2019/2020,Low,,Working age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage (%),,14.0
-2019/2020,Low,,Working age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage (%),,6.0
-2019/2020,Low,,State Pension age,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,1.0
-2019/2020,Low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage (%),,1.0
-2019/2020,Low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage (%),,1.0
-2019/2020,Low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage (%),,1.0
-2019/2020,Low,,State Pension age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage (%),,4.0
-2019/2020,Low,,State Pension age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage (%),,3.0
-2019/2020,Very low,,,England,,,,,,,,,,,,,,,,Normal value,Percentage (%),E92000001,4.0
-2019/2020,Very low,,,Great Britain,,,,,,,,,,,,,,,,Normal value,Percentage (%),K03000001,4.0
-2019/2020,Very low,,,Northern Ireland,,,,,,,,,,,,,,,,Normal value,Percentage (%),N92000002,4.0
-2019/2020,Very low,,,Scotland,,,,,,,,,,,,,,,,Normal value,Percentage (%),S92000003,4.0
-2019/2020,Very low,,,Wales,,,,,,,,,,,,,,,,Normal value,Percentage (%),W92000004,3.0
-2019/2020,Very low,,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2019/2020,Very low,,,England,East,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000006,3.0
-2019/2020,Very low,,,England,East Midlands,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000004,3.0
-2019/2020,Very low,,,England,Inner London,,,,,,,,,,,,,,,Normal value,Percentage (%),E13000001,4.0
-2019/2020,Very low,,,England,London,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000007,3.0
-2019/2020,Very low,,,England,North East,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000001,6.0
-2019/2020,Very low,,,England,North West,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000002,5.0
-2019/2020,Very low,,,England,Outer London,,,,,,,,,,,,,,,Normal value,Percentage (%),E13000002,3.0
-2019/2020,Very low,,,England,South East,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000008,3.0
-2019/2020,Very low,,,England,South West,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000009,4.0
-2019/2020,Very low,,,England,West Midlands,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000005,4.0
-2019/2020,Very low,,,England,Yorkshire and The Humber,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000003,4.0
-2019/2020,Very low,,,,,,,,Without children,,,,,,,,,,,Normal value,Percentage (%),,3.0
-2019/2020,Very low,,,,,,,,Without children,One adult,,,,,,,,,,Normal value,Percentage (%),,6.0
-2019/2020,Very low,,,,,,,,Without children,Two adults,,,,,,,,,,Normal value,Percentage (%),,1.0
-2019/2020,Very low,,,,,,,,Without children,Three or more adults,,,,,,,,,,Normal value,Percentage (%),,3.0
-2019/2020,Very low,,,,,,,,With children,,,,,,,,,,,Normal value,Percentage (%),,5.0
-2019/2020,Very low,,,,,,,,With children,One adult,,,,,,,,,,Normal value,Percentage (%),,13.0
-2019/2020,Very low,,,,,,,,With children,One adult,One child,,,,,,,,,Normal value,Percentage (%),,11.0
-2019/2020,Very low,,,,,,,,With children,One adult,Two children,,,,,,,,,Normal value,Percentage (%),,13.0
-2019/2020,Very low,,,,,,,,With children,One adult,Three or more children,,,,,,,,,Normal value,Percentage (%),,19.0
-2019/2020,Very low,,,,,,,,With children,Two adults,,,,,,,,,,Normal value,Percentage (%),,3.0
-2019/2020,Very low,,,,,,,,With children,Two adults,One child,,,,,,,,,Normal value,Percentage (%),,3.0
-2019/2020,Very low,,,,,,,,With children,Two adults,Two children,,,,,,,,,Normal value,Percentage (%),,2.0
-2019/2020,Very low,,,,,,,,With children,Two adults,Three or more children,,,,,,,,,Normal value,Percentage (%),,6.0
-2019/2020,Very low,,,,,,,,With children,Three or more adults,,,,,,,,,,Normal value,Percentage (%),,4.0
-2019/2020,Very low,,,,,,,,With children,Three or more adults,One child,,,,,,,,,Normal value,Percentage (%),,3.0
-2019/2020,Very low,,,,,,,,With children,Three or more adults,Two children,,,,,,,,,Normal value,Percentage (%),,3.0
-2019/2020,Very low,,,,,,,,With children,Three or more adults,Three or more children,,,,,,,,,Missing value; suppressed,Percentage (%),,
-2019/2020,Very low,16 to 24,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,9.0
-2019/2020,Very low,25 to 34,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,5.0
-2019/2020,Very low,35 to 44,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,6.0
-2019/2020,Very low,45 to 54,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,5.0
-2019/2020,Very low,55 to 59,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2019/2020,Very low,60 to 64,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,3.0
-2019/2020,Very low,65 to 74,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,1.0
-2019/2020,Very low,75 to 84,,,,,,,,,,,,,,,,,,Missing value,Percentage (%),,
-2019/2020,Very low,85 or over,,,,,,,,,,,,,,,,,,Missing value,Percentage (%),,
-2019/2020,Very low,,,,,,,,,,,One or more adults over State Pension age,,,,,,,,Normal value,Percentage (%),,1.0
-2019/2020,Very low,,,,,,,,,,,,,One or more unemployed adults under State Pension age,,,,,,Normal value,Percentage (%),,16.0
-2019/2020,Very low,,,,,,,,,,,,No disabled adults,,,,,,,Normal value,Percentage (%),,2.0
-2019/2020,Very low,,,,,,,,,,,,One or more disabled adults,,,,,,,Normal value,Percentage (%),,7.0
-2019/2020,Very low,,,,,,,,,,,,One or more disabled adults under State Pension age,,,,,,,Normal value,Percentage (%),,11.0
-2019/2020,Very low,,,,,,,Entry level,,,,,,,,,,,,Normal value,Percentage (%),,5.0
-2019/2020,Very low,,,,,,,Level 1,,,,,,,,,,,,Normal value,Percentage (%),,6.0
-2019/2020,Very low,,,,,,,Level 2,,,,,,,,,,,,Normal value,Percentage (%),,6.0
-2019/2020,Very low,,,,,,,Level 3,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2019/2020,Very low,,,,,,,Level 4 or higher,,,,,,,,,,,,Normal value,Percentage (%),,2.0
-2019/2020,Very low,,,,,,,Other qualification,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2019/2020,Very low,,,,,,,No reported qualifications,,,,,,,,,,,,Normal value,Percentage (%),,6.0
-2019/2020,Very low,,,,,White,,,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2019/2020,Very low,,,,,Mixed/multiple ethnic groups,,,,,,,,,,,,,,Normal value,Percentage (%),,6.0
-2019/2020,Very low,,,,,Asian/Asian British,,,,,,,,,,,,,,Normal value,Percentage (%),,3.0
-2019/2020,Very low,,,,,Asian/Asian British,Indian,,,,,,,,,,,,,Normal value,Percentage (%),,2.0
-2019/2020,Very low,,,,,Asian/Asian British,Pakistani,,,,,,,,,,,,,Normal value,Percentage (%),,5.0
-2019/2020,Very low,,,,,Asian/Asian British,Bangladeshi,,,,,,,,,,,,,Missing value; suppressed,Percentage (%),,
-2019/2020,Very low,,,,,Asian/Asian British,Chinese,,,,,,,,,,,,,Missing value; suppressed,Percentage (%),,
-2019/2020,Very low,,,,,Asian/Asian British,Any other Asian background,,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2019/2020,Very low,,,,,Black/African/Caribbean/Black British,,,,,,,,,,,,,,Normal value,Percentage (%),,8.0
-2019/2020,Very low,,,,,Other ethnic group,,,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2019/2020,Very low,,,,,,,,,,,,,,In receipt of state support (benefit and/or Tax Credits),,,,,Normal value,Percentage (%),,5.0
-2019/2020,Very low,,,,,,,,,,,,,,In receipt of benefit,,,,,Normal value,Percentage (%),,5.0
-2019/2020,Very low,,,,,,,,,,,,,,In receipt of Tax Credits,,,,,Normal value,Percentage (%),,10.0
-2019/2020,Very low,,,,,,,,,,,,,,In receipt of benefit,Income-related benefit,,,,Normal value,Percentage (%),,14.0
-2019/2020,Very low,,,,,,,,,,,,,,In receipt of benefit,Non-income-related benefit,,,,Normal value,Percentage (%),,4.0
-2019/2020,Very low,,,,,,,,,,,,,,In receipt of Tax Credits,Working Tax Credit,,,,Normal value,Percentage (%),,8.0
-2019/2020,Very low,,,,,,,,,,,,,,In receipt of Tax Credits,Child Tax Credit,,,,Normal value,Percentage (%),,10.0
-2019/2020,Very low,,,,,,,,,,,,,,,,Less than £200,,,Normal value,Percentage (%),,12.0
-2019/2020,Very low,,,,,,,,,,,,,,,,£200 but less than £400,,,Normal value,Percentage (%),,7.0
-2019/2020,Very low,,,,,,,,,,,,,,,,£400 but less than £600,,,Normal value,Percentage (%),,5.0
-2019/2020,Very low,,,,,,,,,,,,,,,,£600 but less than £800,,,Normal value,Percentage (%),,3.0
-2019/2020,Very low,,,,,,,,,,,,,,,,"£800 but less than £1,000",,,Normal value,Percentage (%),,1.0
-2019/2020,Very low,,,,,,,,,,,,,,,,"£1,000 or more",,,Normal value,Percentage (%),,1.0
-2019/2020,Very low,,,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage (%),,1.0
-2019/2020,Very low,,,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage (%),,1.0
-2019/2020,Very low,,,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage (%),,1.0
-2019/2020,Very low,,,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage (%),,13.0
-2019/2020,Very low,,,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage (%),,6.0
-2019/2020,Very low,,Working age,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,5.0
-2019/2020,Very low,,Working age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage (%),,1.0
-2019/2020,Very low,,Working age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage (%),,1.0
-2019/2020,Very low,,Working age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage (%),,1.0
-2019/2020,Very low,,Working age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage (%),,17.0
-2019/2020,Very low,,Working age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage (%),,6.0
-2019/2020,Very low,,State Pension age,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,1.0
-2019/2020,Very low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,,Missing value,Percentage (%),,
-2019/2020,Very low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Missing value,Percentage (%),,
-2019/2020,Very low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage (%),,2.0
-2019/2020,Very low,,State Pension age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage (%),,2.0
-2019/2020,Very low,,State Pension age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage (%),,1.0
-2019/2020,,,,England,,,,,,,,,,,,,,,,Normal value,Percentage (%),E92000001,8.0
-2019/2020,,,,Great Britain,,,,,,,,,,,,,,,,Normal value,Percentage (%),K03000001,8.0
-2019/2020,,,,Northern Ireland,,,,,,,,,,,,,,,,Normal value,Percentage (%),N92000002,7.0
-2019/2020,,,,Scotland,,,,,,,,,,,,,,,,Normal value,Percentage (%),S92000003,8.0
-2019/2020,,,,Wales,,,,,,,,,,,,,,,,Normal value,Percentage (%),W92000004,7.0
-2019/2020,,,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,8.0
-2019/2020,,,,England,East,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000006,5.0
-2019/2020,,,,England,East Midlands,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000004,7.0
-2019/2020,,,,England,Inner London,,,,,,,,,,,,,,,Normal value,Percentage (%),E13000001,8.0
-2019/2020,,,,England,London,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000007,9.0
-2019/2020,,,,England,North East,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000001,11.0
-2019/2020,,,,England,North West,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000002,10.0
-2019/2020,,,,England,Outer London,,,,,,,,,,,,,,,Normal value,Percentage (%),E13000002,9.0
-2019/2020,,,,England,South East,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000008,6.0
-2019/2020,,,,England,South West,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000009,6.0
-2019/2020,,,,England,West Midlands,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000005,8.0
-2019/2020,,,,England,Yorkshire and The Humber,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000003,8.0
-2019/2020,,,,,,,,,Without children,,,,,,,,,,,Normal value,Percentage (%),,6.0
-2019/2020,,,,,,,,,Without children,One adult,,,,,,,,,,Normal value,Percentage (%),,10.0
-2019/2020,,,,,,,,,Without children,Two adults,,,,,,,,,,Normal value,Percentage (%),,3.0
-2019/2020,,,,,,,,,Without children,Three or more adults,,,,,,,,,,Normal value,Percentage (%),,6.0
-2019/2020,,,,,,,,,With children,,,,,,,,,,,Normal value,Percentage (%),,11.0
-2019/2020,,,,,,,,,With children,One adult,,,,,,,,,,Normal value,Percentage (%),,29.0
-2019/2020,,,,,,,,,With children,One adult,One child,,,,,,,,,Normal value,Percentage (%),,26.0
-2019/2020,,,,,,,,,With children,One adult,Two children,,,,,,,,,Normal value,Percentage (%),,28.0
-2019/2020,,,,,,,,,With children,One adult,Three or more children,,,,,,,,,Normal value,Percentage (%),,41.0
-2019/2020,,,,,,,,,With children,Two adults,,,,,,,,,,Normal value,Percentage (%),,7.0
-2019/2020,,,,,,,,,With children,Two adults,One child,,,,,,,,,Normal value,Percentage (%),,6.0
-2019/2020,,,,,,,,,With children,Two adults,Two children,,,,,,,,,Normal value,Percentage (%),,5.0
-2019/2020,,,,,,,,,With children,Two adults,Three or more children,,,,,,,,,Normal value,Percentage (%),,13.0
-2019/2020,,,,,,,,,With children,Three or more adults,,,,,,,,,,Normal value,Percentage (%),,8.0
-2019/2020,,,,,,,,,With children,Three or more adults,One child,,,,,,,,,Normal value,Percentage (%),,6.0
-2019/2020,,,,,,,,,With children,Three or more adults,Two children,,,,,,,,,Normal value,Percentage (%),,7.0
-2019/2020,,,,,,,,,With children,Three or more adults,Three or more children,,,,,,,,,Missing value; suppressed,Percentage (%),,
-2019/2020,,16 to 24,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,15.0
-2019/2020,,25 to 34,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,10.0
-2019/2020,,35 to 44,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,12.0
-2019/2020,,45 to 54,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,10.0
-2019/2020,,55 to 59,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,8.0
-2019/2020,,60 to 64,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,6.0
-2019/2020,,65 to 74,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,3.0
-2019/2020,,75 to 84,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,1.0
-2019/2020,,85 or over,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,1.0
-2019/2020,,,,,,,,,,,,One or more adults over State Pension age,,,,,,,,Normal value,Percentage (%),,2.0
-2019/2020,,,,,,,,,,,,,,One or more unemployed adults under State Pension age,,,,,,Normal value,Percentage (%),,25.0
-2019/2020,,,,,,,,,,,,,No disabled adults,,,,,,,Normal value,Percentage (%),,5.0
-2019/2020,,,,,,,,,,,,,One or more disabled adults,,,,,,,Normal value,Percentage (%),,12.0
-2019/2020,,,,,,,,,,,,,One or more disabled adults under State Pension age,,,,,,,Normal value,Percentage (%),,19.0
-2019/2020,,,,,,,,Entry level,,,,,,,,,,,,Normal value,Percentage (%),,13.0
-2019/2020,,,,,,,,Level 1,,,,,,,,,,,,Normal value,Percentage (%),,11.0
-2019/2020,,,,,,,,Level 2,,,,,,,,,,,,Normal value,Percentage (%),,12.0
-2019/2020,,,,,,,,Level 3,,,,,,,,,,,,Normal value,Percentage (%),,8.0
-2019/2020,,,,,,,,Level 4 or higher,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2019/2020,,,,,,,,Other qualification,,,,,,,,,,,,Normal value,Percentage (%),,7.0
-2019/2020,,,,,,,,No reported qualifications,,,,,,,,,,,,Normal value,Percentage (%),,11.0
-2019/2020,,,,,,White,,,,,,,,,,,,,,Normal value,Percentage (%),,7.0
-2019/2020,,,,,,Mixed/multiple ethnic groups,,,,,,,,,,,,,,Normal value,Percentage (%),,10.0
-2019/2020,,,,,,Asian/Asian British,,,,,,,,,,,,,,Normal value,Percentage (%),,8.0
-2019/2020,,,,,,Asian/Asian British,Indian,,,,,,,,,,,,,Normal value,Percentage (%),,5.0
-2019/2020,,,,,,Asian/Asian British,Pakistani,,,,,,,,,,,,,Normal value,Percentage (%),,10.0
-2019/2020,,,,,,Asian/Asian British,Bangladeshi,,,,,,,,,,,,,Missing value; suppressed,Percentage (%),,
-2019/2020,,,,,,Asian/Asian British,Chinese,,,,,,,,,,,,,Missing value; suppressed,Percentage (%),,
-2019/2020,,,,,,Asian/Asian British,Any other Asian background,,,,,,,,,,,,,Normal value,Percentage (%),,8.0
-2019/2020,,,,,,Black/African/Caribbean/Black British,,,,,,,,,,,,,,Normal value,Percentage (%),,19.0
-2019/2020,,,,,,Other ethnic group,,,,,,,,,,,,,,Normal value,Percentage (%),,14.0
-2019/2020,,,,,,,,,,,,,,,In receipt of state support (benefit and/or Tax Credits),,,,,Normal value,Percentage (%),,10.0
-2019/2020,,,,,,,,,,,,,,,In receipt of benefit,,,,,Normal value,Percentage (%),,10.0
-2019/2020,,,,,,,,,,,,,,,In receipt of Tax Credits,,,,,Normal value,Percentage (%),,21.0
-2019/2020,,,,,,,,,,,,,,,In receipt of benefit,Income-related benefit,,,,Normal value,Percentage (%),,25.0
-2019/2020,,,,,,,,,,,,,,,In receipt of benefit,Non-income-related benefit,,,,Normal value,Percentage (%),,8.0
-2019/2020,,,,,,,,,,,,,,,In receipt of Tax Credits,Working Tax Credit,,,,Normal value,Percentage (%),,17.0
-2019/2020,,,,,,,,,,,,,,,In receipt of Tax Credits,Child Tax Credit,,,,Normal value,Percentage (%),,21.0
-2019/2020,,,,,,,,,,,,,,,,,Less than £200,,,Normal value,Percentage (%),,19.0
-2019/2020,,,,,,,,,,,,,,,,,£200 but less than £400,,,Normal value,Percentage (%),,13.0
-2019/2020,,,,,,,,,,,,,,,,,£400 but less than £600,,,Normal value,Percentage (%),,10.0
-2019/2020,,,,,,,,,,,,,,,,,£600 but less than £800,,,Normal value,Percentage (%),,7.0
-2019/2020,,,,,,,,,,,,,,,,,"£800 but less than £1,000",,,Normal value,Percentage (%),,4.0
-2019/2020,,,,,,,,,,,,,,,,,"£1,000 or more",,,Normal value,Percentage (%),,2.0
-2019/2020,,,,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage (%),,2.0
-2019/2020,,,,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage (%),,2.0
-2019/2020,,,,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage (%),,3.0
-2019/2020,,,,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage (%),,24.0
-2019/2020,,,,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage (%),,12.0
-2019/2020,,,Working age,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,10.0
-2019/2020,,,Working age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage (%),,3.0
-2019/2020,,,Working age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage (%),,3.0
-2019/2020,,,Working age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage (%),,3.0
-2019/2020,,,Working age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage (%),,31.0
-2019/2020,,,Working age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage (%),,12.0
-2019/2020,,,State Pension age,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,2.0
-2019/2020,,,State Pension age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage (%),,1.0
-2019/2020,,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage (%),,1.0
-2019/2020,,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage (%),,3.0
-2019/2020,,,State Pension age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage (%),,6.0
-2019/2020,,,State Pension age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage (%),,4.0
-2020/21,Low,,,England,,,,,,,,,,,,,,,,Normal value,Percentage (%),E92000001,4.0
-2020/21,Low,,,Great Britain,,,,,,,,,,,,,,,,Normal value,Percentage (%),K03000001,3.0
-2020/21,Low,,,Northern Ireland,,,,,,,,,,,,,,,,Normal value,Percentage (%),N92000002,3.0
-2020/21,Low,,,Scotland,,,,,,,,,,,,,,,,Normal value,Percentage (%),S92000003,3.0
-2020/21,Low,,,Wales,,,,,,,,,,,,,,,,Normal value,Percentage (%),W92000004,1.0
-2020/21,Low,,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,3.0
-2020/21,Low,,,England,East,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000006,4.0
-2020/21,Low,,,England,East Midlands,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000004,7.0
-2020/21,Low,,,England,Inner London,,,,,,,,,,,,,,,Normal value,Percentage (%),E13000001,4.0
-2020/21,Low,,,England,London,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000007,3.0
-2020/21,Low,,,England,North East,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000001,5.0
-2020/21,Low,,,England,North West,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000002,4.0
-2020/21,Low,,,England,Outer London,,,,,,,,,,,,,,,Normal value,Percentage (%),E13000002,2.0
-2020/21,Low,,,England,South East,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000008,2.0
-2020/21,Low,,,England,South West,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000009,3.0
-2020/21,Low,,,England,West Midlands,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000005,3.0
-2020/21,Low,,,England,Yorkshire and The Humber,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000003,4.0
-2020/21,Low,,,,,,,,Without children,,,,,,,,,,,Normal value,Percentage (%),,3.0
-2020/21,Low,,,,,,,,Without children,One adult,,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,Low,,,,,,,,Without children,Two adults,,,,,,,,,,Normal value,Percentage (%),,2.0
-2020/21,Low,,,,,,,,Without children,Three or more adults,,,,,,,,,,Normal value,Percentage (%),,1.0
-2020/21,Low,,,,,,,,With children,,,,,,,,,,,Normal value,Percentage (%),,5.0
-2020/21,Low,,,,,,,,With children,One adult,,,,,,,,,,Normal value,Percentage (%),,9.0
-2020/21,Low,,,,,,,,With children,One adult,One child,,,,,,,,,Normal value,Percentage (%),,10.0
-2020/21,Low,,,,,,,,With children,One adult,Two children,,,,,,,,,Normal value,Percentage (%),,10.0
-2020/21,Low,,,,,,,,With children,One adult,Three or more children,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,Low,,,,,,,,With children,Two adults,,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,Low,,,,,,,,With children,Two adults,One child,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,Low,,,,,,,,With children,Two adults,Two children,,,,,,,,,Normal value,Percentage (%),,3.0
-2020/21,Low,,,,,,,,With children,Two adults,Three or more children,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,Low,,,,,,,,With children,Three or more adults,,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,Low,,,,,,,,With children,Three or more adults,One child,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,Low,,,,,,,,With children,Three or more adults,Two children,,,,,,,,,Normal value,Percentage (%),,3.0
-2020/21,Low,,,,,,,,With children,Three or more adults,Three or more children,,,,,,,,,Missing value; suppressed,Percentage (%),,
-2020/21,Low,16 to 24,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,9.0
-2020/21,Low,25 to 34,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,Low,35 to 44,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,5.0
-2020/21,Low,45 to 54,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,3.0
-2020/21,Low,55 to 59,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,5.0
-2020/21,Low,60 to 64,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,Low,65 to 74,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,1.0
-2020/21,Low,75 to 84,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,1.0
-2020/21,Low,85 or over,,,,,,,,,,,,,,,,,,Missing value; suppressed,Percentage (%),,
-2020/21,Low,,,,,,,,,,,One or more adults over State Pension age,,,,,,,,Normal value,Percentage (%),,1.0
-2020/21,Low,,,,,,,,,,,,,One or more unemployed adults under State Pension age,,,,,,Normal value,Percentage (%),,11.0
-2020/21,Low,,,,,,,,,,,,No disabled adults,,,,,,,Normal value,Percentage (%),,2.0
-2020/21,Low,,,,,,,,,,,,One or more disabled adults,,,,,,,Normal value,Percentage (%),,5.0
-2020/21,Low,,,,,,,,,,,,One or more disabled adults under State Pension age,,,,,,,Normal value,Percentage (%),,7.0
-2020/21,Low,,,,,,,Entry level,,,,,,,,,,,,Normal value,Percentage (%),,13.0
-2020/21,Low,,,,,,,Level 1,,,,,,,,,,,,Normal value,Percentage (%),,6.0
-2020/21,Low,,,,,,,Level 2,,,,,,,,,,,,Normal value,Percentage (%),,5.0
-2020/21,Low,,,,,,,Level 3,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,Low,,,,,,,Level 4 or higher,,,,,,,,,,,,Normal value,Percentage (%),,2.0
-2020/21,Low,,,,,,,Other qualification,,,,,,,,,,,,Normal value,Percentage (%),,3.0
-2020/21,Low,,,,,,,No reported qualifications,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,Low,,,,,White,,,,,,,,,,,,,,Normal value,Percentage (%),,3.0
-2020/21,Low,,,,,Mixed/multiple ethnic groups,,,,,,,,,,,,,,Normal value,Percentage (%),,7.0
-2020/21,Low,,,,,Asian/Asian British,,,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,Low,,,,,Asian/Asian British,Indian,,,,,,,,,,,,,Normal value,Percentage (%),,2.0
-2020/21,Low,,,,,Asian/Asian British,Pakistani,,,,,,,,,,,,,Normal value,Percentage (%),,10.0
-2020/21,Low,,,,,Asian/Asian British,Bangladeshi,,,,,,,,,,,,,Normal value,Percentage (%),,0.0
-2020/21,Low,,,,,Asian/Asian British,Chinese,,,,,,,,,,,,,Missing value; suppressed,Percentage (%),,
-2020/21,Low,,,,,Asian/Asian British,Any other Asian background,,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,Low,,,,,Black/African/Caribbean/Black British,,,,,,,,,,,,,,Normal value,Percentage (%),,9.0
-2020/21,Low,,,,,Other ethnic group,,,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,Low,,,,,,,,,,,,,,In receipt of state support (benefit and/or Tax Credits),,,,,Normal value,Percentage (%),,4.0
-2020/21,Low,,,,,,,,,,,,,,In receipt of benefit,,,,,Normal value,Percentage (%),,4.0
-2020/21,Low,,,,,,,,,,,,,,In receipt of Tax Credits,,,,,Normal value,Percentage (%),,7.0
-2020/21,Low,,,,,,,,,,,,,,In receipt of benefit,Income-related benefit,,,,Normal value,Percentage (%),,11.0
-2020/21,Low,,,,,,,,,,,,,,In receipt of benefit,Non-income-related benefit,,,,Normal value,Percentage (%),,4.0
-2020/21,Low,,,,,,,,,,,,,,In receipt of Tax Credits,Working Tax Credit,,,,Normal value,Percentage (%),,7.0
-2020/21,Low,,,,,,,,,,,,,,In receipt of Tax Credits,Child Tax Credit,,,,Normal value,Percentage (%),,6.0
-2020/21,Low,,,,,,,,,,,,,,,,Less than £200,,,Normal value,Percentage (%),,6.0
-2020/21,Low,,,,,,,,,,,,,,,,£200 but less than £400,,,Normal value,Percentage (%),,6.0
-2020/21,Low,,,,,,,,,,,,,,,,£400 but less than £600,,,Normal value,Percentage (%),,5.0
-2020/21,Low,,,,,,,,,,,,,,,,£600 but less than £800,,,Normal value,Percentage (%),,3.0
-2020/21,Low,,,,,,,,,,,,,,,,"£800 but less than £1,000",,,Normal value,Percentage (%),,1.0
-2020/21,Low,,,,,,,,,,,,,,,,"£1,000 or more",,,Normal value,Percentage (%),,1.0
-2020/21,Low,,,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage (%),,1.0
-2020/21,Low,,,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage (%),,1.0
-2020/21,Low,,,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage (%),,2.0
-2020/21,Low,,,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage (%),,10.0
-2020/21,Low,,,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage (%),,5.0
-2020/21,Low,,Working age,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,Low,,Working age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage (%),,1.0
-2020/21,Low,,Working age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage (%),,1.0
-2020/21,Low,,Working age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage (%),,2.0
-2020/21,Low,,Working age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage (%),,12.0
-2020/21,Low,,Working age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage (%),,5.0
-2020/21,Low,,State Pension age,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,1.0
-2020/21,Low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage (%),,1.0
-2020/21,Low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage (%),,1.0
-2020/21,Low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage (%),,0.0
-2020/21,Low,,State Pension age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage (%),,3.0
-2020/21,Low,,State Pension age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage (%),,2.0
-2020/21,Very low,,,England,,,,,,,,,,,,,,,,Normal value,Percentage (%),E92000001,3.0
-2020/21,Very low,,,Great Britain,,,,,,,,,,,,,,,,Normal value,Percentage (%),K03000001,3.0
-2020/21,Very low,,,Northern Ireland,,,,,,,,,,,,,,,,Normal value,Percentage (%),N92000002,3.0
-2020/21,Very low,,,Scotland,,,,,,,,,,,,,,,,Normal value,Percentage (%),S92000003,4.0
-2020/21,Very low,,,Wales,,,,,,,,,,,,,,,,Normal value,Percentage (%),W92000004,3.0
-2020/21,Very low,,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,3.0
-2020/21,Very low,,,England,East,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000006,3.0
-2020/21,Very low,,,England,East Midlands,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000004,3.0
-2020/21,Very low,,,England,Inner London,,,,,,,,,,,,,,,Normal value,Percentage (%),E13000001,5.0
-2020/21,Very low,,,England,London,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000007,5.0
-2020/21,Very low,,,England,North East,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000001,5.0
-2020/21,Very low,,,England,North West,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000002,3.0
-2020/21,Very low,,,England,Outer London,,,,,,,,,,,,,,,Normal value,Percentage (%),E13000002,4.0
-2020/21,Very low,,,England,South East,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000008,3.0
-2020/21,Very low,,,England,South West,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000009,2.0
-2020/21,Very low,,,England,West Midlands,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000005,4.0
-2020/21,Very low,,,England,Yorkshire and The Humber,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000003,4.0
-2020/21,Very low,,,,,,,,Without children,,,,,,,,,,,Normal value,Percentage (%),,3.0
-2020/21,Very low,,,,,,,,Without children,One adult,,,,,,,,,,Normal value,Percentage (%),,5.0
-2020/21,Very low,,,,,,,,Without children,Two adults,,,,,,,,,,Normal value,Percentage (%),,2.0
-2020/21,Very low,,,,,,,,Without children,Three or more adults,,,,,,,,,,Normal value,Percentage (%),,1.0
-2020/21,Very low,,,,,,,,With children,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,Very low,,,,,,,,With children,One adult,,,,,,,,,,Normal value,Percentage (%),,10.0
-2020/21,Very low,,,,,,,,With children,One adult,One child,,,,,,,,,Normal value,Percentage (%),,9.0
-2020/21,Very low,,,,,,,,With children,One adult,Two children,,,,,,,,,Normal value,Percentage (%),,8.0
-2020/21,Very low,,,,,,,,With children,One adult,Three or more children,,,,,,,,,Normal value,Percentage (%),,18.0
-2020/21,Very low,,,,,,,,With children,Two adults,,,,,,,,,,Normal value,Percentage (%),,3.0
-2020/21,Very low,,,,,,,,With children,Two adults,One child,,,,,,,,,Normal value,Percentage (%),,3.0
-2020/21,Very low,,,,,,,,With children,Two adults,Two children,,,,,,,,,Normal value,Percentage (%),,2.0
-2020/21,Very low,,,,,,,,With children,Two adults,Three or more children,,,,,,,,,Normal value,Percentage (%),,7.0
-2020/21,Very low,,,,,,,,With children,Three or more adults,,,,,,,,,,Normal value,Percentage (%),,2.0
-2020/21,Very low,,,,,,,,With children,Three or more adults,One child,,,,,,,,,Normal value,Percentage (%),,2.0
-2020/21,Very low,,,,,,,,With children,Three or more adults,Two children,,,,,,,,,Normal value,Percentage (%),,3.0
-2020/21,Very low,,,,,,,,With children,Three or more adults,Three or more children,,,,,,,,,Normal value,Percentage (%),,
-2020/21,Very low,16 to 24,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,5.0
-2020/21,Very low,25 to 34,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,Very low,35 to 44,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,Very low,45 to 54,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,5.0
-2020/21,Very low,55 to 59,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,Very low,60 to 64,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,6.0
-2020/21,Very low,65 to 74,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,1.0
-2020/21,Very low,75 to 84,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,1.0
-2020/21,Very low,85 or over,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,0.0
-2020/21,Very low,,,,,,,,,,,One or more adults over State Pension age,,,,,,,,Normal value,Percentage (%),,1.0
-2020/21,Very low,,,,,,,,,,,,,One or more unemployed adults under State Pension age,,,,,,Normal value,Percentage (%),,10.0
-2020/21,Very low,,,,,,,,,,,,No disabled adults,,,,,,,Normal value,Percentage (%),,2.0
-2020/21,Very low,,,,,,,,,,,,One or more disabled adults,,,,,,,Normal value,Percentage (%),,6.0
-2020/21,Very low,,,,,,,,,,,,One or more disabled adults under State Pension age,,,,,,,Normal value,Percentage (%),,9.0
-2020/21,Very low,,,,,,,Entry level,,,,,,,,,,,,Normal value,Percentage (%),,3.0
-2020/21,Very low,,,,,,,Level 1,,,,,,,,,,,,Normal value,Percentage (%),,6.0
-2020/21,Very low,,,,,,,Level 2,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,Very low,,,,,,,Level 3,,,,,,,,,,,,Normal value,Percentage (%),,3.0
-2020/21,Very low,,,,,,,Level 4 or higher,,,,,,,,,,,,Normal value,Percentage (%),,2.0
-2020/21,Very low,,,,,,,Other qualification,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,Very low,,,,,,,No reported qualifications,,,,,,,,,,,,Normal value,Percentage (%),,5.0
-2020/21,Very low,,,,,White,,,,,,,,,,,,,,Normal value,Percentage (%),,3.0
-2020/21,Very low,,,,,Mixed/multiple ethnic groups,,,,,,,,,,,,,,Normal value,Percentage (%),,6.0
-2020/21,Very low,,,,,Asian/Asian British,,,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,Very low,,,,,Asian/Asian British,Indian,,,,,,,,,,,,,Normal value,Percentage (%),,2.0
-2020/21,Very low,,,,,Asian/Asian British,Pakistani,,,,,,,,,,,,,Normal value,Percentage (%),,7.0
-2020/21,Very low,,,,,Asian/Asian British,Bangladeshi,,,,,,,,,,,,,Normal value,Percentage (%),,12.0
-2020/21,Very low,,,,,Asian/Asian British,Chinese,,,,,,,,,,,,,Missing value; suppressed,Percentage (%),,
-2020/21,Very low,,,,,Asian/Asian British,Any other Asian background,,,,,,,,,,,,,Normal value,Percentage (%),,0.0
-2020/21,Very low,,,,,Black/African/Caribbean/Black British,,,,,,,,,,,,,,Normal value,Percentage (%),,12.0
-2020/21,Very low,,,,,Other ethnic group,,,,,,,,,,,,,,Normal value,Percentage (%),,3.0
-2020/21,Very low,,,,,,,,,,,,,,In receipt of state support (benefit and/or Tax Credits),,,,,Normal value,Percentage (%),,5.0
-2020/21,Very low,,,,,,,,,,,,,,In receipt of benefit,,,,,Normal value,Percentage (%),,5.0
-2020/21,Very low,,,,,,,,,,,,,,In receipt of Tax Credits,,,,,Normal value,Percentage (%),,8.0
-2020/21,Very low,,,,,,,,,,,,,,In receipt of benefit,Income-related benefit,,,,Normal value,Percentage (%),,13.0
-2020/21,Very low,,,,,,,,,,,,,,In receipt of benefit,Non-income-related benefit,,,,Normal value,Percentage (%),,4.0
-2020/21,Very low,,,,,,,,,,,,,,In receipt of Tax Credits,Working Tax Credit,,,,Normal value,Percentage (%),,4.0
-2020/21,Very low,,,,,,,,,,,,,,In receipt of Tax Credits,Child Tax Credit,,,,Normal value,Percentage (%),,8.0
-2020/21,Very low,,,,,,,,,,,,,,,,Less than £200,,,Normal value,Percentage (%),,8.0
-2020/21,Very low,,,,,,,,,,,,,,,,£200 but less than £400,,,Normal value,Percentage (%),,8.0
-2020/21,Very low,,,,,,,,,,,,,,,,£400 but less than £600,,,Normal value,Percentage (%),,4.0
-2020/21,Very low,,,,,,,,,,,,,,,,£600 but less than £800,,,Normal value,Percentage (%),,2.0
-2020/21,Very low,,,,,,,,,,,,,,,,"£800 but less than £1,000",,,Normal value,Percentage (%),,1.0
-2020/21,Very low,,,,,,,,,,,,,,,,"£1,000 or more",,,Missing value; suppressed,Percentage (%),,
-2020/21,Very low,,,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage (%),,1.0
-2020/21,Very low,,,,,,,,,,,,,,,,,Occupier owned,Owned outright,Missing value; suppressed,Percentage (%),,
-2020/21,Very low,,,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage (%),,1.0
-2020/21,Very low,,,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage (%),,12.0
-2020/21,Very low,,,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage (%),,6.0
-2020/21,Very low,,Working age,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,5.0
-2020/21,Very low,,Working age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage (%),,1.0
-2020/21,Very low,,Working age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage (%),,1.0
-2020/21,Very low,,Working age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage (%),,1.0
-2020/21,Very low,,Working age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage (%),,15.0
-2020/21,Very low,,Working age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage (%),,6.0
-2020/21,Very low,,State Pension age,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,1.0
-2020/21,Very low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,,Missing value; suppressed,Percentage (%),,
-2020/21,Very low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Missing value; suppressed,Percentage (%),,
-2020/21,Very low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage (%),,1.0
-2020/21,Very low,,State Pension age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage (%),,2.0
-2020/21,Very low,,State Pension age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage (%),,2.0
-2020/21,,,,England,,,,,,,,,,,,,,,,Normal value,Percentage (%),E92000001,7.0
-2020/21,,,,Great Britain,,,,,,,,,,,,,,,,Normal value,Percentage (%),K03000001,7.0
-2020/21,,,,Northern Ireland,,,,,,,,,,,,,,,,Normal value,Percentage (%),N92000002,5.0
-2020/21,,,,Scotland,,,,,,,,,,,,,,,,Normal value,Percentage (%),S92000003,7.0
-2020/21,,,,Wales,,,,,,,,,,,,,,,,Normal value,Percentage (%),W92000004,3.0
-2020/21,,,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,7.0
-2020/21,,,,England,East,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000006,7.0
-2020/21,,,,England,East Midlands,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000004,9.0
-2020/21,,,,England,Inner London,,,,,,,,,,,,,,,Normal value,Percentage (%),E13000001,9.0
-2020/21,,,,England,London,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000007,7.0
-2020/21,,,,England,North East,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000001,11.0
-2020/21,,,,England,North West,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000002,8.0
-2020/21,,,,England,Outer London,,,,,,,,,,,,,,,Normal value,Percentage (%),E13000002,6.0
-2020/21,,,,England,South East,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000008,4.0
-2020/21,,,,England,South West,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000009,4.0
-2020/21,,,,England,West Midlands,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000005,7.0
-2020/21,,,,England,Yorkshire and The Humber,,,,,,,,,,,,,,,Normal value,Percentage (%),E12000003,7.0
-2020/21,,,,,,,,,Without children,,,,,,,,,,,Normal value,Percentage (%),,6.0
-2020/21,,,,,,,,,Without children,One adult,,,,,,,,,,Normal value,Percentage (%),,9.0
-2020/21,,,,,,,,,Without children,Two adults,,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,,,,,,,,,Without children,Three or more adults,,,,,,,,,,Normal value,Percentage (%),,2.0
-2020/21,,,,,,,,,With children,,,,,,,,,,,Normal value,Percentage (%),,9.0
-2020/21,,,,,,,,,With children,One adult,,,,,,,,,,Normal value,Percentage (%),,19.0
-2020/21,,,,,,,,,With children,One adult,One child,,,,,,,,,Normal value,Percentage (%),,18.0
-2020/21,,,,,,,,,With children,One adult,Two children,,,,,,,,,Normal value,Percentage (%),,18.0
-2020/21,,,,,,,,,With children,One adult,Three or more children,,,,,,,,,Normal value,Percentage (%),,22.0
-2020/21,,,,,,,,,With children,Two adults,,,,,,,,,,Normal value,Percentage (%),,7.0
-2020/21,,,,,,,,,With children,Two adults,One child,,,,,,,,,Normal value,Percentage (%),,7.0
-2020/21,,,,,,,,,With children,Two adults,Two children,,,,,,,,,Normal value,Percentage (%),,5.0
-2020/21,,,,,,,,,With children,Two adults,Three or more children,,,,,,,,,Normal value,Percentage (%),,11.0
-2020/21,,,,,,,,,With children,Three or more adults,,,,,,,,,,Normal value,Percentage (%),,6.0
-2020/21,,,,,,,,,With children,Three or more adults,One child,,,,,,,,,Normal value,Percentage (%),,6.0
-2020/21,,,,,,,,,With children,Three or more adults,Two children,,,,,,,,,Normal value,Percentage (%),,7.0
-2020/21,,,,,,,,,With children,Three or more adults,Three or more children,,,,,,,,,Missing value; suppressed,Percentage (%),,
-2020/21,,16 to 24,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,14.0
-2020/21,,25 to 34,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,8.0
-2020/21,,35 to 44,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,9.0
-2020/21,,45 to 54,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,7.0
-2020/21,,55 to 59,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,9.0
-2020/21,,60 to 64,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,10.0
-2020/21,,65 to 74,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,2.0
-2020/21,,75 to 84,,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,2.0
-2020/21,,85 or over,,,,,,,,,,,,,,,,,,Missing value; suppressed,Percentage (%),,
-2020/21,,,,,,,,,,,,One or more adults over State Pension age,,,,,,,,Normal value,Percentage (%),,2.0
-2020/21,,,,,,,,,,,,,,One or more unemployed adults under State Pension age,,,,,,Normal value,Percentage (%),,21.0
-2020/21,,,,,,,,,,,,,No disabled adults,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,,,,,,,,,,,,,One or more disabled adults,,,,,,,Normal value,Percentage (%),,11.0
-2020/21,,,,,,,,,,,,,One or more disabled adults under State Pension age,,,,,,,Normal value,Percentage (%),,17.0
-2020/21,,,,,,,,Entry level,,,,,,,,,,,,Normal value,Percentage (%),,15.0
-2020/21,,,,,,,,Level 1,,,,,,,,,,,,Normal value,Percentage (%),,12.0
-2020/21,,,,,,,,Level 2,,,,,,,,,,,,Normal value,Percentage (%),,10.0
-2020/21,,,,,,,,Level 3,,,,,,,,,,,,Normal value,Percentage (%),,6.0
-2020/21,,,,,,,,Level 4 or higher,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,,,,,,,,Other qualification,,,,,,,,,,,,Normal value,Percentage (%),,7.0
-2020/21,,,,,,,,No reported qualifications,,,,,,,,,,,,Normal value,Percentage (%),,8.0
-2020/21,,,,,,White,,,,,,,,,,,,,,Normal value,Percentage (%),,6.0
-2020/21,,,,,,Mixed/multiple ethnic groups,,,,,,,,,,,,,,Normal value,Percentage (%),,13.0
-2020/21,,,,,,Asian/Asian British,,,,,,,,,,,,,,Normal value,Percentage (%),,8.0
-2020/21,,,,,,Asian/Asian British,Indian,,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,,,,,,Asian/Asian British,Pakistani,,,,,,,,,,,,,Normal value,Percentage (%),,17.0
-2020/21,,,,,,Asian/Asian British,Bangladeshi,,,,,,,,,,,,,Normal value,Percentage (%),,12.0
-2020/21,,,,,,Asian/Asian British,Chinese,,,,,,,,,,,,,Missing value; suppressed,Percentage (%),,
-2020/21,,,,,,Asian/Asian British,Any other Asian background,,,,,,,,,,,,,Normal value,Percentage (%),,4.0
-2020/21,,,,,,Black/African/Caribbean/Black British,,,,,,,,,,,,,,Normal value,Percentage (%),,21.0
-2020/21,,,,,,Other ethnic group,,,,,,,,,,,,,,Normal value,Percentage (%),,7.0
-2020/21,,,,,,,,,,,,,,,In receipt of state support (benefit and/or Tax Credits),,,,,Normal value,Percentage (%),,9.0
-2020/21,,,,,,,,,,,,,,,In receipt of benefit,,,,,Normal value,Percentage (%),,9.0
-2020/21,,,,,,,,,,,,,,,In receipt of Tax Credits,,,,,Normal value,Percentage (%),,15.0
-2020/21,,,,,,,,,,,,,,,In receipt of benefit,Income-related benefit,,,,Normal value,Percentage (%),,24.0
-2020/21,,,,,,,,,,,,,,,In receipt of benefit,Non-income-related benefit,,,,Normal value,Percentage (%),,7.0
-2020/21,,,,,,,,,,,,,,,In receipt of Tax Credits,Working Tax Credit,,,,Normal value,Percentage (%),,11.0
-2020/21,,,,,,,,,,,,,,,In receipt of Tax Credits,Child Tax Credit,,,,Normal value,Percentage (%),,14.0
-2020/21,,,,,,,,,,,,,,,,,Less than £200,,,Normal value,Percentage (%),,14.0
-2020/21,,,,,,,,,,,,,,,,,£200 but less than £400,,,Normal value,Percentage (%),,14.0
-2020/21,,,,,,,,,,,,,,,,,£400 but less than £600,,,Normal value,Percentage (%),,9.0
-2020/21,,,,,,,,,,,,,,,,,£600 but less than £800,,,Normal value,Percentage (%),,6.0
-2020/21,,,,,,,,,,,,,,,,,"£800 but less than £1,000",,,Normal value,Percentage (%),,3.0
-2020/21,,,,,,,,,,,,,,,,,"£1,000 or more",,,Normal value,Percentage (%),,1.0
-2020/21,,,,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage (%),,2.0
-2020/21,,,,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage (%),,1.0
-2020/21,,,,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage (%),,2.0
-2020/21,,,,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage (%),,22.0
-2020/21,,,,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage (%),,11.0
-2020/21,,,Working age,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,9.0
-2020/21,,,Working age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage (%),,2.0
-2020/21,,,Working age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage (%),,1.0
-2020/21,,,Working age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage (%),,2.0
-2020/21,,,Working age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage (%),,27.0
-2020/21,,,Working age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage (%),,12.0
-2020/21,,,State Pension age,,,,,,,,,,,,,,,,,Normal value,Percentage (%),,2.0
-2020/21,,,State Pension age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage (%),,1.0
-2020/21,,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage (%),,1.0
-2020/21,,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage (%),,1.0
-2020/21,,,State Pension age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage (%),,6.0
-2020/21,,,State Pension age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage (%),,4.0
+2019/2020,Low,,,England,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E92000001,4.0
+2019/2020,Low,,,Great Britain,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),K03000001,4.0
+2019/2020,Low,,,Northern Ireland,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),N92000002,3.0
+2019/2020,Low,,,Scotland,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),S92000003,4.0
+2019/2020,Low,,,Wales,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),W92000004,4.0
+2019/2020,Low,,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2019/2020,Low,,,England,East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000006,2.0
+2019/2020,Low,,,England,East Midlands,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000004,4.0
+2019/2020,Low,,,England,Inner London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E13000001,5.0
+2019/2020,Low,,,England,London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000007,5.0
+2019/2020,Low,,,England,North East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000001,4.0
+2019/2020,Low,,,England,North West,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000002,5.0
+2019/2020,Low,,,England,Outer London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E13000002,6.0
+2019/2020,Low,,,England,South East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000008,3.0
+2019/2020,Low,,,England,South West,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000009,2.0
+2019/2020,Low,,,England,West Midlands,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000005,4.0
+2019/2020,Low,,,England,Yorkshire and The Humber,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000003,4.0
+2019/2020,Low,,,,,,,,Without children,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2019/2020,Low,,,,,,,,Without children,One adult,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2019/2020,Low,,,,,,,,Without children,Two adults,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2019/2020,Low,,,,,,,,Without children,Three or more adults,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2019/2020,Low,,,,,,,,With children,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2019/2020,Low,,,,,,,,With children,One adult,,,,,,,,,,Normal value,Percentage of households (%),,16.0
+2019/2020,Low,,,,,,,,With children,One adult,One child,,,,,,,,,Normal value,Percentage of households (%),,14.0
+2019/2020,Low,,,,,,,,With children,One adult,Two children,,,,,,,,,Normal value,Percentage of households (%),,15.0
+2019/2020,Low,,,,,,,,With children,One adult,Three or more children,,,,,,,,,Normal value,Percentage of households (%),,22.0
+2019/2020,Low,,,,,,,,With children,Two adults,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2019/2020,Low,,,,,,,,With children,Two adults,One child,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2019/2020,Low,,,,,,,,With children,Two adults,Two children,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2019/2020,Low,,,,,,,,With children,Two adults,Three or more children,,,,,,,,,Normal value,Percentage of households (%),,7.0
+2019/2020,Low,,,,,,,,With children,Three or more adults,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2019/2020,Low,,,,,,,,With children,Three or more adults,One child,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2019/2020,Low,,,,,,,,With children,Three or more adults,Two children,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2019/2020,Low,,,,,,,,With children,Three or more adults,Three or more children,,,,,,,,,Missing value; suppressed,Percentage of households (%),,
+2019/2020,Low,16 to 24,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,7.0
+2019/2020,Low,25 to 34,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2019/2020,Low,35 to 44,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2019/2020,Low,45 to 54,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2019/2020,Low,55 to 59,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2019/2020,Low,60 to 64,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2019/2020,Low,65 to 74,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2019/2020,Low,75 to 84,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2019/2020,Low,85 or over,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2019/2020,Low,,,,,,,,,,,One or more adults over State Pension age,,,,,,,,Normal value,Percentage of households (%),,1.0
+2019/2020,Low,,,,,,,,,,,,,One or more unemployed adults under State Pension age,,,,,,Normal value,Percentage of households (%),,9.0
+2019/2020,Low,,,,,,,,,,,,No disabled adults,,,,,,,Normal value,Percentage of households (%),,3.0
+2019/2020,Low,,,,,,,,,,,,One or more disabled adults,,,,,,,Normal value,Percentage of households (%),,5.0
+2019/2020,Low,,,,,,,,,,,,One or more disabled adults under State Pension age,,,,,,,Normal value,Percentage of households (%),,8.0
+2019/2020,Low,,,,,,,Entry level,,,,,,,,,,,,Normal value,Percentage of households (%),,8.0
+2019/2020,Low,,,,,,,Level 1,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2019/2020,Low,,,,,,,Level 2,,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2019/2020,Low,,,,,,,Level 3,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2019/2020,Low,,,,,,,Level 4 or higher,,,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2019/2020,Low,,,,,,,Other qualification,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2019/2020,Low,,,,,,,No reported qualifications,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2019/2020,Low,,,,,White,,,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2019/2020,Low,,,,,Mixed/multiple ethnic groups,,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2019/2020,Low,,,,,Asian/Asian British,,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2019/2020,Low,,,,,Asian/Asian British,Indian,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2019/2020,Low,,,,,Asian/Asian British,Pakistani,,,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2019/2020,Low,,,,,Asian/Asian British,Bangladeshi,,,,,,,,,,,,,Missing value; suppressed,Percentage of households (%),,
+2019/2020,Low,,,,,Asian/Asian British,Chinese,,,,,,,,,,,,,Missing value; suppressed,Percentage of households (%),,
+2019/2020,Low,,,,,Asian/Asian British,Any other Asian background,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2019/2020,Low,,,,,Black/African/Caribbean/Black British,,,,,,,,,,,,,,Normal value,Percentage of households (%),,11.0
+2019/2020,Low,,,,,Other ethnic group,,,,,,,,,,,,,,Normal value,Percentage of households (%),,9.0
+2019/2020,Low,,,,,,,,,,,,,,In receipt of state support (benefit and/or Tax Credits),,,,,Normal value,Percentage of households (%),,5.0
+2019/2020,Low,,,,,,,,,,,,,,In receipt of benefit,,,,,Normal value,Percentage of households (%),,5.0
+2019/2020,Low,,,,,,,,,,,,,,In receipt of Tax Credits,,,,,Normal value,Percentage of households (%),,11.0
+2019/2020,Low,,,,,,,,,,,,,,In receipt of benefit,Income-related benefit,,,,Normal value,Percentage of households (%),,11.0
+2019/2020,Low,,,,,,,,,,,,,,In receipt of benefit,Non-income-related benefit,,,,Normal value,Percentage of households (%),,5.0
+2019/2020,Low,,,,,,,,,,,,,,In receipt of Tax Credits,Working Tax Credit,,,,Normal value,Percentage of households (%),,9.0
+2019/2020,Low,,,,,,,,,,,,,,In receipt of Tax Credits,Child Tax Credit,,,,Normal value,Percentage of households (%),,11.0
+2019/2020,Low,,,,,,,,,,,,,,,,Less than £200,,,Normal value,Percentage of households (%),,7.0
+2019/2020,Low,,,,,,,,,,,,,,,,More than £200 but less than £400,,,Normal value,Percentage of households (%),,6.0
+2019/2020,Low,,,,,,,,,,,,,,,,More than £400 but less than £600,,,Normal value,Percentage of households (%),,5.0
+2019/2020,Low,,,,,,,,,,,,,,,,More than £600 but less than £800,,,Normal value,Percentage of households (%),,4.0
+2019/2020,Low,,,,,,,,,,,,,,,,"More than £800 but less than £1,000",,,Normal value,Percentage of households (%),,2.0
+2019/2020,Low,,,,,,,,,,,,,,,,"£1,000 or more",,,Normal value,Percentage of households (%),,1.0
+2019/2020,Low,,,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,1.0
+2019/2020,Low,,,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage of households (%),,1.0
+2019/2020,Low,,,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,2.0
+2019/2020,Low,,,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,11.0
+2019/2020,Low,,,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,6.0
+2019/2020,Low,,Working age,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2019/2020,Low,,Working age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,2.0
+2019/2020,Low,,Working age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage of households (%),,2.0
+2019/2020,Low,,Working age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,2.0
+2019/2020,Low,,Working age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,14.0
+2019/2020,Low,,Working age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,6.0
+2019/2020,Low,,State Pension age,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2019/2020,Low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,1.0
+2019/2020,Low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage of households (%),,1.0
+2019/2020,Low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,1.0
+2019/2020,Low,,State Pension age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,4.0
+2019/2020,Low,,State Pension age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,3.0
+2019/2020,Very low,,,England,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E92000001,4.0
+2019/2020,Very low,,,Great Britain,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),K03000001,4.0
+2019/2020,Very low,,,Northern Ireland,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),N92000002,4.0
+2019/2020,Very low,,,Scotland,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),S92000003,4.0
+2019/2020,Very low,,,Wales,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),W92000004,3.0
+2019/2020,Very low,,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2019/2020,Very low,,,England,East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000006,3.0
+2019/2020,Very low,,,England,East Midlands,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000004,3.0
+2019/2020,Very low,,,England,Inner London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E13000001,4.0
+2019/2020,Very low,,,England,London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000007,3.0
+2019/2020,Very low,,,England,North East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000001,6.0
+2019/2020,Very low,,,England,North West,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000002,5.0
+2019/2020,Very low,,,England,Outer London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E13000002,3.0
+2019/2020,Very low,,,England,South East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000008,3.0
+2019/2020,Very low,,,England,South West,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000009,4.0
+2019/2020,Very low,,,England,West Midlands,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000005,4.0
+2019/2020,Very low,,,England,Yorkshire and The Humber,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000003,4.0
+2019/2020,Very low,,,,,,,,Without children,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2019/2020,Very low,,,,,,,,Without children,One adult,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2019/2020,Very low,,,,,,,,Without children,Two adults,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2019/2020,Very low,,,,,,,,Without children,Three or more adults,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2019/2020,Very low,,,,,,,,With children,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2019/2020,Very low,,,,,,,,With children,One adult,,,,,,,,,,Normal value,Percentage of households (%),,13.0
+2019/2020,Very low,,,,,,,,With children,One adult,One child,,,,,,,,,Normal value,Percentage of households (%),,11.0
+2019/2020,Very low,,,,,,,,With children,One adult,Two children,,,,,,,,,Normal value,Percentage of households (%),,13.0
+2019/2020,Very low,,,,,,,,With children,One adult,Three or more children,,,,,,,,,Normal value,Percentage of households (%),,19.0
+2019/2020,Very low,,,,,,,,With children,Two adults,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2019/2020,Very low,,,,,,,,With children,Two adults,One child,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2019/2020,Very low,,,,,,,,With children,Two adults,Two children,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2019/2020,Very low,,,,,,,,With children,Two adults,Three or more children,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2019/2020,Very low,,,,,,,,With children,Three or more adults,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2019/2020,Very low,,,,,,,,With children,Three or more adults,One child,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2019/2020,Very low,,,,,,,,With children,Three or more adults,Two children,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2019/2020,Very low,,,,,,,,With children,Three or more adults,Three or more children,,,,,,,,,Missing value; suppressed,Percentage of households (%),,
+2019/2020,Very low,16 to 24,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,9.0
+2019/2020,Very low,25 to 34,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2019/2020,Very low,35 to 44,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2019/2020,Very low,45 to 54,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2019/2020,Very low,55 to 59,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2019/2020,Very low,60 to 64,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2019/2020,Very low,65 to 74,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2019/2020,Very low,75 to 84,,,,,,,,,,,,,,,,,,Missing value,Percentage of households (%),,
+2019/2020,Very low,85 or over,,,,,,,,,,,,,,,,,,Missing value,Percentage of households (%),,
+2019/2020,Very low,,,,,,,,,,,One or more adults over State Pension age,,,,,,,,Normal value,Percentage of households (%),,1.0
+2019/2020,Very low,,,,,,,,,,,,,One or more unemployed adults under State Pension age,,,,,,Normal value,Percentage of households (%),,16.0
+2019/2020,Very low,,,,,,,,,,,,No disabled adults,,,,,,,Normal value,Percentage of households (%),,2.0
+2019/2020,Very low,,,,,,,,,,,,One or more disabled adults,,,,,,,Normal value,Percentage of households (%),,7.0
+2019/2020,Very low,,,,,,,,,,,,One or more disabled adults under State Pension age,,,,,,,Normal value,Percentage of households (%),,11.0
+2019/2020,Very low,,,,,,,Entry level,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2019/2020,Very low,,,,,,,Level 1,,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2019/2020,Very low,,,,,,,Level 2,,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2019/2020,Very low,,,,,,,Level 3,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2019/2020,Very low,,,,,,,Level 4 or higher,,,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2019/2020,Very low,,,,,,,Other qualification,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2019/2020,Very low,,,,,,,No reported qualifications,,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2019/2020,Very low,,,,,White,,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2019/2020,Very low,,,,,Mixed/multiple ethnic groups,,,,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2019/2020,Very low,,,,,Asian/Asian British,,,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2019/2020,Very low,,,,,Asian/Asian British,Indian,,,,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2019/2020,Very low,,,,,Asian/Asian British,Pakistani,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2019/2020,Very low,,,,,Asian/Asian British,Bangladeshi,,,,,,,,,,,,,Missing value; suppressed,Percentage of households (%),,
+2019/2020,Very low,,,,,Asian/Asian British,Chinese,,,,,,,,,,,,,Missing value; suppressed,Percentage of households (%),,
+2019/2020,Very low,,,,,Asian/Asian British,Any other Asian background,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2019/2020,Very low,,,,,Black/African/Caribbean/Black British,,,,,,,,,,,,,,Normal value,Percentage of households (%),,8.0
+2019/2020,Very low,,,,,Other ethnic group,,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2019/2020,Very low,,,,,,,,,,,,,,In receipt of state support (benefit and/or Tax Credits),,,,,Normal value,Percentage of households (%),,5.0
+2019/2020,Very low,,,,,,,,,,,,,,In receipt of benefit,,,,,Normal value,Percentage of households (%),,5.0
+2019/2020,Very low,,,,,,,,,,,,,,In receipt of Tax Credits,,,,,Normal value,Percentage of households (%),,10.0
+2019/2020,Very low,,,,,,,,,,,,,,In receipt of benefit,Income-related benefit,,,,Normal value,Percentage of households (%),,14.0
+2019/2020,Very low,,,,,,,,,,,,,,In receipt of benefit,Non-income-related benefit,,,,Normal value,Percentage of households (%),,4.0
+2019/2020,Very low,,,,,,,,,,,,,,In receipt of Tax Credits,Working Tax Credit,,,,Normal value,Percentage of households (%),,8.0
+2019/2020,Very low,,,,,,,,,,,,,,In receipt of Tax Credits,Child Tax Credit,,,,Normal value,Percentage of households (%),,10.0
+2019/2020,Very low,,,,,,,,,,,,,,,,Less than £200,,,Normal value,Percentage of households (%),,12.0
+2019/2020,Very low,,,,,,,,,,,,,,,,More than £200 but less than £400,,,Normal value,Percentage of households (%),,7.0
+2019/2020,Very low,,,,,,,,,,,,,,,,More than £400 but less than £600,,,Normal value,Percentage of households (%),,5.0
+2019/2020,Very low,,,,,,,,,,,,,,,,More than £600 but less than £800,,,Normal value,Percentage of households (%),,3.0
+2019/2020,Very low,,,,,,,,,,,,,,,,"More than £800 but less than £1,000",,,Normal value,Percentage of households (%),,1.0
+2019/2020,Very low,,,,,,,,,,,,,,,,"£1,000 or more",,,Normal value,Percentage of households (%),,1.0
+2019/2020,Very low,,,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,1.0
+2019/2020,Very low,,,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage of households (%),,1.0
+2019/2020,Very low,,,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,1.0
+2019/2020,Very low,,,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,13.0
+2019/2020,Very low,,,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,6.0
+2019/2020,Very low,,Working age,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2019/2020,Very low,,Working age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,1.0
+2019/2020,Very low,,Working age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage of households (%),,1.0
+2019/2020,Very low,,Working age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,1.0
+2019/2020,Very low,,Working age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,17.0
+2019/2020,Very low,,Working age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,6.0
+2019/2020,Very low,,State Pension age,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2019/2020,Very low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,,Missing value,Percentage of households (%),,
+2019/2020,Very low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Missing value,Percentage of households (%),,
+2019/2020,Very low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,2.0
+2019/2020,Very low,,State Pension age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,2.0
+2019/2020,Very low,,State Pension age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,1.0
+2019/2020,,,,England,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E92000001,8.0
+2019/2020,,,,Great Britain,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),K03000001,8.0
+2019/2020,,,,Northern Ireland,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),N92000002,7.0
+2019/2020,,,,Scotland,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),S92000003,8.0
+2019/2020,,,,Wales,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),W92000004,7.0
+2019/2020,,,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,8.0
+2019/2020,,,,England,East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000006,5.0
+2019/2020,,,,England,East Midlands,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000004,7.0
+2019/2020,,,,England,Inner London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E13000001,8.0
+2019/2020,,,,England,London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000007,9.0
+2019/2020,,,,England,North East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000001,11.0
+2019/2020,,,,England,North West,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000002,10.0
+2019/2020,,,,England,Outer London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E13000002,9.0
+2019/2020,,,,England,South East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000008,6.0
+2019/2020,,,,England,South West,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000009,6.0
+2019/2020,,,,England,West Midlands,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000005,8.0
+2019/2020,,,,England,Yorkshire and The Humber,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000003,8.0
+2019/2020,,,,,,,,,Without children,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2019/2020,,,,,,,,,Without children,One adult,,,,,,,,,,Normal value,Percentage of households (%),,10.0
+2019/2020,,,,,,,,,Without children,Two adults,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2019/2020,,,,,,,,,Without children,Three or more adults,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2019/2020,,,,,,,,,With children,,,,,,,,,,,Normal value,Percentage of households (%),,11.0
+2019/2020,,,,,,,,,With children,One adult,,,,,,,,,,Normal value,Percentage of households (%),,29.0
+2019/2020,,,,,,,,,With children,One adult,One child,,,,,,,,,Normal value,Percentage of households (%),,26.0
+2019/2020,,,,,,,,,With children,One adult,Two children,,,,,,,,,Normal value,Percentage of households (%),,28.0
+2019/2020,,,,,,,,,With children,One adult,Three or more children,,,,,,,,,Normal value,Percentage of households (%),,41.0
+2019/2020,,,,,,,,,With children,Two adults,,,,,,,,,,Normal value,Percentage of households (%),,7.0
+2019/2020,,,,,,,,,With children,Two adults,One child,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2019/2020,,,,,,,,,With children,Two adults,Two children,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2019/2020,,,,,,,,,With children,Two adults,Three or more children,,,,,,,,,Normal value,Percentage of households (%),,13.0
+2019/2020,,,,,,,,,With children,Three or more adults,,,,,,,,,,Normal value,Percentage of households (%),,8.0
+2019/2020,,,,,,,,,With children,Three or more adults,One child,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2019/2020,,,,,,,,,With children,Three or more adults,Two children,,,,,,,,,Normal value,Percentage of households (%),,7.0
+2019/2020,,,,,,,,,With children,Three or more adults,Three or more children,,,,,,,,,Missing value; suppressed,Percentage of households (%),,
+2019/2020,,16 to 24,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,15.0
+2019/2020,,25 to 34,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,10.0
+2019/2020,,35 to 44,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,12.0
+2019/2020,,45 to 54,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,10.0
+2019/2020,,55 to 59,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,8.0
+2019/2020,,60 to 64,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2019/2020,,65 to 74,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2019/2020,,75 to 84,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2019/2020,,85 or over,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2019/2020,,,,,,,,,,,,One or more adults over State Pension age,,,,,,,,Normal value,Percentage of households (%),,2.0
+2019/2020,,,,,,,,,,,,,,One or more unemployed adults under State Pension age,,,,,,Normal value,Percentage of households (%),,25.0
+2019/2020,,,,,,,,,,,,,No disabled adults,,,,,,,Normal value,Percentage of households (%),,5.0
+2019/2020,,,,,,,,,,,,,One or more disabled adults,,,,,,,Normal value,Percentage of households (%),,12.0
+2019/2020,,,,,,,,,,,,,One or more disabled adults under State Pension age,,,,,,,Normal value,Percentage of households (%),,19.0
+2019/2020,,,,,,,,Entry level,,,,,,,,,,,,Normal value,Percentage of households (%),,13.0
+2019/2020,,,,,,,,Level 1,,,,,,,,,,,,Normal value,Percentage of households (%),,11.0
+2019/2020,,,,,,,,Level 2,,,,,,,,,,,,Normal value,Percentage of households (%),,12.0
+2019/2020,,,,,,,,Level 3,,,,,,,,,,,,Normal value,Percentage of households (%),,8.0
+2019/2020,,,,,,,,Level 4 or higher,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2019/2020,,,,,,,,Other qualification,,,,,,,,,,,,Normal value,Percentage of households (%),,7.0
+2019/2020,,,,,,,,No reported qualifications,,,,,,,,,,,,Normal value,Percentage of households (%),,11.0
+2019/2020,,,,,,White,,,,,,,,,,,,,,Normal value,Percentage of households (%),,7.0
+2019/2020,,,,,,Mixed/multiple ethnic groups,,,,,,,,,,,,,,Normal value,Percentage of households (%),,10.0
+2019/2020,,,,,,Asian/Asian British,,,,,,,,,,,,,,Normal value,Percentage of households (%),,8.0
+2019/2020,,,,,,Asian/Asian British,Indian,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2019/2020,,,,,,Asian/Asian British,Pakistani,,,,,,,,,,,,,Normal value,Percentage of households (%),,10.0
+2019/2020,,,,,,Asian/Asian British,Bangladeshi,,,,,,,,,,,,,Missing value; suppressed,Percentage of households (%),,
+2019/2020,,,,,,Asian/Asian British,Chinese,,,,,,,,,,,,,Missing value; suppressed,Percentage of households (%),,
+2019/2020,,,,,,Asian/Asian British,Any other Asian background,,,,,,,,,,,,,Normal value,Percentage of households (%),,8.0
+2019/2020,,,,,,Black/African/Caribbean/Black British,,,,,,,,,,,,,,Normal value,Percentage of households (%),,19.0
+2019/2020,,,,,,Other ethnic group,,,,,,,,,,,,,,Normal value,Percentage of households (%),,14.0
+2019/2020,,,,,,,,,,,,,,,In receipt of state support (benefit and/or Tax Credits),,,,,Normal value,Percentage of households (%),,10.0
+2019/2020,,,,,,,,,,,,,,,In receipt of benefit,,,,,Normal value,Percentage of households (%),,10.0
+2019/2020,,,,,,,,,,,,,,,In receipt of Tax Credits,,,,,Normal value,Percentage of households (%),,21.0
+2019/2020,,,,,,,,,,,,,,,In receipt of benefit,Income-related benefit,,,,Normal value,Percentage of households (%),,25.0
+2019/2020,,,,,,,,,,,,,,,In receipt of benefit,Non-income-related benefit,,,,Normal value,Percentage of households (%),,8.0
+2019/2020,,,,,,,,,,,,,,,In receipt of Tax Credits,Working Tax Credit,,,,Normal value,Percentage of households (%),,17.0
+2019/2020,,,,,,,,,,,,,,,In receipt of Tax Credits,Child Tax Credit,,,,Normal value,Percentage of households (%),,21.0
+2019/2020,,,,,,,,,,,,,,,,,Less than £200,,,Normal value,Percentage of households (%),,19.0
+2019/2020,,,,,,,,,,,,,,,,,More than £200 but less than £400,,,Normal value,Percentage of households (%),,13.0
+2019/2020,,,,,,,,,,,,,,,,,More than £400 but less than £600,,,Normal value,Percentage of households (%),,10.0
+2019/2020,,,,,,,,,,,,,,,,,More than £600 but less than £800,,,Normal value,Percentage of households (%),,7.0
+2019/2020,,,,,,,,,,,,,,,,,"More than £800 but less than £1,000",,,Normal value,Percentage of households (%),,4.0
+2019/2020,,,,,,,,,,,,,,,,,"£1,000 or more",,,Normal value,Percentage of households (%),,2.0
+2019/2020,,,,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,2.0
+2019/2020,,,,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage of households (%),,2.0
+2019/2020,,,,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,3.0
+2019/2020,,,,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,24.0
+2019/2020,,,,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,12.0
+2019/2020,,,Working age,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,10.0
+2019/2020,,,Working age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,3.0
+2019/2020,,,Working age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage of households (%),,3.0
+2019/2020,,,Working age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,3.0
+2019/2020,,,Working age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,31.0
+2019/2020,,,Working age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,12.0
+2019/2020,,,State Pension age,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2019/2020,,,State Pension age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,1.0
+2019/2020,,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage of households (%),,1.0
+2019/2020,,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,3.0
+2019/2020,,,State Pension age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,6.0
+2019/2020,,,State Pension age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,4.0
+2020/21,Low,,,England,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E92000001,4.0
+2020/21,Low,,,Great Britain,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),K03000001,3.0
+2020/21,Low,,,Northern Ireland,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),N92000002,3.0
+2020/21,Low,,,Scotland,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),S92000003,3.0
+2020/21,Low,,,Wales,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),W92000004,1.0
+2020/21,Low,,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2020/21,Low,,,England,East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000006,4.0
+2020/21,Low,,,England,East Midlands,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000004,7.0
+2020/21,Low,,,England,Inner London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E13000001,4.0
+2020/21,Low,,,England,London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000007,3.0
+2020/21,Low,,,England,North East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000001,5.0
+2020/21,Low,,,England,North West,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000002,4.0
+2020/21,Low,,,England,Outer London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E13000002,2.0
+2020/21,Low,,,England,South East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000008,2.0
+2020/21,Low,,,England,South West,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000009,3.0
+2020/21,Low,,,England,West Midlands,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000005,3.0
+2020/21,Low,,,England,Yorkshire and The Humber,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000003,4.0
+2020/21,Low,,,,,,,,Without children,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2020/21,Low,,,,,,,,Without children,One adult,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Low,,,,,,,,Without children,Two adults,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2020/21,Low,,,,,,,,Without children,Three or more adults,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2020/21,Low,,,,,,,,With children,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2020/21,Low,,,,,,,,With children,One adult,,,,,,,,,,Normal value,Percentage of households (%),,9.0
+2020/21,Low,,,,,,,,With children,One adult,One child,,,,,,,,,Normal value,Percentage of households (%),,10.0
+2020/21,Low,,,,,,,,With children,One adult,Two children,,,,,,,,,Normal value,Percentage of households (%),,10.0
+2020/21,Low,,,,,,,,With children,One adult,Three or more children,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Low,,,,,,,,With children,Two adults,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Low,,,,,,,,With children,Two adults,One child,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Low,,,,,,,,With children,Two adults,Two children,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2020/21,Low,,,,,,,,With children,Two adults,Three or more children,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Low,,,,,,,,With children,Three or more adults,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Low,,,,,,,,With children,Three or more adults,One child,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Low,,,,,,,,With children,Three or more adults,Two children,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2020/21,Low,,,,,,,,With children,Three or more adults,Three or more children,,,,,,,,,Missing value; suppressed,Percentage of households (%),,
+2020/21,Low,16 to 24,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,9.0
+2020/21,Low,25 to 34,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Low,35 to 44,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2020/21,Low,45 to 54,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2020/21,Low,55 to 59,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2020/21,Low,60 to 64,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Low,65 to 74,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2020/21,Low,75 to 84,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2020/21,Low,85 or over,,,,,,,,,,,,,,,,,,Missing value; suppressed,Percentage of households (%),,
+2020/21,Low,,,,,,,,,,,One or more adults over State Pension age,,,,,,,,Normal value,Percentage of households (%),,1.0
+2020/21,Low,,,,,,,,,,,,,One or more unemployed adults under State Pension age,,,,,,Normal value,Percentage of households (%),,11.0
+2020/21,Low,,,,,,,,,,,,No disabled adults,,,,,,,Normal value,Percentage of households (%),,2.0
+2020/21,Low,,,,,,,,,,,,One or more disabled adults,,,,,,,Normal value,Percentage of households (%),,5.0
+2020/21,Low,,,,,,,,,,,,One or more disabled adults under State Pension age,,,,,,,Normal value,Percentage of households (%),,7.0
+2020/21,Low,,,,,,,Entry level,,,,,,,,,,,,Normal value,Percentage of households (%),,13.0
+2020/21,Low,,,,,,,Level 1,,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2020/21,Low,,,,,,,Level 2,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2020/21,Low,,,,,,,Level 3,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Low,,,,,,,Level 4 or higher,,,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2020/21,Low,,,,,,,Other qualification,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2020/21,Low,,,,,,,No reported qualifications,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Low,,,,,White,,,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2020/21,Low,,,,,Mixed/multiple ethnic groups,,,,,,,,,,,,,,Normal value,Percentage of households (%),,7.0
+2020/21,Low,,,,,Asian/Asian British,,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Low,,,,,Asian/Asian British,Indian,,,,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2020/21,Low,,,,,Asian/Asian British,Pakistani,,,,,,,,,,,,,Normal value,Percentage of households (%),,10.0
+2020/21,Low,,,,,Asian/Asian British,Bangladeshi,,,,,,,,,,,,,Normal value,Percentage of households (%),,0.0
+2020/21,Low,,,,,Asian/Asian British,Chinese,,,,,,,,,,,,,Missing value; suppressed,Percentage of households (%),,
+2020/21,Low,,,,,Asian/Asian British,Any other Asian background,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Low,,,,,Black/African/Caribbean/Black British,,,,,,,,,,,,,,Normal value,Percentage of households (%),,9.0
+2020/21,Low,,,,,Other ethnic group,,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Low,,,,,,,,,,,,,,In receipt of state support (benefit and/or Tax Credits),,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Low,,,,,,,,,,,,,,In receipt of benefit,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Low,,,,,,,,,,,,,,In receipt of Tax Credits,,,,,Normal value,Percentage of households (%),,7.0
+2020/21,Low,,,,,,,,,,,,,,In receipt of benefit,Income-related benefit,,,,Normal value,Percentage of households (%),,11.0
+2020/21,Low,,,,,,,,,,,,,,In receipt of benefit,Non-income-related benefit,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Low,,,,,,,,,,,,,,In receipt of Tax Credits,Working Tax Credit,,,,Normal value,Percentage of households (%),,7.0
+2020/21,Low,,,,,,,,,,,,,,In receipt of Tax Credits,Child Tax Credit,,,,Normal value,Percentage of households (%),,6.0
+2020/21,Low,,,,,,,,,,,,,,,,Less than £200,,,Normal value,Percentage of households (%),,6.0
+2020/21,Low,,,,,,,,,,,,,,,,More than £200 but less than £400,,,Normal value,Percentage of households (%),,6.0
+2020/21,Low,,,,,,,,,,,,,,,,More than £400 but less than £600,,,Normal value,Percentage of households (%),,5.0
+2020/21,Low,,,,,,,,,,,,,,,,More than £600 but less than £800,,,Normal value,Percentage of households (%),,3.0
+2020/21,Low,,,,,,,,,,,,,,,,"More than £800 but less than £1,000",,,Normal value,Percentage of households (%),,1.0
+2020/21,Low,,,,,,,,,,,,,,,,"£1,000 or more",,,Normal value,Percentage of households (%),,1.0
+2020/21,Low,,,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,1.0
+2020/21,Low,,,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage of households (%),,1.0
+2020/21,Low,,,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,2.0
+2020/21,Low,,,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,10.0
+2020/21,Low,,,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,5.0
+2020/21,Low,,Working age,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Low,,Working age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,1.0
+2020/21,Low,,Working age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage of households (%),,1.0
+2020/21,Low,,Working age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,2.0
+2020/21,Low,,Working age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,12.0
+2020/21,Low,,Working age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,5.0
+2020/21,Low,,State Pension age,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2020/21,Low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,1.0
+2020/21,Low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage of households (%),,1.0
+2020/21,Low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,0.0
+2020/21,Low,,State Pension age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,3.0
+2020/21,Low,,State Pension age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,2.0
+2020/21,Very low,,,England,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E92000001,3.0
+2020/21,Very low,,,Great Britain,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),K03000001,3.0
+2020/21,Very low,,,Northern Ireland,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),N92000002,3.0
+2020/21,Very low,,,Scotland,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),S92000003,4.0
+2020/21,Very low,,,Wales,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),W92000004,3.0
+2020/21,Very low,,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2020/21,Very low,,,England,East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000006,3.0
+2020/21,Very low,,,England,East Midlands,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000004,3.0
+2020/21,Very low,,,England,Inner London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E13000001,5.0
+2020/21,Very low,,,England,London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000007,5.0
+2020/21,Very low,,,England,North East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000001,5.0
+2020/21,Very low,,,England,North West,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000002,3.0
+2020/21,Very low,,,England,Outer London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E13000002,4.0
+2020/21,Very low,,,England,South East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000008,3.0
+2020/21,Very low,,,England,South West,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000009,2.0
+2020/21,Very low,,,England,West Midlands,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000005,4.0
+2020/21,Very low,,,England,Yorkshire and The Humber,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000003,4.0
+2020/21,Very low,,,,,,,,Without children,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2020/21,Very low,,,,,,,,Without children,One adult,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2020/21,Very low,,,,,,,,Without children,Two adults,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2020/21,Very low,,,,,,,,Without children,Three or more adults,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2020/21,Very low,,,,,,,,With children,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Very low,,,,,,,,With children,One adult,,,,,,,,,,Normal value,Percentage of households (%),,10.0
+2020/21,Very low,,,,,,,,With children,One adult,One child,,,,,,,,,Normal value,Percentage of households (%),,9.0
+2020/21,Very low,,,,,,,,With children,One adult,Two children,,,,,,,,,Normal value,Percentage of households (%),,8.0
+2020/21,Very low,,,,,,,,With children,One adult,Three or more children,,,,,,,,,Normal value,Percentage of households (%),,18.0
+2020/21,Very low,,,,,,,,With children,Two adults,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2020/21,Very low,,,,,,,,With children,Two adults,One child,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2020/21,Very low,,,,,,,,With children,Two adults,Two children,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2020/21,Very low,,,,,,,,With children,Two adults,Three or more children,,,,,,,,,Normal value,Percentage of households (%),,7.0
+2020/21,Very low,,,,,,,,With children,Three or more adults,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2020/21,Very low,,,,,,,,With children,Three or more adults,One child,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2020/21,Very low,,,,,,,,With children,Three or more adults,Two children,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2020/21,Very low,,,,,,,,With children,Three or more adults,Three or more children,,,,,,,,,Normal value,Percentage of households (%),,
+2020/21,Very low,16 to 24,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2020/21,Very low,25 to 34,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Very low,35 to 44,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Very low,45 to 54,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2020/21,Very low,55 to 59,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Very low,60 to 64,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2020/21,Very low,65 to 74,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2020/21,Very low,75 to 84,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2020/21,Very low,85 or over,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,0.0
+2020/21,Very low,,,,,,,,,,,One or more adults over State Pension age,,,,,,,,Normal value,Percentage of households (%),,1.0
+2020/21,Very low,,,,,,,,,,,,,One or more unemployed adults under State Pension age,,,,,,Normal value,Percentage of households (%),,10.0
+2020/21,Very low,,,,,,,,,,,,No disabled adults,,,,,,,Normal value,Percentage of households (%),,2.0
+2020/21,Very low,,,,,,,,,,,,One or more disabled adults,,,,,,,Normal value,Percentage of households (%),,6.0
+2020/21,Very low,,,,,,,,,,,,One or more disabled adults under State Pension age,,,,,,,Normal value,Percentage of households (%),,9.0
+2020/21,Very low,,,,,,,Entry level,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2020/21,Very low,,,,,,,Level 1,,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2020/21,Very low,,,,,,,Level 2,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Very low,,,,,,,Level 3,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2020/21,Very low,,,,,,,Level 4 or higher,,,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2020/21,Very low,,,,,,,Other qualification,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Very low,,,,,,,No reported qualifications,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2020/21,Very low,,,,,White,,,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2020/21,Very low,,,,,Mixed/multiple ethnic groups,,,,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2020/21,Very low,,,,,Asian/Asian British,,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Very low,,,,,Asian/Asian British,Indian,,,,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2020/21,Very low,,,,,Asian/Asian British,Pakistani,,,,,,,,,,,,,Normal value,Percentage of households (%),,7.0
+2020/21,Very low,,,,,Asian/Asian British,Bangladeshi,,,,,,,,,,,,,Normal value,Percentage of households (%),,12.0
+2020/21,Very low,,,,,Asian/Asian British,Chinese,,,,,,,,,,,,,Missing value; suppressed,Percentage of households (%),,
+2020/21,Very low,,,,,Asian/Asian British,Any other Asian background,,,,,,,,,,,,,Normal value,Percentage of households (%),,0.0
+2020/21,Very low,,,,,Black/African/Caribbean/Black British,,,,,,,,,,,,,,Normal value,Percentage of households (%),,12.0
+2020/21,Very low,,,,,Other ethnic group,,,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2020/21,Very low,,,,,,,,,,,,,,In receipt of state support (benefit and/or Tax Credits),,,,,Normal value,Percentage of households (%),,5.0
+2020/21,Very low,,,,,,,,,,,,,,In receipt of benefit,,,,,Normal value,Percentage of households (%),,5.0
+2020/21,Very low,,,,,,,,,,,,,,In receipt of Tax Credits,,,,,Normal value,Percentage of households (%),,8.0
+2020/21,Very low,,,,,,,,,,,,,,In receipt of benefit,Income-related benefit,,,,Normal value,Percentage of households (%),,13.0
+2020/21,Very low,,,,,,,,,,,,,,In receipt of benefit,Non-income-related benefit,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Very low,,,,,,,,,,,,,,In receipt of Tax Credits,Working Tax Credit,,,,Normal value,Percentage of households (%),,4.0
+2020/21,Very low,,,,,,,,,,,,,,In receipt of Tax Credits,Child Tax Credit,,,,Normal value,Percentage of households (%),,8.0
+2020/21,Very low,,,,,,,,,,,,,,,,Less than £200,,,Normal value,Percentage of households (%),,8.0
+2020/21,Very low,,,,,,,,,,,,,,,,More than £200 but less than £400,,,Normal value,Percentage of households (%),,8.0
+2020/21,Very low,,,,,,,,,,,,,,,,More than £400 but less than £600,,,Normal value,Percentage of households (%),,4.0
+2020/21,Very low,,,,,,,,,,,,,,,,More than £600 but less than £800,,,Normal value,Percentage of households (%),,2.0
+2020/21,Very low,,,,,,,,,,,,,,,,"More than £800 but less than £1,000",,,Normal value,Percentage of households (%),,1.0
+2020/21,Very low,,,,,,,,,,,,,,,,"£1,000 or more",,,Missing value; suppressed,Percentage of households (%),,
+2020/21,Very low,,,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,1.0
+2020/21,Very low,,,,,,,,,,,,,,,,,Occupier owned,Owned outright,Missing value; suppressed,Percentage of households (%),,
+2020/21,Very low,,,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,1.0
+2020/21,Very low,,,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,12.0
+2020/21,Very low,,,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,6.0
+2020/21,Very low,,Working age,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2020/21,Very low,,Working age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,1.0
+2020/21,Very low,,Working age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage of households (%),,1.0
+2020/21,Very low,,Working age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,1.0
+2020/21,Very low,,Working age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,15.0
+2020/21,Very low,,Working age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,6.0
+2020/21,Very low,,State Pension age,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2020/21,Very low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,,Missing value; suppressed,Percentage of households (%),,
+2020/21,Very low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Missing value; suppressed,Percentage of households (%),,
+2020/21,Very low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,1.0
+2020/21,Very low,,State Pension age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,2.0
+2020/21,Very low,,State Pension age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,2.0
+2020/21,,,,England,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E92000001,7.0
+2020/21,,,,Great Britain,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),K03000001,7.0
+2020/21,,,,Northern Ireland,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),N92000002,5.0
+2020/21,,,,Scotland,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),S92000003,7.0
+2020/21,,,,Wales,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),W92000004,3.0
+2020/21,,,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,7.0
+2020/21,,,,England,East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000006,7.0
+2020/21,,,,England,East Midlands,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000004,9.0
+2020/21,,,,England,Inner London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E13000001,9.0
+2020/21,,,,England,London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000007,7.0
+2020/21,,,,England,North East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000001,11.0
+2020/21,,,,England,North West,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000002,8.0
+2020/21,,,,England,Outer London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E13000002,6.0
+2020/21,,,,England,South East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000008,4.0
+2020/21,,,,England,South West,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000009,4.0
+2020/21,,,,England,West Midlands,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000005,7.0
+2020/21,,,,England,Yorkshire and The Humber,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000003,7.0
+2020/21,,,,,,,,,Without children,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2020/21,,,,,,,,,Without children,One adult,,,,,,,,,,Normal value,Percentage of households (%),,9.0
+2020/21,,,,,,,,,Without children,Two adults,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,,,,,,,,,Without children,Three or more adults,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2020/21,,,,,,,,,With children,,,,,,,,,,,Normal value,Percentage of households (%),,9.0
+2020/21,,,,,,,,,With children,One adult,,,,,,,,,,Normal value,Percentage of households (%),,19.0
+2020/21,,,,,,,,,With children,One adult,One child,,,,,,,,,Normal value,Percentage of households (%),,18.0
+2020/21,,,,,,,,,With children,One adult,Two children,,,,,,,,,Normal value,Percentage of households (%),,18.0
+2020/21,,,,,,,,,With children,One adult,Three or more children,,,,,,,,,Normal value,Percentage of households (%),,22.0
+2020/21,,,,,,,,,With children,Two adults,,,,,,,,,,Normal value,Percentage of households (%),,7.0
+2020/21,,,,,,,,,With children,Two adults,One child,,,,,,,,,Normal value,Percentage of households (%),,7.0
+2020/21,,,,,,,,,With children,Two adults,Two children,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2020/21,,,,,,,,,With children,Two adults,Three or more children,,,,,,,,,Normal value,Percentage of households (%),,11.0
+2020/21,,,,,,,,,With children,Three or more adults,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2020/21,,,,,,,,,With children,Three or more adults,One child,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2020/21,,,,,,,,,With children,Three or more adults,Two children,,,,,,,,,Normal value,Percentage of households (%),,7.0
+2020/21,,,,,,,,,With children,Three or more adults,Three or more children,,,,,,,,,Missing value; suppressed,Percentage of households (%),,
+2020/21,,16 to 24,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,14.0
+2020/21,,25 to 34,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,8.0
+2020/21,,35 to 44,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,9.0
+2020/21,,45 to 54,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,7.0
+2020/21,,55 to 59,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,9.0
+2020/21,,60 to 64,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,10.0
+2020/21,,65 to 74,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2020/21,,75 to 84,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2020/21,,85 or over,,,,,,,,,,,,,,,,,,Missing value; suppressed,Percentage of households (%),,
+2020/21,,,,,,,,,,,,One or more adults over State Pension age,,,,,,,,Normal value,Percentage of households (%),,2.0
+2020/21,,,,,,,,,,,,,,One or more unemployed adults under State Pension age,,,,,,Normal value,Percentage of households (%),,21.0
+2020/21,,,,,,,,,,,,,No disabled adults,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,,,,,,,,,,,,,One or more disabled adults,,,,,,,Normal value,Percentage of households (%),,11.0
+2020/21,,,,,,,,,,,,,One or more disabled adults under State Pension age,,,,,,,Normal value,Percentage of households (%),,17.0
+2020/21,,,,,,,,Entry level,,,,,,,,,,,,Normal value,Percentage of households (%),,15.0
+2020/21,,,,,,,,Level 1,,,,,,,,,,,,Normal value,Percentage of households (%),,12.0
+2020/21,,,,,,,,Level 2,,,,,,,,,,,,Normal value,Percentage of households (%),,10.0
+2020/21,,,,,,,,Level 3,,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2020/21,,,,,,,,Level 4 or higher,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,,,,,,,,Other qualification,,,,,,,,,,,,Normal value,Percentage of households (%),,7.0
+2020/21,,,,,,,,No reported qualifications,,,,,,,,,,,,Normal value,Percentage of households (%),,8.0
+2020/21,,,,,,White,,,,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2020/21,,,,,,Mixed/multiple ethnic groups,,,,,,,,,,,,,,Normal value,Percentage of households (%),,13.0
+2020/21,,,,,,Asian/Asian British,,,,,,,,,,,,,,Normal value,Percentage of households (%),,8.0
+2020/21,,,,,,Asian/Asian British,Indian,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,,,,,,Asian/Asian British,Pakistani,,,,,,,,,,,,,Normal value,Percentage of households (%),,17.0
+2020/21,,,,,,Asian/Asian British,Bangladeshi,,,,,,,,,,,,,Normal value,Percentage of households (%),,12.0
+2020/21,,,,,,Asian/Asian British,Chinese,,,,,,,,,,,,,Missing value; suppressed,Percentage of households (%),,
+2020/21,,,,,,Asian/Asian British,Any other Asian background,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2020/21,,,,,,Black/African/Caribbean/Black British,,,,,,,,,,,,,,Normal value,Percentage of households (%),,21.0
+2020/21,,,,,,Other ethnic group,,,,,,,,,,,,,,Normal value,Percentage of households (%),,7.0
+2020/21,,,,,,,,,,,,,,,In receipt of state support (benefit and/or Tax Credits),,,,,Normal value,Percentage of households (%),,9.0
+2020/21,,,,,,,,,,,,,,,In receipt of benefit,,,,,Normal value,Percentage of households (%),,9.0
+2020/21,,,,,,,,,,,,,,,In receipt of Tax Credits,,,,,Normal value,Percentage of households (%),,15.0
+2020/21,,,,,,,,,,,,,,,In receipt of benefit,Income-related benefit,,,,Normal value,Percentage of households (%),,24.0
+2020/21,,,,,,,,,,,,,,,In receipt of benefit,Non-income-related benefit,,,,Normal value,Percentage of households (%),,7.0
+2020/21,,,,,,,,,,,,,,,In receipt of Tax Credits,Working Tax Credit,,,,Normal value,Percentage of households (%),,11.0
+2020/21,,,,,,,,,,,,,,,In receipt of Tax Credits,Child Tax Credit,,,,Normal value,Percentage of households (%),,14.0
+2020/21,,,,,,,,,,,,,,,,,Less than £200,,,Normal value,Percentage of households (%),,14.0
+2020/21,,,,,,,,,,,,,,,,,More than £200 but less than £400,,,Normal value,Percentage of households (%),,14.0
+2020/21,,,,,,,,,,,,,,,,,More than £400 but less than £600,,,Normal value,Percentage of households (%),,9.0
+2020/21,,,,,,,,,,,,,,,,,More than £600 but less than £800,,,Normal value,Percentage of households (%),,6.0
+2020/21,,,,,,,,,,,,,,,,,"More than £800 but less than £1,000",,,Normal value,Percentage of households (%),,3.0
+2020/21,,,,,,,,,,,,,,,,,"£1,000 or more",,,Normal value,Percentage of households (%),,1.0
+2020/21,,,,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,2.0
+2020/21,,,,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage of households (%),,1.0
+2020/21,,,,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,2.0
+2020/21,,,,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,22.0
+2020/21,,,,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,11.0
+2020/21,,,Working age,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,9.0
+2020/21,,,Working age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,2.0
+2020/21,,,Working age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage of households (%),,1.0
+2020/21,,,Working age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,2.0
+2020/21,,,Working age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,27.0
+2020/21,,,Working age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,12.0
+2020/21,,,State Pension age,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2020/21,,,State Pension age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,1.0
+2020/21,,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage of households (%),,1.0
+2020/21,,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,1.0
+2020/21,,,State Pension age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,6.0
+2020/21,,,State Pension age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,4.0
+2021/22,Low,,,England,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E92000001,3.0
+2021/22,Low,,,Great Britain,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),K03000001,3.0
+2021/22,Low,,,Northern Ireland,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),N92000002,3.0
+2021/22,Low,,,Scotland,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),S92000003,4.0
+2021/22,Low,,,Wales,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),W92000004,4.0
+2021/22,Low,,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2021/22,Low,,,England,East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000006,2.0
+2021/22,Low,,,England,East Midlands,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000004,2.0
+2021/22,Low,,,England,Inner London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E13000001,3.0
+2021/22,Low,,,England,London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000007,2.0
+2021/22,Low,,,England,North East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000001,4.0
+2021/22,Low,,,England,North West,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000002,4.0
+2021/22,Low,,,England,Outer London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E13000002,2.0
+2021/22,Low,,,England,South East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000008,3.0
+2021/22,Low,,,England,South West,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000009,3.0
+2021/22,Low,,,England,West Midlands,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000005,4.0
+2021/22,Low,,,England,Yorkshire and The Humber,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000003,3.0
+2021/22,Low,,,,,,,,Without children,,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2021/22,Low,,,,,,,,Without children,One adult,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2021/22,Low,,,,,,,,Without children,Two adults,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2021/22,Low,,,,,,,,Without children,Three or more adults,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2021/22,Low,,,,,,,,With children,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,Low,,,,,,,,With children,One adult,,,,,,,,,,Normal value,Percentage of households (%),,10.0
+2021/22,Low,,,,,,,,With children,One adult,One child,,,,,,,,,Normal value,Percentage of households (%),,10.0
+2021/22,Low,,,,,,,,With children,One adult,Two children,,,,,,,,,Normal value,Percentage of households (%),,9.0
+2021/22,Low,,,,,,,,With children,One adult,Three or more children,,,,,,,,,Normal value,Percentage of households (%),,12.0
+2021/22,Low,,,,,,,,With children,Two adults,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2021/22,Low,,,,,,,,With children,Two adults,One child,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2021/22,Low,,,,,,,,With children,Two adults,Two children,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2021/22,Low,,,,,,,,With children,Two adults,Three or more children,,,,,,,,,Normal value,Percentage of households (%),,8.0
+2021/22,Low,,,,,,,,With children,Three or more adults,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2021/22,Low,,,,,,,,With children,Three or more adults,One child,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2021/22,Low,,,,,,,,With children,Three or more adults,Two children,,,,,,,,,Normal value,Percentage of households (%),,8.0
+2021/22,Low,,,,,,,,With children,Three or more adults,Three or more children,,,,,,,,,Normal value,Percentage of households (%),,16.0
+2021/22,Low,16 to 24,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,8.0
+2021/22,Low,25 to 34,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,Low,35 to 44,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2021/22,Low,45 to 54,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2021/22,Low,55 to 59,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2021/22,Low,60 to 64,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2021/22,Low,65 to 74,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2021/22,Low,75 to 84,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2021/22,Low,85 or over,,,,,,,,,,,,,,,,,,Missing value; suppressed,Percentage of households (%),,
+2021/22,Low,,,,,,,,,,,One or more adults over State Pension age,,,,,,,,Normal value,Percentage of households (%),,1.0
+2021/22,Low,,,,,,,,,,,,,One or more unemployed adults under State Pension age,,,,,,Normal value,Percentage of households (%),,10.0
+2021/22,Low,,,,,,,,,,,,No disabled adults,,,,,,,Normal value,Percentage of households (%),,2.0
+2021/22,Low,,,,,,,,,,,,One or more disabled adults,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,Low,,,,,,,,,,,,One or more disabled adults under State Pension age,,,,,,,Normal value,Percentage of households (%),,7.0
+2021/22,Low,,,,,,,Entry level,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2021/22,Low,,,,,,,Level 1,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,Low,,,,,,,Level 2,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,Low,,,,,,,Level 3,,,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2021/22,Low,,,,,,,Level 4 or higher,,,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2021/22,Low,,,,,,,Other qualification,,,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2021/22,Low,,,,,,,No reported qualifications,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,Low,,,,,White,,,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2021/22,Low,,,,,Mixed/multiple ethnic groups,,,,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2021/22,Low,,,,,Asian/Asian British,,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,Low,,,,,Asian/Asian British,Indian,,,,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2021/22,Low,,,,,Asian/Asian British,Pakistani,,,,,,,,,,,,,Normal value,Percentage of households (%),,9.0
+2021/22,Low,,,,,Asian/Asian British,Bangladeshi,,,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2021/22,Low,,,,,Asian/Asian British,Chinese,,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2021/22,Low,,,,,Asian/Asian British,Any other Asian background,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,Low,,,,,Black/African/Caribbean/Black British,,,,,,,,,,,,,,Normal value,Percentage of households (%),,10.0
+2021/22,Low,,,,,Arab,,,,,,,,,,,,,,Normal value,Percentage of households (%),,12.0
+2021/22,Low,,,,,Other ethnic group,,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2021/22,Low,,,,,,,,,,,,,,In receipt of state support (benefit and/or Tax Credits),,,,,Normal value,Percentage of households (%),,4.0
+2021/22,Low,,,,,,,,,,,,,,In receipt of benefit,,,,,Normal value,Percentage of households (%),,4.0
+2021/22,Low,,,,,,,,,,,,,,In receipt of Tax Credits,,,,,Normal value,Percentage of households (%),,10.0
+2021/22,Low,,,,,,,,,,,,,,In receipt of benefit,Income-related benefit,,,,Normal value,Percentage of households (%),,10.0
+2021/22,Low,,,,,,,,,,,,,,In receipt of benefit,Non-income-related benefit,,,,Normal value,Percentage of households (%),,4.0
+2021/22,Low,,,,,,,,,,,,,,In receipt of Tax Credits,Working Tax Credit,,,,Normal value,Percentage of households (%),,8.0
+2021/22,Low,,,,,,,,,,,,,,In receipt of Tax Credits,Child Tax Credit,,,,Normal value,Percentage of households (%),,10.0
+2021/22,Low,,,,,,,,,,,,,,,,Less than £200,,,Normal value,Percentage of households (%),,6.0
+2021/22,Low,,,,,,,,,,,,,,,,More than £200 but less than £400,,,Normal value,Percentage of households (%),,5.0
+2021/22,Low,,,,,,,,,,,,,,,,More than £400 but less than £600,,,Normal value,Percentage of households (%),,5.0
+2021/22,Low,,,,,,,,,,,,,,,,More than £600 but less than £800,,,Normal value,Percentage of households (%),,3.0
+2021/22,Low,,,,,,,,,,,,,,,,"More than £800 but less than £1,000",,,Normal value,Percentage of households (%),,2.0
+2021/22,Low,,,,,,,,,,,,,,,,"£1,000 or more",,,Normal value,Percentage of households (%),,1.0
+2021/22,Low,,,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,1.0
+2021/22,Low,,,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage of households (%),,1.0
+2021/22,Low,,,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,2.0
+2021/22,Low,,,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,9.0
+2021/22,Low,,,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,5.0
+2021/22,Low,,Working age,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2021/22,Low,,Working age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,2.0
+2021/22,Low,,Working age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage of households (%),,2.0
+2021/22,Low,,Working age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,2.0
+2021/22,Low,,Working age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,12.0
+2021/22,Low,,Working age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,5.0
+2021/22,Low,,State Pension age,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2021/22,Low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,1.0
+2021/22,Low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage of households (%),,1.0
+2021/22,Low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,1.0
+2021/22,Low,,State Pension age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,3.0
+2021/22,Low,,State Pension age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,2.0
+2021/22,Very low,,,England,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E92000001,3.0
+2021/22,Very low,,,Great Britain,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),K03000001,3.0
+2021/22,Very low,,,Northern Ireland,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),N92000002,3.0
+2021/22,Very low,,,Scotland,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),S92000003,4.0
+2021/22,Very low,,,Wales,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),W92000004,4.0
+2021/22,Very low,,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2021/22,Very low,,,England,East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000006,2.0
+2021/22,Very low,,,England,East Midlands,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000004,4.0
+2021/22,Very low,,,England,Inner London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E13000001,4.0
+2021/22,Very low,,,England,London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000007,3.0
+2021/22,Very low,,,England,North East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000001,5.0
+2021/22,Very low,,,England,North West,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000002,4.0
+2021/22,Very low,,,England,Outer London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E13000002,2.0
+2021/22,Very low,,,England,South East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000008,3.0
+2021/22,Very low,,,England,South West,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000009,3.0
+2021/22,Very low,,,England,West Midlands,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000005,5.0
+2021/22,Very low,,,England,Yorkshire and The Humber,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000003,4.0
+2021/22,Very low,,,,,,,,Without children,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2021/22,Very low,,,,,,,,Without children,One adult,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,Very low,,,,,,,,Without children,Two adults,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2021/22,Very low,,,,,,,,Without children,Three or more adults,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2021/22,Very low,,,,,,,,With children,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2021/22,Very low,,,,,,,,With children,One adult,,,,,,,,,,Normal value,Percentage of households (%),,12.0
+2021/22,Very low,,,,,,,,With children,One adult,One child,,,,,,,,,Normal value,Percentage of households (%),,12.0
+2021/22,Very low,,,,,,,,With children,One adult,Two children,,,,,,,,,Normal value,Percentage of households (%),,12.0
+2021/22,Very low,,,,,,,,With children,One adult,Three or more children,,,,,,,,,Normal value,Percentage of households (%),,14.0
+2021/22,Very low,,,,,,,,With children,Two adults,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2021/22,Very low,,,,,,,,With children,Two adults,One child,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2021/22,Very low,,,,,,,,With children,Two adults,Two children,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2021/22,Very low,,,,,,,,With children,Two adults,Three or more children,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2021/22,Very low,,,,,,,,With children,Three or more adults,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2021/22,Very low,,,,,,,,With children,Three or more adults,One child,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2021/22,Very low,,,,,,,,With children,Three or more adults,Two children,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,Very low,,,,,,,,With children,Three or more adults,Three or more children,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2021/22,Very low,16 to 24,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,9.0
+2021/22,Very low,25 to 34,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,Very low,35 to 44,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,Very low,45 to 54,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,Very low,55 to 59,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2021/22,Very low,60 to 64,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2021/22,Very low,65 to 74,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2021/22,Very low,75 to 84,,,,,,,,,,,,,,,,,,Missing value; suppressed,Percentage of households (%),,
+2021/22,Very low,85 or over,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,0.0
+2021/22,Very low,,,,,,,,,,,One or more adults over State Pension age,,,,,,,,Normal value,Percentage of households (%),,1.0
+2021/22,Very low,,,,,,,,,,,,,One or more unemployed adults under State Pension age,,,,,,Normal value,Percentage of households (%),,15.0
+2021/22,Very low,,,,,,,,,,,,No disabled adults,,,,,,,Normal value,Percentage of households (%),,2.0
+2021/22,Very low,,,,,,,,,,,,One or more disabled adults,,,,,,,Normal value,Percentage of households (%),,6.0
+2021/22,Very low,,,,,,,,,,,,One or more disabled adults under State Pension age,,,,,,,Normal value,Percentage of households (%),,9.0
+2021/22,Very low,,,,,,,Entry level,,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2021/22,Very low,,,,,,,Level 1,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,Very low,,,,,,,Level 2,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,Very low,,,,,,,Level 3,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2021/22,Very low,,,,,,,Level 4 or higher,,,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2021/22,Very low,,,,,,,Other qualification,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2021/22,Very low,,,,,,,No reported qualifications,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,Very low,,,,,White,,,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2021/22,Very low,,,,,Mixed/multiple ethnic groups,,,,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2021/22,Very low,,,,,Asian/Asian British,,,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2021/22,Very low,,,,,Asian/Asian British,Indian,,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2021/22,Very low,,,,,Asian/Asian British,Pakistani,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,Very low,,,,,Asian/Asian British,Bangladeshi,,,,,,,,,,,,,Normal value,Percentage of households (%),,7.0
+2021/22,Very low,,,,,Asian/Asian British,Chinese,,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2021/22,Very low,,,,,Asian/Asian British,Any other Asian background,,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2021/22,Very low,,,,,Black/African/Caribbean/Black British,,,,,,,,,,,,,,Normal value,Percentage of households (%),,9.0
+2021/22,Very low,,,,,Arab,,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,Very low,,,,,Other ethnic group,,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2021/22,Very low,,,,,,,,,,,,,,In receipt of state support (benefit and/or Tax Credits),,,,,Normal value,Percentage of households (%),,5.0
+2021/22,Very low,,,,,,,,,,,,,,In receipt of benefit,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,Very low,,,,,,,,,,,,,,In receipt of Tax Credits,,,,,Normal value,Percentage of households (%),,7.0
+2021/22,Very low,,,,,,,,,,,,,,In receipt of benefit,Income-related benefit,,,,Normal value,Percentage of households (%),,12.0
+2021/22,Very low,,,,,,,,,,,,,,In receipt of benefit,Non-income-related benefit,,,,Normal value,Percentage of households (%),,4.0
+2021/22,Very low,,,,,,,,,,,,,,In receipt of Tax Credits,Working Tax Credit,,,,Normal value,Percentage of households (%),,8.0
+2021/22,Very low,,,,,,,,,,,,,,In receipt of Tax Credits,Child Tax Credit,,,,Normal value,Percentage of households (%),,7.0
+2021/22,Very low,,,,,,,,,,,,,,,,Less than £200,,,Normal value,Percentage of households (%),,11.0
+2021/22,Very low,,,,,,,,,,,,,,,,More than £200 but less than £400,,,Normal value,Percentage of households (%),,6.0
+2021/22,Very low,,,,,,,,,,,,,,,,More than £400 but less than £600,,,Normal value,Percentage of households (%),,4.0
+2021/22,Very low,,,,,,,,,,,,,,,,More than £600 but less than £800,,,Normal value,Percentage of households (%),,3.0
+2021/22,Very low,,,,,,,,,,,,,,,,"More than £800 but less than £1,000",,,Normal value,Percentage of households (%),,2.0
+2021/22,Very low,,,,,,,,,,,,,,,,"£1,000 or more",,,Missing value; suppressed,Percentage of households (%),,
+2021/22,Very low,,,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,1.0
+2021/22,Very low,,,,,,,,,,,,,,,,,Occupier owned,Owned outright,Missing value; suppressed,Percentage of households (%),,
+2021/22,Very low,,,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,1.0
+2021/22,Very low,,,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,12.0
+2021/22,Very low,,,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,6.0
+2021/22,Very low,,Working age,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,Very low,,Working age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,1.0
+2021/22,Very low,,Working age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage of households (%),,1.0
+2021/22,Very low,,Working age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,1.0
+2021/22,Very low,,Working age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,16.0
+2021/22,Very low,,Working age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,6.0
+2021/22,Very low,,State Pension age,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2021/22,Very low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,,Missing value; suppressed,Percentage of households (%),,
+2021/22,Very low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Missing value; suppressed,Percentage of households (%),,
+2021/22,Very low,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,1.0
+2021/22,Very low,,State Pension age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,2.0
+2021/22,Very low,,State Pension age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,3.0
+2021/22,,,,England,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E92000001,6.0
+2021/22,,,,Great Britain,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),K03000001,7.0
+2021/22,,,,Northern Ireland,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),N92000002,5.0
+2021/22,,,,Scotland,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),S92000003,8.0
+2021/22,,,,Wales,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),W92000004,8.0
+2021/22,,,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,7.0
+2021/22,,,,England,East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000006,5.0
+2021/22,,,,England,East Midlands,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000004,6.0
+2021/22,,,,England,Inner London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E13000001,7.0
+2021/22,,,,England,London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000007,5.0
+2021/22,,,,England,North East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000001,10.0
+2021/22,,,,England,North West,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000002,8.0
+2021/22,,,,England,Outer London,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E13000002,4.0
+2021/22,,,,England,South East,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000008,6.0
+2021/22,,,,England,South West,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000009,5.0
+2021/22,,,,England,West Midlands,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000005,9.0
+2021/22,,,,England,Yorkshire and The Humber,,,,,,,,,,,,,,,Normal value,Percentage of households (%),E12000003,6.0
+2021/22,,,,,,,,,Without children,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,,,,,,,,,Without children,One adult,,,,,,,,,,Normal value,Percentage of households (%),,8.0
+2021/22,,,,,,,,,Without children,Two adults,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2021/22,,,,,,,,,Without children,Three or more adults,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2021/22,,,,,,,,,With children,,,,,,,,,,,Normal value,Percentage of households (%),,10.0
+2021/22,,,,,,,,,With children,One adult,,,,,,,,,,Normal value,Percentage of households (%),,22.0
+2021/22,,,,,,,,,With children,One adult,One child,,,,,,,,,Normal value,Percentage of households (%),,21.0
+2021/22,,,,,,,,,With children,One adult,Two children,,,,,,,,,Normal value,Percentage of households (%),,21.0
+2021/22,,,,,,,,,With children,One adult,Three or more children,,,,,,,,,Normal value,Percentage of households (%),,27.0
+2021/22,,,,,,,,,With children,Two adults,,,,,,,,,,Normal value,Percentage of households (%),,7.0
+2021/22,,,,,,,,,With children,Two adults,One child,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2021/22,,,,,,,,,With children,Two adults,Two children,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,,,,,,,,,With children,Two adults,Three or more children,,,,,,,,,Normal value,Percentage of households (%),,11.0
+2021/22,,,,,,,,,With children,Three or more adults,,,,,,,,,,Normal value,Percentage of households (%),,9.0
+2021/22,,,,,,,,,With children,Three or more adults,One child,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,,,,,,,,,With children,Three or more adults,Two children,,,,,,,,,Normal value,Percentage of households (%),,13.0
+2021/22,,,,,,,,,With children,Three or more adults,Three or more children,,,,,,,,,Normal value,Percentage of households (%),,18.0
+2021/22,,16 to 24,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,18.0
+2021/22,,25 to 34,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,9.0
+2021/22,,35 to 44,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,9.0
+2021/22,,45 to 54,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,9.0
+2021/22,,55 to 59,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2021/22,,60 to 64,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,7.0
+2021/22,,65 to 74,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,3.0
+2021/22,,75 to 84,,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,1.0
+2021/22,,85 or over,,,,,,,,,,,,,,,,,,Missing value; suppressed,Percentage of households (%),,
+2021/22,,,,,,,,,,,,One or more adults over State Pension age,,,,,,,,Normal value,Percentage of households (%),,2.0
+2021/22,,,,,,,,,,,,,,One or more unemployed adults under State Pension age,,,,,,Normal value,Percentage of households (%),,24.0
+2021/22,,,,,,,,,,,,,No disabled adults,,,,,,,Normal value,Percentage of households (%),,3.0
+2021/22,,,,,,,,,,,,,One or more disabled adults,,,,,,,Normal value,Percentage of households (%),,11.0
+2021/22,,,,,,,,,,,,,One or more disabled adults under State Pension age,,,,,,,Normal value,Percentage of households (%),,16.0
+2021/22,,,,,,,,Entry level,,,,,,,,,,,,Normal value,Percentage of households (%),,7.0
+2021/22,,,,,,,,Level 1,,,,,,,,,,,,Normal value,Percentage of households (%),,10.0
+2021/22,,,,,,,,Level 2,,,,,,,,,,,,Normal value,Percentage of households (%),,10.0
+2021/22,,,,,,,,Level 3,,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2021/22,,,,,,,,Level 4 or higher,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2021/22,,,,,,,,Other qualification,,,,,,,,,,,,Normal value,Percentage of households (%),,5.0
+2021/22,,,,,,,,No reported qualifications,,,,,,,,,,,,Normal value,Percentage of households (%),,11.0
+2021/22,,,,,,White,,,,,,,,,,,,,,Normal value,Percentage of households (%),,6.0
+2021/22,,,,,,Mixed/multiple ethnic groups,,,,,,,,,,,,,,Normal value,Percentage of households (%),,12.0
+2021/22,,,,,,Asian/Asian British,,,,,,,,,,,,,,Normal value,Percentage of households (%),,8.0
+2021/22,,,,,,Asian/Asian British,Indian,,,,,,,,,,,,,Normal value,Percentage of households (%),,4.0
+2021/22,,,,,,Asian/Asian British,Pakistani,,,,,,,,,,,,,Normal value,Percentage of households (%),,14.0
+2021/22,,,,,,Asian/Asian British,Bangladeshi,,,,,,,,,,,,,Normal value,Percentage of households (%),,14.0
+2021/22,,,,,,Asian/Asian British,Chinese,,,,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2021/22,,,,,,Asian/Asian British,Any other Asian background,,,,,,,,,,,,,Normal value,Percentage of households (%),,8.0
+2021/22,,,,,,Black/African/Caribbean/Black British,,,,,,,,,,,,,,Normal value,Percentage of households (%),,19.0
+2021/22,,,,,,Other ethnic group,,,,,,,,,,,,,,Normal value,Percentage of households (%),,16.0
+2021/22,,,,,,Other ethnic group,,,,,,,,,,,,,,Normal value,Percentage of households (%),,8.0
+2021/22,,,,,,,,,,,,,,,In receipt of state support (benefit and/or Tax Credits),,,,,Normal value,Percentage of households (%),,9.0
+2021/22,,,,,,,,,,,,,,,In receipt of benefit,,,,,Normal value,Percentage of households (%),,9.0
+2021/22,,,,,,,,,,,,,,,In receipt of Tax Credits,,,,,Normal value,Percentage of households (%),,17.0
+2021/22,,,,,,,,,,,,,,,In receipt of benefit,Income-related benefit,,,,Normal value,Percentage of households (%),,22.0
+2021/22,,,,,,,,,,,,,,,In receipt of benefit,Non-income-related benefit,,,,Normal value,Percentage of households (%),,8.0
+2021/22,,,,,,,,,,,,,,,In receipt of Tax Credits,Working Tax Credit,,,,Normal value,Percentage of households (%),,16.0
+2021/22,,,,,,,,,,,,,,,In receipt of Tax Credits,Child Tax Credit,,,,Normal value,Percentage of households (%),,17.0
+2021/22,,,,,,,,,,,,,,,,,Less than £200,,,Normal value,Percentage of households (%),,17.0
+2021/22,,,,,,,,,,,,,,,,,More than £200 but less than £400,,,Normal value,Percentage of households (%),,12.0
+2021/22,,,,,,,,,,,,,,,,,More than £400 but less than £600,,,Normal value,Percentage of households (%),,9.0
+2021/22,,,,,,,,,,,,,,,,,More than £600 but less than £800,,,Normal value,Percentage of households (%),,6.0
+2021/22,,,,,,,,,,,,,,,,,"More than £800 but less than £1,000",,,Normal value,Percentage of households (%),,4.0
+2021/22,,,,,,,,,,,,,,,,,"£1,000 or more",,,Normal value,Percentage of households (%),,2.0
+2021/22,,,,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,2.0
+2021/22,,,,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage of households (%),,1.0
+2021/22,,,,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,2.0
+2021/22,,,,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,21.0
+2021/22,,,,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,11.0
+2021/22,,,Working age,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,9.0
+2021/22,,,Working age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,2.0
+2021/22,,,Working age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage of households (%),,2.0
+2021/22,,,Working age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,2.0
+2021/22,,,Working age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,27.0
+2021/22,,,Working age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,11.0
+2021/22,,,State Pension age,,,,,,,,,,,,,,,,,Normal value,Percentage of households (%),,2.0
+2021/22,,,State Pension age,,,,,,,,,,,,,,,Occupier owned,,Normal value,Percentage of households (%),,1.0
+2021/22,,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Owned outright,Normal value,Percentage of households (%),,1.0
+2021/22,,,State Pension age,,,,,,,,,,,,,,,Occupier owned,Buying with a mortgage,Normal value,Percentage of households (%),,1.0
+2021/22,,,State Pension age,,,,,,,,,,,,,,,Social rented,,Normal value,Percentage of households (%),,5.0
+2021/22,,,State Pension age,,,,,,,,,,,,,,,Private rented,,Normal value,Percentage of households (%),,5.0
