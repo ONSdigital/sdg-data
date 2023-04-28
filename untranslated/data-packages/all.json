@@ -19194,32 +19194,7 @@
             "type": "string"
           },
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Index of Multiple Deprivation (IMD)",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IMD 1 (most deprived)",
-                "IMD 2",
-                "IMD 3",
-                "IMD 4",
-                "IMD 5 (least deprived)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Ethnicity",
+            "name": "Ethnic group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -19245,13 +19220,39 @@
             }
           },
           {
-            "name": "Rural or Urban",
+            "name": "Index of Multiple Deprivation (IMD)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IMD 1 (most deprived)",
+                "IMD 2",
+                "IMD 3",
+                "IMD 4",
+                "IMD 5 (least deprived)",
+                "Unable to categorise",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Urban or rural",
             "type": "string",
             "constraints": {
               "enum": [
                 "Rural",
                 "Urban",
-                "Not Classified",
+                "Unable to categorise",
                 ""
               ]
             }
@@ -21093,6 +21094,7 @@
                 "Asian/Asian British",
                 "Black/African/Caribbean/Black British",
                 "Other ethnic group",
+                "Arab",
                 ""
               ]
             }
@@ -21225,10 +21227,10 @@
             "constraints": {
               "enum": [
                 "Less than £200",
-                "£200 but less than £400",
-                "£400 but less than £600",
-                "£600 but less than £800",
-                "£800 but less than £1,000",
+                "More than £200 but less than £400",
+                "More than £400 but less than £600",
+                "More than £600 but less than £800",
+                "More than £800 but less than £1,000",
                 "£1,000 or more",
                 ""
               ]
@@ -21266,7 +21268,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage (%)",
+                "Percentage of households (%)",
                 ""
               ]
             }
