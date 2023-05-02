@@ -1,4 +1,4 @@
-# SDG Data Repository        
+# SDG Data Repository    
 
 
 [![Build Status](https://travis-ci.org/ONSdigital/sdg-data.svg?branch=develop)](https://travis-ci.org/ONSdigital/sdg-data)
@@ -100,5 +100,6 @@ This uses the `sdg` package from the `sdg-build` repository during the build.
 Data (`data/` and `meta/`) is under [open government license v3](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
 Code (`scripts/` and top level) is MIT © Office for National Statistics
+
 
 
