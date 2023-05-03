@@ -15,13 +15,13 @@
             "type": "integer"
           },
           {
-            "name": "Speed (mb/sec)",
+            "name": "Speed (Mb/sec)",
             "type": "string",
             "constraints": {
               "enum": [
-                "10 mbps and over",
-                "Between 2 mbps and 10 mbps",
-                "Between 256 kbps and 2 mbps",
+                "10 Mbps and over",
+                "Between 2 Mbps and 10 Mbps",
+                "Between 256 Kbps and 2 Mbps",
                 ""
               ]
             }

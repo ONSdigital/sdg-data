@@ -56,8 +56,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "GBP (£ thousands)",
-                "USD ($ thousands)",
+                "GBP (thousands)",
+                "USD (thousands)",
                 ""
               ]
             },
