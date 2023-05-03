@@ -16063,6 +16063,19 @@
             "type": "integer"
           },
           {
+            "name": "Cause of death",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Acute respiratory infections",
+                "Diarrhoea",
+                "Intestinal nematode infections",
+                "Protein-energy malnutrition",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Country",
             "type": "string",
             "constraints": {
@@ -16070,7 +16083,26 @@
                 "England",
                 "Northern Ireland",
                 "Scotland",
+                "United Kingdom",
                 "Wales",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "East",
+                "East Midlands",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             }
@@ -16088,10 +16120,6 @@
           },
           {
             "name": "Unit measure",
-            "type": "string"
-          },
-          {
-            "name": "Unit multiplier",
             "type": "string"
           },
           {
