@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "England and Wales",
                 "England",
+                "England and Wales",
                 "Wales",
                 ""
               ]
@@ -33,37 +33,28 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "East",
+                "East Midlands",
+                "London",
                 "North East",
                 "North West",
-                "Yorkshire and the Humber",
-                "East Midlands",
-                "West Midlands",
-                "East of England",
-                "London",
                 "South East",
                 "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             },
             "title": "Region"
           },
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
+                "Under 1",
+                "1 to 4",
+                "5 to 9",
                 "10 to 14",
                 "15 to 19",
                 "20 to 24",
@@ -87,25 +78,37 @@
             "title": "Age"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Unintentional poisoning category",
             "type": "string",
             "constraints": {
               "enum": [
-                "X40 Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics",
-                "X43 Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system",
-                "X44 Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",
-                "X46 Accidental poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours",
-                "X47 Accidental poisoning by and exposure to other gases and vapours",
-                "X49 Accidental poisoning by and exposure to other and unspecified chemicals and noxious substances",
+                "Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics",
+                "Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system",
+                "Accidental poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours",
+                "Accidental poisoning by and exposure to other gases and vapours",
+                "Accidental poisoning by and exposure to pesticides",
+                "Accidental poisoning by and exposure to other and unspecified chemicals and noxious substances",
                 ""
               ]
             },
             "title": "Unintentional poisoning category"
           },
           {
-            "name": "Observation status",
+            "name": "Unit measure",
             "type": "string",
-            "title": "Observation status"
+            "title": "Unit measure"
           },
           {
             "name": "Unit multiplier",
@@ -113,9 +116,9 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Observation status",
             "type": "string",
-            "title": "Unit measure"
+            "title": "Observation status"
           },
           {
             "name": "GeoCode",
