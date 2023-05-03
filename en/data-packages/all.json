@@ -21527,7 +21527,7 @@
             "title": "Region"
           },
           {
-            "name": "Health Board",
+            "name": "Health board",
             "type": "string",
             "constraints": {
               "enum": [
@@ -21541,7 +21541,7 @@
                 ""
               ]
             },
-            "title": "Health Board"
+            "title": "Health board"
           },
           {
             "name": "Observation status",

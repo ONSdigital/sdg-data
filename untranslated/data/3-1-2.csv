@@ -1,4 +1,4 @@
-Year,Series,Age,Number of previous live births,Country,Region,Health Board,Observation status,Unit multiplier,Units,GeoCode,Value
+Year,Series,Age,Number of previous live births,Country,Region,Health board,Observation status,Unit multiplier,Units,GeoCode,Value
 2014,Births occurring within a medical facility,,,England,East,,Normal value,Units,Percentage (%),E12000006,97.29
 2014,Births occurring within a medical facility,,,England,East Midlands,,Normal value,Units,Percentage (%),E12000004,97.2
 2014,Births occurring within a medical facility,,,England,London,,Normal value,Units,Percentage (%),E12000007,98.09
@@ -8,13 +8,13 @@ Year,Series,Age,Number of previous live births,Country,Region,Health Board,Obser
 2014,Births occurring within a medical facility,,,England,South West,,Normal value,Units,Percentage (%),E12000009,96.61
 2014,Births occurring within a medical facility,,,England,West Midlands,,Normal value,Units,Percentage (%),E12000005,98.25
 2014,Births occurring within a medical facility,,,England,Yorkshire and The Humber,,Normal value,Units,Percentage (%),E12000003,97.5
-2014,Births occurring within a medical facility,,,Wales,,Abertawe Bro Morgannwg University,Normal value,Units,Percentage (%),W11000026,95.79
-2014,Births occurring within a medical facility,,,Wales,,Aneurin Bevan University,Normal value,Units,Percentage (%),W11000028,97.1
-2014,Births occurring within a medical facility,,,Wales,,Betsi Cadwaladr University,Normal value,Units,Percentage (%),W11000023,97.53
-2014,Births occurring within a medical facility,,,Wales,,Cardiff and Vale University,Normal value,Units,Percentage (%),W11000029,97.0
-2014,Births occurring within a medical facility,,,Wales,,Cwm Taf University,Normal value,Units,Percentage (%),W11000027,97.87
-2014,Births occurring within a medical facility,,,Wales,,Hywel Dda University,Normal value,Units,Percentage (%),W11000025,95.05
-2014,Births occurring within a medical facility,,,Wales,,Powys Teaching,Normal value,Units,Percentage (%),W11000024,91.84
+2014,Births occurring within a medical facility,,,Wales,,Abertawe Bro Morgannwg University,Normal value,Units,Percentage (%),W92000004,95.79
+2014,Births occurring within a medical facility,,,Wales,,Aneurin Bevan University,Normal value,Units,Percentage (%),W92000004,97.1
+2014,Births occurring within a medical facility,,,Wales,,Betsi Cadwaladr University,Normal value,Units,Percentage (%),W92000004,97.53
+2014,Births occurring within a medical facility,,,Wales,,Cardiff and Vale University,Normal value,Units,Percentage (%),W92000004,97.0
+2014,Births occurring within a medical facility,,,Wales,,Cwm Taf University,Normal value,Units,Percentage (%),W92000004,97.87
+2014,Births occurring within a medical facility,,,Wales,,Hywel Dda University,Normal value,Units,Percentage (%),W92000004,95.05
+2014,Births occurring within a medical facility,,,Wales,,Powys Teaching,Normal value,Units,Percentage (%),W92000004,91.84
 2014,Births occurring within a medical facility,,,,,,Normal value,Units,Percentage (%),,97.49863969529174
 2014,Births occurring within a medical facility,19 and under,,,,,Normal value,Units,Percentage (%),,98.47672669777486
 2014,Births occurring within a medical facility,20 to 24,,,,,Normal value,Units,Percentage (%),,98.03097621469227
@@ -83,13 +83,13 @@ Year,Series,Age,Number of previous live births,Country,Region,Health Board,Obser
 2015,Births occurring within a medical facility,,,England,South West,,Normal value,Units,Percentage (%),E12000009,96.6
 2015,Births occurring within a medical facility,,,England,West Midlands,,Normal value,Units,Percentage (%),E12000005,98.32
 2015,Births occurring within a medical facility,,,England,Yorkshire and The Humber,,Normal value,Units,Percentage (%),E12000003,97.61
-2015,Births occurring within a medical facility,,,Wales,,Abertawe Bro Morgannwg University,Normal value,Units,Percentage (%),W11000026,96.05
-2015,Births occurring within a medical facility,,,Wales,,Aneurin Bevan University,Normal value,Units,Percentage (%),W11000028,97.99
-2015,Births occurring within a medical facility,,,Wales,,Betsi Cadwaladr University,Normal value,Units,Percentage (%),W11000023,97.6
-2015,Births occurring within a medical facility,,,Wales,,Cardiff and Vale University,Normal value,Units,Percentage (%),W11000029,97.21
-2015,Births occurring within a medical facility,,,Wales,,Cwm Taf University,Normal value,Units,Percentage (%),W11000027,98.11
-2015,Births occurring within a medical facility,,,Wales,,Hywel Dda University,Normal value,Units,Percentage (%),W11000025,95.48
-2015,Births occurring within a medical facility,,,Wales,,Powys Teaching,Normal value,Units,Percentage (%),W11000024,89.78
+2015,Births occurring within a medical facility,,,Wales,,Abertawe Bro Morgannwg University,Normal value,Units,Percentage (%),W92000004,96.05
+2015,Births occurring within a medical facility,,,Wales,,Aneurin Bevan University,Normal value,Units,Percentage (%),W92000004,97.99
+2015,Births occurring within a medical facility,,,Wales,,Betsi Cadwaladr University,Normal value,Units,Percentage (%),W92000004,97.6
+2015,Births occurring within a medical facility,,,Wales,,Cardiff and Vale University,Normal value,Units,Percentage (%),W92000004,97.21
+2015,Births occurring within a medical facility,,,Wales,,Cwm Taf University,Normal value,Units,Percentage (%),W92000004,98.11
+2015,Births occurring within a medical facility,,,Wales,,Hywel Dda University,Normal value,Units,Percentage (%),W92000004,95.48
+2015,Births occurring within a medical facility,,,Wales,,Powys Teaching,Normal value,Units,Percentage (%),W92000004,89.78
 2015,Births occurring within a medical facility,,,,,,Normal value,Units,Percentage (%),,97.54056173894638
 2015,Births occurring within a medical facility,19 and under,,,,,Normal value,Units,Percentage (%),,98.80459770114942
 2015,Births occurring within a medical facility,20 to 24,,,,,Normal value,Units,Percentage (%),,98.15153852587754
@@ -158,13 +158,13 @@ Year,Series,Age,Number of previous live births,Country,Region,Health Board,Obser
 2016,Births occurring within a medical facility,,,England,South West,,Normal value,Units,Percentage (%),E12000009,96.82
 2016,Births occurring within a medical facility,,,England,West Midlands,,Normal value,Units,Percentage (%),E12000005,98.33
 2016,Births occurring within a medical facility,,,England,Yorkshire and The Humber,,Normal value,Units,Percentage (%),E12000003,97.87
-2016,Births occurring within a medical facility,,,Wales,,Abertawe Bro Morgannwg University,Normal value,Units,Percentage (%),W11000026,96.5
-2016,Births occurring within a medical facility,,,Wales,,Aneurin Bevan University,Normal value,Units,Percentage (%),W11000028,97.84
-2016,Births occurring within a medical facility,,,Wales,,Betsi Cadwaladr University,Normal value,Units,Percentage (%),W11000023,97.71
-2016,Births occurring within a medical facility,,,Wales,,Cardiff and Vale University,Normal value,Units,Percentage (%),W11000029,97.13
-2016,Births occurring within a medical facility,,,Wales,,Cwm Taf University,Normal value,Units,Percentage (%),W11000027,98.33
-2016,Births occurring within a medical facility,,,Wales,,Hywel Dda University,Normal value,Units,Percentage (%),W11000025,95.24
-2016,Births occurring within a medical facility,,,Wales,,Powys Teaching,Normal value,Units,Percentage (%),W11000024,91.87
+2016,Births occurring within a medical facility,,,Wales,,Abertawe Bro Morgannwg University,Normal value,Units,Percentage (%),W92000004,96.5
+2016,Births occurring within a medical facility,,,Wales,,Aneurin Bevan University,Normal value,Units,Percentage (%),W92000004,97.84
+2016,Births occurring within a medical facility,,,Wales,,Betsi Cadwaladr University,Normal value,Units,Percentage (%),W92000004,97.71
+2016,Births occurring within a medical facility,,,Wales,,Cardiff and Vale University,Normal value,Units,Percentage (%),W92000004,97.13
+2016,Births occurring within a medical facility,,,Wales,,Cwm Taf University,Normal value,Units,Percentage (%),W92000004,98.33
+2016,Births occurring within a medical facility,,,Wales,,Hywel Dda University,Normal value,Units,Percentage (%),W92000004,95.24
+2016,Births occurring within a medical facility,,,Wales,,Powys Teaching,Normal value,Units,Percentage (%),W92000004,91.87
 2016,Births occurring within a medical facility,,,,,,Normal value,Units,Percentage (%),,97.66222746570348
 2016,Births occurring within a medical facility,19 and under,,,,,Normal value,Units,Percentage (%),,98.70112479914302
 2016,Births occurring within a medical facility,20 to 24,,,,,Normal value,Units,Percentage (%),,98.18885297286708
@@ -462,3 +462,66 @@ Year,Series,Age,Number of previous live births,Country,Region,Health Board,Obser
 2020,Births occurring within a medical facility,not stated,3,,,,Missing value; data cannot exist,Units,Percentage (%),,
 2020,Births occurring within a medical facility,not stated,4 and over,,,,Missing value; data cannot exist,Units,Percentage (%),,
 2020,Births occurring within a medical facility,not stated,Not stated,,,,Normal value,Units,Percentage (%),,89.47368421052632
+2021,Births occurring within a medical facility,,,,,,Provisional,Units,Percentage (%),,97.3203436061844
+2021,Births occurring within a medical facility,19 and under,,,,,Provisional,Units,Percentage (%),,98.4476350120254
+2021,Births occurring within a medical facility,20 to 24,,,,,Provisional,Units,Percentage (%),,98.0983641413403
+2021,Births occurring within a medical facility,25 to 29,,,,,Provisional,Units,Percentage (%),,97.6511290272758
+2021,Births occurring within a medical facility,30 to 34,,,,,Provisional,Units,Percentage (%),,97.0015481897372
+2021,Births occurring within a medical facility,35 to 39,,,,,Provisional,Units,Percentage (%),,96.6996031424638
+2021,Births occurring within a medical facility,40 to 44,,,,,Provisional,Units,Percentage (%),,97.8253132118451
+2021,Births occurring within a medical facility,45 and over,,,,,Provisional,Units,Percentage (%),,99.079754601227
+2021,Births occurring within a medical facility,not stated,,,,,Provisional,Units,Percentage (%),,93.3333333333333
+2021,Births occurring within a medical facility,,0,,,,Provisional,Units,Percentage (%),,98.9590088398921
+2021,Births occurring within a medical facility,19 and under,0,,,,Provisional,Units,Percentage (%),,98.7783895388851
+2021,Births occurring within a medical facility,20 to 24,0,,,,Provisional,Units,Percentage (%),,99.1376607086861
+2021,Births occurring within a medical facility,25 to 29,0,,,,Provisional,Units,Percentage (%),,99.0305504177562
+2021,Births occurring within a medical facility,30 to 34,0,,,,Provisional,Units,Percentage (%),,98.8134306569343
+2021,Births occurring within a medical facility,35 to 39,0,,,,Provisional,Units,Percentage (%),,98.8943558420993
+2021,Births occurring within a medical facility,40 to 44,0,,,,Provisional,Units,Percentage (%),,99.3313318777293
+2021,Births occurring within a medical facility,45 and over,0,,,,Provisional,Units,Percentage (%),,99.7179125528914
+2021,Births occurring within a medical facility,not stated,0,,,,Provisional,Units,Percentage (%),,
+2021,Births occurring within a medical facility,,1,,,,Provisional,Units,Percentage (%),,96.2076872578662
+2021,Births occurring within a medical facility,19 and under,1,,,,Provisional,Units,Percentage (%),,96.4616222101252
+2021,Births occurring within a medical facility,20 to 24,1,,,,Provisional,Units,Percentage (%),,96.7048274060854
+2021,Births occurring within a medical facility,25 to 29,1,,,,Provisional,Units,Percentage (%),,96.5867571396615
+2021,Births occurring within a medical facility,30 to 34,1,,,,Provisional,Units,Percentage (%),,95.8133621511665
+2021,Births occurring within a medical facility,35 to 39,1,,,,Provisional,Units,Percentage (%),,95.8943621634891
+2021,Births occurring within a medical facility,40 to 44,1,,,,Provisional,Units,Percentage (%),,97.4813908432752
+2021,Births occurring within a medical facility,45 and over,1,,,,Provisional,Units,Percentage (%),,99.4071146245059
+2021,Births occurring within a medical facility,not stated,1,,,,Provisional,Units,Percentage (%),,
+2021,Births occurring within a medical facility,,2,,,,Provisional,Units,Percentage (%),,95.8388080571863
+2021,Births occurring within a medical facility,19 and under,2,,,,Provisional,Units,Percentage (%),,96.9924812030075
+2021,Births occurring within a medical facility,20 to 24,2,,,,Provisional,Units,Percentage (%),,96.0310301280895
+2021,Births occurring within a medical facility,25 to 29,2,,,,Provisional,Units,Percentage (%),,96.0861759425494
+2021,Births occurring within a medical facility,30 to 34,2,,,,Provisional,Units,Percentage (%),,95.610030435358
+2021,Births occurring within a medical facility,35 to 39,2,,,,Provisional,Units,Percentage (%),,95.5031731640979
+2021,Births occurring within a medical facility,40 to 44,2,,,,Provisional,Units,Percentage (%),,97.2848064702484
+2021,Births occurring within a medical facility,45 and over,2,,,,Provisional,Units,Percentage (%),,98.3606557377049
+2021,Births occurring within a medical facility,not stated,2,,,,Provisional,Units,Percentage (%),,
+2021,Births occurring within a medical facility,,3,,,,Provisional,Units,Percentage (%),,95.9646451271186
+2021,Births occurring within a medical facility,19 and under,3,,,,Provisional,Units,Percentage (%),,100.0
+2021,Births occurring within a medical facility,20 to 24,3,,,,Provisional,Units,Percentage (%),,96.0282436010591
+2021,Births occurring within a medical facility,25 to 29,3,,,,Provisional,Units,Percentage (%),,95.1876019575856
+2021,Births occurring within a medical facility,30 to 34,3,,,,Provisional,Units,Percentage (%),,96.101083032491
+2021,Births occurring within a medical facility,35 to 39,3,,,,Provisional,Units,Percentage (%),,95.9657701711491
+2021,Births occurring within a medical facility,40 to 44,3,,,,Provisional,Units,Percentage (%),,96.9966629588432
+2021,Births occurring within a medical facility,45 and over,3,,,,Provisional,Units,Percentage (%),,98.1481481481482
+2021,Births occurring within a medical facility,not stated,3,,,,Provisional,Units,Percentage (%),,
+2021,Births occurring within a medical facility,,4 and over,,,,Provisional,Units,Percentage (%),,96.0067380103052
+2021,Births occurring within a medical facility,19 and under,4 and over,,,,Provisional,Units,Percentage (%),,100.0
+2021,Births occurring within a medical facility,20 to 24,4 and over,,,,Provisional,Units,Percentage (%),,96.0714285714286
+2021,Births occurring within a medical facility,25 to 29,4 and over,,,,Provisional,Units,Percentage (%),,96.0339943342776
+2021,Births occurring within a medical facility,30 to 34,4 and over,,,,Provisional,Units,Percentage (%),,95.6932322220632
+2021,Births occurring within a medical facility,35 to 39,4 and over,,,,Provisional,Units,Percentage (%),,95.863539445629
+2021,Births occurring within a medical facility,40 to 44,4 and over,,,,Provisional,Units,Percentage (%),,96.9307637401856
+2021,Births occurring within a medical facility,45 and over,4 and over,,,,Provisional,Units,Percentage (%),,98.0237154150198
+2021,Births occurring within a medical facility,not stated,4 and over,,,,Provisional,Units,Percentage (%),,
+2021,Births occurring within a medical facility,,Not stated,,,,Provisional,Units,Percentage (%),,97.1283169756452
+2021,Births occurring within a medical facility,19 and under,Not stated,,,,Provisional,Units,Percentage (%),,98.3050847457627
+2021,Births occurring within a medical facility,20 to 24,Not stated,,,,Provisional,Units,Percentage (%),,98.0769230769231
+2021,Births occurring within a medical facility,25 to 29,Not stated,,,,Provisional,Units,Percentage (%),,97.0225127087872
+2021,Births occurring within a medical facility,30 to 34,Not stated,,,,Provisional,Units,Percentage (%),,96.7327262988752
+2021,Births occurring within a medical facility,35 to 39,Not stated,,,,Provisional,Units,Percentage (%),,97.2542072630647
+2021,Births occurring within a medical facility,40 to 44,Not stated,,,,Provisional,Units,Percentage (%),,97.3977695167286
+2021,Births occurring within a medical facility,45 and over,Not stated,,,,Provisional,Units,Percentage (%),,100.0
+2021,Births occurring within a medical facility,not stated,Not stated,,,,Provisional,Units,Percentage (%),,93.3333333333333
