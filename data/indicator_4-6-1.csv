@@ -1,64 +1,118 @@
-Year,Educational subject,Sex,Observation status,Unit multiplier,Unit measure,Value
-2015,,,Undefined,Units,Percentage (%),61.1038107753
-2015,,Female,Undefined,Units,Percentage (%),65.6569481257099
-2015,,Male,Undefined,Units,Percentage (%),56.6058801637514
-2009,English,,Undefined,Units,Percentage (%),69.8
-2009,English,Female,Undefined,Units,Percentage (%),76.5
-2009,English,Male,Undefined,Units,Percentage (%),63.1
-2009,Maths,,Undefined,Units,Percentage (%),64.6
-2009,Maths,Female,Undefined,Units,Percentage (%),64.8
-2009,Maths,Male,Undefined,Units,Percentage (%),64.5
-2010,English,,Undefined,Units,Percentage (%),72.3
-2010,English,Female,Undefined,Units,Percentage (%),78.8
-2010,English,Male,Undefined,Units,Percentage (%),65.8
-2010,Maths,,Undefined,Units,Percentage (%),67.0
-2010,Maths,Female,Undefined,Units,Percentage (%),67.3
-2010,Maths,Male,Undefined,Units,Percentage (%),66.8
-2011,English,,Undefined,Units,Percentage (%),69.3
-2011,English,Female,Undefined,Units,Percentage (%),76.5
-2011,English,Male,Undefined,Units,Percentage (%),62.2
-2011,Maths,,Undefined,Units,Percentage (%),70.9
-2011,Maths,Female,Undefined,Units,Percentage (%),71.2
-2011,Maths,Male,Undefined,Units,Percentage (%),70.6
-2012,English,,Undefined,Units,Percentage (%),70.7
-2012,English,Female,Undefined,Units,Percentage (%),78.0
-2012,English,Male,Undefined,Units,Percentage (%),63.4
-2012,Maths,,Undefined,Units,Percentage (%),72.8
-2012,Maths,Female,Undefined,Units,Percentage (%),73.2
-2012,Maths,Male,Undefined,Units,Percentage (%),72.3
-2013,English,,Undefined,Units,Percentage (%),72.4
-2013,English,Female,Undefined,Units,Percentage (%),79.8
-2013,English,Male,Undefined,Units,Percentage (%),64.7
-2013,Maths,,Undefined,Units,Percentage (%),68.0
-2013,Maths,Female,Undefined,Units,Percentage (%),68.7
-2013,Maths,Male,Undefined,Units,Percentage (%),67.3
-2014,English,,Undefined,Units,Percentage (%),74.8
-2014,English,Female,Undefined,Units,Percentage (%),82.0
-2014,English,Male,Undefined,Units,Percentage (%),67.2
-2014,Maths,,Undefined,Units,Percentage (%),70.2
-2014,Maths,Female,Undefined,Units,Percentage (%),70.7
-2014,Maths,Male,Undefined,Units,Percentage (%),69.8
-2015,English,,Undefined,Units,Percentage (%),72.8
-2015,English,Female,Undefined,Units,Percentage (%),80.2
-2015,English,Male,Undefined,Units,Percentage (%),65.0
-2015,Maths,,Undefined,Units,Percentage (%),71.7
-2015,Maths,Female,Undefined,Units,Percentage (%),72.6
-2015,Maths,Male,Undefined,Units,Percentage (%),70.8
-2016,English,,Undefined,Units,Percentage (%),70.8
-2016,English,Female,Undefined,Units,Percentage (%),79.0
-2016,English,Male,Undefined,Units,Percentage (%),62.7
-2016,Maths,,Undefined,Units,Percentage (%),70.7
-2016,Maths,Female,Undefined,Units,Percentage (%),71.1
-2016,Maths,Male,Undefined,Units,Percentage (%),70.4
-2017,English,,Undefined,Units,Percentage (%),70.1
-2017,English,Female,Undefined,Units,Percentage (%),77.8
-2017,English,Male,Undefined,Units,Percentage (%),62.6
-2017,Maths,,Undefined,Units,Percentage (%),70.8
-2017,Maths,Female,Undefined,Units,Percentage (%),71.5
-2017,Maths,Male,Undefined,Units,Percentage (%),70.0
-2018,English,,Undefined,Units,Percentage (%),70.0
-2018,English,Female,Undefined,Units,Percentage (%),77.8
-2018,English,Male,Undefined,Units,Percentage (%),62.4
-2018,Maths,,Undefined,Units,Percentage (%),71.1
-2018,Maths,Female,Undefined,Units,Percentage (%),71.7
-2018,Maths,Male,Undefined,Units,Percentage (%),70.6
+Year,Educational subject,Sex,Unit multiplier,Unit measure,Observation status,Value
+2009/10,English language,,Units,Percentage (%),Normal value,69.8
+2009/10,English language,Female,Units,Percentage (%),Normal value,76.5
+2009/10,English language,Male,Units,Percentage (%),Normal value,63.1
+2009/10,English literature,,Units,Percentage (%),Normal value,76.5
+2009/10,English literature,Female,Units,Percentage (%),Normal value,82.0
+2009/10,English literature,Male,Units,Percentage (%),Normal value,70.5
+2009/10,Maths,,Units,Percentage (%),Normal value,64.6
+2009/10,Maths,Female,Units,Percentage (%),Normal value,64.8
+2009/10,Maths,Male,Units,Percentage (%),Normal value,64.5
+2010/11,English language,,Units,Percentage (%),Normal value,72.3
+2010/11,English language,Female,Units,Percentage (%),Normal value,78.8
+2010/11,English language,Male,Units,Percentage (%),Normal value,65.8
+2010/11,English literature,,Units,Percentage (%),Normal value,78.7
+2010/11,English literature,Female,Units,Percentage (%),Normal value,84.2
+2010/11,English literature,Male,Units,Percentage (%),Normal value,72.5
+2010/11,Maths,,Units,Percentage (%),Normal value,67.0
+2010/11,Maths,Female,Units,Percentage (%),Normal value,67.3
+2010/11,Maths,Male,Units,Percentage (%),Normal value,66.8
+2011/12,English language,,Units,Percentage (%),Normal value,69.3
+2011/12,English language,Female,Units,Percentage (%),Normal value,76.5
+2011/12,English language,Male,Units,Percentage (%),Normal value,62.2
+2011/12,English literature,,Units,Percentage (%),Normal value,76.8
+2011/12,English literature,Female,Units,Percentage (%),Normal value,82.5
+2011/12,English literature,Male,Units,Percentage (%),Normal value,70.39999999999999
+2011/12,Maths,,Units,Percentage (%),Normal value,70.9
+2011/12,Maths,Female,Units,Percentage (%),Normal value,71.2
+2011/12,Maths,Male,Units,Percentage (%),Normal value,70.6
+2012/13,English language,,Units,Percentage (%),Normal value,70.7
+2012/13,English language,Female,Units,Percentage (%),Normal value,78.0
+2012/13,English language,Male,Units,Percentage (%),Normal value,63.4
+2012/13,English literature,,Units,Percentage (%),Normal value,77.60000000000001
+2012/13,English literature,Female,Units,Percentage (%),Normal value,83.5
+2012/13,English literature,Male,Units,Percentage (%),Normal value,71.0
+2012/13,Maths,,Units,Percentage (%),Normal value,72.8
+2012/13,Maths,Female,Units,Percentage (%),Normal value,73.2
+2012/13,Maths,Male,Units,Percentage (%),Normal value,72.3
+2013/14,English language,,Units,Percentage (%),Normal value,72.4
+2013/14,English language,Female,Units,Percentage (%),Normal value,79.8
+2013/14,English language,Male,Units,Percentage (%),Normal value,64.7
+2013/14,English literature,,Units,Percentage (%),Normal value,77.5
+2013/14,English literature,Female,Units,Percentage (%),Normal value,84.0
+2013/14,English literature,Male,Units,Percentage (%),Normal value,70.39999999999999
+2013/14,Maths,,Units,Percentage (%),Normal value,68.0
+2013/14,Maths,Female,Units,Percentage (%),Normal value,68.7
+2013/14,Maths,Male,Units,Percentage (%),Normal value,67.3
+2014/15,English language,,Units,Percentage (%),Normal value,74.8
+2014/15,English language,Female,Units,Percentage (%),Normal value,82.0
+2014/15,English language,Male,Units,Percentage (%),Normal value,67.2
+2014/15,English literature,,Units,Percentage (%),Normal value,75.7
+2014/15,English literature,Female,Units,Percentage (%),Normal value,82.39999999999999
+2014/15,English literature,Male,Units,Percentage (%),Normal value,68.4
+2014/15,Maths,,Units,Percentage (%),Normal value,70.2
+2014/15,Maths,Female,Units,Percentage (%),Normal value,70.7
+2014/15,Maths,Male,Units,Percentage (%),Normal value,69.8
+2015/16,English language,,Units,Percentage (%),Normal value,72.8
+2015/16,English language,Female,Units,Percentage (%),Normal value,80.2
+2015/16,English language,Male,Units,Percentage (%),Normal value,65.0
+2015/16,English literature,,Units,Percentage (%),Normal value,74.0
+2015/16,English literature,Female,Units,Percentage (%),Normal value,81.39999999999999
+2015/16,English literature,Male,Units,Percentage (%),Normal value,66.10000000000001
+2015/16,Maths,,Units,Percentage (%),Normal value,71.7
+2015/16,Maths,Female,Units,Percentage (%),Normal value,72.6
+2015/16,Maths,Male,Units,Percentage (%),Normal value,70.8
+2016/17,English language,,Units,Percentage (%),Normal value,70.8
+2016/17,English language,Female,Units,Percentage (%),Normal value,79.0
+2016/17,English language,Male,Units,Percentage (%),Normal value,62.7
+2016/17,English literature,,Units,Percentage (%),Normal value,72.7
+2016/17,English literature,Female,Units,Percentage (%),Normal value,79.80000000000001
+2016/17,English literature,Male,Units,Percentage (%),Normal value,65.60000000000001
+2016/17,Maths,,Units,Percentage (%),Normal value,70.7
+2016/17,Maths,Female,Units,Percentage (%),Normal value,71.1
+2016/17,Maths,Male,Units,Percentage (%),Normal value,70.4
+2017/18,English language,,Units,Percentage (%),Normal value,70.1
+2017/18,English language,Female,Units,Percentage (%),Normal value,77.8
+2017/18,English language,Male,Units,Percentage (%),Normal value,62.6
+2017/18,English literature,,Units,Percentage (%),Normal value,72.89999999999999
+2017/18,English literature,Female,Units,Percentage (%),Normal value,80.5
+2017/18,English literature,Male,Units,Percentage (%),Normal value,65.3
+2017/18,Maths,,Units,Percentage (%),Normal value,70.8
+2017/18,Maths,Female,Units,Percentage (%),Normal value,71.5
+2017/18,Maths,Male,Units,Percentage (%),Normal value,70.0
+2018/19,English language,,Units,Percentage (%),Normal value,70.5
+2018/19,English language,Female,Units,Percentage (%),Normal value,78.2
+2018/19,English language,Male,Units,Percentage (%),Normal value,63.0
+2018/19,English literature,,Units,Percentage (%),Normal value,73.5
+2018/19,English literature,Female,Units,Percentage (%),Normal value,80.80000000000001
+2018/19,English literature,Male,Units,Percentage (%),Normal value,66.2
+2018/19,Maths,,Units,Percentage (%),Normal value,71.3
+2018/19,Maths,Female,Units,Percentage (%),Normal value,71.89999999999999
+2018/19,Maths,Male,Units,Percentage (%),Normal value,70.7
+2019/20,English language,,Units,Percentage (%),Normal value,79.9
+2019/20,English language,Female,Units,Percentage (%),Normal value,86.0
+2019/20,English language,Male,Units,Percentage (%),Normal value,73.9
+2019/20,English literature,,Units,Percentage (%),Normal value,79.0
+2019/20,English literature,Female,Units,Percentage (%),Normal value,85.3
+2019/20,English literature,Male,Units,Percentage (%),Normal value,72.8
+2019/20,Maths,,Units,Percentage (%),Normal value,77.0
+2019/20,Maths,Female,Units,Percentage (%),Normal value,78.2
+2019/20,Maths,Male,Units,Percentage (%),Normal value,75.8
+2020/21,English language,,Units,Percentage (%),Normal value,80.60000000000001
+2020/21,English language,Female,Units,Percentage (%),Normal value,85.9
+2020/21,English language,Male,Units,Percentage (%),Normal value,75.4
+2020/21,English literature,,Units,Percentage (%),Normal value,79.9
+2020/21,English literature,Female,Units,Percentage (%),Normal value,85.39999999999999
+2020/21,English literature,Male,Units,Percentage (%),Normal value,74.5
+2020/21,Maths,,Units,Percentage (%),Normal value,77.60000000000001
+2020/21,Maths,Female,Units,Percentage (%),Normal value,78.60000000000001
+2020/21,Maths,Male,Units,Percentage (%),Normal value,76.7
+2021/22,English language,,Units,Percentage (%),Normal value,76.4
+2021/22,English language,Female,Units,Percentage (%),Normal value,81.69999999999999
+2021/22,English language,Male,Units,Percentage (%),Normal value,71.1
+2021/22,English literature,,Units,Percentage (%),Normal value,74.5
+2021/22,English literature,Female,Units,Percentage (%),Normal value,80.30000000000001
+2021/22,English literature,Male,Units,Percentage (%),Normal value,68.8
+2021/22,Maths,,Units,Percentage (%),Normal value,74.5
+2021/22,Maths,Female,Units,Percentage (%),Normal value,74.9
+2021/22,Maths,Male,Units,Percentage (%),Normal value,74.1
