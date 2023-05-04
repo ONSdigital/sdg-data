@@ -21038,15 +21038,15 @@
             "constraints": {
               "enum": [
                 "England",
+                "Northern Ireland",
                 "Scotland",
                 "Wales",
-                "Northern Ireland",
                 ""
               ]
             }
           },
           {
-            "name": "Ethnicity",
+            "name": "Ethnic group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -21142,6 +21142,7 @@
                 "3",
                 "4",
                 "5 (Least deprived)",
+                "Unable to categorise",
                 ""
               ]
             }
@@ -21153,7 +21154,7 @@
               "enum": [
                 "Urban",
                 "Rural",
-                "Not classified",
+                "Unable to categorise",
                 ""
               ]
             }
