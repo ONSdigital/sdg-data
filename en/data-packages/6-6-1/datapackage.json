@@ -22,37 +22,10 @@
               "enum": [
                 "Open water area",
                 "Nationally derived quantity of groundwater",
-                "Lake water quality",
-                "Reservoir area",
-                "Wetlands area",
                 ""
               ]
             },
             "title": "Series"
-          },
-          {
-            "name": "Water area extent",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Minimum water area",
-                "Maximum water area",
-                ""
-              ]
-            },
-            "title": "Water area extent"
-          },
-          {
-            "name": "Quality measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Turbidity",
-                "Trophic state",
-                ""
-              ]
-            },
-            "title": "Quality measure"
           },
           {
             "name": "Water type",
@@ -66,20 +39,6 @@
               ]
             },
             "title": "Water type"
-          },
-          {
-            "name": "Deviation level",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Low",
-                "Medium",
-                "High",
-                "Extreme",
-                ""
-              ]
-            },
-            "title": "Deviation level"
           },
           {
             "name": "Geography (HydroBASINs ID)",
@@ -136,7 +95,6 @@
                 "% change from baseline",
                 "% of total land area",
                 "Square km",
-                "Percentage (%)",
                 ""
               ]
             },
