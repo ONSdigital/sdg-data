@@ -20,67 +20,57 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Annual mean levels of fine particulate matter in towns and cities",
+                "PM2.5",
+                "PM10",
                 ""
               ]
             },
             "title": "Series"
           },
           {
-            "name": "Size of particulate matter",
+            "name": "City",
             "type": "string",
             "constraints": {
               "enum": [
-                "PM 10",
-                "PM 2.5",
-                ""
-              ]
-            },
-            "title": "Size of particulate matter"
-          },
-          {
-            "name": "Local Authority",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Aberdeen City",
-                "Armagh",
+                "Aberdeen",
                 "Barnstaple",
                 "Belfast",
+                "Biandrate",
                 "Birkenhead",
                 "Birmingham",
                 "Blackpool",
                 "Bournemouth",
-                "Brighton and Hove",
+                "Brighton",
                 "Bristol",
                 "Cardiff",
                 "Carlisle",
                 "Chepstow",
                 "Chesterfield",
-                "City of Edinburgh",
-                "City of London",
+                "Christchurch",
                 "Coventry",
-                "Derry",
                 "Didcot",
                 "Eastbourne",
                 "Eccles",
+                "Edinburgh",
+                "Enniskillen",
                 "Erith",
-                "Gibraltar",
                 "Gillingham",
-                "Glasgow City",
+                "Glasgow",
                 "Grangemouth",
+                "Greenock",
                 "Harlington",
                 "Hull",
                 "Inverness",
-                "Kingston upon Hull",
                 "Leamington Spa",
                 "Leeds",
                 "Leicester",
                 "Liverpool",
+                "London",
                 "Londonderry",
                 "Manchester",
                 "Middlesbrough",
-                "Newcastle upon Tyne",
+                "Narberth",
+                "Newcastle Upon Tyne",
                 "Newport",
                 "Northampton",
                 "Norwich",
@@ -93,60 +83,53 @@
                 "Preston",
                 "Reading",
                 "Rochester",
+                "Royal Leamington Spa",
                 "Salford",
                 "Saltash",
                 "Sandy",
-                "Scunthorpe",
                 "Sheffield",
                 "Southampton",
-                "Southend-on-Sea",
+                "Southend - On - Sea",
+                "Southend-On-Sea",
                 "Speke",
-                "Stanford le Hope",
+                "Stanford-Le-Hope",
                 "Stanmore",
                 "Stockbridge",
-                "Stockton-on-Tees",
-                "Stoke-on-Trent",
+                "Stockton-On-Tees",
+                "Stoke - On - Trent",
+                "Stoke-On-Trent",
                 "Storrington",
                 "Sunderland",
                 "Swansea",
-                "Thurrock",
                 "Warrington",
-                "Warwick",
                 "Wigan",
-                "Wirral",
+                "Worthing",
                 "Wrexham",
                 "York",
-                "Prestonpans",
+                "Armagh",
+                "Bury",
+                "Grays",
+                "Scunthorpe",
+                "Thurrock",
                 ""
               ]
             },
-            "title": "Local Authority"
+            "title": "City"
           },
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "Units",
+            "name": "Urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "microgram/m3",
+                "City",
+                "Town",
+                "Rural",
+                "Urban",
+                "city",
                 ""
               ]
             },
-            "title": "Units"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "title": "Urbanisation"
           },
           {
             "name": "Value",
