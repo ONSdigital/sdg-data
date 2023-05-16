@@ -6,7 +6,8 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2018,,,,,Normal value,Units,Number,11.0
 2019,,,,,Normal value,Units,Number,50.0
 2020,,,,,Normal value,Units,Number,13.0
-2021,,,,,Normal value,Units,Number,45.0
+2021,,,,,Normal value,Units,Number,44.0
+2022,,,,,Normal value,Units,Number,13.0
 2014,,,,Female,Normal value,Units,Number,1.0
 2015,,,,Female,Normal value,Units,Number,4.0
 2016,,,,Female,Normal value,Units,Number,1.0
@@ -15,6 +16,7 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2019,,,,Female,Normal value,Units,Number,9.0
 2020,,,,Female,Normal value,Units,Number,2.0
 2021,,,,Female,Normal value,Units,Number,6.0
+2022,,,,Female,Normal value,Units,Number,1.0
 2014,,,,Male,Normal value,Units,Number,14.0
 2015,,,,Male,Normal value,Units,Number,26.0
 2016,,,,Male,Normal value,Units,Number,20.0
@@ -22,7 +24,8 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2018,,,,Male,Normal value,Units,Number,11.0
 2019,,,,Male,Normal value,Units,Number,40.0
 2020,,,,Male,Normal value,Units,Number,10.0
-2021,,,,Male,Normal value,Units,Number,27.0
+2021,,,,Male,Normal value,Units,Number,28.0
+2022,,,,Male,Normal value,Units,Number,7.0
 2014,,,Under 18,,Normal value,Units,Number,4.0
 2015,,,Under 18,,Normal value,Units,Number,5.0
 2016,,,Under 18,,Normal value,Units,Number,6.0
@@ -31,6 +34,7 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2019,,,Under 18,,Normal value,Units,Number,5.0
 2020,,,Under 18,,Normal value,Units,Number,4.0
 2021,,,Under 18,,Normal value,Units,Number,4.0
+2022,,,Under 18,,Normal value,Units,Number,1.0
 2014,Drowning,,,,Normal value,Units,Number,2.0
 2015,Drowning,,,,Normal value,Units,Number,2.0
 2016,Drowning,,,,Normal value,Units,Number,1.0
@@ -38,7 +42,8 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2018,Drowning,,,,Normal value,Units,Number,1.0
 2019,Drowning,,,,Normal value,Units,Number,5.0
 2020,Drowning,,,,Normal value,Units,Number,9.0
-2021,Drowning,,,,Normal value,Units,Number,37.0
+2021,Drowning,,,,Normal value,Units,Number,36.0
+2022,Drowning,,,,Normal value,Units,Number,5.0
 2014,Drowning,,,Female,Normal value,Units,Number,0.0
 2015,Drowning,,,Female,Normal value,Units,Number,0.0
 2016,Drowning,,,Female,Normal value,Units,Number,0.0
@@ -47,6 +52,7 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2019,Drowning,,,Female,Normal value,Units,Number,1.0
 2020,Drowning,,,Female,Normal value,Units,Number,2.0
 2021,Drowning,,,Female,Normal value,Units,Number,6.0
+2022,Drowning,,,Female,Normal value,Units,Number,0.0
 2014,Drowning,,,Male,Normal value,Units,Number,2.0
 2015,Drowning,,,Male,Normal value,Units,Number,2.0
 2016,Drowning,,,Male,Normal value,Units,Number,1.0
@@ -54,7 +60,8 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2018,Drowning,,,Male,Normal value,Units,Number,1.0
 2019,Drowning,,,Male,Normal value,Units,Number,4.0
 2020,Drowning,,,Male,Normal value,Units,Number,7.0
-2021,Drowning,,,Male,Normal value,Units,Number,20.0
+2021,Drowning,,,Male,Normal value,Units,Number,21.0
+2022,Drowning,,,Male,Normal value,Units,Number,1.0
 2014,Drowning,,Under 18,,Normal value,Units,Number,0.0
 2015,Drowning,,Under 18,,Normal value,Units,Number,1.0
 2016,Drowning,,Under 18,,Normal value,Units,Number,0.0
@@ -63,38 +70,43 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2019,Drowning,,Under 18,,Normal value,Units,Number,1.0
 2020,Drowning,,Under 18,,Normal value,Units,Number,3.0
 2021,Drowning,,Under 18,,Normal value,Units,Number,2.0
-2014,Sickness/lack of acess to adequate healthcare,,,,Normal value,Units,Number,0.0
-2015,Sickness/lack of acess to adequate healthcare,,,,Normal value,Units,Number,1.0
-2016,Sickness/lack of acess to adequate healthcare,,,,Normal value,Units,Number,1.0
-2017,Sickness/lack of acess to adequate healthcare,,,,Normal value,Units,Number,0.0
-2018,Sickness/lack of acess to adequate healthcare,,,,Normal value,Units,Number,0.0
-2019,Sickness/lack of acess to adequate healthcare,,,,Normal value,Units,Number,0.0
-2020,Sickness/lack of acess to adequate healthcare,,,,Normal value,Units,Number,1.0
-2021,Sickness/lack of acess to adequate healthcare,,,,Normal value,Units,Number,1.0
-2014,Sickness/lack of acess to adequate healthcare,,,Female,Normal value,Units,Number,0.0
-2015,Sickness/lack of acess to adequate healthcare,,,Female,Normal value,Units,Number,0.0
-2016,Sickness/lack of acess to adequate healthcare,,,Female,Normal value,Units,Number,0.0
-2017,Sickness/lack of acess to adequate healthcare,,,Female,Normal value,Units,Number,0.0
-2018,Sickness/lack of acess to adequate healthcare,,,Female,Normal value,Units,Number,0.0
-2019,Sickness/lack of acess to adequate healthcare,,,Female,Normal value,Units,Number,0.0
-2020,Sickness/lack of acess to adequate healthcare,,,Female,Normal value,Units,Number,0.0
-2021,Sickness/lack of acess to adequate healthcare,,,Female,Normal value,Units,Number,0.0
-2014,Sickness/lack of acess to adequate healthcare,,,Male,Normal value,Units,Number,0.0
-2015,Sickness/lack of acess to adequate healthcare,,,Male,Normal value,Units,Number,1.0
-2016,Sickness/lack of acess to adequate healthcare,,,Male,Normal value,Units,Number,1.0
-2017,Sickness/lack of acess to adequate healthcare,,,Male,Normal value,Units,Number,0.0
-2018,Sickness/lack of acess to adequate healthcare,,,Male,Normal value,Units,Number,0.0
-2019,Sickness/lack of acess to adequate healthcare,,,Male,Normal value,Units,Number,0.0
-2020,Sickness/lack of acess to adequate healthcare,,,Male,Normal value,Units,Number,0.0
-2021,Sickness/lack of acess to adequate healthcare,,,Male,Normal value,Units,Number,1.0
-2014,Sickness/lack of acess to adequate healthcare,,Under 18,,Normal value,Units,Number,0.0
-2015,Sickness/lack of acess to adequate healthcare,,Under 18,,Normal value,Units,Number,0.0
-2016,Sickness/lack of acess to adequate healthcare,,Under 18,,Normal value,Units,Number,0.0
-2017,Sickness/lack of acess to adequate healthcare,,Under 18,,Normal value,Units,Number,0.0
-2018,Sickness/lack of acess to adequate healthcare,,Under 18,,Normal value,Units,Number,0.0
-2019,Sickness/lack of acess to adequate healthcare,,Under 18,,Normal value,Units,Number,0.0
-2020,Sickness/lack of acess to adequate healthcare,,Under 18,,Normal value,Units,Number,0.0
-2021,Sickness/lack of acess to adequate healthcare,,Under 18,,Normal value,Units,Number,0.0
+2022,Drowning,,Under 18,,Normal value,Units,Number,1.0
+2014,Sickness/lack of access to adequate healthcare,,,,Normal value,Units,Number,0.0
+2015,Sickness/lack of access to adequate healthcare,,,,Normal value,Units,Number,1.0
+2016,Sickness/lack of access to adequate healthcare,,,,Normal value,Units,Number,1.0
+2017,Sickness/lack of access to adequate healthcare,,,,Normal value,Units,Number,0.0
+2018,Sickness/lack of access to adequate healthcare,,,,Normal value,Units,Number,0.0
+2019,Sickness/lack of access to adequate healthcare,,,,Normal value,Units,Number,0.0
+2020,Sickness/lack of access to adequate healthcare,,,,Normal value,Units,Number,1.0
+2021,Sickness/lack of access to adequate healthcare,,,,Normal value,Units,Number,1.0
+2022,Sickness/lack of access to adequate healthcare,,,,Normal value,Units,Number,1.0
+2014,Sickness/lack of access to adequate healthcare,,,Female,Normal value,Units,Number,0.0
+2015,Sickness/lack of access to adequate healthcare,,,Female,Normal value,Units,Number,0.0
+2016,Sickness/lack of access to adequate healthcare,,,Female,Normal value,Units,Number,0.0
+2017,Sickness/lack of access to adequate healthcare,,,Female,Normal value,Units,Number,0.0
+2018,Sickness/lack of access to adequate healthcare,,,Female,Normal value,Units,Number,0.0
+2019,Sickness/lack of access to adequate healthcare,,,Female,Normal value,Units,Number,0.0
+2020,Sickness/lack of access to adequate healthcare,,,Female,Normal value,Units,Number,0.0
+2021,Sickness/lack of access to adequate healthcare,,,Female,Normal value,Units,Number,0.0
+2022,Sickness/lack of access to adequate healthcare,,,Female,Normal value,Units,Number,0.0
+2014,Sickness/lack of access to adequate healthcare,,,Male,Normal value,Units,Number,0.0
+2015,Sickness/lack of access to adequate healthcare,,,Male,Normal value,Units,Number,1.0
+2016,Sickness/lack of access to adequate healthcare,,,Male,Normal value,Units,Number,1.0
+2017,Sickness/lack of access to adequate healthcare,,,Male,Normal value,Units,Number,0.0
+2018,Sickness/lack of access to adequate healthcare,,,Male,Normal value,Units,Number,0.0
+2019,Sickness/lack of access to adequate healthcare,,,Male,Normal value,Units,Number,0.0
+2020,Sickness/lack of access to adequate healthcare,,,Male,Normal value,Units,Number,0.0
+2021,Sickness/lack of access to adequate healthcare,,,Male,Normal value,Units,Number,1.0
+2022,Sickness/lack of access to adequate healthcare,,,Male,Normal value,Units,Number,1.0
+2014,Sickness/lack of access to adequate healthcare,,Under 18,,Normal value,Units,Number,0.0
+2015,Sickness/lack of access to adequate healthcare,,Under 18,,Normal value,Units,Number,0.0
+2016,Sickness/lack of access to adequate healthcare,,Under 18,,Normal value,Units,Number,0.0
+2017,Sickness/lack of access to adequate healthcare,,Under 18,,Normal value,Units,Number,0.0
+2018,Sickness/lack of access to adequate healthcare,,Under 18,,Normal value,Units,Number,0.0
+2019,Sickness/lack of access to adequate healthcare,,Under 18,,Normal value,Units,Number,0.0
+2020,Sickness/lack of access to adequate healthcare,,Under 18,,Normal value,Units,Number,0.0
+2021,Sickness/lack of access to adequate healthcare,,Under 18,,Normal value,Units,Number,0.0
+2022,Sickness/lack of access to adequate healthcare,,Under 18,,Normal value,Units,Number,0.0
 2014,Vehicle accident/death linked to hazardous transport,,,,Normal value,Units,Number,12.0
 2015,Vehicle accident/death linked to hazardous transport,,,,Normal value,Units,Number,27.0
 2016,Vehicle accident/death linked to hazardous transport,,,,Normal value,Units,Number,15.0
@@ -103,6 +115,7 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2019,Vehicle accident/death linked to hazardous transport,,,,Normal value,Units,Number,45.0
 2020,Vehicle accident/death linked to hazardous transport,,,,Normal value,Units,Number,2.0
 2021,Vehicle accident/death linked to hazardous transport,,,,Normal value,Units,Number,6.0
+2022,Vehicle accident/death linked to hazardous transport,,,,Normal value,Units,Number,4.0
 2014,Vehicle accident/death linked to hazardous transport,,,Female,Normal value,Units,Number,1.0
 2015,Vehicle accident/death linked to hazardous transport,,,Female,Normal value,Units,Number,4.0
 2016,Vehicle accident/death linked to hazardous transport,,,Female,Normal value,Units,Number,1.0
@@ -111,6 +124,7 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2019,Vehicle accident/death linked to hazardous transport,,,Female,Normal value,Units,Number,8.0
 2020,Vehicle accident/death linked to hazardous transport,,,Female,Normal value,Units,Number,0.0
 2021,Vehicle accident/death linked to hazardous transport,,,Female,Normal value,Units,Number,0.0
+2022,Vehicle accident/death linked to hazardous transport,,,Female,Normal value,Units,Number,1.0
 2014,Vehicle accident/death linked to hazardous transport,,,Male,Normal value,Units,Number,9.0
 2015,Vehicle accident/death linked to hazardous transport,,,Male,Normal value,Units,Number,22.0
 2016,Vehicle accident/death linked to hazardous transport,,,Male,Normal value,Units,Number,13.0
@@ -119,6 +133,7 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2019,Vehicle accident/death linked to hazardous transport,,,Male,Normal value,Units,Number,36.0
 2020,Vehicle accident/death linked to hazardous transport,,,Male,Normal value,Units,Number,2.0
 2021,Vehicle accident/death linked to hazardous transport,,,Male,Normal value,Units,Number,5.0
+2022,Vehicle accident/death linked to hazardous transport,,,Male,Normal value,Units,Number,3.0
 2014,Vehicle accident/death linked to hazardous transport,,Under 18,,Normal value,Units,Number,4.0
 2015,Vehicle accident/death linked to hazardous transport,,Under 18,,Normal value,Units,Number,4.0
 2016,Vehicle accident/death linked to hazardous transport,,Under 18,,Normal value,Units,Number,5.0
@@ -127,6 +142,7 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2019,Vehicle accident/death linked to hazardous transport,,Under 18,,Normal value,Units,Number,4.0
 2020,Vehicle accident/death linked to hazardous transport,,Under 18,,Normal value,Units,Number,1.0
 2021,Vehicle accident/death linked to hazardous transport,,Under 18,,Normal value,Units,Number,2.0
+2022,Vehicle accident/death linked to hazardous transport,,Under 18,,Normal value,Units,Number,0.0
 2014,Violence,,,,Normal value,Units,Number,2.0
 2015,Violence,,,,Normal value,Units,Number,1.0
 2016,Violence,,,,Normal value,Units,Number,3.0
@@ -135,6 +151,7 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2019,Violence,,,,Normal value,Units,Number,0.0
 2020,Violence,,,,Normal value,Units,Number,0.0
 2021,Violence,,,,Normal value,Units,Number,0.0
+2022,Violence,,,,Normal value,Units,Number,2.0
 2014,Violence,,,Female,Normal value,Units,Number,0.0
 2015,Violence,,,Female,Normal value,Units,Number,0.0
 2016,Violence,,,Female,Normal value,Units,Number,0.0
@@ -143,6 +160,7 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2019,Violence,,,Female,Normal value,Units,Number,0.0
 2020,Violence,,,Female,Normal value,Units,Number,0.0
 2021,Violence,,,Female,Normal value,Units,Number,0.0
+2022,Violence,,,Female,Normal value,Units,Number,0.0
 2014,Violence,,,Male,Normal value,Units,Number,2.0
 2015,Violence,,,Male,Normal value,Units,Number,1.0
 2016,Violence,,,Male,Normal value,Units,Number,3.0
@@ -151,6 +169,7 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2019,Violence,,,Male,Normal value,Units,Number,0.0
 2020,Violence,,,Male,Normal value,Units,Number,0.0
 2021,Violence,,,Male,Normal value,Units,Number,0.0
+2022,Violence,,,Male,Normal value,Units,Number,1.0
 2014,Violence,,Under 18,,Normal value,Units,Number,0.0
 2015,Violence,,Under 18,,Normal value,Units,Number,0.0
 2016,Violence,,Under 18,,Normal value,Units,Number,0.0
@@ -159,38 +178,43 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2019,Violence,,Under 18,,Normal value,Units,Number,0.0
 2020,Violence,,Under 18,,Normal value,Units,Number,0.0
 2021,Violence,,Under 18,,Normal value,Units,Number,0.0
-2014,Mixed or Unknown,,,,Normal value,Units,Number,1.0
-2015,Mixed or Unknown,,,,Normal value,Units,Number,0.0
-2016,Mixed or Unknown,,,,Normal value,Units,Number,2.0
-2017,Mixed or Unknown,,,,Normal value,Units,Number,0.0
-2018,Mixed or Unknown,,,,Normal value,Units,Number,0.0
-2019,Mixed or Unknown,,,,Normal value,Units,Number,0.0
-2020,Mixed or Unknown,,,,Normal value,Units,Number,1.0
-2021,Mixed or Unknown,,,,Normal value,Units,Number,1.0
-2014,Mixed or Unknown,,,Female,Normal value,Units,Number,0.0
-2015,Mixed or Unknown,,,Female,Normal value,Units,Number,0.0
-2016,Mixed or Unknown,,,Female,Normal value,Units,Number,0.0
-2017,Mixed or Unknown,,,Female,Normal value,Units,Number,0.0
-2018,Mixed or Unknown,,,Female,Normal value,Units,Number,0.0
-2019,Mixed or Unknown,,,Female,Normal value,Units,Number,0.0
-2020,Mixed or Unknown,,,Female,Normal value,Units,Number,0.0
-2021,Mixed or Unknown,,,Female,Normal value,Units,Number,0.0
-2014,Mixed or Unknown,,,Male,Normal value,Units,Number,1.0
-2015,Mixed or Unknown,,,Male,Normal value,Units,Number,0.0
-2016,Mixed or Unknown,,,Male,Normal value,Units,Number,2.0
-2017,Mixed or Unknown,,,Male,Normal value,Units,Number,0.0
-2018,Mixed or Unknown,,,Male,Normal value,Units,Number,0.0
-2019,Mixed or Unknown,,,Male,Normal value,Units,Number,0.0
-2020,Mixed or Unknown,,,Male,Normal value,Units,Number,1.0
-2021,Mixed or Unknown,,,Male,Normal value,Units,Number,1.0
-2014,Mixed or Unknown,,Under 18,,Normal value,Units,Number,0.0
-2015,Mixed or Unknown,,Under 18,,Normal value,Units,Number,0.0
-2016,Mixed or Unknown,,Under 18,,Normal value,Units,Number,1.0
-2017,Mixed or Unknown,,Under 18,,Normal value,Units,Number,0.0
-2018,Mixed or Unknown,,Under 18,,Normal value,Units,Number,0.0
-2019,Mixed or Unknown,,Under 18,,Normal value,Units,Number,0.0
-2020,Mixed or Unknown,,Under 18,,Normal value,Units,Number,0.0
-2021,Mixed or Unknown,,Under 18,,Normal value,Units,Number,0.0
+2022,Violence,,Under 18,,Normal value,Units,Number,0.0
+2014,Mixed or unknown,,,,Normal value,Units,Number,1.0
+2015,Mixed or unknown,,,,Normal value,Units,Number,0.0
+2016,Mixed or unknown,,,,Normal value,Units,Number,2.0
+2017,Mixed or unknown,,,,Normal value,Units,Number,0.0
+2018,Mixed or unknown,,,,Normal value,Units,Number,0.0
+2019,Mixed or unknown,,,,Normal value,Units,Number,0.0
+2020,Mixed or unknown,,,,Normal value,Units,Number,1.0
+2021,Mixed or unknown,,,,Normal value,Units,Number,1.0
+2022,Mixed or unknown,,,,Normal value,Units,Number,0.0
+2014,Mixed or unknown,,,Female,Normal value,Units,Number,0.0
+2015,Mixed or unknown,,,Female,Normal value,Units,Number,0.0
+2016,Mixed or unknown,,,Female,Normal value,Units,Number,0.0
+2017,Mixed or unknown,,,Female,Normal value,Units,Number,0.0
+2018,Mixed or unknown,,,Female,Normal value,Units,Number,0.0
+2019,Mixed or unknown,,,Female,Normal value,Units,Number,0.0
+2020,Mixed or unknown,,,Female,Normal value,Units,Number,0.0
+2021,Mixed or unknown,,,Female,Normal value,Units,Number,0.0
+2022,Mixed or unknown,,,Female,Normal value,Units,Number,0.0
+2014,Mixed or unknown,,,Male,Normal value,Units,Number,1.0
+2015,Mixed or unknown,,,Male,Normal value,Units,Number,0.0
+2016,Mixed or unknown,,,Male,Normal value,Units,Number,2.0
+2017,Mixed or unknown,,,Male,Normal value,Units,Number,0.0
+2018,Mixed or unknown,,,Male,Normal value,Units,Number,0.0
+2019,Mixed or unknown,,,Male,Normal value,Units,Number,0.0
+2020,Mixed or unknown,,,Male,Normal value,Units,Number,1.0
+2021,Mixed or unknown,,,Male,Normal value,Units,Number,1.0
+2022,Mixed or unknown,,,Male,Normal value,Units,Number,0.0
+2014,Mixed or unknown,,Under 18,,Normal value,Units,Number,0.0
+2015,Mixed or unknown,,Under 18,,Normal value,Units,Number,0.0
+2016,Mixed or unknown,,Under 18,,Normal value,Units,Number,1.0
+2017,Mixed or unknown,,Under 18,,Normal value,Units,Number,0.0
+2018,Mixed or unknown,,Under 18,,Normal value,Units,Number,0.0
+2019,Mixed or unknown,,Under 18,,Normal value,Units,Number,0.0
+2020,Mixed or unknown,,Under 18,,Normal value,Units,Number,0.0
+2021,Mixed or unknown,,Under 18,,Normal value,Units,Number,0.0
+2022,Mixed or unknown,,Under 18,,Normal value,Units,Number,0.0
 2014,,Eastern Africa,,,Normal value,Units,Number,7.0
 2015,,Eastern Africa,,,Normal value,Units,Number,8.0
 2016,,Eastern Africa,,,Normal value,Units,Number,5.0
@@ -198,7 +222,8 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2018,,Eastern Africa,,,Normal value,Units,Number,4.0
 2019,,Eastern Africa,,,Normal value,Units,Number,3.0
 2020,,Eastern Africa,,,Normal value,Units,Number,0.0
-2021,,Eastern Africa,,,Normal value,Units,Number,3.0
+2021,,Eastern Africa,,,Normal value,Units,Number,29.0
+2022,,Eastern Africa,,,Normal value,Units,Number,2.0
 2014,,Europe,,,Normal value,Units,Number,1.0
 2015,,Europe,,,Normal value,Units,Number,0.0
 2016,,Europe,,,Normal value,Units,Number,0.0
@@ -207,14 +232,16 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2019,,Europe,,,Normal value,Units,Number,0.0
 2020,,Europe,,,Normal value,Units,Number,0.0
 2021,,Europe,,,Normal value,Units,Number,0.0
+2022,,Europe,,,Normal value,Units,Number,0.0
 2014,,Middle Africa,,,Normal value,Units,Number,0.0
 2015,,Middle Africa,,,Normal value,Units,Number,0.0
-2016,,Middle Africa,,,Normal value,Units,Number,1.0
+2016,,Middle Africa,,,Normal value,Units,Number,0.0
 2017,,Middle Africa,,,Normal value,Units,Number,0.0
-2018,,Middle Africa,,,Normal value,Units,Number,1.0
+2018,,Middle Africa,,,Normal value,Units,Number,0.0
 2019,,Middle Africa,,,Normal value,Units,Number,0.0
 2020,,Middle Africa,,,Normal value,Units,Number,0.0
 2021,,Middle Africa,,,Normal value,Units,Number,0.0
+2022,,Middle Africa,,,Normal value,Units,Number,0.0
 2014,,Northern Africa,,,Normal value,Units,Number,3.0
 2015,,Northern Africa,,,Normal value,Units,Number,9.0
 2016,,Northern Africa,,,Normal value,Units,Number,4.0
@@ -223,6 +250,7 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2019,,Northern Africa,,,Normal value,Units,Number,0.0
 2020,,Northern Africa,,,Normal value,Units,Number,2.0
 2021,,Northern Africa,,,Normal value,Units,Number,2.0
+2022,,Northern Africa,,,Normal value,Units,Number,3.0
 2014,,Sub-Saharan Africa,,,Normal value,Units,Number,0.0
 2015,,Sub-Saharan Africa,,,Normal value,Units,Number,0.0
 2016,,Sub-Saharan Africa,,,Normal value,Units,Number,1.0
@@ -231,6 +259,7 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2019,,Sub-Saharan Africa,,,Normal value,Units,Number,0.0
 2020,,Sub-Saharan Africa,,,Normal value,Units,Number,0.0
 2021,,Sub-Saharan Africa,,,Normal value,Units,Number,0.0
+2022,,Sub-Saharan Africa,,,Normal value,Units,Number,1.0
 2014,,Southern Asia,,,Normal value,Units,Number,2.0
 2015,,Southern Asia,,,Normal value,Units,Number,8.0
 2016,,Southern Asia,,,Normal value,Units,Number,7.0
@@ -239,6 +268,7 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2019,,Southern Asia,,,Normal value,Units,Number,40.0
 2020,,Southern Asia,,,Normal value,Units,Number,8.0
 2021,,Southern Asia,,,Normal value,Units,Number,2.0
+2022,,Southern Asia,,,Normal value,Units,Number,0.0
 2014,,Western Africa,,,Normal value,Units,Number,0.0
 2015,,Western Africa,,,Normal value,Units,Number,0.0
 2016,,Western Africa,,,Normal value,Units,Number,1.0
@@ -247,6 +277,7 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2019,,Western Africa,,,Normal value,Units,Number,2.0
 2020,,Western Africa,,,Normal value,Units,Number,0.0
 2021,,Western Africa,,,Normal value,Units,Number,0.0
+2022,,Western Africa,,,Normal value,Units,Number,0.0
 2014,,Western Asia,,,Normal value,Units,Number,2.0
 2015,,Western Asia,,,Normal value,Units,Number,4.0
 2016,,Western Asia,,,Normal value,Units,Number,2.0
@@ -254,7 +285,8 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2018,,Western Asia,,,Normal value,Units,Number,0.0
 2019,,Western Asia,,,Normal value,Units,Number,3.0
 2020,,Western Asia,,,Normal value,Units,Number,1.0
-2021,,Western Asia,,,Normal value,Units,Number,27.0
+2021,,Western Asia,,,Normal value,Units,Number,0.0
+2022,,Western Asia,,,Normal value,Units,Number,2.0
 2014,,Unknown,,,Normal value,Units,Number,2.0
 2015,,Unknown,,,Normal value,Units,Number,2.0
 2016,,Unknown,,,Normal value,Units,Number,1.0
@@ -263,3 +295,4 @@ Year,Cause of death,Region of origin,Age,Sex,Observation status,Unit multiplier,
 2019,,Unknown,,,Normal value,Units,Number,2.0
 2020,,Unknown,,,Normal value,Units,Number,2.0
 2021,,Unknown,,,Normal value,Units,Number,11.0
+2022,,Unknown,,,Normal value,Units,Number,4.0
