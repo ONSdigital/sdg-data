@@ -118,7 +118,7 @@ def alter_meta(meta):
           if meta['indicator_name'] in excluded_indicators:
               continue
             if source in meta:
-                if source != "TBC":
+               if source != "TBC":
                   meta[source] = str(meta[source]) + ": We plan to update indicator data within 4 months of data being released" 
                
     return meta
