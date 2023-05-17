@@ -113,7 +113,7 @@ def alter_meta(meta):
                     meta['page_content']="<strong>No data was sourced for this indicator</strong>"+meta['page_content']
                     
         source_list = ['source_next_release_1', 'source_next_release_2', 'source_next_release_3', 'source_next_release_4', 'source_next_release_5', 'source_next_release_6', 'source_next_release_7', 'source_next_release_8', 'source_next_release_9']
-        excluded_indicators = ['2.c.1']
+        excluded_indicators = ['2-c-1']
         for source in source_list:
             if meta['indicator_name'] in excluded_indicators:
                 continue
