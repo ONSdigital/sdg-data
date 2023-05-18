@@ -15,13 +15,13 @@
             "type": "integer"
           },
           {
-            "name": "Series",
+            "name": "Technology",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of population covered by at least a 2G mobile network",
-                "Proportion of population covered by at least a 3G mobile network",
-                "Proportion of population covered by at least a 4G mobile network",
+                "2G mobile network",
+                "3G mobile network",
+                "4G mobile network",
                 ""
               ]
             }
