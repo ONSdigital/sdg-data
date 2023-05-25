@@ -34,7 +34,7 @@ src_dir: ''
 translations:
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: 2.1.0
+    tag: 2.2.0
 
 # Reporting status extra fields
 # -----------------------------
@@ -108,6 +108,8 @@ docs_metadata_fields:
       label: Units
     - key: graph_type
       label: Graph type
+    - key: source_organisation_1
+      label: Source
       
 datapackage:
   sorting: default

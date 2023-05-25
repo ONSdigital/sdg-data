@@ -3,7 +3,7 @@ import pandas as pd
 import http
 
 # list of indicators to exclude from code below which sets min/max y-axis values to 0/100 for charts where Units is Percentage (%) - we do not want these indicators to show upto 100% for ease of visualisation
-y_limit_percentage_exclusions=['1.a.1', '1.1.1', '2.2.1', '2.2.2', '3.3.3', '3.5.1', '3.9.1', '4.1.2', '5.2.1', '5.2.2', '7.2.1', '8.1.1', '8.2.1', '8.9.1', 
+y_limit_percentage_exclusions=['1.a.1', '1.1.1', '2.1.2', '2.2.1', '2.2.2', '3.3.3', '3.5.1', '3.9.1', '4.1.2', '5.2.1', '5.2.2', '7.2.1', '8.1.1', '8.2.1', '8.9.1', 
                                '9.2.1', '9.2.2', '9.3.1', '9.5.1', '10.1.1', '10.2.1', '10.3.1', '10.6.1', '10.c.1', '11.7.2',
                                '15.a.1', '15.b.1', '16.1.3', '16.7.1', '16.8.1', '16.b.1', '17.2.1', '17.3.1', '17.3.2', '17.4.1', '17.10.1',
                                '17.12.1']
@@ -113,10 +113,13 @@ def alter_meta(meta):
                     meta['page_content']="<strong>No data was sourced for this indicator</strong>"+meta['page_content']
                     
         source_list = ['source_next_release_1', 'source_next_release_2', 'source_next_release_3', 'source_next_release_4', 'source_next_release_5', 'source_next_release_6', 'source_next_release_7', 'source_next_release_8', 'source_next_release_9']
+        excluded_indicators = ['2-c-1', '2.c.1']
         for source in source_list:
-          if source in meta:
-            if source != "TBC":
-              meta[source] = str(meta[source]) + ": We plan to update indicator data within 4 months of data being released" 
+            if source in meta:
+               if indicator_id in excluded_indicators:
+                  break
+               if source != 'TBC':
+                  meta[source] = str(meta[source]) + ': We plan to update indicator data within 4 months of data being released'
                
     return meta
   
