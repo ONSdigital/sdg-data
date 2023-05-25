@@ -38,13 +38,13 @@
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and the Humber",
+                "Yorkshire and The Humber",
                 ""
               ]
             }
           },
           {
-            "name": "Local Authority",
+            "name": "Local authority",
             "type": "string",
             "constraints": {
               "enum": [

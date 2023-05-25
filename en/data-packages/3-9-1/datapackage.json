@@ -40,14 +40,14 @@
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and the Humber",
+                "Yorkshire and The Humber",
                 ""
               ]
             },
             "title": "Region"
           },
           {
-            "name": "Local Authority",
+            "name": "Local authority",
             "type": "string",
             "constraints": {
               "enum": [
@@ -388,7 +388,7 @@
                 ""
               ]
             },
-            "title": "Local Authority"
+            "title": "Local authority"
           },
           {
             "name": "Deprivation decile",
