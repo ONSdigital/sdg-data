@@ -19,8 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Women aged 16 to 59 (%)",
-                "Women aged 16 to 74 (%)",
+                "Women aged 16 to 59",
+                "Women aged 16 to 74",
+                "Women aged 16 and over",
                 ""
               ]
             }
@@ -52,12 +53,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Non-physical abuse (emotional, financial)",
-                "Threats or force",
-                "Threats",
                 "Force",
-                "Sexual assault by rape or penetration (including attempts)",
+                "Non-physical abuse (emotional, financial)",
+                "Threats",
+                "Threats or force",
                 "Indecent exposure or unwanted sexual touching by a partner",
+                "Sexual assault by rape or penetration (including attempts)",
                 ""
               ]
             }
@@ -74,6 +75,7 @@
                 "45 to 54",
                 "55 to 59",
                 "60 to 74",
+                "75 and over",
                 ""
               ]
             }
@@ -83,11 +85,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "White",
                 "Asian/Asian British",
                 "Black/African/Caribbean/Black British",
                 "Other ethnic group",
+                "White",
                 "Mixed",
+                "Mixed/multiple ethnic groups",
                 ""
               ]
             }
@@ -97,17 +100,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "English/Welsh/Scottish/Northern Irish/British",
-                "Any other White background",
-                "Indian",
                 "Any other Asian background",
+                "Indian",
                 "African",
+                "Any other White background",
+                "English/Welsh/Scottish/Northern Irish/British",
                 "Pakistani",
                 "Caribbean",
-                "White and Black Caribbean",
-                "Any other Mixed/Multiple ethnic background",
                 "Bangladeshi",
                 "Chinese",
+                "Any other Mixed/Multiple ethnic background",
+                "White and Black Caribbean",
                 ""
               ]
             }
@@ -117,8 +120,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Non-disabled (GSS harmonised)",
                 "Disabled (GSS harmonised)",
+                "Non-disabled (GSS harmonised)",
+                "Disabled",
+                "Not disabled",
                 ""
               ]
             }
@@ -130,6 +135,8 @@
               "enum": [
                 "Born in UK",
                 "Not born in UK",
+                "Born in the UK",
+                "Not born in the UK",
                 ""
               ]
             }
@@ -139,16 +146,51 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "North East",
-                "North West",
-                "Yorkshire and The Humber",
                 "East Midlands",
-                "West Midlands",
                 "East of England",
                 "London",
+                "North East",
+                "North West",
                 "South East",
                 "South West",
                 "Wales",
+                "West Midlands",
+                "Yorkshire and The Humber",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Urban or Rural",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sexual orientation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bisexual",
+                "Gay/Lesbian",
+                "Heterosexual/straight",
+                "Other",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gender identity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cisgender",
+                "Transgender",
                 ""
               ]
             }
@@ -158,11 +200,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Degree or diploma",
                 "Apprenticeship or A/AS level",
+                "Degree or diploma",
+                "No qualification",
                 "O level/GCSE",
                 "Other qualification",
-                "No qualification",
+                "No qualifications",
+                "Other",
                 ""
               ]
             }
@@ -172,12 +216,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Less than £10,400",
                 "£10,400 to less than £20,800",
                 "£20,800 to less than £31,200",
                 "£31,200 to less than £41,600",
                 "£41,600 to less than £52,000",
                 "£52,000 or more",
+                "Less than £10,400",
                 "No income stated or not enough information provided",
                 ""
               ]

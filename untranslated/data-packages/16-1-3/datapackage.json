@@ -19,8 +19,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) Physical violence",
-                "(c) Sexual violence",
+                "(c) Sexual violence - 16 and over",
+                "(c) Sexual violence - 16 to 74",
+                "(a) Physical violence - 16 and over",
+                "(c) Sexual violence - 16 to 59",
                 ""
               ]
             }
@@ -30,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Indecent exposure or unwanted sexual touching",
+                "Sexual assault by rape or penetration including attempts",
                 "Assault with minor injury",
                 "Violence with injury",
                 "Violence without injury",
                 "Wounding",
-                "Indecent exposure or unwanted sexual touching",
-                "Sexual assault by rape or penetration including attempts",
                 ""
               ]
             }
@@ -45,17 +47,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 to 24",
-                "18 to 24",
+                "16 to 19",
+                "20 to 24",
                 "25 to 34",
                 "35 to 44",
                 "45 to 54",
+                "55 to 59",
+                "60 to 74",
+                "75 and over",
+                "16 to 24",
+                "18 to 24",
                 "55 to 64",
                 "65 to 74",
-                "75 and over",
-                "16 to 19",
-                "20 to 24",
-                "55 to 59",
                 ""
               ]
             }
@@ -76,8 +79,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Born in the UK",
-                "Not born in the UK",
+                "Born in UK",
+                "Not born in UK",
                 ""
               ]
             }
@@ -98,9 +101,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bisexual",
-                "Gay/Lesbian",
                 "Heterosexual/straight",
+                "Gay/Lesbian",
+                "Bisexual",
                 "Other",
                 ""
               ]
@@ -111,11 +114,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "White",
+                "Mixed",
                 "Asian",
                 "Black",
-                "Mixed",
                 "Other ethnic group",
-                "White",
                 ""
               ]
             }
@@ -125,24 +128,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Any other Asian background",
-                "Bangladeshi",
-                "Chinese",
+                "English/Welsh/Scottish/Northern Irish/British",
+                "Irish",
+                "Gypsy or Irish Traveller",
+                "Any other White background",
+                "White and Black Caribbean",
+                "White and Black African",
+                "White and Asian",
+                "Any other Mixed ethnic background",
                 "Indian",
                 "Pakistani",
+                "Bangladeshi",
+                "Chinese",
+                "Any other Asian background",
                 "African",
-                "Any other Black background",
                 "Caribbean",
-                "Any other Mixed ethnic background",
-                "White and Asian",
-                "White and Black African",
-                "White and Black Caribbean",
-                "Any other ethnic group",
+                "Any other Black background",
                 "Arab",
-                "Any other White background",
-                "English/Welsh/Scottish/Northern Irish/British",
-                "Gypsy or Irish Traveller",
-                "Irish",
+                "Any other ethnic group",
                 "Any other white background",
                 ""
               ]
@@ -153,11 +156,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Apprenticeship or A/AS level",
                 "Degree or diploma",
-                "No qualification",
+                "Apprenticeship or A/AS level",
                 "O level/GCSE",
                 "Other qualification",
+                "No qualifications",
                 ""
               ]
             }
@@ -167,19 +170,19 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Less than £10,400",
+                "£10,400 to less than £20,800",
+                "£20,800 to less than £31,200",
+                "£31,200 to less than £41,600",
+                "£41,600 to less than £52,000",
+                "£52,000 or more",
+                "No income stated or not enough information provided",
                 "Less than £10,000",
                 "£10,000 to less than £20,000",
                 "£20,000 to less than £30,000",
                 "£30,000 to less than £40,000",
                 "£40,000 to less than £50,000",
                 "£50,000 or more",
-                "No income stated or not enough information provided",
-                "£10,400 to less than £20,800",
-                "£20,800 to less than £31,200",
-                "£31,200 to less than £41,600",
-                "£41,600 to less than £52,000",
-                "£52,000 or more",
-                "Less than £10,400",
                 ""
               ]
             }
@@ -189,27 +192,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "East",
-                "East Midlands",
-                "London",
                 "North East",
                 "North West",
+                "Yorkshire and The Humber",
+                "East Midlands",
+                "West Midlands",
+                "East",
+                "London",
                 "South East",
                 "South West",
                 "Wales",
-                "West Midlands",
-                "Yorkshire and The Humber",
                 ""
               ]
             }
           },
           {
-            "name": "Urban or Rural",
+            "name": "Urban or rural",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
                 "Urban",
+                "Rural",
                 ""
               ]
             }
