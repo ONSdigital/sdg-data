@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider",
+                "Proportion of adults (16 years and older) with an account at a financial institution or mobile-money-service provider",
                 ""
               ]
             },
@@ -31,26 +31,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Any type of account (including POCAs)",
-                "Any type of account (excluding POCAs)",
-                "No accounts (including POCAs)",
-                "No accounts (excluding POCAs)",
-                "Any Direct Payment Account (including POCAs)",
                 "Any Direct Payment Account (excluding POCAs)",
-                "Current account",
-                "NS&I Savings Account",
+                "Any Direct Payment Account (including POCAs)",
+                "Any other type of asset",
+                "Any type of account (excluding POCAs)",
+                "Any type of account (including POCAs)",
                 "Basic Bank account",
-                "Post Office Card Account (POCA)",
-                "ISA",
-                "Other Bank / Building Society account",
-                "Stocks and shares / member of a Share Club",
-                "Unit trusts",
-                "Endowment Policy (not linked)",
-                "Premium Bonds",
-                "National Savings Bonds",
                 "Company Share Scheme / profit sharing",
                 "Credit Unions",
-                "Any other type of asset",
+                "Current account",
+                "Endowment Policy (not linked)",
+                "ISA",
+                "National Savings Bonds",
+                "No accounts (excluding POCAs)",
+                "No accounts (including POCAs)",
+                "NS&I Savings Account",
+                "Other Bank / Building Society account",
+                "Post Office Card Account (POCA)",
+                "Premium Bonds",
+                "Stocks and shares / member of a Share Club",
+                "Unit trusts",
+                "Informal assets",
                 ""
               ]
             },
@@ -88,15 +89,9 @@
             "title": "Age"
           },
           {
-            "name": "Units",
+            "name": "Unit measure",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage (%)",
-                ""
-              ]
-            },
-            "title": "Units"
+            "title": "Unit measure"
           },
           {
             "name": "Unit multiplier",
