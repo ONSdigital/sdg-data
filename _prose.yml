@@ -52,7 +52,7 @@ prose:
             scope: data
       - name: "indicator_definition"
         field:
-            element: textarea
+            element: hidden
             label: "Global indicator description"
             scope: global
       - name: "un_designated_tier"
