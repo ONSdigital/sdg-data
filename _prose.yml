@@ -50,6 +50,11 @@ prose:
             element: hidden
             label: "Target number"
             scope: data
+      - name: "indicator_definition"
+        field:
+            element: hidden
+            label: "Global indicator description"
+            scope: global
       - name: "un_designated_tier"
         field: 
             element: text
