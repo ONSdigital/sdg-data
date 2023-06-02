@@ -54,6 +54,7 @@ prose:
         field:
             element: hidden
             label: "Global indicator description"
+            translation_key: metadata_fields.indicator_definition
             scope: global
       - name: "un_designated_tier"
         field: 
