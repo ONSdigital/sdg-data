@@ -3210,14 +3210,6 @@
             }
           },
           {
-            "name": "Observation status",
-            "type": "string"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -3227,6 +3219,14 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
           },
           {
             "name": "Value",
