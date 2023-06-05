@@ -103,6 +103,24 @@
             }
           },
           {
+            "name": "Household income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Band 1",
+                "Band 2",
+                "Band 3",
+                "Band 4",
+                "Band 5",
+                "Band 6",
+                "Band 7",
+                "Band 8",
+                "No income",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
