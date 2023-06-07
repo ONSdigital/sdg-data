@@ -12864,10 +12864,10 @@
             "constraints": {
               "enum": [
                 "Total factor productivity",
-                "Productivity by labour",
-                "Productivity by land",
                 "Productivity by intermediate consumption",
                 "Productivity by capital consumption",
+                "Productivity by labour",
+                "Productivity by land",
                 ""
               ]
             }
@@ -12887,8 +12887,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All inputs",
                 "Labour inputs",
+                "All inputs",
                 ""
               ]
             }
