@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tourism direct GDP growth rate",
                 "Tourism direct GDP as a proportion of total GDP",
+                "Tourism direct GDP growth rate",
                 ""
               ]
             }
