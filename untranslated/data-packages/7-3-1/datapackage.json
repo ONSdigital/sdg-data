@@ -42,26 +42,20 @@
                 "Information and communication",
                 "Manufacturing",
                 "Mining and quarrying",
+                "Other service activities",
                 "Professional, scientific and technical activities",
                 "Public administration and defence; compulsory social security",
                 "Real estate activities",
                 "Transport and storage",
                 "Water supply; sewerage, waste management and remediation activities",
                 "Wholesale and retail trade; repair of motor vehicles and motorcycles",
-                "Other service activities",
                 ""
               ]
             }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Terajoules per million pounds (TJ/£ million)",
-                ""
-              ]
-            }
+            "name": "Unit measure",
+            "type": "string"
           },
           {
             "name": "Unit multiplier",

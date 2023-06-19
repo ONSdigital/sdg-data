@@ -44,28 +44,22 @@
                 "Information and communication",
                 "Manufacturing",
                 "Mining and quarrying",
+                "Other service activities",
                 "Professional, scientific and technical activities",
                 "Public administration and defence; compulsory social security",
                 "Real estate activities",
                 "Transport and storage",
                 "Water supply; sewerage, waste management and remediation activities",
                 "Wholesale and retail trade; repair of motor vehicles and motorcycles",
-                "Other service activities",
                 ""
               ]
             },
             "title": "Industry sector"
           },
           {
-            "name": "Units",
+            "name": "Unit measure",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Terajoules per million pounds (TJ/£ million)",
-                ""
-              ]
-            },
-            "title": "Units"
+            "title": "Unit measure"
           },
           {
             "name": "Unit multiplier",
