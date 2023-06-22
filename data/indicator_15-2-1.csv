@@ -184,6 +184,31 @@ Year,Units,Series,Country,Unit measure,Unit multiplier,Observation status,GeoCod
 2020,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Normal value,,0.5909855836780689
 2021,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Normal value,,0.7088179982084155
 2022,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Normal value,,0.34543666402090684
+1990,Tonnes per hectare,2) Above-ground biomass stock,,Tonnes per hectare,Units,Undefined,,74.0
+2000,Tonnes per hectare,2) Above-ground biomass stock,,Tonnes per hectare,Units,Undefined,,89.0
+2010,Tonnes per hectare,2) Above-ground biomass stock,,Tonnes per hectare,Units,Undefined,,104.0
+2015,Tonnes per hectare,2) Above-ground biomass stock,,Tonnes per hectare,Units,Undefined,,109.0
+2016,Tonnes per hectare,2) Above-ground biomass stock,,Tonnes per hectare,Units,Undefined,,110.0
+2017,Tonnes per hectare,2) Above-ground biomass stock,,Tonnes per hectare,Units,Undefined,,112.0
+2018,Tonnes per hectare,2) Above-ground biomass stock,,Tonnes per hectare,Units,Undefined,,113.0
+2019,Tonnes per hectare,2) Above-ground biomass stock,,Tonnes per hectare,Units,Undefined,,114.0
+2020,Tonnes per hectare,2) Above-ground biomass stock,,Tonnes per hectare,Units,Undefined,,115.0
+2000,Percentage (%),3) Percentage of woodland within protected areas,,Percentage (%),Units,Undefined,,9.19
+2010,Percentage (%),3) Percentage of woodland within protected areas,,Percentage (%),Units,Undefined,,9.19
+2015,Percentage (%),3) Percentage of woodland within protected areas,,Percentage (%),Units,Undefined,,9.19
+2016,Percentage (%),3) Percentage of woodland within protected areas,,Percentage (%),Units,Undefined,,9.19
+2017,Percentage (%),3) Percentage of woodland within protected areas,,Percentage (%),Units,Undefined,,9.19
+2018,Percentage (%),3) Percentage of woodland within protected areas,,Percentage (%),Units,Undefined,,9.19
+2019,Percentage (%),3) Percentage of woodland within protected areas,,Percentage (%),Units,Undefined,,9.19
+2020,Percentage (%),3) Percentage of woodland within protected areas,,Percentage (%),Units,Undefined,,9.19
+2000,Percentage (%),4) Percentage of woodland under long-term management plan,,Percentage (%),Units,Undefined,,33.76
+2010,Percentage (%),4) Percentage of woodland under long-term management plan,,Percentage (%),Units,Undefined,,52.87
+2015,Percentage (%),4) Percentage of woodland under long-term management plan,,Percentage (%),Units,Undefined,,57.34
+2016,Percentage (%),4) Percentage of woodland under long-term management plan,,Percentage (%),Units,Undefined,,57.27
+2017,Percentage (%),4) Percentage of woodland under long-term management plan,,Percentage (%),Units,Undefined,,59.3
+2018,Percentage (%),4) Percentage of woodland under long-term management plan,,Percentage (%),Units,Undefined,,59.94
+2019,Percentage (%),4) Percentage of woodland under long-term management plan,,Percentage (%),Units,Undefined,,60.51
+2020,Percentage (%),4) Percentage of woodland under long-term management plan,,Percentage (%),Units,Undefined,,61.05
 2004,Area (000s hectares),5) Woodland area under certification scheme,England,Hectares,Thousands,Normal value,E92000001,298.26259688909556
 2005,Area (000s hectares),5) Woodland area under certification scheme,England,Hectares,Thousands,Normal value,E92000001,343.7002328558997
 2006,Area (000s hectares),5) Woodland area under certification scheme,England,Hectares,Thousands,Normal value,E92000001,353.57748598752477
@@ -374,28 +399,3 @@ Year,Units,Series,Country,Unit measure,Unit multiplier,Observation status,GeoCod
 2020,Percentage (%),5) Woodland area under certification scheme,,Percentage (%),Units,Normal value,,43.559883507998386
 2021,Percentage (%),5) Woodland area under certification scheme,,Percentage (%),Units,Normal value,,43.733176413463504
 2022,Percentage (%),5) Woodland area under certification scheme,,Percentage (%),Units,Normal value,,43.841965052702044
-1990,Tonnes per hectare,2) Above-ground biomass stock,,Tonnes per hectare,Units,Undefined,,74.0
-2000,Tonnes per hectare,2) Above-ground biomass stock,,Tonnes per hectare,Units,Undefined,,89.0
-2010,Tonnes per hectare,2) Above-ground biomass stock,,Tonnes per hectare,Units,Undefined,,104.0
-2015,Tonnes per hectare,2) Above-ground biomass stock,,Tonnes per hectare,Units,Undefined,,109.0
-2016,Tonnes per hectare,2) Above-ground biomass stock,,Tonnes per hectare,Units,Undefined,,110.0
-2017,Tonnes per hectare,2) Above-ground biomass stock,,Tonnes per hectare,Units,Undefined,,112.0
-2018,Tonnes per hectare,2) Above-ground biomass stock,,Tonnes per hectare,Units,Undefined,,113.0
-2019,Tonnes per hectare,2) Above-ground biomass stock,,Tonnes per hectare,Units,Undefined,,114.0
-2020,Tonnes per hectare,2) Above-ground biomass stock,,Tonnes per hectare,Units,Undefined,,115.0
-2000,Percentage (%),3) Percentage of woodland within protected areas,,Percentage (%),Units,Undefined,,9.19
-2010,Percentage (%),3) Percentage of woodland within protected areas,,Percentage (%),Units,Undefined,,9.19
-2015,Percentage (%),3) Percentage of woodland within protected areas,,Percentage (%),Units,Undefined,,9.19
-2016,Percentage (%),3) Percentage of woodland within protected areas,,Percentage (%),Units,Undefined,,9.19
-2017,Percentage (%),3) Percentage of woodland within protected areas,,Percentage (%),Units,Undefined,,9.19
-2018,Percentage (%),3) Percentage of woodland within protected areas,,Percentage (%),Units,Undefined,,9.19
-2019,Percentage (%),3) Percentage of woodland within protected areas,,Percentage (%),Units,Undefined,,9.19
-2020,Percentage (%),3) Percentage of woodland within protected areas,,Percentage (%),Units,Undefined,,9.19
-2000,Percentage (%),4) Percentage of woodland under long-term management plan,,Percentage (%),Units,Undefined,,33.76
-2010,Percentage (%),4) Percentage of woodland under long-term management plan,,Percentage (%),Units,Undefined,,52.87
-2015,Percentage (%),4) Percentage of woodland under long-term management plan,,Percentage (%),Units,Undefined,,57.34
-2016,Percentage (%),4) Percentage of woodland under long-term management plan,,Percentage (%),Units,Undefined,,57.27
-2017,Percentage (%),4) Percentage of woodland under long-term management plan,,Percentage (%),Units,Undefined,,59.3
-2018,Percentage (%),4) Percentage of woodland under long-term management plan,,Percentage (%),Units,Undefined,,59.94
-2019,Percentage (%),4) Percentage of woodland under long-term management plan,,Percentage (%),Units,Undefined,,60.51
-2020,Percentage (%),4) Percentage of woodland under long-term management plan,,Percentage (%),Units,Undefined,,61.05
