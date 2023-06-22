@@ -15,26 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "GBP (£ Millions)",
-                "USD ($ Millions)",
-                "Percentage (%)",
-                "Percent of GDP (%)",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "Total official development assistance for biodiversity, by recipient countries",
                 "Tax revenue from biodiversity-relevant taxes",
-                "Tax revenue from biodiversity-relevant taxes out of total tax revenue",
                 ""
               ]
             }
@@ -46,15 +32,15 @@
               "enum": [
                 "LDCs",
                 "LMICs",
-                "UMICs",
                 "Other LICs",
+                "UMICs",
                 "Unspecified",
                 ""
               ]
             }
           },
           {
-            "name": "Unit measure",
+            "name": "Observation status",
             "type": "string"
           },
           {
@@ -62,8 +48,15 @@
             "type": "string"
           },
           {
-            "name": "Observation status",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GBP (£ Millions)",
+                "USD ($ Millions)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
