@@ -36,15 +36,15 @@ Year,Units,Series,Country,Unit measure,Unit multiplier,Observation status,GeoCod
 2020,Growth rate (%),1) Woodland area net change,England,Percentage (%),Units,Normal value,E92000001,0.17870804645935184
 2021,Growth rate (%),1) Woodland area net change,England,Percentage (%),Units,Normal value,E92000001,0.6615170678900557
 2022,Growth rate (%),1) Woodland area net change,England,Percentage (%),Units,Normal value,E92000001,0.0
-2004,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Normal value,N92000002,85.8
-2005,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Normal value,N92000002,85.06
-2006,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Normal value,N92000002,85.64
-2007,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Normal value,N92000002,86.84
-2008,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Normal value,N92000002,87.355
-2009,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Normal value,N92000002,87.677
-2010,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Normal value,N92000002,87.812
-2011,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Normal value,N92000002,87.957
-2012,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Normal value,N92000002,105.218
+2004,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Missing value,N92000002,
+2005,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Missing value,N92000002,
+2006,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Missing value,N92000002,
+2007,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Missing value,N92000002,
+2008,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Missing value,N92000002,
+2009,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Missing value,N92000002,
+2010,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Missing value,N92000002,
+2011,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Missing value,N92000002,
+2012,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Missing value,N92000002,
 2013,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Normal value,N92000002,111.016
 2014,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Normal value,N92000002,111.463
 2015,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Normal value,N92000002,111.912
@@ -55,15 +55,15 @@ Year,Units,Series,Country,Unit measure,Unit multiplier,Observation status,GeoCod
 2020,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Normal value,N92000002,118.381
 2021,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Normal value,N92000002,118.506
 2022,Area (000s hectares),1) Woodland area net change,Northern Ireland,Hectares,Thousands,Normal value,N92000002,120.0
-2005,Growth rate (%),1) Woodland area net change,Northern Ireland,Percentage (%),Units,Normal value,N92000002,-0.8624708624708625
-2006,Growth rate (%),1) Woodland area net change,Northern Ireland,Percentage (%),Units,Normal value,N92000002,0.6818716200329179
-2007,Growth rate (%),1) Woodland area net change,Northern Ireland,Percentage (%),Units,Normal value,N92000002,1.4012143858010275
-2008,Growth rate (%),1) Woodland area net change,Northern Ireland,Percentage (%),Units,Normal value,N92000002,0.5930446798710272
-2009,Growth rate (%),1) Woodland area net change,Northern Ireland,Percentage (%),Units,Normal value,N92000002,0.3686108408219335
-2010,Growth rate (%),1) Woodland area net change,Northern Ireland,Percentage (%),Units,Normal value,N92000002,0.15397424638160523
-2011,Growth rate (%),1) Woodland area net change,Northern Ireland,Percentage (%),Units,Normal value,N92000002,0.16512549537648613
-2012,Growth rate (%),1) Woodland area net change,Northern Ireland,Percentage (%),Units,Normal value,N92000002,19.624361904112238
-2013,Growth rate (%),1) Woodland area net change,Northern Ireland,Percentage (%),Units,Normal value,N92000002,5.510463989051303
+2005,Growth rate (%),1) Woodland area net change,Northern Ireland,Percentage (%),Units,Missing value,N92000002,
+2006,Growth rate (%),1) Woodland area net change,Northern Ireland,Percentage (%),Units,Missing value,N92000002,
+2007,Growth rate (%),1) Woodland area net change,Northern Ireland,Percentage (%),Units,Missing value,N92000002,
+2008,Growth rate (%),1) Woodland area net change,Northern Ireland,Percentage (%),Units,Missing value,N92000002,
+2009,Growth rate (%),1) Woodland area net change,Northern Ireland,Percentage (%),Units,Missing value,N92000002,
+2010,Growth rate (%),1) Woodland area net change,Northern Ireland,Percentage (%),Units,Missing value,N92000002,
+2011,Growth rate (%),1) Woodland area net change,Northern Ireland,Percentage (%),Units,Missing value,N92000002,
+2012,Growth rate (%),1) Woodland area net change,Northern Ireland,Percentage (%),Units,Missing value,N92000002,
+2013,Growth rate (%),1) Woodland area net change,Northern Ireland,Percentage (%),Units,Normal value,N92000002,
 2014,Growth rate (%),1) Woodland area net change,Northern Ireland,Percentage (%),Units,Normal value,N92000002,0.4026446638322404
 2015,Growth rate (%),1) Woodland area net change,Northern Ireland,Percentage (%),Units,Normal value,N92000002,0.40282425558257
 2016,Growth rate (%),1) Woodland area net change,Northern Ireland,Percentage (%),Units,Normal value,N92000002,0.156372864393452
@@ -147,15 +147,15 @@ Year,Units,Series,Country,Unit measure,Unit multiplier,Observation status,GeoCod
 2020,Growth rate (%),1) Woodland area net change,Wales,Percentage (%),Units,Normal value,W92000004,0.02458052958588611
 2021,Growth rate (%),1) Woodland area net change,Wales,Percentage (%),Units,Normal value,W92000004,0.238047425688606
 2022,Growth rate (%),1) Woodland area net change,Wales,Percentage (%),Units,Normal value,W92000004,0.0
-2004,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Normal value,,3011.0397972188302
-2005,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Normal value,,3021.3437275340584
-2006,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Normal value,,3029.6985954299957
-2007,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Normal value,,3040.7993969660865
-2008,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Normal value,,3047.9721828345246
-2009,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Normal value,,3054.1452943501417
-2010,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Normal value,,3059.2382800000005
-2011,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Normal value,,3067.314
-2012,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Normal value,,3110.4926800000003
+2004,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Missing value,,
+2005,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Missing value,,
+2006,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Missing value,,
+2007,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Missing value,,
+2008,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Missing value,,
+2009,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Missing value,,
+2010,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Missing value,,
+2011,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Missing value,,
+2012,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Missing value,,
 2013,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Normal value,,3126.3099477740006
 2014,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Normal value,,3143.4626561735013
 2015,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Normal value,,3154.58393003618
@@ -166,15 +166,15 @@ Year,Units,Series,Country,Unit measure,Unit multiplier,Observation status,GeoCod
 2020,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Normal value,,3206.1208193639295
 2021,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Normal value,,3228.846380775888
 2022,Area (000s hectares),1) Woodland area net change,,Hectares,Thousands,Normal value,,3240.0
-2005,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Normal value,,0.3422050523790978
-2006,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Normal value,,0.27652821556837837
-2007,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Normal value,,0.3663995340274314
-2008,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Normal value,,0.2358848753914679
-2009,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Normal value,,0.20253175374704982
-2010,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Normal value,,0.16675649515693006
-2011,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Normal value,,0.2639781298761644
-2012,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Normal value,,1.4077032869800798
-2013,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Normal value,,0.5085132614425667
+2005,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Missing value,,
+2006,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Missing value,,
+2007,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Missing value,,
+2008,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Missing value,,
+2009,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Missing value,,
+2010,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Missing value,,
+2011,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Missing value,,
+2012,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Missing value,,
+2013,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Normal value,,
 2014,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Normal value,,0.5486566810726426
 2015,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Normal value,,0.353790551347486
 2016,Growth rate (%),1) Woodland area net change,,Percentage (%),Units,Normal value,,0.13937033760941533
