@@ -27,18 +27,6 @@
             "title": "Series"
           },
           {
-            "name": "Urban or Rural",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Urban or Rural"
-          },
-          {
             "name": "Observation status",
             "type": "string",
             "title": "Observation status"
