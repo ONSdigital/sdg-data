@@ -1,4 +1,4 @@
-Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,GeoCode,Value
+Year,Series,Region,Local authority,Deprivation decile,Observation status,Units,GeoCode,Value
 2010,Fraction of mortality attributable to particulate air pollution (old method),,,Decile 1 (least deprived),Normal value,Percentage (%),E92000001,
 2010,Fraction of mortality attributable to particulate air pollution (old method),,,Decile 2,Normal value,Percentage (%),E92000001,
 2010,Fraction of mortality attributable to particulate air pollution (old method),,,Decile 3,Normal value,Percentage (%),E92000001,
@@ -26,7 +26,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2010,Fraction of mortality attributable to particulate air pollution (old method),,Brighton and Hove,,Normal value,Percentage (%),E06000043,5.4
 2010,Fraction of mortality attributable to particulate air pollution (old method),,Bristol,,Normal value,Percentage (%),E06000023,5.8
 2010,Fraction of mortality attributable to particulate air pollution (old method),,Bromley,,Normal value,Percentage (%),E09000006,6.3
-2010,Fraction of mortality attributable to particulate air pollution (old method),,Buckinghamshire UA,,Value for Bucks County applied to Bucks UA,Percentage (%),,5.6
+2010,Fraction of mortality attributable to particulate air pollution (old method),,Buckinghamshire UA,,Value for Bucks County applied to Bucks UA,Percentage (%),E06000060,5.6
 2010,Fraction of mortality attributable to particulate air pollution (old method),,Bury,,Normal value,Percentage (%),E08000002,5.5
 2010,Fraction of mortality attributable to particulate air pollution (old method),,Calderdale,,Normal value,Percentage (%),E08000033,5.0
 2010,Fraction of mortality attributable to particulate air pollution (old method),,Camden,,Normal value,Percentage (%),E09000007,7.7
@@ -143,7 +143,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2010,Fraction of mortality attributable to particulate air pollution (old method),South East,,,Normal value,Percentage (%),E12000008,5.5
 2010,Fraction of mortality attributable to particulate air pollution (old method),South West,,,Normal value,Percentage (%),E12000009,4.7
 2010,Fraction of mortality attributable to particulate air pollution (old method),West Midlands,,,Normal value,Percentage (%),E12000005,5.7
-2010,Fraction of mortality attributable to particulate air pollution (old method),Yorkshire and the Humber,,,Normal value,Percentage (%),,5.3
+2010,Fraction of mortality attributable to particulate air pollution (old method),Yorkshire and The Humber,,,Normal value,Percentage (%),E12000003,5.3
 2010,Fraction of mortality attributable to particulate air pollution (old method),,,,Normal value,Percentage (%),E92000001,5.6
 2011,Fraction of mortality attributable to particulate air pollution (old method),,,Decile 1 (least deprived),Normal value,Percentage (%),E92000001,
 2011,Fraction of mortality attributable to particulate air pollution (old method),,,Decile 2,Normal value,Percentage (%),E92000001,
@@ -194,7 +194,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2011,Fraction of mortality attributable to particulate air pollution (old method),,Bromsgrove,,Normal value,Percentage (%),E07000234,5.1
 2011,Fraction of mortality attributable to particulate air pollution (old method),,Broxbourne,,Normal value,Percentage (%),E07000095,6.2
 2011,Fraction of mortality attributable to particulate air pollution (old method),,Broxtowe,,Normal value,Percentage (%),E07000172,5.6
-2011,Fraction of mortality attributable to particulate air pollution (old method),,Buckinghamshire UA,,Value for Bucks County applied to Bucks UA,Percentage (%),,5.8
+2011,Fraction of mortality attributable to particulate air pollution (old method),,Buckinghamshire UA,,Value for Bucks County applied to Bucks UA,Percentage (%),E06000060,5.8
 2011,Fraction of mortality attributable to particulate air pollution (old method),,Burnley,,Normal value,Percentage (%),E07000117,4.5
 2011,Fraction of mortality attributable to particulate air pollution (old method),,Bury,,Normal value,Percentage (%),E08000002,5.2
 2011,Fraction of mortality attributable to particulate air pollution (old method),,Calderdale,,Normal value,Percentage (%),E08000033,4.7
@@ -257,7 +257,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2011,Fraction of mortality attributable to particulate air pollution (old method),,Exeter,,Normal value,Percentage (%),E07000041,4.2
 2011,Fraction of mortality attributable to particulate air pollution (old method),,Fareham,,Normal value,Percentage (%),E07000087,5.6
 2011,Fraction of mortality attributable to particulate air pollution (old method),,Fenland,,Normal value,Percentage (%),E07000010,5.2
-2011,Fraction of mortality attributable to particulate air pollution (old method),,Folkestone & Hythe,,Normal value,Percentage (%),,4.9
+2011,Fraction of mortality attributable to particulate air pollution (old method),,Folkestone & Hythe,,Normal value,Percentage (%),E07000112,4.9
 2011,Fraction of mortality attributable to particulate air pollution (old method),,Forest Heath,,Normal value,Percentage (%),E07000201,5.1
 2011,Fraction of mortality attributable to particulate air pollution (old method),,Forest of Dean,,Normal value,Percentage (%),E07000080,4.2
 2011,Fraction of mortality attributable to particulate air pollution (old method),,Fylde,,Normal value,Percentage (%),E07000119,3.6
@@ -409,7 +409,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2011,Fraction of mortality attributable to particulate air pollution (old method),,Southend-on-Sea,,Normal value,Percentage (%),E06000033,5.7
 2011,Fraction of mortality attributable to particulate air pollution (old method),,Southwark,,Normal value,Percentage (%),E09000028,7.7
 2011,Fraction of mortality attributable to particulate air pollution (old method),,Spelthorne,,Normal value,Percentage (%),E07000213,6.4
-2011,Fraction of mortality attributable to particulate air pollution (old method),,St Albans,,Normal value,Percentage (%),,6.1
+2011,Fraction of mortality attributable to particulate air pollution (old method),,St Albans,,Normal value,Percentage (%),E07000240,6.1
 2011,Fraction of mortality attributable to particulate air pollution (old method),,St. Edmundsbury,,Normal value,Percentage (%),E07000204,5.3
 2011,Fraction of mortality attributable to particulate air pollution (old method),,St. Helens,,Normal value,Percentage (%),E08000013,4.9
 2011,Fraction of mortality attributable to particulate air pollution (old method),,Stafford,,Normal value,Percentage (%),E07000197,4.7
@@ -490,7 +490,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2011,Fraction of mortality attributable to particulate air pollution (old method),South East,,,Normal value,Percentage (%),E12000008,5.5
 2011,Fraction of mortality attributable to particulate air pollution (old method),South West,,,Normal value,Percentage (%),E12000009,4.4
 2011,Fraction of mortality attributable to particulate air pollution (old method),West Midlands,,,Normal value,Percentage (%),E12000005,5.3
-2011,Fraction of mortality attributable to particulate air pollution (old method),Yorkshire and the Humber,,,Normal value,Percentage (%),,5.0
+2011,Fraction of mortality attributable to particulate air pollution (old method),Yorkshire and The Humber,,,Normal value,Percentage (%),E12000003,5.0
 2011,Fraction of mortality attributable to particulate air pollution (old method),,,,Normal value,Percentage (%),E92000001,5.4
 2012,Fraction of mortality attributable to particulate air pollution (old method),,Adur,,Normal value,Percentage (%),E07000223,4.75
 2012,Fraction of mortality attributable to particulate air pollution (old method),,Allerdale,,Normal value,Percentage (%),E07000026,2.65
@@ -531,7 +531,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2012,Fraction of mortality attributable to particulate air pollution (old method),,Bromsgrove,,Normal value,Percentage (%),E07000234,5.01
 2012,Fraction of mortality attributable to particulate air pollution (old method),,Broxbourne,,Normal value,Percentage (%),E07000095,5.62
 2012,Fraction of mortality attributable to particulate air pollution (old method),,Broxtowe,,Normal value,Percentage (%),E07000172,5.45
-2012,Fraction of mortality attributable to particulate air pollution (old method),,Buckinghamshire UA,,Value for Bucks County applied to Bucks UA,Percentage (%),,5.2
+2012,Fraction of mortality attributable to particulate air pollution (old method),,Buckinghamshire UA,,Value for Bucks County applied to Bucks UA,Percentage (%),E06000060,5.2
 2012,Fraction of mortality attributable to particulate air pollution (old method),,Burnley,,Normal value,Percentage (%),E07000117,4.18
 2012,Fraction of mortality attributable to particulate air pollution (old method),,Bury,,Normal value,Percentage (%),E08000002,4.8
 2012,Fraction of mortality attributable to particulate air pollution (old method),,Calderdale,,Normal value,Percentage (%),E08000033,4.4
@@ -594,7 +594,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2012,Fraction of mortality attributable to particulate air pollution (old method),,Exeter,,Normal value,Percentage (%),E07000041,3.95
 2012,Fraction of mortality attributable to particulate air pollution (old method),,Fareham,,Normal value,Percentage (%),E07000087,5.09
 2012,Fraction of mortality attributable to particulate air pollution (old method),,Fenland,,Normal value,Percentage (%),E07000010,5.15
-2012,Fraction of mortality attributable to particulate air pollution (old method),,Folkestone & Hythe,,Normal value,Percentage (%),,4.63
+2012,Fraction of mortality attributable to particulate air pollution (old method),,Folkestone & Hythe,,Normal value,Percentage (%),E07000112,4.63
 2012,Fraction of mortality attributable to particulate air pollution (old method),,Forest Heath,,Normal value,Percentage (%),E07000201,5.0
 2012,Fraction of mortality attributable to particulate air pollution (old method),,Forest of Dean,,Normal value,Percentage (%),E07000080,4.09
 2012,Fraction of mortality attributable to particulate air pollution (old method),,Fylde,,Normal value,Percentage (%),E07000119,3.49
@@ -746,7 +746,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2012,Fraction of mortality attributable to particulate air pollution (old method),,Southend-on-Sea,,Normal value,Percentage (%),E06000033,5.3
 2012,Fraction of mortality attributable to particulate air pollution (old method),,Southwark,,Normal value,Percentage (%),E09000028,7.1
 2012,Fraction of mortality attributable to particulate air pollution (old method),,Spelthorne,,Normal value,Percentage (%),E07000213,5.7
-2012,Fraction of mortality attributable to particulate air pollution (old method),,St Albans,,Normal value,Percentage (%),,5.54
+2012,Fraction of mortality attributable to particulate air pollution (old method),,St Albans,,Normal value,Percentage (%),E07000240,5.54
 2012,Fraction of mortality attributable to particulate air pollution (old method),,St. Edmundsbury,,Normal value,Percentage (%),E07000204,5.2
 2012,Fraction of mortality attributable to particulate air pollution (old method),,St. Helens,,Normal value,Percentage (%),E08000013,4.8
 2012,Fraction of mortality attributable to particulate air pollution (old method),,Stafford,,Normal value,Percentage (%),E07000197,4.61
@@ -827,7 +827,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2012,Fraction of mortality attributable to particulate air pollution (old method),South East,,,Normal value,Percentage (%),E12000008,5.1
 2012,Fraction of mortality attributable to particulate air pollution (old method),South West,,,Normal value,Percentage (%),E12000009,4.2
 2012,Fraction of mortality attributable to particulate air pollution (old method),West Midlands,,,Normal value,Percentage (%),E12000005,5.1
-2012,Fraction of mortality attributable to particulate air pollution (old method),Yorkshire and the Humber,,,Normal value,Percentage (%),,4.9
+2012,Fraction of mortality attributable to particulate air pollution (old method),Yorkshire and The Humber,,,Normal value,Percentage (%),E12000003,4.9
 2012,Fraction of mortality attributable to particulate air pollution (old method),,,,Normal value,Percentage (%),E92000001,5.1
 2013,Fraction of mortality attributable to particulate air pollution (old method),,Adur,,Normal value,Percentage (%),E07000223,4.8
 2013,Fraction of mortality attributable to particulate air pollution (old method),,Allerdale,,Normal value,Percentage (%),E07000026,3.28
@@ -868,7 +868,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2013,Fraction of mortality attributable to particulate air pollution (old method),,Bromsgrove,,Normal value,Percentage (%),E07000234,5.23
 2013,Fraction of mortality attributable to particulate air pollution (old method),,Broxbourne,,Normal value,Percentage (%),E07000095,5.69
 2013,Fraction of mortality attributable to particulate air pollution (old method),,Broxtowe,,Normal value,Percentage (%),E07000172,5.74
-2013,Fraction of mortality attributable to particulate air pollution (old method),,Buckinghamshire UA,,Value for Bucks County applied to Bucks UA,Percentage (%),,5.28
+2013,Fraction of mortality attributable to particulate air pollution (old method),,Buckinghamshire UA,,Value for Bucks County applied to Bucks UA,Percentage (%),E06000060,5.28
 2013,Fraction of mortality attributable to particulate air pollution (old method),,Burnley,,Normal value,Percentage (%),E07000117,4.4
 2013,Fraction of mortality attributable to particulate air pollution (old method),,Bury,,Normal value,Percentage (%),E08000002,4.86
 2013,Fraction of mortality attributable to particulate air pollution (old method),,Calderdale,,Normal value,Percentage (%),E08000033,4.51
@@ -931,7 +931,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2013,Fraction of mortality attributable to particulate air pollution (old method),,Exeter,,Normal value,Percentage (%),E07000041,4.17
 2013,Fraction of mortality attributable to particulate air pollution (old method),,Fareham,,Normal value,Percentage (%),E07000087,5.21
 2013,Fraction of mortality attributable to particulate air pollution (old method),,Fenland,,Normal value,Percentage (%),E07000010,5.71
-2013,Fraction of mortality attributable to particulate air pollution (old method),,Folkestone & Hythe,,Normal value,Percentage (%),,5.07
+2013,Fraction of mortality attributable to particulate air pollution (old method),,Folkestone & Hythe,,Normal value,Percentage (%),E07000112,5.07
 2013,Fraction of mortality attributable to particulate air pollution (old method),,Forest Heath,,Normal value,Percentage (%),E07000201,5.34
 2013,Fraction of mortality attributable to particulate air pollution (old method),,Forest of Dean,,Normal value,Percentage (%),E07000080,4.83
 2013,Fraction of mortality attributable to particulate air pollution (old method),,Fylde,,Normal value,Percentage (%),E07000119,3.82
@@ -1083,7 +1083,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2013,Fraction of mortality attributable to particulate air pollution (old method),,Southend-on-Sea,,Normal value,Percentage (%),E06000033,5.59
 2013,Fraction of mortality attributable to particulate air pollution (old method),,Southwark,,Normal value,Percentage (%),E09000028,7.23
 2013,Fraction of mortality attributable to particulate air pollution (old method),,Spelthorne,,Normal value,Percentage (%),E07000213,5.82
-2013,Fraction of mortality attributable to particulate air pollution (old method),,St Albans,,Normal value,Percentage (%),,5.59
+2013,Fraction of mortality attributable to particulate air pollution (old method),,St Albans,,Normal value,Percentage (%),E07000240,5.59
 2013,Fraction of mortality attributable to particulate air pollution (old method),,St. Edmundsbury,,Normal value,Percentage (%),E07000204,5.53
 2013,Fraction of mortality attributable to particulate air pollution (old method),,St. Helens,,Normal value,Percentage (%),E08000013,4.93
 2013,Fraction of mortality attributable to particulate air pollution (old method),,Stafford,,Normal value,Percentage (%),E07000197,4.94
@@ -1164,7 +1164,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2013,Fraction of mortality attributable to particulate air pollution (old method),South East,,,Normal value,Percentage (%),E12000008,5.23
 2013,Fraction of mortality attributable to particulate air pollution (old method),South West,,,Normal value,Percentage (%),E12000009,4.53
 2013,Fraction of mortality attributable to particulate air pollution (old method),West Midlands,,,Normal value,Percentage (%),E12000005,5.35
-2013,Fraction of mortality attributable to particulate air pollution (old method),Yorkshire and the Humber,,,Normal value,Percentage (%),,5.09
+2013,Fraction of mortality attributable to particulate air pollution (old method),Yorkshire and The Humber,,,Normal value,Percentage (%),E12000003,5.09
 2013,Fraction of mortality attributable to particulate air pollution (old method),,,,Normal value,Percentage (%),E92000001,5.33
 2014,Fraction of mortality attributable to particulate air pollution (old method),,Adur,,Normal value,Percentage (%),E07000223,4.38
 2014,Fraction of mortality attributable to particulate air pollution (old method),,Allerdale,,Normal value,Percentage (%),E07000026,3.16
@@ -1205,7 +1205,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2014,Fraction of mortality attributable to particulate air pollution (old method),,Bromsgrove,,Normal value,Percentage (%),E07000234,5.09
 2014,Fraction of mortality attributable to particulate air pollution (old method),,Broxbourne,,Normal value,Percentage (%),E07000095,5.45
 2014,Fraction of mortality attributable to particulate air pollution (old method),,Broxtowe,,Normal value,Percentage (%),E07000172,5.63
-2014,Fraction of mortality attributable to particulate air pollution (old method),,Buckinghamshire UA,,Value for Bucks County applied to Bucks UA,Percentage (%),,4.99
+2014,Fraction of mortality attributable to particulate air pollution (old method),,Buckinghamshire UA,,Value for Bucks County applied to Bucks UA,Percentage (%),E06000060,4.99
 2014,Fraction of mortality attributable to particulate air pollution (old method),,Burnley,,Normal value,Percentage (%),E07000117,4.23
 2014,Fraction of mortality attributable to particulate air pollution (old method),,Bury,,Normal value,Percentage (%),E08000002,4.75
 2014,Fraction of mortality attributable to particulate air pollution (old method),,Calderdale,,Normal value,Percentage (%),E08000033,4.37
@@ -1268,7 +1268,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2014,Fraction of mortality attributable to particulate air pollution (old method),,Exeter,,Normal value,Percentage (%),E07000041,3.91
 2014,Fraction of mortality attributable to particulate air pollution (old method),,Fareham,,Normal value,Percentage (%),E07000087,4.87
 2014,Fraction of mortality attributable to particulate air pollution (old method),,Fenland,,Normal value,Percentage (%),E07000010,5.55
-2014,Fraction of mortality attributable to particulate air pollution (old method),,Folkestone & Hythe,,Normal value,Percentage (%),,4.84
+2014,Fraction of mortality attributable to particulate air pollution (old method),,Folkestone & Hythe,,Normal value,Percentage (%),E07000112,4.84
 2014,Fraction of mortality attributable to particulate air pollution (old method),,Forest Heath,,Normal value,Percentage (%),E07000201,5.24
 2014,Fraction of mortality attributable to particulate air pollution (old method),,Forest of Dean,,Normal value,Percentage (%),E07000080,4.68
 2014,Fraction of mortality attributable to particulate air pollution (old method),,Fylde,,Normal value,Percentage (%),E07000119,3.72
@@ -1420,7 +1420,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2014,Fraction of mortality attributable to particulate air pollution (old method),,Southend-on-Sea,,Normal value,Percentage (%),E06000033,5.39
 2014,Fraction of mortality attributable to particulate air pollution (old method),,Southwark,,Normal value,Percentage (%),E09000028,6.98
 2014,Fraction of mortality attributable to particulate air pollution (old method),,Spelthorne,,Normal value,Percentage (%),E07000213,5.5
-2014,Fraction of mortality attributable to particulate air pollution (old method),,St Albans,,Normal value,Percentage (%),,5.3
+2014,Fraction of mortality attributable to particulate air pollution (old method),,St Albans,,Normal value,Percentage (%),E07000240,5.3
 2014,Fraction of mortality attributable to particulate air pollution (old method),,St. Edmundsbury,,Normal value,Percentage (%),E07000204,5.37
 2014,Fraction of mortality attributable to particulate air pollution (old method),,St. Helens,,Normal value,Percentage (%),E08000013,4.67
 2014,Fraction of mortality attributable to particulate air pollution (old method),,Stafford,,Normal value,Percentage (%),E07000197,4.79
@@ -1501,7 +1501,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2014,Fraction of mortality attributable to particulate air pollution (old method),South East,,,Normal value,Percentage (%),E12000008,4.92
 2014,Fraction of mortality attributable to particulate air pollution (old method),South West,,,Normal value,Percentage (%),E12000009,4.28
 2014,Fraction of mortality attributable to particulate air pollution (old method),West Midlands,,,Normal value,Percentage (%),E12000005,5.23
-2014,Fraction of mortality attributable to particulate air pollution (old method),Yorkshire and the Humber,,,Normal value,Percentage (%),,4.94
+2014,Fraction of mortality attributable to particulate air pollution (old method),Yorkshire and The Humber,,,Normal value,Percentage (%),E12000003,4.94
 2014,Fraction of mortality attributable to particulate air pollution (old method),,,,Normal value,Percentage (%),E92000001,5.14
 2015,Fraction of mortality attributable to particulate air pollution (old method),,Adur,,Normal value,Percentage (%),E07000223,4.59
 2015,Fraction of mortality attributable to particulate air pollution (old method),,Allerdale,,Normal value,Percentage (%),E07000026,2.98
@@ -1542,7 +1542,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2015,Fraction of mortality attributable to particulate air pollution (old method),,Bromsgrove,,Normal value,Percentage (%),E07000234,4.77
 2015,Fraction of mortality attributable to particulate air pollution (old method),,Broxbourne,,Normal value,Percentage (%),E07000095,4.84
 2015,Fraction of mortality attributable to particulate air pollution (old method),,Broxtowe,,Normal value,Percentage (%),E07000172,5.17
-2015,Fraction of mortality attributable to particulate air pollution (old method),,Buckinghamshire UA,,Value for Bucks County applied to Bucks UA,Percentage (%),,4.54
+2015,Fraction of mortality attributable to particulate air pollution (old method),,Buckinghamshire UA,,Value for Bucks County applied to Bucks UA,Percentage (%),E06000060,4.54
 2015,Fraction of mortality attributable to particulate air pollution (old method),,Burnley,,Normal value,Percentage (%),E07000117,5.02
 2015,Fraction of mortality attributable to particulate air pollution (old method),,Bury,,Normal value,Percentage (%),E08000002,4.0
 2015,Fraction of mortality attributable to particulate air pollution (old method),,Calderdale,,Normal value,Percentage (%),E08000033,3.7
@@ -1605,7 +1605,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2015,Fraction of mortality attributable to particulate air pollution (old method),,Exeter,,Normal value,Percentage (%),E07000041,4.07
 2015,Fraction of mortality attributable to particulate air pollution (old method),,Fareham,,Normal value,Percentage (%),E07000087,4.81
 2015,Fraction of mortality attributable to particulate air pollution (old method),,Fenland,,Normal value,Percentage (%),E07000010,5.29
-2015,Fraction of mortality attributable to particulate air pollution (old method),,Folkestone & Hythe,,Normal value,Percentage (%),,4.93
+2015,Fraction of mortality attributable to particulate air pollution (old method),,Folkestone & Hythe,,Normal value,Percentage (%),E07000112,4.93
 2015,Fraction of mortality attributable to particulate air pollution (old method),,Forest Heath,,Normal value,Percentage (%),E07000201,4.83
 2015,Fraction of mortality attributable to particulate air pollution (old method),,Forest of Dean,,Normal value,Percentage (%),E07000080,4.29
 2015,Fraction of mortality attributable to particulate air pollution (old method),,Fylde,,Normal value,Percentage (%),E07000119,3.83
@@ -1757,7 +1757,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2015,Fraction of mortality attributable to particulate air pollution (old method),,Southend-on-Sea,,Normal value,Percentage (%),E06000033,5.8
 2015,Fraction of mortality attributable to particulate air pollution (old method),,Southwark,,Normal value,Percentage (%),E09000028,6.13
 2015,Fraction of mortality attributable to particulate air pollution (old method),,Spelthorne,,Normal value,Percentage (%),E07000213,4.79
-2015,Fraction of mortality attributable to particulate air pollution (old method),,St Albans,,Normal value,Percentage (%),,5.09
+2015,Fraction of mortality attributable to particulate air pollution (old method),,St Albans,,Normal value,Percentage (%),E07000240,5.09
 2015,Fraction of mortality attributable to particulate air pollution (old method),,St. Edmundsbury,,Normal value,Percentage (%),E07000204,5.02
 2015,Fraction of mortality attributable to particulate air pollution (old method),,St. Helens,,Normal value,Percentage (%),E08000013,4.06
 2015,Fraction of mortality attributable to particulate air pollution (old method),,Stafford,,Normal value,Percentage (%),E07000197,4.65
@@ -1838,7 +1838,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2015,Fraction of mortality attributable to particulate air pollution (old method),South East,,,Normal value,Percentage (%),E12000008,4.7
 2015,Fraction of mortality attributable to particulate air pollution (old method),South West,,,Normal value,Percentage (%),E12000009,4.28
 2015,Fraction of mortality attributable to particulate air pollution (old method),West Midlands,,,Normal value,Percentage (%),E12000005,4.8
-2015,Fraction of mortality attributable to particulate air pollution (old method),Yorkshire and the Humber,,,Normal value,Percentage (%),,4.27
+2015,Fraction of mortality attributable to particulate air pollution (old method),Yorkshire and The Humber,,,Normal value,Percentage (%),E12000003,4.27
 2015,Fraction of mortality attributable to particulate air pollution (old method),,,,Normal value,Percentage (%),E92000001,4.72
 2016,Fraction of mortality attributable to particulate air pollution (old method),,Adur,,Normal value,Percentage (%),E07000223,5.97
 2016,Fraction of mortality attributable to particulate air pollution (old method),,Allerdale,,Normal value,Percentage (%),E07000026,2.81
@@ -1879,7 +1879,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2016,Fraction of mortality attributable to particulate air pollution (old method),,Bromsgrove,,Normal value,Percentage (%),E07000234,5.22
 2016,Fraction of mortality attributable to particulate air pollution (old method),,Broxbourne,,Normal value,Percentage (%),E07000095,5.65
 2016,Fraction of mortality attributable to particulate air pollution (old method),,Broxtowe,,Normal value,Percentage (%),E07000172,5.95
-2016,Fraction of mortality attributable to particulate air pollution (old method),,Buckinghamshire UA,,Value for Bucks County applied to Bucks UA,Percentage (%),,5.63
+2016,Fraction of mortality attributable to particulate air pollution (old method),,Buckinghamshire UA,,Value for Bucks County applied to Bucks UA,Percentage (%),E06000060,5.63
 2016,Fraction of mortality attributable to particulate air pollution (old method),,Burnley,,Normal value,Percentage (%),E07000117,3.65
 2016,Fraction of mortality attributable to particulate air pollution (old method),,Bury,,Normal value,Percentage (%),E08000002,4.82
 2016,Fraction of mortality attributable to particulate air pollution (old method),,Calderdale,,Normal value,Percentage (%),E08000033,4.64
@@ -1942,7 +1942,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2016,Fraction of mortality attributable to particulate air pollution (old method),,Exeter,,Normal value,Percentage (%),E07000041,4.76
 2016,Fraction of mortality attributable to particulate air pollution (old method),,Fareham,,Normal value,Percentage (%),E07000087,6.16
 2016,Fraction of mortality attributable to particulate air pollution (old method),,Fenland,,Normal value,Percentage (%),E07000010,5.46
-2016,Fraction of mortality attributable to particulate air pollution (old method),,Folkestone & Hythe,,Normal value,Percentage (%),,5.87
+2016,Fraction of mortality attributable to particulate air pollution (old method),,Folkestone & Hythe,,Normal value,Percentage (%),E07000112,5.87
 2016,Fraction of mortality attributable to particulate air pollution (old method),,Forest Heath,,Normal value,Percentage (%),E07000201,5.32
 2016,Fraction of mortality attributable to particulate air pollution (old method),,Forest of Dean,,Normal value,Percentage (%),E07000080,4.81
 2016,Fraction of mortality attributable to particulate air pollution (old method),,Fylde,,Normal value,Percentage (%),E07000119,3.65
@@ -2094,7 +2094,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2016,Fraction of mortality attributable to particulate air pollution (old method),,Southend-on-Sea,,Normal value,Percentage (%),E06000033,5.9
 2016,Fraction of mortality attributable to particulate air pollution (old method),,Southwark,,Normal value,Percentage (%),E09000028,6.64
 2016,Fraction of mortality attributable to particulate air pollution (old method),,Spelthorne,,Normal value,Percentage (%),E07000213,6.24
-2016,Fraction of mortality attributable to particulate air pollution (old method),,St Albans,,Normal value,Percentage (%),,5.46
+2016,Fraction of mortality attributable to particulate air pollution (old method),,St Albans,,Normal value,Percentage (%),E07000240,5.46
 2016,Fraction of mortality attributable to particulate air pollution (old method),,St. Edmundsbury,,Normal value,Percentage (%),E07000204,5.47
 2016,Fraction of mortality attributable to particulate air pollution (old method),,St. Helens,,Normal value,Percentage (%),E08000013,4.87
 2016,Fraction of mortality attributable to particulate air pollution (old method),,Stafford,,Normal value,Percentage (%),E07000197,4.8
@@ -2175,7 +2175,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2016,Fraction of mortality attributable to particulate air pollution (old method),South East,,,Normal value,Percentage (%),E12000008,5.92
 2016,Fraction of mortality attributable to particulate air pollution (old method),South West,,,Normal value,Percentage (%),E12000009,4.84
 2016,Fraction of mortality attributable to particulate air pollution (old method),West Midlands,,,Normal value,Percentage (%),E12000005,5.47
-2016,Fraction of mortality attributable to particulate air pollution (old method),Yorkshire and the Humber,,,Normal value,Percentage (%),,4.64
+2016,Fraction of mortality attributable to particulate air pollution (old method),Yorkshire and The Humber,,,Normal value,Percentage (%),E12000003,4.64
 2016,Fraction of mortality attributable to particulate air pollution (old method),,,,Normal value,Percentage (%),E92000001,5.36
 2017,Fraction of mortality attributable to particulate air pollution (old method),,Adur,,Normal value,Percentage (%),E07000223,5.61
 2017,Fraction of mortality attributable to particulate air pollution (old method),,Allerdale,,Normal value,Percentage (%),E07000026,2.85
@@ -2216,7 +2216,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2017,Fraction of mortality attributable to particulate air pollution (old method),,Bromsgrove,,Normal value,Percentage (%),E07000234,4.68
 2017,Fraction of mortality attributable to particulate air pollution (old method),,Broxbourne,,Normal value,Percentage (%),E07000095,5.88
 2017,Fraction of mortality attributable to particulate air pollution (old method),,Broxtowe,,Normal value,Percentage (%),E07000172,5.47
-2017,Fraction of mortality attributable to particulate air pollution (old method),,Buckinghamshire UA,,Value for Bucks County applied to Bucks UA,Percentage (%),,5.67
+2017,Fraction of mortality attributable to particulate air pollution (old method),,Buckinghamshire UA,,Value for Bucks County applied to Bucks UA,Percentage (%),E06000060,5.67
 2017,Fraction of mortality attributable to particulate air pollution (old method),,Burnley,,Normal value,Percentage (%),E07000117,4.09
 2017,Fraction of mortality attributable to particulate air pollution (old method),,Bury,,Normal value,Percentage (%),E08000002,4.26
 2017,Fraction of mortality attributable to particulate air pollution (old method),,Calderdale,,Normal value,Percentage (%),E08000033,3.97
@@ -2279,7 +2279,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2017,Fraction of mortality attributable to particulate air pollution (old method),,Exeter,,Normal value,Percentage (%),E07000041,4.39
 2017,Fraction of mortality attributable to particulate air pollution (old method),,Fareham,,Normal value,Percentage (%),E07000087,5.53
 2017,Fraction of mortality attributable to particulate air pollution (old method),,Fenland,,Normal value,Percentage (%),E07000010,5.11
-2017,Fraction of mortality attributable to particulate air pollution (old method),,Folkestone & Hythe,,Normal value,Percentage (%),,5.28
+2017,Fraction of mortality attributable to particulate air pollution (old method),,Folkestone & Hythe,,Normal value,Percentage (%),E07000112,5.28
 2017,Fraction of mortality attributable to particulate air pollution (old method),,Forest Heath,,Normal value,Percentage (%),E07000201,5.16
 2017,Fraction of mortality attributable to particulate air pollution (old method),,Forest of Dean,,Normal value,Percentage (%),E07000080,4.27
 2017,Fraction of mortality attributable to particulate air pollution (old method),,Fylde,,Normal value,Percentage (%),E07000119,3.31
@@ -2431,7 +2431,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2017,Fraction of mortality attributable to particulate air pollution (old method),,Southend-on-Sea,,Normal value,Percentage (%),E06000033,5.52
 2017,Fraction of mortality attributable to particulate air pollution (old method),,Southwark,,Normal value,Percentage (%),E09000028,6.74
 2017,Fraction of mortality attributable to particulate air pollution (old method),,Spelthorne,,Normal value,Percentage (%),E07000213,6.12
-2017,Fraction of mortality attributable to particulate air pollution (old method),,St Albans,,Normal value,Percentage (%),,5.82
+2017,Fraction of mortality attributable to particulate air pollution (old method),,St Albans,,Normal value,Percentage (%),E07000240,5.82
 2017,Fraction of mortality attributable to particulate air pollution (old method),,St. Edmundsbury,,Normal value,Percentage (%),E07000204,5.3
 2017,Fraction of mortality attributable to particulate air pollution (old method),,St. Helens,,Normal value,Percentage (%),E08000013,4.33
 2017,Fraction of mortality attributable to particulate air pollution (old method),,Stafford,,Normal value,Percentage (%),E07000197,4.26
@@ -2512,7 +2512,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2017,Fraction of mortality attributable to particulate air pollution (old method),South East,,,Normal value,Percentage (%),E12000008,5.58
 2017,Fraction of mortality attributable to particulate air pollution (old method),South West,,,Normal value,Percentage (%),E12000009,4.44
 2017,Fraction of mortality attributable to particulate air pollution (old method),West Midlands,,,Normal value,Percentage (%),E12000005,4.93
-2017,Fraction of mortality attributable to particulate air pollution (old method),Yorkshire and the Humber,,,Normal value,Percentage (%),,4.18
+2017,Fraction of mortality attributable to particulate air pollution (old method),Yorkshire and The Humber,,,Normal value,Percentage (%),E12000003,4.18
 2017,Fraction of mortality attributable to particulate air pollution (old method),,,,Normal value,Percentage (%),E92000001,5.06
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Adur,,Normal value,Percentage (%),E07000223,5.62
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Allerdale,,Normal value,Percentage (%),E07000026,2.9
@@ -2540,7 +2540,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Bolton,,Normal value,Percentage (%),E08000001,4.64
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Boston,,Normal value,Percentage (%),E07000136,5.08
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Bournemouth,,Normal value,Percentage (%),E06000028,5.08
-2018,Fraction of mortality attributable to particulate air pollution (old method),,"Bournemouth, Christchurch and Poole",,Missing value,Percentage (%),,
+2018,Fraction of mortality attributable to particulate air pollution (old method),,"Bournemouth, Christchurch and Poole",,Missing value,Percentage (%),E06000058,
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Bracknell Forest,,Normal value,Percentage (%),E06000036,5.72
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Bradford,,Normal value,Percentage (%),E08000032,4.6
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Braintree,,Normal value,Percentage (%),E07000067,5.46
@@ -2554,7 +2554,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Bromsgrove,,Normal value,Percentage (%),E07000234,4.77
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Broxbourne,,Normal value,Percentage (%),E07000095,5.83
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Broxtowe,,Normal value,Percentage (%),E07000172,4.91
-2018,Fraction of mortality attributable to particulate air pollution (old method),,Buckinghamshire UA,,Value for Bucks County applied to Bucks UA,Percentage (%),,5.63
+2018,Fraction of mortality attributable to particulate air pollution (old method),,Buckinghamshire UA,,Value for Bucks County applied to Bucks UA,Percentage (%),E06000060,5.63
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Burnley,,Normal value,Percentage (%),E07000117,4.35
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Bury,,Normal value,Percentage (%),E08000002,4.51
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Calderdale,,Normal value,Percentage (%),E08000033,4.29
@@ -2594,7 +2594,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Derby,,Normal value,Percentage (%),E06000015,5.05
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Derbyshire Dales,,Normal value,Percentage (%),E07000035,3.61
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Doncaster,,Normal value,Percentage (%),E08000017,4.64
-2018,Fraction of mortality attributable to particulate air pollution (old method),,Dorset,,Missing value,Percentage (%),,
+2018,Fraction of mortality attributable to particulate air pollution (old method),,Dorset,,Missing value,Percentage (%),E06000059,
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Dover,,Normal value,Percentage (%),E07000108,5.22
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Dudley,,Normal value,Percentage (%),E08000027,5.21
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Ealing,,Normal value,Percentage (%),E09000009,6.56
@@ -2607,7 +2607,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2018,Fraction of mortality attributable to particulate air pollution (old method),,East Northamptonshire,,Normal value,Percentage (%),E07000152,5.2
 2018,Fraction of mortality attributable to particulate air pollution (old method),,East Riding of Yorkshire,,Normal value,Percentage (%),E06000011,4.51
 2018,Fraction of mortality attributable to particulate air pollution (old method),,East Staffordshire,,Normal value,Percentage (%),E07000193,4.56
-2018,Fraction of mortality attributable to particulate air pollution (old method),,East Suffolk,,Missing value,Percentage (%),,
+2018,Fraction of mortality attributable to particulate air pollution (old method),,East Suffolk,,Missing value,Percentage (%),E07000244,
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Eastbourne,,Normal value,Percentage (%),E07000061,5.32
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Eastleigh,,Normal value,Percentage (%),E07000086,5.73
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Eden,,Normal value,Percentage (%),E07000030,3.08
@@ -2619,7 +2619,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Exeter,,Normal value,Percentage (%),E07000041,4.01
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Fareham,,Normal value,Percentage (%),E07000087,5.67
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Fenland,,Normal value,Percentage (%),E07000010,5.35
-2018,Fraction of mortality attributable to particulate air pollution (old method),,Folkestone & Hythe,,Normal value,Percentage (%),,5.18
+2018,Fraction of mortality attributable to particulate air pollution (old method),,Folkestone & Hythe,,Normal value,Percentage (%),E07000112,5.18
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Forest Heath,,Normal value,Percentage (%),E07000201,5.28
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Forest of Dean,,Normal value,Percentage (%),E07000080,4.38
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Fylde,,Normal value,Percentage (%),E07000119,3.5
@@ -2752,7 +2752,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Shropshire,,Normal value,Percentage (%),E06000051,3.83
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Slough,,Normal value,Percentage (%),E06000039,6.53
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Solihull,,Normal value,Percentage (%),E08000029,5.18
-2018,Fraction of mortality attributable to particulate air pollution (old method),,Somerset West and Taunton,,Missing value,Percentage (%),,
+2018,Fraction of mortality attributable to particulate air pollution (old method),,Somerset West and Taunton,,Missing value,Percentage (%),E07000246,
 2018,Fraction of mortality attributable to particulate air pollution (old method),,South Bucks,,Normal value,Percentage (%),E07000006,5.91
 2018,Fraction of mortality attributable to particulate air pollution (old method),,South Cambridgeshire,,Normal value,Percentage (%),E07000012,5.36
 2018,Fraction of mortality attributable to particulate air pollution (old method),,South Derbyshire,,Normal value,Percentage (%),E07000039,4.59
@@ -2772,7 +2772,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Southend-on-Sea,,Normal value,Percentage (%),E06000033,5.52
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Southwark,,Normal value,Percentage (%),E09000028,6.86
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Spelthorne,,Normal value,Percentage (%),E07000213,6.25
-2018,Fraction of mortality attributable to particulate air pollution (old method),,St Albans,,Normal value,Percentage (%),,5.66
+2018,Fraction of mortality attributable to particulate air pollution (old method),,St Albans,,Normal value,Percentage (%),E07000240,5.66
 2018,Fraction of mortality attributable to particulate air pollution (old method),,St. Edmundsbury,,Normal value,Percentage (%),E07000204,5.35
 2018,Fraction of mortality attributable to particulate air pollution (old method),,St. Helens,,Normal value,Percentage (%),E08000013,4.58
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Stafford,,Normal value,Percentage (%),E07000197,4.17
@@ -2828,7 +2828,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2018,Fraction of mortality attributable to particulate air pollution (old method),,West Lindsey,,Normal value,Percentage (%),E07000142,4.89
 2018,Fraction of mortality attributable to particulate air pollution (old method),,West Oxfordshire,,Normal value,Percentage (%),E07000181,5.16
 2018,Fraction of mortality attributable to particulate air pollution (old method),,West Somerset,,Normal value,Percentage (%),E07000191,3.27
-2018,Fraction of mortality attributable to particulate air pollution (old method),,West Suffolk,,Missing value,Percentage (%),,
+2018,Fraction of mortality attributable to particulate air pollution (old method),,West Suffolk,,Missing value,Percentage (%),E07000245,
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Westminster,,Normal value,Percentage (%),E09000033,7.0
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Weymouth and Portland,,Normal value,Percentage (%),E07000053,4.01
 2018,Fraction of mortality attributable to particulate air pollution (old method),,Wigan,,Normal value,Percentage (%),E08000010,4.35
@@ -2854,7 +2854,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2018,Fraction of mortality attributable to particulate air pollution (old method),South East,,,Normal value,Percentage (%),E12000008,5.64
 2018,Fraction of mortality attributable to particulate air pollution (old method),South West,,,Normal value,Percentage (%),E12000009,4.38
 2018,Fraction of mortality attributable to particulate air pollution (old method),West Midlands,,,Normal value,Percentage (%),E12000005,4.96
-2018,Fraction of mortality attributable to particulate air pollution (old method),Yorkshire and the Humber,,,Normal value,Percentage (%),,4.48
+2018,Fraction of mortality attributable to particulate air pollution (old method),Yorkshire and The Humber,,,Normal value,Percentage (%),E12000003,4.48
 2018,Fraction of mortality attributable to particulate air pollution (old method),,,,Normal value,Percentage (%),E92000001,5.15
 2019,Fraction of mortality attributable to particulate air pollution (old method),,,Decile 1 (least deprived),Normal value,Percentage (%),E92000001,5.23
 2019,Fraction of mortality attributable to particulate air pollution (old method),,,Decile 2,Normal value,Percentage (%),E92000001,4.93
@@ -2890,7 +2890,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Bolsover,,Normal value,Percentage (%),E07000033,5.29
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Bolton,,Normal value,Percentage (%),E08000001,4.75
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Boston,,Normal value,Percentage (%),E07000136,5.26
-2019,Fraction of mortality attributable to particulate air pollution (old method),,"Bournemouth, Christchurch and Poole",,Normal value,Percentage (%),,4.33
+2019,Fraction of mortality attributable to particulate air pollution (old method),,"Bournemouth, Christchurch and Poole",,Normal value,Percentage (%),E06000058,4.33
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Bracknell Forest,,Normal value,Percentage (%),E06000036,5.28
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Bradford,,Normal value,Percentage (%),E08000032,4.73
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Braintree,,Normal value,Percentage (%),E07000067,5.42
@@ -2904,7 +2904,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Bromsgrove,,Normal value,Percentage (%),E07000234,5.03
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Broxbourne,,Normal value,Percentage (%),E07000095,5.89
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Broxtowe,,Normal value,Percentage (%),E07000172,5.52
-2019,Fraction of mortality attributable to particulate air pollution (old method),,Buckinghamshire UA,,Normal value,Percentage (%),,5.57
+2019,Fraction of mortality attributable to particulate air pollution (old method),,Buckinghamshire UA,,Normal value,Percentage (%),E06000060,5.57
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Burnley,,Normal value,Percentage (%),E07000117,4.32
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Bury,,Normal value,Percentage (%),E08000002,4.75
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Calderdale,,Normal value,Percentage (%),E08000033,4.55
@@ -2942,7 +2942,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Derby,,Normal value,Percentage (%),E06000015,5.66
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Derbyshire Dales,,Normal value,Percentage (%),E07000035,4.71
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Doncaster,,Normal value,Percentage (%),E08000017,5.05
-2019,Fraction of mortality attributable to particulate air pollution (old method),,Dorset,,Normal value,Percentage (%),,3.88
+2019,Fraction of mortality attributable to particulate air pollution (old method),,Dorset,,Normal value,Percentage (%),E06000059,3.88
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Dover,,Normal value,Percentage (%),E07000108,4.93
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Dudley,,Normal value,Percentage (%),E08000027,5.46
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Ealing,,Normal value,Percentage (%),E09000009,6.38
@@ -2954,7 +2954,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2019,Fraction of mortality attributable to particulate air pollution (old method),,East Northamptonshire,,Normal value,Percentage (%),E07000152,5.26
 2019,Fraction of mortality attributable to particulate air pollution (old method),,East Riding of Yorkshire,,Normal value,Percentage (%),E06000011,4.58
 2019,Fraction of mortality attributable to particulate air pollution (old method),,East Staffordshire,,Normal value,Percentage (%),E07000193,5.29
-2019,Fraction of mortality attributable to particulate air pollution (old method),,East Suffolk,,Normal value,Percentage (%),,5.18
+2019,Fraction of mortality attributable to particulate air pollution (old method),,East Suffolk,,Normal value,Percentage (%),E07000244,5.18
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Eastbourne,,Normal value,Percentage (%),E07000061,4.86
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Eastleigh,,Normal value,Percentage (%),E07000086,4.73
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Eden,,Normal value,Percentage (%),E07000030,2.63
@@ -2966,7 +2966,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Exeter,,Normal value,Percentage (%),E07000041,4.23
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Fareham,,Normal value,Percentage (%),E07000087,4.78
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Fenland,,Normal value,Percentage (%),E07000010,5.35
-2019,Fraction of mortality attributable to particulate air pollution (old method),,Folkestone & Hythe,,Normal value,Percentage (%),,4.85
+2019,Fraction of mortality attributable to particulate air pollution (old method),,Folkestone & Hythe,,Normal value,Percentage (%),E07000112,4.85
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Forest of Dean,,Normal value,Percentage (%),E07000080,4.34
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Fylde,,Normal value,Percentage (%),E07000119,3.45
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Gateshead,,Normal value,Percentage (%),E08000037,3.47
@@ -3095,7 +3095,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Shropshire,,Normal value,Percentage (%),E06000051,4.14
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Slough,,Normal value,Percentage (%),E06000039,6.27
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Solihull,,Normal value,Percentage (%),E08000029,5.55
-2019,Fraction of mortality attributable to particulate air pollution (old method),,Somerset West and Taunton,,Normal value,Percentage (%),,3.95
+2019,Fraction of mortality attributable to particulate air pollution (old method),,Somerset West and Taunton,,Normal value,Percentage (%),E07000246,3.95
 2019,Fraction of mortality attributable to particulate air pollution (old method),,South Cambridgeshire,,Normal value,Percentage (%),E07000012,5.38
 2019,Fraction of mortality attributable to particulate air pollution (old method),,South Derbyshire,,Normal value,Percentage (%),E07000039,5.3
 2019,Fraction of mortality attributable to particulate air pollution (old method),,South Gloucestershire,,Normal value,Percentage (%),E06000025,4.92
@@ -3114,7 +3114,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Southend-on-Sea,,Normal value,Percentage (%),E06000033,5.33
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Southwark,,Normal value,Percentage (%),E09000028,6.57
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Spelthorne,,Normal value,Percentage (%),E07000213,5.94
-2019,Fraction of mortality attributable to particulate air pollution (old method),,St Albans,,Normal value,Percentage (%),,5.79
+2019,Fraction of mortality attributable to particulate air pollution (old method),,St Albans,,Normal value,Percentage (%),E07000240,5.79
 2019,Fraction of mortality attributable to particulate air pollution (old method),,St. Helens,,Normal value,Percentage (%),E08000013,4.73
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Stafford,,Normal value,Percentage (%),E07000197,4.9
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Staffordshire Moorlands,,Normal value,Percentage (%),E07000198,4.75
@@ -3164,7 +3164,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2019,Fraction of mortality attributable to particulate air pollution (old method),,West Lancashire,,Normal value,Percentage (%),E07000127,4.06
 2019,Fraction of mortality attributable to particulate air pollution (old method),,West Lindsey,,Normal value,Percentage (%),E07000142,4.97
 2019,Fraction of mortality attributable to particulate air pollution (old method),,West Oxfordshire,,Normal value,Percentage (%),E07000181,4.87
-2019,Fraction of mortality attributable to particulate air pollution (old method),,West Suffolk,,Normal value,Percentage (%),,5.29
+2019,Fraction of mortality attributable to particulate air pollution (old method),,West Suffolk,,Normal value,Percentage (%),E07000245,5.29
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Westminster,,Normal value,Percentage (%),E09000033,6.8
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Wigan,,Normal value,Percentage (%),E08000010,4.51
 2019,Fraction of mortality attributable to particulate air pollution (old method),,Wiltshire,,Normal value,Percentage (%),E06000054,4.15
@@ -3188,7 +3188,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2019,Fraction of mortality attributable to particulate air pollution (old method),South East,,,Normal value,Percentage (%),E12000008,5.17
 2019,Fraction of mortality attributable to particulate air pollution (old method),South West,,,Normal value,Percentage (%),E12000009,4.14
 2019,Fraction of mortality attributable to particulate air pollution (old method),West Midlands,,,Normal value,Percentage (%),E12000005,5.31
-2019,Fraction of mortality attributable to particulate air pollution (old method),Yorkshire and the Humber,,,Normal value,Percentage (%),,4.79
+2019,Fraction of mortality attributable to particulate air pollution (old method),Yorkshire and The Humber,,,Normal value,Percentage (%),E12000003,4.79
 2019,Fraction of mortality attributable to particulate air pollution (old method),,,,Normal value,Percentage (%),E92000001,5.13
 2018,Fraction of mortality attributable to particulate air pollution (new method),,,Decile 1 (least deprived),Normal value,Percentage (%),E92000001,7.49
 2018,Fraction of mortality attributable to particulate air pollution (new method),,,Decile 2,Normal value,Percentage (%),E92000001,7.24
@@ -3226,7 +3226,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Bolton,,Normal value,Percentage (%),E08000001,6.31
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Boston,,Normal value,Percentage (%),E07000136,6.98
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Bournemouth,,Normal value,Percentage (%),E06000028,7.0
-2018,Fraction of mortality attributable to particulate air pollution (new method),,"Bournemouth, Christchurch and Poole",,Missing value,Percentage (%),,
+2018,Fraction of mortality attributable to particulate air pollution (new method),,"Bournemouth, Christchurch and Poole",,Missing value,Percentage (%),E06000058,
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Bracknell Forest,,Normal value,Percentage (%),E06000036,7.84
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Bradford,,Normal value,Percentage (%),E08000032,6.27
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Braintree,,Normal value,Percentage (%),E07000067,7.51
@@ -3240,7 +3240,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Bromsgrove,,Normal value,Percentage (%),E07000234,6.57
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Broxbourne,,Normal value,Percentage (%),E07000095,7.97
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Broxtowe,,Normal value,Percentage (%),E07000172,6.71
-2018,Fraction of mortality attributable to particulate air pollution (new method),,Buckinghamshire UA,,Missing value,Percentage (%),,
+2018,Fraction of mortality attributable to particulate air pollution (new method),,Buckinghamshire UA,,Missing value,Percentage (%),E06000060,
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Burnley,,Normal value,Percentage (%),E07000117,5.93
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Bury,,Normal value,Percentage (%),E08000002,6.13
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Calderdale,,Normal value,Percentage (%),E08000033,5.85
@@ -3280,7 +3280,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Derby,,Normal value,Percentage (%),E06000015,6.88
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Derbyshire Dales,,Normal value,Percentage (%),E07000035,4.98
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Doncaster,,Normal value,Percentage (%),E08000017,6.36
-2018,Fraction of mortality attributable to particulate air pollution (new method),,Dorset,,Missing value,Percentage (%),,
+2018,Fraction of mortality attributable to particulate air pollution (new method),,Dorset,,Missing value,Percentage (%),E06000059,
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Dover,,Normal value,Percentage (%),E07000108,7.21
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Dudley,,Normal value,Percentage (%),E08000027,7.13
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Ealing,,Normal value,Percentage (%),E09000009,8.92
@@ -3293,7 +3293,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2018,Fraction of mortality attributable to particulate air pollution (new method),,East Northamptonshire,,Normal value,Percentage (%),E07000152,7.14
 2018,Fraction of mortality attributable to particulate air pollution (new method),,East Riding of Yorkshire,,Normal value,Percentage (%),E06000011,6.21
 2018,Fraction of mortality attributable to particulate air pollution (new method),,East Staffordshire,,Normal value,Percentage (%),E07000193,6.26
-2018,Fraction of mortality attributable to particulate air pollution (new method),,East Suffolk,,Normal value,Percentage (%),,
+2018,Fraction of mortality attributable to particulate air pollution (new method),,East Suffolk,,Normal value,Percentage (%),E07000244,
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Eastbourne,,Normal value,Percentage (%),E07000061,7.39
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Eastleigh,,Normal value,Percentage (%),E07000086,7.83
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Eden,,Normal value,Percentage (%),E07000030,4.23
@@ -3305,7 +3305,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Exeter,,Normal value,Percentage (%),E07000041,5.6
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Fareham,,Normal value,Percentage (%),E07000087,7.77
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Fenland,,Normal value,Percentage (%),E07000010,7.36
-2018,Fraction of mortality attributable to particulate air pollution (new method),,Folkestone & Hythe,,Normal value,Percentage (%),,7.18
+2018,Fraction of mortality attributable to particulate air pollution (new method),,Folkestone & Hythe,,Normal value,Percentage (%),E07000112,7.18
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Forest Heath,,Normal value,Percentage (%),E07000201,7.27
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Forest of Dean,,Normal value,Percentage (%),E07000080,6.14
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Fylde,,Normal value,Percentage (%),E07000119,4.84
@@ -3389,7 +3389,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2018,Fraction of mortality attributable to particulate air pollution (new method),,North Kesteven,,Normal value,Percentage (%),E07000139,6.84
 2018,Fraction of mortality attributable to particulate air pollution (new method),,North Lincolnshire,,Normal value,Percentage (%),E06000013,6.7
 2018,Fraction of mortality attributable to particulate air pollution (new method),,North Norfolk,,Normal value,Percentage (%),E07000147,6.73
-2018,Fraction of mortality attributable to particulate air pollution (new method),,North Northamptonshire,,Missing value,Percentage (%),,
+2018,Fraction of mortality attributable to particulate air pollution (new method),,North Northamptonshire,,Missing value,Percentage (%),E06000061,
 2018,Fraction of mortality attributable to particulate air pollution (new method),,North Somerset,,Normal value,Percentage (%),E06000024,6.1
 2018,Fraction of mortality attributable to particulate air pollution (new method),,North Tyneside,,Normal value,Percentage (%),E08000022,5.2
 2018,Fraction of mortality attributable to particulate air pollution (new method),,North Warwickshire,,Normal value,Percentage (%),E07000218,6.72
@@ -3439,7 +3439,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Shropshire,,Normal value,Percentage (%),E06000051,5.37
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Slough,,Normal value,Percentage (%),E06000039,8.87
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Solihull,,Normal value,Percentage (%),E08000029,7.1
-2018,Fraction of mortality attributable to particulate air pollution (new method),,Somerset West and Taunton,,Normal value,Percentage (%),,
+2018,Fraction of mortality attributable to particulate air pollution (new method),,Somerset West and Taunton,,Normal value,Percentage (%),E07000246,
 2018,Fraction of mortality attributable to particulate air pollution (new method),,South Bucks,,Normal value,Percentage (%),E07000006,8.07
 2018,Fraction of mortality attributable to particulate air pollution (new method),,South Cambridgeshire,,Normal value,Percentage (%),E07000012,7.37
 2018,Fraction of mortality attributable to particulate air pollution (new method),,South Derbyshire,,Normal value,Percentage (%),E07000039,6.3
@@ -3459,7 +3459,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Southend-on-Sea,,Normal value,Percentage (%),E06000033,7.6
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Southwark,,Normal value,Percentage (%),E09000028,9.3
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Spelthorne,,Normal value,Percentage (%),E07000213,8.52
-2018,Fraction of mortality attributable to particulate air pollution (new method),,St Albans,,Normal value,Percentage (%),,7.74
+2018,Fraction of mortality attributable to particulate air pollution (new method),,St Albans,,Normal value,Percentage (%),E07000240,7.74
 2018,Fraction of mortality attributable to particulate air pollution (new method),,St. Edmundsbury,,Normal value,Percentage (%),E07000204,7.36
 2018,Fraction of mortality attributable to particulate air pollution (new method),,St. Helens,,Normal value,Percentage (%),E08000013,6.24
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Stafford,,Normal value,Percentage (%),E07000197,5.75
@@ -3513,10 +3513,10 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2018,Fraction of mortality attributable to particulate air pollution (new method),,West Dorset,,Normal value,Percentage (%),E07000052,5.51
 2018,Fraction of mortality attributable to particulate air pollution (new method),,West Lancashire,,Normal value,Percentage (%),E07000127,5.47
 2018,Fraction of mortality attributable to particulate air pollution (new method),,West Lindsey,,Normal value,Percentage (%),E07000142,6.74
-2018,Fraction of mortality attributable to particulate air pollution (new method),,West Northamptonshire,,Missing value,Percentage (%),,
+2018,Fraction of mortality attributable to particulate air pollution (new method),,West Northamptonshire,,Missing value,Percentage (%),E06000062,
 2018,Fraction of mortality attributable to particulate air pollution (new method),,West Oxfordshire,,Normal value,Percentage (%),E07000181,7.1
 2018,Fraction of mortality attributable to particulate air pollution (new method),,West Somerset,,Normal value,Percentage (%),E07000191,4.72
-2018,Fraction of mortality attributable to particulate air pollution (new method),,West Suffolk,,Normal value,Percentage (%),,
+2018,Fraction of mortality attributable to particulate air pollution (new method),,West Suffolk,,Normal value,Percentage (%),E07000245,
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Westminster,,Normal value,Percentage (%),E09000033,9.49
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Weymouth and Portland,,Normal value,Percentage (%),E07000053,5.64
 2018,Fraction of mortality attributable to particulate air pollution (new method),,Wigan,,Normal value,Percentage (%),E08000010,5.94
@@ -3542,7 +3542,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2018,Fraction of mortality attributable to particulate air pollution (new method),South East,,,Normal value,Percentage (%),E12000008,7.74
 2018,Fraction of mortality attributable to particulate air pollution (new method),South West,,,Normal value,Percentage (%),E12000009,6.15
 2018,Fraction of mortality attributable to particulate air pollution (new method),West Midlands,,,Normal value,Percentage (%),E12000005,6.8
-2018,Fraction of mortality attributable to particulate air pollution (new method),Yorkshire and the Humber,,,Normal value,Percentage (%),,6.13
+2018,Fraction of mortality attributable to particulate air pollution (new method),Yorkshire and The Humber,,,Normal value,Percentage (%),E12000003,6.13
 2018,Fraction of mortality attributable to particulate air pollution (new method),,,,Normal value,Percentage (%),E92000001,7.07
 2019,Fraction of mortality attributable to particulate air pollution (new method),,,Decile 1 (least deprived),Normal value,Percentage (%),E92000001,7.25
 2019,Fraction of mortality attributable to particulate air pollution (new method),,,Decile 2,Normal value,Percentage (%),E92000001,6.85
@@ -3580,7 +3580,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Bolton,,Normal value,Percentage (%),E08000001,6.54
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Boston,,Normal value,Percentage (%),E07000136,7.26
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Bournemouth,,Normal value,Percentage (%),E06000028,
-2019,Fraction of mortality attributable to particulate air pollution (new method),,"Bournemouth, Christchurch and Poole",,Normal value,Percentage (%),,6.09
+2019,Fraction of mortality attributable to particulate air pollution (new method),,"Bournemouth, Christchurch and Poole",,Normal value,Percentage (%),E06000058,6.09
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Bracknell Forest,,Normal value,Percentage (%),E06000036,7.32
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Bradford,,Normal value,Percentage (%),E08000032,6.5
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Braintree,,Normal value,Percentage (%),E07000067,7.49
@@ -3594,7 +3594,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Bromsgrove,,Normal value,Percentage (%),E07000234,6.99
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Broxbourne,,Normal value,Percentage (%),E07000095,8.11
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Broxtowe,,Normal value,Percentage (%),E07000172,7.59
-2019,Fraction of mortality attributable to particulate air pollution (new method),,Buckinghamshire UA,,Missing value,Percentage (%),,
+2019,Fraction of mortality attributable to particulate air pollution (new method),,Buckinghamshire UA,,Missing value,Percentage (%),E06000060,
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Burnley,,Normal value,Percentage (%),E07000117,5.96
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Bury,,Normal value,Percentage (%),E08000002,6.53
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Calderdale,,Normal value,Percentage (%),E08000033,6.27
@@ -3634,7 +3634,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Derby,,Normal value,Percentage (%),E06000015,7.77
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Derbyshire Dales,,Normal value,Percentage (%),E07000035,6.54
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Doncaster,,Normal value,Percentage (%),E08000017,6.95
-2019,Fraction of mortality attributable to particulate air pollution (new method),,Dorset,,Normal value,Percentage (%),,5.52
+2019,Fraction of mortality attributable to particulate air pollution (new method),,Dorset,,Normal value,Percentage (%),E06000059,5.52
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Dover,,Normal value,Percentage (%),E07000108,6.86
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Dudley,,Normal value,Percentage (%),E08000027,7.53
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Ealing,,Normal value,Percentage (%),E09000009,8.74
@@ -3647,7 +3647,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2019,Fraction of mortality attributable to particulate air pollution (new method),,East Northamptonshire,,Normal value,Percentage (%),E07000152,7.28
 2019,Fraction of mortality attributable to particulate air pollution (new method),,East Riding of Yorkshire,,Normal value,Percentage (%),E06000011,6.33
 2019,Fraction of mortality attributable to particulate air pollution (new method),,East Staffordshire,,Normal value,Percentage (%),E07000193,7.3
-2019,Fraction of mortality attributable to particulate air pollution (new method),,East Suffolk,,Normal value,Percentage (%),,7.16
+2019,Fraction of mortality attributable to particulate air pollution (new method),,East Suffolk,,Normal value,Percentage (%),E07000244,7.16
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Eastbourne,,Normal value,Percentage (%),E07000061,6.78
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Eastleigh,,Normal value,Percentage (%),E07000086,6.6
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Eden,,Normal value,Percentage (%),E07000030,3.65
@@ -3659,7 +3659,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Exeter,,Normal value,Percentage (%),E07000041,6.08
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Fareham,,Normal value,Percentage (%),E07000087,6.67
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Fenland,,Normal value,Percentage (%),E07000010,7.37
-2019,Fraction of mortality attributable to particulate air pollution (new method),,Folkestone & Hythe,,Normal value,Percentage (%),,6.77
+2019,Fraction of mortality attributable to particulate air pollution (new method),,Folkestone & Hythe,,Normal value,Percentage (%),E07000112,6.77
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Forest Heath,,Normal value,Percentage (%),E07000201,
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Forest of Dean,,Normal value,Percentage (%),E07000080,6.11
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Fylde,,Normal value,Percentage (%),E07000119,4.82
@@ -3743,7 +3743,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2019,Fraction of mortality attributable to particulate air pollution (new method),,North Kesteven,,Normal value,Percentage (%),E07000139,7.17
 2019,Fraction of mortality attributable to particulate air pollution (new method),,North Lincolnshire,,Normal value,Percentage (%),E06000013,6.71
 2019,Fraction of mortality attributable to particulate air pollution (new method),,North Norfolk,,Normal value,Percentage (%),E07000147,6.91
-2019,Fraction of mortality attributable to particulate air pollution (new method),,North Northamptonshire,,Missing value,Percentage (%),,
+2019,Fraction of mortality attributable to particulate air pollution (new method),,North Northamptonshire,,Missing value,Percentage (%),E06000061,
 2019,Fraction of mortality attributable to particulate air pollution (new method),,North Somerset,,Normal value,Percentage (%),E06000024,5.93
 2019,Fraction of mortality attributable to particulate air pollution (new method),,North Tyneside,,Normal value,Percentage (%),E08000022,4.89
 2019,Fraction of mortality attributable to particulate air pollution (new method),,North Warwickshire,,Normal value,Percentage (%),E07000218,7.4
@@ -3793,7 +3793,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Shropshire,,Normal value,Percentage (%),E06000051,5.84
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Slough,,Normal value,Percentage (%),E06000039,8.61
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Solihull,,Normal value,Percentage (%),E08000029,7.65
-2019,Fraction of mortality attributable to particulate air pollution (new method),,Somerset West and Taunton,,Normal value,Percentage (%),,5.66
+2019,Fraction of mortality attributable to particulate air pollution (new method),,Somerset West and Taunton,,Normal value,Percentage (%),E07000246,5.66
 2019,Fraction of mortality attributable to particulate air pollution (new method),,South Bucks,,Normal value,Percentage (%),E07000006,8.01
 2019,Fraction of mortality attributable to particulate air pollution (new method),,South Cambridgeshire,,Normal value,Percentage (%),E07000012,7.44
 2019,Fraction of mortality attributable to particulate air pollution (new method),,South Derbyshire,,Normal value,Percentage (%),E07000039,7.31
@@ -3813,7 +3813,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Southend-on-Sea,,Normal value,Percentage (%),E06000033,7.38
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Southwark,,Normal value,Percentage (%),E09000028,8.99
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Spelthorne,,Normal value,Percentage (%),E07000213,8.18
-2019,Fraction of mortality attributable to particulate air pollution (new method),,St Albans,,Normal value,Percentage (%),,7.99
+2019,Fraction of mortality attributable to particulate air pollution (new method),,St Albans,,Normal value,Percentage (%),E07000240,7.99
 2019,Fraction of mortality attributable to particulate air pollution (new method),,St. Edmundsbury,,Normal value,Percentage (%),E07000204,
 2019,Fraction of mortality attributable to particulate air pollution (new method),,St. Helens,,Normal value,Percentage (%),E08000013,6.52
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Stafford,,Normal value,Percentage (%),E07000197,6.81
@@ -3867,10 +3867,10 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2019,Fraction of mortality attributable to particulate air pollution (new method),,West Dorset,,Normal value,Percentage (%),E07000052,
 2019,Fraction of mortality attributable to particulate air pollution (new method),,West Lancashire,,Normal value,Percentage (%),E07000127,5.64
 2019,Fraction of mortality attributable to particulate air pollution (new method),,West Lindsey,,Normal value,Percentage (%),E07000142,6.86
-2019,Fraction of mortality attributable to particulate air pollution (new method),,West Northamptonshire,,Missing value,Percentage (%),,
+2019,Fraction of mortality attributable to particulate air pollution (new method),,West Northamptonshire,,Missing value,Percentage (%),E06000062,
 2019,Fraction of mortality attributable to particulate air pollution (new method),,West Oxfordshire,,Normal value,Percentage (%),E07000181,6.78
 2019,Fraction of mortality attributable to particulate air pollution (new method),,West Somerset,,Normal value,Percentage (%),E07000191,
-2019,Fraction of mortality attributable to particulate air pollution (new method),,West Suffolk,,Normal value,Percentage (%),,7.3
+2019,Fraction of mortality attributable to particulate air pollution (new method),,West Suffolk,,Normal value,Percentage (%),E07000245,7.3
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Westminster,,Normal value,Percentage (%),E09000033,9.29
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Weymouth and Portland,,Normal value,Percentage (%),E07000053,
 2019,Fraction of mortality attributable to particulate air pollution (new method),,Wigan,,Normal value,Percentage (%),E08000010,6.23
@@ -3896,7 +3896,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2019,Fraction of mortality attributable to particulate air pollution (new method),South East,,,Normal value,Percentage (%),E12000008,7.18
 2019,Fraction of mortality attributable to particulate air pollution (new method),South West,,,Normal value,Percentage (%),E12000009,5.91
 2019,Fraction of mortality attributable to particulate air pollution (new method),West Midlands,,,Normal value,Percentage (%),E12000005,7.34
-2019,Fraction of mortality attributable to particulate air pollution (new method),Yorkshire and the Humber,,,Normal value,Percentage (%),,6.6
+2019,Fraction of mortality attributable to particulate air pollution (new method),Yorkshire and The Humber,,,Normal value,Percentage (%),E12000003,6.6
 2019,Fraction of mortality attributable to particulate air pollution (new method),,,,Normal value,Percentage (%),E92000001,7.1
 2020,Fraction of mortality attributable to particulate air pollution (new method),,,Decile 1 (least deprived),Normal value,Percentage (%),E92000001,5.89
 2020,Fraction of mortality attributable to particulate air pollution (new method),,,Decile 2,Normal value,Percentage (%),E92000001,5.41
@@ -3932,7 +3932,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Bolsover,,Normal value,Percentage (%),E07000033,4.82
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Bolton,,Normal value,Percentage (%),E08000001,5.38
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Boston,,Normal value,Percentage (%),E07000136,5.17
-2020,Fraction of mortality attributable to particulate air pollution (new method),,"Bournemouth, Christchurch and Poole",,Normal value,Percentage (%),,5.69
+2020,Fraction of mortality attributable to particulate air pollution (new method),,"Bournemouth, Christchurch and Poole",,Normal value,Percentage (%),E06000058,5.69
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Bracknell Forest,,Normal value,Percentage (%),E06000036,6.28
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Bradford,,Normal value,Percentage (%),E08000032,5.42
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Braintree,,Normal value,Percentage (%),E07000067,5.74
@@ -3946,7 +3946,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Bromsgrove,,Normal value,Percentage (%),E07000234,5.11
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Broxbourne,,Normal value,Percentage (%),E07000095,6.09
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Broxtowe,,Normal value,Percentage (%),E07000172,5.49
-2020,Fraction of mortality attributable to particulate air pollution (new method),,Buckinghamshire UA,,Normal value,Percentage (%),,5.92
+2020,Fraction of mortality attributable to particulate air pollution (new method),,Buckinghamshire UA,,Normal value,Percentage (%),E06000060,5.92
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Burnley,,Normal value,Percentage (%),E07000117,4.91
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Bury,,Normal value,Percentage (%),E08000002,5.31
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Calderdale,,Normal value,Percentage (%),E08000033,5.04
@@ -3982,7 +3982,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Derby,,Normal value,Percentage (%),E06000015,5.66
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Derbyshire Dales,,Normal value,Percentage (%),E07000035,4.3
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Doncaster,,Normal value,Percentage (%),E08000017,4.77
-2020,Fraction of mortality attributable to particulate air pollution (new method),,Dorset,,Normal value,Percentage (%),,5.02
+2020,Fraction of mortality attributable to particulate air pollution (new method),,Dorset,,Normal value,Percentage (%),E06000059,5.02
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Dover,,Normal value,Percentage (%),E07000108,5.56
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Dudley,,Normal value,Percentage (%),E08000027,5.77
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Ealing,,Normal value,Percentage (%),E09000009,6.86
@@ -3993,7 +3993,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2020,Fraction of mortality attributable to particulate air pollution (new method),,East Lindsey,,Normal value,Percentage (%),E07000137,4.54
 2020,Fraction of mortality attributable to particulate air pollution (new method),,East Riding of Yorkshire,,Normal value,Percentage (%),E06000011,4.39
 2020,Fraction of mortality attributable to particulate air pollution (new method),,East Staffordshire,,Normal value,Percentage (%),E07000193,5.08
-2020,Fraction of mortality attributable to particulate air pollution (new method),,East Suffolk,,Normal value,Percentage (%),,5.65
+2020,Fraction of mortality attributable to particulate air pollution (new method),,East Suffolk,,Normal value,Percentage (%),E07000244,5.65
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Eastbourne,,Normal value,Percentage (%),E07000061,5.67
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Eastleigh,,Normal value,Percentage (%),E07000086,6.0
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Eden,,Normal value,Percentage (%),E07000030,3.28
@@ -4005,7 +4005,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Exeter,,Normal value,Percentage (%),E07000041,5.24
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Fareham,,Normal value,Percentage (%),E07000087,6.02
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Fenland,,Normal value,Percentage (%),E07000010,5.73
-2020,Fraction of mortality attributable to particulate air pollution (new method),,Folkestone & Hythe,,Normal value,Percentage (%),,5.51
+2020,Fraction of mortality attributable to particulate air pollution (new method),,Folkestone & Hythe,,Normal value,Percentage (%),E07000112,5.51
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Forest of Dean,,Normal value,Percentage (%),E07000080,4.94
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Fylde,,Normal value,Percentage (%),E07000119,4.03
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Gateshead,,Normal value,Percentage (%),E08000037,4.12
@@ -4086,7 +4086,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2020,Fraction of mortality attributable to particulate air pollution (new method),,North Kesteven,,Normal value,Percentage (%),E07000139,4.63
 2020,Fraction of mortality attributable to particulate air pollution (new method),,North Lincolnshire,,Normal value,Percentage (%),E06000013,4.5
 2020,Fraction of mortality attributable to particulate air pollution (new method),,North Norfolk,,Normal value,Percentage (%),E07000147,5.26
-2020,Fraction of mortality attributable to particulate air pollution (new method),,North Northamptonshire,,Missing value,Percentage (%),,
+2020,Fraction of mortality attributable to particulate air pollution (new method),,North Northamptonshire,,Missing value,Percentage (%),E06000061,
 2020,Fraction of mortality attributable to particulate air pollution (new method),,North Somerset,,Normal value,Percentage (%),E06000024,5.1
 2020,Fraction of mortality attributable to particulate air pollution (new method),,North Tyneside,,Normal value,Percentage (%),E08000022,4.21
 2020,Fraction of mortality attributable to particulate air pollution (new method),,North Warwickshire,,Normal value,Percentage (%),E07000218,5.18
@@ -4133,7 +4133,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Shropshire,,Normal value,Percentage (%),E06000051,4.11
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Slough,,Normal value,Percentage (%),E06000039,6.8
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Solihull,,Normal value,Percentage (%),E08000029,5.71
-2020,Fraction of mortality attributable to particulate air pollution (new method),,Somerset West and Taunton,,Normal value,Percentage (%),,4.89
+2020,Fraction of mortality attributable to particulate air pollution (new method),,Somerset West and Taunton,,Normal value,Percentage (%),E07000246,4.89
 2020,Fraction of mortality attributable to particulate air pollution (new method),,South Cambridgeshire,,Normal value,Percentage (%),E07000012,5.55
 2020,Fraction of mortality attributable to particulate air pollution (new method),,South Derbyshire,,Normal value,Percentage (%),E07000039,5.15
 2020,Fraction of mortality attributable to particulate air pollution (new method),,South Gloucestershire,,Normal value,Percentage (%),E06000025,5.87
@@ -4151,7 +4151,7 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Southend-on-Sea,,Normal value,Percentage (%),E06000033,6.06
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Southwark,,Normal value,Percentage (%),E09000028,7.49
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Spelthorne,,Normal value,Percentage (%),E07000213,6.69
-2020,Fraction of mortality attributable to particulate air pollution (new method),,St Albans,,Normal value,Percentage (%),,5.74
+2020,Fraction of mortality attributable to particulate air pollution (new method),,St Albans,,Normal value,Percentage (%),E07000240,5.74
 2020,Fraction of mortality attributable to particulate air pollution (new method),,St. Helens,,Normal value,Percentage (%),E08000013,5.32
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Stafford,,Normal value,Percentage (%),E07000197,4.5
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Staffordshire Moorlands,,Normal value,Percentage (%),E07000198,4.54
@@ -4199,9 +4199,9 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2020,Fraction of mortality attributable to particulate air pollution (new method),,West Devon,,Normal value,Percentage (%),E07000047,4.26
 2020,Fraction of mortality attributable to particulate air pollution (new method),,West Lancashire,,Normal value,Percentage (%),E07000127,4.62
 2020,Fraction of mortality attributable to particulate air pollution (new method),,West Lindsey,,Normal value,Percentage (%),E07000142,4.36
-2020,Fraction of mortality attributable to particulate air pollution (new method),,West Northamptonshire,,Missing value,Percentage (%),,
+2020,Fraction of mortality attributable to particulate air pollution (new method),,West Northamptonshire,,Missing value,Percentage (%),E06000062,
 2020,Fraction of mortality attributable to particulate air pollution (new method),,West Oxfordshire,,Normal value,Percentage (%),E07000181,5.52
-2020,Fraction of mortality attributable to particulate air pollution (new method),,West Suffolk,,Normal value,Percentage (%),,5.67
+2020,Fraction of mortality attributable to particulate air pollution (new method),,West Suffolk,,Normal value,Percentage (%),E07000245,5.67
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Westminster,,Normal value,Percentage (%),E09000033,7.45
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Wigan,,Normal value,Percentage (%),E08000010,5.02
 2020,Fraction of mortality attributable to particulate air pollution (new method),,Wiltshire,,Normal value,Percentage (%),E06000054,5.34
@@ -4225,5 +4225,334 @@ Year,Series,Region,Local Authority,Deprivation decile,Observation status,Units,G
 2020,Fraction of mortality attributable to particulate air pollution (new method),South East,,,Normal value,Percentage (%),E12000008,6.04
 2020,Fraction of mortality attributable to particulate air pollution (new method),South West,,,Normal value,Percentage (%),E12000009,5.23
 2020,Fraction of mortality attributable to particulate air pollution (new method),West Midlands,,,Normal value,Percentage (%),E12000005,5.44
-2020,Fraction of mortality attributable to particulate air pollution (new method),Yorkshire and the Humber,,,Normal value,Percentage (%),,4.96
+2020,Fraction of mortality attributable to particulate air pollution (new method),Yorkshire and The Humber,,,Normal value,Percentage (%),E12000003,4.96
 2020,Fraction of mortality attributable to particulate air pollution (new method),,,,Normal value,Percentage (%),E92000001,5.64
+2021,Fraction of mortality attributable to particulate air pollution (new method),,,Decile 1 (least deprived),Normal value,Percentage (%),E92000001,5.62
+2021,Fraction of mortality attributable to particulate air pollution (new method),,,Decile 2,Normal value,Percentage (%),E92000001,5.23
+2021,Fraction of mortality attributable to particulate air pollution (new method),,,Decile 3,Normal value,Percentage (%),E92000001,5.29
+2021,Fraction of mortality attributable to particulate air pollution (new method),,,Decile 4,Normal value,Percentage (%),E92000001,5.43
+2021,Fraction of mortality attributable to particulate air pollution (new method),,,Decile 5,Normal value,Percentage (%),E92000001,5.51
+2021,Fraction of mortality attributable to particulate air pollution (new method),,,Decile 6,Normal value,Percentage (%),E92000001,5.49
+2021,Fraction of mortality attributable to particulate air pollution (new method),,,Decile 7,Normal value,Percentage (%),E92000001,5.35
+2021,Fraction of mortality attributable to particulate air pollution (new method),,,Decile 8,Normal value,Percentage (%),E92000001,5.68
+2021,Fraction of mortality attributable to particulate air pollution (new method),,,Decile 9,Normal value,Percentage (%),E92000001,5.47
+2021,Fraction of mortality attributable to particulate air pollution (new method),,,Decile 10 (most deprived),Normal value,Percentage (%),E92000001,5.74
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Adur,,Normal value,Percentage (%),E07000223,5.26
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Allerdale,,Normal value,Percentage (%),E07000026,3.17
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Amber Valley,,Normal value,Percentage (%),E07000032,5.51
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Arun,,Normal value,Percentage (%),E07000224,5.01
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Ashfield,,Normal value,Percentage (%),E07000170,5.36
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Ashford,,Normal value,Percentage (%),E07000105,4.86
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Babergh,,Normal value,Percentage (%),E07000200,5.07
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Barking and Dagenham,,Normal value,Percentage (%),E09000002,6.4
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Barnet,,Normal value,Percentage (%),E09000003,6.38
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Barnsley,,Normal value,Percentage (%),E08000016,4.94
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Barrow-in-Furness,,Normal value,Percentage (%),E07000027,4.99
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Basildon,,Normal value,Percentage (%),E07000066,5.82
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Basingstoke and Deane,,Normal value,Percentage (%),E07000084,5.62
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Bassetlaw,,Normal value,Percentage (%),E07000171,4.93
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Bath and North East Somerset,,Normal value,Percentage (%),E06000022,5.23
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Bedford,,Normal value,Percentage (%),E06000055,5.46
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Bexley,,Normal value,Percentage (%),E09000004,5.93
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Birmingham,,Normal value,Percentage (%),E08000025,6.18
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Blaby,,Normal value,Percentage (%),E07000129,5.75
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Blackburn with Darwen,,Normal value,Percentage (%),E06000008,4.77
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Blackpool,,Normal value,Percentage (%),E06000009,5.92
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Bolsover,,Normal value,Percentage (%),E07000033,5.23
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Bolton,,Normal value,Percentage (%),E08000001,5.45
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Boston,,Normal value,Percentage (%),E07000136,5.41
+2021,Fraction of mortality attributable to particulate air pollution (new method),,"Bournemouth, Christchurch and Poole",,Normal value,Percentage (%),E06000058,5.41
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Bracknell Forest,,Normal value,Percentage (%),E06000036,5.91
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Bradford,,Normal value,Percentage (%),E08000032,5.15
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Braintree,,Normal value,Percentage (%),E07000067,5.39
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Breckland,,Normal value,Percentage (%),E07000143,4.68
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Brent,,Normal value,Percentage (%),E09000005,6.55
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Brentwood,,Normal value,Percentage (%),E07000068,5.59
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Brighton and Hove,,Normal value,Percentage (%),E06000043,5.29
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Bristol,,Normal value,Percentage (%),E06000023,5.7
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Broadland,,Normal value,Percentage (%),E07000144,4.96
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Bromley,,Normal value,Percentage (%),E09000006,5.73
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Bromsgrove,,Normal value,Percentage (%),E07000234,5.26
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Broxbourne,,Normal value,Percentage (%),E07000095,5.98
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Broxtowe,,Normal value,Percentage (%),E07000172,5.69
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Buckinghamshire UA,,Normal value,Percentage (%),E06000060,5.7
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Burnley,,Normal value,Percentage (%),E07000117,4.6
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Bury,,Normal value,Percentage (%),E08000002,5.33
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Calderdale,,Normal value,Percentage (%),E08000033,4.96
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Cambridge,,Normal value,Percentage (%),E07000008,5.52
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Camden,,Normal value,Percentage (%),E09000007,6.87
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Cannock Chase,,Normal value,Percentage (%),E07000192,5.18
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Canterbury,,Normal value,Percentage (%),E07000106,4.77
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Carlisle,,Normal value,Percentage (%),E07000028,4.14
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Castle Point,,Normal value,Percentage (%),E07000069,5.65
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Central Bedfordshire,,Normal value,Percentage (%),E06000056,5.67
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Charnwood,,Normal value,Percentage (%),E07000130,6.14
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Chelmsford,,Normal value,Percentage (%),E07000070,5.58
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Cheltenham,,Normal value,Percentage (%),E07000078,5.52
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Cherwell,,Normal value,Percentage (%),E07000177,5.48
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Cheshire East,,Normal value,Percentage (%),E06000049,5.54
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Cheshire West and Chester,,Normal value,Percentage (%),E06000050,5.32
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Chesterfield,,Normal value,Percentage (%),E07000034,5.11
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Chichester,,Normal value,Percentage (%),E07000225,4.99
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Chorley,,Normal value,Percentage (%),E07000118,5.41
+2021,Fraction of mortality attributable to particulate air pollution (new method),,City of London,,Normal value,Percentage (%),E09000001,7.25
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Colchester,,Normal value,Percentage (%),E07000071,5.36
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Copeland,,Normal value,Percentage (%),E07000029,3.35
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Cornwall,,Normal value,Percentage (%),E06000052,4.38
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Cotswold,,Normal value,Percentage (%),E07000079,5.01
+2021,Fraction of mortality attributable to particulate air pollution (new method),,County Durham,,Normal value,Percentage (%),E06000047,4.37
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Coventry,,Normal value,Percentage (%),E08000026,5.7
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Craven,,Normal value,Percentage (%),E07000163,3.71
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Crawley,,Normal value,Percentage (%),E07000226,5.43
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Croydon,,Normal value,Percentage (%),E09000008,6.03
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Dacorum,,Normal value,Percentage (%),E07000096,5.81
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Darlington,,Normal value,Percentage (%),E06000005,4.61
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Dartford,,Normal value,Percentage (%),E07000107,5.85
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Derby,,Normal value,Percentage (%),E06000015,5.74
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Derbyshire Dales,,Normal value,Percentage (%),E07000035,4.69
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Doncaster,,Normal value,Percentage (%),E08000017,4.99
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Dorset,,Normal value,Percentage (%),E06000059,4.88
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Dover,,Normal value,Percentage (%),E07000108,4.7
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Dudley,,Normal value,Percentage (%),E08000027,5.75
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Ealing,,Normal value,Percentage (%),E09000009,6.43
+2021,Fraction of mortality attributable to particulate air pollution (new method),,East Cambridgeshire,,Normal value,Percentage (%),E07000009,4.91
+2021,Fraction of mortality attributable to particulate air pollution (new method),,East Devon,,Normal value,Percentage (%),E07000040,4.67
+2021,Fraction of mortality attributable to particulate air pollution (new method),,East Hampshire,,Normal value,Percentage (%),E07000085,5.32
+2021,Fraction of mortality attributable to particulate air pollution (new method),,East Hertfordshire,,Normal value,Percentage (%),E07000242,5.75
+2021,Fraction of mortality attributable to particulate air pollution (new method),,East Lindsey,,Normal value,Percentage (%),E07000137,4.66
+2021,Fraction of mortality attributable to particulate air pollution (new method),,East Riding of Yorkshire,,Normal value,Percentage (%),E06000011,4.76
+2021,Fraction of mortality attributable to particulate air pollution (new method),,East Staffordshire,,Normal value,Percentage (%),E07000193,5.07
+2021,Fraction of mortality attributable to particulate air pollution (new method),,East Suffolk,,Normal value,Percentage (%),E07000244,5.12
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Eastbourne,,Normal value,Percentage (%),E07000061,4.84
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Eastleigh,,Normal value,Percentage (%),E07000086,5.75
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Eden,,Normal value,Percentage (%),E07000030,3.4
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Elmbridge,,Normal value,Percentage (%),E07000207,6.03
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Enfield,,Normal value,Percentage (%),E09000010,6.36
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Epping Forest,,Normal value,Percentage (%),E07000072,5.91
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Epsom and Ewell,,Normal value,Percentage (%),E07000208,6.04
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Erewash,,Normal value,Percentage (%),E07000036,5.79
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Exeter,,Normal value,Percentage (%),E07000041,4.98
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Fareham,,Normal value,Percentage (%),E07000087,5.64
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Fenland,,Normal value,Percentage (%),E07000010,5.0
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Folkestone & Hythe,,Normal value,Percentage (%),E07000112,4.67
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Forest of Dean,,Normal value,Percentage (%),E07000080,4.99
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Fylde,,Normal value,Percentage (%),E07000119,4.91
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Gateshead,,Normal value,Percentage (%),E08000037,5.19
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Gedling,,Normal value,Percentage (%),E07000173,5.62
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Gloucester,,Normal value,Percentage (%),E07000081,5.79
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Gosport,,Normal value,Percentage (%),E07000088,5.66
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Gravesham,,Normal value,Percentage (%),E07000109,5.55
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Great Yarmouth,,Normal value,Percentage (%),E07000145,5.07
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Greenwich,,Normal value,Percentage (%),E09000011,6.3
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Guildford,,Normal value,Percentage (%),E07000209,5.72
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Hackney,,Normal value,Percentage (%),E09000012,6.98
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Halton,,Normal value,Percentage (%),E06000006,5.46
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Hambleton,,Normal value,Percentage (%),E07000164,3.86
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Hammersmith and Fulham,,Normal value,Percentage (%),E09000013,6.77
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Harborough,,Normal value,Percentage (%),E07000131,5.35
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Haringey,,Normal value,Percentage (%),E09000014,6.62
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Harlow,,Normal value,Percentage (%),E07000073,5.99
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Harrogate,,Normal value,Percentage (%),E07000165,4.14
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Harrow,,Normal value,Percentage (%),E09000015,6.24
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Hart,,Normal value,Percentage (%),E07000089,5.54
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Hartlepool,,Normal value,Percentage (%),E06000001,4.54
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Hastings,,Normal value,Percentage (%),E07000062,4.87
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Havant,,Normal value,Percentage (%),E07000090,5.71
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Havering,,Normal value,Percentage (%),E09000016,5.83
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Herefordshire,,Normal value,Percentage (%),E06000019,4.61
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Hertsmere,,Normal value,Percentage (%),E07000098,6.2
+2021,Fraction of mortality attributable to particulate air pollution (new method),,High Peak,,Normal value,Percentage (%),E07000037,5.05
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Hillingdon,,Normal value,Percentage (%),E09000017,6.2
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Hinckley and Bosworth,,Normal value,Percentage (%),E07000132,5.84
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Horsham,,Normal value,Percentage (%),E07000227,5.07
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Hounslow,,Normal value,Percentage (%),E09000018,6.32
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Huntingdonshire,,Normal value,Percentage (%),E07000011,5.32
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Hyndburn,,Normal value,Percentage (%),E07000120,4.76
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Ipswich,,Normal value,Percentage (%),E07000202,5.77
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Isle of Wight,,Normal value,Percentage (%),E06000046,4.89
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Isles of Scilly,,Normal value,Percentage (%),E06000053,3.45
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Islington,,Normal value,Percentage (%),E09000019,6.99
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Kensington and Chelsea,,Normal value,Percentage (%),E09000020,6.96
+2021,Fraction of mortality attributable to particulate air pollution (new method),,King's Lynn and West Norfolk,,Normal value,Percentage (%),E07000146,4.62
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Kingston upon Hull,,Normal value,Percentage (%),E06000010,5.69
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Kingston upon Thames,,Normal value,Percentage (%),E09000021,6.16
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Kirklees,,Normal value,Percentage (%),E08000034,5.18
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Knowsley,,Normal value,Percentage (%),E08000011,6.0
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Lambeth,,Normal value,Percentage (%),E09000022,6.77
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Lancaster,,Normal value,Percentage (%),E07000121,4.47
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Leeds,,Normal value,Percentage (%),E08000035,5.38
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Leicester,,Normal value,Percentage (%),E06000016,6.21
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Lewes,,Normal value,Percentage (%),E07000063,4.71
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Lewisham,,Normal value,Percentage (%),E09000023,6.49
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Lichfield,,Normal value,Percentage (%),E07000194,5.14
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Lincoln,,Normal value,Percentage (%),E07000138,5.11
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Liverpool,,Normal value,Percentage (%),E08000012,5.77
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Luton,,Normal value,Percentage (%),E06000032,6.13
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Maidstone,,Normal value,Percentage (%),E07000110,5.29
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Maldon,,Normal value,Percentage (%),E07000074,5.14
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Malvern Hills,,Normal value,Percentage (%),E07000235,4.79
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Manchester,,Normal value,Percentage (%),E08000003,5.87
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Mansfield,,Normal value,Percentage (%),E07000174,5.31
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Medway,,Normal value,Percentage (%),E06000035,5.6
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Melton,,Normal value,Percentage (%),E07000133,5.18
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Mendip,,Normal value,Percentage (%),E07000187,5.0
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Merton,,Normal value,Percentage (%),E09000024,6.3
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Mid Devon,,Normal value,Percentage (%),E07000042,4.76
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Mid Suffolk,,Normal value,Percentage (%),E07000203,4.85
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Mid Sussex,,Normal value,Percentage (%),E07000228,5.14
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Middlesbrough,,Normal value,Percentage (%),E06000002,5.21
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Milton Keynes,,Normal value,Percentage (%),E06000042,5.69
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Mole Valley,,Normal value,Percentage (%),E07000210,5.45
+2021,Fraction of mortality attributable to particulate air pollution (new method),,New Forest,,Normal value,Percentage (%),E07000091,5.08
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Newark and Sherwood,,Normal value,Percentage (%),E07000175,5.31
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Newcastle-under-Lyme,,Normal value,Percentage (%),E07000195,5.01
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Newcastle upon Tyne,,Normal value,Percentage (%),E08000021,5.4
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Newham,,Normal value,Percentage (%),E09000025,6.8
+2021,Fraction of mortality attributable to particulate air pollution (new method),,North Devon,,Normal value,Percentage (%),E07000043,4.51
+2021,Fraction of mortality attributable to particulate air pollution (new method),,North East Derbyshire,,Normal value,Percentage (%),E07000038,5.06
+2021,Fraction of mortality attributable to particulate air pollution (new method),,North East Lincolnshire,,Normal value,Percentage (%),E06000012,5.56
+2021,Fraction of mortality attributable to particulate air pollution (new method),,North Hertfordshire,,Normal value,Percentage (%),E07000099,5.69
+2021,Fraction of mortality attributable to particulate air pollution (new method),,North Kesteven,,Normal value,Percentage (%),E07000139,5.06
+2021,Fraction of mortality attributable to particulate air pollution (new method),,North Lincolnshire,,Normal value,Percentage (%),E06000013,4.82
+2021,Fraction of mortality attributable to particulate air pollution (new method),,North Norfolk,,Normal value,Percentage (%),E07000147,4.47
+2021,Fraction of mortality attributable to particulate air pollution (new method),,North Northamptonshire,,Normal value,Percentage (%),E06000061,5.95
+2021,Fraction of mortality attributable to particulate air pollution (new method),,North Somerset,,Normal value,Percentage (%),E06000024,5.04
+2021,Fraction of mortality attributable to particulate air pollution (new method),,North Tyneside,,Normal value,Percentage (%),E08000022,5.35
+2021,Fraction of mortality attributable to particulate air pollution (new method),,North Warwickshire,,Normal value,Percentage (%),E07000218,5.23
+2021,Fraction of mortality attributable to particulate air pollution (new method),,North West Leicestershire,,Normal value,Percentage (%),E07000134,5.66
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Northumberland,,Normal value,Percentage (%),E06000057,3.83
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Norwich,,Normal value,Percentage (%),E07000148,5.45
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Nottingham,,Normal value,Percentage (%),E06000018,5.94
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Nuneaton and Bedworth,,Normal value,Percentage (%),E07000219,5.41
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Oadby and Wigston,,Normal value,Percentage (%),E07000135,6.17
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Oldham,,Normal value,Percentage (%),E08000004,5.57
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Oxford,,Normal value,Percentage (%),E07000178,5.75
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Pendle,,Normal value,Percentage (%),E07000122,4.43
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Peterborough,,Normal value,Percentage (%),E06000031,5.25
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Plymouth,,Normal value,Percentage (%),E06000026,5.13
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Portsmouth,,Normal value,Percentage (%),E06000044,6.18
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Preston,,Normal value,Percentage (%),E07000123,4.73
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Reading,,Normal value,Percentage (%),E06000038,5.94
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Redbridge,,Normal value,Percentage (%),E09000026,6.39
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Redcar and Cleveland,,Normal value,Percentage (%),E06000003,4.42
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Redditch,,Normal value,Percentage (%),E07000236,5.26
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Reigate and Banstead,,Normal value,Percentage (%),E07000211,5.56
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Ribble Valley,,Normal value,Percentage (%),E07000124,4.28
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Richmond upon Thames,,Normal value,Percentage (%),E09000027,6.21
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Richmondshire,,Normal value,Percentage (%),E07000166,3.56
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Rochdale,,Normal value,Percentage (%),E08000005,5.34
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Rochford,,Normal value,Percentage (%),E07000075,5.59
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Rossendale,,Normal value,Percentage (%),E07000125,4.5
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Rother,,Normal value,Percentage (%),E07000064,4.53
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Rotherham,,Normal value,Percentage (%),E08000018,5.26
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Rugby,,Normal value,Percentage (%),E07000220,5.15
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Runnymede,,Normal value,Percentage (%),E07000212,6.05
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Rushcliffe,,Normal value,Percentage (%),E07000176,5.42
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Rushmoor,,Normal value,Percentage (%),E07000092,6.04
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Rutland,,Normal value,Percentage (%),E06000017,5.18
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Ryedale,,Normal value,Percentage (%),E07000167,3.94
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Salford,,Normal value,Percentage (%),E08000006,5.67
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Sandwell,,Normal value,Percentage (%),E08000028,6.45
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Scarborough,,Normal value,Percentage (%),E07000168,4.09
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Sedgemoor,,Normal value,Percentage (%),E07000188,5.35
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Sefton,,Normal value,Percentage (%),E08000014,5.88
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Selby,,Normal value,Percentage (%),E07000169,4.62
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Sevenoaks,,Normal value,Percentage (%),E07000111,5.16
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Sheffield,,Normal value,Percentage (%),E08000019,5.22
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Shropshire,,Normal value,Percentage (%),E06000051,4.31
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Slough,,Normal value,Percentage (%),E06000039,6.31
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Solihull,,Normal value,Percentage (%),E08000029,5.72
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Somerset West and Taunton,,Normal value,Percentage (%),E07000246,4.85
+2021,Fraction of mortality attributable to particulate air pollution (new method),,South Cambridgeshire,,Normal value,Percentage (%),E07000012,5.12
+2021,Fraction of mortality attributable to particulate air pollution (new method),,South Derbyshire,,Normal value,Percentage (%),E07000039,5.42
+2021,Fraction of mortality attributable to particulate air pollution (new method),,South Gloucestershire,,Normal value,Percentage (%),E06000025,5.73
+2021,Fraction of mortality attributable to particulate air pollution (new method),,South Hams,,Normal value,Percentage (%),E07000044,4.43
+2021,Fraction of mortality attributable to particulate air pollution (new method),,South Holland,,Normal value,Percentage (%),E07000140,4.98
+2021,Fraction of mortality attributable to particulate air pollution (new method),,South Kesteven,,Normal value,Percentage (%),E07000141,5.18
+2021,Fraction of mortality attributable to particulate air pollution (new method),,South Lakeland,,Normal value,Percentage (%),E07000031,3.68
+2021,Fraction of mortality attributable to particulate air pollution (new method),,South Norfolk,,Normal value,Percentage (%),E07000149,4.73
+2021,Fraction of mortality attributable to particulate air pollution (new method),,South Oxfordshire,,Normal value,Percentage (%),E07000179,5.35
+2021,Fraction of mortality attributable to particulate air pollution (new method),,South Ribble,,Normal value,Percentage (%),E07000126,4.69
+2021,Fraction of mortality attributable to particulate air pollution (new method),,South Somerset,,Normal value,Percentage (%),E07000189,5.17
+2021,Fraction of mortality attributable to particulate air pollution (new method),,South Staffordshire,,Normal value,Percentage (%),E07000196,5.12
+2021,Fraction of mortality attributable to particulate air pollution (new method),,South Tyneside,,Normal value,Percentage (%),E08000023,5.41
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Southampton,,Normal value,Percentage (%),E06000045,5.85
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Southend-on-Sea,,Normal value,Percentage (%),E06000033,5.77
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Southwark,,Normal value,Percentage (%),E09000028,6.85
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Spelthorne,,Normal value,Percentage (%),E07000213,6.1
+2021,Fraction of mortality attributable to particulate air pollution (new method),,St Albans,,Normal value,Percentage (%),E07000240,6.05
+2021,Fraction of mortality attributable to particulate air pollution (new method),,St. Helens,,Normal value,Percentage (%),E08000013,5.6
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Stafford,,Normal value,Percentage (%),E07000197,4.78
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Staffordshire Moorlands,,Normal value,Percentage (%),E07000198,4.71
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Stevenage,,Normal value,Percentage (%),E07000243,5.72
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Stockport,,Normal value,Percentage (%),E08000007,5.65
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Stockton-on-Tees,,Normal value,Percentage (%),E06000004,4.89
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Stoke-on-Trent,,Normal value,Percentage (%),E06000021,5.23
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Stratford-on-Avon,,Normal value,Percentage (%),E07000221,4.98
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Stroud,,Normal value,Percentage (%),E07000082,5.16
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Sunderland,,Normal value,Percentage (%),E08000024,5.17
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Surrey Heath,,Normal value,Percentage (%),E07000214,5.93
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Sutton,,Normal value,Percentage (%),E09000029,6.04
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Swale,,Normal value,Percentage (%),E07000113,5.12
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Swindon,,Normal value,Percentage (%),E06000030,5.91
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Tameside,,Normal value,Percentage (%),E08000008,5.73
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Tamworth,,Normal value,Percentage (%),E07000199,5.43
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Tandridge,,Normal value,Percentage (%),E07000215,5.25
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Teignbridge,,Normal value,Percentage (%),E07000045,4.82
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Telford and Wrekin,,Normal value,Percentage (%),E06000020,4.74
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Tendring,,Normal value,Percentage (%),E07000076,5.18
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Test Valley,,Normal value,Percentage (%),E07000093,5.36
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Tewkesbury,,Normal value,Percentage (%),E07000083,5.36
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Thanet,,Normal value,Percentage (%),E07000114,4.88
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Three Rivers,,Normal value,Percentage (%),E07000102,6.1
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Thurrock,,Normal value,Percentage (%),E06000034,5.91
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Tonbridge and Malling,,Normal value,Percentage (%),E07000115,5.2
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Torbay,,Normal value,Percentage (%),E06000027,4.94
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Torridge,,Normal value,Percentage (%),E07000046,4.28
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Tower Hamlets,,Normal value,Percentage (%),E09000030,7.04
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Trafford,,Normal value,Percentage (%),E08000009,5.43
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Tunbridge Wells,,Normal value,Percentage (%),E07000116,4.81
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Uttlesford,,Normal value,Percentage (%),E07000077,5.13
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Vale of White Horse,,Normal value,Percentage (%),E07000180,5.4
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Wakefield,,Normal value,Percentage (%),E08000036,5.1
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Walsall,,Normal value,Percentage (%),E08000030,6.11
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Waltham Forest,,Normal value,Percentage (%),E09000031,6.58
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Wandsworth,,Normal value,Percentage (%),E09000032,6.62
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Warrington,,Normal value,Percentage (%),E06000007,5.16
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Warwick,,Normal value,Percentage (%),E07000222,5.13
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Watford,,Normal value,Percentage (%),E07000103,6.28
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Waverley,,Normal value,Percentage (%),E07000216,5.33
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Wealden,,Normal value,Percentage (%),E07000065,4.68
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Welwyn Hatfield,,Normal value,Percentage (%),E07000241,6.14
+2021,Fraction of mortality attributable to particulate air pollution (new method),,West Berkshire,,Normal value,Percentage (%),E06000037,5.42
+2021,Fraction of mortality attributable to particulate air pollution (new method),,West Devon,,Normal value,Percentage (%),E07000047,4.27
+2021,Fraction of mortality attributable to particulate air pollution (new method),,West Lancashire,,Normal value,Percentage (%),E07000127,5.05
+2021,Fraction of mortality attributable to particulate air pollution (new method),,West Lindsey,,Normal value,Percentage (%),E07000142,4.81
+2021,Fraction of mortality attributable to particulate air pollution (new method),,West Northamptonshire,,Normal value,Percentage (%),E06000062,5.84
+2021,Fraction of mortality attributable to particulate air pollution (new method),,West Oxfordshire,,Normal value,Percentage (%),E07000181,5.23
+2021,Fraction of mortality attributable to particulate air pollution (new method),,West Suffolk,,Normal value,Percentage (%),E07000245,4.94
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Westminster,,Normal value,Percentage (%),E09000033,7.06
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Wigan,,Normal value,Percentage (%),E08000010,5.62
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Wiltshire,,Normal value,Percentage (%),E06000054,5.26
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Winchester,,Normal value,Percentage (%),E07000094,5.31
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Windsor and Maidenhead,,Normal value,Percentage (%),E06000040,5.93
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Wirral,,Normal value,Percentage (%),E08000015,4.86
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Woking,,Normal value,Percentage (%),E07000217,5.96
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Wokingham,,Normal value,Percentage (%),E06000041,5.88
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Wolverhampton,,Normal value,Percentage (%),E08000031,5.69
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Worcester,,Normal value,Percentage (%),E07000237,5.16
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Worthing,,Normal value,Percentage (%),E07000229,5.29
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Wychavon,,Normal value,Percentage (%),E07000238,4.99
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Wyre,,Normal value,Percentage (%),E07000128,4.99
+2021,Fraction of mortality attributable to particulate air pollution (new method),,Wyre Forest,,Normal value,Percentage (%),E07000239,5.09
+2021,Fraction of mortality attributable to particulate air pollution (new method),,York,,Normal value,Percentage (%),E06000014,4.43
+2021,Fraction of mortality attributable to particulate air pollution (new method),East Midlands,,,Normal value,Percentage (%),E12000004,5.56
+2021,Fraction of mortality attributable to particulate air pollution (new method),East of England,,,Normal value,Percentage (%),E12000006,5.47
+2021,Fraction of mortality attributable to particulate air pollution (new method),London,,,Normal value,Percentage (%),E12000007,6.48
+2021,Fraction of mortality attributable to particulate air pollution (new method),North East,,,Normal value,Percentage (%),E12000001,4.8
+2021,Fraction of mortality attributable to particulate air pollution (new method),North West,,,Normal value,Percentage (%),E12000002,5.3
+2021,Fraction of mortality attributable to particulate air pollution (new method),South East,,,Normal value,Percentage (%),E12000008,5.44
+2021,Fraction of mortality attributable to particulate air pollution (new method),South West,,,Normal value,Percentage (%),E12000009,5.12
+2021,Fraction of mortality attributable to particulate air pollution (new method),West Midlands,,,Normal value,Percentage (%),E12000005,5.48
+2021,Fraction of mortality attributable to particulate air pollution (new method),Yorkshire and The Humber,,,Normal value,Percentage (%),E12000003,5.02
+2021,Fraction of mortality attributable to particulate air pollution (new method),,,,Normal value,Percentage (%),E92000001,5.5
