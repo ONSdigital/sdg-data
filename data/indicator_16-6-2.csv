@@ -3,10 +3,10 @@ Year,Series,Age,Sex,Country,Region,Observation status,Unit measure,GeoCode,Value
 2023 Q2,Healthcare system,,,England,,Normal value,Percentage (%),E92000001,53.1
 2023 Q2,Healthcare system,,,England,North East,Normal value,Percentage (%),E12000001,51.6
 2023 Q2,Healthcare system,,,England,North West,Normal value,Percentage (%),E12000002,56.9
-2023 Q2,Healthcare system,,,England,Yorkshire and The Humber,Normal value,Percentage (%),E12000003,61.0
+2023 Q2,Healthcare system,,,England,Yorkshire and The Humber,Normal value,Percentage (%),E12000003,61
 2023 Q2,Healthcare system,,,England,East Midlands,Normal value,Percentage (%),E12000004,54.2
 2023 Q2,Healthcare system,,,England,West Midlands,Normal value,Percentage (%),E12000005,44.7
-2023 Q2,Healthcare system,,,England,East,Normal value,Percentage (%),E12000006,54.0
+2023 Q2,Healthcare system,,,England,East,Normal value,Percentage (%),E12000006,54
 2023 Q2,Healthcare system,,,England,London,Normal value,Percentage (%),E12000007,52.4
 2023 Q2,Healthcare system,,,England,South East,Normal value,Percentage (%),E12000008,49.7
 2023 Q2,Healthcare system,,,England,South West,Normal value,Percentage (%),E12000009,54.8
@@ -27,9 +27,9 @@ Year,Series,Age,Sex,Country,Region,Observation status,Unit measure,GeoCode,Value
 2023 Q2,Education system,,,England,Yorkshire and The Humber,Normal value,Percentage (%),E12000003,66.1
 2023 Q2,Education system,,,England,East Midlands,Normal value,Percentage (%),E12000004,65.6
 2023 Q2,Education system,,,England,West Midlands,Normal value,Percentage (%),E12000005,66.2
-2023 Q2,Education system,,,England,East,Normal value,Percentage (%),E12000006,73.0
+2023 Q2,Education system,,,England,East,Normal value,Percentage (%),E12000006,73
 2023 Q2,Education system,,,England,London,Normal value,Percentage (%),E12000007,69.7
-2023 Q2,Education system,,,England,South East,Normal value,Percentage (%),E12000008,66.0
+2023 Q2,Education system,,,England,South East,Normal value,Percentage (%),E12000008,66
 2023 Q2,Education system,,,England,South West,Normal value,Percentage (%),E12000009,64.9
 2023 Q2,Education system,,,Wales,,Normal value,Percentage (%),W92000004,60.8
 2023 Q2,Education system,,,Scotland,,Normal value,Percentage (%),S92000003,61.7
@@ -50,8 +50,8 @@ Year,Series,Age,Sex,Country,Region,Observation status,Unit measure,GeoCode,Value
 2023 Q2,Police,,,England,West Midlands,Normal value,Percentage (%),E12000005,64.2
 2023 Q2,Police,,,England,East,Normal value,Percentage (%),E12000006,66.7
 2023 Q2,Police,,,England,London,Normal value,Percentage (%),E12000007,58.6
-2023 Q2,Police,,,England,South East,Normal value,Percentage (%),E12000008,62.0
-2023 Q2,Police,,,England,South West,Normal value,Percentage (%),E12000009,62.0
+2023 Q2,Police,,,England,South East,Normal value,Percentage (%),E12000008,62
+2023 Q2,Police,,,England,South West,Normal value,Percentage (%),E12000009,62
 2023 Q2,Police,,,Wales,,Normal value,Percentage (%),W92000004,60.1
 2023 Q2,Police,,,Scotland,,Normal value,Percentage (%),S92000003,64.4
 2023 Q2,Police,16 to 24,,,,Normal value,Percentage (%),,58.3
@@ -62,24 +62,24 @@ Year,Series,Age,Sex,Country,Region,Observation status,Unit measure,GeoCode,Value
 2023 Q2,Police,75 and over,,,,Normal value,Percentage (%),,72.4
 2023 Q2,Police,,Male,,,Normal value,Percentage (%),,60.1
 2023 Q2,Police,,Female,,,Normal value,Percentage (%),,66.8
-2023 Q2,Police,,,,,Normal value,Percentage (%),,56.2
-2023 Q2,Police,,,England,,Normal value,Percentage (%),E92000001,56.4
-2023 Q2,Police,,,England,North East,Normal value,Percentage (%),E12000001,54.7
-2023 Q2,Police,,,England,North West,Normal value,Percentage (%),E12000002,57.6
-2023 Q2,Police,,,England,Yorkshire and The Humber,Normal value,Percentage (%),E12000003,48.3
-2023 Q2,Police,,,England,East Midlands,Normal value,Percentage (%),E12000004,56.4
-2023 Q2,Police,,,England,West Midlands,Normal value,Percentage (%),E12000005,53.7
-2023 Q2,Police,,,England,East,Normal value,Percentage (%),E12000006,59.9
-2023 Q2,Police,,,England,London,Normal value,Percentage (%),E12000007,59.7
-2023 Q2,Police,,,England,South East,Normal value,Percentage (%),E12000008,57.6
-2023 Q2,Police,,,England,South West,Normal value,Percentage (%),E12000009,55.6
-2023 Q2,Police,,,Wales,,Normal value,Percentage (%),W92000004,52.0
-2023 Q2,Police,,,Scotland,,Normal value,Percentage (%),S92000003,56.6
-2023 Q2,Police,16 to 24,,,,Normal value,Percentage (%),,51.4
-2023 Q2,Police,25 to 34,,,,Normal value,Percentage (%),,60.9
-2023 Q2,Police,35 to 49,,,,Normal value,Percentage (%),,55.4
-2023 Q2,Police,50 to 64,,,,Normal value,Percentage (%),,54.7
-2023 Q2,Police,65 to 74,,,,Normal value,Percentage (%),,54.5
-2023 Q2,Police,75 and over,,,,Normal value,Percentage (%),,62.2
-2023 Q2,Police,,Male,,,Normal value,Percentage (%),,53.7
-2023 Q2,Police,,Female,,,Normal value,Percentage (%),,58.7
+2023 Q2,Courts and legal system,,,,,Normal value,Percentage (%),,56.2
+2023 Q2,Courts and legal system,,,England,,Normal value,Percentage (%),E92000001,56.4
+2023 Q2,Courts and legal system,,,England,North East,Normal value,Percentage (%),E12000001,54.7
+2023 Q2,Courts and legal system,,,England,North West,Normal value,Percentage (%),E12000002,57.6
+2023 Q2,Courts and legal system,,,England,Yorkshire and The Humber,Normal value,Percentage (%),E12000003,48.3
+2023 Q2,Courts and legal system,,,England,East Midlands,Normal value,Percentage (%),E12000004,56.4
+2023 Q2,Courts and legal system,,,England,West Midlands,Normal value,Percentage (%),E12000005,53.7
+2023 Q2,Courts and legal system,,,England,East,Normal value,Percentage (%),E12000006,59.9
+2023 Q2,Courts and legal system,,,England,London,Normal value,Percentage (%),E12000007,59.7
+2023 Q2,Courts and legal system,,,England,South East,Normal value,Percentage (%),E12000008,57.6
+2023 Q2,Courts and legal system,,,England,South West,Normal value,Percentage (%),E12000009,55.6
+2023 Q2,Courts and legal system,,,Wales,,Normal value,Percentage (%),W92000004,52
+2023 Q2,Courts and legal system,,,Scotland,,Normal value,Percentage (%),S92000003,56.6
+2023 Q2,Courts and legal system,16 to 24,,,,Normal value,Percentage (%),,51.4
+2023 Q2,Courts and legal system,25 to 34,,,,Normal value,Percentage (%),,60.9
+2023 Q2,Courts and legal system,35 to 49,,,,Normal value,Percentage (%),,55.4
+2023 Q2,Courts and legal system,50 to 64,,,,Normal value,Percentage (%),,54.7
+2023 Q2,Courts and legal system,65 to 74,,,,Normal value,Percentage (%),,54.5
+2023 Q2,Courts and legal system,75 and over,,,,Normal value,Percentage (%),,62.2
+2023 Q2,Courts and legal system,,Male,,,Normal value,Percentage (%),,53.7
+2023 Q2,Courts and legal system,,Female,,,Normal value,Percentage (%),,58.7
