@@ -1,67 +1,70 @@
-Year,Sex,Unit measure,Unit multiplier,Observation status,Value
-2000,Female,GBP (£),Units,Normal value,178.2
-2001,Female,GBP (£),Units,Normal value,179.9
-2002,Female,GBP (£),Units,Normal value,195.6
-2003,Female,GBP (£),Units,Normal value,203.1
-2004,Female,GBP (£),Units,Normal value,217.2
-2005,Female,GBP (£),Units,Normal value,218.3
-2006,Female,GBP (£),Units,Normal value,222.3
-2007,Female,GBP (£),Units,Normal value,223.6
-2008,Female,GBP (£),Units,Normal value,229.5
-2009,Female,GBP (£),Units,Normal value,272.5
-2010,Female,GBP (£),Units,Normal value,255.5
-2011,Female,GBP (£),Units,Normal value,231.6
-2012,Female,GBP (£),Units,Normal value,256.6
-2013,Female,GBP (£),Units,Normal value,264.8
-2014,Female,GBP (£),Units,Normal value,270.6
-2015,Female,GBP (£),Units,Normal value,280.1
-2016,Female,GBP (£),Units,Normal value,290.4
-2017,Female,GBP (£),Units,Normal value,304.6
-2018,Female,GBP (£),Units,Normal value,310.2
-2019,Female,GBP (£),Units,Normal value,327.6
-2020,Female,GBP (£),Units,Normal value,331.6
-2021,Female,GBP (£),Units,Provisional value,363.5
-2000,Male,GBP (£),Units,Normal value,288.7
-2001,Male,GBP (£),Units,Normal value,300.0
-2002,Male,GBP (£),Units,Normal value,335.9
-2003,Male,GBP (£),Units,Normal value,342.5
-2004,Male,GBP (£),Units,Normal value,350.4
-2005,Male,GBP (£),Units,Normal value,356.6
-2006,Male,GBP (£),Units,Normal value,370.8
-2007,Male,GBP (£),Units,Normal value,410.7
-2008,Male,GBP (£),Units,Normal value,438.0
-2009,Male,GBP (£),Units,Normal value,459.8
-2010,Male,GBP (£),Units,Normal value,409.5
-2011,Male,GBP (£),Units,Normal value,411.8
-2012,Male,GBP (£),Units,Normal value,403.0
-2013,Male,GBP (£),Units,Normal value,443.1
-2014,Male,GBP (£),Units,Normal value,424.2
-2015,Male,GBP (£),Units,Normal value,432.2
-2016,Male,GBP (£),Units,Normal value,448.0
-2017,Male,GBP (£),Units,Normal value,462.0
-2018,Male,GBP (£),Units,Normal value,467.2
-2019,Male,GBP (£),Units,Normal value,490.5
-2020,Male,GBP (£),Units,Normal value,511.2
-2021,Male,GBP (£),Units,Provisional value,526.0
-2000,,GBP (£),Units,Normal value,259.6
-2001,,GBP (£),Units,Normal value,269.6
-2002,,GBP (£),Units,Normal value,297.7
-2003,,GBP (£),Units,Normal value,306.2
-2004,,GBP (£),Units,Normal value,316.4
-2005,,GBP (£),Units,Normal value,318.5
-2006,,GBP (£),Units,Normal value,325.6
-2007,,GBP (£),Units,Normal value,362.1
-2008,,GBP (£),Units,Normal value,373.5
-2009,,GBP (£),Units,Normal value,406.8
-2010,,GBP (£),Units,Normal value,361.8
-2011,,GBP (£),Units,Normal value,359.9
-2012,,GBP (£),Units,Normal value,355.5
-2013,,GBP (£),Units,Normal value,384.8
-2014,,GBP (£),Units,Normal value,373.2
-2015,,GBP (£),Units,Normal value,380.2
-2016,,GBP (£),Units,Normal value,393.3
-2017,,GBP (£),Units,Normal value,408.0
-2018,,GBP (£),Units,Normal value,414.6
-2019,,GBP (£),Units,Normal value,431.5
-2020,,GBP (£),Units,Normal value,451.6
-2021,,GBP (£),Units,Provisional value,468.1
+Year,Series,Sex,Units,Unit multiplier,Observation status,Value
+2000,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Normal value,178.2
+2001,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Normal value,179.9
+2002,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Normal value,195.6
+2003,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Normal value,203.1
+2004,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Normal value,217.2
+2005,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Normal value,218.3
+2006,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Normal value,222.3
+2007,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Normal value,223.6
+2008,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Normal value,229.5
+2009,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Normal value,272.5
+2010,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Normal value,255.5
+2011,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Normal value,231.6
+2012,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Normal value,256.6
+2013,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Normal value,264.8
+2014,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Normal value,270.6
+2015,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Normal value,280.1
+2016,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Normal value,290.4
+2017,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Normal value,304.6
+2018,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Normal value,310.2
+2019,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Normal value,327.6
+2020,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Normal value,331.6
+2021,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Normal value,363.5473635871991
+2022,Average weekly gross earnings of food producers by sex,Female,GBP (£),Units,Provisional value,379.4780736661454
+2000,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Normal value,288.7
+2001,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Normal value,300.0
+2002,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Normal value,335.9
+2003,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Normal value,342.5
+2004,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Normal value,350.4
+2005,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Normal value,356.6
+2006,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Normal value,370.8
+2007,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Normal value,410.7
+2008,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Normal value,438.0
+2009,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Normal value,459.8
+2010,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Normal value,409.5
+2011,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Normal value,411.8
+2012,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Normal value,403.0
+2013,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Normal value,443.1
+2014,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Normal value,424.2
+2015,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Normal value,432.2
+2016,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Normal value,448.0
+2017,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Normal value,462.0
+2018,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Normal value,467.2
+2019,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Normal value,490.5
+2020,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Normal value,511.2
+2021,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Normal value,526.0028367913609
+2022,Average weekly gross earnings of food producers by sex,Male,GBP (£),Units,Provisional value,552.2141509577904
+2000,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Normal value,259.6
+2001,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Normal value,269.6
+2002,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Normal value,297.7
+2003,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Normal value,306.2
+2004,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Normal value,316.4
+2005,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Normal value,318.5
+2006,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Normal value,325.6
+2007,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Normal value,362.1
+2008,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Normal value,373.5
+2009,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Normal value,406.8
+2010,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Normal value,361.8
+2011,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Normal value,359.9
+2012,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Normal value,355.5
+2013,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Normal value,384.8
+2014,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Normal value,373.2
+2015,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Normal value,380.2
+2016,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Normal value,393.3
+2017,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Normal value,408.0
+2018,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Normal value,414.6
+2019,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Normal value,431.5
+2020,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Normal value,451.6
+2021,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Normal value,468.0642243244224
+2022,Average weekly gross earnings of food producers by sex,,GBP (£),Units,Provisional value,491.5294410340893

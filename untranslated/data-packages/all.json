@@ -6408,6 +6408,16 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average weekly gross earnings of food producers by sex",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -6419,8 +6429,14 @@
             }
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GBP (£)",
+                ""
+              ]
+            }
           },
           {
             "name": "Unit multiplier",
