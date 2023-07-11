@@ -1,39 +1,44 @@
 Year,Series,Unit multiplier,Unit measure,Observation status,Value
-2012,"1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2013,"1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2014,"1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2015,"1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2016,"1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2017,"1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2018,"1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2019,"1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2020,"1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2021,"1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2022,"1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2021,"2) Countries that are parties to the Nagoya Protocol (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2022,"2) Countries that are parties to the Nagoya Protocol (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2016,"3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2017,"3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2018,"3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2019,"3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2020,"3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2021,"3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2022,"3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2016,"4) Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2017,"4) Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES, 0 = NO)",Units,Number,Missing value,
-2018,"4) Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES, 0 = NO)",Units,Number,Missing value,
-2019,"4) Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES, 0 = NO)",Units,Number,Missing value,
-2020,"4) Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES, 0 = NO)",Units,Number,Missing value,
-2021,"4) Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2022,"4) Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES, 0 = NO)",Units,Number,Normal value,1
-2012,5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK,Units,Number,Normal value,413
-2013,5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK,Units,Number,Normal value,507
-2014,5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK,Units,Number,Normal value,604
-2015,5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK,Units,Number,Normal value,740
-2016,5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK,Units,Number,Normal value,912
-2017,5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK,Units,Number,Normal value,1103
-2018,5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK,Units,Number,Normal value,1282
-2019,5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK,Units,Number,Normal value,1501
-2020,5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK,Units,Number,Normal value,1609
-2021,5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK,Units,Number,Normal value,1667
-2022,5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK,Units,Number,Normal value,1690
+2012,1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO),Units,Number,Normal value,1.0
+2013,1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO),Units,Number,Normal value,1.0
+2014,1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO),Units,Number,Normal value,1.0
+2015,1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO),Units,Number,Normal value,1.0
+2016,1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO),Units,Number,Normal value,1.0
+2017,1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO),Units,Number,Normal value,1.0
+2018,1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO),Units,Number,Normal value,1.0
+2019,1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO),Units,Number,Normal value,1.0
+2020,1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO),Units,Number,Normal value,1.0
+2021,1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO),Units,Number,Normal value,1.0
+2022,1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO),Units,Number,Normal value,1.0
+2016,2) Countries that are parties to the Nagoya Protocol (1 = YES; 0 = NO),Units,Number,Normal value,1.0
+2017,2) Countries that are parties to the Nagoya Protocol (1 = YES; 0 = NO),Units,Number,Normal value,1.0
+2018,2) Countries that are parties to the Nagoya Protocol (1 = YES; 0 = NO),Units,Number,Normal value,1.0
+2019,2) Countries that are parties to the Nagoya Protocol (1 = YES; 0 = NO),Units,Number,Normal value,1.0
+2020,2) Countries that are parties to the Nagoya Protocol (1 = YES; 0 = NO),Units,Number,Normal value,1.0
+2021,2) Countries that are parties to the Nagoya Protocol (1 = YES; 0 = NO),Units,Number,Normal value,1.0
+2022,2) Countries that are parties to the Nagoya Protocol (1 = YES; 0 = NO),Units,Number,Normal value,1.0
+2016,"3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",Units,Number,Normal value,1.0
+2017,"3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",Units,Number,Normal value,1.0
+2018,"3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",Units,Number,Normal value,1.0
+2019,"3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",Units,Number,Normal value,1.0
+2020,"3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",Units,Number,Normal value,1.0
+2021,"3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",Units,Number,Normal value,1.0
+2022,"3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",Units,Number,Normal value,1.0
+2016,"4) Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO)",Units,Number,Normal value,1.0
+2017,"4) Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO)",Units,Number,Missing value,
+2018,"4) Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO)",Units,Number,Missing value,
+2019,"4) Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO)",Units,Number,Missing value,
+2020,"4) Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO)",Units,Number,Missing value,
+2021,"4) Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO)",Units,Number,Normal value,1.0
+2022,"4) Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO)",Units,Number,Normal value,1.0
+2012,5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK,Units,Number,Normal value,413.0
+2013,5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK,Units,Number,Normal value,507.0
+2014,5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK,Units,Number,Normal value,604.0
+2015,5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK,Units,Number,Normal value,740.0
+2016,5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK,Units,Number,Normal value,912.0
+2017,5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK,Units,Number,Normal value,1103.0
+2018,5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK,Units,Number,Normal value,1282.0
+2019,5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK,Units,Number,Normal value,1501.0
+2020,5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK,Units,Number,Normal value,1609.0
+2021,5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK,Units,Number,Normal value,1667.0
+2022,5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the UK,Units,Number,Normal value,1690.0
