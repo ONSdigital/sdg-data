@@ -15,152 +15,23 @@
             "type": "string"
           },
           {
-            "name": "Abuse type",
+            "name": "Type of non-partner abuse",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rape or assault by penetration (including attempts)",
-                "Indecent exposure or unwanted touching",
+                "Sexual (including attempts)",
+                "Stalking",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "Abuse sub-type",
             "type": "string",
             "constraints": {
               "enum": [
-                "16 to 19",
-                "20 to 24",
-                "25 to 34",
-                "35 to 44",
-                "45 to 54",
-                "55 to 59",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Place of occurrence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "In own home",
-                "At the offender's home",
-                "In a park/other open public place",
-                "In a pub/club/disco",
-                "On the street",
-                "At school/university/place of study",
-                "In a car park",
-                "At work",
-                "On public transport",
-                "Somewhere else",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Ethnicity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "White",
-                "Mixed/Multiple ethnic groups",
-                "Asian/Asian British",
-                "Black/African/Caribbean/Black British",
-                "Other ethnic group",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Ethnic group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "English/Welsh/Scottish/Northern Irish/British",
-                "Irish",
-                "Any other White background",
-                "White and Black Caribbean",
-                "Indian",
-                "Pakistani",
-                "Bangladeshi",
-                "Chinese",
-                "Any other Asian background",
-                "African",
-                "Caribbean",
-                "Any other ethnic group",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Disability status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Disabled (GSS harmonised)",
-                "Non-disabled (GSS harmonised)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Migratory status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Born in the UK",
-                "Not born in the UK",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "North East",
-                "North West",
-                "Yorkshire and the Humber",
-                "East Midlands",
-                "West Midlands",
-                "East",
-                "London",
-                "South East",
-                "South West",
-                "Wales",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Household income",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Less than £10,000",
-                "£10,000 to less than £20,000",
-                "£20,000 to less than £30,000",
-                "£30,000 to less than £40,000",
-                "£40,000 to less than £50,000",
-                "£50,000 or more",
-                "No income stated or not enough information provided",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Highest qualification",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Degree or diploma",
-                "Apprenticeship or A/AS level",
-                "O level/GCSE",
-                "Other qualification",
-                "No qualification",
+                "Sexual assault by rape or penetration (including attempts)",
+                "Indecent exposure or unwanted sexual touching",
                 ""
               ]
             }
@@ -170,23 +41,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Partner/ex-partner",
-                "Other known",
-                "Stranger",
                 "Family member",
                 ""
               ]
             }
           },
           {
-            "name": "Frequency of sexual assault",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "Once",
-                "Twice",
-                "Three times",
-                "More than three times",
+                "16 to 59",
+                "16 and over",
                 ""
               ]
             }
@@ -201,10 +67,6 @@
           },
           {
             "name": "Unit measure",
-            "type": "string"
-          },
-          {
-            "name": "GeoCode",
             "type": "string"
           },
           {
