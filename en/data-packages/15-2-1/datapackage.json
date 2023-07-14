@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Growth rate (%)",
                 "Area (000s hectares)",
+                "Growth rate (%)",
                 "Tonnes per hectare",
                 "Percentage (%)",
                 ""
@@ -34,11 +34,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Woodland area net change",
-                "Above-ground biomass stock",
-                "Percentage of woodland within protected areas",
-                "Percentage of woodland under long-term management plan",
-                "Woodland area under certification scheme",
+                "1) Woodland area",
+                "2) Above-ground biomass stock",
+                "3) Percentage of woodland within protected areas",
+                "4) Percentage of woodland under long-term management plan",
+                "5) Woodland area under certification schemes",
                 ""
               ]
             },
