@@ -15,17 +15,27 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Greenhouse gas emissions within UK borders",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Gas",
             "type": "string",
             "constraints": {
               "enum": [
-                "Net CO2 emissions (emissions minus removals)",
-                "Methane (CH4)",
-                "Nitrous oxide (N2O)",
                 "Hydrofluorocarbons (HFC)",
+                "Methane (CH4)",
+                "Net CO2 emissions (emissions minus removals)",
+                "Nitrogen trifluoride (NF3)",
+                "Nitrous oxide (N2O)",
                 "Perfluorocarbons (PFC)",
                 "Sulphur hexafluoride (SF6)",
-                "Nitrogen trifluoride (NF3)",
                 ""
               ]
             }
