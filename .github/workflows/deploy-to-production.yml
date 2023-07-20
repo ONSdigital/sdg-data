@@ -47,6 +47,9 @@ jobs:
     - name: Build data
       run: |
         python scripts/build_data.py
+    - name: Place public files
+      run: |
+        cp public/robots-prod.txt _site/robots.txt
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
