@@ -15,6 +15,8 @@ Year,Age,Region,Local authority,Unit measure,Observation status,GeoCode,Value
 2011,3,London,,Percentage (%),Normal value,E12000007,85.0
 2011,4,London,,Percentage (%),Normal value,E12000007,92.0
 2011,3 and 4,London,,Percentage (%),Normal value,E12000007,88.0
+2018,,Inner London,,Percentage (%),Normal value,E13000001,77.0
+2018,,Outer London,,Percentage (%),Normal value,E13000002,84.3
 2011,2,North East,,Percentage (%),Missing data,E12000001,
 2011,3,North East,,Percentage (%),Normal value,E12000001,96.0
 2011,4,North East,,Percentage (%),Normal value,E12000001,99.0
@@ -329,12 +331,10 @@ Year,Age,Region,Local authority,Unit measure,Observation status,GeoCode,Value
 2018,3,South West,,Percentage (%),Normal value,E12000009,95.9
 2018,4,South West,,Percentage (%),Normal value,E12000009,97.5
 2018,3 and 4,South West,,Percentage (%),Normal value,E12000009,96.8
-2018,,Inner London,,Percentage (%),Normal value,E13000001,77.0
 2018,2,Inner London,,Percentage (%),Normal value,E13000001,59.6
 2018,3,Inner London,,Percentage (%),Normal value,E13000001,78.9
 2018,4,Inner London,,Percentage (%),Normal value,E13000001,81.3
 2018,3 and 4,Inner London,,Percentage (%),Normal value,E13000001,80.1
-2018,,Outer London,,Percentage (%),Normal value,E13000002,84.3
 2018,2,Outer London,,Percentage (%),Normal value,E13000002,62.7
 2018,3,Outer London,,Percentage (%),Normal value,E13000002,84.9
 2018,4,Outer London,,Percentage (%),Normal value,E13000002,90.2
