@@ -27,6 +27,7 @@ while True:
         continue
         
 
+
 # set text to show on archived indicator pages depending on why it was archived during the UN 2020 Comprehensive Review
 archive_types = {
     "deleted": "This indicator was deleted following <a href='https://sdgdata.gov.uk/updates/2021/02/17/2020-indicator-changes.html'>indicator changes</a> from the United Nations 2020 Comprehensive Review.",
