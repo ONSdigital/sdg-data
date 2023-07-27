@@ -36,6 +36,7 @@ Deprivation quantile,1,5
 Deprivation quintile,1,5
 Disability status (household),1,2
 Disability status,16,13
+Disadvantaged status,1,2
 Disposable income decile,1,10
 Disposal method,1,5
 Economic activity,1,17
@@ -43,7 +44,7 @@ Education indicator,1,134
 Educational measure,1,16
 Educational subject,1,3
 Employment status,3,16
-Ethnic group,10,54
+Ethnic group,10,50
 Ethnic Group,1,4
 Ethnicity of household reference person (hrp),1,5
 Ethnicity,15,21
@@ -51,10 +52,12 @@ Exposure category,1,3
 Facility type,1,3
 Fatality,1,2
 FGM type,1,8
+First language,1,3
 Flight category,1,2
 Food security level,1,2
 Food type,1,10
-Free school meals,2,2
+Free school meal status,1,2
+Free school meals,1,2
 Gas,1,7
 Gender identity,1,2
 Gender,1,2
@@ -93,8 +96,8 @@ Learning sub-category (higher),1,3
 Legislative authority,1,6
 Length of residence,1,6
 Level of reporting,1,2
-Local Authority,7,538
-Local authority,4,363
+Local Authority,6,536
+Local authority,5,367
 Main method of contraception,2,2
 Malaria species,1,7
 Manufacturing industry,1,9
@@ -139,14 +142,14 @@ Sector,4,21
 Security,1,2
 Service level,1,5
 Sex by disability,1,2
-Sex,56,8
+Sex,56,9
 Sexual orientation,2,4
 Skill,1,10
 Socio-economic classification,2,8
 Source of revenue,1,4
 Source sub-category,1,2
 Source,1,5
-Special educational needs,1,2
+Special educational needs (SEN) status,1,2
 Speed (Mb/sec),1,3
 Standard accounting tools,1,2
 State support detail,1,4
