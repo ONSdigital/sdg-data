@@ -31,7 +31,6 @@ The main data set, the raw data lives in `/data/` in the repo.
 /data/1-2-1.csv
 /data/1-2-1.json
 ```
- 
 e.g. https://ONSdigital.github.io/sdg-data/data/1-2-1.json
 
 ### Edges
