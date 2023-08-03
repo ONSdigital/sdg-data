@@ -1,368 +1,537 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Adur,2,1
-Allerdale,2,1
-Amber Valley,2,1
-Arun,2,1
-Ashfield,2,1
-Ashford,2,1
-Aylesbury Vale,2,1
-Babergh,2,1
-Barking and Dagenham,315,5
-Barnet,315,5
-Barnsley,312,5
-Barrow-in-Furness,2,1
-Basildon,2,1
-Basingstoke and Deane,2,1
-Bassetlaw,2,1
-Bath and North East Somerset,308,5
-Bedford,310,5
-Bexley,315,5
-Birmingham,310,5
-Blaby,2,1
-Blackburn with Darwen,310,5
-Blackpool,314,5
-Bolsover,2,1
-Bolton,310,5
-Boston,2,1
-"Bournemouth, Christchurch and Poole",310,5
-Bournemouth,93,3
-Bracknell Forest,314,5
-Bradford,310,5
-Braintree,2,1
-Breckland,2,1
-Brent,315,5
-Brentwood,2,1
-Brighton and Hove,310,5
-"Bristol, City of",308,4
-Bristol,2,1
-Broadland,2,1
-Bromley,315,5
-Bromsgrove,2,1
-Broxbourne,2,1
-Broxtowe,2,1
-Buckinghamshire UA,4,1
-Buckinghamshire,308,4
-Burnley,2,1
-Bury,308,5
-Calderdale,310,5
-Cambridge,2,1
-Cambridgeshire,308,4
-Camden,313,5
-Cannock Chase,2,1
-Canterbury,2,1
-Carlisle,2,1
-Castle Point,2,1
-Central Bedfordshire,310,5
-Charnwood,2,1
-Chelmsford,2,1
-Cheltenham,2,1
-Cherwell,2,1
-Cheshire East,310,5
-Cheshire West and Chester,310,5
-Chesterfield,2,1
-Chichester,2,1
-Chiltern,2,1
-Chorley,2,1
-Christchurch,2,1
-City of London,177,3
-Colchester,2,1
-Copeland,2,1
-Corby,2,1
-Cornwall,315,5
-Cotswold,2,1
-County Durham,312,5
-Coventry,308,5
-Craven,2,1
-Crawley,2,1
-Croydon,315,5
-Cumbria,312,4
-Dacorum,2,1
-Darlington,314,5
-Dartford,2,1
-Daventry,2,1
-Derby,310,5
-Derbyshire Dales,2,1
-Derbyshire,308,4
-Devon,308,4
-Doncaster,310,5
-Dorset,314,5
-Dover,2,1
-Dudley,310,5
-Ealing,315,5
-East Cambridgeshire,2,1
-East Devon,2,1
-East Dorset,2,1
-East Hampshire,2,1
-East Hertfordshire,2,1
-East Lindsey,2,1
-East Northamptonshire,2,1
-East Riding of Yorkshire,314,5
-East Staffordshire,2,1
-East Suffolk,3,1
-East Sussex,308,4
-Eastbourne,2,1
-Eastleigh,2,1
-Eden,2,1
-Elmbridge,2,1
-Enfield,315,5
-Epping Forest,2,1
-Epsom and Ewell,2,1
-Erewash,2,1
-Essex,308,4
-Exeter,2,1
-Fareham,2,1
-Fenland,2,1
-Folkestone & Hythe,2,1
-Forest Heath,2,1
-Forest of Dean,2,1
-Fylde,2,1
-Gateshead,312,5
-Gedling,2,1
-Gloucester,2,1
-Gloucestershire,308,4
-Gosport,2,1
-Gravesham,2,1
-Great Yarmouth,2,1
-Greenwich,315,5
-Guildford,2,1
-Hackney,315,5
-Halton,322,5
-Hambleton,2,1
-Hammersmith and Fulham,315,5
-Hampshire,308,4
-Harborough,2,1
-Haringey,315,5
-Harlow,2,1
-Harrogate,2,1
-Harrow,315,5
-Hart,2,1
-Hartlepool,318,5
-Hastings,2,1
-Havant,2,1
-Havering,317,5
-"Herefordshire, County of",313,4
+Aberdeen City and Aberdeenshire,1,1
+Aberdeen City,7,2
+Aberdeenshire,7,2
+Adur,10,3
+Allerdale,10,3
+Amber Valley,10,3
+Angus and Dundee City,1,1
+Angus,7,2
+Antrim and Newtownabbey,8,3
+Ards and North Down,8,3
+Argyll and Bute,7,2
+"Armagh City, Banbridge and Craigavon",8,3
+Arun,10,3
+Ashfield,10,3
+Ashford,10,3
+Aylesbury Vale,9,2
+Babergh,10,3
+Barking and Dagenham,8,4
+Barking & Dagenham and Havering,1,1
+Barnet,9,5
+"Barnsley, Doncaster and Rotherham",1,1
+Barnsley,14,5
+Barrow-in-Furness,10,3
+Basildon,10,3
+Basingstoke and Deane,10,3
+Bassetlaw,10,3
+"Bath and North East Somerset, North Somerset and South Gloucestershire",1,1
+Bath and North East Somerset,14,5
+Bedford,15,6
+Bedfordshire CC,1,1
+Bedfordshire (Discontinued),1,1
+Belfast,8,3
+Berkshire,1,1
+Bexley and Greenwich,1,1
+Bexley,14,5
+Birmingham,15,6
+Blaby,10,3
+Blackburn with Darwen,15,6
+Blackpool,15,6
+Blaenau Gwent,7,2
+Bolsover,10,3
+Bolton,14,5
+Boston,10,3
+Bournemouth and Poole,1,1
+Bournemouth Christchurch and Poole,1,1
+"Bournemouth, Christchurch and Poole",1,1
+Bournemouth,7,3
+Bracknell Forest,14,5
+Bradford,15,6
+Braintree,10,3
+Breckland and South Norfolk,1,1
+Breckland,10,3
+Brent,9,5
+Brentwood,10,3
+Bridgend and Neath Port Talbot,1,1
+Bridgend,7,2
+Brighton and Hove,15,6
+"Bristol, City of",9,5
+Broadland,10,3
+Bromley,15,6
+Bromsgrove,10,3
+Broxbourne,10,3
+Broxtowe,10,3
+Buckinghamshire CC,1,1
+Buckinghamshire,5,3
+Burnley,10,3
+Bury,14,5
+Caerphilly,7,2
+Calderdale and Kirklees,1,1
+"Calderdale, Kirklees and Wakefield",1,1
+Calderdale,14,5
+Cambridge,10,3
+Cambridgeshire CC,1,1
+Cambridgeshire,4,2
+Camden and City of London,1,1
+Camden,8,4
+Cannock Chase,10,3
+Canterbury,10,3
+Cardiff and Vale of Glamorgan,1,1
+Cardiff,7,2
+Carlisle,10,3
+Carmarthenshire,7,2
+Castle Point,4,2
+Causeway Coast and Glens,8,3
+Central Bedfordshire,15,6
+Central Hampshire,1,1
+Central Valleys,1,1
+Ceredigion,7,2
+Charnwood,10,3
+Chelmsford,10,3
+Cheltenham,4,2
+Cherwell,10,3
+Cheshire CC,1,1
+Cheshire (Discontinued),1,1
+Cheshire East,15,6
+Cheshire West and Chester,15,6
+Chesterfield,10,3
+Chichester,10,3
+Chiltern,9,2
+Chorley and West Lancashire,1,1
+Chorley,10,3
+Christchurch,9,2
+City of Edinburgh,7,2
+City of London,8,4
+Clackmannanshire and Fife,1,1
+Clackmannanshire,7,2
+Colchester,10,3
+Conwy and Denbighshire,1,1
+Conwy,7,2
+Copeland,10,3
+Corby,9,2
+Cornwall and Isles of Scilly,1,1
+Cornwall & Isles of Scilly,3,1
+Cornwall,11,4
+Cotswold,10,3
+County Durham,14,5
+Coventry,15,6
+Craven,10,3
+Crawley,10,3
+Croydon,9,5
+Cumbria,4,2
+Dacorum,10,3
+Darlington,15,6
+Dartford,10,3
+Daventry,9,2
+Denbighshire,7,2
+Derby,9,5
+Derbyshire Dales,10,3
+Derbyshire,4,2
+Derry City and Strabane,8,3
+Devon CC,1,1
+Devon,4,2
+Doncaster,14,5
+Dorset CC,1,1
+Dorset,5,3
+Dover,10,3
+Dudley and Sandwell,1,1
+Dudley,9,5
+Dumfries and Galloway,7,2
+Dumfries & Galloway,1,1
+Dundee City,7,2
+Durham CC,1,1
+Ealing,9,5
+East Ayrshire and North Ayrshire mainland,1,1
+East Ayrshire,7,2
+East Cambridgeshire,10,3
+East Cumbria,1,1
+East Derbyshire,1,1
+East Devon,10,3
+East Dorset,9,2
+"East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond",1,1
+East Dunbartonshire,7,2
+East Hampshire,10,3
+East Hertfordshire,10,3
+East Kent,1,1
+East Lancashire,1,1
+East Lindsey,10,3
+East Lothian and Midlothian,1,1
+East Lothian,7,2
+East Merseyside,1,1
+East Northamptonshire,9,2
+East of Northern Ireland,1,1
+East Renfrewshire,7,2
+East Riding of Yorkshire,15,6
+East Staffordshire,10,3
+East Suffolk,1,1
+East Surrey,1,1
+East Sussex CC,1,1
+East Sussex,4,2
+Eastbourne,4,2
+Eastleigh,10,3
+Eden,10,3
+"Edinburgh, City of",1,1
+Elmbridge,10,3
+Enfield,15,6
+Epping Forest,10,3
+Epsom and Ewell,10,3
+Erewash,10,3
+Essex CC,1,1
+Essex Haven Gateway,1,1
+Essex Thames Gateway,1,1
+Essex,4,2
+Exeter,10,3
+Falkirk,8,3
+Fareham,10,3
+Fenland,10,3
+Fermanagh and Omagh,8,3
+Fife,7,2
+Flintshire and Wrexham,1,1
+Flintshire,7,2
+Folkestone and Hythe,4,2
+Forest Heath,9,2
+Forest of Dean,10,3
+Fylde,10,3
+Gateshead,14,5
+Gedling,10,3
+Glasgow City,8,3
+Gloucester,4,2
+Gloucestershire,5,3
+Gosport,4,2
+Gravesham,10,3
+Great Yarmouth,10,3
+Greater Manchester North East,1,1
+Greater Manchester North West,1,1
+Greater Manchester North,1,1
+Greater Manchester South East,1,1
+Greater Manchester South West,1,1
+Greater Manchester South,1,1
+Greenwich,8,4
+Guildford,10,3
+Gwent Valleys,1,1
+Gwynedd,8,3
+Hackney and Newham,1,1
+Hackney,14,5
+Halton and Warrington,1,1
+Halton,14,5
+Hambleton,10,3
+Hammersmith and Fulham,8,4
+Hampshire CC,1,1
+Hampshire,4,2
+Harborough,10,3
+Haringey and Islington,1,1
+Haringey,8,4
+Harlow,4,2
+Harrogate,10,3
+Harrow and Hillingdon,1,1
+Harrow,14,5
+Hart,10,3
+Hartlepool and Stockton-on-Tees,1,1
+Hartlepool,14,5
+Hastings,4,2
+Havant,10,3
+Havering,14,5
+Heart of Essex,1,1
+"Herefordshire, County of",8,4
 Herefordshire,7,2
-Hertfordshire,308,4
-Hertsmere,2,1
-High Peak,2,1
-Hillingdon,315,5
-Hinckley and Bosworth,2,1
-Horsham,2,1
-Hounslow,315,5
-Huntingdonshire,2,1
-Hyndburn,2,1
-Ipswich,2,1
-Isle of Wight,316,5
-Isles of Scilly,125,3
-Islington,317,5
-Kensington and Chelsea,317,5
-Kent,308,4
-Kettering,2,1
-King's Lynn and West Norfolk,2,1
-"Kingston upon Hull, City of",34,4
-"Kingston Upon Hull, City of",276,1
-Kingston upon Hull,2,1
-Kingston Upon Thames,276,1
-Kingston upon Thames,41,5
-Kirklees,310,5
-Knowsley,312,5
-Lambeth,315,5
-Lancashire,308,4
-Lancaster,2,1
-Leeds,310,5
-Leicester,310,5
-Leicestershire,308,4
-Lewes,2,1
-Lewisham,315,5
-Lichfield,2,1
-Lincoln,2,1
-Lincolnshire,308,4
-Liverpool,310,5
-Luton,310,5
-Maidstone,2,1
-Maldon,2,1
-Malvern Hills,2,1
-Manchester,310,5
-Mansfield,2,1
-Medway,310,5
-Melton,2,1
-Mendip,2,1
-Merton,315,5
-Mid Devon,2,1
-Mid Suffolk,2,1
-Mid Sussex,2,1
-Middlesbrough,310,5
-Milton Keynes,310,5
-Mole Valley,2,1
-New Forest,2,1
-Newark and Sherwood,2,1
-Newcastle-under-Lyme,2,1
-Newcastle Upon Tyne,276,1
-Newcastle upon Tyne,36,5
-Newham,315,5
-Norfolk,308,4
-North Devon,2,1
-North Dorset,2,1
-North East Derbyshire,2,1
-North East Lincolnshire,314,5
-North Hertfordshire,2,1
-North Kesteven,2,1
-North Lincolnshire,310,5
-North Norfolk,2,1
-North Northamptonshire,305,5
-North Somerset,316,5
-North Tyneside,312,5
-North Warwickshire,2,1
-North West Leicestershire,2,1
-North Yorkshire,308,4
-Northampton,2,1
-Northamptonshire,207,4
-Northumberland,324,5
-Norwich,2,1
-Nottingham,310,5
-Nottinghamshire,308,4
-Nuneaton and Bedworth,2,1
-Oadby and Wigston,2,1
-Oldham,310,5
-Oxford,2,1
-Oxfordshire,308,4
-Pendle,2,1
-Peterborough,310,5
-Plymouth,310,5
-Poole,97,3
-Portsmouth,310,5
-Preston,2,1
-Purbeck,2,1
-Reading,310,5
-Redbridge,315,5
-Redcar and Cleveland,324,5
-Redditch,2,1
-Reigate and Banstead,2,1
-Ribble Valley,2,1
-Richmond upon Thames,41,5
-Richmond Upon Thames,276,1
-Richmondshire,2,1
-Rochdale,320,5
-Rochford,2,1
-Rossendale,2,1
-Rother,2,1
-Rotherham,310,5
-Rugby,2,1
-Runnymede,2,1
-Rushcliffe,2,1
-Rushmoor,2,1
-Rutland,300,3
-Ryedale,2,1
-Salford,310,5
-Sandwell,310,5
-Scarborough,2,1
-Sedgemoor,2,1
-Sefton,312,5
-Selby,2,1
-Sevenoaks,2,1
-Sheffield,308,5
-Shropshire,308,5
-Slough,310,5
-Solihull,312,5
-Somerset West and Taunton,3,1
-Somerset,308,4
-South Bucks,2,1
-South Cambridgeshire,2,1
-South Derbyshire,2,1
-South Gloucestershire,312,5
-South Hams,2,1
-South Holland,2,1
-South Kesteven,2,1
-South Lakeland,2,1
-South Norfolk,2,1
-South Northamptonshire,2,1
-South Oxfordshire,2,1
-South Ribble,2,1
-South Somerset,2,1
-South Staffordshire,2,1
-South Tyneside,312,5
-Southampton,310,5
-Southend-on-Sea,310,5
-Southwark,315,5
-Spelthorne,2,1
-St Albans,2,1
-St. Edmundsbury,2,1
-St. Helens,318,5
-Stafford,2,1
-Staffordshire Moorlands,2,1
-Staffordshire,308,4
-Stevenage,2,1
-Stockport,308,5
-Stockton-on-Tees,312,5
-Stoke-on-Trent,310,5
-Stratford-on-Avon,2,1
-Stroud,2,1
-Suffolk Coastal,2,1
-Suffolk,308,4
-Sunderland,314,5
-Surrey Heath,2,1
-Surrey,308,4
-Sutton,315,5
-Swale,2,1
-Swindon,310,5
-Tameside,306,5
-Tamworth,2,1
-Tandridge,2,1
-Taunton Deane,2,1
-Teignbridge,2,1
-Telford and Wrekin,308,5
-Tendring,2,1
-Test Valley,2,1
-Tewkesbury,2,1
-Thanet,2,1
-Three Rivers,2,1
-Thurrock,310,5
-Tonbridge and Malling,2,1
-Torbay,314,5
-Torridge,2,1
-Tower Hamlets,315,5
-Trafford,310,5
-Tunbridge Wells,2,1
-Uttlesford,2,1
-Vale of White Horse,2,1
-Wakefield,312,5
-Walsall,310,5
-Waltham Forest,313,5
-Wandsworth,315,5
-Warrington,314,5
-Warwick,2,1
-Warwickshire,308,4
-Watford,2,1
-Waveney,2,1
-Waverley,2,1
-Wealden,2,1
-Wellingborough,2,1
-Welwyn Hatfield,2,1
-West Berkshire,308,5
-West Devon,2,1
-West Dorset,2,1
-West Lancashire,2,1
-West Lindsey,2,1
-West Northamptonshire,305,5
-West Oxfordshire,2,1
-West Somerset,2,1
-West Suffolk,3,1
-West Sussex,308,4
-Westminster,315,5
-Weymouth and Portland,2,1
-Wigan,310,5
-Wiltshire,310,5
-Winchester,2,1
-Windsor and Maidenhead,310,5
-Wirral,310,5
-Woking,2,1
-Wokingham,310,5
-Wolverhampton,310,5
-Worcester,2,1
-Worcestershire,308,4
-Worthing,2,1
-Wychavon,2,1
-Wycombe,2,1
-Wyre Forest,2,1
-Wyre,2,1
-York,308,5
+Hertfordshire,5,3
+Hertsmere,10,3
+High Peak,10,3
+Highland,7,2
+Highlands and Islands,1,1
+Hillingdon,14,5
+Hinckley and Bosworth,10,3
+Horsham,10,3
+Hounslow and Richmond upon Thames,1,1
+Hounslow,8,4
+Huntingdonshire,10,3
+Hyndburn,10,3
+Inner London - East,1,1
+Inner London - West,1,1
+"Inverclyde, East Renfrewshire and Renfrewshire",1,1
+Inverclyde,7,2
+Ipswich,4,2
+Isle of Anglesey,8,3
+Isle of Wight,15,6
+Isles of Scilly,11,4
+Islington,8,4
+Kensington and Chelsea,8,4
+Kensington & Chelsea and Hammersmith & Fulham,1,1
+Kent CC,1,1
+Kent Thames Gateway,1,1
+Kent,4,2
+Kettering,9,2
+King's Lynn and West Norfolk,10,3
+"Kingston upon Hull, City of",9,5
+Kingston upon Thames,14,5
+Kirklees,14,5
+Knowsley,14,5
+Lambeth,9,5
+Lancashire CC,1,1
+Lancashire,4,2
+Lancaster and Wyre,1,1
+Lancaster,10,3
+Leeds,15,6
+Leicester,9,5
+Leicestershire CC and Rutland,1,1
+Leicestershire,4,2
+Lewes,10,3
+Lewisham and Southwark,1,1
+Lewisham,8,4
+Lichfield,10,3
+Lincoln,4,2
+Lincolnshire,5,3
+Lisburn and Castlereagh,8,3
+Liverpool,9,5
+Luton,9,5
+Maidstone,10,3
+Maldon,10,3
+Malvern Hills,10,3
+Manchester,15,6
+Mansfield,10,3
+Medway,15,6
+Melton,10,3
+Mendip,10,3
+Merthyr Tydfil,7,2
+"Merton, Kingston upon Thames and Sutton",1,1
+Merton,8,4
+Mid and East Antrim,8,3
+Mid Devon,10,3
+Mid Kent,1,1
+Mid Lancashire,1,1
+Mid Suffolk,10,3
+Mid Sussex,10,3
+Mid Ulster,8,3
+Middlesbrough,14,5
+Midlothian,7,2
+Milton Keynes,15,6
+Mole Valley,10,3
+Monmouthshire and Newport,1,1
+Monmouthshire,7,2
+Moray,7,2
+Na h-Eileanan Siar,7,2
+Neath Port Talbot,7,2
+New Forest,10,3
+Newark and Sherwood,10,3
+Newcastle-under-Lyme,10,3
+Newcastle upon Tyne,14,5
+Newham,8,4
+Newport,7,2
+"Newry, Mourne and Down",8,3
+Norfolk,5,3
+North and North East Lincolnshire,1,1
+North and West Norfolk,1,1
+North Ayrshire,7,2
+North Devon,10,3
+North Dorset,9,2
+North East Derbyshire,10,3
+North East Lincolnshire,14,5
+North Hampshire,1,1
+North Hertfordshire,10,3
+North Kesteven,10,3
+North Lanarkshire,8,3
+North Lincolnshire,14,5
+North Norfolk,10,3
+North Northamptonshire,2,2
+North Nottinghamshire,1,1
+North of Northern Ireland,1,1
+North Somerset,14,5
+North Tyneside,14,5
+North Warwickshire,10,3
+North West Leicestershire,10,3
+North Yorkshire CC,1,1
+North Yorkshire,4,2
+Northampton,9,2
+Northamptonshire,5,3
+Northumberland,15,6
+Norwich and East Norfolk,1,1
+Norwich,4,2
+Nottingham,9,5
+Nottinghamshire,4,2
+Nuneaton and Bedworth,4,2
+Oadby and Wigston,4,2
+Oldham,14,5
+Orkney Islands,7,2
+Outer Belfast,1,1
+Outer London - East and North East,1,1
+Outer London - South,1,1
+Outer London - West and North West,1,1
+Oxford,10,3
+Oxfordshire,5,3
+Pembrokeshire,7,2
+Pendle,10,3
+Perth and Kinross,7,2
+Perth & Kinross and Stirling,1,1
+Peterborough,15,6
+Plymouth,9,5
+Poole,13,4
+Portsmouth,9,5
+Powys,8,3
+Preston,10,3
+Purbeck,9,2
+Reading,8,4
+Redbridge and Waltham Forest,1,1
+Redbridge,8,4
+Redcar and Cleveland,14,5
+Redditch,10,3
+Reigate and Banstead,10,3
+Renfrewshire,7,2
+Rhondda Cynon Taf,7,2
+Ribble Valley,10,3
+Richmond upon Thames,8,4
+Richmondshire,10,3
+Rochdale,14,5
+Rochford,10,3
+Rossendale,10,3
+Rother,10,3
+Rotherham,14,5
+Rugby,10,3
+Runnymede,10,3
+Rushcliffe,10,3
+Rushmoor,10,3
+Rutland,14,5
+Ryedale,10,3
+Salford,14,5
+Sandwell,9,5
+Scarborough,10,3
+Scottish Borders,8,3
+Sedgemoor,10,3
+Sefton,15,6
+Selby,10,3
+Sevenoaks,10,3
+Sheffield,15,6
+Shepway,6,1
+Shetland Islands,7,2
+Shropshire CC,1,1
+Shropshire,14,5
+Slough,8,4
+Solihull,15,6
+Somerset West and Taunton,1,1
+Somerset,5,3
+South and West Derbyshire,1,1
+South Ayrshire,8,3
+South Bucks,9,2
+South Cambridgeshire,10,3
+South Derbyshire,10,3
+South Gloucestershire,14,5
+South Hampshire,1,1
+South Hams,10,3
+South Holland,10,3
+South Kesteven,10,3
+South Lakeland,10,3
+South Lanarkshire,8,3
+South Norfolk,10,3
+South Northamptonshire,9,2
+South Nottinghamshire,1,1
+South Oxfordshire,10,3
+South Ribble,10,3
+South Somerset,10,3
+South Staffordshire,10,3
+South Teesside,1,1
+South Tyneside,14,5
+South West Wales,1,1
+Southampton,9,5
+Southend-on-Sea,9,5
+Southwark,8,4
+Spelthorne,10,3
+St. Albans,6,1
+St Albans,4,2
+St. Edmundsbury,6,1
+St Edmundsbury,3,1
+St. Helens,14,5
+Stafford,10,3
+Staffordshire CC,1,1
+Staffordshire Moorlands,10,3
+Staffordshire,4,2
+Stevenage,4,2
+Stirling,7,2
+Stockport,14,5
+Stockton-on-Tees,14,5
+Stoke-on-Trent,15,6
+Stratford-on-Avon,10,3
+Stroud,10,3
+Suffolk Coastal,9,2
+Suffolk,5,3
+Sunderland,15,6
+Surrey Heath,10,3
+Surrey,5,3
+Sutton,8,4
+Swale,10,3
+Swansea,8,3
+Swindon,15,6
+Tameside,14,5
+Tamworth,4,2
+Tandridge,10,3
+Taunton Deane,9,2
+Teignbridge,10,3
+Telford and Wrekin,15,6
+Tendring,10,3
+Test Valley,10,3
+Tewkesbury,10,3
+Thanet,10,3
+Three Rivers,10,3
+Thurrock,15,6
+Tonbridge and Malling,10,3
+Torbay,15,6
+Torfaen,7,2
+Torridge,10,3
+Tower Hamlets,9,5
+Trafford,14,5
+Tunbridge Wells,10,3
+Tyneside,1,1
+Uttlesford,10,3
+Vale of Glamorgan,7,2
+Vale of White Horse,10,3
+Wakefield,15,6
+Walsall and Wolverhampton,1,1
+Walsall,15,6
+Waltham Forest,8,4
+Wandsworth,9,5
+Warrington,15,6
+Warwick,10,3
+Warwickshire,5,3
+Watford,4,2
+Waveney,9,2
+Waverley,10,3
+Wealden,10,3
+Wellingborough,9,2
+Welwyn Hatfield,10,3
+West and South of Northern Ireland,1,1
+West Berkshire,14,5
+West Cumbria,1,1
+West Devon,10,3
+West Dorset,9,2
+West Dunbartonshire,7,2
+West Essex,1,1
+West Kent,1,1
+West Lancashire,10,3
+West Lindsey,10,3
+West Lothian,8,3
+West Northamptonshire,2,2
+West Oxfordshire,10,3
+West Somerset,9,2
+West Suffolk,1,1
+West Surrey,1,1
+West Sussex (North East),1,1
+West Sussex (South West),1,1
+West Sussex,5,3
+Westminster,9,5
+Weymouth and Portland,9,2
+Wigan,14,5
+Wiltshire,15,6
+Winchester,10,3
+Windsor and Maidenhead,14,5
+Wirral,15,6
+Woking,10,3
+Wokingham,14,5
+Wolverhampton,9,5
+Worcester,10,3
+Worcestershire,5,3
+Worthing,4,2
+Wrexham,7,2
+Wychavon,10,3
+Wycombe,9,2
+Wyre Forest,10,3
+Wyre,10,3
+York,15,6
