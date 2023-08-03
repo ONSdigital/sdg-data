@@ -7,7 +7,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-a-1,Poverty reduction aid type,1
 #10-1-1,Income group,1
 #10-2-1,"Age, Sex",2
-#10-3-1,"Age, Sex, Disability status, Ethnicity, Household income, Urban or rural, Type of hate crime",7
+#10-3-1,"Age, Sex, Ethnicity, Household income, Urban or rural, Disability status, Type of hate crime",7
 #10-4-2,Retirement status,1
 #10-6-1,Institution,1
 #10-7-3,"Age, Sex, Cause of death, Region of origin",4
@@ -20,7 +20,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-6-1,"Region, Disposal method, Waste collection authority",3
 #11-6-2,"City, Urbanisation",2
 #11-7-1,Country,1
-#11-7-2,"Age, Region, Sex, Country of birth, Disability status, Ethnicity, Relationship to perpetrator, Income",8
+#11-7-2,"Age, Region, Sex, Ethnicity, Relationship to perpetrator, Country of birth, Disability status, Income",8
 #12-2-1,Material category,1
 #12-2-2,Material category,1
 #12-3-1,"Waste type, Sector, Household Waste disposal routes",3
@@ -42,19 +42,19 @@ Indicator,Disaggregations,Number of disaggregations
 #15-b-1,Country income classification,1
 #15-c-1,Import type,1
 #16-1-1,"Age, Sex",2
-#16-1-3,"Age, Region, Sex, Country of birth, Disability status, Ethnicity, Ethnic group, Household income, Urban or rural, Highest qualification, Sexual orientation, Violence type",12
-#16-1-4,"Age, Region, Sex, Country of birth, Disability status, Ethnicity, Ethnic group, Household income",8
+#16-1-3,"Age, Region, Sex, Ethnicity, Ethnic group, Household income, Urban or rural, Country of birth, Disability status, Highest qualification, Sexual orientation, Violence type",12
+#16-1-4,"Age, Region, Sex, Ethnicity, Ethnic group, Household income, Country of birth, Disability status",8
 #16-2-2,"Age, Sex",2
 #16-2-3,"Sex, Abuse type, Contact sexual abuse type",3
 #16-3-1,Type of violence,1
 #16-3-2,"Age, Sex, Nationality",3
 #16-5-1,Corruption offence type,1
 #16-5-2,Corruption offence type,1
-#16-6-2,"Age, Region, Country, Sex, Country of birth, Disability status, Income quartile",7
-#16-7-2,"Age, Region, Sex, Disability status, Ethnicity, Household income, Urban or rural, Citizenship, Index of multiple deprivation quintile",9
+#16-6-2,"Age, Region, Country, Sex",4
+#16-7-2,"Age, Region, Sex, Ethnicity, Household income, Urban or rural, Disability status, Citizenship, Index of multiple deprivation quintile",9
 #16-8-1,Institution,1
 #16-9-1,"Sex, Age (default)",2
-#16-b-1,"Age, Sex, Disability status, Ethnicity, Household income, Urban or rural, Type of hate crime",7
+#16-b-1,"Age, Sex, Ethnicity, Household income, Urban or rural, Disability status, Type of hate crime",7
 #17-1-1,Source of revenue,1
 #17-10-1,"Country group, Product sector",2
 #17-11-1,Country income classification,1
@@ -63,7 +63,7 @@ Indicator,Disaggregations,Number of disaggregations
 #17-18-1,"Completeness of disaggregation, Goal",2
 #17-19-1,Country income classification,1
 #17-6-1,Speed (Mb/sec),1
-#17-8-1,"Age, Region, Local Authority, Sex, Disability status, Ethnicity, Ethnic group, Employment status",8
+#17-8-1,"Age, Region, Local Authority, Sex, Ethnicity, Ethnic group, Employment status, Disability status",8
 #17-9-1,Country income classification,1
 #2-1-1,"Age, Sex",2
 #2-1-2,"Age, Region, Country, Ethnicity, Ethnic group, Highest qualification, Tenure sub-category, Food security level, Age group, Household composition - children, Number of adults, Number of children, Household composition - adults over State Pension age, Household composition - disabled adults, Household composition - unemployed adults, State support, State support detail, Total gross weekly income, Tenure",19
@@ -73,12 +73,12 @@ Indicator,Disaggregations,Number of disaggregations
 #2-3-2,Sex,1
 #2-a-2,Country income classification,1
 #2-c-1,Food type,1
-#3-1-1,"Age, Country, Country of birth, Ethnicity, Death classification, Deprivation quintile",6
+#3-1-1,"Age, Country, Ethnicity, Country of birth, Death classification, Deprivation quintile",6
 #3-1-2,"Age, Region, Country, Number of previous live births, Health board",5
 #3-2-1,"Country, Sex",2
-#3-2-2,"Age, Region, Country, Sex, Country of birth, Ethnic group, Neonatal period, Birthweight (grams)",8
+#3-2-2,"Age, Region, Country, Sex, Ethnic group, Country of birth, Neonatal period, Birthweight (grams)",8
 #3-3-1,"Age, Country, Sex, Ethnicity, Exposure category",5
-#3-3-2,"Region, Country, Country of birth, Ethnic group",4
+#3-3-2,"Region, Country, Ethnic group, Country of birth",4
 #3-3-3,"Age, Region, Region of travel, Country, Sex, Country of birth, Ethnic Group, Fatality, Malaria species",9
 #3-3-4,"Age, Region, Sex",3
 #3-3-5,"Type of Neglected Tropical Disease (NTD), Region of travel",2
@@ -93,7 +93,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-9-1,"Region, Local authority, Deprivation decile",3
 #3-9-2,"Region, Country, Sex, Cause of death",4
 #3-9-3,"Age, Region, Country, Sex, Unintentional poisoning category",5
-#3-a-1,"Age, Region, Country, Sex, Country of birth, Ethnicity, Socio-economic classification",7
+#3-a-1,"Age, Region, Country, Sex, Ethnicity, Socio-economic classification, Country of birth",7
 #3-b-1,"Age, Region, Country, Vaccine",4
 #3-b-2,"Country income classification, Aid description (CRS code)",2
 #3-c-1,"Sex, Occupation minor group, Occupation unit group",3
@@ -102,15 +102,15 @@ Indicator,Disaggregations,Number of disaggregations
 #4-1-2,Sex,1
 #4-2-1,"Region, Local authority, Ethnicity, Gender, Free school meals, Learning category, Learning sub-category (higher)",7
 #4-2-2,"Age, Region, Local authority",3
-#4-3-1,"Age, Region, Sex, Country of birth, Disability status, Household income, Employment status, Deprivation quantile, Highest qualification",9
+#4-3-1,"Age, Region, Sex, Household income, Employment status, Country of birth, Disability status, Deprivation quantile, Highest qualification",9
 #4-4-1,"Age, Sex, Disability status, Skill",4
 #4-5-1,"Educational measure, Education indicator",2
 #4-6-1,"Sex, Educational subject",2
 #4-b-1,"Country income classification, Sector, Type of study",3
 #4-c-1,"Region, Local Authority, Sex",3
-#5-2-1,"Age, Region, Country of birth, Disability status, Ethnicity, Ethnic group, Household income, Highest qualification, Type of partner abuse, Abuse sub-category, Urban or Rural, Sexual orientation, Gender identity",13
+#5-2-1,"Age, Region, Ethnicity, Ethnic group, Household income, Country of birth, Disability status, Highest qualification, Type of partner abuse, Abuse sub-category, Urban or Rural, Sexual orientation, Gender identity",13
 #5-2-2,"Age, Type of non-partner abuse, Abuse sub-type, Relationship to perpetrator",4
-#5-3-2,"Region, Country of birth, Age at which FGM took place, FGM type",4
+#5-3-2,"Region, Age at which FGM took place, Country of birth, FGM type",4
 #5-4-1,"Age, Sex, Employment status, Number of hours per week providing care, Net weekly income (£)",5
 #5-5-1,Legislative authority,1
 #5-5-2,"Age, Region, Disability status",3
@@ -142,10 +142,10 @@ Indicator,Disaggregations,Number of disaggregations
 #9-1-1,"Urbanisation (default), Country, Local Authority, Road category",4
 #9-1-2,Flight category,1
 #9-2-1,"Activity (default), Industry higher sub-category, Industry middle sub-category, Industry lower sub-category",4
-#9-2-2,"Age, Region, Sex, Country of birth, Disability status, Nationality, Ethnicity, Activity",8
+#9-2-2,"Age, Region, Sex, Nationality, Ethnicity, Country of birth, Disability status, Activity",8
 #9-4-1,Industry sector,1
 #9-5-1,"Region, Country, Sector, Performing/Funding, Source, Source sub-category, Product group",7
-#9-5-2,"Age, Region, Sex, Country of birth, Disability status, Nationality",6
+#9-5-2,"Age, Region, Sex, Nationality, Country of birth, Disability status",6
 #9-a-1,Country income classification,1
 #9-b-1,Manufacturing industry,1
 #9-c-1,Technology,1

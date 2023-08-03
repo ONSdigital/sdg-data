@@ -12,28 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Healthcare system",
+                "Education system",
+                "Police",
+                "Courts and legal system",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "18 to 24",
-                "24 to 29",
-                "30 to 34",
-                "35 to 39",
-                "40 to 44",
-                "45 to 49",
-                "50 to 54",
-                "55 to 59",
-                "60 to 64",
-                "65 to 69",
-                "70 to 74",
-                "75 to 79",
-                "80 to 84",
-                "85 and over",
+                "16 to 24",
+                "25 to 34",
+                "35 to 49",
+                "50 to 64",
+                "65 to 74",
+                "75 and over",
                 ""
               ]
             },
@@ -52,50 +58,11 @@
             "title": "Sex"
           },
           {
-            "name": "Country of birth",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Born in UK",
-                "Born in EU",
-                "Not born in EU",
-                ""
-              ]
-            },
-            "title": "Country of birth"
-          },
-          {
-            "name": "Disability status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Limiting long-term health condition",
-                ""
-              ]
-            },
-            "title": "Disability status"
-          },
-          {
-            "name": "Income quartile",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1st",
-                "2nd",
-                "3rd",
-                "4th",
-                ""
-              ]
-            },
-            "title": "Income quartile"
-          },
-          {
             "name": "Country",
             "type": "string",
             "constraints": {
               "enum": [
                 "England",
-                "Northern Ireland",
                 "Scotland",
                 "Wales",
                 ""
@@ -108,15 +75,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "East",
-                "East Midlands",
-                "London",
                 "North East",
                 "North West",
+                "Yorkshire and The Humber",
+                "East Midlands",
+                "West Midlands",
+                "East",
+                "London",
                 "South East",
                 "South West",
-                "West Midlands",
-                "Yorkshire and The Humber",
                 ""
               ]
             },
@@ -128,14 +95,15 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit multiplier",
+            "name": "Units",
             "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "GeoCode",
