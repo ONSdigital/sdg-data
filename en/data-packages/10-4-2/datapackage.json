@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Retirment status",
+            "name": "Retirement status",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Retirment status"
+            "title": "Retirement status"
           },
           {
             "name": "Units",
