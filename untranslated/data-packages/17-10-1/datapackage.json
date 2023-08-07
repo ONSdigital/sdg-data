@@ -12,7 +12,38 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Most favoured nation status",
+                "Preferential status",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agricultural products",
+                "Arms",
+                "Clothing",
+                "Industrial products",
+                "Oil",
+                "Textiles",
+                "Total or no breakdown",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
           },
           {
             "name": "Units",
@@ -25,33 +56,8 @@
             }
           },
           {
-            "name": "Observation status",
+            "name": "Unit multiplier",
             "type": "string"
-          },
-          {
-            "name": "Country group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Developing countries",
-                "Least developed countries",
-                "Small island developing states",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Product sector",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "AGRI",
-                "FISH",
-                "NAMA",
-                "PAPS",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
