@@ -113,6 +113,8 @@ docs_metadata_fields:
       
 datapackage:
   sorting: default
+  
+ignore_out_of_scope_disaggregation_stats: true
 
 sdmx_output_global:
   column_map: column_mapping.csv
