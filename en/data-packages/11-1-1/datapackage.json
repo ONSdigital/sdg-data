@@ -53,7 +53,7 @@
             "title": "Decent homes criteria"
           },
           {
-            "name": "Sub to national area",
+            "name": "Sub-national area",
             "type": "string",
             "constraints": {
               "enum": [
@@ -63,7 +63,7 @@
                 ""
               ]
             },
-            "title": "Sub to national area"
+            "title": "Sub-national area"
           },
           {
             "name": "Region",
@@ -85,7 +85,7 @@
             "title": "Region"
           },
           {
-            "name": "Urbanisation sub to category",
+            "name": "Urbanisation sub-category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -98,7 +98,7 @@
                 ""
               ]
             },
-            "title": "Urbanisation sub to category"
+            "title": "Urbanisation sub-category"
           },
           {
             "name": "Age of oldest person",
@@ -152,7 +152,7 @@
             "constraints": {
               "enum": [
                 "Disabled (GSS harmonised)",
-                "Non to disabled (GSS harmonised)",
+                "Non-disabled (GSS harmonised)",
                 ""
               ]
             },
@@ -182,7 +182,7 @@
                 "Couple 60 or over",
                 "Couple with children",
                 "Lone parent",
-                "Multi to person household",
+                "Multi-person household",
                 "One person under 60",
                 "One person 60 or over",
                 ""

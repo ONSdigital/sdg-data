@@ -1,24 +1,44 @@
-Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation sub to category,Age of oldest person,Age of youngest person,Deprivation decile,Disability status (household),Ethnicity of household reference person (hrp),Household composition,Income quintile (household),Length of residence,Poverty status,Workless households,Observation status,GeoCode,Value
+Year,Series,Units,Decent homes criteria,Sub-national area,Region,Urbanisation sub-category,Age of oldest person,Age of youngest person,Deprivation decile,Disability status (household),Ethnicity of household reference person (hrp),Household composition,Income quintile (household),Length of residence,Poverty status,Workless households,Observation status,GeoCode,Value
 2020,Dwellings (%),Percentage (%),,,,,,,,,,,,,,,Normal value,,15.0
 2020,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,,,,,,Normal value,,9.2
+2021,Dwellings (%),Percentage (%),,,,,,,,,,,,,,,Normal value,,14.3
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,,,,,,Normal value,,9.5
 2020,Dwellings (%),Percentage (%),,,East,,,,,,,,,,,,Normal value,E12000006,13.4
 2020,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,East,,,,,,,,,,,,Normal value,E12000006,7.5
 2020,Dwellings (%),Percentage (%),,,East Midlands,,,,,,,,,,,,Normal value,E12000004,18.5
 2020,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,East Midlands,,,,,,,,,,,,Normal value,E12000004,12.9
+2021,Dwellings (%),Percentage (%),,,East Midlands,,,,,,,,,,,,Normal value,E12000004,20.9
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,East Midlands,,,,,,,,,,,,Normal value,E12000004,16.8
+2021,Dwellings (%),Percentage (%),,,East,,,,,,,,,,,,Normal value,E12000006,11.3
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,East,,,,,,,,,,,,Normal value,E12000006,7.6
 2020,Dwellings (%),Percentage (%),,,London,,,,,,,,,,,,Normal value,E12000007,12.0
 2020,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,London,,,,,,,,,,,,Normal value,E12000007,5.3
+2021,Dwellings (%),Percentage (%),,,London,,,,,,,,,,,,Normal value,E12000007,8.9
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,London,,,,,,,,,,,,Normal value,E12000007,3.4
 2020,Dwellings (%),Percentage (%),,,North East,,,,,,,,,,,,Normal value,E12000001,13.4
 2020,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,North East,,,,,,,,,,,,Normal value,E12000001,7.7
+2021,Dwellings (%),Percentage (%),,,North East,,,,,,,,,,,,Normal value,E12000001,8.4
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,North East,,,,,,,,,,,,Normal value,E12000001,4.3
 2020,Dwellings (%),Percentage (%),,,North West,,,,,,,,,,,,Normal value,E12000002,17.0
 2020,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,North West,,,,,,,,,,,,Normal value,E12000002,12.3
+2021,Dwellings (%),Percentage (%),,,North West,,,,,,,,,,,,Normal value,E12000002,18.2
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,North West,,,,,,,,,,,,Normal value,E12000002,12.2
 2020,Dwellings (%),Percentage (%),,,South East,,,,,,,,,,,,Normal value,E12000008,9.5
 2020,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,South East,,,,,,,,,,,,Normal value,E12000008,4.6
+2021,Dwellings (%),Percentage (%),,,South East,,,,,,,,,,,,Normal value,E12000008,9.0
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,South East,,,,,,,,,,,,Normal value,E12000008,4.3
 2020,Dwellings (%),Percentage (%),,,South West,,,,,,,,,,,,Normal value,E12000009,19.4
 2020,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,South West,,,,,,,,,,,,Normal value,E12000009,11.5
+2021,Dwellings (%),Percentage (%),,,South West,,,,,,,,,,,,Normal value,E12000009,20.3
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,South West,,,,,,,,,,,,Normal value,E12000009,13.3
 2020,Dwellings (%),Percentage (%),,,West Midlands,,,,,,,,,,,,Normal value,E12000005,15.3
 2020,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,West Midlands,,,,,,,,,,,,Normal value,E12000005,9.6
+2021,Dwellings (%),Percentage (%),,,West Midlands,,,,,,,,,,,,Normal value,E12000005,14.7
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,West Midlands,,,,,,,,,,,,Normal value,E12000005,11.4
 2020,Dwellings (%),Percentage (%),,,Yorkshire and The Humber,,,,,,,,,,,,Normal value,E12000003,20.5
 2020,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,Yorkshire and The Humber,,,,,,,,,,,,Normal value,E12000003,14.7
+2021,Dwellings (%),Percentage (%),,,Yorkshire and The Humber,,,,,,,,,,,,Normal value,E12000003,19.9
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,Yorkshire and The Humber,,,,,,,,,,,,Normal value,E12000003,15.6
 2008,Dwellings (%),Percentage (%),,,,City centre,,,,,,,,,,,Normal value,,45.9
 2008,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,,City centre,,,,,,,,,,,Normal value,,28.5
 2008,Dwellings (%),Percentage (%),Repair,,,City centre,,,,,,,,,,,Normal value,,11.9
@@ -1232,6 +1252,38 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2020,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,,,,,Decile 2,,,,,,,,Normal value,,6.6
 2020,Dwellings (%),Percentage (%),,,,,,,Decile 1 (least deprived),,,,,,,,Normal value,,9.1
 2020,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,,,,,Decile 1 (least deprived),,,,,,,,Normal value,,5.3
+2021,Dwellings (%),Percentage (%),,,,City centre,,,,,,,,,,,Normal value,,26.7
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,,City centre,,,,,,,,,,,Normal value,,19.0
+2021,Dwellings (%),Percentage (%),,,,Other urban centre,,,,,,,,,,,Normal value,,15.3
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,,Other urban centre,,,,,,,,,,,Normal value,,9.5
+2021,Dwellings (%),Percentage (%),,,,Suburban residential,,,,,,,,,,,Normal value,,11.2
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,,Suburban residential,,,,,,,,,,,Normal value,,6.8
+2021,Dwellings (%),Percentage (%),,,,Rural residential,,,,,,,,,,,Normal value,,13.0
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,,Rural residential,,,,,,,,,,,Normal value,,9.5
+2021,Dwellings (%),Percentage (%),,,,Village centre,,,,,,,,,,,Normal value,,24.0
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,,Village centre,,,,,,,,,,,Normal value,,17.8
+2021,Dwellings (%),Percentage (%),,,,Other rural area,,,,,,,,,,,Normal value,,44.0
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,,Other rural area,,,,,,,,,,,Normal value,,39.7
+2021,Dwellings (%),Percentage (%),,,,,,,Decile 10 (most deprived),,,,,,,,Normal value,,18.3
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,,,,,Decile 10 (most deprived),,,,,,,,Normal value,,13.3
+2021,Dwellings (%),Percentage (%),,,,,,,Decile 9,,,,,,,,Normal value,,15.3
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,,,,,Decile 9,,,,,,,,Normal value,,8.5
+2021,Dwellings (%),Percentage (%),,,,,,,Decile 8,,,,,,,,Normal value,,16.1
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,,,,,Decile 8,,,,,,,,Normal value,,9.4
+2021,Dwellings (%),Percentage (%),,,,,,,Decile 7,,,,,,,,Normal value,,15.5
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,,,,,Decile 7,,,,,,,,Normal value,,11.3
+2021,Dwellings (%),Percentage (%),,,,,,,Decile 6,,,,,,,,Normal value,,16.6
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,,,,,Decile 6,,,,,,,,Normal value,,10.7
+2021,Dwellings (%),Percentage (%),,,,,,,Decile 5,,,,,,,,Normal value,,16.4
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,,,,,Decile 5,,,,,,,,Normal value,,10.7
+2021,Dwellings (%),Percentage (%),,,,,,,Decile 4,,,,,,,,Normal value,,13.0
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,,,,,Decile 4,,,,,,,,Normal value,,8.9
+2021,Dwellings (%),Percentage (%),,,,,,,Decile 3,,,,,,,,Normal value,,13.5
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,,,,,Decile 3,,,,,,,,Normal value,,8.7
+2021,Dwellings (%),Percentage (%),,,,,,,Decile 2,,,,,,,,Normal value,,10.1
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,,,,,Decile 2,,,,,,,,Normal value,,7.4
+2021,Dwellings (%),Percentage (%),,,,,,,Decile 1 (least deprived),,,,,,,,Normal value,,8.0
+2021,Dwellings (%),Percentage (%),Minimum standard (HHSRS),,,,,,Decile 1 (least deprived),,,,,,,,Normal value,,5.7
 2008,Households (%),Percentage (%),,,,,,,,,,Couple under 60,,,,,Normal value,,32.1
 2008,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Couple under 60,,,,,Normal value,,22.0
 2008,Households (%),Percentage (%),Repair,,,,,,,,,Couple under 60,,,,,Normal value,,5.7
@@ -1252,11 +1304,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2008,Households (%),Percentage (%),Repair,,,,,,,,,Lone parent,,,,,Normal value,,6.9
 2008,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Lone parent,,,,,Normal value,,3.6
 2008,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Lone parent,,,,,Normal value,,11.1
-2008,Households (%),Percentage (%),,,,,,,,,,Multi to person household,,,,,Normal value,,38.0
-2008,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi to person household,,,,,Normal value,,25.3
-2008,Households (%),Percentage (%),Repair,,,,,,,,,Multi to person household,,,,,Normal value,,8.8
-2008,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Multi to person household,,,,,Normal value,,4.3
-2008,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi to person household,,,,,Normal value,,12.4
+2008,Households (%),Percentage (%),,,,,,,,,,Multi-person household,,,,,Normal value,,38.0
+2008,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi-person household,,,,,Normal value,,25.3
+2008,Households (%),Percentage (%),Repair,,,,,,,,,Multi-person household,,,,,Normal value,,8.8
+2008,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Multi-person household,,,,,Normal value,,4.3
+2008,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi-person household,,,,,Normal value,,12.4
 2008,Households (%),Percentage (%),,,,,,,,,,One person under 60,,,,,Normal value,,35.5
 2008,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,One person under 60,,,,,Normal value,,21.5
 2008,Households (%),Percentage (%),Repair,,,,,,,,,One person under 60,,,,,Normal value,,6.5
@@ -1347,11 +1399,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2008,Households (%),Percentage (%),Repair,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,6.2
 2008,Households (%),Percentage (%),Modern facilities and services,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,3.8
 2008,Households (%),Percentage (%),Thermal comfort,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,13.3
-2008,Households (%),Percentage (%),,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,32.8
-2008,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,21.7
-2008,Households (%),Percentage (%),Repair,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,6.0
-2008,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,3.1
-2008,Households (%),Percentage (%),Thermal comfort,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,12.1
+2008,Households (%),Percentage (%),,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,32.8
+2008,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,21.7
+2008,Households (%),Percentage (%),Repair,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,6.0
+2008,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,3.1
+2008,Households (%),Percentage (%),Thermal comfort,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,12.1
 2008,Households (%),Percentage (%),,,,,,,,,White,,,,,,Normal value,,32.6
 2008,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,White,,,,,,Normal value,,21.6
 2008,Households (%),Percentage (%),Repair,,,,,,,,White,,,,,,Normal value,,5.8
@@ -1432,11 +1484,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2009,Households (%),Percentage (%),Repair,,,,,,,,,Lone parent,,,,,Normal value,,5.7
 2009,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Lone parent,,,,,Normal value,,3.8
 2009,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Lone parent,,,,,Normal value,,7.0
-2009,Households (%),Percentage (%),,,,,,,,,,Multi to person household,,,,,Normal value,,33.2
-2009,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi to person household,,,,,Normal value,,22.5
-2009,Households (%),Percentage (%),Repair,,,,,,,,,Multi to person household,,,,,Normal value,,8.5
-2009,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Multi to person household,,,,,Normal value,,4.2
-2009,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi to person household,,,,,Normal value,,10.7
+2009,Households (%),Percentage (%),,,,,,,,,,Multi-person household,,,,,Normal value,,33.2
+2009,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi-person household,,,,,Normal value,,22.5
+2009,Households (%),Percentage (%),Repair,,,,,,,,,Multi-person household,,,,,Normal value,,8.5
+2009,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Multi-person household,,,,,Normal value,,4.2
+2009,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi-person household,,,,,Normal value,,10.7
 2009,Households (%),Percentage (%),,,,,,,,,,One person under 60,,,,,Normal value,,34.4
 2009,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,One person under 60,,,,,Normal value,,21.3
 2009,Households (%),Percentage (%),Repair,,,,,,,,,One person under 60,,,,,Normal value,,6.7
@@ -1527,11 +1579,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2009,Households (%),Percentage (%),Repair,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,5.9
 2009,Households (%),Percentage (%),Modern facilities and services,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,3.5
 2009,Households (%),Percentage (%),Thermal comfort,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,10.5
-2009,Households (%),Percentage (%),,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,29.2
-2009,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,19.8
-2009,Households (%),Percentage (%),Repair,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,5.6
-2009,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,2.8
-2009,Households (%),Percentage (%),Thermal comfort,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,9.8
+2009,Households (%),Percentage (%),,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,29.2
+2009,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,19.8
+2009,Households (%),Percentage (%),Repair,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,5.6
+2009,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,2.8
+2009,Households (%),Percentage (%),Thermal comfort,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,9.8
 2009,Households (%),Percentage (%),,,,,,,,,White,,,,,,Normal value,,29.7
 2009,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,White,,,,,,Normal value,,20.2
 2009,Households (%),Percentage (%),Repair,,,,,,,,White,,,,,,Normal value,,5.5
@@ -1612,11 +1664,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2010,Households (%),Percentage (%),Repair,,,,,,,,,Lone parent,,,,,Normal value,,5.7
 2010,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Lone parent,,,,,Normal value,,2.8
 2010,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Lone parent,,,,,Normal value,,6.5
-2010,Households (%),Percentage (%),,,,,,,,,,Multi to person household,,,,,Normal value,,29.2
-2010,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi to person household,,,,,Normal value,,18.1
-2010,Households (%),Percentage (%),Repair,,,,,,,,,Multi to person household,,,,,Normal value,,8.2
-2010,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Multi to person household,,,,,Normal value,,3.5
-2010,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi to person household,,,,,Normal value,,9.9
+2010,Households (%),Percentage (%),,,,,,,,,,Multi-person household,,,,,Normal value,,29.2
+2010,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi-person household,,,,,Normal value,,18.1
+2010,Households (%),Percentage (%),Repair,,,,,,,,,Multi-person household,,,,,Normal value,,8.2
+2010,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Multi-person household,,,,,Normal value,,3.5
+2010,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi-person household,,,,,Normal value,,9.9
 2010,Households (%),Percentage (%),,,,,,,,,,One person under 60,,,,,Normal value,,32.1
 2010,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,One person under 60,,,,,Normal value,,18.9
 2010,Households (%),Percentage (%),Repair,,,,,,,,,One person under 60,,,,,Normal value,,7.3
@@ -1707,11 +1759,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2010,Households (%),Percentage (%),Repair,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,5.3
 2010,Households (%),Percentage (%),Modern facilities and services,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,2.9
 2010,Households (%),Percentage (%),Thermal comfort,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,9.5
-2010,Households (%),Percentage (%),,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,25.9
-2010,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,16.7
-2010,Households (%),Percentage (%),Repair,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,5.4
-2010,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,2.1
-2010,Households (%),Percentage (%),Thermal comfort,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,9.3
+2010,Households (%),Percentage (%),,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,25.9
+2010,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,16.7
+2010,Households (%),Percentage (%),Repair,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,5.4
+2010,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,2.1
+2010,Households (%),Percentage (%),Thermal comfort,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,9.3
 2010,Households (%),Percentage (%),,,,,,,,,White,,,,,,Normal value,,26.1
 2010,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,White,,,,,,Normal value,,17.0
 2010,Households (%),Percentage (%),Repair,,,,,,,,White,,,,,,Normal value,,5.2
@@ -1784,10 +1836,10 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2011,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Lone parent,,,,,Normal value,,13.6
 2011,Households (%),Percentage (%),Repair,,,,,,,,,Lone parent,,,,,Normal value,,5.9
 2011,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Lone parent,,,,,Normal value,,8.2
-2011,Households (%),Percentage (%),,,,,,,,,,Multi to person household,,,,,Normal value,,28.3
-2011,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi to person household,,,,,Normal value,,16.4
-2011,Households (%),Percentage (%),Repair,,,,,,,,,Multi to person household,,,,,Normal value,,9.3
-2011,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi to person household,,,,,Normal value,,9.0
+2011,Households (%),Percentage (%),,,,,,,,,,Multi-person household,,,,,Normal value,,28.3
+2011,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi-person household,,,,,Normal value,,16.4
+2011,Households (%),Percentage (%),Repair,,,,,,,,,Multi-person household,,,,,Normal value,,9.3
+2011,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi-person household,,,,,Normal value,,9.0
 2011,Households (%),Percentage (%),,,,,,,,,,One person under 60,,,,,Normal value,,27.8
 2011,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,One person under 60,,,,,Normal value,,16.0
 2011,Households (%),Percentage (%),Repair,,,,,,,,,One person under 60,,,,,Normal value,,5.9
@@ -1875,11 +1927,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2011,Households (%),Percentage (%),Repair,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,5.3
 2011,Households (%),Percentage (%),Modern facilities and services,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,2.0
 2011,Households (%),Percentage (%),Thermal comfort,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,8.2
-2011,Households (%),Percentage (%),,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,23.4
-2011,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,14.7
-2011,Households (%),Percentage (%),Repair,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,5.0
-2011,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,1.4
-2011,Households (%),Percentage (%),Thermal comfort,,,,,,,Non to disabled (GSS harmonised),White,,,,,,Normal value,,8.3
+2011,Households (%),Percentage (%),,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,23.4
+2011,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,14.7
+2011,Households (%),Percentage (%),Repair,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,5.0
+2011,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,1.4
+2011,Households (%),Percentage (%),Thermal comfort,,,,,,,Non-disabled (GSS harmonised),White,,,,,,Normal value,,8.3
 2011,Households (%),Percentage (%),,,,,,,,,White,,,,,,Normal value,,23.1
 2011,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,White,,,,,,Normal value,,14.6
 2011,Households (%),Percentage (%),Repair,,,,,,,,White,,,,,,Normal value,,4.9
@@ -1955,11 +2007,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2012,Households (%),Percentage (%),Repair,,,,,,,,,Lone parent,,,,,Normal value,,4.8
 2012,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Lone parent,,,,,Normal value,,1.0
 2012,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Lone parent,,,,,Normal value,,6.3
-2012,Households (%),Percentage (%),,,,,,,,,,Multi to person household,,,,,Normal value,,28.6
-2012,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi to person household,,,,,Normal value,,18.3
-2012,Households (%),Percentage (%),Repair,,,,,,,,,Multi to person household,,,,,Normal value,,8.2
-2012,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Multi to person household,,,,,Normal value,,2.3
-2012,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi to person household,,,,,Normal value,,9.0
+2012,Households (%),Percentage (%),,,,,,,,,,Multi-person household,,,,,Normal value,,28.6
+2012,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi-person household,,,,,Normal value,,18.3
+2012,Households (%),Percentage (%),Repair,,,,,,,,,Multi-person household,,,,,Normal value,,8.2
+2012,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Multi-person household,,,,,Normal value,,2.3
+2012,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi-person household,,,,,Normal value,,9.0
 2012,Households (%),Percentage (%),,,,,,,,,,One person under 60,,,,,Normal value,,26.1
 2012,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,One person under 60,,,,,Normal value,,13.4
 2012,Households (%),Percentage (%),Repair,,,,,,,,,One person under 60,,,,,Normal value,,5.4
@@ -2050,11 +2102,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2012,Households (%),Percentage (%),Repair,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,4.6
 2012,Households (%),Percentage (%),Modern facilities and services,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,2.1
 2012,Households (%),Percentage (%),Thermal comfort,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,7.2
-2012,Households (%),Percentage (%),,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,21.6
-2012,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,13.5
-2012,Households (%),Percentage (%),Repair,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,4.6
-2012,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,1.4
-2012,Households (%),Percentage (%),Thermal comfort,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,7.3
+2012,Households (%),Percentage (%),,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,21.6
+2012,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,13.5
+2012,Households (%),Percentage (%),Repair,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,4.6
+2012,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,1.4
+2012,Households (%),Percentage (%),Thermal comfort,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,7.3
 2012,Households (%),Percentage (%),,,,,,,,,White,,,,,,Normal value,,21.1
 2012,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,White,,,,,,Normal value,,13.0
 2012,Households (%),Percentage (%),Repair,,,,,,,,White,,,,,,Normal value,,4.4
@@ -2135,11 +2187,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2013,Households (%),Percentage (%),Repair,,,,,,,,,Lone parent,,,,,Normal value,,4.5
 2013,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Lone parent,,,,,Normal value,,1.4
 2013,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Lone parent,,,,,Normal value,,4.2
-2013,Households (%),Percentage (%),,,,,,,,,,Multi to person household,,,,,Normal value,,25.0
-2013,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi to person household,,,,,Normal value,,15.4
-2013,Households (%),Percentage (%),Repair,,,,,,,,,Multi to person household,,,,,Normal value,,6.5
-2013,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Multi to person household,,,,,Normal value,,1.9
-2013,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi to person household,,,,,Normal value,,8.1
+2013,Households (%),Percentage (%),,,,,,,,,,Multi-person household,,,,,Normal value,,25.0
+2013,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi-person household,,,,,Normal value,,15.4
+2013,Households (%),Percentage (%),Repair,,,,,,,,,Multi-person household,,,,,Normal value,,6.5
+2013,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Multi-person household,,,,,Normal value,,1.9
+2013,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi-person household,,,,,Normal value,,8.1
 2013,Households (%),Percentage (%),,,,,,,,,,One person under 60,,,,,Normal value,,25.1
 2013,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,One person under 60,,,,,Normal value,,11.4
 2013,Households (%),Percentage (%),Repair,,,,,,,,,One person under 60,,,,,Normal value,,5.7
@@ -2230,11 +2282,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2013,Households (%),Percentage (%),Repair,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,4.5
 2013,Households (%),Percentage (%),Modern facilities and services,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,2.5
 2013,Households (%),Percentage (%),Thermal comfort,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,6.9
-2013,Households (%),Percentage (%),,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,20.1
-2013,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,11.8
-2013,Households (%),Percentage (%),Repair,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,4.1
-2013,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,1.6
-2013,Households (%),Percentage (%),Thermal comfort,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,7.0
+2013,Households (%),Percentage (%),,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,20.1
+2013,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,11.8
+2013,Households (%),Percentage (%),Repair,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,4.1
+2013,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,1.6
+2013,Households (%),Percentage (%),Thermal comfort,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,7.0
 2013,Households (%),Percentage (%),,,,,,,,,White,,,,,,Normal value,,19.7
 2013,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,White,,,,,,Normal value,,11.4
 2013,Households (%),Percentage (%),Repair,,,,,,,,White,,,,,,Normal value,,4.1
@@ -2315,11 +2367,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2014,Households (%),Percentage (%),Repair,,,,,,,,,Lone parent,,,,,Normal value,,5.4
 2014,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Lone parent,,,,,Normal value,,1.6
 2014,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Lone parent,,,,,Normal value,,4.0
-2014,Households (%),Percentage (%),,,,,,,,,,Multi to person household,,,,,Normal value,,20.3
-2014,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi to person household,,,,,Normal value,,11.3
-2014,Households (%),Percentage (%),Repair,,,,,,,,,Multi to person household,,,,,Normal value,,7.4
-2014,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Multi to person household,,,,,Normal value,,1.5
-2014,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi to person household,,,,,Normal value,,7.2
+2014,Households (%),Percentage (%),,,,,,,,,,Multi-person household,,,,,Normal value,,20.3
+2014,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi-person household,,,,,Normal value,,11.3
+2014,Households (%),Percentage (%),Repair,,,,,,,,,Multi-person household,,,,,Normal value,,7.4
+2014,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Multi-person household,,,,,Normal value,,1.5
+2014,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi-person household,,,,,Normal value,,7.2
 2014,Households (%),Percentage (%),,,,,,,,,,One person under 60,,,,,Normal value,,23.4
 2014,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,One person under 60,,,,,Normal value,,11.2
 2014,Households (%),Percentage (%),Repair,,,,,,,,,One person under 60,,,,,Normal value,,4.9
@@ -2410,11 +2462,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2014,Households (%),Percentage (%),Repair,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,4.9
 2014,Households (%),Percentage (%),Modern facilities and services,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,2.8
 2014,Households (%),Percentage (%),Thermal comfort,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,6.9
-2014,Households (%),Percentage (%),,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,18.9
-2014,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,11.3
-2014,Households (%),Percentage (%),Repair,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,4.0
-2014,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,1.7
-2014,Households (%),Percentage (%),Thermal comfort,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,6.0
+2014,Households (%),Percentage (%),,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,18.9
+2014,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,11.3
+2014,Households (%),Percentage (%),Repair,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,4.0
+2014,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,1.7
+2014,Households (%),Percentage (%),Thermal comfort,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,6.0
 2014,Households (%),Percentage (%),,,,,,,,,White,,,,,,Normal value,,19.2
 2014,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,White,,,,,,Normal value,,11.3
 2014,Households (%),Percentage (%),Repair,,,,,,,,White,,,,,,Normal value,,4.0
@@ -2495,11 +2547,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2015,Households (%),Percentage (%),Repair,,,,,,,,,Lone parent,,,,,Normal value,,4.3
 2015,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Lone parent,,,,,Normal value,,1.9
 2015,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Lone parent,,,,,Normal value,,5.6
-2015,Households (%),Percentage (%),,,,,,,,,,Multi to person household,,,,,Normal value,,20.7
-2015,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi to person household,,,,,Normal value,,13.6
-2015,Households (%),Percentage (%),Repair,,,,,,,,,Multi to person household,,,,,Normal value,,6.6
-2015,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Multi to person household,,,,,Normal value,,2.0
-2015,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi to person household,,,,,Normal value,,6.5
+2015,Households (%),Percentage (%),,,,,,,,,,Multi-person household,,,,,Normal value,,20.7
+2015,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi-person household,,,,,Normal value,,13.6
+2015,Households (%),Percentage (%),Repair,,,,,,,,,Multi-person household,,,,,Normal value,,6.6
+2015,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Multi-person household,,,,,Normal value,,2.0
+2015,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi-person household,,,,,Normal value,,6.5
 2015,Households (%),Percentage (%),,,,,,,,,,One person under 60,,,,,Normal value,,20.9
 2015,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,One person under 60,,,,,Normal value,,11.0
 2015,Households (%),Percentage (%),Repair,,,,,,,,,One person under 60,,,,,Normal value,,3.9
@@ -2590,11 +2642,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2015,Households (%),Percentage (%),Repair,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,3.6
 2015,Households (%),Percentage (%),Modern facilities and services,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,2.1
 2015,Households (%),Percentage (%),Thermal comfort,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,6.7
-2015,Households (%),Percentage (%),,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,18.9
-2015,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,11.9
-2015,Households (%),Percentage (%),Repair,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,4.2
-2015,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,1.4
-2015,Households (%),Percentage (%),Thermal comfort,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,5.7
+2015,Households (%),Percentage (%),,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,18.9
+2015,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,11.9
+2015,Households (%),Percentage (%),Repair,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,4.2
+2015,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,1.4
+2015,Households (%),Percentage (%),Thermal comfort,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,5.7
 2015,Households (%),Percentage (%),,,,,,,,,White,,,,,,Normal value,,19.0
 2015,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,White,,,,,,Normal value,,12.1
 2015,Households (%),Percentage (%),Repair,,,,,,,,White,,,,,,Normal value,,3.8
@@ -2675,11 +2727,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2016,Households (%),Percentage (%),Repair,,,,,,,,,Lone parent,,,,,Normal value,,3.2
 2016,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Lone parent,,,,,Normal value,,2.9
 2016,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Lone parent,,,,,Normal value,,5.7
-2016,Households (%),Percentage (%),,,,,,,,,,Multi to person household,,,,,Normal value,,22.2
-2016,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi to person household,,,,,Normal value,,13.1
-2016,Households (%),Percentage (%),Repair,,,,,,,,,Multi to person household,,,,,Normal value,,4.6
-2016,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Multi to person household,,,,,Normal value,,3.5
-2016,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi to person household,,,,,Normal value,,6.3
+2016,Households (%),Percentage (%),,,,,,,,,,Multi-person household,,,,,Normal value,,22.2
+2016,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi-person household,,,,,Normal value,,13.1
+2016,Households (%),Percentage (%),Repair,,,,,,,,,Multi-person household,,,,,Normal value,,4.6
+2016,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Multi-person household,,,,,Normal value,,3.5
+2016,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi-person household,,,,,Normal value,,6.3
 2016,Households (%),Percentage (%),,,,,,,,,,One person under 60,,,,,Normal value,,20.4
 2016,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,One person under 60,,,,,Normal value,,10.4
 2016,Households (%),Percentage (%),Repair,,,,,,,,,One person under 60,,,,,Normal value,,4.0
@@ -2770,11 +2822,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2016,Households (%),Percentage (%),Repair,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,3.2
 2016,Households (%),Percentage (%),Modern facilities and services,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,2.6
 2016,Households (%),Percentage (%),Thermal comfort,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,6.7
-2016,Households (%),Percentage (%),,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,20.0
-2016,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,11.7
-2016,Households (%),Percentage (%),Repair,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,4.0
-2016,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,1.8
-2016,Households (%),Percentage (%),Thermal comfort,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,6.3
+2016,Households (%),Percentage (%),,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,20.0
+2016,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,11.7
+2016,Households (%),Percentage (%),Repair,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,4.0
+2016,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,1.8
+2016,Households (%),Percentage (%),Thermal comfort,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,6.3
 2016,Households (%),Percentage (%),,,,,,,,,White,,,,,,Normal value,,19.5
 2016,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,White,,,,,,Normal value,,11.9
 2016,Households (%),Percentage (%),Repair,,,,,,,,White,,,,,,Normal value,,3.8
@@ -2855,11 +2907,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2017,Households (%),Percentage (%),Repair,,,,,,,,,Lone parent,,,,,Normal value,,2.8
 2017,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Lone parent,,,,,Normal value,,2.3
 2017,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Lone parent,,,,,Normal value,,3.7
-2017,Households (%),Percentage (%),,,,,,,,,,Multi to person household,,,,,Normal value,,19.9
-2017,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi to person household,,,,,Normal value,,10.2
-2017,Households (%),Percentage (%),Repair,,,,,,,,,Multi to person household,,,,,Normal value,,4.4
-2017,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Multi to person household,,,,,Normal value,,3.0
-2017,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi to person household,,,,,Normal value,,5.0
+2017,Households (%),Percentage (%),,,,,,,,,,Multi-person household,,,,,Normal value,,19.9
+2017,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi-person household,,,,,Normal value,,10.2
+2017,Households (%),Percentage (%),Repair,,,,,,,,,Multi-person household,,,,,Normal value,,4.4
+2017,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Multi-person household,,,,,Normal value,,3.0
+2017,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi-person household,,,,,Normal value,,5.0
 2017,Households (%),Percentage (%),,,,,,,,,,One person under 60,,,,,Normal value,,20.2
 2017,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,One person under 60,,,,,Normal value,,10.5
 2017,Households (%),Percentage (%),Repair,,,,,,,,,One person under 60,,,,,Normal value,,3.7
@@ -2950,11 +3002,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2017,Households (%),Percentage (%),Repair,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,3.6
 2017,Households (%),Percentage (%),Modern facilities and services,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,2.6
 2017,Households (%),Percentage (%),Thermal comfort,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,6.2
-2017,Households (%),Percentage (%),,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,18.4
-2017,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,10.7
-2017,Households (%),Percentage (%),Repair,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,3.4
-2017,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,2.0
-2017,Households (%),Percentage (%),Thermal comfort,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,6.1
+2017,Households (%),Percentage (%),,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,18.4
+2017,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,10.7
+2017,Households (%),Percentage (%),Repair,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,3.4
+2017,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,2.0
+2017,Households (%),Percentage (%),Thermal comfort,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,6.1
 2017,Households (%),Percentage (%),,,,,,,,,White,,,,,,Normal value,,18.5
 2017,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,White,,,,,,Normal value,,10.9
 2017,Households (%),Percentage (%),Repair,,,,,,,,White,,,,,,Normal value,,3.5
@@ -3035,11 +3087,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2018,Households (%),Percentage (%),Repair,,,,,,,,,Lone parent,,,,,Normal value,,3.2
 2018,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Lone parent,,,,,Normal value,,1.2
 2018,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Lone parent,,,,,Normal value,,4.0
-2018,Households (%),Percentage (%),,,,,,,,,,Multi to person household,,,,,Normal value,,16.4
-2018,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi to person household,,,,,Normal value,,9.8
-2018,Households (%),Percentage (%),Repair,,,,,,,,,Multi to person household,,,,,Normal value,,4.2
-2018,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Multi to person household,,,,,Normal value,,1.8
-2018,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi to person household,,,,,Normal value,,4.0
+2018,Households (%),Percentage (%),,,,,,,,,,Multi-person household,,,,,Normal value,,16.4
+2018,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi-person household,,,,,Normal value,,9.8
+2018,Households (%),Percentage (%),Repair,,,,,,,,,Multi-person household,,,,,Normal value,,4.2
+2018,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Multi-person household,,,,,Normal value,,1.8
+2018,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi-person household,,,,,Normal value,,4.0
 2018,Households (%),Percentage (%),,,,,,,,,,One person under 60,,,,,Normal value,,19.5
 2018,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,One person under 60,,,,,Normal value,,10.8
 2018,Households (%),Percentage (%),Repair,,,,,,,,,One person under 60,,,,,Normal value,,4.0
@@ -3130,11 +3182,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2018,Households (%),Percentage (%),Repair,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,3.7
 2018,Households (%),Percentage (%),Modern facilities and services,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,2.4
 2018,Households (%),Percentage (%),Thermal comfort,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,6.4
-2018,Households (%),Percentage (%),,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,16.6
-2018,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,10.1
-2018,Households (%),Percentage (%),Repair,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,3.0
-2018,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,1.6
-2018,Households (%),Percentage (%),Thermal comfort,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,5.4
+2018,Households (%),Percentage (%),,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,16.6
+2018,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,10.1
+2018,Households (%),Percentage (%),Repair,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,3.0
+2018,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,1.6
+2018,Households (%),Percentage (%),Thermal comfort,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,5.4
 2018,Households (%),Percentage (%),,,,,,,,,White,,,,,,Normal value,,17.5
 2018,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,White,,,,,,Normal value,,10.6
 2018,Households (%),Percentage (%),Repair,,,,,,,,White,,,,,,Normal value,,3.2
@@ -3214,11 +3266,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2019,Households (%),Percentage (%),Repair,,,,,,,,,Lone parent,,,,,Normal value,,3.5
 2019,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Lone parent,,,,,Normal value,,1.6
 2019,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Lone parent,,,,,Normal value,,3.6
-2019,Households (%),Percentage (%),,,,,,,,,,Multi to person household,,,,,Normal value,,17.0
-2019,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi to person household,,,,,Normal value,,12.1
-2019,Households (%),Percentage (%),Repair,,,,,,,,,Multi to person household,,,,,Normal value,,2.7
-2019,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Multi to person household,,,,,Normal value,,2.4
-2019,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi to person household,,,,,Normal value,,4.2
+2019,Households (%),Percentage (%),,,,,,,,,,Multi-person household,,,,,Normal value,,17.0
+2019,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi-person household,,,,,Normal value,,12.1
+2019,Households (%),Percentage (%),Repair,,,,,,,,,Multi-person household,,,,,Normal value,,2.7
+2019,Households (%),Percentage (%),Modern facilities and services,,,,,,,,,Multi-person household,,,,,Normal value,,2.4
+2019,Households (%),Percentage (%),Thermal comfort,,,,,,,,,Multi-person household,,,,,Normal value,,4.2
 2019,Households (%),Percentage (%),,,,,,,,,,One person under 60,,,,,Normal value,,19.8
 2019,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,One person under 60,,,,,Normal value,,10.6
 2019,Households (%),Percentage (%),Repair,,,,,,,,,One person under 60,,,,,Normal value,,4.8
@@ -3309,11 +3361,11 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2019,Households (%),Percentage (%),Repair,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,3.4
 2019,Households (%),Percentage (%),Modern facilities and services,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,3.0
 2019,Households (%),Percentage (%),Thermal comfort,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,5.4
-2019,Households (%),Percentage (%),,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,16.2
-2019,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,9.8
-2019,Households (%),Percentage (%),Repair,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,3.1
-2019,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,1.7
-2019,Households (%),Percentage (%),Thermal comfort,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,5.2
+2019,Households (%),Percentage (%),,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,16.2
+2019,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,9.8
+2019,Households (%),Percentage (%),Repair,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,3.1
+2019,Households (%),Percentage (%),Modern facilities and services,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,1.7
+2019,Households (%),Percentage (%),Thermal comfort,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,5.2
 2019,Households (%),Percentage (%),,,,,,,,,White,,,,,,Normal value,,16.6
 2019,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,White,,,,,,Normal value,,9.9
 2019,Households (%),Percentage (%),Repair,,,,,,,,White,,,,,,Normal value,,3.2
@@ -3381,8 +3433,8 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2020,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Couple with children,,,,,Normal value,,9.0
 2020,Households (%),Percentage (%),,,,,,,,,,Lone parent,,,,,Normal value,,12.7
 2020,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Lone parent,,,,,Normal value,,7.2
-2020,Households (%),Percentage (%),,,,,,,,,,Multi to person household,,,,,Normal value,,15.9
-2020,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi to person household,,,,,Normal value,,11.9
+2020,Households (%),Percentage (%),,,,,,,,,,Multi-person household,,,,,Normal value,,15.9
+2020,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi-person household,,,,,Normal value,,11.9
 2020,Households (%),Percentage (%),,,,,,,,,,One person under 60,,,,,Normal value,,18.8
 2020,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,One person under 60,,,,,Normal value,,11.6
 2020,Households (%),Percentage (%),,,,,,,,,,One person 60 or over,,,,,Normal value,,17.4
@@ -3419,8 +3471,8 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2020,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,,,,,Not workless,Normal value,,8.9
 2020,Households (%),Percentage (%),,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,15.3
 2020,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,8.7
-2020,Households (%),Percentage (%),,,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,15.0
-2020,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non to disabled (GSS harmonised),,,,,,,Normal value,,9.5
+2020,Households (%),Percentage (%),,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,15.0
+2020,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,9.5
 2020,Households (%),Percentage (%),,,,,,,,,Asian,,,,,,Normal value,,18.1
 2020,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,Asian,,,,,,Normal value,,10.5
 2020,Households (%),Percentage (%),,,,,,,,,Black,,,,,,Normal value,,20.7
@@ -3445,3 +3497,75 @@ Year,Series,Units,Decent homes criteria,Sub to national area,Region,Urbanisation
 2020,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,,,30 or more years,,,Normal value,,11.9
 2020,Households (%),Percentage (%),,,,,,,,,,,,,,,Normal value,,15.1
 2020,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,,,,,,Normal value,,9.2
+2021,Households (%),Percentage (%),,,,,,,,,,Couple under 60,,,,,Normal value,,13.6
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Couple under 60,,,,,Normal value,,8.8
+2021,Households (%),Percentage (%),,,,,,,,,,Couple 60 or over,,,,,Normal value,,12.3
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Couple 60 or over,,,,,Normal value,,8.5
+2021,Households (%),Percentage (%),,,,,,,,,,Couple with children,,,,,Normal value,,11.6
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Couple with children,,,,,Normal value,,8.7
+2021,Households (%),Percentage (%),,,,,,,,,,Lone parent,,,,,Normal value,,14.7
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Lone parent,,,,,Normal value,,9.3
+2021,Households (%),Percentage (%),,,,,,,,,,Multi-person household,,,,,Normal value,,14.1
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,Multi-person household,,,,,Normal value,,9.9
+2021,Households (%),Percentage (%),,,,,,,,,,One person under 60,,,,,Normal value,,19.8
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,One person under 60,,,,,Normal value,,13.3
+2021,Households (%),Percentage (%),,,,,,,,,,One person 60 or over,,,,,Normal value,,15.4
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,One person 60 or over,,,,,Normal value,,8.7
+2021,Households (%),Percentage (%),,,,,59 and under,,,,,,,,,,Normal value,,14.7
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,59 and under,,,,,,,,,,Normal value,,10.0
+2021,Households (%),Percentage (%),,,,,60 and over,,,,,,,,,,Normal value,,13.9
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,60 and over,,,,,,,,,,Normal value,,8.8
+2021,Households (%),Percentage (%),,,,,75 and over,,,,,,,,,,Normal value,,13.9
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,75 and over,,,,,,,,,,Normal value,,8.7
+2021,Households (%),Percentage (%),,,,,,4 and under,,,,,,,,,Normal value,,12.7
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,4 and under,,,,,,,,,Normal value,,9.5
+2021,Households (%),Percentage (%),,,,,,15 and under,,,,,,,,,Normal value,,12.2
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,15 and under,,,,,,,,,Normal value,,8.6
+2021,Households (%),Percentage (%),,,,,,16 and over,,,,,,,,,Normal value,,15.1
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,16 and over,,,,,,,,,Normal value,,9.8
+2021,Households (%),Percentage (%),,,,,,,,,,,1st quintile (lowest),,,,Normal value,,18.2
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,,1st quintile (lowest),,,,Normal value,,11.6
+2021,Households (%),Percentage (%),,,,,,,,,,,2nd quintile,,,,Normal value,,14.9
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,,2nd quintile,,,,Normal value,,9.7
+2021,Households (%),Percentage (%),,,,,,,,,,,3rd quintile,,,,Normal value,,15.0
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,,3rd quintile,,,,Normal value,,10.1
+2021,Households (%),Percentage (%),,,,,,,,,,,4th quintile,,,,Normal value,,13.3
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,,4th quintile,,,,Normal value,,9.1
+2021,Households (%),Percentage (%),,,,,,,,,,,5th quintile (highest),,,,Normal value,,10.8
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,,5th quintile (highest),,,,Normal value,,7.3
+2021,Households (%),Percentage (%),,,,,,,,,,,,,Living in poverty,,Normal value,,17.9
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,,,,Living in poverty,,Normal value,,11.1
+2021,Households (%),Percentage (%),,,,,,,,,,,,,Not living in poverty,,Normal value,,13.6
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,,,,Not living in poverty,,Normal value,,9.2
+2021,Households (%),Percentage (%),,,,,,,,,,,,,,Workless,Normal value,,16.0
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,,,,,Workless,Normal value,,9.9
+2021,Households (%),Percentage (%),,,,,,,,,,,,,,Not workless,Normal value,,14.1
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,,,,,Not workless,Normal value,,9.6
+2021,Households (%),Percentage (%),,,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,15.1
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Disabled (GSS harmonised),,,,,,,Normal value,,9.7
+2021,Households (%),Percentage (%),,,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,14.1
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,Non-disabled (GSS harmonised),,,,,,,Normal value,,9.4
+2021,Households (%),Percentage (%),,,,,,,,,Asian,,,,,,Normal value,,16.1
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,Asian,,,,,,Normal value,,9.9
+2021,Households (%),Percentage (%),,,,,,,,,Black,,,,,,Normal value,,11.5
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,Black,,,,,,Normal value,,7.8
+2021,Households (%),Percentage (%),,,,,,,,,Other,,,,,,Normal value,,13.9
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,Other,,,,,,Normal value,,5.0
+2021,Households (%),Percentage (%),,,,,,,,,All minority,,,,,,Normal value,,14.4
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,All minority,,,,,,Normal value,,7.9
+2021,Households (%),Percentage (%),,,,,,,,,White,,,,,,Normal value,,14.4
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,White,,,,,,Normal value,,9.7
+2021,Households (%),Percentage (%),,,,,,,,,,,,Less than 1 year,,,Normal value,,18.7
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,,,Less than 1 year,,,Normal value,,11.1
+2021,Households (%),Percentage (%),,,,,,,,,,,,1 to 4 years,,,Normal value,,14.7
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,,,1 to 4 years,,,Normal value,,9.8
+2021,Households (%),Percentage (%),,,,,,,,,,,,5 to 9 years,,,Normal value,,12.4
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,,,5 to 9 years,,,Normal value,,7.9
+2021,Households (%),Percentage (%),,,,,,,,,,,,10 to 19 years,,,Normal value,,13.8
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,,,10 to 19 years,,,Normal value,,9.4
+2021,Households (%),Percentage (%),,,,,,,,,,,,20 to 29 years,,,Normal value,,13.1
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,,,20 to 29 years,,,Normal value,,9.4
+2021,Households (%),Percentage (%),,,,,,,,,,,,30 or more years,,,Normal value,,16.4
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,,,30 or more years,,,Normal value,,10.7
+2021,Households (%),Percentage (%),,,,,,,,,,,,,,,Normal value,,14.4
+2021,Households (%),Percentage (%),Minimum standard (HHSRS),,,,,,,,,,,,,,Normal value,,9.5

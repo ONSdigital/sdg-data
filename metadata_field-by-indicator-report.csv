@@ -26,7 +26,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #10-a-1,complete,Tier I,"The International Trade Centre (ITC), United Nations Conference on Trade and Development (UNCTAD), World Trade Organization (WTO)",,,United Kingdom,Percentage (%),line,Eurostat
 #10-b-1,complete,Tier I,Organisation for Economic Co-operation and Development (OECD),,,United Kingdom,GBP (£000s),line,"Foreign, Commonwealth & Development Office (FCDO)"
 #10-c-1,complete,Tier I,World Bank (WB),,,United Kingdom,Percentage (%),line,World Bank (WB)
-#11-1-1,complete,Tier I,United Nations Human Settlements Programme (UN-Habitat),,,England,Percentage (%),line,"Department for Levelling Up, Housing and Communities"
+#11-1-1,complete,Tier I,United Nations Human Settlements Programme (UN-Habitat),,,England,Percentage (%),line,"Department for Levelling Up, Housing and Communities (DLUHC)"
 #11-2-1,notstarted,Tier II,United Nations Human Settlements Programme (UN-Habitat),,,,,line,
 #11-3-1,complete,Tier II,United Nations Human Settlements Programme (UN-Habitat),,True,Great Britain,,bar,Ordnance Survey
 #11-3-2,notstarted,Tier II,United Nations Human Settlements Programme (UN-Habitat),,,,,line,
@@ -199,7 +199,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #5-6-2,complete,Tier II,United Nations Population Fund UNFPA,True,,,,line,
 #5-a-1,complete,Tier II,"United Nations Entity for Gender Equality and the Empowerment of Women (UN Women), United Nations Statistics Division (UNSD), Food and Agriculture Organization of the United Nations (FAO)",,,United Kingdom,Percentage (%),line,Office for National Statistics (ONS)
 #5-a-2,complete,Tier II,Food and Agriculture Organization (FAO),True,,Great Britain,,line,
-#5-b-1,complete,Tier II,International Telecommunication Union (ITU),,,United Kingdom,Percentage (%),line,Ofcom
+#5-b-1,complete,Tier II,International Telecommunication Union (ITU),,True,United Kingdom,Percentage (%),line,Ofcom
 #5-c-1,complete,Tier II,"UN Women, Organisation for Economic Co-operation and Development (OECD)",True,,Great Britain,,line,
 #6-1-1,complete,Tier II,"World Health Organisation (WHO), United Nations Children's Fund (UNICEFF)",,,United Kingdom,Percentage (%),line,"WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply, Sanitation and Hygiene"
 #6-2-1,complete,Tier II,"World Health Organisation (WHO), United Nations Children's Fund (UNICEFF)",,,United Kingdom,Percentage (%),line,"WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply, Sanitation and Hygiene"
