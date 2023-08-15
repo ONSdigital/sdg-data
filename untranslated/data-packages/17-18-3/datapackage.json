@@ -15,6 +15,15 @@
             "type": "string"
           },
           {
+            "name": "Funding",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

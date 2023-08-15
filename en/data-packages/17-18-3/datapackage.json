@@ -16,6 +16,16 @@
             "title": "Year"
           },
           {
+            "name": "Funding",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Funding"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
