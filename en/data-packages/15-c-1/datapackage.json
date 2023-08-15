@@ -16,29 +16,46 @@
             "title": "Year"
           },
           {
-            "name": "Import type",
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Convention of International Trade of Endangered Species (CITES) seizures",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Endangered species type",
             "type": "string",
             "constraints": {
               "enum": [
                 "Butterflies",
                 "Caviar and caviar extract",
-                "Ivory and items containing Ivory",
+                "Ivory and items containing ivory",
                 "Live animals and birds",
                 "Live coral and coral derivatives",
                 "Live plants",
                 "Parts or derivatives of animals or birds",
                 "Parts or derivatives of plants",
-                "Preparations of Oriental medicine which include parts and derivatives of endangered species",
+                "Preparations of oriental medicine which include parts and derivatives of endangered species",
                 "Timber or wood products",
                 ""
               ]
             },
-            "title": "Import type"
+            "title": "Endangered species type"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Number of times seized",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Unit multiplier",
