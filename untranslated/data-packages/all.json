@@ -7967,7 +7967,7 @@
             }
           },
           {
-            "name": "Sub-national area",
+            "name": "Sub to national area",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7997,7 +7997,7 @@
             }
           },
           {
-            "name": "Urbanisation sub-category",
+            "name": "Urbanisation sub to category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8060,7 +8060,7 @@
             "constraints": {
               "enum": [
                 "Disabled (GSS harmonised)",
-                "Non-disabled (GSS harmonised)",
+                "Non to disabled (GSS harmonised)",
                 ""
               ]
             }
@@ -8088,7 +8088,7 @@
                 "Couple 60 or over",
                 "Couple with children",
                 "Lone parent",
-                "Multi-person household",
+                "Multi to person household",
                 "One person under 60",
                 "One person 60 or over",
                 ""
