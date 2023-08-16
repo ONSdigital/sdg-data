@@ -1,33 +1,53 @@
-Year,Value,Units,Series,GeoCode,Observation status,Unit multiplier
-2012,96.11530821453358,Percentage (%),All publicly funded schools (%),,Normal value,Units
-2013,95.72182066809924,Percentage (%),All publicly funded schools (%),,Normal value,Units
-2014,95.16773162939296,Percentage (%),All publicly funded schools (%),,Normal value,Units
-2015,94.7117296222664,Percentage (%),All publicly funded schools (%),,Normal value,Units
-2016,94.4433419329232,Percentage (%),All publicly funded schools (%),,Normal value,Units
-2017,95.10213226242416,Percentage (%),All publicly funded schools (%),,Normal value,Units
-2018,95.0081422762316,Percentage (%),All publicly funded schools (%),,Normal value,Units
-2019,94.99206214491828,Percentage (%),All publicly funded schools (%),,Normal value,Units
-2012,97.14463066418374,Percentage (%),Nursery (%),,Normal value,Units
-2013,100.0,Percentage (%),Nursery (%),,Normal value,Units
-2014,100.0,Percentage (%),Nursery (%),,Normal value,Units
-2015,93.33333333333331,Percentage (%),Nursery (%),,Normal value,Units
-2016,100.0,Percentage (%),Nursery (%),,Normal value,Units
-2017,95.85510521112836,Percentage (%),Nursery (%),,Normal value,Units
-2018,96.53743128816424,Percentage (%),Nursery (%),,Normal value,Units
-2019,96.13670133729568,Percentage (%),Nursery (%),,Normal value,Units
-2012,97.6657167005738,Percentage (%),Primary (%),,Normal value,Units
-2013,97.63190693809722,Percentage (%),Primary (%),,Normal value,Units
-2014,97.0539419087137,Percentage (%),Primary (%),,Normal value,Units
-2015,96.78469678469678,Percentage (%),Primary (%),,Normal value,Units
-2016,96.4616003216727,Percentage (%),Primary (%),,Normal value,Units
-2017,97.04208367918804,Percentage (%),Primary (%),,Normal value,Units
-2018,96.94039301044596,Percentage (%),Primary (%),,Normal value,Units
-2019,96.9830873718236,Percentage (%),Primary (%),,Normal value,Units
-2012,95.49743227407458,Percentage (%),Secondary (%),,Normal value,Units
-2013,94.69827586206895,Percentage (%),Secondary (%),,Normal value,Units
-2014,94.05594405594404,Percentage (%),Secondary (%),,Normal value,Units
-2015,93.55408388520972,Percentage (%),Secondary (%),,Normal value,Units
-2016,93.34226988382484,Percentage (%),Secondary (%),,Normal value,Units
-2017,94.13785992212584,Percentage (%),Secondary (%),,Normal value,Units
-2018,94.16201580494264,Percentage (%),Secondary (%),,Normal value,Units
-2019,94.09690272105452,Percentage (%),Secondary (%),,Normal value,Units
+Year,Value,Series,GeoCode,Observation status,Unit measure
+2010 to 2011,96.332,All state-funded schools,,Normal value,Percentage (%)
+2010 to 2011,98.0372,Nursery,,Normal value,Percentage (%)
+2010 to 2011,98.115263410777,Primary,,Normal value,Percentage (%)
+2010 to 2011,95.4821,Secondary,,Normal value,Percentage (%)
+2011 to 2012,96.517,All state-funded schools,,Normal value,Percentage (%)
+2011 to 2012,97.8962,Nursery,,Normal value,Percentage (%)
+2011 to 2012,97.9566749104376,Primary,,Normal value,Percentage (%)
+2011 to 2012,95.788,Secondary,,Normal value,Percentage (%)
+2012 to 2013,96.7255,All state-funded schools,,Normal value,Percentage (%)
+2012 to 2013,97.4779,Nursery,,Normal value,Percentage (%)
+2012 to 2013,98.0572902255668,Primary,,Normal value,Percentage (%)
+2012 to 2013,96.0714,Secondary,,Normal value,Percentage (%)
+2013 to 2014,96.8466,All state-funded schools,,Normal value,Percentage (%)
+2013 to 2014,97.7626,Nursery,,Normal value,Percentage (%)
+2013 to 2014,98.3029480499692,Primary,,Normal value,Percentage (%)
+2013 to 2014,96.1069,Secondary,,Normal value,Percentage (%)
+2014 to 2015,96.5515,All state-funded schools,,Normal value,Percentage (%)
+2014 to 2015,97.1498,Nursery,,Normal value,Percentage (%)
+2014 to 2015,97.9080113555394,Primary,,Normal value,Percentage (%)
+2014 to 2015,95.7972,Secondary,,Normal value,Percentage (%)
+2015 to 2016,96.3715,All state-funded schools,,Normal value,Percentage (%)
+2015 to 2016,97.0069,Nursery,,Normal value,Percentage (%)
+2015 to 2016,97.7315606991084,Primary,,Normal value,Percentage (%)
+2015 to 2016,95.6642,Secondary,,Normal value,Percentage (%)
+2016 to 2017,96.3265,All state-funded schools,,Normal value,Percentage (%)
+2016 to 2017,97.2029,Nursery,,Normal value,Percentage (%)
+2016 to 2017,97.5706088541241,Primary,,Normal value,Percentage (%)
+2016 to 2017,95.7742,Secondary,,Normal value,Percentage (%)
+2017 to 2018,96.6074,All state-funded schools,,Normal value,Percentage (%)
+2017 to 2018,96.6572,Nursery,,Normal value,Percentage (%)
+2017 to 2018,97.7110529725201,Primary,,Normal value,Percentage (%)
+2017 to 2018,96.1623,Secondary,,Normal value,Percentage (%)
+2018 to 2019,96.5957,All state-funded schools,,Normal value,Percentage (%)
+2018 to 2019,97.9303,Nursery,,Normal value,Percentage (%)
+2018 to 2019,97.6050304920575,Primary,,Normal value,Percentage (%)
+2018 to 2019,96.3068,Secondary,,Normal value,Percentage (%)
+2019 to 2020,96.6475,All state-funded schools,,Normal value,Percentage (%)
+2019 to 2020,97.6968,Nursery,,Normal value,Percentage (%)
+2019 to 2020,97.6121370975266,Primary,,Normal value,Percentage (%)
+2019 to 2020,96.3834,Secondary,,Normal value,Percentage (%)
+2020 to 2021,96.8099,All state-funded schools,,Normal value,Percentage (%)
+2020 to 2021,97.4898,Nursery,,Normal value,Percentage (%)
+2020 to 2021,97.7577466397801,Primary,,Normal value,Percentage (%)
+2020 to 2021,96.5547,Secondary,,Normal value,Percentage (%)
+2021 to 2022,97.117,All state-funded schools,,Normal value,Percentage (%)
+2021 to 2022,97.8221,Nursery,,Normal value,Percentage (%)
+2021 to 2022,98.0775809292013,Primary,,Normal value,Percentage (%)
+2021 to 2022,96.8643,Secondary,,Normal value,Percentage (%)
+2022 to 2023,97.1057,All state-funded schools,,Normal value,Percentage (%)
+2022 to 2023,98.1515,Nursery,,Normal value,Percentage (%)
+2022 to 2023,98.0895432323326,Primary,,Normal value,Percentage (%)
+2022 to 2023,96.9041,Secondary,,Normal value,Percentage (%)
