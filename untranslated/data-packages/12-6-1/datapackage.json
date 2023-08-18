@@ -19,18 +19,31 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of companies publishing sustainability reports",
+                "Number of companies publishing sustainability reports, by activity",
                 ""
               ]
             }
           },
           {
-            "name": "Level of reporting",
+            "name": "Activity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Advanced",
-                "Minimum",
+                "Accommodation and food service activities",
+                "Administrative and support service activities",
+                "Agriculture, forestry and fishing",
+                "Arts, entertainment and recreation",
+                "Construction",
+                "Financial and insurance activities",
+                "Human health and social work activities",
+                "Information and communication",
+                "Manufacturing",
+                "Mining and quarrying",
+                "Professional, scientific and technical activities",
+                "Real estate activities",
+                "Transportation and storage",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+                "Other service activities",
                 ""
               ]
             }
@@ -46,11 +59,11 @@
             }
           },
           {
-            "name": "Observation status",
+            "name": "Unit multiplier",
             "type": "string"
           },
           {
-            "name": "Unit multiplier",
+            "name": "Observation status",
             "type": "string"
           },
           {

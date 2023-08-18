@@ -3320,10 +3320,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Requesting, agreeing to receive and accepting bribes",
-                "Offering, promising or giving bribes",
-                "Misconduct in a public office",
                 "Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage",
+                "Misconduct in a public office",
+                "Offering, promising or giving bribes",
+                "Requesting, agreeing to receive and accepting bribes",
                 ""
               ]
             },
@@ -15288,23 +15288,36 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of companies publishing sustainability reports",
+                "Number of companies publishing sustainability reports, by activity",
                 ""
               ]
             },
             "title": "Series"
           },
           {
-            "name": "Level of reporting",
+            "name": "Activity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Advanced",
-                "Minimum",
+                "Accommodation and food service activities",
+                "Administrative and support service activities",
+                "Agriculture, forestry and fishing",
+                "Arts, entertainment and recreation",
+                "Construction",
+                "Financial and insurance activities",
+                "Human health and social work activities",
+                "Information and communication",
+                "Manufacturing",
+                "Mining and quarrying",
+                "Professional, scientific and technical activities",
+                "Real estate activities",
+                "Transportation and storage",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+                "Other service activities",
                 ""
               ]
             },
-            "title": "Level of reporting"
+            "title": "Activity"
           },
           {
             "name": "Units",
@@ -15318,14 +15331,14 @@
             "title": "Units"
           },
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "Value",
@@ -16235,18 +16248,6 @@
               ]
             },
             "title": "Series"
-          },
-          {
-            "name": "Urban or Rural",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Urban or Rural"
           },
           {
             "name": "Observation status",

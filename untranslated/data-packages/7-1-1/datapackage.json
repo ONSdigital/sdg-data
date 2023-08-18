@@ -25,17 +25,6 @@
             }
           },
           {
-            "name": "Urban or Rural",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Observation status",
             "type": "string"
           },
