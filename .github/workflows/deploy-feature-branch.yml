@@ -38,8 +38,6 @@ jobs:
         run: |
           rm _site/untranslated/zip/all_indicators.zip
           rm _site/en/zip/all_indicators.zip
-          rm feature-test-zip-temp-fix-data/en/zip/all_indicators.zip
-          rm feature-test-zip-temp-fix-data/untranslated/zip/all_indicators.zip
       - name: Inject slug/short variables
         uses: rlespinasse/github-slug-action@v3.x
       - name: Push data build to S3
