@@ -48,8 +48,6 @@ jobs:
       run: |
         rm _site/untranslated/zip/all_indicators.zip
         rm _site/en/zip/all_indicators.zip
-        rm feature-test-zip-temp-fix-data/en/zip/all_indicators.zip
-        rm feature-test-zip-temp-fix-data/untranslated/zip/all_indicators.zip
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
