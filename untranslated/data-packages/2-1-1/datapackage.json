@@ -19,35 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Median",
-                "Percentile (2.5th)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1.5 to 3",
-                "11 to 18",
-                "19 to 64",
-                "4 to 10",
-                "65 and over",
-                "65 to 74",
-                "75 and over",
+                "Prevalence of undernourishment",
                 ""
               ]
             }
