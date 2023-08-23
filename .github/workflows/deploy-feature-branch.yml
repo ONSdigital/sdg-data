@@ -34,6 +34,10 @@ jobs:
       - name: Build data
         run: |
           python scripts/build_data.py
+      - name: Delete zip files
+        run: |
+          rm _site/untranslated/zip/all_indicators.zip
+          rm _site/en/zip/all_indicators.zip
       - name: Inject slug/short variables
         uses: rlespinasse/github-slug-action@v3.x
       - name: Push data build to S3
