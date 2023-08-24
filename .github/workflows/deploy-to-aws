@@ -1,0 +1,52 @@
+name: Deploy to AWS Test
+
+on:
+  push:
+    branches:
+      - develop-aws
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r scripts/requirements.txt
+    - name: Build data
+      run: |
+        python scripts/build_data.py
+    - name: Place public files
+      run: |
+        cp public/robots-staging.txt _site/robots.txt
+    - name: Push data build to S3
+        uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --acl public-read --follow-symlinks --delete
+        env:
+          # Update this according to the name of your S3 bucket.
+          AWS_S3_BUCKET: uk-sdg-data
+          # Remember to add AWS_ACCESS as a "repository secret".
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS }}
+          # Remember to add AWS_SECRET as a "repository secret".
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET }}
+          SOURCE_DIR: _site
+          DEST_DIR: ${{ env.GITHUB_REF_SLUG }}-data
+    - name: Waiting 4 minutes for staging data deployment
+      run: |
+        sleep 240
+    - name: Rebuild site
+      run: |
+        curl -X POST https://api.github.com/repos/onsdigital/sdg-indicators/dispatches \
+        -H "Accept: application/vnd.github.everest-preview+json" \
+        -H "Authorization: token ${{secrets.token}}" \
+        --data '{"event_type": "rebuild-staging"}'
