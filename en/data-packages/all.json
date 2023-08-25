@@ -23740,6 +23740,282 @@
       "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
     },
     {
+      "path": "3-5-1/data.csv",
+      "name": "3-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Met need (%)",
+                "People in treatment",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Drug group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alcohol",
+                "Opiates",
+                "Non-opiates",
+                ""
+              ]
+            },
+            "title": "Drug group"
+          },
+          {
+            "name": "Local authority",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Barking and Dagenham",
+                "Barnet",
+                "Barnsley",
+                "Bath and North East Somerset",
+                "Bedford",
+                "Bexley",
+                "Birmingham",
+                "Blackburn with Darwen",
+                "Blackpool",
+                "Bolton",
+                "Bournemouth",
+                "Bournemouth, Christchurch and Poole",
+                "Bracknell Forest",
+                "Bradford",
+                "Brent",
+                "Brighton and Hove",
+                "Bristol, City of",
+                "Bromley",
+                "Buckinghamshire",
+                "Bury",
+                "Calderdale",
+                "Cambridgeshire",
+                "Camden",
+                "Central Bedfordshire",
+                "Cheshire East",
+                "Cheshire West and Chester",
+                "City of London",
+                "Cornwall",
+                "County Durham",
+                "Coventry",
+                "Croydon",
+                "Cumbria",
+                "Darlington",
+                "Derby",
+                "Derbyshire",
+                "Devon",
+                "Doncaster",
+                "Dorset",
+                "Dudley",
+                "Ealing",
+                "East Riding of Yorkshire",
+                "East Sussex",
+                "Enfield",
+                "Essex",
+                "Gateshead",
+                "Gloucestershire",
+                "Greenwich",
+                "Hackney",
+                "Halton",
+                "Hammersmith and Fulham",
+                "Hampshire",
+                "Haringey",
+                "Harrow",
+                "Hartlepool",
+                "Havering",
+                "Herefordshire, County of",
+                "Hertfordshire",
+                "Hillingdon",
+                "Hounslow",
+                "Isle of Wight",
+                "Isles of Scilly",
+                "Islington",
+                "Kensington and Chelsea",
+                "Kent",
+                "Kingston Upon Hull, City of",
+                "Kingston Upon Thames",
+                "Kirklees",
+                "Knowsley",
+                "Lambeth",
+                "Lancashire",
+                "Leeds",
+                "Leicester",
+                "Leicestershire",
+                "Lewisham",
+                "Lincolnshire",
+                "Liverpool",
+                "Luton",
+                "Manchester",
+                "Medway",
+                "Merton",
+                "Middlesbrough",
+                "Milton Keynes",
+                "Newcastle Upon Tyne",
+                "Newham",
+                "Norfolk",
+                "North East Lincolnshire",
+                "North Lincolnshire",
+                "North Somerset",
+                "North Tyneside",
+                "North Yorkshire",
+                "Northamptonshire",
+                "Northumberland",
+                "Nottingham",
+                "Nottinghamshire",
+                "Oldham",
+                "Oxfordshire",
+                "Peterborough",
+                "Plymouth",
+                "Poole",
+                "Portsmouth",
+                "Reading",
+                "Redbridge",
+                "Redcar and Cleveland",
+                "Richmond Upon Thames",
+                "Rochdale",
+                "Rotherham",
+                "Rutland",
+                "Salford",
+                "Sandwell",
+                "Sefton",
+                "Sheffield",
+                "Shropshire",
+                "Slough",
+                "Solihull",
+                "Somerset",
+                "South Gloucestershire",
+                "South Tyneside",
+                "Southampton",
+                "Southend-on-Sea",
+                "Southwark",
+                "St. Helens",
+                "Staffordshire",
+                "Stockport",
+                "Stockton-on-Tees",
+                "Stoke-on-Trent",
+                "Suffolk",
+                "Sunderland",
+                "Surrey",
+                "Sutton",
+                "Swindon",
+                "Tameside",
+                "Telford and Wrekin",
+                "Thurrock",
+                "Torbay",
+                "Tower Hamlets",
+                "Trafford",
+                "Wakefield",
+                "Walsall",
+                "Waltham Forest",
+                "Wandsworth",
+                "Warrington",
+                "Warwickshire",
+                "West Berkshire",
+                "West Sussex",
+                "Westminster",
+                "Wigan",
+                "Wiltshire",
+                "Windsor and Maidenhead",
+                "Wirral",
+                "Wokingham",
+                "Wolverhampton",
+                "Worcestershire",
+                "York",
+                "Cornwall & Isles of Scilly",
+                "Bedfordshire",
+                "Cheshire",
+                "North Northamptonshire",
+                "West Northamptonshire",
+                ""
+              ]
+            },
+            "title": "Local authority"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18 and over",
+                "15 to 64",
+                "18 to 29",
+                "30 to 49",
+                "50 and over",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Asian",
+                "Black",
+                "Mixed",
+                "Other",
+                "White",
+                ""
+              ]
+            },
+            "title": "Ethnicity"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                "Number",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
+    },
+    {
       "path": "archived-13-2-1/data.csv",
       "name": "archived-13-2-1",
       "profile": "tabular-data-resource",
@@ -23954,30 +24230,6 @@
         ]
       },
       "title": "Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space"
-    },
-    {
-      "path": "3-5-1/data.csv",
-      "name": "3-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
     }
   ]
 }
