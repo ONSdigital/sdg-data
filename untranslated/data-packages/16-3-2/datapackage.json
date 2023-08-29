@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Age",
             "type": "string",
             "constraints": {
@@ -34,17 +45,6 @@
             }
           },
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Nationality",
             "type": "string",
             "constraints": {
@@ -57,8 +57,14 @@
             }
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Unit multiplier",
