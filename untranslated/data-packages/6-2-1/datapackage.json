@@ -63,7 +63,7 @@
             }
           },
           {
-            "name": "Residence type",
+            "name": "Urban or rural",
             "type": "string",
             "constraints": {
               "enum": [
@@ -72,10 +72,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "Observation status",
-            "type": "string"
           },
           {
             "name": "Units",
@@ -89,6 +85,10 @@
           },
           {
             "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
             "type": "string"
           },
           {

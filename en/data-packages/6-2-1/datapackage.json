@@ -68,7 +68,7 @@
             "title": "Facility type"
           },
           {
-            "name": "Residence type",
+            "name": "Urban or rural",
             "type": "string",
             "constraints": {
               "enum": [
@@ -77,12 +77,7 @@
                 ""
               ]
             },
-            "title": "Residence type"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
+            "title": "Urban or rural"
           },
           {
             "name": "Units",
@@ -99,6 +94,11 @@
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "Value",
