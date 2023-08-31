@@ -65,7 +65,7 @@ Indicator,Disaggregations,Number of disaggregations
 #17-6-1,Speed (Mb/sec),1
 #17-8-1,"Region, Age, Sex, Ethnicity, Local Authority, Ethnic group, Disability status, Employment status",8
 #17-9-1,Country income classification,1
-#2-1-2,"Country, Region, Age, Tenure sub-category, Ethnicity, Food security level, Age group, Ethnic group, Highest qualification, Household composition - children, Number of adults, Number of children, Household composition - adults over State Pension age, Household composition - disabled adults, Household composition - unemployed adults, State support, State support detail, Total gross weekly income, Tenure",19
+#2-1-2,"Country, Region, Age, Tenure, Tenure sub-category, Ethnicity, Food security level, Age group, Ethnic group, Highest qualification, Household composition - children, Number of adults, Number of children, Household composition - adults over State Pension age, Household composition - disabled adults, Household composition - unemployed adults, State support, State support detail, Total gross weekly income",19
 #2-2-1,"Sex, Ethnic group, Urban or rural, Index of Multiple Deprivation (IMD)",4
 #2-2-2,"Country, Sex, Ethnic group, Urban or rural, Type (wasting or overweight), BMI Classifications, IMD Deciles (England), IMD Quintiles",8
 #2-3-1,"Productivity, Outputs, Inputs",3
@@ -88,7 +88,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-6-1,"Country, Region, Age, Sex",4
 #3-7-1,"Region, Age, Local authority, Main method of contraception, Type of contraception",5
 #3-7-2,"Country, Age",2
-#3-8-2,"Age, Disposable income decile, Health product or service, Health product or service category, Health product or service sub-category, Tenure category, Tenure sub-category, Occupation category",8
+#3-8-2,"Age, Disposable income decile, Health product or service, Health product or service category, Health product or service sub-category, Tenure, Tenure sub-category, Occupation",8
 #3-9-1,"Region, Local authority, Deprivation decile",3
 #3-9-2,"Country, Region, Sex, Cause of death",4
 #3-9-3,"Country, Region, Age, Sex, Unintentional poisoning category",5
@@ -130,11 +130,11 @@ Indicator,Disaggregations,Number of disaggregations
 #8-3-1,"Country, Region, Sector, Sex",4
 #8-4-1,Material category,1
 #8-4-2,Material category,1
-#8-5-1,"Country, Region, Age, Sex, Disability status, Occupation, Sex by disability, Working Pattern",8
+#8-5-1,"Country, Region, Age, Sex, Occupation, Disability status, Sex by disability, Working Pattern",8
 #8-5-2,"Country, Region, Age, Sex, Country of birth, Disability status",6
 #8-6-1,"Age, Sex, Seasonally adjusted or not",3
 #8-7-1,"Sex, Type of exploitation",2
-#8-8-1,"Country, Region, Age, Sex, Industry sector, Occupation",6
+#8-8-1,"Country, Region, Age, Sex, Occupation, Industry sector",6
 #8-9-1,Product,1
 #8-a-1,Country income classification,1
 #9-1-1,"Country, Local Authority, Urbanisation (default), Road category",4

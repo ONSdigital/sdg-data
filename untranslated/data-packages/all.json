@@ -615,7 +615,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Lowest ten",
+                "Lowest ten percent",
                 "Second",
                 "Third",
                 "Fourth",
@@ -624,7 +624,7 @@
                 "Seventh",
                 "Eighth",
                 "Ninth",
-                "Highest ten",
+                "Highest ten percent",
                 ""
               ]
             }
@@ -645,7 +645,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Medicines prescriptions and healthcare products",
+                "Medicines, prescriptions and healthcare products",
                 "Spectacles lenses accessories and repairs",
                 "Outpatient services",
                 "Inpatient hospital services",
@@ -660,19 +660,19 @@
               "enum": [
                 "National Health Service (NHS) prescription charges and payments",
                 "Medicines and medical goods (not NHS)",
-                "Other medical products (plasters condoms hot water bottles)",
+                "Other medical products (e.g. plasters, condoms, hot water bottle etc.)",
                 "Nonoptical appliances and equipment (wheelchairs batteries for hearing aids shoe buildup)",
                 "Purchase of spectacles lenses prescription sunglasses",
                 "Accessories or repairs to spectacles or lenses",
-                "National Health Service (NHS) medical optical dental and medical auxiliary services",
-                "Private medical optical dental and medical auxiliary services",
+                "National Health Service (NHS) medical optical, dental and medical auxiliary services",
+                "Private medical optical, dental and medical auxiliary services",
                 "Other services",
                 ""
               ]
             }
           },
           {
-            "name": "Tenure category",
+            "name": "Tenure",
             "type": "string",
             "constraints": {
               "enum": [
@@ -700,7 +700,7 @@
             }
           },
           {
-            "name": "Occupation category",
+            "name": "Occupation",
             "type": "string",
             "constraints": {
               "enum": [
