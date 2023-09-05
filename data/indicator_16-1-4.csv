@@ -95,6 +95,13 @@ Year,Series,Age,Sex,Country of birth,Disability status,Ethnicity,Ethnic group,Ho
 2017/18,Proportion of population who feel safe walking alone after dark,,,,,Other ethnic group,Any other ethnic group,,,,,,Normal value,Units,Percentage (%),,76.27382714
 2017/18,Proportion of population who feel safe walking alone after dark,,,Born in UK,,,,,,,,,Normal value,Units,Percentage (%),,76.15675162
 2017/18,Proportion of population who feel safe walking alone after dark,,,Not born in UK,,,,,,,,,Normal value,Units,Percentage (%),,70.84039142
+2017/18,Proportion of population who feel safe walking alone after dark,,,,,,,"Less than £10,400",,,,,Normal value,Units,Percentage (%),,64.02917865
+2017/18,Proportion of population who feel safe walking alone after dark,,,,,,,"£10,400 to less than £20,800",,,,,Normal value,Units,Percentage (%),,68.3370455
+2017/18,Proportion of population who feel safe walking alone after dark,,,,,,,"£20,800 to less than £31,200",,,,,Normal value,Units,Percentage (%),,75.49064361
+2017/18,Proportion of population who feel safe walking alone after dark,,,,,,,"£31,200 to less than £41,600",,,,,Normal value,Units,Percentage (%),,77.81187157
+2017/18,Proportion of population who feel safe walking alone after dark,,,,,,,"£41,600 to less than £52,000",,,,,Normal value,Units,Percentage (%),,77.74074978
+2017/18,Proportion of population who feel safe walking alone after dark,,,,,,,"£52,000 or more",,,,,Normal value,Units,Percentage (%),,85.34316591
+2017/18,Proportion of population who feel safe walking alone after dark,,,,,,,No income stated or not enough information provided,,,,,Normal value,Units,Percentage (%),,69.07494721
 2018/19,Proportion of population who feel safe walking alone after dark,,,,,,,,East,,,,Normal value,Units,Percentage (%),E12000006,78.28681079754766
 2018/19,Proportion of population who feel safe walking alone after dark,,,,,,,,East Midlands,,,,Normal value,Units,Percentage (%),E12000004,79.30637433402521
 2018/19,Proportion of population who feel safe walking alone after dark,,,,,,,,London,,,,Normal value,Units,Percentage (%),E12000007,74.51738341580496
@@ -339,8 +346,8 @@ Year,Series,Age,Sex,Country of birth,Disability status,Ethnicity,Ethnic group,Ho
 2022/23,Proportion of population who feel safe walking alone after dark,,,,,Asian/Asian British,,,,,,,Normal value,Units,Percentage (%),,80.02047301529034
 2022/23,Proportion of population who feel safe walking alone after dark,,,,,Asian/Asian British,Indian,,,,,,Normal value,Units,Percentage (%),,77.8777017182118
 2022/23,Proportion of population who feel safe walking alone after dark,,,,,Asian/Asian British,Pakistani,,,,,,Normal value,Units,Percentage (%),,83.82075768753474
-2022/23,Proportion of population who feel safe walking alone after dark,,,,,,Bangladeshi,,,,,,Missing value; suppressed,Units,Percentage (%),,
-2022/23,Proportion of population who feel safe walking alone after dark,,,,,,Chinese,,,,,,Missing value; suppressed,Units,Percentage (%),,78.51242006352307
+2022/23,Proportion of population who feel safe walking alone after dark,,,,,Asian/Asian British,Bangladeshi,,,,,,Missing value; suppressed,Units,Percentage (%),,
+2022/23,Proportion of population who feel safe walking alone after dark,,,,,Asian/Asian British,Chinese,,,,,,Missing value; suppressed,Units,Percentage (%),,78.51242006352307
 2022/23,Proportion of population who feel safe walking alone after dark,,,,,Asian/Asian British,Any other Asian background,,,,,,Normal value,Units,Percentage (%),,80.40809203689177
 2022/23,Proportion of population who feel safe walking alone after dark,,,,,Black/African/Caribbean/Black British,,,,,,,Normal value,Units,Percentage (%),,82.74855442546087
 2022/23,Proportion of population who feel safe walking alone after dark,,,,,Black/African/Caribbean/Black British,African,,,,,,Normal value,Units,Percentage (%),,84.09687466243645
@@ -384,8 +391,8 @@ Year,Series,Age,Sex,Country of birth,Disability status,Ethnicity,Ethnic group,Ho
 2022/23,Proportion of population who feel safe walking alone after dark,55 to 64,Male,,,,,,,,,,Normal value,Units,Percentage (%),,91.33558023471046
 2022/23,Proportion of population who feel safe walking alone after dark,65 to 74,Male,,,,,,,,,,Normal value,Units,Percentage (%),,88.44432465031309
 2022/23,Proportion of population who feel safe walking alone after dark,75 and over,Male,,,,,,,,,,Normal value,Units,Percentage (%),,84.55216571226501
-2022/23,Proportion of population who feel safe walking alone after dark,,,,Non-disabled (GSS harmonised),,,,,,,,Normal value,Units,Percentage (%),,65.7728651149982
-2022/23,Proportion of population who feel safe walking alone after dark,,,,Disabled (GSS harmonised),,,,,,,,Normal value,Units,Percentage (%),,82.22950460013439
+2022/23,Proportion of population who feel safe walking alone after dark,,,,Non-disabled (GSS harmonised),,,,,,,,Normal value,Units,Percentage (%),,82.22950460013439
+2022/23,Proportion of population who feel safe walking alone after dark,,,,Disabled (GSS harmonised),,,,,,,,Normal value,Units,Percentage (%),,65.7728651149982
 2022/23,Proportion of population who feel safe walking alone after dark,,,,,,,,,Urban,,,Normal value,Units,Percentage (%),,77.15932041
 2022/23,Proportion of population who feel safe walking alone after dark,,,,,,,,,Rural,,,Normal value,Units,Percentage (%),,87.4779099
 2022/23,Proportion of population who feel safe walking alone after dark,,,,,,,,,,Heterosexual/straight,,Normal value,Units,Percentage (%),,79.4728046864179
