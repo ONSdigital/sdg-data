@@ -20,9 +20,10 @@
             "constraints": {
               "enum": [
                 "Acquaintance violence",
-                "Assault with minor injury or without injury",
+                "Assault with minor injury",
                 "Domestic violence",
                 "Stranger violence",
+                "Violence without injury",
                 "Wounding",
                 ""
               ]
