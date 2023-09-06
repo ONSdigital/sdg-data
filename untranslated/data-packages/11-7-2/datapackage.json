@@ -21,6 +21,7 @@
               "enum": [
                 "Percentage of adults aged 16 to 59 (%)",
                 "Percentage of adults aged 16 to 74 (%)",
+                "Percentage of adults aged 16 and over (%)",
                 ""
               ]
             }
@@ -30,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Female",
+                "Male",
                 ""
               ]
             }
@@ -41,8 +42,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Partner",
                 "Family member",
+                "Partner",
                 ""
               ]
             }
@@ -121,7 +122,7 @@
               "enum": [
                 "North East",
                 "North West",
-                "Yorkshire and the Humber",
+                "Yorkshire and The Humber",
                 "East Midlands",
                 "West Midlands",
                 "East",
@@ -145,6 +146,10 @@
           },
           {
             "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
             "type": "string"
           },
           {
