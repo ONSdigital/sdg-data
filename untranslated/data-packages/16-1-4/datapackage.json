@@ -56,8 +56,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Born in the UK",
-                "Not born in the UK",
+                "Born in UK",
+                "Not born in UK",
                 ""
               ]
             }
@@ -67,8 +67,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Non-disabled (GSS harmonised)",
                 "Disabled (GSS harmonised)",
+                "Non-disabled (GSS harmonised)",
                 ""
               ]
             }
@@ -102,6 +102,14 @@
                 "Caribbean",
                 "Any other ethnic group",
                 "Bangladeshi",
+                "Gypsy or Irish Traveller",
+                "White and Black Caribbean",
+                "White and Black African",
+                "White and Asian",
+                "Any other Mixed/Multiple ethnic background",
+                "Chinese",
+                "Any other Black/African/Caribbean background",
+                "Arab",
                 ""
               ]
             }
@@ -117,6 +125,7 @@
                 "£31,200 to less than £41,600",
                 "£41,600 to less than £52,000",
                 "£52,000 or more",
+                "No income stated or not enough information provided",
                 ""
               ]
             }
@@ -126,16 +135,54 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "East",
-                "East Midlands",
-                "London",
                 "North East",
                 "North West",
+                "Yorkshire and The Humber",
+                "East Midlands",
+                "West Midlands",
+                "East",
+                "London",
                 "South East",
                 "South West",
                 "Wales",
-                "West Midlands",
-                "Yorkshire and The Humber",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Urban or rural",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sexual orientation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Heterosexual/straight",
+                "Gay/Lesbian",
+                "Bisexual",
+                "Other",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Highest qualification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Degree or diploma",
+                "Apprenticeship or A/AS level",
+                "O level/GCSE",
+                "Other",
+                "None",
                 ""
               ]
             }
