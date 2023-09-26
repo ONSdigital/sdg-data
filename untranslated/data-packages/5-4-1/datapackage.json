@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of informal carers by characteristics",
                 "Proportion of population who are informal carers",
+                "Proportion of informal carers by characteristics",
                 ""
               ]
             }
@@ -41,9 +41,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0-10",
                 "0-15",
-                "11-15",
                 "16-24",
                 "25-34",
                 "35-44",
@@ -52,6 +50,8 @@
                 "65-74",
                 "75-84",
                 "85+",
+                "0-10",
+                "11-15",
                 ""
               ]
             }
@@ -77,14 +77,11 @@
                 "0-4 hours",
                 "5-19 hours",
                 "20-34 hours",
-                "20-35 hours",
-                "35-49 hours",
-                "35-50 hours",
-                "50 or more hours",
-                "Unknown",
-                "Varies, 35 or more hours",
                 "Varies, less than 35 hours",
-                "Varies, more than 35 hours",
+                "35-49 hours",
+                "50 or more hours",
+                "Varies, 35 or more hours",
+                "Unknown",
                 ""
               ]
             }
@@ -101,9 +98,9 @@
                 "£200 - £249",
                 "£250 - £299",
                 "£300 - £399",
-                "£300 or more",
                 "£400 - £499",
                 "£500 or more",
+                "£300 or more",
                 ""
               ]
             }
