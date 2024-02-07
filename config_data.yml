@@ -113,9 +113,25 @@ docs_metadata_fields:
       
 datapackage:
   sorting: default
+  
+inputs:
+  - class: InputSdmxMl_Multiple
+    path_pattern: 'data/*.xml'
+    dimension_map:
+      REF_AREA|GH: ''
+    drop_dimensions:
+      - SOURCE_DETAIL
+      - NATURE
+      - FREQ
+      - REPORTING_TYPE
+    drop_singleton_dimensions: true
+    dsd: 'GSS_DSD.xml'
+    import_codes: true
 
 sdmx_output_global:
   column_map: column_mapping.csv
   code_map: code_mapping.csv
   sender_id: UK_ONS
   default_values: {REF_AREA: 826}
+
+  
