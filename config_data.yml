@@ -125,7 +125,7 @@ inputs:
       - FREQ
       - REPORTING_TYPE
     drop_singleton_dimensions: true
-    dsd: 'GSS_DSD.xml'
+    dsd: 'LocalRegistry.xml'
     import_codes: true
 
 sdmx_output_global:
