@@ -1,36 +1,129 @@
-Year,Series,Sex,Unit measure,Units,Unit multiplier,Observation status,Value
-2016,Proportion of population covered by at least one social protection benefit,,Percentage (%),Percentage (%),Percentage (%),Estimated value,93.5
-2020,Proportion of population covered by at least one social protection benefit,,Percentage (%),Percentage (%),Percentage (%),Estimated value,93.5
-2016,Proportion of children/households receiving child/family cash benefit,,Percentage (%),Percentage (%),Percentage (%),Estimated value,100.0
-2020,Proportion of children/households receiving child/family cash benefit,,Percentage (%),Percentage (%),Percentage (%),Estimated value,100.0
-2020,Proportion of children/households receiving child/family cash benefit,Female,Percentage (%),Percentage (%),Percentage (%),Estimated value,100.0
-2020,Proportion of children/households receiving child/family cash benefit,Male,Percentage (%),Percentage (%),Percentage (%),Estimated value,100.0
-2016,Proportion of population with severe disabilities receiving disability cash benefit,,Percentage (%),Percentage (%),Percentage (%),Estimated value,100.0
-2017,Proportion of population with severe disabilities receiving disability cash benefit,,Percentage (%),Percentage (%),Percentage (%),Estimated value,100.0
-2020,Proportion of population with severe disabilities receiving disability cash benefit,,Percentage (%),Percentage (%),Percentage (%),Estimated value,100.0
-2020,Proportion of population with severe disabilities receiving disability cash benefit,Female,Percentage (%),Percentage (%),Percentage (%),Estimated value,100.0
-2020,Proportion of population with severe disabilities receiving disability cash benefit,Male,Percentage (%),Percentage (%),Percentage (%),Estimated value,100.0
-2016,Proportion of mothers with newborns receiving maternity cash benefit,,Percentage (%),Percentage (%),Percentage (%),Estimated value,100.0
-2020,Proportion of mothers with newborns receiving maternity cash benefit,,Percentage (%),Percentage (%),Percentage (%),Estimated value,100.0
-2000,Proportion of population above statutory pensionable age receiving a pension,,Percentage (%),Percentage (%),Percentage (%),Estimated value,98.0
-2013,Proportion of population above statutory pensionable age receiving a pension,,Percentage (%),Percentage (%),Percentage (%),Estimated value,100.0
-2013,Proportion of population above statutory pensionable age receiving a pension,Female,Percentage (%),Percentage (%),Percentage (%),Estimated value,100.0
-2013,Proportion of population above statutory pensionable age receiving a pension,Male,Percentage (%),Percentage (%),Percentage (%),Estimated value,98.7
-2014,Proportion of population above statutory pensionable age receiving a pension,,Percentage (%),Percentage (%),Percentage (%),Estimated value,100.0
-2014,Proportion of population above statutory pensionable age receiving a pension,Female,Percentage (%),Percentage (%),Percentage (%),Estimated value,100.0
-2014,Proportion of population above statutory pensionable age receiving a pension,Male,Percentage (%),Percentage (%),Percentage (%),Estimated value,100.0
-2020,Proportion of population above statutory pensionable age receiving a pension,,Percentage (%),Percentage (%),Percentage (%),Estimated value,100.0
-2020,Proportion of population above statutory pensionable age receiving a pension,Female,Percentage (%),Percentage (%),Percentage (%),Estimated value,100.0
-2020,Proportion of population above statutory pensionable age receiving a pension,Male,Percentage (%),Percentage (%),Percentage (%),Estimated value,100.0
-2016,Proportion of poor population receiving social assistance cash benefit,,Percentage (%),Percentage (%),Percentage (%),Estimated value,100.0
-2000,Proportion of unemployed persons receiving unemployment cash benefit,,Percentage (%),Percentage (%),Percentage (%),Estimated value,68.2
-2005,Proportion of unemployed persons receiving unemployment cash benefit,,Percentage (%),Percentage (%),Percentage (%),Estimated value,61.0
-2007,Proportion of unemployed persons receiving unemployment cash benefit,,Percentage (%),Percentage (%),Percentage (%),Estimated value,53.8
-2009,Proportion of unemployed persons receiving unemployment cash benefit,,Percentage (%),Percentage (%),Percentage (%),Estimated value,65.0
-2010,Proportion of unemployed persons receiving unemployment cash benefit,,Percentage (%),Percentage (%),Percentage (%),Estimated value,61.6
-2011,Proportion of unemployed persons receiving unemployment cash benefit,,Percentage (%),Percentage (%),Percentage (%),Estimated value,60.8
-2014,Proportion of unemployed persons receiving unemployment cash benefit,,Percentage (%),Percentage (%),Percentage (%),Estimated value,60.0
-2020,Proportion of unemployed persons receiving unemployment cash benefit,,Percentage (%),Percentage (%),Percentage (%),Estimated value,56.4
-2016,Proportion of vulnerable population receiving social assistance cash benefit,,Percentage (%),Percentage (%),Percentage (%),Estimated value,76.6
-2020,Proportion of vulnerable population receiving social assistance cash benefit,,Percentage (%),Percentage (%),Percentage (%),Estimated value,76.6
-2019,Proportion of employed population covered in the event of work injury,,Percentage (%),Percentage (%),Percentage (%),Estimated value,68.0
+Year,Speed (Mb/sec),Units,Unit multiplier,Observation status,COMMENT_OBS,Value
+2008,10 Mbps and over,Rate per 100 population,Units,Estimated value,,1.89414
+2009,10 Mbps and over,Rate per 100 population,Units,Estimated value,,9.647780000000001
+2010,10 Mbps and over,Rate per 100 population,Units,Estimated value,,20.0579
+2011,10 Mbps and over,Rate per 100 population,Units,Estimated value,,22.60265
+2012,10 Mbps and over,Rate per 100 population,Units,Estimated value,,25.68619
+2013,10 Mbps and over,Rate per 100 population,Units,Estimated value,,28.0224
+2014,10 Mbps and over,Rate per 100 population,Units,Estimated value,,31.901020000000003
+2015,10 Mbps and over,Rate per 100 population,Units,Estimated value,,35.16583
+2016,10 Mbps and over,Rate per 100 population,Units,Estimated value,,37.01433
+2017,10 Mbps and over,Rate per 100 population,Units,Estimated value,Imputed value,38.229659999999996
+2018,10 Mbps and over,Rate per 100 population,Units,Estimated value,,39.38709
+2019,10 Mbps and over,Rate per 100 population,Units,Estimated value,Experimental value,39.03655
+2020,10 Mbps and over,Rate per 100 population,Units,Estimated value,Experimental value,39.99431
+2021,10 Mbps and over,Rate per 100 population,Units,Estimated value,,40.777359999999994
+2008,Between 2 Mbps and 10 Mbps,Rate per 100 population,Units,Estimated value,,24.7263
+2009,Between 2 Mbps and 10 Mbps,Rate per 100 population,Units,Estimated value,,18.408079999999998
+2010,Between 2 Mbps and 10 Mbps,Rate per 100 population,Units,Estimated value,,10.04115
+2011,Between 2 Mbps and 10 Mbps,Rate per 100 population,Units,Estimated value,,8.66765
+2012,Between 2 Mbps and 10 Mbps,Rate per 100 population,Units,Estimated value,Imputed value,7.50615
+2013,Between 2 Mbps and 10 Mbps,Rate per 100 population,Units,Estimated value,,5.86975
+2014,Between 2 Mbps and 10 Mbps,Rate per 100 population,Units,Estimated value,,4.73402
+2015,Between 2 Mbps and 10 Mbps,Rate per 100 population,Units,Estimated value,,2.64689
+2016,Between 2 Mbps and 10 Mbps,Rate per 100 population,Units,Estimated value,,1.78476
+2017,Between 2 Mbps and 10 Mbps,Rate per 100 population,Units,Estimated value,,1.19137
+2018,Between 2 Mbps and 10 Mbps,Rate per 100 population,Units,Estimated value,,0.63385
+2019,Between 2 Mbps and 10 Mbps,Rate per 100 population,Units,Estimated value,Imputed value,1.25738
+2020,Between 2 Mbps and 10 Mbps,Rate per 100 population,Units,Estimated value,,0.79273
+2021,Between 2 Mbps and 10 Mbps,Rate per 100 population,Units,Estimated value,,0.45078999999999997
+2008,Between 256 Kbps and 2 Mbps,Rate per 100 population,Units,Estimated value,Low reliablity,1.35724
+2009,Between 256 Kbps and 2 Mbps,Rate per 100 population,Units,Estimated value,,0.63622
+2010,Between 256 Kbps and 2 Mbps,Rate per 100 population,Units,Estimated value,,0.38702
+2011,Between 256 Kbps and 2 Mbps,Rate per 100 population,Units,Estimated value,,0.0
+2012,Between 256 Kbps and 2 Mbps,Rate per 100 population,Units,Estimated value,,0.0
+2013,Between 256 Kbps and 2 Mbps,Rate per 100 population,Units,Estimated value,,0.0
+2014,Between 256 Kbps and 2 Mbps,Rate per 100 population,Units,Estimated value,,0.0
+2015,Between 256 Kbps and 2 Mbps,Rate per 100 population,Units,Estimated value,,0.0
+2016,Between 256 Kbps and 2 Mbps,Rate per 100 population,Units,Estimated value,,0.0
+2017,Between 256 Kbps and 2 Mbps,Rate per 100 population,Units,Estimated value,,0.0
+2018,Between 256 Kbps and 2 Mbps,Rate per 100 population,Units,Estimated value,,0.0
+2019,Between 256 Kbps and 2 Mbps,Rate per 100 population,Units,Estimated value,,0.0
+2020,Between 256 Kbps and 2 Mbps,Rate per 100 population,Units,Estimated value,,0.0
+2021,Between 256 Kbps and 2 Mbps,Rate per 100 population,Units,Estimated value,,0.0
+2000,,Rate per 100 population,Units,Estimated value,,0.08987
+2001,,Rate per 100 population,Units,Estimated value,,0.56008
+2002,,Rate per 100 population,Units,Estimated value,,2.28534
+2003,,Rate per 100 population,Units,Estimated value,,5.21997
+2004,,Rate per 100 population,Units,Estimated value,,10.20722
+2005,,Rate per 100 population,Units,Estimated value,,16.39291
+2006,,Rate per 100 population,Units,Estimated value,,21.40166
+2007,,Rate per 100 population,Units,Estimated value,,25.47474
+2008,,Rate per 100 population,Units,Estimated value,Low reliablity,28.03599
+2009,,Rate per 100 population,Units,Estimated value,,28.721490000000003
+2010,,Rate per 100 population,Units,Estimated value,,30.51545
+2011,,Rate per 100 population,Units,Estimated value,,32.532920000000004
+2012,,Rate per 100 population,Units,Estimated value,,33.98543
+2013,,Rate per 100 population,Units,Estimated value,,35.83045
+2014,,Rate per 100 population,Units,Estimated value,,36.635040000000004
+2015,,Rate per 100 population,Units,Estimated value,,37.81272
+2016,,Rate per 100 population,Units,Estimated value,Estimated value,38.79909
+2017,,Rate per 100 population,Units,Estimated value,,39.421040000000005
+2018,,Rate per 100 population,Units,Estimated value,,40.02094
+2019,,Rate per 100 population,Units,Estimated value,,40.293929999999996
+2020,,Rate per 100 population,Units,Estimated value,,40.787040000000005
+2021,,Rate per 100 population,Units,Estimated value,,41.22814
+2008,10 Mbps and over,Number,Units,Normal value,,1169483.0
+2009,10 Mbps and over,Number,Units,Normal value,,6005106.0
+2010,10 Mbps and over,Number,Units,Normal value,,12588345.0
+2011,10 Mbps and over,Number,Units,Normal value,,14304394.0
+2012,10 Mbps and over,Number,Units,Normal value,,16390030.0
+2013,10 Mbps and over,Number,Units,Normal value,,18019050.0
+2014,10 Mbps and over,Number,Units,Normal value,,20663411.0
+2015,10 Mbps and over,Number,Units,Normal value,,22936692.0
+2016,10 Mbps and over,Number,Units,Normal value,,24301833.0
+2017,10 Mbps and over,Number,Units,Estimated value,,25256352.0
+2018,10 Mbps and over,Number,Units,Estimated value,,26166022.0
+2019,10 Mbps and over,Number,Units,Estimated value,,26068085.0
+2020,10 Mbps and over,Number,Units,Estimated value,,26819973.0
+2021,10 Mbps and over,Number,Units,Estimated value,,27435431.0
+2008,Between 256 Kbps and 2 Mbps,Number,Units,Normal value,,837991.0
+2009,Between 256 Kbps and 2 Mbps,Number,Units,Normal value,,396005.0
+2010,Between 256 Kbps and 2 Mbps,Number,Units,Normal value,,242891.0
+2011,Between 256 Kbps and 2 Mbps,Number,Units,Normal value,,0.0
+2012,Between 256 Kbps and 2 Mbps,Number,Units,Estimated value,Estimated value,0.0
+2013,Between 256 Kbps and 2 Mbps,Number,Units,Normal value,,0.0
+2014,Between 256 Kbps and 2 Mbps,Number,Units,Normal value,,0.0
+2015,Between 256 Kbps and 2 Mbps,Number,Units,Normal value,,0.0
+2016,Between 256 Kbps and 2 Mbps,Number,Units,Normal value,,0.0
+2017,Between 256 Kbps and 2 Mbps,Number,Units,Estimated value,,0.0
+2018,Between 256 Kbps and 2 Mbps,Number,Units,Estimated value,,0.0
+2019,Between 256 Kbps and 2 Mbps,Number,Units,Estimated value,,0.0
+2020,Between 256 Kbps and 2 Mbps,Number,Units,Estimated value,,0.0
+2021,Between 256 Kbps and 2 Mbps,Number,Units,Estimated value,,0.0
+2008,Between 2 Mbps and 10 Mbps,Number,Units,Normal value,,15266549.0
+2009,Between 2 Mbps and 10 Mbps,Number,Units,Normal value,,11457811.0
+2010,Between 2 Mbps and 10 Mbps,Number,Units,Normal value,,6301828.0
+2011,Between 2 Mbps and 10 Mbps,Number,Units,Normal value,,5485439.0
+2012,Between 2 Mbps and 10 Mbps,Number,Units,Normal value,,4789579.0
+2013,Between 2 Mbps and 10 Mbps,Number,Units,Normal value,,3774383.0
+2014,Between 2 Mbps and 10 Mbps,Number,Units,Normal value,,3066389.0
+2015,Between 2 Mbps and 10 Mbps,Number,Units,Normal value,,1726418.0
+2016,Between 2 Mbps and 10 Mbps,Number,Units,Normal value,,1171786.0
+2017,Between 2 Mbps and 10 Mbps,Number,Units,Normal value,,787079.0
+2018,Between 2 Mbps and 10 Mbps,Number,Units,Normal value,,421087.0
+2019,Between 2 Mbps and 10 Mbps,Number,Units,Time series break,,839661.0
+2020,Between 2 Mbps and 10 Mbps,Number,Units,Normal value,,531601.0
+2021,Between 2 Mbps and 10 Mbps,Number,Units,Estimated value,,303293.0
+2000,,Number,Units,Normal value,,52890.0
+2001,,Number,Units,Normal value,,330960.0
+2002,,Number,Units,Normal value,,1356481.0
+2003,,Number,Units,Normal value,,3113702.33
+2004,,Number,Units,Normal value,,6123907.0
+2005,,Number,Units,Normal value,,9898653.0
+2006,,Number,Units,Normal value,,13013000.0
+2007,,Number,Units,Normal value,,15606000.0
+2008,,Number,Units,Normal value,,17310023.0
+2009,,Number,Units,Normal value,,17877223.0
+2010,,Number,Units,Normal value,,19151508.0
+2011,,Number,Units,Normal value,,20588901.0
+2012,,Number,Units,Normal value,,21685668.0
+2013,,Number,Units,Normal value,,23039803.0
+2014,,Number,Units,Normal value,,23729800.0
+2015,,Number,Units,Normal value,,24663109.0
+2016,,Number,Units,Normal value,,25473619.0
+2017,,Number,Units,Normal value,,26043431.0
+2018,,Number,Units,Normal value,,26587110.0
+2019,,Number,Units,Normal value,,26907746.0
+2020,,Number,Units,Normal value,,27351574.0
+2021,,Number,Units,Normal value,,27738724.0
