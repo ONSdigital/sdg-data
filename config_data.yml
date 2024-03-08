@@ -119,3 +119,6 @@ sdmx_output_global:
   code_map: code_mapping.csv
   sender_id: UK_ONS
   default_values: {REF_AREA: 826}
+
+ignore_out_of_scope_disaggregation_stats: true
+
