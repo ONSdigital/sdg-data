@@ -66,7 +66,7 @@ map_layers:
 #Local Authority (link: https://hub.arcgis.com/datasets/686603e943f948acaa13fb5d2b0f1275_4)
   - geojson_file: https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/LAD_MAY_2025_UK_BSC_V2/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson
     name_property: lad25nm
-    id_property: lad25cd
+    id_property: LAD25CD
     output_subfolder: local_authorities
     filename_prefix: indicator_
 
