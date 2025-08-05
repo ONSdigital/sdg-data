@@ -58,7 +58,7 @@ map_layers:
     output_subfolder: country
     filename_prefix: indicator_
 #Region (link: https://hub.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4)
-  - geojson_file: https://geoportal.statistics.gov.uk/datasets/5c945b8197394489ab1a743ab0064ec6_0.geojson
+  - geojson_file: https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Regions_December_2017_GCB_in_England_2022/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson
     name_property: rgn17nm
     id_property: rgn17cd
     output_subfolder: regions
