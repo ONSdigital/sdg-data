@@ -65,7 +65,7 @@ map_layers:
     filename_prefix: indicator_
 #Local Authority (link: https://hub.arcgis.com/datasets/686603e943f948acaa13fb5d2b0f1275_4)
   - geojson_file: https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/LAD_Dec_2016_FCB_in_the_UK_WGS84_2022/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson
-    name_property: lad25nm
+    name_property: lad16nm
     id_property: lad16cd
     output_subfolder: local_authorities
     filename_prefix: indicator_
