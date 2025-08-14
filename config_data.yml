@@ -65,8 +65,8 @@ map_layers:
     filename_prefix: indicator_
 #Local Authority (link: https://hub.arcgis.com/datasets/686603e943f948acaa13fb5d2b0f1275_4)
   - geojson_file: geojsons/Local_Authority_Districts_December_2016_GB_BUC_2022_539803951565169620.geojson
-    name_property: lad16nm
-    id_property: lad16cd
+    name_property: LAD16NM
+    id_property: LAD16CD
     output_subfolder: local_authorities
     filename_prefix: indicator_
 
