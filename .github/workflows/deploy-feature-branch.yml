@@ -43,7 +43,7 @@ jobs:
       - name: Push data build to S3
         uses: jakejarvis/s3-sync-action@master
         with:
-          args: --acl public-read --follow-symlinks --delete
+          args: --follow-symlinks --delete
         env:
           # Update this according to the name of your S3 bucket.
           AWS_S3_BUCKET: uk-sdg-feature-branches
