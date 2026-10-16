@@ -62,4 +62,12 @@ jobs:
           GITHUB_ORG: onsdigital
           GITHUB_SITE_REPO: sdg-indicators
           ACCESS_TOKEN: ${{ secrets.token }}
-      
+          SITE_BRANCH: ${{ env.GITHUB_REF_SLUG }}
+        run: |
+          git clone "https://$GITHUB_USERNAME:$ACCESS_TOKEN@github.com/$GITHUB_ORG/$GITHUB_SITE_REPO"
+          cd "$GITHUB_SITE_REPO"
+          git config user.name "Feature branch server"
+          git config user.email "noreply@example.com"
+          git checkout "$SITE_BRANCH" 2>/dev/null || git checkout -b "$SITE_BRANCH"
+          git commit --allow-empty -m "Trigger build"
+          git push origin "$SITE_BRANCH"
